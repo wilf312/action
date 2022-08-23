@@ -2,7 +2,7 @@ name: Sample actions
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   build:
