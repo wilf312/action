@@ -11,5 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Run a one-line script
-        run: echo Hello World!
+
+      - name: arkb
+        if: always()
+        run: |
+          curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> arkb.xml && git add . && git commit -m "ci" && git push
