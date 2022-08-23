@@ -35,7 +35,15 @@ jobs:
           git config --global user.email "g.okada.wilf+github@gmail.com"
           git config --global user.name "okada genya(CI)"
 
+          # あらBfm
           curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> arkb.xml
+          
+          # メディアヌップ
+          curl https://anchor.fm/s/51c8e3c/podcast/rss --compressed >> medianup.xml
+          
+          # rebuild
+          curl https://feeds.rebuild.fm/rebuildfm --compressed >> rebuild.xml
+          
           git add .
           git commit -m "ci"
           git push
