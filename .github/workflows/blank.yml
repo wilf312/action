@@ -31,6 +31,11 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: arkb
-        if: always()
         run: |
-          curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> arkb.xml && git add . && git commit -m "ci" && git push
+          git config --global user.email "g.okada.wilf+github@gmail.com"
+          git config --global user.name "okada genya(CI)"
+
+          curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> arkb.xml
+          git add .
+          git commit -m "ci"
+          git push
