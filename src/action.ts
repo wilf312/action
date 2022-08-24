@@ -10,6 +10,9 @@ on:
     branches: ["main"]
   pull_request:
     branches: ["main"]
+  schedule:
+    # 毎時30分前後に実行
+    - cron: "30 * * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -26,6 +29,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
+      # Denoの読み込み
+      # https://github.com/denoland/setup-deno
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
@@ -37,9 +46,12 @@ jobs:
           git config --global user.name "okada genya(CI)"
 
 ${ymlText}
+          # 書き出したxmlをJSONに変換
+          deno run --allow-write --allow-read src/translate.ts
 
+          # 書き出したファイルをコミットする
           git add .
           git commit -m "ci"
           git push
 `;
-}
+};
