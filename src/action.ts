@@ -51,6 +51,7 @@ ${ymlText}
 
           # 書き出したファイルをコミットする
           if [[ -z $(git status -s) ]]; then
+            echo "no commit change"
             exit 0
           else 
             git add .
