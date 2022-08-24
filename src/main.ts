@@ -15,9 +15,6 @@ const main = async () => {
   await writeUrlList(encoded);
 
   // github actionファイルの書き出し .github/workflows/blank.yml
-
-  // # あらBfm
-  // curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> rss/arkb.xml
   const ymlText = encoded
     .map((d) => {
       return `          # ${d.name}
