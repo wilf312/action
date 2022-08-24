@@ -50,8 +50,12 @@ ${ymlText}
           deno run --allow-write --allow-read src/translate.ts
 
           # 書き出したファイルをコミットする
-          git add .
-          git commit -m "ci"
-          git push
+          if [[ -z $(git status -s) ]]; then
+            exit 0
+          else 
+            git add .
+            git commit -m "ci"
+            git push
+          fi
 `;
 };
