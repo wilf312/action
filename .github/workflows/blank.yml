@@ -36,13 +36,13 @@ jobs:
           git config --global user.name "okada genya(CI)"
 
           # あらBfm
-          curl https://anchor.fm/s/319a2820/podcast/rss --compressed >> rss/arkbfm.xml
+          curl https://anchor.fm/s/319a2820/podcast/rss --compressed > rss/arkbfm.xml
 
           # メディアヌップ
-          curl https://anchor.fm/s/51c8e3c/podcast/rss --compressed >> rss/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8C%E3%83%83%E3%83%97.xml
+          curl https://anchor.fm/s/51c8e3c/podcast/rss --compressed > rss/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8C%E3%83%83%E3%83%97.xml
 
           # rebuild
-          curl https://feeds.rebuild.fm/rebuildfm --compressed >> rss/rebuildfm.xml
+          curl https://feeds.rebuild.fm/rebuildfm --compressed > rss/rebuildfm.xml
 
 
           git add .

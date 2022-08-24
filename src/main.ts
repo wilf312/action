@@ -3,18 +3,13 @@
  * 1. URLリストの書き出し rss/urllist.json
  * 1. github actionファイルの書き出し .github/workflows/blank.yml
  */
-import { urlList } from "./config.ts";
+import { getEncodedUrl } from "./config.ts";
 import { templateAction } from "./action.ts";
 import { writeUrlList, writeAction } from "./write.ts";
 
 const main = async () => {
   // hashをエンコードしたデータを作成
-  const encoded = urlList.map((d) => {
-    return {
-      ...d,
-      hashEncoded: encodeURI(d.hash),
-    };
-  });
+  const encoded = getEncodedUrl();
 
   // URLリストの書き出し rss/url_list.json
   await writeUrlList(encoded);
@@ -26,7 +21,7 @@ const main = async () => {
   const ymlText = encoded
     .map((d) => {
       return `          # ${d.name}
-          curl ${d.url} --compressed >> rss/${d.hashEncoded}.xml
+          curl ${d.url} --compressed > rss/${d.hashEncoded}.xml
 `;
     })
     .join("\n");
