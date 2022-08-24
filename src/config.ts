@@ -1,4 +1,9 @@
-export const urlList = [
+export type UrlListItem = {
+  name: string
+  hash: string
+  url: string
+}
+export const urlList: UrlListItem[] = [
   {
     name: 'あらBfm',
     hash: 'arkbfm',

@@ -5,6 +5,7 @@
  */
 import { urlList } from "./config.ts";
 import { templateAction } from "./action.ts";
+import { writeUrlList, writeAction } from "./write.ts";
 
 const main = async () => {
   // hashをエンコードしたデータを作成
@@ -16,10 +17,7 @@ const main = async () => {
   });
 
   // URLリストの書き出し rss/url_list.json
-  await Deno.writeTextFile(
-    "./rss/url_list.json",
-    JSON.stringify(encoded, null, 2)
-  );
+  await writeUrlList(encoded);
 
   // github actionファイルの書き出し .github/workflows/blank.yml
 
@@ -35,7 +33,7 @@ const main = async () => {
 
   const actionYml = templateAction(ymlText);
 
-  await Deno.writeTextFile(".github/workflows/blank.yml", actionYml);
+  await writeAction(actionYml);
 };
 
 main();
