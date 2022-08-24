@@ -44,6 +44,8 @@ jobs:
           # rebuild
           curl https://feeds.rebuild.fm/rebuildfm --compressed > rss/rebuildfm.xml
 
+          # 書き出したxmlをJSONに変換
+          deno run --allow-write --allow-read src/translate.ts
 
           git add .
           git commit -m "ci"
