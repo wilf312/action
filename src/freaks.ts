@@ -1,0 +1,1307 @@
+export const freaks = {
+  "10xfm": {
+    feed: "https://anchor.fm/s/559fd878/podcast/rss",
+    twitter: null,
+    hashtag: "#10xfm",
+  },
+  "3jumper": {
+    feed: "https://feeds.feedburner.com/3jumper",
+    twitter: "@3jumper",
+    hashtag: "#3jumper",
+  },
+  "46fm": {
+    feed: "https://anchor.fm/s/292515ec/podcast/rss",
+    twitter: "@46fm_",
+    hashtag: "#46fm",
+  },
+  "5656talking": {
+    feed: "https://anchor.fm/s/9a29938/podcast/rss",
+    twitter: null,
+    hashtag: "#ゴロゴロトーキング",
+  },
+  "CEO.FM": {
+    feed: "https://anchor.fm/s/13047d98/podcast/rss",
+    twitter: "@tchikuba",
+    hashtag: "#ceofm",
+  },
+  ForkwellTechCast: {
+    feed: "https://anchor.fm/s/384fa258/podcast/rss",
+    twitter: null,
+    hashtag: "#ForkwellTechCast",
+  },
+  GUlab: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:557063985/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  OSSfm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:302417970/sounds.rss",
+    twitter: null,
+    hashtag: "#OSSfm",
+  },
+  TensorFM: {
+    feed: "https://anchor.fm/s/2e012c40/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  abefm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:213089033/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  accsell: {
+    feed: "https://accsell.net/podcast/itunes.xml",
+    twitter: "@accsell_net",
+    hashtag: null,
+  },
+  "admins-bar": {
+    feed: "http://admins.bar/rss.xml",
+    twitter: "@admnsbar",
+    hashtag: "#adminsbar",
+  },
+  agileradio: {
+    feed: "https://agileradio.github.io/feed.xml",
+    twitter: "@agileradio15",
+    hashtag: "#agileradio",
+  },
+  agiletechchannel: {
+    feed: "https://anchor.fm/s/323917a0/podcast/rss",
+    twitter: null,
+    hashtag: "#あじゃてくちゃんねる",
+  },
+  "ai-radio-by-team-ai": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:102623686/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "ai-sakaba": {
+    feed: "https://www.omnycontent.com/d/playlist/12259a7b-698b-45f2-ba99-aae300e94d94/bb6b7ea5-143f-44e7-a7da-ab0a0031e9c0/ac8f32d3-307b-4520-a9eb-ab0a00325c20/podcast.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  airsap: {
+    feed: "https://airsap.net/feed/podcast/",
+    twitter: null,
+    hashtag: "#AirSap",
+  },
+  ajito: {
+    feed: "https://ajito.fm/index.xml",
+    twitter: "@ajitofm",
+    hashtag: "#ajitofm",
+  },
+  akiaki_radio: {
+    feed: "https://anchor.fm/s/e699a48/podcast/rss",
+    twitter: null,
+    hashtag: "#AKIあきラジオ",
+  },
+  "another-dawn": {
+    feed: "https://h2plus.biz/another-dawn/feed/podcast/",
+    twitter: "@_another_dawn_",
+    hashtag: null,
+  },
+  "antipop-fm": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:188611416/sounds.rss",
+    twitter: null,
+    hashtag: "#antipopfm",
+  },
+  aozorafm: {
+    feed: "https://fortegp05.github.io/aozorafm/feed.xml",
+    twitter: null,
+    hashtag: "#aozorafm",
+  },
+  ariel: {
+    feed: "https://dev.ariel-networks.com/wp/archives/category/podcast/feed",
+    twitter: null,
+    hashtag: null,
+  },
+  arisa_dev: {
+    feed: "https://anchor.fm/s/8c07760/podcast/rss",
+    twitter: "@arisa_dev",
+    hashtag: null,
+  },
+  arkbfm: {
+    feed: "https://anchor.fm/s/319a2820/podcast/rss",
+    twitter: "@arkbfm",
+    hashtag: "#arkbfm",
+  },
+  ashikagacast: {
+    feed: "https://anchor.fm/s/9231960/podcast/rss",
+    twitter: "@ashikagacast",
+    hashtag: "#アシカガCAST",
+  },
+  "autify-podcast": {
+    feed: "https://anchor.fm/s/154fc620/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  automagic: {
+    feed: "https://feedpress.me/automagic",
+    twitter: null,
+    hashtag: "#automagic",
+  },
+  backspace: {
+    feed: "https://feeds.backspace.fm/backspacefm",
+    twitter: "@backspacefm",
+    hashtag: "#backspacefm",
+  },
+  barihebo: {
+    feed: "https://sky-plant.com/podcast/rss20.xml",
+    twitter: null,
+    hashtag: null,
+  },
+  "basuke-s-tech-talk": {
+    feed: "https://anchor.fm/s/4cf7e15c/podcast/rss",
+    twitter: "@basuke",
+    hashtag: "#basuke",
+  },
+  becochan: {
+    feed: "https://channel.becolomochi.com/feed.xml",
+    twitter: null,
+    hashtag: "#becochan",
+  },
+  bitcoiners: {
+    feed: "https://anchor.fm/s/a8b554c/podcast/rss",
+    twitter: null,
+    hashtag: "#ビットコイナー反省会",
+  },
+  bkkcast: {
+    feed: "https://bkkcast.me/index.xml",
+    twitter: "@bkkcast",
+    hashtag: "#bkkcast",
+  },
+  blockchainjam: {
+    feed: "https://blockchainjam.libsyn.com/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "blogging-life": {
+    feed: "https://www.blogging-life.com/podcast/",
+    twitter: null,
+    hashtag: null,
+  },
+  bootfm: {
+    feed: "https://bootfm.github.io/feed.xml",
+    twitter: "@boot_fm",
+    hashtag: "#bootfm",
+  },
+  cafeai: {
+    feed: "https://ear-s.jp/feed/podcast/ai",
+    twitter: null,
+    hashtag: null,
+  },
+  capitalp: {
+    feed: "https://capitalp.jp/feed/podcast",
+    twitter: "@capitalPjp",
+    hashtag: "#capitalp",
+  },
+  "cast-for-fun": {
+    feed: "https://cast-for.fun/feed.xml",
+    twitter: "@castforfun",
+    hashtag: "#castforfun",
+  },
+  clfreaks: {
+    feed: "https://clfreaks.org/rss",
+    twitter: null,
+    hashtag: "#clfreaks",
+  },
+  "coconuts-tech": {
+    feed: "https://anchor.fm/s/4881bfd0/podcast/rss",
+    twitter: "@CoconutsTech",
+    hashtag: "#ココナッツテック",
+  },
+  "codeish-jp": {
+    feed: "https://jp.heroku.com/podcasts/codeish-jp.rss",
+    twitter: "@herokujp",
+    hashtag: null,
+  },
+  "codelunch-fm": {
+    feed: "https://anchor.fm/s/77d9b6c/podcast/rss",
+    twitter: null,
+    hashtag: "#codelunchfm",
+  },
+  "community-drive": {
+    feed: "https://community-drive.com/feed/",
+    twitter: null,
+    hashtag: "#cmntdrv",
+  },
+  "conne-radi": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:206584965/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "cookpad-design-radio": {
+    feed: "https://anchor.fm/s/603e2d70/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  corklab: {
+    feed: "http://corklab.seesaa.net/index20.rdf",
+    twitter: null,
+    hashtag: null,
+  },
+  crescentradio: {
+    feed: "https://anchor.fm/s/b0e4c40/podcast/rss",
+    twitter: null,
+    hashtag: "#三日月ラジオ",
+  },
+  cyberspacecowboys: {
+    feed: "https://feeds.feedburner.com/weblogs/csc",
+    twitter: "@csc_bot",
+    hashtag: "#電カー",
+  },
+  cybozudesign: {
+    feed: "https://feed.podbean.com/cybozudesign/feed.xml",
+    twitter: null,
+    hashtag: null,
+  },
+  datafriday: {
+    feed: "https://anchor.fm/s/be04308/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  denkiya: {
+    feed: "https://inst-web.com/feed",
+    twitter: "@_Coffee__",
+    hashtag: "#電器屋Walker",
+  },
+  deployfm: {
+    feed: "https://takattata.github.io/deployfm/feed.xml",
+    twitter: "@deploy_fm",
+    hashtag: "#deployfm",
+  },
+  "design-academy": {
+    feed: "https://design-academy.jp/feed/podcast/",
+    twitter: "@DesignAcademyJP",
+    hashtag: "#デザアカラジオ",
+  },
+  "design-fm": {
+    feed: "https://anchor.fm/s/10b9e1b8/podcast/rss",
+    twitter: "@DesignFM_JP",
+    hashtag: null,
+  },
+  designput: {
+    feed: "https://anchor.fm/s/a448aa4/podcast/rss",
+    twitter: "@DesignputCast",
+    hashtag: null,
+  },
+  "devchat-fm": {
+    feed: "https://anchor.fm/s/3b652dc8/podcast/rss",
+    twitter: "@quvo_ubie",
+    hashtag: "#devchatfm",
+  },
+  developerscafe: {
+    feed: "https://anchor.fm/s/8585ef0/podcast/rss",
+    twitter: null,
+    hashtag: "#DevelopersCafe",
+  },
+  devraji: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:230928617/sounds.rss",
+    twitter: null,
+    hashtag: "#デブラジ",
+  },
+  dex: {
+    feed: "https://feeds.feedburner.com/dexfm",
+    twitter: "@dexfmpodcast",
+    hashtag: "#dexfm",
+  },
+  "diverse-inc": {
+    feed: "https://podcast.diverse-inc.com/feed.xml",
+    twitter: "@diverse_inc",
+    hashtag: "#diverse_inc",
+  },
+  dojocast: {
+    feed: "https://coderdojo.jp/podcasts.rss",
+    twitter: "@dojocast",
+    hashtag: "#DojoCast",
+  },
+  dokanai: {
+    feed: "https://anchor.fm/s/bafd2a4/podcast/rss",
+    twitter: null,
+    hashtag: "#dokanai",
+  },
+  dongurifm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss",
+    twitter: "@dongurifm",
+    hashtag: "#dongurifm",
+  },
+  "dosync-radio": {
+    feed: "https://anchor.fm/s/c133c40/podcast/rss",
+    twitter: "@dosync_radio",
+    hashtag: "#dosync_radio",
+  },
+  "dot-join-fm": {
+    feed: "https://anchor.fm/s/644ba85c/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  dotlike_podcast: {
+    feed: "https://dotlike.ch/feed.xml",
+    twitter: "@dotlike_podcast",
+    hashtag: "#dotlike",
+  },
+  "double-m2ml": {
+    feed: "https://anchor.fm/s/5706ff0c/podcast/rss",
+    twitter: "@double_m2ml",
+    hashtag: "#double_m2fm",
+  },
+  "droidkaigi-fm": {
+    feed: "https://droidkaigi.jp/fm/feed.xml",
+    twitter: "@DroidKaigi",
+    hashtag: "#droidkaigi",
+  },
+  "e34-fm": {
+    feed: "https://e34.fm/rss.xml",
+    twitter: "@e34fm",
+    hashtag: "#e34fm",
+  },
+  "elle-height": {
+    feed: "https://feedpress.me/elle-height",
+    twitter: null,
+    hashtag: "#elleheight",
+  },
+  emfm: {
+    feed: "https://anchor.fm/s/70a2c40/podcast/rss",
+    twitter: "@DevEmfm",
+    hashtag: "#EMFM",
+  },
+  "engineer-meeting": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:117239062/sounds.rss",
+    twitter: "@engineermeeting",
+    hashtag: "#engineermeeting",
+  },
+  "es-FM": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:161637047/sounds.rss",
+    twitter: null,
+    hashtag: "#エスノエフエム",
+  },
+  "fan-tech": {
+    feed: "https://anchor.fm/s/11ba73c0/podcast/rss",
+    twitter: null,
+    hashtag: "#ふぁんfm",
+  },
+  "fmfm.fm": {
+    feed: "https://anchor.fm/s/5c16f0c4/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "free-engineer": {
+    feed: "https://free-engineer.xrea.jp/feed/podcast",
+    twitter: null,
+    hashtag: "#テクフリ",
+  },
+  "frikaeri-am": {
+    feed: "https://anchor.fm/s/124f0170/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "frontend-lunch": {
+    feed: "https://hatena.github.io/frontend-lunch/feed.xml",
+    twitter: null,
+    hashtag: "#frontend_lunch",
+  },
+  fukabori: {
+    feed: "https://fukabori.fm/feed.xml",
+    twitter: null,
+    hashtag: "#fukabori",
+  },
+  "gaiax-tech": {
+    feed: "https://anchor.fm/s/d41b3e4/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "geek-na-engineer-wo-mezasu-fm": {
+    feed: "https://anchor.fm/s/1726edc0/podcast/rss",
+    twitter: "@gef_fm",
+    hashtag: "#geek_engineer",
+  },
+  "girls-do-it": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:222198750/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "good-to-great": {
+    feed: "https://anchor.fm/s/11decd38/podcast/rss",
+    twitter: "@yusuke_horie",
+    hashtag: null,
+  },
+  goryugocom: {
+    feed: "https://anchor.fm/s/2e56f6c/podcast/rss",
+    twitter: null,
+    hashtag: "#ごりゅごcast",
+  },
+  gunosy: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:307374194/sounds.rss",
+    twitter: null,
+    hashtag: "#gunosyfm",
+  },
+  haijico: {
+    feed: "https://export.fm/feed",
+    twitter: "@exportfm",
+    hashtag: "#exportfm",
+  },
+  "happy-tech-talkers-podcast": {
+    feed: "https://anchor.fm/s/2b4e09c8/podcast/rss",
+    twitter: "@httpradio",
+    hashtag: "#httpradio",
+  },
+  hbSAKABA: {
+    feed: "https://heartbeats.jp/hbsakaba/rss.xml",
+    twitter: "@heartbeatsjp",
+    hashtag: "#hbsakaba",
+  },
+  "hikifune.fm": {
+    feed: "https://anchor.fm/s/8d50d4c/podcast/rss",
+    twitter: null,
+    hashtag: "#hikifunefm",
+  },
+  hiromaeda: {
+    feed: "https://hiromaeda.com/feed/podcast/",
+    twitter: null,
+    hashtag: null,
+  },
+  "hitokuchi-pki": {
+    feed: "https://anchor.fm/s/42b89b8c/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "hiyokoMofu-fm": {
+    feed: "https://mofumofu2.github.io/hiyokoMofu-fm/feed.xml",
+    twitter: null,
+    hashtag: "#hiyokoMofufm",
+  },
+  hukugyo: {
+    feed: "https://anchor.fm/s/bcea1c0/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "ia-podcast": {
+    feed: "https://feeds.feedburner.com/InformationArchitectsPodcast",
+    twitter: null,
+    hashtag: null,
+  },
+  "ibm-developer-podcast": {
+    feed: "https://feeds.transistor.fm/ibm-developer-podcast-japanese-edition",
+    twitter: null,
+    hashtag: null,
+  },
+  "idobata-angel": {
+    feed: "https://anchor.fm/s/115fb41c/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  ie69: {
+    feed: "https://anchor.fm/s/2ffc8710/podcast/rss",
+    twitter: null,
+    hashtag: "#ie69",
+  },
+  inakafm: {
+    feed: "https://komatatsu.github.io/inaka-fm/feed.xml",
+    twitter: "@inaka_fm",
+    hashtag: "#田舎fm",
+  },
+  interaxion: {
+    feed: "https://anchor.fm/s/138b2640/podcast/rss",
+    twitter: "@interaxion",
+    hashtag: "#interaxion",
+  },
+  isyumi: {
+    feed: "https://feed.podbean.com/isyumi/feed.xml",
+    twitter: null,
+    hashtag: null,
+  },
+  "it-kei-online-daigakusei": {
+    feed: "https://anchor.fm/s/1a23e94c/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  jammingfm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:588841827/sounds.rss",
+    twitter: null,
+    hashtag: "#jammingfm",
+  },
+  jinseifm: {
+    feed: "https://kirimin.github.io/jinseifm/feed",
+    twitter: "@jinseifm",
+    hashtag: "#jinseifm",
+  },
+  "just4fun.fm": {
+    feed: "https://anchor.fm/s/5d5de14/podcast/rss",
+    twitter: null,
+    hashtag: "#just4funfm",
+  },
+  kakakikikeke: {
+    feed: "https://kakakikikeke.com/podcast/feed",
+    twitter: "@kakakikikeke",
+    hashtag: null,
+  },
+  "kane-sandbox": {
+    feed: "https://anchor.fm/s/82469c4/podcast/rss",
+    twitter: null,
+    hashtag: "#RadioSandbox",
+  },
+  kappa: {
+    feed: "https://www.kappa.info-engineer.jp/feed/podcast",
+    twitter: null,
+    hashtag: null,
+  },
+  karino2: {
+    feed: "https://anchor.fm/s/68ce140/podcast/rss",
+    twitter: null,
+    hashtag: "#プログラム雑談",
+  },
+  "keep-alive-fm": {
+    feed: "https://anchor.fm/s/2e9d2654/podcast/rss",
+    twitter: null,
+    hashtag: "#keepalivefm",
+  },
+  kepc: {
+    feed: "https://kepc.mookmookradio.com/feed/",
+    twitter: null,
+    hashtag: "#mook05",
+  },
+  kimagurefm: {
+    feed: "https://anchor.fm/s/31978840/podcast/rss",
+    twitter: "@kimagurefm",
+    hashtag: "#キマグレエフエム",
+  },
+  kinokoru: {
+    feed: "https://anchor.fm/s/a7f362c/podcast/rss",
+    twitter: "@kinokorufm",
+    hashtag: "#きのこる",
+  },
+  kinsuki: {
+    feed: "https://anchor.fm/s/7aac524/podcast/rss",
+    twitter: "@kinsukicom",
+    hashtag: null,
+  },
+  "koiki-fm": {
+    feed: "https://anchor.fm/s/713a0f4/podcast/rss",
+    twitter: "@koikifm",
+    hashtag: "#小粋fm",
+  },
+  kumocast: {
+    feed: "https://feeds.feedburner.com/tumblr/IkZP",
+    twitter: "@kumocast",
+    hashtag: "#kumocast",
+  },
+  kyashfm: {
+    feed: "https://anchor.fm/s/4d007e0c/podcast/rss",
+    twitter: null,
+    hashtag: "#kyashfm",
+  },
+  lnlpninja: {
+    feed: "https://anchor.fm/s/5a86bb4/podcast/rss",
+    twitter: "@lnlpninja",
+    hashtag: "#lnlpninja",
+  },
+  machimachifm: {
+    feed: "https://anchor.fm/s/1d02a450/podcast/rss",
+    twitter: null,
+    hashtag: "#マチマチFM",
+  },
+  marblehatfm: {
+    feed: "https://anchor.fm/s/b5f2908/podcast/rss",
+    twitter: null,
+    hashtag: "#marblehatfm",
+  },
+  maskedanl: {
+    feed: "https://radiotalk.jp/rss/b1fa8d71cee3137f",
+    twitter: null,
+    hashtag: null,
+  },
+  mazricafm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:466377696/sounds.rss",
+    twitter: "@mazrica_jp",
+    hashtag: "#マツリカfm",
+  },
+  "meands-fm": {
+    feed: "https://meands.fm/feed/podcast",
+    twitter: null,
+    hashtag: "#meands",
+  },
+  meetsfm: {
+    feed: "https://anchor.fm/s/81ca130/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  mentetsu: {
+    feed: "https://anchor.fm/s/5959ffc/podcast/rss",
+    twitter: "@mentetsu_hiroba",
+    hashtag: null,
+  },
+  mercanfm: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:233832821/sounds.rss",
+    twitter: null,
+    hashtag: "#mercanfm",
+  },
+  migrationfm: {
+    feed: "https://migration.fm/feed.xml",
+    twitter: "@migrationfm",
+    hashtag: "#migrationfm",
+  },
+  miraitech: {
+    feed: "https://anchor.fm/s/cdcf4e0/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "miri-radio": {
+    feed: "https://anchor.fm/s/e6398c8/podcast/rss",
+    twitter: null,
+    hashtag: "#miri_radio",
+  },
+  misreading: {
+    feed: "https://misreading.chat/category/episodes/feed/",
+    twitter: null,
+    hashtag: "#misreading",
+  },
+  mitsue: {
+    feed: "https://www.mitsue.co.jp/knowledge/tech_radio/podcast.rss",
+    twitter: null,
+    hashtag: "#ミツエーテックラジオ",
+  },
+  monologura: {
+    feed: "https://anchor.fm/s/e9ee928/podcast/rss",
+    twitter: null,
+    hashtag: "#monologura",
+  },
+  mosa: {
+    feed: "https://mosa.fm/feed.xml",
+    twitter: "@mosafmhq",
+    hashtag: "#mosafm",
+  },
+  mozaic: {
+    feed: "https://feed.mozaic.fm/",
+    twitter: null,
+    hashtag: "#mozaicfm",
+  },
+  msrs: {
+    feed: "https://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml",
+    twitter: null,
+    hashtag: "#MSRS",
+  },
+  "mukimuki-cloud": {
+    feed: "https://anchor.fm/s/10161614/podcast/rss",
+    twitter: null,
+    hashtag: "#cloud弱小",
+  },
+  "music-and-math": {
+    feed: "https://anchor.fm/s/8e9d770c/podcast/rss",
+    twitter: "@music_and_math",
+    hashtag: null,
+  },
+  nanapod: {
+    feed: "https://nanapod.kozyty.com/rss",
+    twitter: "@nanapi_nanapod",
+    hashtag: "#nanapod",
+  },
+  "nanashisan-no-podcast": {
+    feed: "https://feeds.buzzsprout.com/1154831.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  narabazu: {
+    feed: "https://narabazu.com/feed",
+    twitter: "@narabazu",
+    hashtag: "#narabazu",
+  },
+  nashio: {
+    feed: "https://anchor.fm/s/7dd4418/podcast/rss",
+    twitter: null,
+    hashtag: "#成し遂げたいam",
+  },
+  ndsfm: {
+    feed: "https://nagaokadevelopersstudy.github.io/ndsfm/feed.xml",
+    twitter: null,
+    hashtag: "#ndsfm",
+  },
+  nejimakiradio: {
+    feed: "https://anchor.fm/s/5377cc4/podcast/rss",
+    twitter: "@nejimakiradio1",
+    hashtag: "#ポッドもっと",
+  },
+  nextstep: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss",
+    twitter: null,
+    hashtag: "#nextstepfm",
+  },
+  ningengaheta: {
+    feed: "https://ningengaheta.me/feed.xml",
+    twitter: "@ningengahetaFM",
+    hashtag: "#ningengahetafm",
+  },
+  "nishikokura-hironobu": {
+    feed: "https://anchor.fm/s/8a1f470/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  nobolycloud: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:230945921/sounds.rss",
+    twitter: null,
+    hashtag: "#nobolycloud",
+  },
+  noedge: {
+    feed: "https://noedge.matchy.net/feed/podcast",
+    twitter: "@noedgexpodcast",
+    hashtag: "#のたた",
+  },
+  nomadineers: {
+    feed: "https://anchor.fm/s/c2ef00c/podcast/rss",
+    twitter: null,
+    hashtag: "#Nomadineers",
+  },
+  "nominaga-radio": {
+    feed: "https://anchor.fm/s/9e6932c/podcast/rss",
+    twitter: null,
+    hashtag: "#飲みながラジオ",
+  },
+  noracast: {
+    feed: "https://noracast.jp/feed.xml",
+    twitter: "@noracast_",
+    hashtag: "#noracast",
+  },
+  normalizefm: {
+    feed: "https://anchor.fm/s/67a9c1a0/podcast/rss",
+    twitter: "@normalizefm",
+    hashtag: "#normalizeFM",
+  },
+  nounai: {
+    feed: "https://anchor.fm/s/46da39f0/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  nyanyanya: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:100121411/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  offtopicjp: {
+    feed: "https://anchor.fm/s/7369a14/podcast/rss",
+    twitter: "@OffTopicJP",
+    hashtag: null,
+  },
+  omoiyarifm: {
+    feed: "https://feeds.feedburner.com/omoiyarifm/",
+    twitter: null,
+    hashtag: "#omoiyarifm",
+  },
+  ossanfm: {
+    feed: "https://ossan.fm/feed.xml",
+    twitter: null,
+    hashtag: "#ossanfm",
+  },
+  otakumode: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:361589768/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "outer-heaven.fm": {
+    feed: "https://outerheavenproject.github.io/podcast/index.xml",
+    twitter: null,
+    hashtag: "#outerheavenfm",
+  },
+  oyakataam: {
+    feed: "https://anchor.fm/s/751e148/podcast/rss",
+    twitter: null,
+    hashtag: "#oyakataam",
+  },
+  "php-genba": {
+    feed: "https://php-genba.shin1x1.com/rss",
+    twitter: null,
+    hashtag: "#phpgenba",
+  },
+  "php-manual": {
+    feed: "https://php-manual.necomori.asia/feed/podcast/",
+    twitter: null,
+    hashtag: "#phpondoc",
+  },
+  pilotboat_cast: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:233003387/sounds.rss",
+    twitter: "@pilotboat_su",
+    hashtag: "#pilotboat",
+  },
+  "pod-de-engineer": {
+    feed: "https://anchor.fm/s/12948d58/podcast/rss",
+    twitter: null,
+    hashtag: "#pod_de_engineer",
+  },
+  podpatch: {
+    feed: "https://feedpress.me/podpatch",
+    twitter: null,
+    hashtag: null,
+  },
+  program: {
+    feed: "https://radiotalk.jp/rss/c9506557ae909471",
+    twitter: null,
+    hashtag: null,
+  },
+  propotype: {
+    feed: "https://propo.fm/channels/WUIGJ4FCFi9FRgL1AFy4/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "prototype-fm": {
+    feed: "https://www.prototype.fm/rss",
+    twitter: "@prototype_fm",
+    hashtag: "#prototypefm",
+  },
+  pydatajp: {
+    feed: "https://anchor.fm/s/7b15e98/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  radiotalktechfm: {
+    feed: "https://radiotalk.jp/rss/b4f01deb37cd42ba",
+    twitter: "@radiotalk_tech",
+    hashtag: "#ラジテクFM",
+  },
+  raida: {
+    feed: "https://anchor.fm/s/6dbb77a0/podcast/rss",
+    twitter: null,
+    hashtag: "#0から始めるエンジニア",
+  },
+  randomfacts: {
+    feed: "https://randomfacts.club/feed.xml",
+    twitter: null,
+    hashtag: "#rfclub",
+  },
+  rebuild: {
+    feed: "https://feeds.rebuild.fm/rebuildfm",
+    twitter: "@rebuildfm",
+    hashtag: "#rebuildfm",
+  },
+  "regonn-curry-fm": {
+    feed: "https://anchor.fm/s/bd61590/podcast/rss",
+    twitter: "@regonn_curry",
+    hashtag: "#regonn_curry_fm",
+  },
+  rehashfm: {
+    feed: "https://rehash.fm/feed.xml",
+    twitter: "@rehashfm",
+    hashtag: "#rehashfm",
+  },
+  remarklife: {
+    feed: "https://anchor.fm/s/e7a07c0/podcast/rss",
+    twitter: "@remark_life",
+    hashtag: "#remarklife",
+  },
+  renderfm: {
+    feed: "https://pitpa.jp/rss/renderfm",
+    twitter: null,
+    hashtag: null,
+  },
+  researchatfm: {
+    feed: "https://researchat.fm/feed.xml",
+    twitter: "@researchat_fm",
+    hashtag: "#researchatfm",
+  },
+  "resize-fm": {
+    feed: "https://anchor.fm/s/416f2048/podcast/rss",
+    twitter: "@resizefm",
+    hashtag: "#resizefm",
+  },
+  riywo: {
+    feed: "https://feeds.feedburner.com/RiywosPodcast",
+    twitter: null,
+    hashtag: "#riywo",
+  },
+  rlangradio: {
+    feed: "https://rlangradio.org/feed.xml",
+    twitter: "@rlangradio",
+    hashtag: "#Rラジオ",
+  },
+  "role-model": {
+    feed: "https://storage.googleapis.com/pitpa-215408.appspot.com/podcast/rolemodel/rss/apple/feed.xml",
+    twitter: "@PitPa_jp",
+    hashtag: null,
+  },
+  sakura818uuu: {
+    feed: "https://anchor.fm/s/12fa96d4/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "sansan-tech-podcast": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:554143311/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  saotomeotolife: {
+    feed: "https://anchor.fm/s/3f4b19c/podcast/rss",
+    twitter: null,
+    hashtag: "#さおとめおとらいふ",
+  },
+  scannetsecurity: {
+    feed: "https://ad.robotstart.jp/api/v1/feeds/382f04af/get-feeds/podcast",
+    twitter: null,
+    hashtag: null,
+  },
+  "secure-fm": {
+    feed: "https://anchor.fm/s/2607ca1c/podcast/rss",
+    twitter: null,
+    hashtag: "#secure-brigade",
+  },
+  serverworksradio: {
+    feed: "https://anchor.fm/s/27ea43c8/podcast/rss",
+    twitter: null,
+    hashtag: "#サバワ",
+  },
+  shiganai: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:294673416/sounds.rss",
+    twitter: "@shiganaiRadio",
+    hashtag: "#しがないラジオ",
+  },
+  shinamonoradio: {
+    feed: "https://shinamonoradio.github.io/feed.xml",
+    twitter: "@shinamonolab",
+    hashtag: "#品モノラジオ",
+  },
+  "shinjuku-lt": {
+    feed: "https://shinjuku-lt.github.io/feed.xml",
+    twitter: null,
+    hashtag: "#shinjukult",
+  },
+  "shirokane-kougyou": {
+    feed: "https://shirokane-kougyou.fm/feed.xml",
+    twitter: "@shirokane_fm",
+    hashtag: "#白金鉱業fm",
+  },
+  siliconvalleyrw: {
+    feed: "https://siliconvalleyrw.com/podcast/?feed=podcast",
+    twitter: null,
+    hashtag: null,
+  },
+  "silver-bullet-club": {
+    feed: "https://anchor.fm/s/13df46f8/podcast/rss",
+    twitter: null,
+    hashtag: "#銀の弾丸ラジオ",
+  },
+  snobbyfm: {
+    feed: "https://houka-go-projects.github.io/feed.xml",
+    twitter: "@snobbyfm",
+    hashtag: "#snobbyfm",
+  },
+  sore_ha_sou: {
+    feed: "https://feeds.feedburner.com/BiaccoRadio",
+    twitter: null,
+    hashtag: "#sore_ha_sou",
+  },
+  soussune: {
+    feed: "https://soussune.com/feed.xml",
+    twitter: "@soussunefm",
+    hashtag: "#soussune",
+  },
+  "startup-radio": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:253312552/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "still-rendering": {
+    feed: "https://anchor.fm/s/40a74b4/podcast/rss",
+    twitter: null,
+    hashtag: "#スティレン",
+  },
+  strobofm: {
+    feed: "https://feeds.feedburner.com/strobofm",
+    twitter: "@strobofm",
+    hashtag: "#strobofm",
+  },
+  "strong-strong": {
+    feed: "https://anchor.fm/s/a12ce9c/podcast/rss",
+    twitter: "@strongxstrong_2",
+    hashtag: "#Sto2",
+  },
+  submitslife: {
+    feed: "https://submits.life/feed.xml",
+    twitter: "@submits_life",
+    hashtag: "#submitslife",
+  },
+  subscriber: {
+    feed: "https://anchor.fm/s/84e2304/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  sudachi: {
+    feed: "https://anchor.fm/s/9010910/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  systemand: {
+    feed: "https://systemand.online/feed.xml",
+    twitter: "@system_genius",
+    hashtag: "#systemand",
+  },
+  "tachikawas-environmental-sound": {
+    feed: "https://tachikawa.soramugi.net/feed/podcast/tachikawas-environmental-sound",
+    twitter: null,
+    hashtag: null,
+  },
+  takram: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:257554082/sounds.rss",
+    twitter: null,
+    hashtag: "#takramcast",
+  },
+  tamadesignfm: {
+    feed: "https://anchor.fm/s/216ede50/podcast/rss",
+    twitter: "@tamadesignfm",
+    hashtag: "#たまデザFM",
+  },
+  "tanoshii-works": {
+    feed: "https://anchor.fm/s/73628cc/podcast/rss",
+    twitter: "@tanoshii_works",
+    hashtag: "#たのしいWorks",
+  },
+  taromatsumura: {
+    feed: "https://anchor.fm/s/4feb40c/podcast/rss",
+    twitter: null,
+    hashtag: "#radiotarosite",
+  },
+  tarumaefm: {
+    feed: "https://tarumaefm.com/feed.xml",
+    twitter: null,
+    hashtag: null,
+  },
+  "tech-research": {
+    feed: "https://anchor.fm/s/537fce4/podcast/rss",
+    twitter: null,
+    hashtag: "#techresearchlife",
+  },
+  techbooster: {
+    feed: "https://techbooster.org/feed/podcast/",
+    twitter: "@TechBooster",
+    hashtag: null,
+  },
+  "terapyon-channel-podcast": {
+    feed: "https://anchor.fm/s/14480e04/podcast/rss",
+    twitter: "@terapyon",
+    hashtag: "#terapyon_channel",
+  },
+  testradio: {
+    feed: "https://testradio.fm/feed/",
+    twitter: null,
+    hashtag: "#testradio",
+  },
+  textafm: {
+    feed: "https://anchor.fm/s/330a9488/podcast/rss",
+    twitter: null,
+    hashtag: "#textafm",
+  },
+  "the-potluck-cast": {
+    feed: "https://anchor.fm/s/bf3149c/podcast/rss",
+    twitter: "@ThePotluckUs",
+    hashtag: null,
+  },
+  "the-saas-talent-japan": {
+    feed: "https://anchor.fm/s/4960aa9c/podcast/rss",
+    twitter: null,
+    hashtag: "#allstarsaas",
+  },
+  "the-startup-podcast": {
+    feed: "https://anchor.fm/s/4e5c1c48/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "today-i-learned": {
+    feed: "https://anchor.fm/s/367f0040/podcast/rss",
+    twitter: null,
+    hashtag: "#TodayILearnedFM",
+  },
+  "tofu-ninjin": {
+    feed: "https://tofu-ninjin.netlify.com/feed.xml",
+    twitter: null,
+    hashtag: "#Tofuにんじん",
+  },
+  tofulab: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:254871171/sounds.rss",
+    twitter: "@tofulab_inc",
+    hashtag: null,
+  },
+  toiee: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:181902102/sounds.rss",
+    twitter: "@toiee_lab",
+    hashtag: null,
+  },
+  tokaitomori: {
+    feed: "https://feeds.feedburner.com/podstudio/tm",
+    twitter: null,
+    hashtag: null,
+  },
+  tonightfm: {
+    feed: "https://tonight-fm.github.io/feed.xml",
+    twitter: "@tonight_fm",
+    hashtag: "#tonight_fm",
+  },
+  tool: {
+    feed: "https://radiotalk.jp/rss/0ca5aa4f4b981cb2",
+    twitter: null,
+    hashtag: null,
+  },
+  toralabfm: {
+    feed: "https://anchor.fm/s/46d5ea08/podcast/rss",
+    twitter: null,
+    hashtag: "#toralab_fm",
+  },
+  tsujileaks: {
+    feed: "https://www.tsujileaks.com/?feed=podcast",
+    twitter: null,
+    hashtag: "#セキュリティのアレ",
+  },
+  "tue-ofuro": {
+    feed: "https://anchor.fm/s/2b3dd74c/podcast/rss",
+    twitter: "@tue_ofuro",
+    hashtag: "#tue_ofuro",
+  },
+  turingcomplete: {
+    feed: "https://feeds.turingcomplete.fm/tcfm",
+    twitter: null,
+    hashtag: "#tcfm",
+  },
+  "tyotto-otonari-yokadesuka": {
+    feed: "https://anchor.fm/s/2d066440/podcast/rss",
+    twitter: null,
+    hashtag: "#お隣よかですか",
+  },
+  uchiawasecast: {
+    feed: "https://anchor.fm/s/7fe6eb8/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "uit-inside": {
+    feed: "https://uit-inside.linecorp.com/feed.atom",
+    twitter: null,
+    hashtag: "#uit_inside",
+  },
+  "unifa-e": {
+    feed: "https://podcast.unifa-e.com/feed.xml",
+    twitter: "@UniFa_JP",
+    hashtag: "#unifa_dev",
+  },
+  "van-engineers": {
+    feed: "https://anchor.fm/s/3c24e384/podcast/rss",
+    twitter: "@VanEngineersJP",
+    hashtag: "#バンクーバーのえんじに屋",
+  },
+  voiceofonebutton: {
+    feed: "http://radio.voiceofonebutton.net/index20.rdf",
+    twitter: "@applenewsradio",
+    hashtag: "#obt",
+  },
+  "w2o-fm": {
+    feed: "https://w2o.fm/feed.xml",
+    twitter: null,
+    hashtag: "#w2ofm",
+  },
+  "wantedly-engineering-podcast": {
+    feed: "https://anchor.fm/s/64205bfc/podcast/rss",
+    twitter: "@wantedly_dev",
+    hashtag: null,
+  },
+  wasabi: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:399843516/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  washipo: {
+    feed: "https://washipo.nyoho.jp/podcast.rss",
+    twitter: null,
+    hashtag: "#washipo",
+  },
+  "weekly-ebook-strategy": {
+    feed: "https://feeds.feedburner.com/WeeklyEbookStrategy",
+    twitter: null,
+    hashtag: null,
+  },
+  "windows-podcast": {
+    feed: "https://windows-podcast.com/podcast/feed",
+    twitter: null,
+    hashtag: "#WoodStreamのデジタル生活",
+  },
+  "wired-japan": {
+    feed: "https://anchor.fm/s/c0eda60/podcast/rss",
+    twitter: "@wired_jp",
+    hashtag: null,
+  },
+  wyukawa: {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:224293172/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "x-hack-tokyo-tech-lab": {
+    feed: "https://anchor.fm/s/8aff854/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "x-talk": {
+    feed: "https://anchor.fm/s/97c86bc/podcast/rss",
+    twitter: "@Xtalk11",
+    hashtag: null,
+  },
+  xrfm: {
+    feed: "https://xrfm.github.io/feed.xml",
+    twitter: "@xRfrn",
+    hashtag: "#xRfm",
+  },
+  yancanfm: {
+    feed: "https://www.yancan.tech/feed.xml",
+    twitter: null,
+    hashtag: "#yancanfm",
+  },
+  yarukinaifm: {
+    feed: "https://yarukinai.fm/feed.xml",
+    twitter: null,
+    hashtag: "#yarukinaifm",
+  },
+  yatteiki: {
+    feed: "https://feeds.feedburner.com/Yatteikifm",
+    twitter: "@yatteikifm",
+    hashtag: "#yatteikifm",
+  },
+  yokohamanortham: {
+    feed: "https://anchor.fm/s/1e60bd50/podcast/rss",
+    twitter: null,
+    hashtag: "#yokohamanortham",
+  },
+  yome: {
+    feed: "https://yomefm.github.io/feed.xml",
+    twitter: null,
+    hashtag: "#yomefm",
+  },
+  yomoyamafm: {
+    feed: "https://anchor.fm/s/a0226f0/podcast/rss",
+    twitter: "@yomoyamafm",
+    hashtag: "#よもやまfm",
+  },
+  "yota.fm": {
+    feed: "https://anchor.fm/s/29b688b0/podcast/rss",
+    twitter: null,
+    hashtag: null,
+  },
+  "you-tech": {
+    feed: "https://anchor.fm/s/1e63b1f4/podcast/rss",
+    twitter: "@youtech_20",
+    hashtag: null,
+  },
+  "your-cio": {
+    feed: "https://feeds.soundcloud.com/users/soundcloud:users:201497189/sounds.rss",
+    twitter: null,
+    hashtag: null,
+  },
+  yukaneradio: {
+    feed: "https://anchor.fm/s/7660b00/podcast/rss",
+    twitter: null,
+    hashtag: "#ゆうかねラジオ",
+  },
+  yuru28: {
+    feed: "https://yuru28.com/feed",
+    twitter: "@yuru28club",
+    hashtag: "#yuru28",
+  },
+  yurufuwaan: {
+    feed: "https://anchor.fm/s/203ab1bc/podcast/rss",
+    twitter: "@yurufuwaan",
+    hashtag: "#ゆるふわてとらん",
+  },
+  "zenkei-ai": {
+    feed: "https://feeds.feedburner.com/ZenkeiAiPodcast",
+    twitter: null,
+    hashtag: null,
+  },
+} as const;
