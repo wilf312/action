@@ -90,7 +90,7 @@ jobs:
           curl https://feeds.buzzsprout.com/1154831.rss --compressed > rss/nanapo.xml
 
           # エンジニアと人生
-          curl hthttps://pitpa.jp/rss/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
+          curl https://pitpa.jp/rss/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
 
           # Wantedly Engineering Podcast
           curl https://anchor.fm/s/64205bfc/podcast/rss --compressed > rss/Wantedly_Engineering_Podcast.xml
