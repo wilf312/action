@@ -5,7 +5,7 @@ import type { UrlListItem } from "./config.ts";
  * @param urlList
  * @returns
  */
- export const writeUrlList = (urlList: UrlListItem[]) => {
+export const writeUrlList = (urlList: UrlListItem[]) => {
   return Deno.writeTextFile(
     "./rss/url_list.json",
     JSON.stringify(urlList, null, 2)
