@@ -86,11 +86,11 @@ export const urlList: UrlListItem[] = [
     url: "https://anchor.fm/s/57a9101c/podcast/rss",
   },
 
-  {
-    name: "名無しさんのポッドキャスト",
-    hash: "nanapo",
-    url: "https://feeds.buzzsprout.com/1154831.rss",
-  },
+  // {
+  //   name: "名無しさんのポッドキャスト",
+  //   hash: "nanapo",
+  //   url: "https://feeds.buzzsprout.com/1154831.rss",
+  // },
 
   {
     name: "エンジニアと人生",
@@ -167,7 +167,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "研エンの仲",
     hash: "研エンの仲",
-    url: "https://anchor.fm/ken-en-no-naka",
+    url: "https://anchor.fm/s/2631f634/podcast/rss",
   },
 
   {
@@ -185,7 +185,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "hikifune.fm",
     hash: "hikifunefm",
-    url: "https://anchor.fm/yoheikikuta",
+    url: "https://anchor.fm/s/8d50d4c/podcast/rss",
   },
 
   {

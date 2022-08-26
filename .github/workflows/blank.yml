@@ -86,9 +86,6 @@ jobs:
           # 超相対性理論
           curl https://anchor.fm/s/57a9101c/podcast/rss --compressed > rss/%E8%B6%85%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96.xml
 
-          # 名無しさんのポッドキャスト
-          curl https://feeds.buzzsprout.com/1154831.rss --compressed > rss/nanapo.xml
-
           # エンジニアと人生
           curl https://pitpa.jp/rss/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
 
@@ -126,7 +123,7 @@ jobs:
           curl https://anchor.fm/s/471fb318/podcast/rss --compressed > rss/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E8%A6%B3%E8%A6%A7%E5%B8%AD.xml
 
           # 研エンの仲
-          curl https://anchor.fm/ken-en-no-naka --compressed > rss/%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2.xml
+          curl https://anchor.fm/s/2631f634/podcast/rss --compressed > rss/%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2.xml
 
           # J-WAVE TOPPAN INNOVATION WORLD ERA
           curl https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/ --compressed > rss/era813.xml
@@ -135,7 +132,7 @@ jobs:
           curl http://feeds.feedburner.com/omoiyarifm/ --compressed > rss/omoiyarifm.xml
 
           # hikifune.fm
-          curl https://anchor.fm/yoheikikuta --compressed > rss/hikifunefm.xml
+          curl https://anchor.fm/s/8d50d4c/podcast/rss --compressed > rss/hikifunefm.xml
 
           # 転職透明化ラジオ
           curl https://anchor.fm/s/146371bc/podcast/rss --compressed > rss/%E8%BB%A2%E8%81%B7%E9%80%8F%E6%98%8E%E5%8C%96%E3%83%A9%E3%82%B8%E3%82%AA.xml

@@ -9,6 +9,8 @@ const main = async () => {
   for (var i = urlList.length - 1; i >= 0; i--) {
     const item = urlList[i];
 
+    console.log(item.hashEncoded);
+
     // xmlの読み込み
     const file = await Deno.readTextFile(`rss/${item.hashEncoded}.xml`);
 
