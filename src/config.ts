@@ -95,7 +95,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "エンジニアと人生",
     hash: "エンジニアと人生",
-    url: "hthttps://pitpa.jp/rss/shu223",
+    url: "https://pitpa.jp/rss/shu223",
   },
 
   {
