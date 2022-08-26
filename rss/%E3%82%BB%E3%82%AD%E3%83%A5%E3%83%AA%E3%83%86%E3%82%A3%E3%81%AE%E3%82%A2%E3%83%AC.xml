@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podcast &#8211; #セキュリティのアレ</title>
+	<atom:link href="https://www.tsujileaks.com/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://www.tsujileaks.com</link>
+	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
+	<lastBuildDate>Mon, 22 Aug 2022 11:12:19 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>第146回 お盆明け！いかがお過ごしでしたか？スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1287</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2022 20:00:35 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1287</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・Ransomware Now Threatens the Global[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1287" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1287&amp;text=%E7%AC%AC146%E5%9B%9E%20%E3%81%8A%E7%9B%86%E6%98%8E%E3%81%91%EF%BC%81%E3%81%84%E3%81%8B%E3%81%8C%E3%81%8A%E9%81%8E%E3%81%94%E3%81%97%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1287" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://rusi.org/explore-our-research/publications/commentary/ransomware-now-threatens-global-south/">Ransomware Now Threatens the Global South | Royal United Services Institute</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2022/08/13/023034">従業員を標的にした認証サービスに対するスミッシングについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://support.signal.org/hc/en-us/articles/4850133017242">Twilio Incident: What Signal Users Need to Know – Signal Support</a><br />
+・<a href="https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts">How a Third-Party SMS Service Was Used to Take Over Signal Accounts</a><br />
+・<a href="https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html">Cisco Talos Intelligence Group &#8211; Comprehensive Threat Intelligence: Cisco Talos shares insights related to recent cyber attack on Cisco</a><br />
+・<a href="https://attack.mitre.org/techniques/T1546/008/">Event Triggered Execution: Accessibility Features, Sub-technique T1546.008 &#8211; Enterprise | MITRE ATT&amp;CK®</a><br />
+・<a href="https://products.suntory.co.jp/d/4901777381094/">サントリー果茶 芳醇な白桃 商品情報（カロリー・原材料） サントリー</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/famikara01.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/famikara01-300x170.jpg" alt="" width="300" height="170" class="alignnone size-medium wp-image-1288" srcset="https://www.tsujileaks.com/wp-content/uploads/famikara01-300x170.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/famikara01-1024x580.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/famikara01-768x435.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/famikara01.jpg 1324w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>お盆いかがお過ごしでしたか。ファミマの人に言いました。情報収集の仕方のアップデート。昔はやれると思ってたけど限界を知ることは大事。色々な人が色々な方法をしているけれど最後は自分の型作り。分からないことを分からないと言えること。ハードウェアキー使ってたから大丈夫だぜ！我らがSignal。急に親近感。影響は限定的。3つの電話番号。乗っ取ったアカウントを使って入ってくる情報を見たかったのかな。その先にある攻撃の目的は。7日間ロックですね。利用しているサービスが利用しているサービスで事故が起きると関係あるかが見えにくい。皆さんが使っている安全なメッセージングサービスや利用シーン教えてください。ランサムの名前ってどうやって決めてるんだろう。最近は特にリークサイトに掲載された = ランサウェア感染とは言えないんですよね。めちゃくちゃ連絡された許可！ってしちゃうものなのかな。個人アカウントがどう侵害されたのかが一番気になる。ボットかな。レポート内容はやはりさすが。そういうことを聞きたいんじゃないんだよ。いっぱいのしっぱい。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年08月20日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220822_signalnowa.mp3" length="32387092" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第145回 今日からこのポッドキャストは、TLP:CLEARだ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1276</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 20:00:59 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1276</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・More Privacy and Transparency for D[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1276" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276&amp;text=%E7%AC%AC145%E5%9B%9E%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%81%93%E3%81%AE%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81TLP%3ACLEAR%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1276" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://spreadprivacy.com/more-privacy-and-transparency/">More Privacy and Transparency for DuckDuckGo Web Tracking Protections</a><br />
+・<a href="https://www.first.org/newsroom/releases/20220805">FIRST Releases Traffic Light Protocol Version 2.0 with important updates</a><br />
+・<a href="https://tutanota.com/blog/posts/microsoft-blocks-tutanota-users-from-own-service/">Microsoft blocks Tutanota users from own service: Tutanota users can&#8217;t register a Microsoft Teams account and Microsoft won&#8217;t change this.</a><br />
+・<a href="https://www.coveware.com/blog/2022/7/27/fewer-ransomware-victims-pay-as-medium-ransom-falls-in-q2-2022">Fewer Ransomware Victims Pay, as Median Ransom Falls in Q2 2022</a><br />
+・<a href="https://www.orionbeer.co.jp/story/orion-cider/">沖縄本土復帰前に誕生した「オリオンサイダー」をご存知ですか？ – オリオンストーリー</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/TLPC.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/TLPC.png" alt="" width="217" height="65" class="alignnone size-full wp-image-1278" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>寒暖差激しいのでお気を付けを。もうちょっと話そうや。気になったツイート。まっだまだ届いてない。手を替え品を替え。アイオーティティ。自動アップデートがやはり現実的？ゆーてへんことも書いている辻伸弘メモ。危なさを理由とセットで伝える大切さ。Mark of the Web 対 MARKS&#038;WEB。正真正銘の小ネタ。ボクらのDDGに関するアップデート。最近2.0になったアレ。厳しいほうのアンバー。漫才コンビっぽいな。不満ブログ。便利も安全も万人に提供される。ぶれずにランサム。ランサムアクターに対する向かい風。メリットがデメリットに。攻撃者であっても組織運営は大変そう。身代金を支払うもっともらしい理由を一刀両断。この話はリスナーの方々の組織内でも共有、議論していただきたい。サイバーセキュリティをギャンブルにしてはいけないと思う。「的」ではないアワード。目立たぬようにはしゃがぬように。小粒or二分。ピンとこん表現。いつもと違うバイバイ。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年08月06日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220808_1stTime.mp3" length="32615947" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第144回 条例改正とマクロ遮断と全部乗せ漏洩の影響！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1271</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2022 20:00:45 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1271</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・The State of Stalkerware in 2021 &#124; [...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1271" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271&amp;text=%E7%AC%AC144%E5%9B%9E%20%E6%9D%A1%E4%BE%8B%E6%94%B9%E6%AD%A3%E3%81%A8%E3%83%9E%E3%82%AF%E3%83%AD%E9%81%AE%E6%96%AD%E3%81%A8%E5%85%A8%E9%83%A8%E4%B9%97%E3%81%9B%E6%BC%8F%E6%B4%A9%E3%81%AE%E5%BD%B1%E9%9F%BF%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://securelist.com/the-state-of-stalkerware-in-2021/106193/">The State of Stalkerware in 2021 | Securelist</a><br />
+・<a href="https://stopstalkerware.org/">Coalition Against Stalkerware (EN)</a><br />
+・<a href="https://www.keishicho.metro.tokyo.lg.jp/about_mpd/keiyaku_horei_kohyo/horei_jorei/meiwaku_jorei.html">迷惑防止条例（平成30年7月1日施行） 警視庁</a><br />
+・<a href="https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world">How Threat Actors Are Adapting to a Post-Macro World | Proofpoint US</a><br />
+・<a href="https://www.bleepingcomputer.com/news/microsoft/7-zip-now-supports-windows-mark-of-the-web-security-feature/">7-zip now supports Windows ‘Mark-of-the-Web’ security feature</a><br />
+・<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/">911 Proxy Service Implodes After Disclosing Breach – Krebs on Security</a><br />
+・<a href="https://techcrunch.com/2022/07/26/justalk-spilled-millions-of-user-messages-and-locations-for-months/">JusTalk spilled millions of user messages and locations for months – TechCrunch</a><br />
+・<a href="https://techcrunch.com/2022/07/22/justalk-unencrypted/">Messaging app JusTalk is spilling millions of unencrypted messages – TechCrunch</a><br />
+・<a href="https://www.family.co.jp/goods/chilleddaily/2111070.html">昆布の旨味だし醤油冷やっこセット ｜商品情報｜ファミリーマート</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/hamon.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-1272" srcset="https://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamon-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/hamon.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>ゆーてますけれども。たまには外出てる。日傘使ってた。閉じたほうがいいときもある。モチベにつながるポッドキャスト。みんなハッピー。新作ステッカーも準備してます。お便り頂戴！みなさんのアクティビティが見える共有ありがとうございます。ボクらだけではリーチできないところのほうが多い。現場依存の話ありがとうございます。ストーカーウェア。TinyCheck試したいけどラズパイかなり値上がりしてるんですよね。見てもらいたいという気持ちは個人の趣味嗜好なので頭ごなしにするなとは言いたくない。マルウェアばらまきの新潮流。1675%増とはいえ元の数字が少ない。7zip検討。911終了のお知らせ。終了のしょうもない理由。ジャストーーク!漏洩全部乗せに加えて真っ赤なライアー。評価はたいてい使う前提でされがち。周りが使っているので仕方なくという側面も。シグナ「リ」。出汁醤油が主役。親愛なる隣人豆腐。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月30日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220801_higayakko.mp3" length="34533679" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第143回 勝手に中継点！新たなバラマキと止まったランサム！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1265</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2022 20:00:31 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1265</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・高千穂峡つゆ かつお味うまくち &#124; ヤマエ食品工業株式会社 ・Ille[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1265" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265&amp;text=%E7%AC%AC143%E5%9B%9E%20%E5%8B%9D%E6%89%8B%E3%81%AB%E4%B8%AD%E7%B6%99%E7%82%B9%EF%BC%81%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%90%E3%83%A9%E3%83%9E%E3%82%AD%E3%81%A8%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%9F%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://yamae-foods.net/item/%e9%ab%98%e5%8d%83%e7%a9%82%e5%b3%a1%e3%81%a4%e3%82%86%e3%80%80%e3%81%8b%e3%81%a4%e3%81%8a%e5%91%b3%e3%81%86%e3%81%be%e3%81%8f%e3%81%a1/">高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社</a><br />
+・<a href="https://gric.recherche.usherbrooke.ca/rpaas/">Illegitimate residential proxy services: the case of 911.re and its IOCs</a><br />
+・<a href="https://jsac.jpcert.or.jp/archive/2022/pdf/JSAC2022_3_ino_jp.pdf">国内悪性プロキシサービスとの闘争</a><br />
+・<a href="https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/">Exposing initial access broker with ties to Conti</a><br />
+・<a href="https://www.proofpoint.com/jp/blog/threat-insight/bumblebee-is-still-transforming">マルウェアBumblebeeのトランスフォーム | Proofpoint JP</a><br />
+・<a href="https://elis531989.medium.com/the-chronicles-of-bumblebee-the-hook-the-bee-and-the-trickbot-connection-686379311056">The chronicles of Bumblebee: The Hook, the Bee, and the Trickbot connection | by Eli Salem | Medium</a><br />
+・<a href="https://attack.mitre.org/techniques/T1553/005/">Subvert Trust Controls: Mark-of-the-Web Bypass, Sub-technique T1553.005 &#8211; Enterprise | MITRE ATT&amp;CK®</a><br />
+・<a href="https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion">Anatomy of Attack: Truth Behind the Costa Rica Government Ransomware 5-Day Intrusion</a><br />
+・<a href="https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/">CONTInuing the Bazar Ransomware Story</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/tanktop.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png" alt="" width="300" height="247" class="alignnone size-medium wp-image-1266" srcset="https://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png 300w, https://www.tsujileaks.com/wp-content/uploads/tanktop.png 569w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>猫と仲良くなってます。オチもない話もする。不正アクセスとは。定義の共通認識。窓口運用の勘所。アレルギーこわい。蕎麦屋行きたい。知らないものだらけです。れじでんしゃるぷろくしさーびすとは。プライベートVPN使いっぱであるサービスにブロックされたことある。知らないうちに中継点。全くのダマ。注意喚起があまり届いていない感じ。これ広まると守る側が厄介。皆さんプライベートVPN使ってます？マルウェアのほうのバンブルビー。マルウェアの置き換わり。ISOを使う理由。届いた方こっそり教えてください！手口自体は別のマルウェアが使うことも考慮。収録中にどっかに行ったのかと思った。CONTIとコスタリカの話。今度は戦争だ！耳にタコの脆弱性。典型的感ある。外向けHTTPS通信の中身ってどれくらいの組織が見てるかな。攻撃マニュアルがあることを逆手にとれますね。週休2日攻撃。RedTeam演習ぽさ。こういうのは知っておき、来たらどうするかを考えてほしい。攻撃者をあたふたさせよう。物持ちいいんです。レスラーノウハウ。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月23日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220725_tanktop.mp3" length="33136165" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第142回 釣りと着火点！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1261</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Tue, 19 Jul 2022 20:00:09 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1261</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・フィッシングメールのターゲットを傾向分析してみた &#8211; NI[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1261" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1261&amp;text=%E7%AC%AC142%E5%9B%9E%20%E9%87%A3%E3%82%8A%E3%81%A8%E7%9D%80%E7%81%AB%E7%82%B9%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1261" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://blog.nicter.jp/2022/07/phishing-mail/">フィッシングメールのターゲットを傾向分析してみた &#8211; NICTER Blog</a><br />
+・<a href="https://www.microsoft.com/security/blog/2022/07/12/from-cookie-theft-to-bec-attackers-use-aitm-phishing-sites-as-entry-point-to-further-financial-fraud/">From cookie theft to BEC: Attackers use AiTM phishing sites as entry point to further financial fraud &#8211; Microsoft Security Blog</a><br />
+・<a href="https://flashpoint.io/blog/security-teams-patch-stay-ahead-of-exploitation/">Why Security Teams Need to Patch Faster to Stay Ahead of Exploitation | Flashpoint</a><br />
+・<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog | CISA</a><br />
+・<a href="https://uzuki-shop.jp/">【公式通販】卯月製麺（うづきせいめん）オンラインショップ</a><br />
+・<a href="https://www.ogawaseimen.com/items#item02">商品のご紹介 | 明治二十年創業 山形・小川製麺所 [ Ogawa Seimen ]</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/mm.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/mm-300x296.png" alt="" width="300" height="296" class="alignnone size-medium wp-image-1262" srcset="https://www.tsujileaks.com/wp-content/uploads/mm-300x296.png 300w, https://www.tsujileaks.com/wp-content/uploads/mm.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>草。真相 in the dark。届いたで。編集長に知っていただきたいApple製品のアレ。大事な動機付け。切り取ると半分くらいになるアレ。フィッシングメールの行き先。役職あり、なしの中での比較も欲しいところ。室長フラグ？いろいろなところから情報が集まると見えるもの。敵対者 in  the middle。攻撃者が作成する受信トレイのルール。やっぱPassKeyっすよ。小ネタとはネギ加減でした。脆弱性の公開から手法のリリースまでの期間。守る側のスピード感が上がることでExploitリリースの速度が上がったからではないか。ゼロデイでなければChromeの脆弱性はおいしくないんじゃないか説。宣伝はばっさり割愛。先か後のどちらかに手間をかけるならやっぱり先だと思う。ステッカープレゼントしたらおすすめのアレが返ってきた！蕎麦だけに！</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月17日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220719_macmount.mp3" length="29319768" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第141回 壊れるほどMac Mini使ってしもてた！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1254</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 20:00:32 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1254</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・Apple expands commitment to protect[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1254" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1254&amp;text=%E7%AC%AC141%E5%9B%9E%20%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%BB%E3%81%A9Mac%20Mini%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%97%E3%82%82%E3%81%A6%E3%81%9F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1254" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/">Apple expands commitment to protect users from mercenary spyware &#8211; Apple</a><br />
+・<a href="https://isc.sans.edu/forums/diary/EternalBlue+5+years+after+WannaCry+and+NotPetya/28816/">EternalBlue 5 years after WannaCry and NotPetya &#8211; SANS Internet Storm Center</a><br />
+・<a href="https://twitter.com/ntsuji/status/1544210690583707648">2022年7月の #ランサム リーク確認数</a><br />
+・<a href="https://csirt.ninja/?p=2281">「CONTI」が停止してからの「Hive」と「BlackBasta」について気になったことメモ</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/MminiB.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/MminiB-300x300.png" alt="" width="300" height="300" class="alignnone size-medium wp-image-1255" srcset="https://www.tsujileaks.com/wp-content/uploads/MminiB-300x300.png 300w, https://www.tsujileaks.com/wp-content/uploads/MminiB-150x150.png 150w, https://www.tsujileaks.com/wp-content/uploads/MminiB-144x144.png 144w, https://www.tsujileaks.com/wp-content/uploads/MminiB.png 480w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>OpACSから10年。MSMVP10回目。心境の変化。相談したいこと。結論：買えばいい。収録の後、注文しました。ついでのポテトと同じ感覚じゃないのよ。お便りの半分がコレやねん。隠蔽してって言ったのに。なんでもかんでもサイバーで片付けちゃいけないけど、それほど浸透はしたんかな。利便性は下がるという前提の機能。それほどニーズがありリアルになってきているってことですね。攻殻機動隊でいう自閉モードみたい。使ってみたい。アノ頃のソレ。2位が台湾なのか。ハニポか否か。入れ替えが現実的。これって他にも言えることがありそうです。根岸さんのハニポ情報局。現存しているのは殆ど首無しWannaCry。まさにEternal。違う角度で集計しました。老舗が止まっても手放しでは喜べません。キャストしてSOCごっこできるよ！37zs1で37インチやった…</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月09日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220711_2genius.mp3" length="30431578" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第140回 壊れるほど注意喚起しても1/3も伝わらないという気持ちで！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1248</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 04 Jul 2022 20:00:32 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1248</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・LockBit 3.0 introduces the first ra[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1248" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248&amp;text=%E7%AC%AC140%E5%9B%9E%20%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%BB%E3%81%A9%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7%E3%81%97%E3%81%A6%E3%82%821%2F3%E3%82%82%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/">LockBit 3.0 introduces the first ransomware bug bounty program</a><br />
+・<a href="https://lrv.lt/en/news/intense-ddos-attacks-targeted-several-companies-and-institutions-in-lithuania">Intense DDoS attacks targeted several companies and institutions in Lithuania | My Government</a><br />
+・<a href="https://nsm.no/aktuelt/malrettede-tjenestenektangrep-mot-norske-nettsteder">Målrettede tjenestenektangrep mot norske nettsteder &#8211; Nasjonal sikkerhetsmyndighet</a><br />
+・<a href="https://www3.nhk.or.jp/news/html/20220627/k10013690121000.html">世界に飛び火 “サイバー市民戦争” パンドラの箱は開かれた | NHK | WEB特集 | ウクライナ情勢</a><br />
+・<a href="https://diskunion.net/">弊社オンラインショップ登録個人情報漏えいに関するお詫びとご報告 | ディスクユニオン</a><br />
+・<a href="https://www.shop-maruhiro.jp/item/293610/">住吉屋製菓 一里飴 162g &#8211; まるひろオンラインショッピング</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/goodguy.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg" alt="" width="300" height="180" class="alignnone size-medium wp-image-1249" srcset="https://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/goodguy-768x461.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/goodguy.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>生の声の重み。臨場感。10年に向けて。始めた当初からの変化。情報の共有先。いっちゃんヤバいやつの下。何回聞いても怖い話。2.0 -> 3.0の変更・追加点。暗号化したらあかんけど盗んでの脅迫は許可。勢い増してる感ある。交渉の中でそういったニーズがあったのかもしれない追加。ビットコインとモネロとジーキャッシュがくるくる。ソムリエだった。キルネットはアノニマスのサイトへの攻撃もしていましたね。リアルの世界の動向がサイバー空間にもたらす影響。直球質問ちょっと危険。こちらの考えと相手の理屈が噛み合わなくても攻撃は行われる。じっと待つにしても想定しておくことが大切ですね。クラウドにするかオンプレにするか。大阪店で買い物したこと何回かあって懐かしかった。リリースの文言から読み取れるもの。SNSから見える事件の片鱗。プレイリスト変更で得られる利益はどのくらいだろうか。セキュリティのアレはSpotifyで再生されてもチャリンチャリンされません。口コミ注意喚起。対応側に求められるスピード感。暗号化してなかったことは潔く明記するほうがいいのではないか。<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f408.png" alt="🐈" class="wp-smiley" style="height: 1em; max-height: 1em;" />。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年07月02日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220704_HonBuchoDairi.mp3" length="31629618" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第139回 スピード梅雨明け！視点論点！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1243</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 20:00:30 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1243</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1243" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1243&amp;text=%E7%AC%AC139%E5%9B%9E%20%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E6%A2%85%E9%9B%A8%E6%98%8E%E3%81%91%EF%BC%81%E8%A6%96%E7%82%B9%E8%AB%96%E7%82%B9%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1243" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://bookwalker.jp/info/message20220610/">【重要なお知らせ】外部流出アカウント情報による不正アクセスについて│電子書籍ストア &#8211; BOOK☆WALKER</a><br />
+・<a href="https://honto.jp/info/detail_041000066770.html">honto &#8211; 【重要】不正ログインについてのお知らせ &#8211; hontoからのお知らせ一覧</a><br />
+・<a href="https://www.jreast.co.jp/card/caution/notice220624.html/">「VIEW&#8217;s NET」等のサービス再開のお知らせ</a><br />
+・<a href="https://medical.nikkeibp.co.jp/inc/all/info/about/release220624.html">日経メディカル Online への不正アクセスについて</a><br />
+・<a href="https://www.jrepoint.jp/information/important/2022062201">「JRE POINT」を名乗る不審なメール・サイトにご注意ください</a><br />
+・<a href="https://blog.talosintelligence.com/2022/06/avoslocker-new-arsenal.html">Cisco Talos Intelligence Group &#8211; Comprehensive Threat Intelligence: Avos ransomware group expands with new attack arsenal</a><br />
+・<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-174a">Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems | CISA</a><br />
+・<a href="https://securityblog.jp/securityanalyst/contents/000167.php">C2フレームワークSliverについて | セキュリティアナリストのつぶやき</a><br />
+・<a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Cyber-Reports-2022-06-IT-Army-of-Ukraine.pdf">The IT Army of Ukraine: Structure, Tasking, and Ecosystem</a><br />
+・<a href="https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized">WeLeakInfo.to and Related Domain Names Seized | USAO-DC | Department of Justice</a><br />
+・<a href="https://www.uta-net.com/song/12359/">藤井隆 ナンダカンダ 歌詞 &#8211; 歌ネット</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/chagashi.png"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/chagashi-300x231.png" alt="" width="300" height="231" class="alignnone size-medium wp-image-1244" srcset="https://www.tsujileaks.com/wp-content/uploads/chagashi-300x231.png 300w, https://www.tsujileaks.com/wp-content/uploads/chagashi-768x591.png 768w, https://www.tsujileaks.com/wp-content/uploads/chagashi.png 780w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>梅雨明けてました。多数決でいいんじゃないか。お茶菓子はアレ。合格した方おめでとうございます！不合格だった方も力はついてるはず！次いきましょう！帯のアレ。踏み出せよｗ。お便りからお便り。謎草の正体は。触れましたっけ？タレコミ。隔離慣れ。報道で取り上げられないだけでなくなってない。スクリーニングはあまり報告されてこないですね。初期アクセスからランサムまでのラグ。同一システムに複数アクター。知らないツール色々。脆弱性が公表されてもそれが組み込まれているものを使っている感覚がないとかありそう。IT Armyの研究レポ。IT Armyのチャンネルから他に波及。断片的な情報から。人材募集はなぜかウクライナ語。公式パートナーとして掲載されていたあるサービス。これらの行為に参加する人は兵士なのか？国際法を逸脱してきている。ダブスタになってるんじゃないの。よー覚えてる。元気になろう！お便りまってまーす！</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月26日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220628_nndknd.mp3" length="31619781" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第138回 あるある募集と謎草プロジェクト始動！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1237</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2022 20:00:08 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1237</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・Password policies of most top websi[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1237" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237&amp;text=%E7%AC%AC138%E5%9B%9E%20%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E5%8B%9F%E9%9B%86%E3%81%A8%E8%AC%8E%E8%8D%89%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%A7%8B%E5%8B%95%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://passwordpolicies.cs.princeton.edu/">Password policies of most top websites fail to follow best practices</a><br />
+・<a href="https://github.com/dropbox/zxcvbn">GitHub &#8211; dropbox/zxcvbn: Low-Budget Password Strength Estimation</a><br />
+・<a href="https://www.cybersolutions.co.jp/news/20220606/">20代は8％しか上司に報告しない！？ビジネスメールの誤送信と対応の実態調査を発表新入社員から企業情報が漏洩するリスクに要注意 | 法人向けクラウドメールサービスのサイバーソリューションズ</a><br />
+・<a href="https://www.bourbon.co.jp/alfort/">ブルボン アルフォートの公式サイト</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-1238" srcset="https://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg 225w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-768x1024.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-1152x1536.jpg 1152w, https://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg 1352w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>きゅうり覚えてますか。こっそりピーマン。謎草生えてきた。1より2が面白い。どっちがメリットがあるか。時間の流れによる変化もある。メール訓練の話大好き。あるあるネタのお便り待ってます！過去のアレもお役に立てているようで何よりです。パスワードづく。ベストプラクティスってどんくらい守られているのか。無理難題を押し付けると抜け道を探し始める。折角機能としてあるのにメッセージが悪いケース。ちゃんとやってる風はあかん。何もしてないより良くない。正しい知識や技術だけではダメで仕組みが必要。消費税より少ない報告率。誤送信とは。記事タイトルにある言葉の定義が自分の思うものとは限らない。なくせないから放り投げるのはよくない。精神論のみに頼ってはいけないけど、不要なものではない。iPadのサイズに例えたらめちゃくちゃ分かりやすかった。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月18日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220620_hamoge.mp3" length="30994837" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>第137回 KEV大好き！からのパスワードネタ三連発！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1232</link>
+		
+		<dc:creator><![CDATA[ntsuji]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 20:00:07 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1232</guid>
+
+					<description><![CDATA[Tweet&#160; 【関連記事】 ・Reducing the Significant Risk of Kn[...]]]></description>
+										<content:encoded><![CDATA[<div id="tweetbutton1232" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1232&amp;text=%E7%AC%AC137%E5%9B%9E%20KEV%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81%E3%81%8B%E3%82%89%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%8D%E3%82%BF%E4%B8%89%E9%80%A3%E7%99%BA%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1232" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.cisa.gov/known-exploited-vulnerabilities">Reducing the Significant Risk of Known Exploited Vulnerabilities</a><br />
+・<a href="https://www.cisa.gov/binding-operational-directive-22-01">Binding Operational Directive 22-01 | CISA</a><br />
+・<a href="https://developer.apple.com/videos/play/wwdc2022/10092">Meet passkeys &#8211; WWDC22 &#8211; Videos &#8211; Apple Developer</a><br />
+・<a href="https://blog.1password.com/1password-is-joining-the-fido-alliance/">We’ve joined the FIDO Alliance to build a better future for authentication | 1Password</a><br />
+・<a href="https://blog.lastpass.com/2022/06/passwordless-is-possible-lastpass-gets-you-there-sooner/">Passwordless Is Possible: LastPass Gets You There Sooner &#8211; The LastPass Blog</a><br />
+・<a href="https://research.google/pubs/pub43963/">“&#8230;no one can hack my mind”: Comparing Expert and Non-Expert Security Practices – Google Research</a><br />
+・<a href="https://housefoods.jp/products/special/currypowder/index.html">味付カレーパウダー | ブランドサイト | ハウス食品</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/ebiten.jpg"><img loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/ebiten-300x200.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-1233" srcset="https://www.tsujileaks.com/wp-content/uploads/ebiten-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/ebiten-1024x682.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/ebiten-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/ebiten.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>先週した話をまたすると見せかけて。オフライン収録もそろそろしたい。チャゲアス。お湯かけてお湯かけても。カラオケ行きたい。お三方。見るアレ。聴くアレ。フリソナン売り切れてた。食べてみないと分からない。一部で知られているだけのこともまだまだあるかも。ゆーて。はっとするお便りありがたい。やばいんですリスト。厳しい強制。ミトレ。英語力の無さへのフォローありがとうございます！意図的なものではなく見えているかどうかのアクティブ。100%でないと掲載しない。古いものが追加されまくっている理由が分かってよかった。脆弱性ちょっと分かる。知ってるから思い込むこと。勝手に補完しちゃうことは避けていこう。ミニマムでまずはコレ！というのいいけど、これにないから大丈夫ではないということですね。777。件数多かったり、連日追加されたり。これ対処するのも大変だけど、古い脆弱性が対処されていると証明するのも大変そうなんですよね。仕組みがないときつそう。三連発！スンスンスン。元年！パスワード管理ソフトの生きる道。LastPassってネーミングほんとセンスいいと思う。オススメしないコレ。誤ってポチィで地獄行き。購入の壁。天ぷら食べたくなってきた。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年06月11日</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://www.tsujileaks.com/media/are_220613_konayatabetai.mp3" length="31862596" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,372 @@
+{
+  "title": "Basuke's Tech Talk",
+  "description": "Tech talk for the topic you forget about. We talk about the tech topic, such as the programming language, OS, application, gadget, person, company or anything I got interested in the past few decades. Support this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+  "link": "https://anchor.fm/basuke-suzuki",
+  "image": {
+    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12813135/12813135-1613500026960-dbcbee35fc8bb.jpg",
+    "title": "Basuke's Tech Talk",
+    "link": "https://anchor.fm/basuke-suzuki"
+  },
+  "generator": "Anchor Podcasts",
+  "lastBuildDate": "Wed, 24 Aug 2022 13:06:05 GMT",
+  "atom:link": [
+    {
+      "@href": "https://anchor.fm/s/4cf7e15c/podcast/rss",
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "#text": null
+    },
+    {
+      "@rel": "hub",
+      "@href": "https://pubsubhubbub.appspot.com/",
+      "#text": null
+    }
+  ],
+  "author": "Basuke Suzuki",
+  "copyright": "Basuke Suzuki",
+  "language": "ja",
+  "anchor:support": "https://anchor.fm/basuke-suzuki/support",
+  "anchor:station": "4cf7e15c",
+  "itunes:author": "Basuke Suzuki",
+  "itunes:summary": "Tech talk for the topic you forget about. We talk about the tech topic, such as the programming language, OS, application, gadget, person, company or anything I got interested in the past few decades. Support this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+  "itunes:type": "episodic",
+  "itunes:owner": {
+    "itunes:name": "Basuke Suzuki",
+    "itunes:email": "podcasts60+4cf7e15c@anchor.fm"
+  },
+  "itunes:explicit": "No",
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:image": {
+    "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12813135/12813135-1613500026960-dbcbee35fc8bb.jpg",
+    "#text": null
+  },
+  "item": [
+    {
+      "title": "CSSの話 with @kara_d",
+      "description": "<p>今回はMacやその周辺の話題から少し離れまして、Web技術の重要な要素の一つ、CSSの話をお届けします。実はさかのぼるとHTMLとさほど歴史は変わらないぐらい昔からある技術、2000年代を生き残り、この10年は様々な形に姿を変え必須技術としての位置を確立してます。</p>\n<p>ゲストはCSS Night でおなじみの原さんをお招きしてお話を伺います。エンジニア側の僕とデザイナーよりの原さんで、CSSの25年の歴史とこれからを語っていきます。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n<p>※ノーカット版はYouTube にて https://www.youtube.com/watch?v=q1yZ547cwEA&t=1293s&ab_channel=BasukeSuzuki</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/CSS-with-kara_d-e15ph61",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "df7f778e-554e-4161-884b-a0b58ffc2f57"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Wed, 11 Aug 2021 20:13:47 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/38634113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-11%2Fc2f5d5973ff3962db5b274a9729d93f8.m4a",
+        "@length": 132213626,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はMacやその周辺の話題から少し離れまして、Web技術の重要な要素の一つ、CSSの話をお届けします。実はさかのぼるとHTMLとさほど歴史は変わらないぐらい昔からある技術、2000年代を生き残り、この10年は様々な形に姿を変え必須技術としての位置を確立してます。</p>\n<p>ゲストはCSS Night でおなじみの原さんをお招きしてお話を伺います。エンジニア側の僕とデザイナーよりの原さんで、CSSの25年の歴史とこれからを語っていきます。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n<p>※ノーカット版はYouTube にて https://www.youtube.com/watch?v=q1yZ547cwEA&amp;t=1293s&amp;ab_channel=BasukeSuzuki</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "02:16:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1628712835943-8527d76406231.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 12,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "AppleScriptの話 with @Piyomaru",
+      "description": "<p>AppleScriptといえば、Appleの標準スクリプト環境として君臨し続けて28年、歴史は古く漢字Talk 7のころから現役でありながら、なかなか使いこなせている人を見かけないのも不思議な事実。その辺の深い事情と使いこなせた時のその実力を 「AppleScriptの穴」という専門サイトを運営し続けている @Piyomaruさん こと長野谷さんに伺います。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/AppleScript-with-Piyomaru-e11ls1f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1570593d-b2d3-4961-a59b-c8cc56e0cb47"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Thu, 27 May 2021 04:43:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/34319855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-05-27%2Fe29673fc797a7c6a3e17cf172f3036a1.m4a",
+        "@length": 113921253,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>AppleScriptといえば、Appleの標準スクリプト環境として君臨し続けて28年、歴史は古く漢字Talk 7のころから現役でありながら、なかなか使いこなせている人を見かけないのも不思議な事実。その辺の深い事情と使いこなせた時のその実力を 「AppleScriptの穴」という専門サイトを運営し続けている @Piyomaruさん こと長野谷さんに伺います。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:57:24",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1622090296895-c8fa5d70bc1b6.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 11,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "Smalltalkの話 with @sumim",
+      "description": "<p>オブジェクト指向プログラミング環境の元祖、Smalltalkの話です。前回の「元祖オブジェクト指向の話」で話題になったSmalltalk-72ではなく、もうちょっと最近、Smalltalk-80やそれ以降のSmalltalkを対象にしています。もちろん、Squeakや、最近のPharoも含みます。歴史的な言語、環境でありながら、いまだに根強いファンを持ち現役であり続けるSmalltalkの魅力を @sumimさんに伺います。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/Smalltalk-with-sumim-e112rt3",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a27461c9-834c-4cce-b4a0-f71b4fd9b7b8"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Mon, 17 May 2021 21:41:23 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/33697123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-05-17%2F5d38c6a6691d41e58e66737d705362a7.m4a",
+        "@length": 88891551,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>オブジェクト指向プログラミング環境の元祖、Smalltalkの話です。前回の「元祖オブジェクト指向の話」で話題になったSmalltalk-72ではなく、もうちょっと最近、Smalltalk-80やそれ以降のSmalltalkを対象にしています。もちろん、Squeakや、最近のPharoも含みます。歴史的な言語、環境でありながら、いまだに根強いファンを持ち現役であり続けるSmalltalkの魅力を @sumimさんに伺います。</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:31:36",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1621287692091-ce305b3acd417.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 10,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "元祖オブジェクト指向の話 with @sumim",
+      "description": "<p>みんな大好き、オブジェクト指向の話です。とは言っても「元祖」とあります。今回はあなたが普段使っている馴染みあるオブジェクト指向プログラミングの世界からちょっと離れた、1970年初頭、発明されたばかりのオブジェクト指向がどんなものだったのか、ということを、@sumim さんをお迎えして話を伺っていきます。クラス？継承？それ本当に必要ですか？</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n<p>本文で参照している記事は以下の通りです</p>\n<ul>\n <li><a href=\"https://jp.quora.com/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B/answers/123165842\">Quora: オブジェクト指向とは何です？</a></li>\n <li><a href=\"https://qiita.com/advent-calendar/2019/smalltalk-72\">Qiita: Smalltalk-72で学ぶOOPの原点 Advent Calendar 2019</a></li>\n</ul>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/with-sumim-evoadq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "55c478ae-c450-4f63-9c09-f7c37d2f4cfa"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Tue, 27 Apr 2021 20:47:03 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/32302970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-27%2Fa1d09ede14fd81468fb8b809dca57d34.m4a",
+        "@length": 86727913,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>みんな大好き、オブジェクト指向の話です。とは言っても「元祖」とあります。今回はあなたが普段使っている馴染みあるオブジェクト指向プログラミングの世界からちょっと離れた、1970年初頭、発明されたばかりのオブジェクト指向がどんなものだったのか、ということを、@sumim さんをお迎えして話を伺っていきます。クラス？継承？それ本当に必要ですか？</p>\n<p>ご意見、ご感想は Twitter にてハッシュタグ #basuke でください。よろしくお願いします。</p>\n<p>本文で参照している記事は以下の通りです</p>\n<ul>\n <li><a href=\"https://jp.quora.com/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B/answers/123165842\">Quora: オブジェクト指向とは何です？</a></li>\n <li><a href=\"https://qiita.com/advent-calendar/2019/smalltalk-72\">Qiita: Smalltalk-72で学ぶOOPの原点 Advent Calendar 2019</a></li>\n</ul>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:29:22",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1619556279361-8d0a7a16e2d34.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 9,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "BeOSの話 with @koyhoge",
+      "description": "<p>現在のモダンmacOSのルーツをNeXTと争ったもう一つのOS、BeOS。90年代半ばに登場、マルチメディアの扱いに優れ、すっきりとした黄色いUIを覚えている方もいらっしゃるでしょう。当時Beのユーザーグループを運営していた小山 哲志さんに、BeOSの特徴、プログラミング環境、そして当時の日本でのBeOSの状況などのお話を伺います。</p>\n<p>※4/10 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/BeOS-with-koyhoge-eutsb2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ee411a09-7a97-434e-b1cd-9ccb064a4cc6"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Thu, 15 Apr 2021 04:19:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/31436578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-15%2F995930b0d8c1f16273e513fac8d02cba.m4a",
+        "@length": 65653144,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>現在のモダンmacOSのルーツをNeXTと争ったもう一つのOS、BeOS。90年代半ばに登場、マルチメディアの扱いに優れ、すっきりとした黄色いUIを覚えている方もいらっしゃるでしょう。当時Beのユーザーグループを運営していた小山 哲志さんに、BeOSの特徴、プログラミング環境、そして当時の日本でのBeOSの状況などのお話を伺います。</p>\n<p>※4/10 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:07:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1618440948587-7d85644e9ae85.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 8,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "NeXTの話 with @nagasawa144",
+      "description": "<p>今回はアップルを離れたSteve Jobsが次に作ったコンピュータ、NeXTの話です。実際にNeXT ComputerでJobsと一緒に仕事をしていたモダシンさんに、NeXTSTEPというOSとハードウェアについて伺っていきます。その後のmacOSやiOSなどに引き継がれたテクノロジーはどのように生まれたのか、Jobsが作ろうとしたコンピュータを解き明かしていきます。</p>\n<p>※4/4 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:01:30 バスケとNeXTの出会い</p>\n<p>0:06:57 Display PostScript がもたらした真のWYSIWYG</p>\n<p>0:08:39 モダシンさんとNeXT</p>\n<p>0:19:16 NeXT Computerの始まりと高等教育機関向け</p>\n<p>0:23:42 NeXTが採用したUNIXと環境</p>\n<p>0:27:02 Interface Builder</p>\n<p>0:31:51 開発者のプロダクティビティに注目したJobs</p>\n<p>0:33:27 NeXTで実装されたWorld Wide Web</p>\n<p>0:40:56 画期的なスプレッドシートだったLotus Improv</p>\n<p>0:44:07 魅惑的な筐体だったNeXT Cube</p>\n<p>0:46:03 他のプラットフォームに移植されていたNeXTSTEP</p>\n<p>0:52:36 ハードウェアからの撤退とNeXT Software</p>\n<p>0:55:03 OPENSTEP for Windowsの発表</p>\n<p>1:07:30 MVCとWebがナチュラルに統合したWebObjects</p>\n<p>1:13:54 Appleへの買収裏話</p>\n<p>1:18:00 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/NeXT-with-nagasawa144-eu488u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "96ee8cd4-3067-43fe-82b3-43c50577325b"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Wed, 07 Apr 2021 06:22:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/30596830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-07%2F1ba28a153b8f7101779c9c39084eba28.m4a",
+        "@length": 80311328,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はアップルを離れたSteve Jobsが次に作ったコンピュータ、NeXTの話です。実際にNeXT ComputerでJobsと一緒に仕事をしていたモダシンさんに、NeXTSTEPというOSとハードウェアについて伺っていきます。その後のmacOSやiOSなどに引き継がれたテクノロジーはどのように生まれたのか、Jobsが作ろうとしたコンピュータを解き明かしていきます。</p>\n<p>※4/4 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:01:30 バスケとNeXTの出会い</p>\n<p>0:06:57 Display PostScript がもたらした真のWYSIWYG</p>\n<p>0:08:39 モダシンさんとNeXT</p>\n<p>0:19:16 NeXT Computerの始まりと高等教育機関向け</p>\n<p>0:23:42 NeXTが採用したUNIXと環境</p>\n<p>0:27:02 Interface Builder</p>\n<p>0:31:51 開発者のプロダクティビティに注目したJobs</p>\n<p>0:33:27 NeXTで実装されたWorld Wide Web</p>\n<p>0:40:56 画期的なスプレッドシートだったLotus Improv</p>\n<p>0:44:07 魅惑的な筐体だったNeXT Cube</p>\n<p>0:46:03 他のプラットフォームに移植されていたNeXTSTEP</p>\n<p>0:52:36 ハードウェアからの撤退とNeXT Software</p>\n<p>0:55:03 OPENSTEP for Windowsの発表</p>\n<p>1:07:30 MVCとWebがナチュラルに統合したWebObjects</p>\n<p>1:13:54 Appleへの買収裏話</p>\n<p>1:18:00 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:22:45",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1617596504126-c2d876e9c3086.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 7,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "Photoshopの話 with @etsuro",
+      "description": "<p>発売からちょうど30年（+1）を迎えるPhotoshopの話。バージョン1.0発売当時のPhotoshopの状況について日本で一番詳しい？遠藤悦郎さんを迎えてお話を伺います。最近の派手なほうではなく、白黒の目のアイコンのあれです。地味な見た目の先に秘められていたカラフルなフルカラーな世界を解き明かしていきます。</p>\n<p>※3/26 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:01:38 Photoshop前夜</p>\n<p>0:03:16 フォントビジネスだったAdobeという会社</p>\n<p>0:12:18 当時の悦郎さんとデザイン事務所</p>\n<p>0:23:40 Photoshop 登場時点でのデザイナーの反応</p>\n<p>0:25:38 日本でのPhotoshopデビューイベント</p>\n<p>0:29:35 サイテックスのサポートにPhotoshopの本気を見る</p>\n<p>0:33:49 Photoshopを書いた Knoll 兄弟</p>\n<p>0:36:39 Photoshop 1.0がサポートしていたフォーマット</p>\n<p>0:40:14 Macへの画像の取り込みに苦労した時代</p>\n<p>0:49:48 VMに支えられたPhotoshopの描画</p>\n<p>0:52:11 Photoshopのソースコード</p>\n<p>0:57:10 苦労して工夫する必要があった現実</p>\n<p>1:06:32 動かすためのMacのシステムの話</p>\n<p>1:11:05 出力環境で問題となったCMYK</p>\n<p>1:20:53 悦郎さんの書籍「Photoshop A to Z」</p>\n<p>1:40:11 ラッセル・ブラウンとの漫才の始まり</p>\n<p>1:48:14 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/Photoshop-with-etsuro-etvt62",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a8422453-8648-4249-af2e-41e1e3065e20"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Thu, 01 Apr 2021 17:07:37 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/30454402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2Ff6827c91774301c3a3c4be7209559633.m4a",
+        "@length": 110864688,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>発売からちょうど30年（+1）を迎えるPhotoshopの話。バージョン1.0発売当時のPhotoshopの状況について日本で一番詳しい？遠藤悦郎さんを迎えてお話を伺います。最近の派手なほうではなく、白黒の目のアイコンのあれです。地味な見た目の先に秘められていたカラフルなフルカラーな世界を解き明かしていきます。</p>\n<p>※3/26 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:01:38 Photoshop前夜</p>\n<p>0:03:16 フォントビジネスだったAdobeという会社</p>\n<p>0:12:18 当時の悦郎さんとデザイン事務所</p>\n<p>0:23:40 Photoshop 登場時点でのデザイナーの反応</p>\n<p>0:25:38 日本でのPhotoshopデビューイベント</p>\n<p>0:29:35 サイテックスのサポートにPhotoshopの本気を見る</p>\n<p>0:33:49 Photoshopを書いた Knoll 兄弟</p>\n<p>0:36:39 Photoshop 1.0がサポートしていたフォーマット</p>\n<p>0:40:14 Macへの画像の取り込みに苦労した時代</p>\n<p>0:49:48 VMに支えられたPhotoshopの描画</p>\n<p>0:52:11 Photoshopのソースコード</p>\n<p>0:57:10 苦労して工夫する必要があった現実</p>\n<p>1:06:32 動かすためのMacのシステムの話</p>\n<p>1:11:05 出力環境で問題となったCMYK</p>\n<p>1:20:53 悦郎さんの書籍「Photoshop A to Z」</p>\n<p>1:40:11 ラッセル・ブラウンとの漫才の始まり</p>\n<p>1:48:14 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:54:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1617235714739-2742afb673608.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 6,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "General Magicの話 with @JavuJavu",
+      "description": "<p>2018年に作られた <a href=\"https://www.generalmagicthemovie.com/\">General Magic the Movie</a> というドキュメンタリ。これがきっかけとなり、General Magicへの興味がぐっと上がったバスケ。今回は当時の開発にもたづ触っていた @JavuJavu さんをゲストにお招きして、当時の貴重なお話を伺います。General Magicという会社、そこで働いていた人たち、MagicCapというOSの特徴と開発環境、そしてTelescriptという現在でも価値のある技術について話します。</p>\n<p>今回登場するマジシャンたちは以下の通り。</p>\n<ul>\n <li><a href=\"https://en.wikipedia.org/wiki/Andy_Hertzfeld\">Andy Hertzfeld</a> Macintosh Toolbox, Finder > Radius > General Magic > Google</li>\n <li><a href=\"https://en.wikipedia.org/wiki/Bill_Atkinson\">Bill Atkinson</a> QuickDraw > General Magic > a photographer</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Tony_Fadell\">Tony Fadell</a> General Magic > iPod, iPhone > Nest</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Megan_Smith\">Megan Smith</a> Apple Japan > General Magic > Google VP > CTO of US</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Kevin_Lynch_(computing)\">Kevin Lynch</a> Adobe > Apple Watch</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Susan_Kare\">Susan Kare</a> Macintosh icons, Dogcow</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Darin_Adler\">Darin Adler</a> WebKit</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Andy_Rubin\">Andy Rubin</a> Android</li>\n  <li>Dan Winkler HyperTalk</li>\n</ul>\n<p>※3/23 Twitter Spaceにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:46 General Magicの紹介</p>\n<p>0:09:48 JavuJavuさんとGeneral Magic</p>\n<p>0:13:30 デバイスを担当するSONY</p>\n<p>0:17:51 MagicCapのインターフェース</p>\n<p>0:22:47 MagicLinkの通信機能</p>\n<p>0:24:45 General Magicを彩るマジシャンたち</p>\n<p>0:48:12 ネットワークでできたことは？</p>\n<p>0:51:35 General Magic The Movie で描かれるNewton</p>\n<p>0:54:11 General Magic が失敗した理由を考える</p>\n<p>0:56:36 Telescript とはなんだったのか？</p>\n<p>1:06:39 Jobsとまったく接点がなかったGeneral Magic</p>\n<p>1:07:52 MagicCapの開発環境と実行環境</p>\n<p>1:15:36 幻のMagicScript</p>\n<p>1:21:54 どこにでも貼れるスタンプとその仕組み</p>\n<p>1:31:43 当時の話が載ってるブログ: Good Old Bits</p>\n<p>1:33:25 MagicLinkのCPU事情</p>\n<p>1:37:30 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/General-Magic-with-JavuJavu-eteqrd",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5a04106a-f708-4904-acec-1114196ce767"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Thu, 25 Mar 2021 03:47:51 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/29894957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2F12445d966b70a817717c5113ccc96301.m4a",
+        "@length": 98286680,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>2018年に作られた <a href=\"https://www.generalmagicthemovie.com/\">General Magic the Movie</a> というドキュメンタリ。これがきっかけとなり、General Magicへの興味がぐっと上がったバスケ。今回は当時の開発にもたづ触っていた @JavuJavu さんをゲストにお招きして、当時の貴重なお話を伺います。General Magicという会社、そこで働いていた人たち、MagicCapというOSの特徴と開発環境、そしてTelescriptという現在でも価値のある技術について話します。</p>\n<p>今回登場するマジシャンたちは以下の通り。</p>\n<ul>\n <li><a href=\"https://en.wikipedia.org/wiki/Andy_Hertzfeld\">Andy Hertzfeld</a> Macintosh Toolbox, Finder &gt; Radius &gt; General Magic &gt; Google</li>\n <li><a href=\"https://en.wikipedia.org/wiki/Bill_Atkinson\">Bill Atkinson</a> QuickDraw &gt; General Magic &gt; a photographer</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Tony_Fadell\">Tony Fadell</a> General Magic &gt; iPod, iPhone &gt; Nest</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Megan_Smith\">Megan Smith</a> Apple Japan &gt; General Magic &gt; Google VP &gt; CTO of US</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Kevin_Lynch_(computing)\">Kevin Lynch</a> Adobe &gt; Apple Watch</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Susan_Kare\">Susan Kare</a> Macintosh icons, Dogcow</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Darin_Adler\">Darin Adler</a> WebKit</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Andy_Rubin\">Andy Rubin</a> Android</li>\n  <li>Dan Winkler HyperTalk</li>\n</ul>\n<p>※3/23 Twitter Spaceにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:46 General Magicの紹介</p>\n<p>0:09:48 JavuJavuさんとGeneral Magic</p>\n<p>0:13:30 デバイスを担当するSONY</p>\n<p>0:17:51 MagicCapのインターフェース</p>\n<p>0:22:47 MagicLinkの通信機能</p>\n<p>0:24:45 General Magicを彩るマジシャンたち</p>\n<p>0:48:12 ネットワークでできたことは？</p>\n<p>0:51:35 General Magic The Movie で描かれるNewton</p>\n<p>0:54:11 General Magic が失敗した理由を考える</p>\n<p>0:56:36 Telescript とはなんだったのか？</p>\n<p>1:06:39 Jobsとまったく接点がなかったGeneral Magic</p>\n<p>1:07:52 MagicCapの開発環境と実行環境</p>\n<p>1:15:36 幻のMagicScript</p>\n<p>1:21:54 どこにでも貼れるスタンプとその仕組み</p>\n<p>1:31:43 当時の話が載ってるブログ: Good Old Bits</p>\n<p>1:33:25 MagicLinkのCPU事情</p>\n<p>1:37:30 エンディング</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:41:17",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1616644080134-37f53b55f63e4.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 5,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "QuickTimeの話 with @nehaneha",
+      "description": "<p>90年代のマルチメディアを牽引し、その後の動画文化の基礎を作ったQuickTime。今回は元MacUser編集者でQuickTime Guidebookの著者の姉歯さんをお迎えしてQuickTimeについてみっちりお話ししていきます。開発者にも絶大な人気を博し、しかもユーザーにも広く認知されファンを産んだQuickTime。ただの動画エンジンなのに、なぜにこうも人を惹きつけるのか。その魅力に迫ります。</p>\n<p>※3/12 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:02:03 QuickTimeとは？</p>\n<p>0:08:02 QuickTimeの歴史を振り返る</p>\n<p>0:12:24 Pencil Test</p>\n<p>0:13:52 膨大なドキュメント</p>\n<p>0:15:06 QuickTime 1.5で実用的に</p>\n<p>0:18:47 WindowsとQuickTime</p>\n<p>0:21:58 QuickTime 2.0、大きな進化</p>\n<p>0:24:37 1994年のWWDC</p>\n<p>0:27:25 QuickTime MIDI</p>\n<p>0:28:28 幻のQuickTime インタラクティブ</p>\n<p>0:31:54 90年代後半のQuickTime</p>\n<p>0:36:18 発表当時に広げた大風呂敷</p>\n<p>0:37:26 開発者が協力できた柔軟性</p>\n<p>0:41:28 オーディオ再生の基盤としてのQuickTime</p>\n<p>0:43:28 効率的な動画再利用とエイリアスマネージャ</p>\n<p>0:45:48 QuickTime名物となったおバカ動画</p>\n<p>0:48:08 ATGで開発された技術とQuickTime</p>\n<p>0:50:41 世に出なかったQuickTimeの機能</p>\n<p>0:57:14 Steve JobsとQuickTime</p>\n<p>1:04:25 iTunesで広がるQuickTime</p>\n<p>1:06:59 「Macintoshの音の話」の逸話訂正</p>\n<p>1:11:46 時間軸もゆがめるタイム機能</p>\n<p>1:14:07 QuickTime好きってなんだw</p>\n<p>1:21:37 肌色の話</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/QuickTime-with-nehaneha-esmb2j",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c25ca7f6-5481-4ee4-9da1-e7c3153f82ca"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Tue, 16 Mar 2021 04:27:12 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/29092371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2Fb0f98e3915a5f9a9c66a23ec71d239e4.m4a",
+        "@length": 82407728,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>90年代のマルチメディアを牽引し、その後の動画文化の基礎を作ったQuickTime。今回は元MacUser編集者でQuickTime Guidebookの著者の姉歯さんをお迎えしてQuickTimeについてみっちりお話ししていきます。開発者にも絶大な人気を博し、しかもユーザーにも広く認知されファンを産んだQuickTime。ただの動画エンジンなのに、なぜにこうも人を惹きつけるのか。その魅力に迫ります。</p>\n<p>※3/12 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:02:03 QuickTimeとは？</p>\n<p>0:08:02 QuickTimeの歴史を振り返る</p>\n<p>0:12:24 Pencil Test</p>\n<p>0:13:52 膨大なドキュメント</p>\n<p>0:15:06 QuickTime 1.5で実用的に</p>\n<p>0:18:47 WindowsとQuickTime</p>\n<p>0:21:58 QuickTime 2.0、大きな進化</p>\n<p>0:24:37 1994年のWWDC</p>\n<p>0:27:25 QuickTime MIDI</p>\n<p>0:28:28 幻のQuickTime インタラクティブ</p>\n<p>0:31:54 90年代後半のQuickTime</p>\n<p>0:36:18 発表当時に広げた大風呂敷</p>\n<p>0:37:26 開発者が協力できた柔軟性</p>\n<p>0:41:28 オーディオ再生の基盤としてのQuickTime</p>\n<p>0:43:28 効率的な動画再利用とエイリアスマネージャ</p>\n<p>0:45:48 QuickTime名物となったおバカ動画</p>\n<p>0:48:08 ATGで開発された技術とQuickTime</p>\n<p>0:50:41 世に出なかったQuickTimeの機能</p>\n<p>0:57:14 Steve JobsとQuickTime</p>\n<p>1:04:25 iTunesで広がるQuickTime</p>\n<p>1:06:59 「Macintoshの音の話」の逸話訂正</p>\n<p>1:11:46 時間軸もゆがめるタイム機能</p>\n<p>1:14:07 QuickTime好きってなんだw</p>\n<p>1:21:37 肌色の話</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:24:55",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1615857783950-9cd20afa7ac9c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 4,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "HyperCardの話 with @kazuotani",
+      "description": "<p>80年代後半にMacintosh向けに突如登場したHyperCard。QuickDrawなどMac OSの描画系を実装したBill Atkinsonによって作られたこのアプリケーションの登場が、続く90年代のマルチメディアの幕開けであったと言えるでしょう。今回はMacintosh関連を始めとした数々の書籍をお書きになったテクノロジー・ライターの大谷さんと、HyperCardが開いた世界と現代に与えた影響、まだ成し遂げられていない価値などを話していきたいと考えてます。</p>\n<p>※3/7 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:03:25 HyperCardとは何か？</p>\n<p>0:11:14 大谷さんとMacintosh / HyperCardとの出会い</p>\n<p>0:18:52 Bill Atkinson</p>\n<p>0:27:01 Magic Slate プロジェクト</p>\n<p>0:32:50 BasukeのHyperCard初体験</p>\n<p>0:38:09 スタックというエコシステムの始まり</p>\n<p>0:47:01 Internetがまだなかった時代の情報伝達</p>\n<p>0:50:29 HyperTalk</p>\n<p>0:53:57 幻のHyperCard 3.0 と QuickTime Interactive</p>\n<p>0:56:53 Jobsの閉鎖主義とユーザー環境の均一性</p>\n<p>1:01:18 大谷さんの初期Macの魔改造</p>\n<p>1:07:32 HyperCardの拡張性</p>\n<p>1:10:35 HyperCardと教育市場</p>\n<p>1:14:16 その後のWebへの影響？</p>\n<p>1:17:16 トリップ中に思いついたHyperCard構想</p>\n<p>1:19:52 Hypertextの提唱者テッド・ネルソン</p>\n<p>1:26:02 受け継がれなかったHyperCardのオーサリング環境</p>\n<p>1:40:19 HyperCardは今の世に蘇るか</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/HyperCard-with-kazuotani-es42b2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "3b03bff3-2b06-4a17-8883-fb20e68a5a6a"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Tue, 09 Mar 2021 20:21:28 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/28493602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2F782a37a4af8145116fc1bb8cd0e3ffc7.m4a",
+        "@length": 103608986,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>80年代後半にMacintosh向けに突如登場したHyperCard。QuickDrawなどMac OSの描画系を実装したBill Atkinsonによって作られたこのアプリケーションの登場が、続く90年代のマルチメディアの幕開けであったと言えるでしょう。今回はMacintosh関連を始めとした数々の書籍をお書きになったテクノロジー・ライターの大谷さんと、HyperCardが開いた世界と現代に与えた影響、まだ成し遂げられていない価値などを話していきたいと考えてます。</p>\n<p>※3/7 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:03:25 HyperCardとは何か？</p>\n<p>0:11:14 大谷さんとMacintosh / HyperCardとの出会い</p>\n<p>0:18:52 Bill Atkinson</p>\n<p>0:27:01 Magic Slate プロジェクト</p>\n<p>0:32:50 BasukeのHyperCard初体験</p>\n<p>0:38:09 スタックというエコシステムの始まり</p>\n<p>0:47:01 Internetがまだなかった時代の情報伝達</p>\n<p>0:50:29 HyperTalk</p>\n<p>0:53:57 幻のHyperCard 3.0 と QuickTime Interactive</p>\n<p>0:56:53 Jobsの閉鎖主義とユーザー環境の均一性</p>\n<p>1:01:18 大谷さんの初期Macの魔改造</p>\n<p>1:07:32 HyperCardの拡張性</p>\n<p>1:10:35 HyperCardと教育市場</p>\n<p>1:14:16 その後のWebへの影響？</p>\n<p>1:17:16 トリップ中に思いついたHyperCard構想</p>\n<p>1:19:52 Hypertextの提唱者テッド・ネルソン</p>\n<p>1:26:02 受け継がれなかったHyperCardのオーサリング環境</p>\n<p>1:40:19 HyperCardは今の世に蘇るか</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:46:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1615321296437-3bcd36e9250e5.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 3,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "Macintoshの音の話 with @mazzo",
+      "description": "<p>DTMというジャンルはMacが先駆けだったということは、知られているようで今となってはピンとこないようなぼやっとした記憶。今回はBackspace.fmでおなじみ松尾さんをお迎えして、当時の音楽ソフトとその技術やカルチャーについてお話を伺いながら振り返っていきます。なぜMacで音楽ソフトが花開いたのか、80年代のMacintosh文化とそれを可能にしたハードウェアとソフトウェアなどを探っていければと考えてます。</p>\n<p>※2/22 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:47 Macintoshの起動音</p>\n<p>0:07:24 PCM音源とは</p>\n<p>0:09:20 Macの音楽ソフト創世記</p>\n<p>0:10:19 SoundEdit</p>\n<p>0:12:32 MacRecorder</p>\n<p>0:17:40 Jam Session</p>\n<p>0:20:14 トッドラングレン</p>\n<p>0:24:30 Mac関連の雑誌が情報源</p>\n<p>0:26:49 DTMの始まり</p>\n<p>0:30:51 DAWとは？</p>\n<p>0:34:41 日本ではFM音源が主流</p>\n<p>0:43:57 MacのMIDIと松尾さんの最初のMac</p>\n<p>0:47:40 Macのプロ向け音楽ソフトの始まり</p>\n<p>0:52:12 DAWの時代の始まり</p>\n<p>1:03:52 QuickTime Music Architecture</p>\n<p>1:11:12 与太話</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/Macintosh-with-mazzo-er0qri",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "112682e2-285e-4f89-a4a1-d91d207eaa60"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Wed, 24 Feb 2021 20:23:36 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/27339058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2Fffc68adfb37189d2f19fc7472cfd68e2.m4a",
+        "@length": 74489189,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>DTMというジャンルはMacが先駆けだったということは、知られているようで今となってはピンとこないようなぼやっとした記憶。今回はBackspace.fmでおなじみ松尾さんをお迎えして、当時の音楽ソフトとその技術やカルチャーについてお話を伺いながら振り返っていきます。なぜMacで音楽ソフトが花開いたのか、80年代のMacintosh文化とそれを可能にしたハードウェアとソフトウェアなどを探っていければと考えてます。</p>\n<p>※2/22 Clubhouseにてトークしたものを、各自ローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:47 Macintoshの起動音</p>\n<p>0:07:24 PCM音源とは</p>\n<p>0:09:20 Macの音楽ソフト創世記</p>\n<p>0:10:19 SoundEdit</p>\n<p>0:12:32 MacRecorder</p>\n<p>0:17:40 Jam Session</p>\n<p>0:20:14 トッドラングレン</p>\n<p>0:24:30 Mac関連の雑誌が情報源</p>\n<p>0:26:49 DTMの始まり</p>\n<p>0:30:51 DAWとは？</p>\n<p>0:34:41 日本ではFM音源が主流</p>\n<p>0:43:57 MacのMIDIと松尾さんの最初のMac</p>\n<p>0:47:40 Macのプロ向け音楽ソフトの始まり</p>\n<p>0:52:12 DAWの時代の始まり</p>\n<p>1:03:52 QuickTime Music Architecture</p>\n<p>1:11:12 与太話</p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:16:45",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1614198754893-88ca7ac3066bf.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 2,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "NewtonScriptの話 with @sumim",
+      "description": "<p>90年台の初めにAplpleが世に放った元祖PDAであるNewton MessagePad、今回はそのランタイムを支えたNewtonScriptという言語とその実行環境について、当時の状況に詳しく言語専門家のsumimさんにお話を伺います。アラン・ケイらのSmalltalkとの類似性やプロトタイプベースがJavaScriptなどのその後の言語にどのような影響を与えたのかなどのトピックを考えてます。</p>\n<p>※2/12 Clubhouseにてトークしたものを、各自の音声をローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:23 Newtonプロジェクトの始まり</p>\n<p>0:06:47 NewtonScriptの作者、Walter Smithの話</p>\n<p>0:07:48 @sumimu の自己紹介</p>\n<p>0:10:30 90年代のWWDC</p>\n<p>0:11:44 NewtonScriptの概要</p>\n<p>0:14:19 プロトタイプベースのオブジェクト指向言語とは</p>\n<p>0:19:22 ビュー階層のためのもう一つの継承</p>\n<p>0:21:19 限られたリソースのための工夫</p>\n<p>0:24:40 オブジェクトデータベースシステム: Soup</p>\n<p>0:27:04 Self言語: NewtonScriptの起源</p>\n<p>0:39:14 NTKとインスペクタの感動（それSmalltalkで出来てました）</p>\n<p>0:43:59 ランタイム環境へのSmalltalkの影響</p>\n<p>0:49:24 牧歌的な時代とセキュリティとメッセージング</p>\n<p>1:04:50 ほかの開発環境、NewtとViewFrameからのSmalltalk体験</p>\n<p>1:10:46 現在に残るNewtonScript環境</p>\n<p>1:15:02 現代に蘇って欲しいあの頃の技術</p>\n<p>1:20:24 Jobsに殺されたNewton</p>\n<p>1:23:30 Smalltalk、オブジェクト指向からのエピローグ</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "link": "https://anchor.fm/basuke-suzuki/episodes/NewtonScript-with-sumim-eqfij6",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ba678ef1-97a1-4084-9938-f95ade9f8975"
+      },
+      "dc:creator": "Basuke Suzuki",
+      "pubDate": "Tue, 16 Feb 2021 04:46:50 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/4cf7e15c/podcast/play/26773542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-01%2Ff284d2a0b1957636c6bd36385b2ed3c2.m4a",
+        "@length": 85033393,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>90年台の初めにAplpleが世に放った元祖PDAであるNewton MessagePad、今回はそのランタイムを支えたNewtonScriptという言語とその実行環境について、当時の状況に詳しく言語専門家のsumimさんにお話を伺います。アラン・ケイらのSmalltalkとの類似性やプロトタイプベースがJavaScriptなどのその後の言語にどのような影響を与えたのかなどのトピックを考えてます。</p>\n<p>※2/12 Clubhouseにてトークしたものを、各自の音声をローカルで録音して編集したものです。</p>\n<p>0:00:00 オープニング</p>\n<p>0:04:23 Newtonプロジェクトの始まり</p>\n<p>0:06:47 NewtonScriptの作者、Walter Smithの話</p>\n<p>0:07:48 @sumimu の自己紹介</p>\n<p>0:10:30 90年代のWWDC</p>\n<p>0:11:44 NewtonScriptの概要</p>\n<p>0:14:19 プロトタイプベースのオブジェクト指向言語とは</p>\n<p>0:19:22 ビュー階層のためのもう一つの継承</p>\n<p>0:21:19 限られたリソースのための工夫</p>\n<p>0:24:40 オブジェクトデータベースシステム: Soup</p>\n<p>0:27:04 Self言語: NewtonScriptの起源</p>\n<p>0:39:14 NTKとインスペクタの感動（それSmalltalkで出来てました）</p>\n<p>0:43:59 ランタイム環境へのSmalltalkの影響</p>\n<p>0:49:24 牧歌的な時代とセキュリティとメッセージング</p>\n<p>1:04:50 ほかの開発環境、NewtとViewFrameからのSmalltalk体験</p>\n<p>1:10:46 現在に残るNewtonScript環境</p>\n<p>1:15:02 現代に蘇って欲しいあの頃の技術</p>\n<p>1:20:24 Jobsに殺されたNewton</p>\n<p>1:23:30 Smalltalk、オブジェクト指向からのエピローグ</p>\n<p><br></p>\n\n--- \n\nSupport this podcast: <a href=\"https://anchor.fm/basuke-suzuki/support\" rel=\"payment\">https://anchor.fm/basuke-suzuki/support</a>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:27:37",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12813135/12813135-1613449886675-57e932713e4de.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 1,
+      "itunes:episodeType": "full"
+    }
+  ]
+}

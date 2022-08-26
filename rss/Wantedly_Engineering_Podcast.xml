@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Wantedly Engineering Podcast]]></title>
+		<description><![CDATA[Wantedly のエンジニアチームで培った知見を共有する技術 Podcast です。]]></description>
+		<link>https://wantedly.dev/</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg</url>
+			<title>Wantedly Engineering Podcast</title>
+			<link>https://wantedly.dev/</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 22 Aug 2022 17:58:32 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/64205bfc/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Wantedly Engineering]]></author>
+		<copyright><![CDATA[Wantedly Engineering]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Wantedly Engineering</itunes:author>
+		<itunes:summary>Wantedly のエンジニアチームで培った知見を共有する技術 Podcast です。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Wantedly Engineering</itunes:name>
+			<itunes:email>podcasts60+64205bfc@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+		<item>
+			<title><![CDATA[翻訳パラメーターに型を導入する hi18n の解説 w/ @qnighy]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/qnighy">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>
+<ul>
+ <li>https://www.wantedly.com/id/qnighy</li>
+ <li>https://github.com/wantedly/hi18n</li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/400195">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/402631">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/403077">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/399501">hi18n (i18nライブラリ) の使い方</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/hi18n--w-qnighy-e1logap</link>
+			<guid isPermaLink="false">13a2c426-c16f-4b33-8ea9-7cfe26a2fb87</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 02 Aug 2022 11:24:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/55377689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F0afda511-0494-2e2e-4bf1-e311f1f00e8a.mp3" length="91595464" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/qnighy&quot;&gt;@qnighy&lt;/a&gt; が作っている hi18n という i18n ライブラリの設計や思想について聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;https://www.wantedly.com/id/qnighy&lt;/li&gt;
+ &lt;li&gt;https://github.com/wantedly/hi18n&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/400195&quot;&gt;hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/402631&quot;&gt;hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/403077&quot;&gt;hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/399501&quot;&gt;hi18n (i18nライブラリ) の使い方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:03:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu]]></title>
+			<description><![CDATA[<p>kyncon の一員として ISUCON 本選出場を決めた <a href="https://twitter.com/bubusu_ryu">@bubusu_ryu</a> に予選突破の要因を聞きました</p>
+<ul>
+ <li><a href="https://www.wantedly.com/id/bubusu">山岸 立のプロフィール - Wantedly</a></li>
+ <li><a href="https://github.com/kyncon/isucon12-qualify">https://github.com/kyncon/isucon12-qualify</a></li>
+ <li><a href="https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile">鬼のようなMakefile</a></li>
+ <li><a href="https://github.com/jakkcer/alpdiff">https://github.com/jakkcer/alpdiff</a></li>
+  <li><a href="https://isucon.net/archives/56838181.html">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>
+  <li><a href="https://isucon.net/archives/56838276.html">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4</link>
+			<guid isPermaLink="false">ebbaf6ab-7024-4411-b929-956833ffbd90</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Mon, 25 Jul 2022 10:32:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/55284964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-25%2F785e3fe9-af0e-cfe8-f145-bfd1efbcc9f3.mp3" length="74226125" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;kyncon の一員として ISUCON 本選出場を決めた &lt;a href=&quot;https://twitter.com/bubusu_ryu&quot;&gt;@bubusu_ryu&lt;/a&gt; に予選突破の要因を聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/bubusu&quot;&gt;山岸 立のプロフィール - Wantedly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kyncon/isucon12-qualify&quot;&gt;https://github.com/kyncon/isucon12-qualify&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile&quot;&gt;鬼のようなMakefile&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jakkcer/alpdiff&quot;&gt;https://github.com/jakkcer/alpdiff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838181.html&quot;&gt;ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838276.html&quot;&gt;ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu&quot;&gt;#ISUCON で100万点とって予選2位になるためにやったこと&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[他職種と円滑に仕事を進められるエンジニアの特徴 w/ @hiromasasaki_]]></title>
+			<description><![CDATA[<p>ビジネス社員の佐々木さんをゲストに「ビジネス社員として嬉しいエンジニア像」について聞きました</p>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-hiromasasaki_-e1l2gf2</link>
+			<guid isPermaLink="false">c64c79d6-4779-4d02-9e52-6e19b558cfcc</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 20 Jul 2022 09:41:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/54656930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-11%2Ff6174fdb-1d9f-197e-a119-df13ede35428.mp3" length="89170465" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ビジネス社員の佐々木さんをゲストに「ビジネス社員として嬉しいエンジニア像」について聞きました&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[新人研修で話した Wantedly のアーキテクチャの話 w/ @Altech_2015]]></title>
+			<description><![CDATA[<ul>
+ <li>https://twitter.com/Altech_2015</li>
+ <li><a href="https://speakerdeck.com/altech/wantedly-architecture-overview">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>
+ <li><a href="https://docs.wantedly.dev/introduction/technical-overview"><strong>技術とアーキテクチャ</strong></a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io">退職するつもりでコードを書け w/ @stomk_</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Wantedly--w-Altech_2015-e1hnr68</link>
+			<guid isPermaLink="false">075d07f8-79a5-4e5d-a2de-805e3ee17f48</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 27 Apr 2022 12:29:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/51161736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-27%2F6dfd85d6-566c-2f99-3df1-b7525f3b2fc0.mp3" length="78648551" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;https://twitter.com/Altech_2015&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/altech/wantedly-architecture-overview&quot;&gt;Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/introduction/technical-overview&quot;&gt;&lt;strong&gt;技術とアーキテクチャ&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io&quot;&gt;退職するつもりでコードを書け w/ @stomk_&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[退職するつもりでコードを書け w/ @stomk_]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/stomk_">@stomk_</a> に 「レガシー化していた課金周りのシステムを改善するためにやったこと」について詳しく聞きました。</p>
+<ul>
+ <li>ホスト: <a href="https://www.wantedly.com/id/potsbo">https://www.wantedly.com/id/potsbo</a></li>
+ <li>ゲスト: https://www.wantedly.com/id/shingo_tomioka</li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/385445">レガシー化していた課金周りのシステムを改善するためにやったこと</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/1732102201">A Philosophy of Software Design</a></li>
+  <li><a href="https://www.shoeisha.co.jp/book/detail/9784798145143">レガシーソフトウェア改善ガイド - 翔泳社</a></li>
+  <li><a href="https://www.oreilly.co.jp/books/9784873118864/">レガシーコードからの脱却 - O'Reilly Japan</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io</link>
+			<guid isPermaLink="false">cb7f51da-8fbd-44ab-be5a-4fb62c42406e</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 20 Apr 2022 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/50780184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-19%2F1eda07ac-e903-1045-54e3-790b505cd117.mp3" length="90561015" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/stomk_&quot;&gt;@stomk_&lt;/a&gt; に 「レガシー化していた課金周りのシステムを改善するためにやったこと」について詳しく聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;ホスト: &lt;a href=&quot;https://www.wantedly.com/id/potsbo&quot;&gt;https://www.wantedly.com/id/potsbo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ゲスト: https://www.wantedly.com/id/shingo_tomioka&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/385445&quot;&gt;レガシー化していた課金周りのシステムを改善するためにやったこと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/1732102201&quot;&gt;A Philosophy of Software Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shoeisha.co.jp/book/detail/9784798145143&quot;&gt;レガシーソフトウェア改善ガイド - 翔泳社&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873118864/&quot;&gt;レガシーコードからの脱却 - O&apos;Reilly Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:02:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[設計なんもわからん - Production Ready GraphQL 輪読会 その2 w/ @izumin5210]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/izumin5210">@izumin5210</a> に Production Ready GraphQL を中心に GraphQL のベストプラクティスにまつわるあれこれを聞きました。</p>
+<ul>
+ <li>ホスト: <a href="https://www.wantedly.com/id/potsbo">https://www.wantedly.com/id/potsbo</a></li>
+ <li>ゲスト: <a href="https://www.wantedly.com/id/izumin">https://www.wantedly.com/id/izumin</a></li>
+ <li><a href="//Production Ready GraphQL">https://book.productionreadygraphql.com/</a></li>
+ <li><a href="https://anchor.fm/dashboard/episode/e1g2me3">Production Ready GraphQL 輪読してみた w/ @hachiblog</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/Production-Ready-GraphQL--w-hachiblog-e1g2me3">GraphQL Gateway の理想と達成までの道のり w/ @izumin5210</a></li>
+ <li><a href="https://relay.dev/graphql/connections.htm">GraphQL Cursor Connections Specification</a></li>
+ <li>id の不透明性</li>
+ <li><a href="https://graphql-api.com/guides/schema/using-nested-mutations/">Using nested mutations</a></li>
+  <li><a href="https://github.com/wantedly/graphql-errorhandling-example#netflix-dgs">Netflix DGS</a></li>
+  <li><a href="https://github.com/graphql/graphql-over-http">GraphQL over HTTP</a></li>
+  <li><a href="https://github.com/graphql/graphql-over-http/blob/main/spec/GraphQLOverHTTP.md#status-codes">Status Codes</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/--Production-Ready-GraphQL--2-w-izumin5210-e1grld0</link>
+			<guid isPermaLink="false">8a80b222-769d-4702-9ad4-9575b18a5fe8</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 13 Apr 2022 10:40:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/50238304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-7%2F258414597-44100-2-9174e5949664c.m4a" length="63029894" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/izumin5210&quot;&gt;@izumin5210&lt;/a&gt; に Production Ready GraphQL を中心に GraphQL のベストプラクティスにまつわるあれこれを聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;ホスト: &lt;a href=&quot;https://www.wantedly.com/id/potsbo&quot;&gt;https://www.wantedly.com/id/potsbo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ゲスト: &lt;a href=&quot;https://www.wantedly.com/id/izumin&quot;&gt;https://www.wantedly.com/id/izumin&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;//Production Ready GraphQL&quot;&gt;https://book.productionreadygraphql.com/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/dashboard/episode/e1g2me3&quot;&gt;Production Ready GraphQL 輪読してみた w/ @hachiblog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Production-Ready-GraphQL--w-hachiblog-e1g2me3&quot;&gt;GraphQL Gateway の理想と達成までの道のり w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://relay.dev/graphql/connections.htm&quot;&gt;GraphQL Cursor Connections Specification&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;id の不透明性&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://graphql-api.com/guides/schema/using-nested-mutations/&quot;&gt;Using nested mutations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wantedly/graphql-errorhandling-example#netflix-dgs&quot;&gt;Netflix DGS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphql-over-http&quot;&gt;GraphQL over HTTP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphql-over-http/blob/main/spec/GraphQLOverHTTP.md#status-codes&quot;&gt;Status Codes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[デザイナ目線で嬉しいエンジニアムーブ w/ @NishaMe1024]]></title>
+			<description><![CDATA[<p><a href="https://docs.wantedly.dev/fields/application/collaboration-with-designers">プロダクトデザイナーと上手に協働するための心得</a> 感想を Product Design Chapter Lead の <a href="https://twitter.com/NishaMe1024">@NishaMe1024</a> に聞きました。</p>
+<ul>
+ <li>ホスト: <a href="https://www.wantedly.com/id/potsbo">https://www.wantedly.com/id/potsbo</a></li>
+ <li>ゲスト: <a href="https://www.wantedly.com/id/NishaMe">https://www.wantedly.com/id/NishaMe</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/w-kbys_02-e1dil96">プロダクトデザイナーと上手に協働するための心得 w/ @kbys_02</a></li>
+ <li><a href="https://yasuhisa.com/could/article/consensus-consent/">デザインの合意形成にある落とし穴</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/313884">マイクロサービスでもポチポチ確認するための Kubefork</a></li>
+  <li><a href="https://anchor.fm/fields/application/design-system">Webフロントエンドアプリのデザインシステムライブラリ</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-NishaMe1024-e1grlac</link>
+			<guid isPermaLink="false">866b5ca0-a688-437b-b5de-32522a09f9cb</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 07 Apr 2022 06:23:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/50238220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-7%2Fe2b367bf-c9c0-29bb-7302-59e25e0bfa7a.mp3" length="80217779" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/application/collaboration-with-designers&quot;&gt;プロダクトデザイナーと上手に協働するための心得&lt;/a&gt; 感想を Product Design Chapter Lead の &lt;a href=&quot;https://twitter.com/NishaMe1024&quot;&gt;@NishaMe1024&lt;/a&gt; に聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;ホスト: &lt;a href=&quot;https://www.wantedly.com/id/potsbo&quot;&gt;https://www.wantedly.com/id/potsbo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ゲスト: &lt;a href=&quot;https://www.wantedly.com/id/NishaMe&quot;&gt;https://www.wantedly.com/id/NishaMe&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-kbys_02-e1dil96&quot;&gt;プロダクトデザイナーと上手に協働するための心得 w/ @kbys_02&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://yasuhisa.com/could/article/consensus-consent/&quot;&gt;デザインの合意形成にある落とし穴&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/313884&quot;&gt;マイクロサービスでもポチポチ確認するための Kubefork&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/fields/application/design-system&quot;&gt;Webフロントエンドアプリのデザインシステムライブラリ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[新卒1年目にやったこと/やっておけばよかったこと w/ @nasa_desu @bubusububusu]]></title>
+			<description><![CDATA[<p>新卒1年目を終えるタイミングのエンジニアの <a href="https://twitter.com/nasa_desu">@nasa_desu</a> <a href="https://twitter.com/bubusububusu">@bubusububusu</a> に1年目にやったこととやっておけばよかったことを聞きました。</p>
+<ul>
+ <li><a href="https://www.wantedly.com/id/bubusu">山岸 立</a></li>
+ <li><a href="https://www.wantedly.com/id/nasa">近藤 アサン</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4905073413">なぜ、あなたの仕事は終わらないのか</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4799315323">コンサル一年目が学ぶこと</a></li>
+  <li><a href="https://qiita.com/advent-calendar/2021/wantedly-2021-newgrads">Wantedly 21新卒 Advent Calendar 2021</a></li>
+  <li><a href="https://wantedlyinc.com/ja/summer_intern_2022">Wantedly 24卒向けサマーインターンシップ</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/1-w-nasa_desu-bubusububusu-e1gf5rp</link>
+			<guid isPermaLink="false">def31683-ecfd-45d4-8b78-08369aa03a42</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 30 Mar 2022 06:11:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/49829177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-30%2Fa0624c9d-2b4a-1ba0-0b85-ee0830d98168.mp3" length="83677854" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;新卒1年目を終えるタイミングのエンジニアの &lt;a href=&quot;https://twitter.com/nasa_desu&quot;&gt;@nasa_desu&lt;/a&gt; &lt;a href=&quot;https://twitter.com/bubusububusu&quot;&gt;@bubusububusu&lt;/a&gt; に1年目にやったこととやっておけばよかったことを聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/bubusu&quot;&gt;山岸 立&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/nasa&quot;&gt;近藤 アサン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4905073413&quot;&gt;なぜ、あなたの仕事は終わらないのか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4799315323&quot;&gt;コンサル一年目が学ぶこと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2021/wantedly-2021-newgrads&quot;&gt;Wantedly 21新卒 Advent Calendar 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wantedlyinc.com/ja/summer_intern_2022&quot;&gt;Wantedly 24卒向けサマーインターンシップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:58:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Production Ready GraphQL 輪読してみた w/ @hachiblog]]></title>
+			<description><![CDATA[<p><a href="//Production Ready GraphQL">Production Ready GraphQL</a> を社内の輪読をしてみた <a href="https://twitter.com/hachiblog">@hachiblog</a> に内容と学びを聞いていきました。</p>
+<ul>
+ <li><a href="https://api.spacex.land/graphql/">SpaceX API</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/GraphQL-Gateway--w-izumin5210-e1emd20">GraphQL Gateway の理想と達成までの道のり w/ @izumin5210</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Production-Ready-GraphQL--w-hachiblog-e1g2me3</link>
+			<guid isPermaLink="false">4320839d-e4c4-460a-aaf9-3d83070c8a37</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 22 Mar 2022 07:28:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/49420163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2F4af5b9de-7292-032e-a988-5d07f982c2fc.mp3" length="67806272" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;//Production Ready GraphQL&quot;&gt;Production Ready GraphQL&lt;/a&gt; を社内の輪読をしてみた &lt;a href=&quot;https://twitter.com/hachiblog&quot;&gt;@hachiblog&lt;/a&gt; に内容と学びを聞いていきました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://api.spacex.land/graphql/&quot;&gt;SpaceX API&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/GraphQL-Gateway--w-izumin5210-e1emd20&quot;&gt;GraphQL Gateway の理想と達成までの道のり w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:47:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[CTOが自分のマネージャーになったデザイナーの本音 w/ @NishaMe1024]]></title>
+			<description><![CDATA[<p><a href="https://anchor.fm/dashboard/episode/e1faga9">CTOがデザインマネージャーやってみた w/ @kawasy</a> の感想を Product Design Chapter Lead の <a href="https://twitter.com/NishaMe1024">@NishaMe1024</a> に聞きました。</p>
+<ul>
+ <li><a href="https://twitter.com/kawasy/status/1479376622080118791">@kawasy の 決意表明ツイート</a></li>
+ <li><a href="https://twitter.com/kawasy/status/1479376622080118791">@NishaMe1024 の決意表明ツイート</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/CTO-w-NishaMe1024-e1fo6j0</link>
+			<guid isPermaLink="false">32f4de8c-470f-4eab-b6aa-bcb0ed170b75</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 15 Mar 2022 10:47:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/49076256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-15%2Fe5febf96-147f-22aa-61da-a9269edd5e2e.mp3" length="48689654" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://anchor.fm/dashboard/episode/e1faga9&quot;&gt;CTOがデザインマネージャーやってみた w/ @kawasy&lt;/a&gt; の感想を Product Design Chapter Lead の &lt;a href=&quot;https://twitter.com/NishaMe1024&quot;&gt;@NishaMe1024&lt;/a&gt; に聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasy/status/1479376622080118791&quot;&gt;@kawasy の 決意表明ツイート&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasy/status/1479376622080118791&quot;&gt;@NishaMe1024 の決意表明ツイート&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[CTOがデザインマネージャーやってみた w/ @kawasy]]></title>
+			<description><![CDATA[<p>CTO の <a href="https://twitter.com/kawasy">@kawasy</a> を呼んでデザインマネージャーの業務について聞きました</p>
+<ul>
+ <li><a href="https://twitter.com/kawasy/status/1479376622080118791">@kawasy の 決意表明ツイート</a></li>
+ <li><a href="https://twitter.com/kawasy/status/1479376622080118791">@NishaMe1024 の決意表明ツイート</a></li>
+  <li><a href="https://www.petermerholz.com/blog/agile-is-eating-designs-young-or-yet-another-reason-why-embedding-designers-doesnt-work/https://www.petermerholz.com/blog/agile-is-eating-designs-young-or-yet-another-reason-why-embedding-designers-doesnt-work/">“Agile” is eating design’s young; or, Yet Another Reason why “embedding” designers doesn’t work</a></li>
+  <li><a href="https://www.oreilly.co.jp/books/9784873119465/">ユニコーン企業のひみつ ――Spotifyで学んだソフトウェアづくりと働き方</a></li>
+  <li><a href="https://www.agility11.com/blog/2020/6/22/spotify-doesnt-use-the-spotify-model">Spotify Doesn't Use the Spotify Model</a></li>
+  <li><a href="https://speakerdeck.com/kawasy/design-system-and-scalable-product-development">デザインシステムが加速させるプロダクト開発</a></li>
+  <li><a href="https://docs.wantedly.dev/fields/application/collaboration-with-designers">プロダクトデザイナーと上手に協働するための心得</a></li>
+  <li><a href="https://docs.wantedly.dev/fields/application/design-system">Webフロントエンドアプリのデザインシステムライブラリ</a></li>
+  <li><a href="https://www.figma.com/community/file/994992887565225147">Wantedly UI Components</a></li>
+  <li><a href="https://note.com/osi_ire/n/nab08e43393b4">“広義のデザイン“が組織に根付き、“広義のデザイナー“が役目を終える時 -2022年のデザイナー市場動向-</a></li>
+  <li><a href="https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond">What is the framework for innovation? Design Council's evolved Double Diamond</a></li>
+  <li><a href="https://wantedly.design/">Wantedly Design</a></li>
+  <li><a href="https://www.oreilly.co.jp/books/9784873115658/">リーダブルコード ――より良いコードを書くためのシンプルで実践的なテクニック</a></li>
+  <li><a href="https://docs.wantedly.dev/">Wantedly Engineering Handbook</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/CTO-w-kawasy-e1faga9</link>
+			<guid isPermaLink="false">cf92b70c-c1d0-4b21-b9e9-9051808b1b70</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 08 Mar 2022 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/48627465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-6%2F02709cd9-230d-8c13-003f-b2de697557fc.mp3" length="95447376" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;CTO の &lt;a href=&quot;https://twitter.com/kawasy&quot;&gt;@kawasy&lt;/a&gt; を呼んでデザインマネージャーの業務について聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasy/status/1479376622080118791&quot;&gt;@kawasy の 決意表明ツイート&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasy/status/1479376622080118791&quot;&gt;@NishaMe1024 の決意表明ツイート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.petermerholz.com/blog/agile-is-eating-designs-young-or-yet-another-reason-why-embedding-designers-doesnt-work/https://www.petermerholz.com/blog/agile-is-eating-designs-young-or-yet-another-reason-why-embedding-designers-doesnt-work/&quot;&gt;“Agile” is eating design’s young; or, Yet Another Reason why “embedding” designers doesn’t work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873119465/&quot;&gt;ユニコーン企業のひみつ ――Spotifyで学んだソフトウェアづくりと働き方&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.agility11.com/blog/2020/6/22/spotify-doesnt-use-the-spotify-model&quot;&gt;Spotify Doesn&apos;t Use the Spotify Model&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kawasy/design-system-and-scalable-product-development&quot;&gt;デザインシステムが加速させるプロダクト開発&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/application/collaboration-with-designers&quot;&gt;プロダクトデザイナーと上手に協働するための心得&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/application/design-system&quot;&gt;Webフロントエンドアプリのデザインシステムライブラリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.figma.com/community/file/994992887565225147&quot;&gt;Wantedly UI Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/osi_ire/n/nab08e43393b4&quot;&gt;“広義のデザイン“が組織に根付き、“広義のデザイナー“が役目を終える時 -2022年のデザイナー市場動向-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond&quot;&gt;What is the framework for innovation? Design Council&apos;s evolved Double Diamond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wantedly.design/&quot;&gt;Wantedly Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873115658/&quot;&gt;リーダブルコード ――より良いコードを書くためのシンプルで実践的なテクニック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/&quot;&gt;Wantedly Engineering Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:06:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[PMBOK 第7版には大事で当たり前な原理原則が書いてある w/ @t_o_sh]]></title>
+			<description><![CDATA[<p>プロジェクトマネージャーの <a href="https://twitter.com/t_o_sh">@t_o_sh</a> に PMBOK 読書会で学んだことを聞きました。</p>
+<ul>
+ <li><a href="https://www.pmi-japan.shop/shopdetail/000000000028/">プロジェクトマネジメント知識体系ガイド（PMBOKガイド）第7版＋プロジェクトマネジメント標準</a></li>
+ <li><a href="https://12factor.net/">The Twelve Factors</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/145146">6枚のポスターを作って見えた、社内ブランディングにおけるビジュアライズの価値</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/PMBOK-7-w-t_o_sh-e1f10fk</link>
+			<guid isPermaLink="false">165c60a2-f53b-4da6-b7e0-051f436e7366</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 01 Mar 2022 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/48316340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-28%2F7c61d1dd-3851-ce06-45cd-6cbf495cb5e6.mp3" length="93876894" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;プロジェクトマネージャーの &lt;a href=&quot;https://twitter.com/t_o_sh&quot;&gt;@t_o_sh&lt;/a&gt; に PMBOK 読書会で学んだことを聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.pmi-japan.shop/shopdetail/000000000028/&quot;&gt;プロジェクトマネジメント知識体系ガイド（PMBOKガイド）第7版＋プロジェクトマネジメント標準&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://12factor.net/&quot;&gt;The Twelve Factors&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/145146&quot;&gt;6枚のポスターを作って見えた、社内ブランディングにおけるビジュアライズの価値&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:05:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GraphQL Gateway の理想と達成までの道のり w/ @izumin5210 ]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/izumin5210">@izumin5210</a> を呼んで GraphQL Gateway のつくりかたについて聞きました</p>
+<ul>
+ <li>https://www.wantedly.com/id/izumin</li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>
+  <li><a href="https://speakerdeck.com/izumin5210/jsconf-jp-2021">GraphQL 導入の反省と再挑戦 / jsconf jp 2021</a></li>
+  <li><a href="https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712">Reconciling GraphQL and Thrift at Airbnb</a></li>
+  <li><a href="https://book.productionreadygraphql.com/">Production Ready GraphQL</a></li>
+  <li><a href="https://nexusjs.org/">GraphQL Nexus</a></li>
+  <li><a href="//github.com/proto-graphql/proto-nexus">github.com/proto-graphql/proto-nexus</a></li>
+  <li><a href="https://github.com/proto-graphql/graphql-field-mask">github.com/proto-graphql/graphql-field-mask</a></li>
+  <li><a href="https://github.com/izumin5210/protogql">github.com/izumin5210/protogql</a></li>
+  <li><a href="https://github.com/graphql/graphql-js">github.com/graphql/graphql-js</a></li>
+  <li><a href="https://zenn.dev/izumin/articles/710eefc8172f66">GraphQL の引数では「値を入れない」と「null を渡す」を区別できる</a></li>
+  <li><a href="https://github.com/graphql/graphql-spec/issues/867">[RFC] Client controlled nullability operator #867</a></li>
+  <li><a href="https://github.com/graphql/graphql-spec/issues/488">[RFC] GraphQL Input Union type #488</a></li>
+  <li><a href="https://standfm.connpass.com/event/239750/">TECH STAND #7 GraphQL</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/GraphQL-Gateway--w-izumin5210-e1emd20</link>
+			<guid isPermaLink="false">8e397c90-b418-49fe-8dc6-5461b435a224</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Mon, 21 Feb 2022 09:21:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/47968768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249598788-44100-2-ae1d57e18f0fb.m4a" length="64655665" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/izumin5210&quot;&gt;@izumin5210&lt;/a&gt; を呼んで GraphQL Gateway のつくりかたについて聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;https://www.wantedly.com/id/izumin&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/izumin5210/jsconf-jp-2021&quot;&gt;GraphQL 導入の反省と再挑戦 / jsconf jp 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712&quot;&gt;Reconciling GraphQL and Thrift at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.productionreadygraphql.com/&quot;&gt;Production Ready GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nexusjs.org/&quot;&gt;GraphQL Nexus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;//github.com/proto-graphql/proto-nexus&quot;&gt;github.com/proto-graphql/proto-nexus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/proto-graphql/graphql-field-mask&quot;&gt;github.com/proto-graphql/graphql-field-mask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/izumin5210/protogql&quot;&gt;github.com/izumin5210/protogql&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphql-js&quot;&gt;github.com/graphql/graphql-js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenn.dev/izumin/articles/710eefc8172f66&quot;&gt;GraphQL の引数では「値を入れない」と「null を渡す」を区別できる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphql-spec/issues/867&quot;&gt;[RFC] Client controlled nullability operator #867&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphql-spec/issues/488&quot;&gt;[RFC] GraphQL Input Union type #488&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://standfm.connpass.com/event/239750/&quot;&gt;TECH STAND #7 GraphQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:06:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech]]></title>
+			<description><![CDATA[<p>アーキテクトの <a href="https://twitter.com/altech_2015">@Altech_2015</a> を呼んで 吉祥寺.pm28 で話した技術を的に当てる技術について聞きました</p>
+<ul>
+ <li><a href="https://kichijojipm.connpass.com/event/236031/">吉祥寺.pm28【オンライン】</a></li>
+ <li><a href="https://speakerdeck.com/altech/re-introduce-graphql">技術を的に当てる技術について - GraphQL を入れ直した話 / Re-Introduce GraphQL</a></li>
+ <li><a href="https://www.wantedly.com/id/altech">https://www.wantedly.com/id/altech</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/183567">フロントエンドに型の秩序を与えるGraphQLとTypeScript</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri">Protocol Buffers の書き方と管理方法 w/ @izumin5210</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/377009">速度と安全性を極めた先に見える最高の Developer eXperience</a></li>
+  <li><a href="https://gihyo.jp/book/2020/978-4-297-11351-3">オブジェクト指向UIデザイン ――使いやすいソフトウェアの原理</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv</link>
+			<guid isPermaLink="false">18cd7049-1694-4ce5-ad85-eafa5cf2ae1f</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 15 Feb 2022 08:10:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/47681855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-15%2F9b305628-49a8-c95a-45cd-285e650ec5ec.mp3" length="91310207" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;アーキテクトの &lt;a href=&quot;https://twitter.com/altech_2015&quot;&gt;@Altech_2015&lt;/a&gt; を呼んで 吉祥寺.pm28 で話した技術を的に当てる技術について聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://kichijojipm.connpass.com/event/236031/&quot;&gt;吉祥寺.pm28【オンライン】&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/altech/re-introduce-graphql&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 / Re-Introduce GraphQL&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/altech&quot;&gt;https://www.wantedly.com/id/altech&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/183567&quot;&gt;フロントエンドに型の秩序を与えるGraphQLとTypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri&quot;&gt;Protocol Buffers の書き方と管理方法 w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/377009&quot;&gt;速度と安全性を極めた先に見える最高の Developer eXperience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gihyo.jp/book/2020/978-4-297-11351-3&quot;&gt;オブジェクト指向UIデザイン ――使いやすいソフトウェアの原理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:03:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA["Kaggle" に集中できる推薦基盤改善 w/ @jy_msc]]></title>
+			<description><![CDATA[<p>データサイエンティストの <a href="https://twitter.com/jy_msc">@jy_msc</a>&nbsp;に "Kaggle" に集中できるように推薦基盤を改善した話を聞きました。</p>
+<ul>
+ <li><a href="https://www.wantedly.com/id/hakubishin3">https://www.wantedly.com/id/hakubishin3</a>
+ <ul>
+ <li><a href="https://twitter.com/jy_msc">https://twitter.com/jy_msc</a></li>
+ </ul>
+  </li>
+  <li><a href="https://www.kaggle.com/">https://www.kaggle.com/</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l">https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/w-rerost-e1a5otg">https://anchor.fm/wantedly-dev/episodes/w-rerost-e1a5otg</a></li>
+  <li><a href="https://www.wantedly.com/id/yuya4">https://www.wantedly.com/id/yuya4</a></li>
+  <li><a href="https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development">https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Kaggle--w-jy_msc-e1dtfs9</link>
+			<guid isPermaLink="false">3240c783-013c-4282-85f0-f9933d07088b</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Fri, 04 Feb 2022 11:03:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/47152457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-4%2F04e690c9-124b-f632-f65b-f6e7a4bccbd7.m4a" length="56758690" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;データサイエンティストの &lt;a href=&quot;https://twitter.com/jy_msc&quot;&gt;@jy_msc&lt;/a&gt;&amp;nbsp;に &quot;Kaggle&quot; に集中できるように推薦基盤を改善した話を聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/hakubishin3&quot;&gt;https://www.wantedly.com/id/hakubishin3&lt;/a&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/jy_msc&quot;&gt;https://twitter.com/jy_msc&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/&quot;&gt;https://www.kaggle.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l&quot;&gt;https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-rerost-e1a5otg&quot;&gt;https://anchor.fm/wantedly-dev/episodes/w-rerost-e1a5otg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/yuya4&quot;&gt;https://www.wantedly.com/id/yuya4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development&quot;&gt;https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:59:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[プロダクトデザイナーと上手に協働するための心得 w/ @kbys_02]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/kbys_02"><strong>@kbys_02</strong></a><strong> を招いて</strong><a href="https://docs.wantedly.dev/fields/application/collaboration-with-designers"><strong>プロダクトデザイナーと上手に協働するための心得</strong></a><strong>の解説をもらいました。</strong></p>
+<p><strong>上手く協働するための心得</strong></p>
+<ul>
+ <li>共通言語で話す</li>
+ <li>唯一の情報源を持つ</li>
+  <li>幅広い観点を持つ</li>
+  <li>語るよりも見せる</li>
+</ul>
+<p>スムーズに仕事を進めるための心得</p>
+<ul>
+  <li>デザイナーを巻き込む</li>
+  <li>デザインのフィードバック</li>
+  <li>実装</li>
+  <li>実装のデザインチェック</li>
+</ul>
+<p>参考リンク</p>
+<ul>
+  <li><a href="https://www.wantedly.com/id/kobayang">https://www.wantedly.com/id/kobayang</a></li>
+  <li><a href="https://www.wantedly.com/about/engagement">https://www.wantedly.com/about/engagement</a></li>
+  <li><a href="https://www.youtube.com/watch?v=E8krMn75ipA">Storybook が良い UI コンポーネントのレールになる</a>&nbsp;</li>
+  <li><a href="https://docs.wantedly.dev/">https://docs.wantedly.dev/</a></li>
+  <li><a href="https://developer.apple.com/videos/play/wwdc2017/809https://developer.apple.com/videos/play/wwdc2017/809">Communication Between Designers and Engineers, WWDC2017</a></li>
+  <li><a href="https://www.youtube.com/watch?v=EyaPtTEfRc0">SwiftUI でデザインシステム実装を加速させる</a></li>
+  <li><a href="https://docs.wantedly.dev/fields/application/design-system">Webフロントエンドアプリのデザインシステムライブラリ</a></li>
+  <li><a href="https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E8%89%AF%E3%81%84-issue-%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9">開発フロー研修 @ Wantedly / 良い Issue の書き方</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/313884">マイクロサービスでもポチポチ確認するための Kubefork</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-kbys_02-e1dil96</link>
+			<guid isPermaLink="false">7b0944ee-c599-43c7-8a09-2a3e689e8b98</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Fri, 28 Jan 2022 07:09:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/46797542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2Fca86626b-029b-eb94-4b73-f043def32a5b.m4a" length="52424960" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/kbys_02&quot;&gt;&lt;strong&gt;@kbys_02&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; を招いて&lt;/strong&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/application/collaboration-with-designers&quot;&gt;&lt;strong&gt;プロダクトデザイナーと上手に協働するための心得&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;の解説をもらいました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上手く協働するための心得&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;共通言語で話す&lt;/li&gt;
+ &lt;li&gt;唯一の情報源を持つ&lt;/li&gt;
+  &lt;li&gt;幅広い観点を持つ&lt;/li&gt;
+  &lt;li&gt;語るよりも見せる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;スムーズに仕事を進めるための心得&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;デザイナーを巻き込む&lt;/li&gt;
+  &lt;li&gt;デザインのフィードバック&lt;/li&gt;
+  &lt;li&gt;実装&lt;/li&gt;
+  &lt;li&gt;実装のデザインチェック&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考リンク&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/kobayang&quot;&gt;https://www.wantedly.com/id/kobayang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/about/engagement&quot;&gt;https://www.wantedly.com/about/engagement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=E8krMn75ipA&quot;&gt;Storybook が良い UI コンポーネントのレールになる&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/&quot;&gt;https://docs.wantedly.dev/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2017/809https://developer.apple.com/videos/play/wwdc2017/809&quot;&gt;Communication Between Designers and Engineers, WWDC2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EyaPtTEfRc0&quot;&gt;SwiftUI でデザインシステム実装を加速させる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/application/design-system&quot;&gt;Webフロントエンドアプリのデザインシステムライブラリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E8%89%AF%E3%81%84-issue-%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9&quot;&gt;開発フロー研修 @ Wantedly / 良い Issue の書き方&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/313884&quot;&gt;マイクロサービスでもポチポチ確認するための Kubefork&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Topotal 誕生秘話と今後の構想 w/ @nari_ex]]></title>
+			<description><![CDATA[<p><strong>株式会社Topotal のCEO 高村さんに SRE での創業秘話や今後の展開について聞きました。</strong></p>
+<p>トピック</p>
+<ul>
+ <li>なぜ SRE で起業したのか</li>
+ <li>SRE as a Service の事例</li>
+  <li>Waroom の構想</li>
+  <li>今後の Topotal</li>
+</ul>
+<p>リンク</p>
+<ul>
+  <li><a href="https://www.wantedly.com/id/nari_ex"><strong>https://www.wantedly.com/id/nari_ex</strong></a></li>
+  <li><a href="https://topotal.com/"><strong>https://topotal.com/</strong></a></li>
+  <li><a href="https://topotal.com/services/sre-as-a-service/case-study/20211116-wantedly"><strong>https://topotal.com/services/sre-as-a-service/case-study/20211116-wantedly</strong></a></li>
+  <li><a href="https://e34.fm/3/"><strong>https://e34.fm/3/</strong></a></li>
+  <li><a href="https://waroom.com/"><strong>https://waroom.com/</strong></a></li>
+  <li><a href="https://docs.wantedly.dev/fields/dev-process/post-mortems"><strong>https://docs.wantedly.dev/fields/dev-process/post-mortems</strong></a></li>
+  <li><a href="https://docs.wantedly.dev/introduction/incident"><strong>https://docs.wantedly.dev/introduction/incident</strong></a></li>
+  <li><a href="https://docs.topotal.com/sales/sales-materials-ver10.pdf"><strong>https://docs.topotal.com/sales/sales-materials-ver10.pdf</strong></a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Topotal--w-nari_ex-e1b4d1j</link>
+			<guid isPermaLink="false">a87c16a5-b4b1-4e4d-8f09-db1fd2a4378c</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Mon, 06 Dec 2021 08:20:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/44233203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-2%2F5fb76a3f-f6c0-bc1b-f7f3-28f7e485c4d6.mp3" length="82857191" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;株式会社Topotal のCEO 高村さんに SRE での創業秘話や今後の展開について聞きました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;トピック&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;なぜ SRE で起業したのか&lt;/li&gt;
+ &lt;li&gt;SRE as a Service の事例&lt;/li&gt;
+  &lt;li&gt;Waroom の構想&lt;/li&gt;
+  &lt;li&gt;今後の Topotal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;リンク&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/nari_ex&quot;&gt;&lt;strong&gt;https://www.wantedly.com/id/nari_ex&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://topotal.com/&quot;&gt;&lt;strong&gt;https://topotal.com/&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://topotal.com/services/sre-as-a-service/case-study/20211116-wantedly&quot;&gt;&lt;strong&gt;https://topotal.com/services/sre-as-a-service/case-study/20211116-wantedly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://e34.fm/3/&quot;&gt;&lt;strong&gt;https://e34.fm/3/&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://waroom.com/&quot;&gt;&lt;strong&gt;https://waroom.com/&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/dev-process/post-mortems&quot;&gt;&lt;strong&gt;https://docs.wantedly.dev/fields/dev-process/post-mortems&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/introduction/incident&quot;&gt;&lt;strong&gt;https://docs.wantedly.dev/introduction/incident&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.topotal.com/sales/sales-materials-ver10.pdf&quot;&gt;&lt;strong&gt;https://docs.topotal.com/sales/sales-materials-ver10.pdf&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:57:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[データサイエンスの先読みですすめる推薦基盤開発 w/ @rerost]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/rerost">rerost</a> をゲストに呼んでデータサイエンティスのための基盤づくりの手法について聞きました</p>
+<ul>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l" target="_blank"><strong>「推薦が壊れる」とはなにか w/ @rerost</strong></a></li>
+ <li><a href="https://github.com/wantedly/bqv-catalog" target="_blank">bqv-catalog</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-rerost-e1a5otg</link>
+			<guid isPermaLink="false">a068c678-918d-44bf-b313-b3427927578e</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Fri, 12 Nov 2021 10:59:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/43229552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2F8b3730e3-ee38-ab2d-adc1-ca0275bf9788.mp3" length="75153367" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/rerost&quot;&gt;rerost&lt;/a&gt; をゲストに呼んでデータサイエンティスのための基盤づくりの手法について聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;「推薦が壊れる」とはなにか w/ @rerost&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/wantedly/bqv-catalog&quot; target=&quot;_blank&quot;&gt;bqv-catalog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Architect の仕事]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/altech">@Altech</a> をゲストに呼んで Architect のしごとについて聞きました。</p>
+<p>トピック</p>
+<ul>
+ <li>設計の階層</li>
+ <li>Architecture Style</li>
+  <li>コミュニケーション設計</li>
+  <li>不確定性のある意思決定をどうやって行くか</li>
+  <li>設計のコツ</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Architect-e19ecpf</link>
+			<guid isPermaLink="false">0a0c92be-27e5-4344-9e19-9da845413ebf</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 28 Oct 2021 10:26:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/42463471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-28%2F570b2e3c-936f-e84e-b795-3472689e7e7a.m4a" length="90934971" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/altech&quot;&gt;@Altech&lt;/a&gt; をゲストに呼んで Architect のしごとについて聞きました。&lt;/p&gt;
+&lt;p&gt;トピック&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;設計の階層&lt;/li&gt;
+ &lt;li&gt;Architecture Style&lt;/li&gt;
+  &lt;li&gt;コミュニケーション設計&lt;/li&gt;
+  &lt;li&gt;不確定性のある意思決定をどうやって行くか&lt;/li&gt;
+  &lt;li&gt;設計のコツ&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:02:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#ISUCON で100万点とって予選2位になるためにやったこと]]></title>
+			<description><![CDATA[<p><a href="https://isucon.net/archives/55821036.html">ISUCON11</a> の予選を2位で突破した「都営三田線東急目黒線直通急行日吉行」の <a href="https://www.wantedly.com/id/izumin">@izumin5210</a> に何をしたのかを聞きました。</p>
+<ul>
+ <li><a href="https://isucon.net/archives/56021246.html">ISUCON11 オンライン予選 全てのチームのスコア（参考値）</a></li>
+ <li><a href="https://github.com/isucon/isucon11-qualify"><u>https://github.com/isucon/isucon11-qualify</u></a></li>
+  <li><a href="http://dsas.blog.klab.org/archives/52191467.html">go-sql-driver/mysql でプレースホルダ置換をサポートしました</a></li>
+  <li><a href="https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146#prepared-statement%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">GoでISUCONを戦う話 #prepared statementについて</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu</link>
+			<guid isPermaLink="false">89ec579b-762b-4636-aa1b-ba23fca05f9e</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Mon, 23 Aug 2021 09:46:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/39199102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-23%2Fb26c7f35-e5b3-9230-4f27-a4d260818cea.mp3" length="124739444" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://isucon.net/archives/55821036.html&quot;&gt;ISUCON11&lt;/a&gt; の予選を2位で突破した「都営三田線東急目黒線直通急行日吉行」の &lt;a href=&quot;https://www.wantedly.com/id/izumin&quot;&gt;@izumin5210&lt;/a&gt; に何をしたのかを聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56021246.html&quot;&gt;ISUCON11 オンライン予選 全てのチームのスコア（参考値）&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/isucon/isucon11-qualify&quot;&gt;&lt;u&gt;https://github.com/isucon/isucon11-qualify&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsas.blog.klab.org/archives/52191467.html&quot;&gt;go-sql-driver/mysql でプレースホルダ置換をサポートしました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/catatsuy/e627aaf118fbe001f2e7c665fda48146#prepared-statement%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&quot;&gt;GoでISUCONを戦う話 #prepared statementについて&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[仕様を投げたら設計ができる機械は作れるのか w/ @Altech]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/altech" target="_blank">@Altech</a> をゲストに呼んでソフトウェア設計と抽象について聞きました。</p>
+<p>トピック</p>
+<ul>
+ <li>変えないコードには設計はいらないのか</li>
+ <li>仕様を投げたら設計ができる機械は作れるのか</li>
+  <li>「肩書」は人と 1:N 関係？</li>
+  <li>抽象とは抽象という抽象の1インスタンス</li>
+  <li>抽象と抽象化の違い</li>
+</ul>
+<p>参考リンク</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=u9FXgLW8c8c" target="_blank">ソフトウェアの良い設計/抽象/ドメイン</a></li>
+  <li><a href="https://www.youtube.com/watch?v=vsFJzJLpQiQ" target="_blank">抽象を使わないプログラミング/問題の分割/設計がソフトウェア自体を定義する</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/327621" target="_blank">ソフトウェア設計の Why &amp; What &amp; How</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4798113468" target="_blank">ガウディ本</a></li>
+  <li><a href="https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri">Protocol Buffers の書き方と管理方法 w/ @izumin5210</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-Altech-e1600bu</link>
+			<guid isPermaLink="false">b972e464-9b09-4f9a-acdf-9219312b91ff</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 18 Aug 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/38846270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2F6dc49956-38fe-47d1-ed66-df5da95e3ce1.mp3" length="115814232" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/altech&quot; target=&quot;_blank&quot;&gt;@Altech&lt;/a&gt; をゲストに呼んでソフトウェア設計と抽象について聞きました。&lt;/p&gt;
+&lt;p&gt;トピック&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;変えないコードには設計はいらないのか&lt;/li&gt;
+ &lt;li&gt;仕様を投げたら設計ができる機械は作れるのか&lt;/li&gt;
+  &lt;li&gt;「肩書」は人と 1:N 関係？&lt;/li&gt;
+  &lt;li&gt;抽象とは抽象という抽象の1インスタンス&lt;/li&gt;
+  &lt;li&gt;抽象と抽象化の違い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考リンク&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=u9FXgLW8c8c&quot; target=&quot;_blank&quot;&gt;ソフトウェアの良い設計/抽象/ドメイン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vsFJzJLpQiQ&quot; target=&quot;_blank&quot;&gt;抽象を使わないプログラミング/問題の分割/設計がソフトウェア自体を定義する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/327621&quot; target=&quot;_blank&quot;&gt;ソフトウェア設計の Why &amp;amp; What &amp;amp; How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4798113468&quot; target=&quot;_blank&quot;&gt;ガウディ本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri&quot;&gt;Protocol Buffers の書き方と管理方法 w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:00:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[フロントエンドリノベーション w/ @chloe463]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/chloe463">@chloe463</a> をゲストに呼んでリノベーションを通したフロントエンドのアーキテクチャ進化とその変遷について話しました。</p>
+<p>トピック</p>
+<ul>
+ <li>リノベーションという手段</li>
+ <li>リノベーションの Tips</li>
+  <li>Wantedly のフロントエンドアーキテクチャ変遷</li>
+  <li>Wantedly のフロントエンドアーキテクチャの未来</li>
+</ul>
+<p>参考リンク</p>
+<ul>
+  <li><a href="https://techbookfest.org/product/4831016940208128?productVariantID=4856256852393984">Wantedly Engineering Handbook</a>&nbsp;</li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/309086">フロントエンドリノベーション―負債から資産へ</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/303552">Webの最前線に立つならリノベーションし続ける必要がある</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/302873">React でデザインシステムを正しく実装する - コンポーネントカタログを超えて</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/306400">UIデザインに必要な『一貫性』へのアプローチ - 管理画面のアップデートに際して</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/299554">2つのWebpack buildを1つに統合した話</a></li>
+  <li><a href="https://nextjs.org/">Next.js</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-chloe463-e15oq76</link>
+			<guid isPermaLink="false">7142116a-951d-41a6-83bf-da688e7eebfa</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 11 Aug 2021 10:04:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/38610598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-11%2F4dda56d5-69f2-b36a-8d1e-9c3c9e6b459f.m4a" length="82598402" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/chloe463&quot;&gt;@chloe463&lt;/a&gt; をゲストに呼んでリノベーションを通したフロントエンドのアーキテクチャ進化とその変遷について話しました。&lt;/p&gt;
+&lt;p&gt;トピック&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;リノベーションという手段&lt;/li&gt;
+ &lt;li&gt;リノベーションの Tips&lt;/li&gt;
+  &lt;li&gt;Wantedly のフロントエンドアーキテクチャ変遷&lt;/li&gt;
+  &lt;li&gt;Wantedly のフロントエンドアーキテクチャの未来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考リンク&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/4831016940208128?productVariantID=4856256852393984&quot;&gt;Wantedly Engineering Handbook&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/309086&quot;&gt;フロントエンドリノベーション―負債から資産へ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/303552&quot;&gt;Webの最前線に立つならリノベーションし続ける必要がある&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/302873&quot;&gt;React でデザインシステムを正しく実装する - コンポーネントカタログを超えて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/306400&quot;&gt;UIデザインに必要な『一貫性』へのアプローチ - 管理画面のアップデートに際して&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/299554&quot;&gt;2つのWebpack buildを1つに統合した話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nextjs.org/&quot;&gt;Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Protocol Buffers の書き方と管理方法 w/ @izumin5210]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/izumin">@izumin5210</a> をゲストに呼んで <a href="https://developers.google.com/protocol-buffers">Protocol Buffers </a>と <a href="https://grpc.io/">gRPC</a> を利用したマイクロサービス間通信の考え方とTipsについて聞きました。</p>
+<p>トピック</p>
+<ul>
+ <li>gRPC が使えない環境における Protocol Buffers のメリット</li>
+ <li>Protocol Buffers の書き方で気をつけること</li>
+  <li>インターフェースの重要性</li>
+  <li>proto ファイルの管理方法</li>
+</ul>
+<p>参考リンク</p>
+<ul>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/311135">マイクロサービス共通ライブラリで “Governance through code” を実現する</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/302873">React でデザインシステムを正しく実装する - コンポーネントカタログを超えて</a></li>
+  <li><a href="https://techbookfest.org/product/4831016940208128">Wantedly Engineering Handbook</a></li>
+  <li><a href="https://docs.wantedly.dev/fields/system/apis">protobufスキーマとgRPC通信</a></li>
+  <li><a href="https://github.com/izumin5210/grapi">github.com/izumin5210/grapi</a></li>
+  <li><a href="https://zenn.dev/qnighy/articles/b39ff132777758"><strong>公式ドキュメントの読み方</strong></a></li>
+  <li><a href="https://developers.google.com/protocol-buffers/docs/proto3">Language Guide (proto3)</a></li>
+  <li><a href="https://cloud.google.com/apis/design">API Design Guide</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/313884">マイクロサービスでもポチポチ確認するための Kubefork</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/327621">ソフトウェア設計の Why &amp; What &amp; How</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri</link>
+			<guid isPermaLink="false">b2f18250-21ea-454d-b063-5bb02ab610e4</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Fri, 06 Aug 2021 07:49:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/38374706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2Fda1cd9eb-6ebe-70ef-c8ce-b812896c7366.m4a" length="82778067" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/izumin&quot;&gt;@izumin5210&lt;/a&gt; をゲストに呼んで &lt;a href=&quot;https://developers.google.com/protocol-buffers&quot;&gt;Protocol Buffers &lt;/a&gt;と &lt;a href=&quot;https://grpc.io/&quot;&gt;gRPC&lt;/a&gt; を利用したマイクロサービス間通信の考え方とTipsについて聞きました。&lt;/p&gt;
+&lt;p&gt;トピック&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;gRPC が使えない環境における Protocol Buffers のメリット&lt;/li&gt;
+ &lt;li&gt;Protocol Buffers の書き方で気をつけること&lt;/li&gt;
+  &lt;li&gt;インターフェースの重要性&lt;/li&gt;
+  &lt;li&gt;proto ファイルの管理方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考リンク&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/311135&quot;&gt;マイクロサービス共通ライブラリで “Governance through code” を実現する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/302873&quot;&gt;React でデザインシステムを正しく実装する - コンポーネントカタログを超えて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/4831016940208128&quot;&gt;Wantedly Engineering Handbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/fields/system/apis&quot;&gt;protobufスキーマとgRPC通信&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/izumin5210/grapi&quot;&gt;github.com/izumin5210/grapi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenn.dev/qnighy/articles/b39ff132777758&quot;&gt;&lt;strong&gt;公式ドキュメントの読み方&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/protocol-buffers/docs/proto3&quot;&gt;Language Guide (proto3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/apis/design&quot;&gt;API Design Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/313884&quot;&gt;マイクロサービスでもポチポチ確認するための Kubefork&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/327621&quot;&gt;ソフトウェア設計の Why &amp;amp; What &amp;amp; How&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:57:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Kotlin Multiplatform Mobile w/ @kubode]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/kubode">@kubode</a> をゲストに呼んで <a href="https://kotlinlang.org/lp/mobile/">Kotlin Multiplatform Mobile</a> の導入経緯と Pros/Cons について聞きました。</p>
+<p><br></p>
+<ul>
+ <li><a href="https://kotlinlang.org/docs/multiplatform.html">Kotlin Multiplatform</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/282562">React Nativeをやめる話とKotlin Multiplatform</a></li>
+  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/300999">Wantedly VisitにおけるKotlin Multiplatformの導入と実装</a></li>
+  <li><a href="https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits">KMMの導入と得られるもの</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Kotlin-Multiplatform-Mobile-w-kubode-e14pmft</link>
+			<guid isPermaLink="false">4569d0a6-156e-478c-9e43-4cb54cdfebd3</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 22 Jul 2021 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/37590973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F1df8b16b-914e-6629-d78e-a6ed2aff6751.m4a" length="84682529" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/kubode&quot;&gt;@kubode&lt;/a&gt; をゲストに呼んで &lt;a href=&quot;https://kotlinlang.org/lp/mobile/&quot;&gt;Kotlin Multiplatform Mobile&lt;/a&gt; の導入経緯と Pros/Cons について聞きました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://kotlinlang.org/docs/multiplatform.html&quot;&gt;Kotlin Multiplatform&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/282562&quot;&gt;React Nativeをやめる話とKotlin Multiplatform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/300999&quot;&gt;Wantedly VisitにおけるKotlin Multiplatformの導入と実装&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits&quot;&gt;KMMの導入と得られるもの&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:58:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[「推薦が壊れる」とはなにか w/ @rerost]]></title>
+			<description><![CDATA[<p><a href="https://www.wantedly.com/id/rerost">rerost</a> をゲストに呼んで堅牢な推薦基盤の作り方について聞きました。</p>
+<p>推薦が壊れている状態とはなにか、なぜ定義したいのか、検知が何故難しいのか、どの様に解決していくのかなどについて話しました。</p>
+<ul>
+ <li><a href="https://techlife.cookpad.com/entry/2018/11/12/083000">Chaos Engineering に向けてレシピサービスの Steady State を追求する</a></li>
+ <li><a href="https://github.com/rerost/bq-table-validator">bq table validator</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/309759">ランキングに対する演算</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/302473">Argo Workflow at Wantedly</a></li>
+ <li><a href="https://github.com/rerost/dagg">dagg</a></li>
+</ul>
+<p>https://www.wantedly.com/companies/wantedly</p>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/w-rerost-e14fp3l</link>
+			<guid isPermaLink="false">b5702eca-f969-437a-8105-2d615d687d7b</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 15 Jul 2021 07:00:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/37265973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F6fc5267a-b332-cd61-f62a-e9f99461b01b.m4a" length="80981395" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.wantedly.com/id/rerost&quot;&gt;rerost&lt;/a&gt; をゲストに呼んで堅牢な推薦基盤の作り方について聞きました。&lt;/p&gt;
+&lt;p&gt;推薦が壊れている状態とはなにか、なぜ定義したいのか、検知が何故難しいのか、どの様に解決していくのかなどについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://techlife.cookpad.com/entry/2018/11/12/083000&quot;&gt;Chaos Engineering に向けてレシピサービスの Steady State を追求する&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rerost/bq-table-validator&quot;&gt;bq table validator&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/309759&quot;&gt;ランキングに対する演算&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/302473&quot;&gt;Argo Workflow at Wantedly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rerost/dagg&quot;&gt;dagg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;https://www.wantedly.com/companies/wantedly&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

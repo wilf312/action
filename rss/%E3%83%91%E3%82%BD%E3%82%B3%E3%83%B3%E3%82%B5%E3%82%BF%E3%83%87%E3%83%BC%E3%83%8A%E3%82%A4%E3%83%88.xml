@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[mookjp のパソコンサタデーナイト]]></title>
+		<description><![CDATA[ソフトウェアエンジニアをしている mookjp が、毎回ゲストと一緒にパソコン、プログラミング、人生、などについておしゃべりしていく番組です。番組の告知は https://twitter.com/mookjp でもしています。]]></description>
+		<link>https://blog.mookjp.io</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8379355/8379355-1599227808651-aad3b4492b219.jpg</url>
+			<title>mookjp のパソコンサタデーナイト</title>
+			<link>https://blog.mookjp.io</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 24 Aug 2022 05:53:11 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/328a780c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[mookjp]]></author>
+		<copyright><![CDATA[mookjp]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>mookjp</itunes:author>
+		<itunes:summary>ソフトウェアエンジニアをしている mookjp が、毎回ゲストと一緒にパソコン、プログラミング、人生、などについておしゃべりしていく番組です。番組の告知は https://twitter.com/mookjp でもしています。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>mookjp</itunes:name>
+			<itunes:email>mookjpy@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8379355/8379355-1599227808651-aad3b4492b219.jpg"/>
+		<item>
+			<title><![CDATA[第3回 ゲスト: @songmu 後編]]></title>
+			<description><![CDATA[<p>第3回は、第2回に引き続いて Nature CTO の https://twitter.com/songmu さんをゲストにお迎えしています。<br>
+Nature Remo で使っている技術について、@songmu さんの意外なキャリアについて、お便りコーナー(好きなプロロードレーサーは誰ですか？、Will がない人と1on1するときはどうしてますか？)について話しています。</p>
+<ul>
+ <li><a href="https://github.com/Songmu/smartcache">Songmu/smartcache</a></li>
+ <li><a href="https://godoc.org/golang.org/x/sync/singleflight">golang.org/x/sync/singleflight</a></li>
+ <li><a href="https://engineer-lab.findy-code.io/neet-to-cto">「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話 - Findy Engineer Lab - ファインディエンジニアラボ</a></li>
+ <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%92%E3%83%A1%E3%83%8D%E3%82%B9">ホセ・マリア・ヒメネス - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0">ランス・アームストロング - Wikipedia</a></li>
+  <li><a href="https://recruit-holdings.co.jp/sustainability/people-workplace/human-resources/">Will Can Must</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/mookjp/episodes/3--songmu-ek95hi</link>
+			<guid isPermaLink="false">03d8ff1d-b836-4937-9789-cf880e774687</guid>
+			<dc:creator><![CDATA[mookjp]]></dc:creator>
+			<pubDate>Wed, 30 Sep 2020 11:34:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/328a780c/podcast/play/20272114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-28%2F7db319b9-d22f-1a55-d7df-d8289ae09066.mp3" length="97357031" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第3回は、第2回に引き続いて Nature CTO の https://twitter.com/songmu さんをゲストにお迎えしています。&lt;br&gt;
+Nature Remo で使っている技術について、@songmu さんの意外なキャリアについて、お便りコーナー(好きなプロロードレーサーは誰ですか？、Will がない人と1on1するときはどうしてますか？)について話しています。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Songmu/smartcache&quot;&gt;Songmu/smartcache&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://godoc.org/golang.org/x/sync/singleflight&quot;&gt;golang.org/x/sync/singleflight&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://engineer-lab.findy-code.io/neet-to-cto&quot;&gt;「成長できる環境に身を置く」ことが本当のスタート。就活に失敗したニートからCTOになったエンジニアの話 - Findy Engineer Lab - ファインディエンジニアラボ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%92%E3%83%A1%E3%83%8D%E3%82%B9&quot;&gt;ホセ・マリア・ヒメネス - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0&quot;&gt;ランス・アームストロング - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://recruit-holdings.co.jp/sustainability/people-workplace/human-resources/&quot;&gt;Will Can Must&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8379355/8379355-1599227808651-aad3b4492b219.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第2回 ゲスト: @songmu 前編]]></title>
+			<description><![CDATA[<p>第2回は Nature CTO の https://twitter.com/songmu さんをゲストにお迎えしています。<br>
+Nature社でのCTOとしての活動について、@songmu さんの最近取り組んだ活動(OSS, Let's Encryptの証明書についてのまとめ)、プルリクチャンス等について話しています。</p>
+<ul>
+ <li><a href="https://nature.global/jp/nature-remo">Nature Remo</a></li>
+ <li><a href="https://github.com/Songmu/flextime">flextime</a></li>
+ <li><a href="https://songmu.jp/riji/entry/2020-09-22-letsencrypt.html">Let's Encryptの証明書切替周りその後 | おそらくはそれさえも平凡な日々</a></li>
+ <li>プルリクチャンス</li>
+  <li><a href="https://github.com/blang/semver">blang/semver</a></li>
+  <li><a href="https://github.com/notifications">Github の Notification</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/mookjp/episodes/2--songmu-ek95g2</link>
+			<guid isPermaLink="false">3fb8bf5e-f1c8-471e-a49b-a8fb76eb3c48</guid>
+			<dc:creator><![CDATA[mookjp]]></dc:creator>
+			<pubDate>Wed, 30 Sep 2020 11:34:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/328a780c/podcast/play/20272066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-28%2F816989a9-a878-ca17-af24-7fd1800612d7.mp3" length="70517782" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第2回は Nature CTO の https://twitter.com/songmu さんをゲストにお迎えしています。&lt;br&gt;
+Nature社でのCTOとしての活動について、@songmu さんの最近取り組んだ活動(OSS, Let&apos;s Encryptの証明書についてのまとめ)、プルリクチャンス等について話しています。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://nature.global/jp/nature-remo&quot;&gt;Nature Remo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Songmu/flextime&quot;&gt;flextime&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://songmu.jp/riji/entry/2020-09-22-letsencrypt.html&quot;&gt;Let&apos;s Encryptの証明書切替周りその後 | おそらくはそれさえも平凡な日々&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;プルリクチャンス&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/blang/semver&quot;&gt;blang/semver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/notifications&quot;&gt;Github の Notification&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:48:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8379355/8379355-1599227808651-aad3b4492b219.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第1回 ゲスト: @codehex, @vkgtaro]]></title>
+			<description><![CDATA[<p>ゲスト: <a href="https://twitter.com/codehex">@codehex</a> <a href="https://twitter.com/vkgtaro">@vkgtaro</a></p>
+<p>最近やってること、英語、コミュニケーション、リモートワーク等について話しました。</p>
+<ul>
+ <li><a href="https://boardgamearena.com/">https://boardgamearena.com/</a></li>
+ <li><a href="https://jquery.com/">https://jquery.com/</a></li>
+  <li><a href="https://docs.google.com/">Google Docs</a></li>
+  <li><a href="https://test.jp/">https://test.jp/</a></li>
+  <li><a href="https://mgram.me/ja/">mgram</a></li>
+  <li><a href="https://github.com/Code-Hex/testing-grpc">https://github.com/Code-Hex/testing-grpc</a></li>
+  <li><a href="https://apps.apple.com/jp/app/cake-%E3%82%B1%E3%83%BC%E3%82%AF-%E8%8B%B1%E4%BC%9A%E8%A9%B1/id1350420987">Cake (ケーク) 英会話</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B0%E3%82%B9">コーレーグース</a></li>
+  <li><a href="https://www.awok.co.jp/">A &amp; W</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2">ルートビア</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9D%BE%E6%B2%99%E5%A3%AB">ヘイソンサースー</a></li>
+  <li><a href="https://www.cpan.org/">cpan</a></li>
+  <li><a href="https://vic-movie.com/">小さなバイキングビッケ</a></li>
+  <li><a href="https://www.arduino.cc/">arduino</a></li>
+</ul>
+<p><br></p>
+<ul>
+  <li><a href="https://blog.mookjp.io/blog-ja/choco60/">左右分割キーボード Choco60 を組み立てた - mookjp.io</a></li>
+  <li><a href="https://blog.mookjp.io/blog-ja/how-i-learned-english/">自分の英語勉強法 - mookjp.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/mookjp/episodes/1--codehex--vkgtaro-ejlkuc</link>
+			<guid isPermaLink="false">4572ecba-22b3-452e-956e-5908ec79100c</guid>
+			<dc:creator><![CDATA[mookjp]]></dc:creator>
+			<pubDate>Tue, 15 Sep 2020 11:04:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/328a780c/podcast/play/19632524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-15%2F350d935d-0309-5814-f6f0-23e266b52bb7.mp3" length="127304802" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ゲスト: &lt;a href=&quot;https://twitter.com/codehex&quot;&gt;@codehex&lt;/a&gt; &lt;a href=&quot;https://twitter.com/vkgtaro&quot;&gt;@vkgtaro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近やってること、英語、コミュニケーション、リモートワーク等について話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://boardgamearena.com/&quot;&gt;https://boardgamearena.com/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://jquery.com/&quot;&gt;https://jquery.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/&quot;&gt;Google Docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://test.jp/&quot;&gt;https://test.jp/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mgram.me/ja/&quot;&gt;mgram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Code-Hex/testing-grpc&quot;&gt;https://github.com/Code-Hex/testing-grpc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/jp/app/cake-%E3%82%B1%E3%83%BC%E3%82%AF-%E8%8B%B1%E4%BC%9A%E8%A9%B1/id1350420987&quot;&gt;Cake (ケーク) 英会話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B0%E3%82%B9&quot;&gt;コーレーグース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awok.co.jp/&quot;&gt;A &amp;amp; W&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2&quot;&gt;ルートビア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9D%BE%E6%B2%99%E5%A3%AB&quot;&gt;ヘイソンサースー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cpan.org/&quot;&gt;cpan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vic-movie.com/&quot;&gt;小さなバイキングビッケ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.arduino.cc/&quot;&gt;arduino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mookjp.io/blog-ja/choco60/&quot;&gt;左右分割キーボード Choco60 を組み立てた - mookjp.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mookjp.io/blog-ja/how-i-learned-english/&quot;&gt;自分の英語勉強法 - mookjp.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:28:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8379355/8379355-1599227808651-aad3b4492b219.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
