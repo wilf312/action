@@ -229,6 +229,36 @@ export const urlList: UrlListItem[] = [
     hash: "textafm",
     url: "https://anchor.fm/s/330a9488/podcast/rss",
   },
+
+  {
+    name: "Off Topic // オフトピック",
+    hash: "OffTopic",
+    url: "https://anchor.fm/s/7369a14/podcast/rss",
+  },
+
+  {
+    name: "Web Rush",
+    hash: "webrush",
+    url: "https://feeds.simplecast.com/tOjNXec5",
+  },
+
+  {
+    name: "Secure Liaison",
+    hash: "secure旅団",
+    url: "https://anchor.fm/s/2607ca1c/podcast/rss",
+  },
+
+  {
+    name: "AirSap",
+    hash: "AirSap",
+    url: "https://airsap.net/feed/podcast/",
+  },
+
+  {
+    name: "いんよう！",
+    hash: "いんよう",
+    url: "https://anchor.fm/s/576104c/podcast/rss",
+  },
 ];
 
 /**
