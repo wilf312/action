@@ -41,7 +41,7 @@
           curl https://anchor.fm/s/57a9101c/podcast/rss --compressed | sed  '/lastBuildDate/d' > rss/%E8%B6%85%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96.xml
 
           # エンジニアと人生
-          curl https://pitpa.jp/rss/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
+          curl https://pitpa.jp/rss/shu223 --compressed | sed  '/lastBuildDate/d' > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
 
           # Wantedly Engineering Podcast
           curl https://anchor.fm/s/64205bfc/podcast/rss --compressed | sed  '/lastBuildDate/d' > rss/Wantedly_Engineering_Podcast.xml
