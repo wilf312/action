@@ -15,10 +15,12 @@ const main = async () => {
   await writeUrlList(encoded);
 
   // github actionファイルの書き出し .github/workflows/blank.yml
+  // anchorの時だけ sed を使って lastBuildDateを削除する（anchorfmで毎時くらいで差分が出るため）
   const ymlText = encoded
-    .map((d) => {
+  .map((d) => {
+      const anchorScript = d.url.includes(`anchor.fm`) ? ` | sed  '/lastBuildDate/d'` : ''
       return `          # ${d.name}
-          curl ${d.url} --compressed > rss/${d.hashEncoded}.xml
+          curl ${d.url} --compressed${anchorScript} > rss/${d.hashEncoded}.xml
 `;
     })
     .join("\n");
