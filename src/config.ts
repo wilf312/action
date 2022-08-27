@@ -3,6 +3,9 @@ export type UrlListItem = {
   hash: string;
   url: string;
 };
+
+export type UrlListItemAndHashEncoded = UrlListItem & { hashEncoded: string };
+
 export const urlList: UrlListItem[] = [
   {
     name: "あらBfm",
@@ -265,11 +268,20 @@ export const urlList: UrlListItem[] = [
  * hashをエンコードしたデータを作成
  * @returns
  */
-export const getEncodedUrl = () => {
+export const getEncodedUrl = (): UrlListItemAndHashEncoded[] => {
   return urlList.map((d) => {
     return {
       ...d,
       hashEncoded: encodeURI(d.hash),
     };
+  });
+};
+
+export const findPodcastConfig = (
+  hashEncoded: string
+): UrlListItem | undefined => {
+  const urlListItemAndHashEncodedList = getEncodedUrl();
+  return urlListItemAndHashEncodedList.find((d) => {
+    return hashEncoded === d.hash;
   });
 };
