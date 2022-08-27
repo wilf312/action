@@ -1,0 +1,2375 @@
+{
+  "title": "AirSap",
+  "link": "https://airsap.net",
+  "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
+  "lastBuildDate": "Thu, 25 Aug 2022 13:29:42 +0000",
+  "image": {
+    "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
+    "title": "AirSap",
+    "link": "https://airsap.net"
+  },
+  "atom:link": [
+    {
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "@title": "AirSap (AirSap)",
+      "@href": "https://airsap.net/feed/podcast/",
+      "#text": null
+    },
+    {
+      "@rel": "first",
+      "@href": "https://airsap.net/feed/podcast/",
+      "#text": null
+    },
+    {
+      "@rel": "me",
+      "@href": "https://podcasts.apple.com/podcast/id1210768986",
+      "#text": null
+    }
+  ],
+  "language": "ja",
+  "generator": "Podlove Podcast Publisher v3.8.1",
+  "copyright": "© 2022 AirSap",
+  "itunes:author": "AirSap",
+  "itunes:type": "episodic",
+  "itunes:summary": "札幌のiOSアプリ開発者の@frnkと@guttyoがアプリ界隈の話を中心に雑談をするPodcastです。\r\n様々なゲストと一緒にトークすることもあります。",
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:owner": {
+    "itunes:name": "AirSap",
+    "itunes:email": "airsappodcast@gmail.com"
+  },
+  "itunes:image": {
+    "@href": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
+    "#text": null
+  },
+  "itunes:subtitle": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
+  "itunes:block": "no",
+  "itunes:explicit": "no",
+  "item": [
+    {
+      "title": "#83 M2 Macへの環境移行と写真のクラウドバックアップ",
+      "link": "https://airsap.net/2022/08/25/83-m2/",
+      "pubDate": "Thu, 25 Aug 2022 13:29:42 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-08-25t13:14:41+00:00-27a57c8f105d16e"
+      },
+      "description": "腰痛の経過と新たなキーボード / MacBook Air M2 / 使い勝手発熱モニタリングアプリ / IntelからApple Siliconへは苦労した / パスワードの移行も面倒くさい / 写真ライブラリの移行とバックアップ / 写真や動画ファイルのバックアップ問題 / Apple One FamilyとPremier / iCloudストレージの容量アップに期待 / オンライン写真ストレージはアカウントBANに注意",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/08/25/83-m2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/271/s/feed/c/podcast/AirSap83_20220811_3.mp3",
+        "@length": 30661543,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:42:35",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "M2 Macへの環境移行と写真のクラウドバックアップ",
+      "itunes:episode": 83,
+      "itunes:episodeType": "full",
+      "itunes:summary": "腰痛の経過と新たなキーボード / MacBook Air M2 / 使い勝手発熱モニタリングアプリ / IntelからApple Siliconへは苦労した / パスワードの移行も面倒くさい / 写真ライブラリの移行とバックアップ / 写真や動画ファイルのバックアップ問題 / Apple One FamilyとPremier / iCloudストレージの容量アップに期待 / オンライン写真ストレージはアカウントBANに注意"
+    },
+    {
+      "title": "#82 WWDC22",
+      "link": "https://airsap.net/2022/06/22/82-wwdc22/",
+      "pubDate": "Tue, 21 Jun 2022 22:30:10 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-06-21t22:26:23+00:00-ee3e844f1be1f1d"
+      },
+      "description": "Keynoteでの気になる点 / iCloud Shared Photo Library / 服薬アプリ / CarPlay / Apple Maps / Platforms State ot the Union / Apple Silicon M2搭載のMacについて / MacBook Pro M2とAir M2ならどっちを選ぶ？ / macOSのStage Manager / iPadOSでの進化 / iPhoneをMacのwebカメラに / App Intents Framework / Xcodeのアプリアイコン設定が楽に / Swiftの進化 / Developerアプリの便利な使い方 / セッションビデオの日本語訳化に伴うおとし穴 / 能登さんの総評",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/06/22/82-wwdc22/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/267/s/feed/c/podcast/AirSap_82_20220612_rev1.mp3",
+        "@length": 46401053,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:04:26",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC22",
+      "itunes:episode": 82,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Keynoteでの気になる点 / iCloud Shared Photo Library / 服薬アプリ / CarPlay / Apple Maps / Platforms State ot the Union / Apple Silicon M2搭載のMacについて / MacBook Pro M2とAir M2ならどっちを選ぶ？ / macOSのStage Manager / iPadOSでの進化 / iPhoneをMacのwebカメラに / App Intents Framework / Xcodeのアプリアイコン設定が楽に / Swiftの進化 / Developerアプリの便利な使い方 / セッションビデオの日本語訳化に伴うおとし穴 / 能登さんの総評"
+    },
+    {
+      "title": "#81 Mac Studioの代わりに買ったもの",
+      "link": "https://airsap.net/2022/05/07/81-instead-of-mac-studio/",
+      "pubDate": "Fri, 06 May 2022 21:56:59 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-05-06t21:44:41+00:00-f98704f8a4c30e6"
+      },
+      "description": "Mac Studio注文キャンセルの理由 / M2 Pro Mac miniが欲しい / Steelcase Series 1を買った / ランバーサポート事件 / Majestouch MINILA-Rの不満点 / 大玉トラックボールのすすめ",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/05/07/81-instead-of-mac-studio/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/265/s/feed/c/podcast/AirSap_81_20220424.mp3",
+        "@length": 34090490,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:47:20",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Mac Studioの代わりに買ったもの",
+      "itunes:episode": 81,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Mac Studio注文キャンセルの理由 / M2 Pro Mac miniが欲しい / Steelcase Series 1を買った / ランバーサポート事件 / Majestouch MINILA-Rの不満点 / 大玉トラックボールのすすめ"
+    },
+    {
+      "title": "#80 賛否両論！Flutterについて語り合う（後編）",
+      "link": "https://airsap.net/2022/03/14/80-flutter-part-2/",
+      "pubDate": "Sun, 13 Mar 2022 21:00:51 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-03-13t04:42:51+00:00-c6d4aa9de38dd26"
+      },
+      "description": "iOSのUIを再現するCupertino / Flutterのパフォーマンス / アプリのダウンロードサイズ / iOSとAndroidでUIを共通化する是非 / 開発言語のDartってどう？ / FuchsiaとFlutterがAndroidを置き換える？ / Flutterとネイティブ開発環境",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/03/14/80-flutter-part-2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/263/s/feed/c/podcast/AirSap_80_20220224.mp3",
+        "@length": 42947101,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:59:38",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "賛否両論！Flutterについて語り合う（後編）",
+      "itunes:episode": 80,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iOSのUIを再現するCupertino / Flutterのパフォーマンス / アプリのダウンロードサイズ / iOSとAndroidでUIを共通化する是非 / 開発言語のDartってどう？ / FuchsiaとFlutterがAndroidを置き換える？ / Flutterとネイティブ開発環境"
+    },
+    {
+      "title": "#79 賛否両論！Flutterについて語り合う（前編）",
+      "link": "https://airsap.net/2022/03/11/79-flutter-part-1/",
+      "pubDate": "Thu, 10 Mar 2022 21:49:36 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-03-10t21:40:23+00:00-13a2c16509a1968"
+      },
+      "description": "Flutterってなに？/Flutterのメリット・デメリット？/各人のFlutterとの関わり/受託案件からみるFlutterの盛り上がり/Flutterを使う上で忘れてはいけないこと/Flutterの開発環境は他と比べてどう？/以前のマルチプラットフォーム環境と異なるところ/公式パッケージやドキュメントの充実",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/03/11/79-flutter-part-1/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/260/s/feed/c/podcast/AirSap_79_20220224.mp3",
+        "@length": 31089627,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:43:10",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "賛否両論！Flutterについて語り合う（前編）",
+      "itunes:episode": 79,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Flutterってなに？/Flutterのメリット・デメリット？/各人のFlutterとの関わり/受託案件からみるFlutterの盛り上がり/Flutterを使う上で忘れてはいけないこと/Flutterの開発環境は他と比べてどう？/以前のマルチプラットフォーム環境と異なるところ/公式パッケージやドキュメントの充実"
+    },
+    {
+      "title": "#78 自宅作業環境を改善しよう",
+      "link": "https://airsap.net/2021/12/18/78-workspace/",
+      "pubDate": "Fri, 17 Dec 2021 22:46:07 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-12-17t22:30:12+00:00-ac44a4d1dcd0e9e"
+      },
+      "description": "坐骨神経痛とオフィスチェア探し / ワーキングテーブルを買った / デスクライト使ってる？ / Keyboardio Atreusは合わなかった / Majestouch MINILA-R Convertible / 足ポカクッション&ひざ掛け",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/12/18/78-workspace/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/257/s/feed/c/podcast/AirSap_78_20211206.mp3",
+        "@length": 24142866,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:33:31",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "自宅作業環境を改善しよう",
+      "itunes:episode": 78,
+      "itunes:episodeType": "full",
+      "itunes:summary": "坐骨神経痛とオフィスチェア探し / ワーキングテーブルを買った / デスクライト使ってる？ / Keyboardio Atreusは合わなかった / Majestouch MINILA-R Convertible / 足ポカクッション&ひざ掛け"
+    },
+    {
+      "title": "#77 M1 Pro/Max MacBook Proは買う？",
+      "link": "https://airsap.net/2021/11/05/77-m1-pro-max-macbook-pro/",
+      "pubDate": "Thu, 04 Nov 2021 22:21:36 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-11-04t22:07:54+00:00-e9519eecc7b75a2"
+      },
+      "description": "M1 Pro/Max MacBook Proの発表 / M1 ProとMaxの対象ユーザーは? / アプリ開発者はM1 Proで十分？ / 買わない理由とほしいモデル / M1 MacBook Airが最高だった / ノッチはどうなの？ / 消えたタッチバー / ハードのデザインや端子の増加(先祖返り) / macOSの写真アプリの動作は不安定？ / MacBook Pro 14インチ/16インチで選択できるSoCに差がない / 外付けキーボードの慣れ具合と手首の痛み / iCloud Storageを2.2TBにする方法 / ストレージ容量の決め方",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/11/05/77-m1-pro-max-macbook-pro/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/255/s/feed/c/podcast/AirSap_episode_77_20211023_rev1.mp3",
+        "@length": 27795344,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:36",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "M1 Pro/Max MacBook Proは買う？",
+      "itunes:episode": 77,
+      "itunes:episodeType": "full",
+      "itunes:summary": "M1 Pro/Max MacBook Proの発表 / M1 ProとMaxの対象ユーザーは? / アプリ開発者はM1 Proで十分？ / 買わない理由とほしいモデル / M1 MacBook Airが最高だった / ノッチはどうなの？ / 消えたタッチバー / ハードのデザインや端子の増加(先祖返り) / macOSの写真アプリの動作は不安定？ / MacBook Pro 14インチ/16インチで選択できるSoCに差がない / 外付けキーボードの慣れ具合と手首の痛み / iCloud Storageを2.2TBにする方法 / ストレージ容量の決め方"
+    },
+    {
+      "title": "#76 iPhone 13 Proの第一印象",
+      "link": "https://airsap.net/2021/09/30/76-iphone-13-pro/",
+      "pubDate": "Wed, 29 Sep 2021 21:43:49 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-09-29t21:31:18+00:00-3261722219218a0"
+      },
+      "description": "iPhone 13 Proの第一印象は、重い！ / カメラが分かりやすく良くなってる / ProMotionはどう？ / シネマティックモードは使い所が難しい / A15 Bionicの処理速度は？ / EUのUSB-C義務化法案 / デュアルe-SIMスタンバイ / Pro MaxからProに変えた感想 / 秘密基地計画",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/09/30/76-iphone-13-pro/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/253/s/feed/c/podcast/AirSap_Epispde_76_20210927.mp3",
+        "@length": 16457415,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:22:51",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone 13 Proの第一印象",
+      "itunes:episode": 76,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 13 Proの第一印象は、重い！ / カメラが分かりやすく良くなってる / ProMotionはどう？ / シネマティックモードは使い所が難しい / A15 Bionicの処理速度は？ / EUのUSB-C義務化法案 / デュアルe-SIMスタンバイ / Pro MaxからProに変えた感想 / 秘密基地計画"
+    },
+    {
+      "title": "#75 コロナワクチン接種体験談とコロナ禍の生活について",
+      "link": "https://airsap.net/2021/09/25/75-corona/",
+      "pubDate": "Sat, 25 Sep 2021 12:07:18 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-09-25t11:59:43+00:00-7f6bc6b88445105"
+      },
+      "description": "シンエヴァを見た / コロナ禍の映画館 / メガネをオンラインで注文した / 右手首は治った / モデルナワクチン充填の仕事 / ワクチンロスゼロに電話がつながらない / ロスゼロセンターに直電する方法 / コロナウイルスのオメガ株？ / 札幌の延べ感染者数は？ / 買い出しにN95マスク / 子供にワクチンが打てていない",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/09/25/75-corona/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/250/s/feed/c/podcast/AirSap_Episode_74(to75)_20210828_rev3.mp3",
+        "@length": 26602694,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:36:56",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "コロナワクチン接種体験談とコロナ禍の生活について",
+      "itunes:episode": 75,
+      "itunes:episodeType": "full",
+      "itunes:summary": "シンエヴァを見た / コロナ禍の映画館 / メガネをオンラインで注文した / 右手首は治った / モデルナワクチン充填の仕事 / ワクチンロスゼロに電話がつながらない / ロスゼロセンターに直電する方法 / コロナウイルスのオメガ株？ / 札幌の延べ感染者数は？ / 買い出しにN95マスク / 子供にワクチンが打てていない"
+    },
+    {
+      "title": "#74 Apple Event (2021年9月) iPhone 13、iPad miniなどへの感想",
+      "link": "https://airsap.net/2021/09/18/74-apple-event-sep-2021/",
+      "pubDate": "Fri, 17 Sep 2021 22:32:10 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-09-17t21:58:43+00:00-cef119764147766"
+      },
+      "description": "Appleイベント / AppleTV+ / iPad / iPad mini / Apple Watch\r\nリーク情報が異なっていた理由について / iPhone 13シリーズについて\r\nカメラのセンサーサイズを探る / シネマティックモード / ProMotoin対応 / GPU数の差異と動画性能差についての考察 / 何色を買うか / 何が一番良かった？ / 映画撮影にiPhoneを使うか？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/09/18/74-apple-event-sep-2021/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/244/s/feed/c/podcast/AirSap_episode_74_20210917.mp3",
+        "@length": 38896807,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:54:01",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Apple Event (2021年9月) iPhone13、iPad miniなどへの感想",
+      "itunes:episode": 74,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Appleイベント / AppleTV+ / iPad / iPad mini / Apple Watch\r\nリーク情報が異なっていた理由について / iPhone 13シリーズについて\r\nカメラのセンサーサイズを探る / シネマティックモード / ProMotoin対応 / GPU数の差異と動画性能差についての考察 / 何色を買うか / 何が一番良かった？ / 映画撮影にiPhoneを使うか？"
+    },
+    {
+      "title": "#73 キーボード沼に足を踏み入れた",
+      "link": "https://airsap.net/2021/09/01/73-atreus/",
+      "pubDate": "Tue, 31 Aug 2021 23:17:04 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-08-31t23:08:21+00:00-eeef059717d4c22"
+      },
+      "description": "新型Magic Trackpad / メルペイ定額払い / 特殊なレイアウトのキーボード・Keyboardio Atreusが届いた / トラックパッドの配置をどうする？ / 安価でちょうどいいリストレスト？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/09/01/73-atreus/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/242/s/feed/c/podcast/AirSap_Episode_73_20210828.mp3",
+        "@length": 15197643,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:21:06",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "キーボード沼に足を踏み入れた",
+      "itunes:episode": 73,
+      "itunes:episodeType": "full",
+      "itunes:summary": "新型Magic Trackpad / メルペイ定額払い / 特殊なレイアウトのキーボード・Keyboardio Atreusが届いた / トラックパッドの配置をどうする？ / 安価でちょうどいいリストレスト？"
+    },
+    {
+      "title": "#72 キーボード沼のほとりで",
+      "link": "https://airsap.net/2021/07/30/72-keyboard-pond/",
+      "pubDate": "Thu, 29 Jul 2021 22:32:42 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-07-29t22:26:15+00:00-b54f3642be2505c"
+      },
+      "description": "札幌35℃！ / 60％メカニカルキーボードを買った / 矢印キーは無くても問題ない？ / Macのスペースバーはちょっと短い / トラックパッドの使い方が変わって手首を痛めた / ホームポジション矯正中 / キースイッチの違い / 普通の配列じゃないキーボードが欲しくなってきた / HHKB / キーボード沼 / トラックボール or トラックパッド / 沼のほとり",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/07/30/72-keyboard-pond/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/239/s/feed/c/podcast/AirSap_Episode_72_20210719.mp3",
+        "@length": 35587990,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:49:25",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "キーボード沼のほとりで",
+      "itunes:episode": 72,
+      "itunes:episodeType": "full",
+      "itunes:summary": "札幌35℃！ / 60％メカニカルキーボードを買った / 矢印キーは無くても問題ない？ / Macのスペースバーはちょっと短い / トラックパッドの使い方が変わって手首を痛めた / ホームポジション矯正中 / キースイッチの違い / 普通の配列じゃないキーボードが欲しくなってきた / HHKB / キーボード沼 / トラックボール or トラックパッド / 沼のほとり"
+    },
+    {
+      "title": "#71 WWDC21予想の大反省会と今年のSwiftUIの実用性",
+      "link": "https://airsap.net/2021/07/05/71-noto-hansei/",
+      "pubDate": "Sun, 04 Jul 2021 22:25:09 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-07-04t22:20:17+00:00-3b70cd768ef1ec8"
+      },
+      "description": "能登さんのWWDC21の予想 / 大反省会？？ / SwiftUIのweb対応は来ない！その理由は？ / Safari Technology Preview / Tab groupがすごくいい感じ / Tab groupの具体的な使い方 / SwiftUIのおすすめをサクッと！ / 今年のSwiftUIは実戦投入できそう？ / 実際にSwiftUIを使っている箇所は？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/07/05/71-noto-hansei/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/236/s/feed/c/podcast/AirSap_Episode_71_20210622.mp3",
+        "@length": 30666943,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:42:35",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC21予想の大反省会と今年のSwiftUIの実用性",
+      "itunes:episode": 71,
+      "itunes:episodeType": "full",
+      "itunes:summary": "能登さんのWWDC21の予想 / 大反省会？？ / SwiftUIのweb対応は来ない！その理由は？ / Safari Technology Preview / Tab groupがすごくいい感じ / Tab groupの具体的な使い方 / SwiftUIのおすすめをサクッと！ / 今年のSwiftUIは実戦投入できそう？ / 実際にSwiftUIを使っている箇所は？"
+    },
+    {
+      "title": "#70 WWDC21: 共有、プライバシー、そして開発のしやすさの進化",
+      "link": "https://airsap.net/2021/06/13/70-wwdc21/",
+      "pubDate": "Sat, 12 Jun 2021 22:06:58 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-06-12t21:59:32+00:00-03902d3be5c56a0"
+      },
+      "description": "WWDC21開催！予想は当たった？ / 「共有」の進化: FaceTime・ShareView・健康情報 / 「個人」へのフォーカス: プライバシーと新しい通知の形 / Wallet・Swift Playground・Digital Legacy・Universal Control・Safari / 開発環境の改善: Xcode Cloud・Xcode / async/await / SwiftUIの順当な進化 / なぜ今までなかったの？ボタンと半モーダル / 今年は安定版の年？ 早く新OS向けに開発したい",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/06/13/70-wwdc21/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/233/s/feed/c/podcast/AirSap_Episode_70_20210609.mp3",
+        "@length": 33643909,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:46:43",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC21: 共有、プライバシー、そして開発のしやすさの進化",
+      "itunes:episode": 70,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC21開催！予想は当たった？ / 「共有」の進化: FaceTime・ShareView・健康情報 / 「個人」へのフォーカス: プライバシーと新しい通知の形 / Wallet・Swift Playground・Digital Legacy・Universal Control・Safari / 開発環境の改善: Xcode Cloud・Xcode / async/await / SwiftUIの順当な進化 / なぜ今までなかったの？ボタンと半モーダル / 今年は安定版の年？ 早く新OS向けに開発したい"
+    },
+    {
+      "title": "#69 WWDC21予想とネット回線の見直し",
+      "link": "https://airsap.net/2021/06/06/69-wwdc21-internet/",
+      "pubDate": "Sun, 06 Jun 2021 07:36:01 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-06-06t07:22:47+00:00-e89872876db1e0f"
+      },
+      "description": "WWDC21予想 / モバイル回線を変更した / 自宅の回線も変更した / IPv4が遅い理由とIPv6について / IPv4 over IPv6対応ルーターのおすすめ / 楽天ひかりの罠は３年更新 / docomoのhome 5Gが良さそう / 楽天ひかりが０円なのはおかしい / 楽天・アマゾンよりもヨドバシドットコム / 楽天モバイルの電話 / 来年のWWDCはどうなる？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/06/06/69-wwdc21-internet/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/231/s/feed/c/podcast/AirSap_Episode_69_20210603_rev1.mp3",
+        "@length": 33708868,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:46:48",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC21予想とネット回線の見直し",
+      "itunes:episode": 69,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC21予想 / モバイル回線を変更した / 自宅の回線も変更した / IPv4が遅い理由とIPv6について / IPv4 over IPv6対応ルーターのおすすめ / 楽天ひかりの罠は３年更新 / docomoのhome 5Gが良さそう / 楽天ひかりが０円なのはおかしい / 楽天・アマゾンよりもヨドバシドットコム / 楽天モバイルの電話 / 来年のWWDCはどうなる？"
+    },
+    {
+      "title": "#68 大胆予想！WWDC21でSwiftUIは新たな領域に突入する！？",
+      "link": "https://airsap.net/2021/04/29/68-swiftui2021/",
+      "pubDate": "Thu, 29 Apr 2021 08:30:05 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-04-29t08:24:57+00:00-37c41dccd062ab4"
+      },
+      "description": "SwiftUIとは / SwiftUIの歴史 / 大胆予想！2021年のSwiftUI / SwiftUIに足りないもの / SwiftUIは新たなFlashとなる？ / 今年SwiftUIは実戦投入できるようになる？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/04/29/68-swiftui2021/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/229/s/feed/c/podcast/AirSap_Episode_68_20210421_rev1.mp3",
+        "@length": 40676870,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:56:29",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "大胆予想！WWDC21でSwiftUIは新たな領域に突入する！？",
+      "itunes:episode": 68,
+      "itunes:episodeType": "full",
+      "itunes:summary": "SwiftUIとは / SwiftUIの歴史 / 大胆予想！2021年のSwiftUI / SwiftUIに足りないもの / SwiftUIは新たなFlashとなる？ / 今年SwiftUIは実戦投入できるようになる？"
+    },
+    {
+      "title": "#67 テレビ録画どうしてる？バッファロー製nasneの登場とコクーンの思い出",
+      "link": "https://airsap.net/2021/04/11/67-nasne-cocoon/",
+      "pubDate": "Sat, 10 Apr 2021 21:21:49 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-04-10t21:13:48+00:00-47c707ea086579b"
+      },
+      "description": "nasneとはいったい何？ / ハードはバッファロー、ソフトはSony / バッファローのナスネは買いか？ / テレビ録画問題 / テレビを一時停止して観る / macのTimeMachineHDDフォーマットをAPFSにした / APFSにした利点とは / フォーマットが必要",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/04/11/67-nasne-cocoon/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/227/s/feed/c/podcast/AirSap_Episode_67_20210325.mp3",
+        "@length": 25157897,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:56",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "テレビ録画どうしてる？バッファロー製nasneの登場とコクーンの思い出",
+      "itunes:episode": 67,
+      "itunes:episodeType": "full",
+      "itunes:summary": "nasneとはいったい何？ / ハードはバッファロー、ソフトはSony / バッファローのナスネは買いか？ / テレビ録画問題 / テレビを一時停止して観る / macのTimeMachineHDDフォーマットをAPFSにした / APFSにした利点とは / フォーマットが必要"
+    },
+    {
+      "title": "#66 Outputterのリリースと新型コロナワクチンを接種した感想",
+      "link": "https://airsap.net/2021/04/03/66-outputter-vaccine/",
+      "pubDate": "Sat, 03 Apr 2021 04:28:15 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-04-03t02:36:49+00:00-dec5bbc71e000fe"
+      },
+      "description": "Outputter for Twitter リリース！ / アイコンがオウサマペンギンな理由 / 無料にするか有料にするか迷ったけど無料でリリース / 映画館の感染対策と座席選び / 新型コロナワクチンを接種した感想 / ファイザーワクチンの副反応の確率 / ワクチンと免疫の仕組み / 医師と看護師の接種の仕方が面白い / 早くみんな接種できるようになるといいね",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/04/03/66-outputter-vaccine/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/225/s/feed/c/podcast/AirSap_Episode66_20200326.mp3",
+        "@length": 29458628,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:40:54",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Outputterのリリースと新型コロナワクチンを接種した感想",
+      "itunes:episode": 66,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Outputter for Twitter リリース！ / アイコンがオウサマペンギンな理由 / 無料にするか有料にするか迷ったけど無料でリリース / 映画館の感染対策と座席選び / 新型コロナワクチンを接種した感想 / ファイザーワクチンの副反応の確率 / ワクチンと免疫の仕組み / 医師と看護師の接種の仕方が面白い / 早くみんな接種できるようになるといいね"
+    },
+    {
+      "title": "#65 Apple Carの噂と希望的予測をしてみた",
+      "link": "https://airsap.net/2021/03/03/65-applecar/",
+      "pubDate": "Wed, 03 Mar 2021 06:07:57 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-03-03t06:00:33+00:00-217fa656961b3e3"
+      },
+      "description": "AppleCarの製造販売はどうなる？ / CarKeyについて / AppleCarはどんな車で価格はどうなる？ / 車をポチれるのは〇〇○だけ / 車のラインナップとロゴマーク場所予想 / 日本で流行るには何が必要 / ロッテ？ロッチ？どっち？経済発展と模造品製造の関係性 / 価格と販売方法の予想をしてみた",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/03/03/65-applecar/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/223/s/feed/c/podcast/AirSap_Episode_65_20210220_rev4.mp3",
+        "@length": 23974305,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:33:17",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Apple Carの噂と希望的予測をしてみた",
+      "itunes:episode": 65,
+      "itunes:episodeType": "full",
+      "itunes:summary": "AppleCarの製造販売はどうなる？ / CarKeyについて / AppleCarはどんな車で価格はどうなる？ / 車をポチれるのは〇〇○だけ / 車のラインナップとロゴマーク場所予想 / 日本で流行るには何が必要 / ロッテ？ロッチ？どっち？経済発展と模造品製造の関係性 / 価格と販売方法の予想をしてみた"
+    },
+    {
+      "title": "#64 新しいものを試すのは面白い（Clubhouse・Quire・MagSafe充電器など）",
+      "link": "https://airsap.net/2021/02/24/64-clubhouse-quire/",
+      "pubDate": "Wed, 24 Feb 2021 08:20:06 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-02-24t08:13:54+00:00-a0a5538a05e7d4f"
+      },
+      "description": "ようやくiPhone 12 miniを触った / MagSafe充電器を買って後悔！？ / 内蔵バッテリーの充電と寿命 / nasneのためにM1 Macが欲しくなった / iPadを外部ディスプレイに繋いでApple TV+を観ると良いことがある / Clubhouse聴いてる？ / Quireというタスク管理サービス / 串鳥本店が閉店する / 新型コロナのワクチン接種",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/02/24/64-clubhouse-quire/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/209/s/feed/c/podcast/AirSap_Episode_64_20210219_rev2.mp3",
+        "@length": 38675281,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:53:42",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "新しいものを試すのは面白い（Clubhouse・Quire・MagSafe充電器など）",
+      "itunes:episode": 64,
+      "itunes:episodeType": "full",
+      "itunes:summary": "ようやくiPhone 12 miniを触った / MagSafe充電器を買って後悔！？ / 内蔵バッテリーの充電と寿命 / nasneのためにM1 Macが欲しくなった / iPadを外部ディスプレイに繋いでApple TV+を観ると良いことがある / Clubhouse聴いてる？ / Quireというタスク管理サービス / 串鳥本店が閉店する / 新型コロナのワクチン接種"
+    },
+    {
+      "title": "#63 育休取得の勧めとSNSデトックスの効果",
+      "link": "https://airsap.net/2021/02/05/63-childcare-leave/",
+      "pubDate": "Thu, 04 Feb 2021 21:57:15 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-02-04t21:54:03+00:00-509acd9469787bd"
+      },
+      "description": "育休明けのご挨拶 / 子育ては体力勝負！育休取得は必須かも / ほぼ育休状態でも子育ては楽しい / Twitterをやめてみたら心に平和が訪れた / iPadとMacで言語入力切り替えを統一する",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/02/05/63-childcare-leave/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/205/s/feed/c/podcast/AirSap_Episode_63_20210116_chapter.mp3",
+        "@length": 16715040,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:23:12",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "育休取得の勧めとSNSデトックスの効果",
+      "itunes:episode": 63,
+      "itunes:episodeType": "full",
+      "itunes:summary": "育休明けのご挨拶 / 子育ては体力勝負！育休取得は必須かも / ほぼ育休状態でも子育ては楽しい / Twitterをやめてみたら心に平和が訪れた / iPadとMacで言語入力切り替えを統一する"
+    },
+    {
+      "title": "#62 健康第一。Fitbitでの睡眠改善とコロナ禍の影響",
+      "link": "https://airsap.net/2021/01/26/62-fitbit/",
+      "pubDate": "Tue, 26 Jan 2021 05:26:53 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-01-26t04:47:57+00:00-a9552fc083d94c8"
+      },
+      "description": "水口さんおかえりなさい / Fitbit Inspire 2で睡眠トラッキング / GoogleによるFitbit買収 / Parler? Parlor? / iPhone 12 miniはそんなに売れてないらしい / Pro MaxとHome Pod mini / 新型M1?M2? Macの噂 / シン・エヴァンゲリオン劇場版の公開延期 / 東京オリンピックは中止だよね、きっと / mRNAワクチンのインフルエンザへの応用",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/01/26/62-fitbit/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/203/s/feed/c/podcast/AirSap_Episode_62_20210116.mp3",
+        "@length": 33313473,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:46:16",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "健康第一。Fitbitでの睡眠改善とコロナ禍の影響",
+      "itunes:episode": 62,
+      "itunes:episodeType": "full",
+      "itunes:summary": "水口さんおかえりなさい / Fitbit Inspire 2で睡眠トラッキング / GoogleによるFitbit買収 / Parler? Parlor? / iPhone 12 miniはそんなに売れてないらしい / Pro MaxとHome Pod mini / 新型M1?M2? Macの噂 / シン・エヴァンゲリオン劇場版の公開延期 / 東京オリンピックは中止だよね、きっと / mRNAワクチンのインフルエンザへの応用"
+    },
+    {
+      "title": "#61 M1 Macの比較レビューに最も適した人間に話を聞いた",
+      "link": "https://airsap.net/2021/01/06/61-m1-mac/",
+      "pubDate": "Wed, 06 Jan 2021 06:50:47 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2021-01-06t06:47:45+00:00-25cfa2e4b9c59e6"
+      },
+      "description": "M1チップ搭載のMacはまるで魔法 / ファンは回る？ / 今年モデルのIntel版MBPとの比較 / M1 Macで困ったところ / iOSアプリをMacで動かすことの是非 / チップ以外の進化 / 仕事で使ってない人にもおすすめできる？ / HomePod mini / インターコムは地味に便利 / 音楽の受け渡し / Apple Musicの罠 / AirPods Maxの価格",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2021/01/06/61-m1-mac/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/201/s/feed/c/podcast/AirSap_Episode61_20201223_rev1.mp3",
+        "@length": 24566797,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:07",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "M1 Macの比較レビューに最も適した人間に話を聞いた",
+      "itunes:episode": 61,
+      "itunes:episodeType": "full",
+      "itunes:summary": "M1チップ搭載のMacはまるで魔法 / ファンは回る？ / 今年モデルのIntel版MBPとの比較 / M1 Macで困ったところ / iOSアプリをMacで動かすことの是非 / チップ以外の進化 / 仕事で使ってない人にもおすすめできる？ / HomePod mini / インターコムは地味に便利 / 音楽の受け渡し / Apple Musicの罠 / AirPods Maxの価格"
+    },
+    {
+      "title": "#60 iPhone 12で導入されたHDR動画って何？",
+      "link": "https://airsap.net/2020/12/26/60-hdr-movie/",
+      "pubDate": "Sat, 26 Dec 2020 05:51:01 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-12-26t05:39:38+00:00-3f29078c9b9ecd3"
+      },
+      "description": "iPhone 12のDolby VisionとさまざまなHDR動画形式 / 映像の色表現の歴史と規格 / 動画のHDRと静止画のHDRは全く違う！/ SDR変換の難しさ / Mini LEDと有機EL / Apple ProRAW / Deep Fusionが全カメラに！/ Maxのセンサー / 動画手ブレ補正 / センサーシフト手ブレ補正の効果 / LiDAR / あとからフォーカスカメラ / ボカシは逃げだが役に立つ",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/12/26/60-hdr-movie/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/199/s/feed/c/podcast/AirSap_Episode_60_20201203.mp3",
+        "@length": 38287255,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:53:10",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone 12で導入されたHDR動画って何？",
+      "itunes:episode": 60,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 12のDolby VisionとさまざまなHDR動画形式 / 映像の色表現の歴史と規格 / 動画のHDRと静止画のHDRは全く違う！/ SDR変換の難しさ / Mini LEDと有機EL / Apple ProRAW / Deep Fusionが全カメラに！/ Maxのセンサー / 動画手ブレ補正 / センサーシフト手ブレ補正の効果 / LiDAR / あとからフォーカスカメラ / ボカシは逃げだが役に立つ"
+    },
+    {
+      "title": "#59 iPhone 12シリーズ全機種を買ったファングさんにいろいろ聞いた",
+      "link": "https://airsap.net/2020/12/11/59-all-iphone-12/",
+      "pubDate": "Fri, 11 Dec 2020 01:25:48 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-12-11t01:14:45+00:00-e4dd59642c9c03f"
+      },
+      "description": "毎年変わるiPhoneの赤色 / Proと非Proの差 / 動画FPS自動調整 / おかえりジョブズ / miniは画面全体に指が届く？ / miniとMaxの使い分け / 全機種ノッチの大きさが同じ / 冷やすと端末移行が早くなる！？",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/12/11/59-all-iphone-12/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/196/s/feed/c/podcast/AirSap_Episode_59_20201203.mp3",
+        "@length": 28244006,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:39:13",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone 12シリーズ全機種を買ったファングさんにいろいろ聞いた",
+      "itunes:episode": 59,
+      "itunes:episodeType": "full",
+      "itunes:summary": "毎年変わるiPhoneの赤色 / Proと非Proの差 / 動画FPS自動調整 / おかえりジョブズ / miniは画面全体に指が届く？ / miniとMaxの使い分け / 全機種ノッチの大きさが同じ / 冷やすと端末移行が早くなる！？"
+    },
+    {
+      "title": "#58 iPhone 12 Pro Maxと12 miniの第一印象とM1 Mac",
+      "link": "https://airsap.net/2020/11/17/58-iphone-12-m1-mac/",
+      "pubDate": "Tue, 17 Nov 2020 08:20:35 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-11-17t08:13:39+00:00-bbe946325a17a6d"
+      },
+      "description": "iPhone 12 miniのサイズ感と片手操作レベル / iPhone 12 Pro Maxの大きさとカメラの印象 / iPhoneにケースをつける？つけない？ / MagSafe / Apple Silicon Mac発表 / M1チップの実力 / Rosetta 2 / Apple Silicon Macの未来",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/11/17/58-iphone-12-m1-mac/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/193/s/feed/c/podcast/AirSap_Episode_58_20201113.mp3",
+        "@length": 32249297,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:44:47",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone 12 Pro Maxと12 miniの第一印象とM1 Mac",
+      "itunes:episode": 58,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 12 miniのサイズ感と片手操作レベル / iPhone 12 Pro Maxの大きさとカメラの印象 / iPhoneにケースをつける？つけない？ / MagSafe / Apple Silicon Mac発表 / M1チップの実力 / Rosetta 2 / Apple Silicon Macの未来"
+    },
+    {
+      "title": "#57 動画の撮影日時がファイル作成日なのは困るのでExif的なものが欲しい",
+      "link": "https://airsap.net/2020/11/03/57-movie-exif/",
+      "pubDate": "Tue, 03 Nov 2020 08:03:12 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-11-03t07:35:45+00:00-7ceac3d6cda8c09"
+      },
+      "description": "iPhone 12・12 Proの実機を見てきた / ゴールドの良さ / 家電量販店のポイントを効率よく使う / iOS 14.1でHDR動画の編集ができるようになった！ / 動画の撮影日時＝ファイル作成日ってどうなの？ / GoPro HERO 9 Blackを買った / 日常使いとしてのGoPro / DJI Pocket 2 / 動画ファイルのメタデータ共通規格が欲しい！",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/11/03/57-movie-exif/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/190/s/feed/c/podcast/AirSap_Episode_57_20201028.mp3",
+        "@length": 46120538,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:04:03",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "動画の撮影日時がファイル作成日なのは困るのでExif的なものが欲しい",
+      "itunes:episode": 57,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 12・12 Proの実機を見てきた / ゴールドの良さ / 家電量販店のポイントを効率よく使う / iOS 14.1でHDR動画の編集ができるようになった！ / 動画の撮影日時＝ファイル作成日ってどうなの？ / GoPro HERO 9 Blackを買った / 日常使いとしてのGoPro / DJI Pocket 2 / 動画ファイルのメタデータ共通規格が欲しい！"
+    },
+    {
+      "title": "#56 iPhone12シリーズ発表！どの機種を選ぶ？",
+      "link": "https://airsap.net/2020/10/20/56-iphone12/",
+      "pubDate": "Tue, 20 Oct 2020 06:00:39 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-10-20t05:43:26+00:00-46e5e3d7b9eb4b7"
+      },
+      "description": "iPhone 12シリーズ発表 / 進化したカメラがすごい / 各機種の違い / 無印良品のジーンズのスマホポケット / どの機種を選択する？ / MagSafeが面白そう / miniってどうなんだろう",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/10/20/56-iphone12/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/186/s/feed/c/podcast/AirSap_Episode_56_20201015.mp3",
+        "@length": 33307567,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:46:15",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone12シリーズ発表！どの機種を選ぶ？",
+      "itunes:episode": 56,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 12シリーズ発表 / 進化したカメラがすごい / 各機種の違い / 無印良品のジーンズのスマホポケット / どの機種を選択する？ / MagSafeが面白そう / miniってどうなんだろう"
+    },
+    {
+      "title": "#55 Life. 子どもとビールとゲームと音楽と",
+      "link": "https://airsap.net/2020/10/12/55-life/",
+      "pubDate": "Sun, 11 Oct 2020 21:00:10 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-10-11t01:05:10+00:00-b28bacf20b35af2"
+      },
+      "description": "テクテクライフ/オータムフェストがオンライン開催/日本最大！さっぽろ大通ビアガーデン/札幌市民はビール好き？/ YouTube MusicではなくSpotifyを使う理由  /子どもが生まれる/保険の見直し/マイナンバーカード/国勢調査のウェブサイト",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/10/12/55-life/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/182/s/feed/c/podcast/AirSap_Episode_55_20201001.mp3",
+        "@length": 29676967,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:41:13",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Life. 子どもとビールとゲームと音楽と",
+      "itunes:episode": 55,
+      "itunes:episodeType": "full",
+      "itunes:summary": "テクテクライフ/オータムフェストがオンライン開催/日本最大！さっぽろ大通ビアガーデン/札幌市民はビール好き？/ YouTube MusicではなくSpotifyを使う理由  /子どもが生まれる/保険の見直し/マイナンバーカード/国勢調査のウェブサイト"
+    },
+    {
+      "title": "#54 防災どうしてる？ / 自転車ルールとフードデリバリー戦国時代",
+      "link": "https://airsap.net/2020/10/09/54-disasters-food-delivery/",
+      "pubDate": "Fri, 09 Oct 2020 12:11:37 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-10-09t12:04:08+00:00-49c4f72741ca13b"
+      },
+      "description": "北海道胆振東部地震から2年 / 防災備蓄の定期点検 / 歩行で飲酒判定 / 自転車交通マナー / フードデリバリーサービス(Wolt・Uber Eats・FoodPanda・出前館)  / （一部に音声の乱れがあります。すみません！）",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/10/09/54-disasters-food-delivery/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/180/s/feed/c/podcast/AirSap_Episode_54_20200918_rev1.mp3",
+        "@length": 25754828,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:35:44",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "防災どうしてる？ / 自転車ルールとフードデリバリー戦国時代",
+      "itunes:episode": 54,
+      "itunes:episodeType": "full",
+      "itunes:summary": "北海道胆振東部地震から2年 / 防災備蓄の定期点検 / 歩行で飲酒判定 / 自転車交通マナー / フードデリバリーサービス(Wolt・Uber Eats・FoodPanda・出前館)  / （一部に音声の乱れがあります。すみません！）"
+    },
+    {
+      "title": "#53 新型Apple Watch・iPad Air・iOS 14の登場とEvernoteの今後",
+      "link": "https://airsap.net/2020/09/25/53-watch-ipad-air-ios-14-evernote/",
+      "pubDate": "Fri, 25 Sep 2020 04:24:58 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-09-25t04:19:33+00:00-3f90a2273f8289e"
+      },
+      "description": "Apple Watch Series 6 / iPad Air第4世代/ 突然のiOS 14リリース / Evernote for iOSメジャーアップデート / 今後のEvernote",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/09/25/53-watch-ipad-air-ios-14-evernote/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/178/s/feed/c/podcast/AirSap_Episode_53_20200918_rev1.mp3",
+        "@length": 33742985,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:46:51",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "新型Apple Watch・iPad Air・iOS 14の登場とEvernoteの今後",
+      "itunes:episode": 53,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Apple Watch Series 6 / iPad Air第4世代/ 突然のiOS 14リリース / Evernote for iOSメジャーアップデート / 今後のEvernote"
+    },
+    {
+      "title": "#52 ミニトマト栽培とLG UltraFine 4K Displayの使い心地",
+      "link": "https://airsap.net/2020/09/09/52-ultrafine-4k/",
+      "pubDate": "Wed, 09 Sep 2020 01:44:34 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-09-09t01:25:09+00:00-b7de3714af990e0"
+      },
+      "description": "ミニトマトの収穫量を増やすコツ / うどん粉病との闘い / LG UltraFine 4K Displayの使用感 / 1000円カット体験談",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/09/09/52-ultrafine-4k/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/175/s/feed/c/podcast/AirSap_Episode_52_20200828_rev1.mp3",
+        "@length": 26250172,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:36:25",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "ミニトマト栽培とLG UltraFine 4K Displayの使い心地",
+      "itunes:episode": 52,
+      "itunes:episodeType": "full",
+      "itunes:summary": "ミニトマトの収穫量を増やすコツ / うどん粉病との闘い / LG UltraFine 4K Displayの使用感 / 1000円カット体験談"
+    },
+    {
+      "title": "#51 スマホジンバルって実際どうなの？DJI OM4登場",
+      "link": "https://airsap.net/2020/09/02/51-dji-om4/",
+      "pubDate": "Wed, 02 Sep 2020 08:04:49 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-09-02t07:46:45+00:00-740126fa26011ee"
+      },
+      "description": "Epic vs Apple ラウンド1決着 / iOS 14サポート機種正式発表 / スマホジンバル・DJI OM4登場 / 大阪万博ロゴがすごい",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/09/02/51-dji-om4/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/169/s/feed/c/podcast/AirSap_Episode_51_20200828_rev1.mp3",
+        "@length": 24163678,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:33:33",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "スマホジンバルって実際どうなの？DJI OM4登場",
+      "itunes:episode": 51,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Epic vs Apple ラウンド1決着 / iOS 14サポート機種正式発表 / スマホジンバル・DJI OM4登場 / 大阪万博ロゴがすごい"
+    },
+    {
+      "title": "#50 楽天UN-LIMITと中古ソフト個人間売買",
+      "link": "https://airsap.net/2020/08/26/50-rakuten-un-limit/",
+      "pubDate": "Wed, 26 Aug 2020 01:11:07 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-08-26t01:04:40+00:00-0b422806f1ad470"
+      },
+      "description": "楽天UN-LIMITをiPhoneで使用した際の使用感、メリットやデメリット、部屋の断捨離と不用品販売、メルカリでAdobeのソフトウェアを正しくライセンスごと販売する方法や優先順位の低い仕事の処理の工夫について、話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/08/26/50-rakuten-un-limit/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/166/s/feed/c/podcast/AirSap_Episode_50_20200815 _rev1.mp3",
+        "@length": 27717228,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:27",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "楽天UN-LIMITと中古ソフト個人間売買",
+      "itunes:episode": 50,
+      "itunes:episodeType": "full",
+      "itunes:summary": "楽天UN-LIMITをiPhoneで使用した際の使用感、メリットやデメリット、部屋の断捨離と不用品販売、メルカリでAdobeのソフトウェアを正しくライセンスごと販売する方法や優先順位の低い仕事の処理の工夫について、話しました。"
+    },
+    {
+      "title": "#49 Epic Games vs Apple & Google アプリのストア手数料の未来はどうなる？",
+      "link": "https://airsap.net/2020/08/16/49-epic-vs-apple-google/",
+      "pubDate": "Sun, 16 Aug 2020 06:38:43 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-08-16t06:32:29+00:00-ee0dd95874709ce"
+      },
+      "description": "Epic GamesがFortniteに独自課金を実装してApp StoreとGoogle PlayからFortniteアプリを削除された件を中心に、App Storeや30％手数料の今後のあり方について話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/08/16/49-epic-vs-apple-google/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/162/s/feed/c/podcast/AirSap_Episode_49_20200814_rev1.mp3",
+        "@length": 28142544,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:39:05",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Epic Games vs Apple & Google アプリのストア手数料の未来はどうなる？",
+      "itunes:episode": 49,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Epic GamesがFortniteに独自課金を実装してApp StoreとGoogle PlayからFortniteアプリを削除された件を中心に、App Storeや30％手数料の今後のあり方について話しました。"
+    },
+    {
+      "title": "#48 2020年に大進化を遂げたSwiftUIを語る",
+      "link": "https://airsap.net/2020/07/24/48-2020swiftui/",
+      "pubDate": "Fri, 24 Jul 2020 05:30:48 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-07-24t05:16:17+00:00-2b3e6749780a7e0"
+      },
+      "description": "2020年の新しいSwiftUIについて @notoroid さんに語っていただきました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/07/24/48-2020swiftui/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/159/s/feed/c/podcast/AirSap_Episode_48_20200708.mp3",
+        "@length": 26650117,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:37:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "2020年に大進化を遂げたSwiftUIを語る",
+      "itunes:episode": 48,
+      "itunes:episodeType": "full",
+      "itunes:summary": "2020年の新しいSwiftUIについて @notoroid さんに語っていただきました。"
+    },
+    {
+      "title": "#47 WWDC20後編: iOSアプリ開発は本質と誠実の時代に",
+      "link": "https://airsap.net/2020/07/23/47-wwdc20-ios/",
+      "pubDate": "Thu, 23 Jul 2020 01:29:27 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-07-23t01:23:23+00:00-bfa56b30cc76056"
+      },
+      "description": "WWDC20基調講演の日の夜に、発表されたばかりの新しいiPadOS, iOS, watchOSなどについて話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/07/23/47-wwdc20-ios/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/156/s/feed/c/podcast/AirSap_Episode_47_20200623_rev3.mp3",
+        "@length": 30158020,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:41:52",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "WWDC20基調講演の日の夜に、発表されたばかりの新しいiPadOS, iOS, watchOSなどについて話しました。",
+      "itunes:title": "WWDC20後編: iOSアプリ開発は本質と誠実の時代に",
+      "itunes:episode": 47,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#46 WWDC20前編: 今年はMacの年だ！",
+      "link": "https://airsap.net/2020/07/05/46-wwdc20-mac/",
+      "pubDate": "Sun, 05 Jul 2020 05:10:22 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-07-05t05:05:17+00:00-0af33d8f30d234e"
+      },
+      "description": "WWDC20で発表された内容について話しました。前編は歴史的な変化があったMacについて熱く語っています。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/07/05/46-wwdc20-mac/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/153/s/feed/c/podcast/AirSap_Episode_46_20200623_rev1.mp3",
+        "@length": 27109034,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:37:37",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC20前編: 今年はMacの年だ！",
+      "itunes:episode": 46,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC20で発表された内容について話しました。前編は歴史的な変化があったMacについて熱く語っています。"
+    },
+    {
+      "title": "#45 オンラインで勉強会と懇親会を開催して見えた課題と改善策",
+      "link": "https://airsap.net/2020/06/18/45-online-study/",
+      "pubDate": "Thu, 18 Jun 2020 04:39:58 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-06-16t13:50:16+00:00-cf2f6630d483556"
+      },
+      "description": "5月にiPhone Dev Sapporo勉強会とその後の懇親会をオンラインで開催しました。\r\n初のオンライン開催にあたって考えたことや、実際に開催して見えたオンライン開催の課題と改善策について話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/06/18/45-online-study/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/146/s/feed/c/podcast/AirSap_Episode_45_20200606.mp3",
+        "@length": 10890445,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:15:07",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "オンラインで勉強会と懇親会を開催して見えた課題と改善策",
+      "itunes:episode": 45,
+      "itunes:episodeType": "full",
+      "itunes:summary": "5月にiPhone Dev Sapporo勉強会とその後の懇親会をオンラインで開催しました。\r\n初のオンライン開催にあたって考えたことや、実際に開催して見えたオンライン開催の課題と改善策について話しました。"
+    },
+    {
+      "title": "#44 iPadでUIデザイン / Macbookのキーボードバッテリー / 水出しコーヒー",
+      "link": "https://airsap.net/2020/06/12/44-ipad-ui-design/",
+      "pubDate": "Fri, 12 Jun 2020 04:29:04 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-06-06t14:28:11+00:00-ef888480cd53475"
+      },
+      "description": "iPadオンリー生活でUIデザインに使用したアプリの紹介や問題点、家庭で作れる水出しコーヒーについて話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/06/12/44-ipad-ui-design/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/135/s/feed/c/podcast/AirSap_Episode_44_20200606_rev2.mp3",
+        "@length": 28421532,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:39:28",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPadでUIデザイン / Macbookのキーボードバッテリー / 水出しコーヒー",
+      "itunes:episode": 44,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPadオンリー生活でUIデザインに使用したアプリの紹介や問題点、家庭で作れる水出しコーヒーについて話しました。"
+    },
+    {
+      "title": "#43 MagicKeyboardの第一印象とiPadアプリのポインター対応",
+      "link": "https://airsap.net/2020/05/25/43-support-pointer-interaction/",
+      "pubDate": "Mon, 25 May 2020 04:27:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-05-25t04:20:17+00:00-b0a21044c0f0685"
+      },
+      "description": "ようやく届いたiPad Pro用Magic Keyboardの感想やiPadアプリのポインター対応の意外な難しさ、WWDC20とARM Macの予想について話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/05/25/43-support-pointer-interaction/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/132/s/feed/c/podcast/AirSap_Episode_43_20200522_rev1.mp3",
+        "@length": 37654584,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:52:15",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "MagicKeyboardの第一印象とiPadアプリのポインター対応",
+      "itunes:episode": 43,
+      "itunes:episodeType": "full",
+      "itunes:summary": "ようやく届いたiPad Pro用Magic Keyboardの感想やiPadアプリのポインター対応の意外な難しさ、WWDC20とARM Macの予想について話しました。"
+    },
+    {
+      "title": "#42 新型iPhone SEの登場とアプリの4inch画面対応のゆくえ",
+      "link": "https://airsap.net/2020/05/15/se2/",
+      "pubDate": "Thu, 14 May 2020 22:11:49 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-05-14t22:04:12+00:00-79572ccb61c3bfa"
+      },
+      "description": "iPhone SE第2世代の第一印象と今後のiOSアプリの4inch画面対応、iPad Pro用Magic Keyboardの注文、新型コロナウイルスで変わった札幌の様子などを話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/05/15/se2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/128/s/feed/c/podcast/AirSap_Episode_42_20200428_rev1.mp3",
+        "@length": 25199614,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:58",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "新型iPhone SEの登場とアプリの4inch画面対応のゆくえ",
+      "itunes:episode": 42,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone SE第2世代の第一印象と今後のiOSアプリの4inch画面対応、iPad Pro用Magic Keyboardの注文、新型コロナウイルスで変わった札幌の様子などを話しました。"
+    },
+    {
+      "title": "#41 北海道新型コロナウイルスまとめサイトの立ち上げ秘話や運営方法",
+      "link": "https://airsap.net/2020/04/23/41-hokkaido-covid19/",
+      "pubDate": "Thu, 23 Apr 2020 02:02:45 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-04-23t01:56:49+00:00-e1cae21b060410a"
+      },
+      "description": "わずか数日で公開された北海道新型コロナウイルスまとめサイト。\r\nそのプロジェクトの成功の背景にある立ち上げ時のメンバー達の熱意、行動などの秘話や、今後の運営について渡辺陽太さんに聞きました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/04/23/41-hokkaido-covid19/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/124/s/feed/c/podcast/AirSap_Episode_41_20200409_rev1.mp3",
+        "@length": 26318782,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:36:33",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "北海道新型コロナウイルスまとめサイトの立ち上げ秘話や運営方法",
+      "itunes:episode": 41,
+      "itunes:episodeType": "full",
+      "itunes:summary": "わずか数日で公開された北海道新型コロナウイルスまとめサイト。\r\nそのプロジェクトの成功の背景にある立ち上げ時のメンバー達の熱意、行動などの秘話や、今後の運営について渡辺陽太さんに聞きました。"
+    },
+    {
+      "title": "#40 GoogleフォトとAppleTV+の罠 / 有料アプリの値段のつけ方",
+      "link": "https://airsap.net/2020/04/08/40-googlephoto-appletvplus/",
+      "pubDate": "Wed, 08 Apr 2020 13:32:03 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-04-08t13:26:20+00:00-3191aba98e0a75c"
+      },
+      "description": "Google Nest HubとGoogleフォトの使い勝手、AppleTV+の良い点・悪い点、有料アプリの値段のつけ方、プライバシーに配慮した検索エンジン「DuckDuckGo」などについて話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/04/08/40-googlephoto-appletvplus/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/122/s/feed/c/podcast/AirSap_Episode_40_20200402.mp3",
+        "@length": 27956941,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:49",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "GoogleフォトとAppleTV+の罠 / 有料アプリの値段のつけ方",
+      "itunes:episode": 40,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Google Nest HubとGoogleフォトの使い勝手、AppleTV+の良い点・悪い点、有料アプリの値段のつけ方、プライバシーに配慮した検索エンジン「DuckDuckGo」などについて話しました。"
+    },
+    {
+      "title": "#39 iPad Proにトラックパッドはあり？なし？",
+      "link": "https://airsap.net/2020/03/28/39-ipad-pro-trackpad/",
+      "pubDate": "Sat, 28 Mar 2020 10:16:07 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-03-28t10:07:03+00:00-4478ab6d42f5be3"
+      },
+      "description": "オンライン開催となるWWDC20、iPad Proとトラックパッドの組み合わせ、FastEver 10周年や深夜の騒音の対処法について話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/03/28/39-ipad-pro-trackpad/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/118/s/feed/c/podcast/AirSap_Episode_39_20200322_rev1.mp3",
+        "@length": 24699081,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:18",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPad Proにトラックパッドはあり？なし？",
+      "itunes:episode": 39,
+      "itunes:episodeType": "full",
+      "itunes:summary": "オンライン開催となるWWDC20、iPad Proとトラックパッドの組み合わせ、FastEver 10周年や深夜の騒音の対処法について話しました。"
+    },
+    {
+      "title": "#38 右手首の炎症とマイナンバーカード",
+      "link": "https://airsap.net/2020/03/02/38-wrist-inflammation-mynumber/",
+      "pubDate": "Mon, 02 Mar 2020 02:28:14 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-03-02t02:23:04+00:00-3d4b866368999b4"
+      },
+      "description": "右手首の炎症、キャッシュレス決済、マイナンバーカード、iPhoneで確定申告などについて話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/03/02/38-wrist-inflammation-mynumber/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/115/s/feed/c/podcast/AirSap_Episode_38_20202015_rev2.mp3",
+        "@length": 24048917,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:33:22",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "右手首の炎症とマイナンバーカード",
+      "itunes:episode": 38,
+      "itunes:episodeType": "full",
+      "itunes:summary": "右手首の炎症、キャッシュレス決済、マイナンバーカード、iPhoneで確定申告などについて話しました。"
+    },
+    {
+      "title": "#37 薬剤師×iOS開発でやりたいこと",
+      "link": "https://airsap.net/2020/02/08/37-pharmacist-ios-developer/",
+      "pubDate": "Sat, 08 Feb 2020 07:19:34 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2020-02-08t07:13:43+00:00-00b39d615ab7181"
+      },
+      "description": "AirSapメイン出演者の水口貴史 (@Guttyo) は普段何をしてる人なのか？今までの活動や今後の展望について聞いてみました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2020/02/08/37-pharmacist-ios-developer/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/112/s/feed/c/podcast/AirSap_episode_37_20200201_rev1.mp3",
+        "@length": 26367990,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:36:37",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "薬剤師×iOS開発でやりたいこと",
+      "itunes:episode": 37,
+      "itunes:episodeType": "full",
+      "itunes:summary": "AirSapメイン出演者の水口貴史 (@Guttyo) は普段何をしてる人なのか？今までの活動や今後の展望について聞いてみました。"
+    },
+    {
+      "title": "#36 SwiftUIの地雷を全部踏んだ男",
+      "link": "https://airsap.net/2019/12/29/36-swiftui-mines/",
+      "pubDate": "Sun, 29 Dec 2019 12:29:34 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-12-29t12:23:41+00:00-496e290c9a2e102"
+      },
+      "description": "SwiftUIで新規アプリを作った @notoroid さんにSwiftUIを実際に使った感想を聞いてみました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/12/29/36-swiftui-mines/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/108/s/feed/c/podcast/AirSap_Episode_36_20191117_rev2.mp3",
+        "@length": 27720964,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:28",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "SwiftUIの地雷を全部踏んだ男",
+      "itunes:episode": 36,
+      "itunes:episodeType": "full",
+      "itunes:summary": "SwiftUIで新規アプリを作った @notoroid さんにSwiftUIを実際に使った感想を聞いてみました。"
+    },
+    {
+      "title": "#35 iPhone 11とiPhone 11 Proの魅力",
+      "link": "https://airsap.net/2019/10/18/35-iphone-11/",
+      "pubDate": "Fri, 18 Oct 2019 09:22:55 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-10-18t08:41:31+00:00-02a1e647e235135"
+      },
+      "description": "有限会社ファングの岸田さん @kishidog と福江さん @graiphus をゲストに迎えて、iPhone 11とiPhone 11 Proの魅力について語っていただきました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/10/18/35-iphone-11/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/105/s/feed/c/podcast/AirSap_Episode_35_20190925_rev1.mp3",
+        "@length": 77709056,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:53:57",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone 11とiPhone 11 Proの魅力",
+      "itunes:episode": 35,
+      "itunes:episodeType": "full",
+      "itunes:summary": "有限会社ファングの岸田さん @kishidog と福江さん @graiphus をゲストに迎えて、iPhone 11とiPhone 11 Proの魅力について語っていただきました。"
+    },
+    {
+      "title": "#34 古参MacユーザーとしてCatalystに期待すること",
+      "link": "https://airsap.net/2019/08/19/34-catalyst/",
+      "pubDate": "Mon, 19 Aug 2019 00:58:52 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-08-19t00:50:19+00:00-c74d53612baba4b"
+      },
+      "description": "WWDC19で正式発表されたiPadアプリをMacアプリ化する新技術「Catalyst」への期待とmacOSの歴史について話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/08/19/34-catalyst/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/104/s/feed/c/podcast/AirSap_Episode_34_20190812.mp3",
+        "@length": 45699267,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:31:43",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "古参MacユーザーとしてCatalystに期待すること",
+      "itunes:episode": 34,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC19で正式発表されたiPadアプリをMacアプリ化する新技術「Catalyst」への期待とmacOSの歴史について話しました。"
+    },
+    {
+      "title": "#33 WWDC19で登場したSwiftUIの衝撃",
+      "link": "https://airsap.net/2019/07/01/33-wwdc19-swiftui/",
+      "pubDate": "Mon, 01 Jul 2019 12:26:33 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-07-01t12:22:32+00:00-a9726e8543b20c6"
+      },
+      "description": "WWDC19で発表されたSwiftUIについて @notoroid さんと話しました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/07/01/33-wwdc19-swiftui/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/103/s/feed/c/podcast/AirSap_Episode_33_20190622_rev1.mp3",
+        "@length": 34989035,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:48:34",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC19で登場したSwiftUIの衝撃",
+      "itunes:episode": 33,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC19で発表されたSwiftUIについて @notoroid さんと話しました。"
+    },
+    {
+      "title": "#32 Flutterってどう？マルチプラットフォーム開発の今",
+      "link": "https://airsap.net/2019/05/24/32-flutter/",
+      "pubDate": "Fri, 24 May 2019 08:05:54 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-05-24t07:58:53+00:00-c2af307e6122840"
+      },
+      "description": "Flutterのコンテストに応募した阿部さん（もっさりさん）にFlutterについて聞きました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/05/24/32-flutter/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/102/s/feed/c/podcast/AirSap_Episode_32_20190519_rev5.mp3",
+        "@length": 61810989,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:42:54",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Flutterってどう？マルチプラットフォーム開発の今",
+      "itunes:episode": 32,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Flutterのコンテストに応募した阿部さん（もっさりさん）にFlutterについて聞きました。"
+    },
+    {
+      "title": "#31 【春のポッドキャストまつり2019】新社会人への応援メッセージ（？）",
+      "link": "https://airsap.net/2019/04/12/31-%e3%80%90%e6%98%a5%e3%81%ae%e3%83%9d%e3%83%83%e3%83%89%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e3%81%be%e3%81%a4%e3%82%8a2019%e3%80%91%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba%e3%81%b8%e3%81%ae%e5%bf%9c/",
+      "pubDate": "Fri, 12 Apr 2019 03:00:39 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-04-11t22:20:17+00:00-759018bf6d6c811"
+      },
+      "description": "この春に新社会人になった皆さんに向けての応援メッセージと自分たちの新社会人時代の話をしてみました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/04/12/31-%e3%80%90%e6%98%a5%e3%81%ae%e3%83%9d%e3%83%83%e3%83%89%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e3%81%be%e3%81%a4%e3%82%8a2019%e3%80%91%e6%96%b0%e7%a4%be%e4%bc%9a%e4%ba%ba%e3%81%b8%e3%81%ae%e5%bf%9c/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/101/s/feed/c/podcast/AirSap_Episode_31_20190407_rev1.mp3",
+        "@length": 9345629,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:12:56",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "【春のポッドキャストまつり2019】新社会人への応援メッセージ（？）",
+      "itunes:episode": 31,
+      "itunes:episodeType": "full",
+      "itunes:summary": "この春に新社会人になった皆さんに向けての応援メッセージと自分たちの新社会人時代の話をしてみました。"
+    },
+    {
+      "title": "#30 Appleイベントで発表されたApple TV+・Apple Arcade・Apple Cardなどの第一印象",
+      "link": "https://airsap.net/2019/03/27/30-apple-event-apple-tv-plus/",
+      "pubDate": "Wed, 27 Mar 2019 12:14:50 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-03-27t12:07:51+00:00-6b43573863ad8ad"
+      },
+      "description": "Apple Special Event 2019年3月26日で発表された新しく登場するApple TV+とApple ArcadeやApple Card(米国国内からスタート)の件について話しています。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/03/27/30-apple-event-apple-tv-plus/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/100/s/feed/c/podcast/AirSap_Episode_30_20190326.mp3",
+        "@length": 17032249,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:23:38",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Appleイベントで発表されたApple TV+・Apple Arcade・Apple Cardなどの第一印象",
+      "itunes:episode": 30,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Apple Special Event 2019年3月26日で発表された新しく登場するApple TV+とApple ArcadeやApple Card(米国国内からスタート)の件について話しています。"
+    },
+    {
+      "title": "#29 iMac 21.5 inchの所感と動画撮影アプリやVR180動画について / DevSap 10周年！",
+      "link": "https://airsap.net/2019/03/16/29-imac-21-5-inch/",
+      "pubDate": "Sat, 16 Mar 2019 12:05:22 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-03-16t11:45:47+00:00-026176f6ec85edf"
+      },
+      "description": "動画撮影用に導入したiMac 21.5 inchと動画撮影アプリ・動画撮影機材やVR180動画の話をしました。また、iPhone Dev Sapporoの10周年パーティーの話もしています。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/03/16/29-imac-21-5-inch/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/99/s/feed/c/podcast/AirSap_Episode_29_20190302_rev1.mp3",
+        "@length": 31880437,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:44:14",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iMac 21.5 inchの所感と動画撮影アプリやVR180動画について / DevSap 10周年！",
+      "itunes:episode": 29,
+      "itunes:episodeType": "full",
+      "itunes:summary": "動画撮影用に導入したiMac 21.5 inchと動画撮影アプリ・動画撮影機材やVR180動画の話をしました。また、iPhone Dev Sapporoの10周年パーティーの話もしています。"
+    },
+    {
+      "title": "#28 PayPay祭りとiPad Pro 11インチ",
+      "link": "https://airsap.net/2019/02/11/28-paypay%e7%a5%ad%e3%82%8a%e3%81%a8ipad-pro-11%e3%82%a4%e3%83%b3%e3%83%81/",
+      "pubDate": "Mon, 11 Feb 2019 13:20:35 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2019-02-11t13:00:46+00:00-3c01eb0e7e96a6d"
+      },
+      "description": "PayPay 100億円キャンペーン（第１弾）とiPad Pro 11インチを使った感想などについて話しました。\r\n\r\n驚異の100億円還元｢PayPay祭｣スタート ── 狙いは家電量販店とアップル製品\r\nhttps://www.businessinsider.jp/post-180719\r\n\r\niPad Pro\r\nhttps://www.apple.com/jp/ipad-pro/\r\n\r\n札幌・平岸で爆発、飲食店など倒壊　４１人が重軽傷\r\nhttps://www.hokkaido-np.co.jp/article/258544",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2019/02/11/28-paypay%e7%a5%ad%e3%82%8a%e3%81%a8ipad-pro-11%e3%82%a4%e3%83%b3%e3%83%81/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/98/s/feed/c/podcast/AirSap_Episode_28_20181219_rev1.mp3",
+        "@length": 24839812,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:27",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "PayPay祭りとiPad Pro 11インチ",
+      "itunes:episode": 28,
+      "itunes:episodeType": "full",
+      "itunes:summary": "PayPay 100億円キャンペーン（第１弾）とiPad Pro 11インチを使った感想などについて話しました。\r\n\r\n驚異の100億円還元｢PayPay祭｣スタート ── 狙いは家電量販店とアップル製品\r\nhttps://www.businessinsider.jp/post-180719\r\n\r\niPad Pro\r\nhttps://www.apple.com/jp/ipad-pro/\r\n\r\n札幌・平岸で爆発、飲食店など倒壊　４１人が重軽傷\r\nhttps://www.hokkaido-np.co.jp/article/258544"
+    },
+    {
+      "title": "#27 iPhone XR発売 / 札幌から京都まで車で行った話",
+      "link": "https://airsap.net/2018/11/21/27-iphone-xr-kyoto/",
+      "pubDate": "Wed, 21 Nov 2018 13:33:07 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-11-21t13:29:35+00:00-35bdef4a0844ab0"
+      },
+      "description": "iPhone XRの発売とApple渋谷のオープン、Apple表参道、Apple京都、札幌から京都まで車で行った話などについて話しました。\r\n\r\n緊急速報エリアメール\r\nhttps://www.nttdocomo.co.jp/service/areamail/\r\n\r\niPhone XR\r\nhttps://www.apple.com/jp/iphone-xr/\r\n\r\nApple渋谷\r\nhttps://www.apple.com/jp/retail/shibuya/\r\n\r\nApple表参道\r\nhttps://www.apple.com/jp/retail/omotesando/\r\n\r\nApple京都\r\nhttps://www.apple.com/jp/retail/kyoto/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/11/21/27-iphone-xr-kyoto/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/96/s/feed/c/podcast/AirSap_Episode_27_20181026_rev1.mp3",
+        "@length": 24674578,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:34:13",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone XR発売 / 札幌から京都まで車で行った話",
+      "itunes:episode": 27,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone XRの発売とApple渋谷のオープン、Apple表参道、Apple京都、札幌から京都まで車で行った話などについて話しました。\r\n\r\n緊急速報エリアメール\r\nhttps://www.nttdocomo.co.jp/service/areamail/\r\n\r\niPhone XR\r\nhttps://www.apple.com/jp/iphone-xr/\r\n\r\nApple渋谷\r\nhttps://www.apple.com/jp/retail/shibuya/\r\n\r\nApple表参道\r\nhttps://www.apple.com/jp/retail/omotesando/\r\n\r\nApple京都\r\nhttps://www.apple.com/jp/retail/kyoto/"
+    },
+    {
+      "title": "#26 iPhone XS MaxとApple Watch Series 4を使ってみて分かったこと",
+      "link": "https://airsap.net/2018/10/02/26-iphone-xs-max-apple-watch-series-4/",
+      "pubDate": "Mon, 01 Oct 2018 23:30:24 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-10-01t22:40:02+00:00-43eb8416dc7058c"
+      },
+      "description": "9/21に発売されたiPhone XS MaxとApple Watch Series 4を使ってみた感想や、9/25日にリリースされたmacOS Mojaveの第一印象について話しました。\r\n\r\niPhone XS Max \r\nhttps://www.apple.com/jp/iphone-xs/  \r\n\r\nApple Watch Series 4\r\n https://www.apple.com/jp/apple-watch-series-4/  \r\n\r\nアップル、iPhone4用ケース無償提供開始 ｢デスグリップ｣対策 \r\nhttp://www.afpbb.com/articles/-/2742569?pid=6003848\r\n\r\nmacOS Mojave\r\n https://www.apple.com/jp/macos/mojave/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/10/02/26-iphone-xs-max-apple-watch-series-4/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/94/s/feed/c/podcast/AirSap_Episode_26_20180927_rev1.mp3",
+        "@length": 27258902,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:37:49",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "iPhone XS MaxとApple Watch Series 4を使ってみて分かったこと",
+      "itunes:episode": 26,
+      "itunes:episodeType": "full",
+      "itunes:summary": "9/21に発売されたiPhone XS MaxとApple Watch Series 4を使ってみた感想や、9/25日にリリースされたmacOS Mojaveの第一印象について話しました。\r\n\r\niPhone XS Max \r\nhttps://www.apple.com/jp/iphone-xs/  \r\n\r\nApple Watch Series 4\r\n https://www.apple.com/jp/apple-watch-series-4/  \r\n\r\nアップル、iPhone4用ケース無償提供開始 ｢デスグリップ｣対策 \r\nhttp://www.afpbb.com/articles/-/2742569?pid=6003848\r\n\r\nmacOS Mojave\r\n https://www.apple.com/jp/macos/mojave/"
+    },
+    {
+      "title": "#25 新型iPhoneの発表 / 北海道胆振東部地震を体験して感じたこと",
+      "link": "https://airsap.net/2018/09/16/25-newiphone-earthquake/",
+      "pubDate": "Sun, 16 Sep 2018 13:46:49 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-09-16t13:41:47+00:00-607b8c6e4a71b7a"
+      },
+      "description": "9月13日に発表された新型iPhone・Apple Watchについてと、その日ちょうど被災から1週間が経った北海道胆振東部地震の体験について話しました。\r\n\r\niPhone XS\r\nhttps://www.apple.com/jp/iphone-xs/\r\n\r\niPhone XR\r\nhttps://www.apple.com/jp/iphone-xr/\r\n\r\nApple Watch Series 4\r\nhttps://www.apple.com/jp/apple-watch-series-4/\r\n\r\n北海道地震とそれに伴う39時間の停電を乗り切った時にあって良かったもの - らっこのじゆうちょう\r\nhttp://frnk.hatenablog.jp/entry/2018/09/07/232656\r\n\r\n北海道地震 周辺の活断層に新たなひずみか 今後の活動に注意 | NHKニュース\r\nhttps://www3.nhk.or.jp/news/html/20180913/k10011627331000.html\r\n\r\nさっぽろオータムフェスト 2018\r\nhttps://www.sapporo-autumnfest.jp",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/09/16/25-newiphone-earthquake/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/92/s/feed/c/podcast/AirSap_Episode_25_20180913_rev1.mp3",
+        "@length": 32808566,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:45:32",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "新型iPhoneの発表 / 北海道胆振東部地震を体験して感じたこと",
+      "itunes:episode": 25,
+      "itunes:episodeType": "full",
+      "itunes:summary": "9月13日に発表された新型iPhone・Apple Watchについてと、その日ちょうど被災から1週間が経った北海道胆振東部地震の体験について話しました。\r\n\r\niPhone XS\r\nhttps://www.apple.com/jp/iphone-xs/\r\n\r\niPhone XR\r\nhttps://www.apple.com/jp/iphone-xr/\r\n\r\nApple Watch Series 4\r\nhttps://www.apple.com/jp/apple-watch-series-4/\r\n\r\n北海道地震とそれに伴う39時間の停電を乗り切った時にあって良かったもの - らっこのじゆうちょう\r\nhttp://frnk.hatenablog.jp/entry/2018/09/07/232656\r\n\r\n北海道地震 周辺の活断層に新たなひずみか 今後の活動に注意 | NHKニュース\r\nhttps://www3.nhk.or.jp/news/html/20180913/k10011627331000.html\r\n\r\nさっぽろオータムフェスト 2018\r\nhttps://www.sapporo-autumnfest.jp"
+    },
+    {
+      "title": "#24 5年ぶりのアプリアップデートと10年ぶりのロゴアップデート",
+      "link": "https://airsap.net/2018/08/23/24-updates/",
+      "pubDate": "Thu, 23 Aug 2018 13:57:23 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-08-23t13:52:19+00:00-f0412f5862593ae"
+      },
+      "description": "調剤電卓、CTCAEの5年ぶりアップデートやEvernoteの新ロゴ、Apple京都オープン、ハワイ・ワイキキなどについて話しました。\r\n\r\n\r\n調剤電卓\r\nhttps://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8\r\n\r\nCTCAE 有害事象共通用語規準 v4.0 JCOG版(英語・日本語)\r\nhttps://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8\r\n\r\nEvernote ブランド刷新の裏側　\r\nhttps://evernote.com/blog/jp/elephant-logo-story/\r\n\r\nApple 京都\r\nhttps://www.apple.com/jp/retail/kyoto/\r\n\r\n京都生まれのゲームたち\r\nhttps://itunes.apple.com/jp/story/id1413652624\r\n\r\nApple新宿に続く新店舗の地は…？ | Apple Store | Macお宝鑑定団 blog（羅針盤）\r\nhttp://www.macotakara.jp/blog/apple_store/entry-34650.html\r\n\r\nさっぽろ創世スクエア\r\nhttps://ja.wikipedia.org/wiki/さっぽろ創世スクエア\r\n\r\nApple Royal Hawaiian \r\nhttps://www.apple.com/retail/royalhawaiian/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/08/23/24-updates/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/89/s/feed/c/podcast/AirSap_Episode_24_20180819_rev2.mp3",
+        "@length": 26219216,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:36:22",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "5年ぶりのアプリアップデートと10年ぶりのロゴアップデート",
+      "itunes:episode": 24,
+      "itunes:episodeType": "full",
+      "itunes:summary": "調剤電卓、CTCAEの5年ぶりアップデートやEvernoteの新ロゴ、Apple京都オープン、ハワイ・ワイキキなどについて話しました。\r\n\r\n\r\n調剤電卓\r\nhttps://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8\r\n\r\nCTCAE 有害事象共通用語規準 v4.0 JCOG版(英語・日本語)\r\nhttps://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8\r\n\r\nEvernote ブランド刷新の裏側　\r\nhttps://evernote.com/blog/jp/elephant-logo-story/\r\n\r\nApple 京都\r\nhttps://www.apple.com/jp/retail/kyoto/\r\n\r\n京都生まれのゲームたち\r\nhttps://itunes.apple.com/jp/story/id1413652624\r\n\r\nApple新宿に続く新店舗の地は…？ | Apple Store | Macお宝鑑定団 blog（羅針盤）\r\nhttp://www.macotakara.jp/blog/apple_store/entry-34650.html\r\n\r\nさっぽろ創世スクエア\r\nhttps://ja.wikipedia.org/wiki/さっぽろ創世スクエア\r\n\r\nApple Royal Hawaiian \r\nhttps://www.apple.com/retail/royalhawaiian/"
+    },
+    {
+      "title": "#23 WWDC 2018 を振り返る",
+      "link": "https://airsap.net/2018/08/05/23-wwdc-2018/",
+      "pubDate": "Sun, 05 Aug 2018 03:15:39 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-08-05t03:01:25+00:00-64e1e91af607cdf"
+      },
+      "description": "@TeamMOSA2 さんと @tqmy さんをゲストに迎えて、WWDC 2018で発表されたことを振り返ってみました。\r\n\r\nWWDC 2018\r\nhttps://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/\r\n\r\n Apple Watch用バンドにLGBTQ支援の「プライドエディション」追加\r\nhttp://www.itmedia.co.jp/news/articles/1806/05/news066.html\r\n\r\n macOS - Mojaveプレビュー - Apple（日本）\r\nhttps://www.apple.com/jp/macos/mojave-preview/  \r\n\r\nPlatforms State of the Union\r\n https://developer.apple.com/videos/play/wwdc2018/102\r\n\r\n iOS 12プレビュー - Apple（日本）\r\nhttps://www.apple.com/jp/ios/ios-12-preview/ \r\n\r\n速報：アップル、自分をアニ文字にする「Memoji」発表。舌出し検出で表情豊かに https://japanese.engadget.com/2018/06/04/memoji/\r\n\r\n  iOS 12に作業中断を減らし、画面を見ている時間を管理するための新機能が導入 https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/\r\n\r\n Oculus Go + Oculus Rooms を使ってガチの仕事会議をしてみた感想\r\nhttps://blog.feedtailor.jp/2018/06/03/remoteworkvr/\r\n\r\n  Apple、ARKit 2を発表 https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/\r\n\r\n Introduction to USD\r\nhttps://graphics.pixar.com/usd/docs/index.html  \r\n\r\nAppleが推進する3D/ARフォーマット「USDZ」とは何か？ - ITmedia NEWS http://www.itmedia.co.jp/news/articles/1806/14/news065.html  \r\n\r\nアドビ、ARオーサリングツール「Project Aero」発表 #projectAero #WWDC #イマーシブ – Adobe Creative Station https://blogs.adobe.com/creativestation/cc-introducing-project-aero\r\n\r\n 3Dクリエーター | 撮影する | ソニーモバイル公式サイト\r\nhttps://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html\r\n\r\n 機械学習 - Apple Developer\r\nhttps://developer.apple.com/jp/machine-learning/\r\n\r\n  Introduction to Siri Shortcuts - WWDC 2018 - Videos - Apple Developer https://developer.apple.com/videos/play/wwdc2018/211",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/08/05/23-wwdc-2018/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/84/s/feed/c/podcast/AirSap_Episode_23_20180617_rev2.mp3",
+        "@length": 44203493,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:01:21",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "WWDC 2018 を振り返る",
+      "itunes:episode": 23,
+      "itunes:episodeType": "full",
+      "itunes:summary": "@TeamMOSA2 さんと @tqmy さんをゲストに迎えて、WWDC 2018で発表されたことを振り返ってみました。\r\n\r\nWWDC 2018\r\nhttps://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/\r\n\r\n Apple Watch用バンドにLGBTQ支援の「プライドエディション」追加\r\nhttp://www.itmedia.co.jp/news/articles/1806/05/news066.html\r\n\r\n macOS - Mojaveプレビュー - Apple（日本）\r\nhttps://www.apple.com/jp/macos/mojave-preview/  \r\n\r\nPlatforms State of the Union\r\n https://developer.apple.com/videos/play/wwdc2018/102\r\n\r\n iOS 12プレビュー - Apple（日本）\r\nhttps://www.apple.com/jp/ios/ios-12-preview/ \r\n\r\n速報：アップル、自分をアニ文字にする「Memoji」発表。舌出し検出で表情豊かに https://japanese.engadget.com/2018/06/04/memoji/\r\n\r\n  iOS 12に作業中断を減らし、画面を見ている時間を管理するための新機能が導入 https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/\r\n\r\n Oculus Go + Oculus Rooms を使ってガチの仕事会議をしてみた感想\r\nhttps://blog.feedtailor.jp/2018/06/03/remoteworkvr/\r\n\r\n  Apple、ARKit 2を発表 https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/\r\n\r\n Introduction to USD\r\nhttps://graphics.pixar.com/usd/docs/index.html  \r\n\r\nAppleが推進する3D/ARフォーマット「USDZ」とは何か？ - ITmedia NEWS http://www.itmedia.co.jp/news/articles/1806/14/news065.html  \r\n\r\nアドビ、ARオーサリングツール「Project Aero」発表 #projectAero #WWDC #イマーシブ – Adobe Creative Station https://blogs.adobe.com/creativestation/cc-introducing-project-aero\r\n\r\n 3Dクリエーター | 撮影する | ソニーモバイル公式サイト\r\nhttps://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html\r\n\r\n 機械学習 - Apple Developer\r\nhttps://developer.apple.com/jp/machine-learning/\r\n\r\n  Introduction to Siri Shortcuts - WWDC 2018 - Videos - Apple Developer https://developer.apple.com/videos/play/wwdc2018/211"
+    },
+    {
+      "title": "#22 Google I/O 2018で見えてきたGoogleの狙い",
+      "link": "https://airsap.net/2018/05/29/22-google-i-o-2018/",
+      "pubDate": "Mon, 28 May 2018 15:38:39 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-05-28t15:32:09+00:00-93d0ef15dba9024"
+      },
+      "description": "Google I/O 2018で発表されたGoogleアシスタント、Android P、Google News、ML Kit for Firebase、ARCore SDK for iOS、Material Design for iOSなどについて話しました。\r\n\r\nGoogle I/O 2018で発表された10個のコト：AIがもう、凄すぎる | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/05/167037.html\r\n\r\nGoogleが発表会で重大バグ「ハンバーガー絵文字の具材順問題」を直接謝罪　観客から爆笑&歓声が巻き起こる - ねとらぼ\r\nhttp://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html\r\n\r\nAndroid P Beta 端末  |  Android Developers\r\nhttps://developer.android.com/preview/devices/?hl=ja\r\n\r\nAIでお利口になったGoogle NewsアプリがiOSとAndroidに登場 | TechCrunch Japan\r\nhttps://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/\r\n\r\nThe Firebase Blog: What’s new in Firebase at I/O 2018\r\nhttps://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html\r\n\r\nML Kit for Firebase | Machine learning for mobile developers  |  Firebase\r\nhttps://firebase.google.com/products/ml-kit/\r\n\r\nWelcome to the ARCore SDK for iOS  |  ARCore  |  Google Developers\r\nhttps://developers.google.com/ar/develop/ios/overview\r\n\r\nDevelop for iOS - Material Design\r\nhttps://material.io/develop/ios/\r\n\r\nGoogleマップ、案内キャラを追えば着くARナビをデモ。GPSとVPS併用、カメラで店舗の名前も - Engadget 日本版\r\nhttps://japanese.engadget.com/2018/05/09/google-ar-gps-vps/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/05/29/22-google-i-o-2018/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/71/s/feed/c/podcast/AirSap_episode_22_20180517_rev2.mp3",
+        "@length": 23449094,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:32:31",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Google I/O 2018で見えてきたGoogleの狙い",
+      "itunes:episode": 22,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Google I/O 2018で発表されたGoogleアシスタント、Android P、Google News、ML Kit for Firebase、ARCore SDK for iOS、Material Design for iOSなどについて話しました。\r\n\r\nGoogle I/O 2018で発表された10個のコト：AIがもう、凄すぎる | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/05/167037.html\r\n\r\nGoogleが発表会で重大バグ「ハンバーガー絵文字の具材順問題」を直接謝罪　観客から爆笑&歓声が巻き起こる - ねとらぼ\r\nhttp://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html\r\n\r\nAndroid P Beta 端末  |  Android Developers\r\nhttps://developer.android.com/preview/devices/?hl=ja\r\n\r\nAIでお利口になったGoogle NewsアプリがiOSとAndroidに登場 | TechCrunch Japan\r\nhttps://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/\r\n\r\nThe Firebase Blog: What’s new in Firebase at I/O 2018\r\nhttps://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html\r\n\r\nML Kit for Firebase | Machine learning for mobile developers  |  Firebase\r\nhttps://firebase.google.com/products/ml-kit/\r\n\r\nWelcome to the ARCore SDK for iOS  |  ARCore  |  Google Developers\r\nhttps://developers.google.com/ar/develop/ios/overview\r\n\r\nDevelop for iOS - Material Design\r\nhttps://material.io/develop/ios/\r\n\r\nGoogleマップ、案内キャラを追えば着くARナビをデモ。GPSとVPS併用、カメラで店舗の名前も - Engadget 日本版\r\nhttps://japanese.engadget.com/2018/05/09/google-ar-gps-vps/"
+    },
+    {
+      "title": "#21 try! Swiftの裏話や今後を @d_date さんに聞いてみた",
+      "link": "https://airsap.net/2018/05/09/21-try-swift-d-date/",
+      "pubDate": "Wed, 09 May 2018 12:21:45 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-05-09t12:11:46+00:00-375ce48494b7bda"
+      },
+      "description": "Daiki Matsudate(@d_date)さん | Twitter\r\nhttps://twitter.com/d_date\r\n\r\ntry! Swift\r\nhttps://www.tryswift.co\r\n\r\ntry! Swift Conference - YouTube \r\nhttps://www.youtube.com/c/tryswiftconference\r\n\r\nCloud Firestore iOS Codelab\r\nhttps://github.com/firebase/firestore-codelab-extended-swift\r\n\r\nKitura - a server-side Swift web framework\r\nhttps://www.kitura.io\r\n\r\nNYC - try! Swift Conference\r\nhttps://www.tryswift.co/events/2018/nyc/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/05/09/21-try-swift-d-date/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/68/s/feed/c/podcast/AirSap_episode_21_20180327_rev1.mp3",
+        "@length": 28121343,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:39:02",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "try! Swift Tokyo 2018オーガナイザーの @d_date さんに今年のtry! Swiftの裏話や今後の展開、カンファレンスへの思いなどを聞きました。",
+      "itunes:title": "try! Swiftの裏話や今後を@d_dateさんに聞いてみた",
+      "itunes:episode": 21,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Daiki Matsudate(@d_date)さん | Twitter\r\nhttps://twitter.com/d_date\r\n\r\ntry! Swift\r\nhttps://www.tryswift.co\r\n\r\ntry! Swift Conference - YouTube \r\nhttps://www.youtube.com/c/tryswiftconference\r\n\r\nCloud Firestore iOS Codelab\r\nhttps://github.com/firebase/firestore-codelab-extended-swift\r\n\r\nKitura - a server-side Swift web framework\r\nhttps://www.kitura.io\r\n\r\nNYC - try! Swift Conference\r\nhttps://www.tryswift.co/events/2018/nyc/"
+    },
+    {
+      "title": "#20 @notoroid さんが語るiOSと業務アプリとスプラトゥーン",
+      "link": "https://airsap.net/2018/04/20/20-notoroid-splatoon/",
+      "pubDate": "Thu, 19 Apr 2018 23:48:10 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-04-19t23:38:37+00:00-e70007c197f4693"
+      },
+      "description": "Kaname Noto(@notoroid)さん | Twitter\r\nhttps://twitter.com/notoroid\r\n\r\nChromebook のご紹介\r\nhttps://www.google.co.jp/chrome/business/devices/features.html\r\n\r\nASUSについて - ブランドヒストリー - ASUS－ブランドネームの由来\r\nhttps://www.asus.com/jp/About_ASUS/about_asus_history_name\r\n\r\nBeats by Dr. Dre (日本)\r\nhttps://www.beatsbydre.com/jp\r\n\r\nスプラトゥーン2 | Nintendo Switch | 任天堂\r\nhttps://www.nintendo.co.jp/switch/aab6a/index.html\r\n\r\nアップルが方針転換－今秋公開の新ＯＳ、開発スピードより品質重視へ - Bloomberg\r\nhttps://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01\r\n\r\nファーウェイがMateBook X Pro発表、キーボード部に跳ね上げ式カメラを備えた薄型ノートPC第2弾 - Engadget 日本版\r\nhttps://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/\r\n\r\n新型AirPodsは｢Hey Siri｣対応、来年には防水機能も？ | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html\r\n\r\nHomePod - Apple\r\nhttps://www.apple.com/homepod/\r\n\r\nHomePod、置く場所によっては白いリングの跡が残るかも | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/04/20/20-notoroid-splatoon/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/65/s/feed/c/podcast/AirSap_episode_20_20180226.mp3",
+        "@length": 49049392,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:08:05",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "記念すべき第20回は @notoroid さんと業務アプリ、企業のサブブランド、スプラトゥーン2、iOS、Appleなどについて話しました。",
+      "itunes:title": "@notoroid さんが語るiOSと業務アプリとスプラトゥーン",
+      "itunes:episode": 20,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Kaname Noto(@notoroid)さん | Twitter\r\nhttps://twitter.com/notoroid\r\n\r\nChromebook のご紹介\r\nhttps://www.google.co.jp/chrome/business/devices/features.html\r\n\r\nASUSについて - ブランドヒストリー - ASUS－ブランドネームの由来\r\nhttps://www.asus.com/jp/About_ASUS/about_asus_history_name\r\n\r\nBeats by Dr. Dre (日本)\r\nhttps://www.beatsbydre.com/jp\r\n\r\nスプラトゥーン2 | Nintendo Switch | 任天堂\r\nhttps://www.nintendo.co.jp/switch/aab6a/index.html\r\n\r\nアップルが方針転換－今秋公開の新ＯＳ、開発スピードより品質重視へ - Bloomberg\r\nhttps://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01\r\n\r\nファーウェイがMateBook X Pro発表、キーボード部に跳ね上げ式カメラを備えた薄型ノートPC第2弾 - Engadget 日本版\r\nhttps://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/\r\n\r\n新型AirPodsは｢Hey Siri｣対応、来年には防水機能も？ | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html\r\n\r\nHomePod - Apple\r\nhttps://www.apple.com/homepod/\r\n\r\nHomePod、置く場所によっては白いリングの跡が残るかも | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html"
+    },
+    {
+      "title": "#19 2018年のiPhone・iPadはどうなる？",
+      "link": "https://airsap.net/2018/02/02/19-2018-iphone-ipad-arkit/",
+      "pubDate": "Fri, 02 Feb 2018 04:54:48 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2018-02-02t04:49:38+00:00-601026e2e37e368"
+      },
+      "description": "iPhoneのバッテリーとパフォーマンスについて、お客様にお伝えしたいこと\r\nhttps://www.apple.com/jp/iphone-battery-and-performance/\r\n\r\nアップル、iPhoneの意図的な低速化を無効にできるアップデート提供。クックCEOが「誤解を招いたことをお詫び」\r\nhttp://japanese.engadget.com/2018/01/18/iphone-ceo/\r\n\r\n株式会社ジャパンディスプレイ\r\nhttp://www.j-display.com\r\n\r\nJDI再建の命運握る「FULL ACTIVE」をアピール\r\nhttp://eetimes.jp/ee/articles/1709/26/news124.html\r\n\r\n6.1インチの新iPhoneはJDIの「日の丸液晶」を採用？ベゼルレスで9月〜10月に発売との噂\r\nhttp://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/\r\n\r\nスマートフォン向け4辺フリーFULL ACTIVETMの量産開始\r\nhttp://www.j-display.com/news/2017/20170619.html\r\n\r\nCES2018：iPhone X/8/8 PlusのQiワイヤレス7.5W急速充電は、Appleの独自仕様\r\nhttp://www.macotakara.jp/blog/report/entry-34166.html\r\n\r\nHomePod\r\nhttps://www.apple.com/homepod/\r\n\r\nApple Garosugil opens in Seoul\r\nhttps://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/\r\n\r\nApple、新しいMacにARMコプロセッサーを採用か\r\nhttp://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/\r\n\r\nApple、iOS 11.3をプレビュー\r\nhttps://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/\r\n\r\nARKit 1.5提供開始。垂直の壁や画像認識に対応、カメラ映像の解像度向上\r\nhttp://japanese.engadget.com/2018/01/25/arkit-1-5/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/02/02/19-2018-iphone-ipad-arkit/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/62/s/feed/c/podcast/AirSap_episode_19_20180130_rev1.mp3",
+        "@length": 27895401,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:43",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "バッテリー問題、2018年のiPhone・iPad・Macの噂、無接点充電、ARKit 1.5などについて話しました。",
+      "itunes:title": "2018年のiPhone・iPadはどうなる？",
+      "itunes:episode": 19,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhoneのバッテリーとパフォーマンスについて、お客様にお伝えしたいこと\r\nhttps://www.apple.com/jp/iphone-battery-and-performance/\r\n\r\nアップル、iPhoneの意図的な低速化を無効にできるアップデート提供。クックCEOが「誤解を招いたことをお詫び」\r\nhttp://japanese.engadget.com/2018/01/18/iphone-ceo/\r\n\r\n株式会社ジャパンディスプレイ\r\nhttp://www.j-display.com\r\n\r\nJDI再建の命運握る「FULL ACTIVE」をアピール\r\nhttp://eetimes.jp/ee/articles/1709/26/news124.html\r\n\r\n6.1インチの新iPhoneはJDIの「日の丸液晶」を採用？ベゼルレスで9月〜10月に発売との噂\r\nhttp://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/\r\n\r\nスマートフォン向け4辺フリーFULL ACTIVETMの量産開始\r\nhttp://www.j-display.com/news/2017/20170619.html\r\n\r\nCES2018：iPhone X/8/8 PlusのQiワイヤレス7.5W急速充電は、Appleの独自仕様\r\nhttp://www.macotakara.jp/blog/report/entry-34166.html\r\n\r\nHomePod\r\nhttps://www.apple.com/homepod/\r\n\r\nApple Garosugil opens in Seoul\r\nhttps://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/\r\n\r\nApple、新しいMacにARMコプロセッサーを採用か\r\nhttp://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/\r\n\r\nApple、iOS 11.3をプレビュー\r\nhttps://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/\r\n\r\nARKit 1.5提供開始。垂直の壁や画像認識に対応、カメラ映像の解像度向上\r\nhttp://japanese.engadget.com/2018/01/25/arkit-1-5/"
+    },
+    {
+      "title": "#18 2017年は任天堂と仮想通貨の年だった",
+      "link": "https://airsap.net/2018/01/10/airsap_episode_18_20171206/",
+      "pubDate": "Wed, 10 Jan 2018 05:51:55 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://airsap.net/?p=120"
+      },
+      "description": "Discord\r\nhttps://discordapp.com\r\n\r\niPhoneが再起動を繰り返す不具合　12月2日に発生 - ITmedia NEWS\r\nhttp://www.itmedia.co.jp/news/articles/1712/02/news018.html\r\n\r\nSleep Cycle alarm clock\r\nhttps://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8\r\n\r\n日本最大級！無料の家計簿アプリ・レシート家計簿「Zaim」\r\nhttps://zaim.net\r\n\r\n「macOS High Sierra」にパスワードなしでログインできてしまう脆弱性 - CNET Japan\r\nhttps://japan.cnet.com/article/35111084/\r\n\r\nどうぶつの森 ポケットキャンプ | 任天堂\r\nhttps://ac-pocketcamp.com/ja-JP/site\r\n\r\nスマホ版「どうぶつの森」、課金の9割は日本　1DL当たりの額も突出 - ITmedia NEWS\r\nhttp://www.itmedia.co.jp/news/articles/1712/02/news027.html\r\n\r\n横綱に「アマゾン効果」　ＭＪ2017年ヒット商品番付　　：日本経済新聞\r\nhttps://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/\r\n\r\nニンテンドークラシックミニ スーパーファミコン | 任天堂\r\nhttps://www.nintendo.co.jp/clvs/index.html\r\n\r\nNintendo Switch｜Nintendo\r\nhttps://www.nintendo.co.jp/hardware/switch/\r\n\r\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo Switch / Wii U | Nintendo\r\nhttps://www.nintendo.co.jp/zelda/index.html\r\n\r\nスプラトゥーン2 | Nintendo Switch | 任天堂\r\nhttps://www.nintendo.co.jp/switch/aab6a/index.html\r\n\r\nTSUTAYAプレミアム - DVD借り放題で延長料金なし、動画も見放題 - TSUTAYA [T-SITE]\r\nhttp://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain\r\n\r\nAbemaTV(アベマTV) | 無料で楽しめるインターネットテレビ局\r\nhttps://abema.tv\r\n\r\nGoogle Home Mini - どの部屋にもマッチするスマート スピーカー - Google ストア\r\nhttps://store.google.com/product/google_home_mini\r\n\r\nAmazon | Echo - スマートスピーカー\r\nhttps://www.amazon.co.jp/dp/B071ZF5KCM\r\n\r\nAppleがハウツー動画用に新たなYouTubeチャンネルをローンチ | TechCrunch Japan\r\nhttp://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/\r\n\r\n仮想通貨に関する所得の計算方法等について(情報)\r\nhttps://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2018/01/10/airsap_episode_18_20171206/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/19/s/feed/c/podcast/AirSap_episode_18_20171206.mp3",
+        "@length": 36051490,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:50:03",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "iOSとmacOSのバグ、任天堂、Google Home、仮想通貨などについて話しました。",
+      "itunes:title": "2017年は任天堂と仮想通貨の年だった",
+      "itunes:episode": 18,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Discord\r\nhttps://discordapp.com\r\n\r\niPhoneが再起動を繰り返す不具合　12月2日に発生 - ITmedia NEWS\r\nhttp://www.itmedia.co.jp/news/articles/1712/02/news018.html\r\n\r\nSleep Cycle alarm clock\r\nhttps://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8\r\n\r\n日本最大級！無料の家計簿アプリ・レシート家計簿「Zaim」\r\nhttps://zaim.net\r\n\r\n「macOS High Sierra」にパスワードなしでログインできてしまう脆弱性 - CNET Japan\r\nhttps://japan.cnet.com/article/35111084/\r\n\r\nどうぶつの森 ポケットキャンプ | 任天堂\r\nhttps://ac-pocketcamp.com/ja-JP/site\r\n\r\nスマホ版「どうぶつの森」、課金の9割は日本　1DL当たりの額も突出 - ITmedia NEWS\r\nhttp://www.itmedia.co.jp/news/articles/1712/02/news027.html\r\n\r\n横綱に「アマゾン効果」　ＭＪ2017年ヒット商品番付　　：日本経済新聞\r\nhttps://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/\r\n\r\nニンテンドークラシックミニ スーパーファミコン | 任天堂\r\nhttps://www.nintendo.co.jp/clvs/index.html\r\n\r\nNintendo Switch｜Nintendo\r\nhttps://www.nintendo.co.jp/hardware/switch/\r\n\r\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo Switch / Wii U | Nintendo\r\nhttps://www.nintendo.co.jp/zelda/index.html\r\n\r\nスプラトゥーン2 | Nintendo Switch | 任天堂\r\nhttps://www.nintendo.co.jp/switch/aab6a/index.html\r\n\r\nTSUTAYAプレミアム - DVD借り放題で延長料金なし、動画も見放題 - TSUTAYA [T-SITE]\r\nhttp://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain\r\n\r\nAbemaTV(アベマTV) | 無料で楽しめるインターネットテレビ局\r\nhttps://abema.tv\r\n\r\nGoogle Home Mini - どの部屋にもマッチするスマート スピーカー - Google ストア\r\nhttps://store.google.com/product/google_home_mini\r\n\r\nAmazon | Echo - スマートスピーカー\r\nhttps://www.amazon.co.jp/dp/B071ZF5KCM\r\n\r\nAppleがハウツー動画用に新たなYouTubeチャンネルをローンチ | TechCrunch Japan\r\nhttp://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/\r\n\r\n仮想通貨に関する所得の計算方法等について(情報)\r\nhttps://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf"
+    },
+    {
+      "title": "#17 iPhone Xと古代アンデス文明展",
+      "link": "https://airsap.net/2017/11/26/airsap_episode_17_20171111/",
+      "pubDate": "Sun, 26 Nov 2017 13:59:41 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=117"
+      },
+      "description": "iPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\niPhone X発売、深夜の銀座に静寂の行列。大雨の中並ぶと買える？→警備員「約束できません」 - Engadget 日本版\r\nhttp://japanese.engadget.com/2017/11/02/iphone-x-rain/\r\n\r\niPhone X発売　表参道に550人の行列 - ITmedia PC USER\r\nhttp://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html\r\n\r\nトップページ | 特別展「古代アンデス文明展」（2017年10月21日（土）～2018年2月18日（日））-国立科学博物館-\r\nhttps://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html\r\n\r\niPhoneで撮影する方法 - 写真 - Apple（日本）\r\nhttps://www.apple.com/jp/iphone/photography-how-to/\r\n\r\nClips - Apple（日本）\r\nhttps://www.apple.com/jp/clips/\r\n\r\niOS 11.1.2提供開始。低温時にiPhone Xの画面が反応しなくなる問題修正 - AV Watch\r\nhttps://av.watch.impress.co.jp/docs/news/1092113.html\r\n\r\nANA、新千歳空港カウンター刷新　自動手荷物預け機で混雑緩和へ\r\nhttp://www.aviationwire.jp/archives/133654\r\n\r\nAirPower\r\nhttps://www.apple.com/jp/iphone-8/#wireless-charging",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/11/26/airsap_episode_17_20171111/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/20/s/feed/c/podcast/AirSap_episode_17_20171111.mp3",
+        "@length": 74114794,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:42:55",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "ついに発売されたiPhone Xの第一印象について話しました。",
+      "itunes:title": "iPhone Xと古代アンデス文明展",
+      "itunes:episode": 17,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\niPhone X発売、深夜の銀座に静寂の行列。大雨の中並ぶと買える？→警備員「約束できません」 - Engadget 日本版\r\nhttp://japanese.engadget.com/2017/11/02/iphone-x-rain/\r\n\r\niPhone X発売　表参道に550人の行列 - ITmedia PC USER\r\nhttp://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html\r\n\r\nトップページ | 特別展「古代アンデス文明展」（2017年10月21日（土）～2018年2月18日（日））-国立科学博物館-\r\nhttps://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html\r\n\r\niPhoneで撮影する方法 - 写真 - Apple（日本）\r\nhttps://www.apple.com/jp/iphone/photography-how-to/\r\n\r\nClips - Apple（日本）\r\nhttps://www.apple.com/jp/clips/\r\n\r\niOS 11.1.2提供開始。低温時にiPhone Xの画面が反応しなくなる問題修正 - AV Watch\r\nhttps://av.watch.impress.co.jp/docs/news/1092113.html\r\n\r\nANA、新千歳空港カウンター刷新　自動手荷物預け機で混雑緩和へ\r\nhttp://www.aviationwire.jp/archives/133654\r\n\r\nAirPower\r\nhttps://www.apple.com/jp/iphone-8/#wireless-charging"
+    },
+    {
+      "title": "#16 iPhoneX予約競争に勝つためには？ Google Firebase新データベースが気になる",
+      "link": "https://airsap.net/2017/10/25/airsap_episode_16_20171020_rev2/",
+      "pubDate": "Wed, 25 Oct 2017 12:55:53 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=113"
+      },
+      "description": "iPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\nローソン お試し引換券\r\nhttp://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html\r\n\r\nApple Storeアプリ\r\nhttps://itunes.apple.com/jp/app/apple-store/id375380948?mt=8\r\n\r\nドコモオンラインショップでの「iPhone X」のご予約・ご購入手続きについて\r\nhttps://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705\r\n\r\niPhone | au オンラインショップ | 新型機種など 予約・購入\r\nhttp://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&bid=we-ipo-2017-3101\r\n\r\niPhone X 料金・割引 | iPhone 一覧 | モバイル | ソフトバンク\r\nhttps://m.online-shop.mb.softbank.jp/products/iphone/index2.html\r\n\r\niPhone Xを買う人100人に聞きました。「どっちの色を選ぶ？」\r\nhttps://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html\r\n\r\nテスラ、ハリケーンから避難するクルマのバッテリーを無線で一時的にアップグレード - Autoblog 日本版\r\nhttp://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/\r\n\r\n「iPhone 8」、なんとiPhone 7より売れていない模様 | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2017/10/iphone8-sell.html\r\n\r\n「Mac miniは将来的には重要なラインナップの一部」アップルのティム・クックCEOがユーザーに回答？ - Engadget 日本版\r\nhttp://japanese.engadget.com/2017/10/21/mac-mini-ceo/\r\n\r\nApple Watch Nike+ - Apple（日本）\r\nhttps://www.apple.com/jp/apple-watch-nike/\r\n\r\n2年前に買ったApple Watchにまさか命を救われるとは！ - iPhone Mania\r\nhttps://iphone-mania.jp/news-189239/\r\n\r\nHeartWatch\r\nhttps://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8\r\n\r\nNike+ Run Club\r\nhttps://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8\r\n\r\nアップルウォッチ、新モデル購入者の7割は「新規ユーザー」 | Forbes JAPAN（フォーブス ジャパン）\r\nhttps://forbesjapan.com/articles/detail/18186\r\n\r\nFirebase\r\nhttps://firebase.google.com/?hl=ja\r\n\r\nThe Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps\r\nhttps://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/10/25/airsap_episode_16_20171020_rev2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/21/s/feed/c/podcast/AirSap_episode_16_20171020_rev2.mp3",
+        "@length": 39109800,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:54:18",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "iPhone Xの予約やApple Watch Nike+ Series 3の感想、Firebase Cloud Firestoreなどについて話しました。",
+      "itunes:title": "iPhoneX予約競争に勝つためには？ Google Firebase新データベースが気になる",
+      "itunes:episode": 16,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\nローソン お試し引換券\r\nhttp://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html\r\n\r\nApple Storeアプリ\r\nhttps://itunes.apple.com/jp/app/apple-store/id375380948?mt=8\r\n\r\nドコモオンラインショップでの「iPhone X」のご予約・ご購入手続きについて\r\nhttps://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705\r\n\r\niPhone | au オンラインショップ | 新型機種など 予約・購入\r\nhttp://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&bid=we-ipo-2017-3101\r\n\r\niPhone X 料金・割引 | iPhone 一覧 | モバイル | ソフトバンク\r\nhttps://m.online-shop.mb.softbank.jp/products/iphone/index2.html\r\n\r\niPhone Xを買う人100人に聞きました。「どっちの色を選ぶ？」\r\nhttps://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html\r\n\r\nテスラ、ハリケーンから避難するクルマのバッテリーを無線で一時的にアップグレード - Autoblog 日本版\r\nhttp://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/\r\n\r\n「iPhone 8」、なんとiPhone 7より売れていない模様 | ギズモード・ジャパン\r\nhttps://www.gizmodo.jp/2017/10/iphone8-sell.html\r\n\r\n「Mac miniは将来的には重要なラインナップの一部」アップルのティム・クックCEOがユーザーに回答？ - Engadget 日本版\r\nhttp://japanese.engadget.com/2017/10/21/mac-mini-ceo/\r\n\r\nApple Watch Nike+ - Apple（日本）\r\nhttps://www.apple.com/jp/apple-watch-nike/\r\n\r\n2年前に買ったApple Watchにまさか命を救われるとは！ - iPhone Mania\r\nhttps://iphone-mania.jp/news-189239/\r\n\r\nHeartWatch\r\nhttps://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8\r\n\r\nNike+ Run Club\r\nhttps://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8\r\n\r\nアップルウォッチ、新モデル購入者の7割は「新規ユーザー」 | Forbes JAPAN（フォーブス ジャパン）\r\nhttps://forbesjapan.com/articles/detail/18186\r\n\r\nFirebase\r\nhttps://firebase.google.com/?hl=ja\r\n\r\nThe Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps\r\nhttps://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html"
+    },
+    {
+      "title": "#15 Apple新製品ラッシュの秋！刷新されたハードとソフトに何を思う？",
+      "link": "https://airsap.net/2017/10/09/airsap_episode_15_20171004/",
+      "pubDate": "Mon, 09 Oct 2017 00:55:09 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=110"
+      },
+      "description": "iPhone 8 - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-8/\r\n\r\n札幌ステラプレイス\r\nhttp://www.stellarplace.net\r\n\r\niPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\nApple Watch Series 3 - Apple（日本）\r\nhttps://www.apple.com/jp/apple-watch-series-3/\r\n\r\nANA BAGGAGE DROP（自動手荷物預け機）\r\nhttps://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/\r\n\r\nApple TV 4K - Apple（日本）\r\nhttps://www.apple.com/jp/apple-tv-4k/\r\n\r\niMac Pro - Apple（日本）\r\nhttps://www.apple.com/jp/imac-pro/\r\n\r\nmacOS High Sierra - Apple（日本）\r\nhttps://www.apple.com/jp/macos/high-sierra/\r\n\r\niOS 11 - Apple（日本）\r\nhttps://www.apple.com/jp/ios/ios-11/\r\n\r\nAmazon Newsroom - 「Alexa」と「Amazon Echo」が年内に日本に登場\r\nhttps://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/\r\n\r\nClova\r\nhttps://clova.ai/ja",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/10/09/airsap_episode_15_20171004/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/22/s/feed/c/podcast/AirSap_episode_15_20171004.mp3",
+        "@length": 58329890,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:21:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "iPhone 8 / 8 Plus / X、Apple Watch Series 3、iOS 11、macOS High Sierraなど、この秋リリースのApple新ハード・新OSについて話しました。",
+      "itunes:title": "Apple新製品ラッシュの秋！刷新されたハードとソフトに何を思う？",
+      "itunes:episode": 15,
+      "itunes:episodeType": "full",
+      "itunes:summary": "iPhone 8 - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-8/\r\n\r\n札幌ステラプレイス\r\nhttp://www.stellarplace.net\r\n\r\niPhone X - Apple（日本）\r\nhttps://www.apple.com/jp/iphone-x/\r\n\r\nApple Watch Series 3 - Apple（日本）\r\nhttps://www.apple.com/jp/apple-watch-series-3/\r\n\r\nANA BAGGAGE DROP（自動手荷物預け機）\r\nhttps://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/\r\n\r\nApple TV 4K - Apple（日本）\r\nhttps://www.apple.com/jp/apple-tv-4k/\r\n\r\niMac Pro - Apple（日本）\r\nhttps://www.apple.com/jp/imac-pro/\r\n\r\nmacOS High Sierra - Apple（日本）\r\nhttps://www.apple.com/jp/macos/high-sierra/\r\n\r\niOS 11 - Apple（日本）\r\nhttps://www.apple.com/jp/ios/ios-11/\r\n\r\nAmazon Newsroom - 「Alexa」と「Amazon Echo」が年内に日本に登場\r\nhttps://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/\r\n\r\nClova\r\nhttps://clova.ai/ja"
+    },
+    {
+      "title": "#14 仮想通貨関連アプリを作ってしまうくらい、ブロックチェーン・仮想通貨・ICOが面白い",
+      "link": "https://airsap.net/2017/09/03/airsap_episode_14_20170825_rev2/",
+      "pubDate": "Sun, 03 Sep 2017 09:28:42 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=106"
+      },
+      "description": "Skyrocket for Poloniex Bitcoin / Altcoin Exchange\r\nhttps://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&uo=4&at=11ldBU\r\n\r\nリジェクト後の審査再提出時にアプリ内課金アイテムを追加してはならない。絶対に。\r\nhttp://frnk.hatenablog.jp/entry/2017/08/23/134735\r\n\r\n「GMOブロックチェーン オープンソース提供プロジェクト」を開始　第1弾は「医療機関カルテ共有システム」を提供 - GMOインターネット株式会社\r\nhttps://www.gmo.jp/news/article/?id=5736\r\n\r\nマウントゴックス - Wikipedia\r\nhttps://ja.wikipedia.org/wiki/マウントゴックス\r\n\r\nニュース - 丸井グループがビットコイン決済を試験導入、新宿1店舗で：ITpro\r\nhttp://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt\r\n\r\nビックカメラ全店でbitcoin使えます！ | ビックカメラ\r\nhttp://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html\r\n\r\nSegWitとは\r\nhttps://bitflyer.jp/ja/glossary/segwit\r\n\r\n第二次産業革命 - Wikipedia\r\nhttps://ja.wikipedia.org/wiki/第二次産業革命\r\n\r\nCOMSA - 実ビジネスのブロックチェーン導入を支援するICOソリューション\r\nhttps://comsa.io/ja/\r\n\r\niPhone Dev Sapporo勉強会 Sep, 2017 - connpass\r\nhttps://devsap.connpass.com/event/64327/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/09/03/airsap_episode_14_20170825_rev2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/23/s/feed/c/podcast/AirSap_episode_14_20170825_rev2.mp3",
+        "@length": 37106252,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:51:31",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "今年こそは仮想通貨元年？最近一気に盛り上がってきたブロックチェーン・仮想通貨・ICOなどについて話しました。",
+      "itunes:title": "仮想通貨関連アプリを作ってしまうくらい、ブロックチェーン・仮想通貨・ICOが面白い",
+      "itunes:episode": 14,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Skyrocket for Poloniex Bitcoin / Altcoin Exchange\r\nhttps://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&uo=4&at=11ldBU\r\n\r\nリジェクト後の審査再提出時にアプリ内課金アイテムを追加してはならない。絶対に。\r\nhttp://frnk.hatenablog.jp/entry/2017/08/23/134735\r\n\r\n「GMOブロックチェーン オープンソース提供プロジェクト」を開始　第1弾は「医療機関カルテ共有システム」を提供 - GMOインターネット株式会社\r\nhttps://www.gmo.jp/news/article/?id=5736\r\n\r\nマウントゴックス - Wikipedia\r\nhttps://ja.wikipedia.org/wiki/マウントゴックス\r\n\r\nニュース - 丸井グループがビットコイン決済を試験導入、新宿1店舗で：ITpro\r\nhttp://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt\r\n\r\nビックカメラ全店でbitcoin使えます！ | ビックカメラ\r\nhttp://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html\r\n\r\nSegWitとは\r\nhttps://bitflyer.jp/ja/glossary/segwit\r\n\r\n第二次産業革命 - Wikipedia\r\nhttps://ja.wikipedia.org/wiki/第二次産業革命\r\n\r\nCOMSA - 実ビジネスのブロックチェーン導入を支援するICOソリューション\r\nhttps://comsa.io/ja/\r\n\r\niPhone Dev Sapporo勉強会 Sep, 2017 - connpass\r\nhttps://devsap.connpass.com/event/64327/"
+    },
+    {
+      "title": "#13 永遠の趣味プログラマー・熊谷友宏さんにIT勉強会の今と未来について聞いた",
+      "link": "https://airsap.net/2017/07/31/airsap_episode_13_20170729_rev1/",
+      "pubDate": "Mon, 31 Jul 2017 14:10:34 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=98"
+      },
+      "description": "熊谷 友宏(@es_kumagai)さん | Twitter\r\nhttps://twitter.com/es_kumagai\r\n\r\niPhone Dev Sapporo Swift Summer 2017\r\nhttps://devsap.connpass.com/event/60392/\r\n\r\niphone_dev_jp 東京iPhone/Mac勉強会\r\nhttps://atnd.org/events/26946\r\n\r\nyidev 第２８回勉強会 — 第３部 Final Party !\r\nhttps://atnd.org/events/88905\r\n\r\n技術書典\r\nhttps://techbookfest.org\r\n\r\n超技術書典\r\nhttp://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html\r\n\r\nコミックマーケット\r\nhttp://www.comiket.co.jp\r\n\r\nニコニコ超会議\r\nhttp://www.chokaigi.jp\r\n\r\nカジュアル Swift プログラミング - イベント一覧 - connpass\r\nhttps://cswift.connpass.com/event/\r\n\r\nもくもく執筆会\r\nhttps://techbook-meetup.connpass.com\r\n\r\n株式会社インフィニットループ\r\nhttps://www.infiniteloop.co.jp",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/07/31/airsap_episode_13_20170729_rev1/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/24/s/feed/c/podcast/AirSap_episode_13_20170729_rev1.mp3",
+        "@length": 44264272,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:01:28",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "iPhone Dev Sapporo Swift Summer 2017のために来札された熊谷さんに、勉強会を主宰されるようになったきっかけ・yidev（横浜iPhone開発者勉強会）第３部を終了した理由・勉強会の現在と未来・同人誌活動などについて聞きました。",
+      "itunes:title": "永遠の趣味プログラマー・熊谷友宏さんにIT勉強会の今と未来について聞いた",
+      "itunes:episode": 13,
+      "itunes:episodeType": "full",
+      "itunes:summary": "熊谷 友宏(@es_kumagai)さん | Twitter\r\nhttps://twitter.com/es_kumagai\r\n\r\niPhone Dev Sapporo Swift Summer 2017\r\nhttps://devsap.connpass.com/event/60392/\r\n\r\niphone_dev_jp 東京iPhone/Mac勉強会\r\nhttps://atnd.org/events/26946\r\n\r\nyidev 第２８回勉強会 — 第３部 Final Party !\r\nhttps://atnd.org/events/88905\r\n\r\n技術書典\r\nhttps://techbookfest.org\r\n\r\n超技術書典\r\nhttp://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html\r\n\r\nコミックマーケット\r\nhttp://www.comiket.co.jp\r\n\r\nニコニコ超会議\r\nhttp://www.chokaigi.jp\r\n\r\nカジュアル Swift プログラミング - イベント一覧 - connpass\r\nhttps://cswift.connpass.com/event/\r\n\r\nもくもく執筆会\r\nhttps://techbook-meetup.connpass.com\r\n\r\n株式会社インフィニットループ\r\nhttps://www.infiniteloop.co.jp"
+    },
+    {
+      "title": "#12 もっさりさんがアプリ業界を斬る！",
+      "link": "https://airsap.net/2017/07/25/airsap_episode_12_20170713/",
+      "pubDate": "Tue, 25 Jul 2017 14:06:24 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=96"
+      },
+      "description": "Swift・Parse・ゲームアプリ・スタートアップ・マルチプラットフォーム開発などについてもっさりさんと語りました。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/07/25/airsap_episode_12_20170713/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/25/s/feed/c/podcast/AirSap_episode_12_20170713.mp3",
+        "@length": 39318784,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:54:36",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "Swift・Parse・ゲームアプリ・スタートアップ・マルチプラットフォーム開発などについてもっさりさんと語りました。",
+      "itunes:title": "もっさりさんがアプリ業界を斬る！",
+      "itunes:episode": 12,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#11 iOS 11の気になる新機能・新API",
+      "link": "https://airsap.net/2017/06/27/airsap_episode_11_20170623_rev3/",
+      "pubDate": "Tue, 27 Jun 2017 11:44:40 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://airsap.net/?p=92"
+      },
+      "description": "WWDC 2017 - Videos - Apple Developer\r\nhttps://developer.apple.com/videos/wwdc2017/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/06/27/airsap_episode_11_20170623_rev3/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/26/s/feed/c/podcast/AirSap_episode_11_20170623_rev3.mp3",
+        "@length": 43357607,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:00:12",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "WWDC 2017で発表されたiOS 11の新しい機能やAPIの中から注目しているものをピックアップしてみました。",
+      "itunes:title": "iOS 11の気になる新機能・新API",
+      "itunes:episode": 11,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC 2017 - Videos - Apple Developer\r\nhttps://developer.apple.com/videos/wwdc2017/"
+    },
+    {
+      "title": "#10 WWDC 2017基調講演直後のアプリ開発者たちによる感想",
+      "link": "https://airsap.net/2017/06/06/airsap_episode_10_20170606/",
+      "pubDate": "Mon, 05 Jun 2017 22:55:31 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/06/06/10-wwdc-2017%e5%9f%ba%e8%aa%bf%e8%ac%9b%e6%bc%94%e7%9b%b4%e5%be%8c%e3%81%ae%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e8%80%85%e3%81%9f%e3%81%a1%e3%81%ab%e3%82%88%e3%82%8b%e6%84%9f%e6%83%b3/"
+      },
+      "description": "WWDC\r\nhttps://developer.apple.com/wwdc/\r\n\r\n札幌のiOSアプリ開発者たちによるWWDC 2017 実況\r\nhttps://www.youtube.com/watch?v=49vBOA1f-58",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/06/06/airsap_episode_10_20170606/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/27/s/feed/c/podcast/AirSap_episode_10_20170606.mp3",
+        "@length": 55957757,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "WWDC 2017 基調講演の実況中継を終えた直後のアプリ開発者たちが、寝不足のテンションのまま発表内容の感想を語り合いました。",
+      "itunes:title": "WWDC 2017基調講演直後のアプリ開発者たちによる感想",
+      "itunes:episode": 10,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC\r\nhttps://developer.apple.com/wwdc/\r\n\r\n札幌のiOSアプリ開発者たちによるWWDC 2017 実況\r\nhttps://www.youtube.com/watch?v=49vBOA1f-58"
+    },
+    {
+      "title": "#9 WWDC 2017 直前大予想！",
+      "link": "https://airsap.net/2017/06/03/airsap_episode_9_20170602/",
+      "pubDate": "Sat, 03 Jun 2017 09:44:14 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/06/03/9-wwdc-2017-%e7%9b%b4%e5%89%8d%e5%a4%a7%e4%ba%88%e6%83%b3%ef%bc%81/"
+      },
+      "description": "WWDC - Apple Developer\r\nhttps://developer.apple.com/wwdc/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/06/03/airsap_episode_9_20170602/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/28/s/feed/c/podcast/AirSap_episode_9_20170602.mp3",
+        "@length": 40546893,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "6/5から開催されるWWDC 2017の発表内容の予想をしてみました。",
+      "itunes:title": "WWDC 2017 直前大予想！",
+      "itunes:episode": 9,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC - Apple Developer\r\nhttps://developer.apple.com/wwdc/"
+    },
+    {
+      "title": "#8 ラーメンSNS「毎日がラーメン」誕生秘話と世界への野望",
+      "link": "https://airsap.net/2017/05/17/airsap_episode_8_20170512_rev1/",
+      "pubDate": "Wed, 17 May 2017 14:35:31 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/05/17/8-%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3sns%e3%80%8c%e6%af%8e%e6%97%a5%e3%81%8c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%80%8d%e8%aa%95%e7%94%9f%e7%a7%98%e8%a9%b1%e3%81%a8%e4%b8%96%e7%95%8c%e3%81%b8/"
+      },
+      "description": "毎日がラーメン\r\niOS https://itunes.apple.com/jp/app/id791934029?mt=8\r\nAndroid https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&hl=ja\r\n\r\nPictalive\r\nhttps://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8\r\n\r\nSpendable\r\nhttps://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8\r\n\r\n株式会社クリアの採用/求人一覧 - Wantedly\r\nhttps://www.wantedly.com/companies/clear-sapporo/projects\r\n\r\niPhone Dev Sapporo勉強会 May, 2017 - connpass\r\nhttps://devsap.connpass.com/event/56182/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/05/17/airsap_episode_8_20170512_rev1/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/29/s/feed/c/podcast/AirSap_episode_8_20170512_rev1.mp3",
+        "@length": 35235780,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "ラーメンSNS「毎日がラーメン」を作っている株式会社クリアの広部さんに、アプリ開発・サービス運営や今後の展開などについて聞きました。",
+      "itunes:title": "ラーメンSNS「毎日がラーメン」誕生秘話と世界への野望",
+      "itunes:episode": 8,
+      "itunes:episodeType": "full",
+      "itunes:summary": "毎日がラーメン\r\niOS https://itunes.apple.com/jp/app/id791934029?mt=8\r\nAndroid https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&hl=ja\r\n\r\nPictalive\r\nhttps://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8\r\n\r\nSpendable\r\nhttps://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8\r\n\r\n株式会社クリアの採用/求人一覧 - Wantedly\r\nhttps://www.wantedly.com/companies/clear-sapporo/projects\r\n\r\niPhone Dev Sapporo勉強会 May, 2017 - connpass\r\nhttps://devsap.connpass.com/event/56182/"
+    },
+    {
+      "title": "#7 Apple Store跡地にできたソニーストア札幌の中の人に話を聞いた",
+      "link": "https://airsap.net/2017/04/27/airsap_episode_7_20170420_rev2/",
+      "pubDate": "Thu, 27 Apr 2017 13:22:31 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/04/27/7-apple-store%e8%b7%a1%e5%9c%b0%e3%81%ab%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%bd%e3%83%8b%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a2%e6%9c%ad%e5%b9%8c%e3%81%ae%e4%b8%ad%e3%81%ae%e4%ba%ba%e3%81%ab%e8%a9%b1/"
+      },
+      "description": "※発言は個人の見解であり、所属する組織の公式見解ではありません\r\n※音声内でのソニーストア札幌の営業時間の案内に誤りがありました。正しくは11:00〜20:00です。お詫びして訂正いたします。\r\n\r\nソニーストア札幌\r\nhttp://www.sony.jp/store/retail/sapporo/\r\nhttp://www.twitter.com/SonyStore_Sap\r\n\r\n小夏パパが書いています。\r\nhttp://wafu-note.hateblo.jp/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/04/27/airsap_episode_7_20170420_rev2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/30/s/feed/c/podcast/AirSap_episode_7_20170420_rev2.mp3",
+        "@length": 43782846,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "Apple Store Sapporoのラッキーバッグになんども並んだ小夏パパさんが、その跡地にできたソニーストア札幌の中の人になっていた。",
+      "itunes:title": "Apple Store跡地にできたソニーストア札幌の中の人に話を聞いた",
+      "itunes:episode": 7,
+      "itunes:episodeType": "full",
+      "itunes:summary": "※発言は個人の見解であり、所属する組織の公式見解ではありません\r\n※音声内でのソニーストア札幌の営業時間の案内に誤りがありました。正しくは11:00〜20:00です。お詫びして訂正いたします。\r\n\r\nソニーストア札幌\r\nhttp://www.sony.jp/store/retail/sapporo/\r\nhttp://www.twitter.com/SonyStore_Sap\r\n\r\n小夏パパが書いています。\r\nhttp://wafu-note.hateblo.jp/"
+    },
+    {
+      "title": "#6 App Storeレビュー返信機能開始！格安SIMは固定回線代わりになるか？",
+      "link": "https://airsap.net/2017/04/20/airsap_episode_6_20170412_rev1/",
+      "pubDate": "Thu, 20 Apr 2017 12:29:20 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/04/20/6-app-store%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e8%bf%94%e4%bf%a1%e6%a9%9f%e8%83%bd%e9%96%8b%e5%a7%8b%ef%bc%81%e6%a0%bc%e5%ae%89sim%e3%81%af%e5%9b%ba%e5%ae%9a%e5%9b%9e%e7%b7%9a%e4%bb%a3%e3%82%8f/"
+      },
+      "description": "SKStoreReviewController\r\nhttps://developer.apple.com/reference/storekit/skstorereviewcontroller\r\n\r\nWonderlink F\r\nhttps://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html\r\n\r\nTry WiMAX\r\nhttp://www.uqwimax.jp/signup/trywimax/\r\n\r\nTry UQ mobile\r\nhttp://www.uqwimax.jp/signup/tryuqmobile/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/04/20/airsap_episode_6_20170412_rev1/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/31/s/feed/c/podcast/AirSap_episode_6_20170412_rev1.mp3",
+        "@length": 38429826,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "iOS 10.3のリリースでApp Storeレビューのお願いや返信が可能に！固定回線が開通するまでのつなぎに格安SIMを使ってみたけど、結局…",
+      "itunes:title": "App Storeレビュー返信機能開始！格安SIMは固定回線代わりになるか？",
+      "itunes:episode": 6,
+      "itunes:episodeType": "full",
+      "itunes:summary": "SKStoreReviewController\r\nhttps://developer.apple.com/reference/storekit/skstorereviewcontroller\r\n\r\nWonderlink F\r\nhttps://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html\r\n\r\nTry WiMAX\r\nhttp://www.uqwimax.jp/signup/trywimax/\r\n\r\nTry UQ mobile\r\nhttp://www.uqwimax.jp/signup/tryuqmobile/"
+    },
+    {
+      "title": "#5 Nintendo Switchがやってきた！ゼルダの第一印象とスプラトゥーン2への期待",
+      "link": "https://airsap.net/2017/04/03/airsap_episode_5_20170324_rev3/",
+      "pubDate": "Mon, 03 Apr 2017 12:45:44 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/04/03/5-nintendo-switch%e3%81%8c%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%ef%bc%81%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e7%ac%ac%e4%b8%80%e5%8d%b0%e8%b1%a1%e3%81%a8%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88/"
+      },
+      "description": "Nintendo Switch｜Nintendo\r\nhttps://www.nintendo.co.jp/hardware/switch/index.html\r\n\r\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo\r\nhttps://www.nintendo.co.jp/zelda/\r\n\r\nSplatoon２｜Nintendo Switchソフト｜Nintendo\r\nhttps://www.nintendo.co.jp/software/switch/splatoon2/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/04/03/airsap_episode_5_20170324_rev3/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/32/s/feed/c/podcast/AirSap_episode_5_20170324_rev3.mp3",
+        "@length": 27596843,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "@tqmy さんと一緒にNintendo Switchの話をしました。",
+      "itunes:title": "Nintendo Switchがやってきた！ゼルダの第一印象とスプラトゥーン2への期待",
+      "itunes:episode": 5,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Nintendo Switch｜Nintendo\r\nhttps://www.nintendo.co.jp/hardware/switch/index.html\r\n\r\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo\r\nhttps://www.nintendo.co.jp/zelda/\r\n\r\nSplatoon２｜Nintendo Switchソフト｜Nintendo\r\nhttps://www.nintendo.co.jp/software/switch/splatoon2/"
+    },
+    {
+      "title": "#4 赤いiPhone登場！新型iPhone & iPadの噂、iOSのUI談義など",
+      "link": "https://airsap.net/2017/03/27/airsap_episode_4_20170324_rev4/",
+      "pubDate": "Mon, 27 Mar 2017 13:27:31 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/03/27/4-%e8%b5%a4%e3%81%84iphone%e7%99%bb%e5%a0%b4%ef%bc%81%e6%96%b0%e5%9e%8biphone-ipad%e3%81%ae%e5%99%82%e3%80%81ios%e3%81%aeui%e8%ab%87%e7%be%a9%e3%81%aa%e3%81%a9/"
+      },
+      "description": "(PRODUCT)RED™ - iPhone 7 Special Edition - Apple\r\nhttp://www.apple.com/jp/product-red/",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/03/27/airsap_episode_4_20170324_rev4/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/33/s/feed/c/podcast/AirSap_episode_4_20170324_rev4.mp3",
+        "@length": 47941137,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "今回は @tqmy さんを迎えて、iPhone 7 (PRODUCT)REDや次期iPhone・iPadの噂話、iOSの見えないUIなどについて話しました。",
+      "itunes:title": "赤いiPhone登場！新型iPhone & iPadの噂、iOSのUI談義など",
+      "itunes:episode": 4,
+      "itunes:episodeType": "full",
+      "itunes:summary": "(PRODUCT)RED&#x2122; - iPhone 7 Special Edition - Apple\r\nhttp://www.apple.com/jp/product-red/"
+    },
+    {
+      "title": "#3 世界初のRealm書籍の著者と語る、Apple Payと札幌の交通系IC事情",
+      "link": "https://airsap.net/2017/03/22/airsap_episode_2-2_20170322_rev5/",
+      "pubDate": "Wed, 22 Mar 2017 13:05:51 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/03/22/3-%e4%b8%96%e7%95%8c%e5%88%9d%e3%81%aerealm%e6%9b%b8%e7%b1%8d%e3%81%ae%e8%91%97%e8%80%85%e3%81%a8%e8%aa%9e%e3%82%8b%e3%80%81apple-pay%e3%81%a8%e6%9c%ad%e5%b9%8c%e3%81%ae%e4%ba%a4%e9%80%9a%e7%b3%bbic/"
+      },
+      "description": "軽量・高速モバイルデータベース Realm入門\r\nhttp://gihyo.jp/book/2017/978-4-7741-8848-5",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/03/22/airsap_episode_2-2_20170322_rev5/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/34/s/feed/c/podcast/AirSap_episode_2-2_20170322_rev5.mp3",
+        "@length": 42429552,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとApple Pay、札幌の交通系IC事情、北海道弁などの話をしました。",
+      "itunes:title": "世界初のRealm書籍の著者と語る、Apple Payと札幌の交通系IC事情",
+      "itunes:episode": 3,
+      "itunes:episodeType": "full",
+      "itunes:summary": "軽量・高速モバイルデータベース Realm入門\r\nhttp://gihyo.jp/book/2017/978-4-7741-8848-5"
+    },
+    {
+      "title": "#2 世界初のRealm書籍の著者が語るRealmの魅力とtry! swift",
+      "link": "https://airsap.net/2017/03/13/airsap_episode_2_20170310_rev2/",
+      "pubDate": "Mon, 13 Mar 2017 12:57:32 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/03/13/2-%e4%b8%96%e7%95%8c%e5%88%9d%e3%81%aerealm%e6%9b%b8%e7%b1%8d%e3%81%ae%e8%91%97%e8%80%85%e3%81%8c%e8%aa%9e%e3%82%8brealm%e3%81%ae%e9%ad%85%e5%8a%9b%e3%81%a8try-swift/"
+      },
+      "description": "軽量・高速モバイルデータベース Realm入門\r\nhttp://gihyo.jp/book/2017/978-4-7741-8848-5\r\n\r\niPhone Dev Sapporo勉強会 Mar, 2017\r\nhttps://devsap.connpass.com/event/51354/\r\n\r\ntry! Swift\r\nhttps://www.tryswift.co/tokyo/jp",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/03/13/airsap_episode_2_20170310_rev2/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/35/s/feed/c/podcast/AirSap_episode_2_20170310_rev2.mp3",
+        "@length": 47833829,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:06:25",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとRealm・技術書執筆・try! Swiftなどの話をしました。",
+      "itunes:title": "世界初のRealm書籍の著者が語るRealmの魅力とtry! swift",
+      "itunes:episode": 2,
+      "itunes:episodeType": "full",
+      "itunes:summary": "軽量・高速モバイルデータベース Realm入門\r\nhttp://gihyo.jp/book/2017/978-4-7741-8848-5\r\n\r\niPhone Dev Sapporo勉強会 Mar, 2017\r\nhttps://devsap.connpass.com/event/51354/\r\n\r\ntry! Swift\r\nhttps://www.tryswift.co/tokyo/jp"
+    },
+    {
+      "title": "#1 今年のWWDCはSanJoseで開催！アプリ販売時の特商法、北海道あるあるなど",
+      "link": "https://airsap.net/2017/02/28/airsap_episode_1_20170226_96kbps_mono_rev3/",
+      "pubDate": "Tue, 28 Feb 2017 13:35:01 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://vader.sakura.ne.jp/airsap/2017/02/28/1-%e4%bb%8a%e5%b9%b4%e3%81%aewwdc%e3%81%afsanjose%e3%81%a7%e9%96%8b%e5%82%ac%ef%bc%81%e3%82%a2%e3%83%97%e3%83%aa%e8%b2%a9%e5%a3%b2%e6%99%82%e3%81%ae%e7%89%b9%e5%95%86%e6%b3%95%e3%80%81%e5%8c%97/"
+      },
+      "description": "WWDC 2017\r\nhttps://developer.apple.com/wwdc/\r\n\r\n日本で販売される App に関する条件。\r\nhttps://itunespartner.apple.com/jp/apps/news/79920317\r\n\r\n商品名：ガリガリ君リッチコーンポタージュ\r\nhttp://www.akagi.com/news/2012/120820.html",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2017/02/28/airsap_episode_1_20170226_96kbps_mono_rev3/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/36/s/feed/c/podcast/AirSap_Episode_1_20170226_96kbps_mono_rev3.mp3",
+        "@length": 32649015,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:00:00",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": "北海道のiOSアプリ開発者の2人が話すPodcast。今年のWWDC会場であるSan JoseとApple Parkの位置についてや、日本でアプリを販売する際に必要となった特商法の話題から北海道あるあるなどを話します。",
+      "itunes:title": "今年のWWDCはSanJoseで開催！アプリ販売時の特商法、北海道あるあるなど",
+      "itunes:episode": 1,
+      "itunes:episodeType": "full",
+      "itunes:summary": "WWDC 2017\r\nhttps://developer.apple.com/wwdc/\r\n\r\n日本で販売される App に関する条件。\r\nhttps://itunespartner.apple.com/jp/apps/news/79920317\r\n\r\n商品名：ガリガリ君リッチコーンポタージュ\r\nhttp://www.akagi.com/news/2012/120820.html"
+    }
+  ]
+}

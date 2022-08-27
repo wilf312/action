@@ -1,0 +1,627 @@
+{
+  "atom:link": {
+    "@href": "https://www.submits.life/feed.xml",
+    "@rel": "self",
+    "@type": "application/rss+xml",
+    "#text": null
+  },
+  "link": "https://www.submits.life/",
+  "title": "Submits.life",
+  "description": "Submits.lifeは、4人くらいの知的学習支援システム研究者でお送りする研究と雑談のポッドキャストです。",
+  "media:keywords": "research,science,engineering,intelligent tutoring system,learning,education,educational technology,artificial intelligence,human-computer interaction,anime,manga,games",
+  "media:category": {
+    "@scheme": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "#text": "Technology"
+  },
+  "language": "ja",
+  "itunes:author": "Submits.life",
+  "itunes:summary": "Submits.lifeは、4人くらいの知的学習支援システム研究者でお送りする研究と雑談のポッドキャストです。",
+  "itunes:keywords": "research,science,engineering,intelligent tutoring system,learning,education,educational technology,artificial intelligence,human-computer interaction,anime,manga,games",
+  "itunes:owner": {
+    "itunes:name": "Submits.life",
+    "itunes:email": "submits.life@gmail.com"
+  },
+  "itunes:image": {
+    "@href": "https://www.submits.life/images/artwork.png",
+    "#text": null
+  },
+  "itunes:category": [
+    {
+      "@text": "Technology",
+      "#text": null
+    },
+    {
+      "@text": "Science",
+      "itunes:category": {
+        "@text": "Life Sciences",
+        "#text": null
+      }
+    },
+    {
+      "@text": "Education",
+      "itunes:category": {
+        "@text": "Educational Technology",
+        "#text": null
+      }
+    }
+  ],
+  "itunes:explicit": "no",
+  "item": [
+    {
+      "title": "23. 通常の３倍凄いものに憧れる",
+      "link": "https://www.submits.life/episode/23",
+      "pubDate": "Tue, 25 Jan 2022 22:00:00 +0900",
+      "description": "自家製ソーダとシロップ、Fitbit、カスタマイズの楽しさなどについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"http://captain-drink.co.jp/\">Captain（キャプテン）</a></li>\n  <li><a href=\"https://www.monin.com/jp/\">Monin（モナン）</a></li>\n  <li><a href=\"https://www.fitbit.com/global/jp/home\">Fitbit</a>… 健康データなどを計測したりする機能を持つ時計／ガジェット。</li>\n  <li><a href=\"https://www.pocket-change.jp/ja/\">Pocketchange</a>… 外貨（小銭）を日本でも使えるポイントに変換するサービス／端末。</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/23"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2022-01-25-23.mp3",
+        "@length": 23133094,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "自家製ソーダとシロップ、Fitbit、カスタマイズの楽しさなどについて語りました。",
+      "itunes:duration": "00:16:03",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "22. 失敗は成功のママ",
+      "link": "https://www.submits.life/episode/22",
+      "pubDate": "Tue, 25 Jan 2022 21:00:00 +0900",
+      "description": "誤りからの学びの支援について語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>EBS… Error Based Simulationの略。</li>\n  <li>誤概念</li>\n  <li>概念変容</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/22"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2022-01-25-22.mp3",
+        "@length": 24648628,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "誤りからの学びの支援について語りました。",
+      "itunes:duration": "00:17:06",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "21. No need to stop Aging",
+      "link": "https://www.submits.life/episode/21",
+      "pubDate": "Tue, 18 Jan 2022 21:00:00 +0900",
+      "description": "ジーンズや革製品などのエイジングについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>リストレスト… キーボードの手前に置く、手首の疲労を低減するための板やクッション。</li>\n  <li>DIY… Do It Yourself。日曜大工のこと。</li>\n  <li>オレンジ農家などが履いたジーンズを売るやつ… <a href=\"https://www.onomichidenim.com/\">尾道デニムプロジェクト</a>。</li>\n  <li>Emacs（イーマックス）… カスタマブルなテキストエディタ。</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/21"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2022-01-18-21.mp3",
+        "@length": 16273386,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "ジーンズや革製品などのエイジングについて語りました。",
+      "itunes:duration": "00:11:17",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "20. Life is Anthology",
+      "link": "https://www.submits.life/episode/20",
+      "pubDate": "Tue, 18 Jan 2022 00:00:00 +0900",
+      "description": "若手の会、アイルランドに関する勘違い、セレンディピティ、BBQ、オリジナリティについてなど、雑多な話を語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>セレンディピティ… 何かを探しているときに、探しているものとは別の素敵なものに巡り合うこと。</li>\n  <li><a href=\"https://www.sakra.jp/\">SAKRA.JP</a></li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/20"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2022-01-18-20.mp3",
+        "@length": 82806544,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "若手の会、アイルランドに関する勘違い、セレンディピティ、BBQ、オリジナリティについてなど、雑多な話を語りました。",
+      "itunes:duration": "00:57:30",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "19. DO you know what you think?",
+      "link": "https://www.submits.life/episode/19",
+      "pubDate": "Fri, 14 Jan 2022 00:00:00 +0900",
+      "description": "メタ認知、賢さとは何かなどについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>メタ認知… 認知（思考）に関する認知（思考）。自分は今何を考えてるかということ自体を考えるようなこと。意思決定や学習の研究で特に注目されている。</li>\n  <li>我思うゆえに我あり… フランスの哲学者デカルトが提唱した命題。世の中に真に存在するものとは何か？という問題について、唯一間違いなく存在を疑う必要のないものとして「今その事を考えている自分の意識」だけが信じられる、ということ。</li>\n  <li>無知の知… 古代ギリシャの哲学者であるソクラテスが説いた、『自分は「知らないものがある」や「〜〜について知らない」ということ自体はわかっている．その分，わかったつもりになっている人よりも少なくとも「わかっていない」ということを多くわかっている』という認識。「わかっていない」ことをメタ認知することだと見做せる。</li>\n  <li>熟達化とメタ認知：認知発達的観点から](https://www.jstage.jst.go.jp/article/jfuzzy/13/1/13_KJ00002087195/_article/-char/ja/)… 大阪府立大学の岡本真彦先生の論文。熟達化に関する研究の歴史や展望についてまとめられている。</li>\n  <li>形式陶冶… 教育学上の概念。各領域（数学や物理、チェスなど）の知識・技能といった内容よりも、一般的な記憶や推理、意志といった心の能力を養うことが大事だとする考え。</li>\n  <li>実質陶冶… 教育学上の概念。形式的な能力に比べて、知識や技能の習得が大切とする考え。</li>\n  <li>一般的な弱い手法（Universal Unique Method）… 汎用で問題に依存しない問題解決手法。典型的には情報科学における一般問題解決機（GPS：General Problem Solver）などで用いられる手段ー目標分析などは、いつでも一般に使える。</li>\n  <li>新統合理論… 最新の理論。</li>\n  <li>LD（Learning Disorder）… 学習障害。発達障害の一種。</li>\n  <li><a href=\"https://www.e-healthnet.mhlw.go.jp/information/dictionary/heart/yk-072.html#:~:text=%E3%82%B5%E3%83%B4%E3%82%A1%E3%83%B3%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%88%E3%81%95%E3%81%86%EF%BE%9E%E3%81%81%E3%82%93%E3%81%97%E3%82%87%E3%81%86%E3%81%93%E3%81%86%E3%81%90%E3%82%93%EF%BC%89&amp;text=%E7%B2%BE%E7%A5%9E%E9%9A%9C%E5%AE%B3%E3%82%84%E7%9F%A5%E8%83%BD%E9%9A%9C%E5%AE%B3,%E3%81%9D%E3%81%AE%E7%97%87%E7%8A%B6%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99%E3%80%82\">サヴァン症候群</a>… 精神や知能に障害を持ちながら、暗算や記憶能力が極端に高いなど、ある特定分野に特異な能力を発揮する人や症状。</li>\n  <li>G因子… 一般知能因子。遺伝子的に決定された生来保持している知能で、汎用的な能力を司る因子。逆にS因子（特殊知能因子）は特定の領域に関して学習を通じて養う知能。</li>\n  <li>二人零和有限確定完全情報ゲーム… ２人で行われるゲームに置いて、ルールに従って互いに最善手のみを指し続けることを想定した場合、理論的には終局までの手が先読みでき、勝敗（分け）が計算できるようなゲーム。チェスやオセロなど。</li>\n  <li>中国語の部屋… アメリカの哲学者ジョン・サールが提唱した「意識」について考える思考実験。英語しか知らない人を小部屋に閉じ込めて中国語（その人が知らない言語／記号で記された文章）の手紙を渡しておく。その人には与えられた記号列に対してどのようなテキストを返せばよいかが記されたマニュアルが渡される。部屋の外ではそのマニュアルに沿って記されたテキストを受け取る人を配置しておくと、その人は「部屋の中には中国語を解することのできる人がいる」と思うはずである。このとき、部屋の中の人にとっては、対話内容そのものは「意識」されていないのではないか、といった思考。</li>\n  <li>チャンク… 人間が認識する特定の情報のかたまり。</li>\n  <li>マジカルナンバー… アメリカの心理学者ジョージ・ミラーが提唱した、瞬間的に短期記憶に保持できる限界容量のことで、５〜９個程度のチャンク。</li>\n  <li>ソフィスト（詭弁家）。</li>\n  <li><a href=\"https://www.amazon.co.jp/%E5%A4%9A%E3%83%A2%E3%83%87%E3%83%AB%E6%80%9D%E8%80%83-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E7%9F%A5%E6%81%B5%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B24%E3%81%AE%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB-%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB-%E3%83%BB%E3%83%9A%E3%82%A4%E3%82%B8/dp/462785501X\">多モデル思考:データを知恵に変える24の数理モデル</a></li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/19"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2022-01-14-19.mp3",
+        "@length": 91626884,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "メタ認知、賢さとは何かなどについて語りました。",
+      "itunes:duration": "01:03:37",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "18. 毎日ケの日",
+      "link": "https://www.submits.life/episode/18",
+      "pubDate": "Fri, 19 Nov 2021 21:00:00 +0900",
+      "description": "声や習字の講座を受講する意義などについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>フィラー（filler）… この文脈（言語学的用法）では、会話の中で使用される「あのー」や「そのー」、「えーっと」といった発話の間を埋めるような音や単語のこと。</li>\n  <li>コンヴィヴィアリティ（conviviality）… 思想家イヴァン・イリイチ氏が提唱した概念。「自立共生」という訳語が充てられているらしい。人が技術を使う時には、人が技術に使われるのではなくて、管理できる範囲（他者から操作されることの最も少ない道具）を使うべき、とする考え方。興味のある方は<a href=\"https://www.chikumashobo.co.jp/product/9784480096883/\">イヴァン氏の著書</a>をご参照のこと。</li>\n  <li>サイファー… ラッパーが集まって円になり、フリースタイルラップをし合うというイベントのこと。</li>\n  <li>The First Takeの梅田サイファー回… <a href=\"https://www.youtube.com/watch?v=kF5RUmyxwu0\">梅田サイファー - 梅田ナイトフィーバー’19 ,トラボルタカスタム ft. 鋼田テフロン / TFT FES vol.3 supported by Xperia &amp; 1000X Series</a></li>\n  <li>Word2vec(ワードツーベック)… 自然言語処理分野における機械学習モデルの１つ。コーパス（単語群とそれらの関係などのメタデータが記述されたテキストデータ）を用いて単語のベクトルを演算することから、word to(2) vec(vector)。よく出される利用例として、「King（(男性の)王）」という単語（文字列）と「Woman（女性）」という単語を足し算したら「Queen（女王／(女性の)王）」が演算結果として出力される、というようなモデル。</li>\n  <li>ゴー☆ジャス… お笑い芸人さん。代表的な芸に、地球儀を抱えて何かしらの雑談をした後に、国名で韻を踏むものを一瞬で地球儀上から見つけ出して指で示しながら「ここ、〇〇（国名）」と叫ぶ。例．ピンチ-&gt;まだ助かる、まだたすかる-&gt;マダガスカル-&gt;発見して指差しながら「ここ、マダガスカル」！</li>\n  <li>共起ワード… 文中で同時に現れる単語同士のこと。例えば論文の中で「学習」と「知識」という言葉が同時に出現しやすいといった特性を用いて自然言語を解析するなどの使われ方がある。あくまで同一文書内での同時出現を元に判別するので、コーパスに出現しない場合、例えば「学習」と「教育」が「意味的に」似通っているといったことを演算することはできない。</li>\n  <li>セマンティックウェブ… 意味処理可能なWeb。現在主流のWebはHTMLと呼ばれるレイアウトを記述するマークアップ言語で記された文章とそれらの相互リンク関係によって成り立っていて書かれたテキストの意味を自動で判定して処理することはできない。これを実現するために意味を記述する仕組みや検索方法などを備えた新たなWeb（Semantic／意味論の、Web）が模索されている。</li>\n  <li>「俺の感受性ならば尾崎、世界観なら底なし、武 水谷 馬並みの相棒が助太刀」… <a href=\"https://creepynuts.com/\">Creepy Nuts</a>による楽曲「<a href=\"https://www.youtube.com/watch?v=AaYTtj2LFFw\">板の上の魔物</a>」のワンフレーズ。</li>\n  <li>ハレの日／ケの日… 民俗学者の柳田國男先生によって見いだされた日本人の伝統的な時間観。結婚式や何かのお披露目の日といった特別な日のことを「ハレ」の日、それ以外の日常を「ケ」の日と区別したもの。ハレの日には装いや振る舞いもケの日と区別してきた伝統がある。</li>\n  <li>MOOC(ムーク)… 大規模公開オンライン講座（Massive Open Online Course）のこと。Web上で動画などとして無償で受講できるように提供された講義。配信プラットフォームとしてedX（エデックス）やCoursera、有料部分はあれど日本でもUdemyなどが有名。</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/18"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-11-19-18.mp3",
+        "@length": 69045186,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "声や習字の講座を受講する意義などについて語りました。",
+      "itunes:duration": "00:48:01",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "17. Recent Events on Tech and Our Scenes",
+      "link": "https://www.submits.life/episode/17",
+      "pubDate": "Wed, 10 Nov 2021 21:00:00 +0900",
+      "description": "Facebookの社名変更を始めとした最近のテックシーンと近況について語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Meta_(%E4%BC%81%E6%A5%AD)\">Meta (旧Facebook)</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Alphabet_(%E4%BC%81%E6%A5%AD)\">Alphabet (Googleの親会社)</a></li>\n  <li><a href=\"https://ferret-plus.com/9217\">GAFA, FAAAGなど略称</a></li>\n  <li><a href=\"https://www.itmedia.co.jp/news/articles/2110/29/news153.html\">GAFA → GAMAとかMANGAとか</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Metal_(API)\">Metal (Apple)</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/CUDA\">CUDA (NVIDIA)</a>… 読みはくーだらしい</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Android_12\">Android 12</a>… なんかおっきくなったと話題</li>\n  <li><a href=\"https://ryu-to-sobakasu-no-hime.jp/\">竜とそばかすの姫</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%8B%E3%83%BC:_%E6%96%B0%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C\">マイリトルポニー: 新しい世界</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%A2%E3%83%8A%E3%81%A8%E4%BC%9D%E8%AA%AC%E3%81%AE%E6%B5%B7\">モアナと伝説の海</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A4%E3%81%A8%E9%BE%8D%E3%81%AE%E7%8E%8B%E5%9B%BD\">ラーヤと龍の王国</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5:%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3\">シュガー・ラッシュ:オンライン</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E7%99%BE%E8%88%8C%E9%B3%A5%E5%8F%A4%E5%A2%B3%E7%BE%A4\">百舌鳥（もず）古墳群</a></li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/17"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-11-10-17.mp3",
+        "@length": 95845496,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "Facebookの社名変更を始めとした最近のテックシーンと近況について語りました。",
+      "itunes:duration": "01:19:56",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "16. Our doors will always be open",
+      "link": "https://www.submits.life/episode/16",
+      "pubDate": "Fri, 15 Oct 2021 21:00:00 +0900",
+      "description": "研究室運営での学生・後輩指導における自分たちの振る舞いのあり方について語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>山本五十六の格言… 「やってみせて、言って聞かせて、やらせてみて、ほめてやらねば人は動かじ。話し合い、耳を傾け、承認し、任せてやらねば、人は育たず。やっている、姿を感謝で見守って、信頼せねば、人は実らず。」</li>\n  <li><a href=\"https://journals.sagepub.com/doi/10.3102/0013189X018001032\">認知的徒弟制</a>… 職人の師匠の業を弟子が学び取るようなシチュエーションと類型の学びの様相。大きく次の6つの段階からなる。(1)モデリング（学習者に教育者がデモンストレーションする）、(2)コーチング（学習者に実際に練習させてフィードバックを与える）、(3)スキャフォールディング（難易度に合わせた手助けをしたり、支援を減らしたりする（フェーディング））、(4)アーティキュレーション（技術や思考の言語化を促す）、(5)リフレクション（振り返りを促す）、(6)エクスプロレーション（次の課題を学習者自身に考えさせる）。</li>\n  <li><a href=\"https://warnerbros.co.jp/kaidora/detail.php?title_id=1276\">フルハウス</a>… アメリカのテレビドラマ。コメディ。日本で言う吉本新喜劇に近いお話。1987年〜1995年にかけて第8シーズン分制作された。</li>\n  <li>My door is always open… 英語の慣用句。「いつでも相談に乗るよ」の意。</li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B001Y35G60/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1\">How to Write a Lot</a>… 邦訳版のタイトルは「できる研究者の論文生産術」。</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/16"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-09-02-16.mp3",
+        "@length": 94683642,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "研究室運営での学生・後輩指導における自分たちの振る舞いのあり方について語りました。",
+      "itunes:duration": "01:05:50",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "15. 冴えない考察の育てかた",
+      "link": "https://www.submits.life/episode/15",
+      "pubDate": "Wed, 15 Sep 2021 14:00:00 +0900",
+      "description": "劇場版「冴えない彼女の育てかた Fine」を初めて観たkoikeが15回観たaburaに感想を言ったり、物語の考察方法について話したりしました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F\">冴えない彼女の育てかた</a></li>\n  <li><a href=\"https://saenai-movie.com/\">劇場版「冴えない彼女の育てかた Fine」</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E4%B8%B8%E6%88%B8%E5%8F%B2%E6%98%8E\">丸戸史明</a> … 「冴えない彼女の育てかた」の原作者。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/WHITE_ALBUM2\">WHITE ALBUM2</a> … 丸戸先生がシナリオを書いたエロゲー。鬱もの？として有名。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E6%99%82%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E5%B0%91%E5%A5%B3\">時をかける少女</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA\">メタルギアシリーズ</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/STEINS;GATE\">STEINS;GATE（シュタゲ）</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82\">君の名は。</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90\">天気の子</a></li>\n  <li>言の葉の庭、秒速5センチメートル … 「君の名は。」や「天気の子」と同じく新海誠監督の映画作品。</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/15"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-07-29-15.mp3",
+        "@length": 64144232,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "劇場版「冴えない彼女の育てかた Fine」を初めて観たkoikeが15回観たaburaに感想を言ったり、物語の考察方法について話したりしました。",
+      "itunes:duration": "00:44:36",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "14. アイルランドってどこ？イギリスなん？w",
+      "link": "https://www.submits.life/episode/14",
+      "pubDate": "Fri, 30 Jul 2021 18:00:00 +0900",
+      "description": "aburaとkoikeで、United Kingdom、うま味、美味しい食事について語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.muji.com/\">無印良品</a></li>\n  <li><a href=\"https://www.soundhound.co.jp/\">SoundHound</a>… 流れている音楽を同定するスマホアプリ。他の有名所では<a href=\"https://www.shazam.com/ja\">Shazam</a>やGoogle Pixelの「この音なに？」機能など。</li>\n  <li><a href=\"https://mikiki.tokyo.jp/articles/-/28550\">MUJI BGMの紹介記事</a></li>\n  <li>スコッチ（Scotch）ウイスキー… 名前の通りスコットランドで製造されるウイスキー。アイラ島で作られるアイラモルト、ハイランド地方で作られるハイランドモルトなどに細分化される。（訂正: アイリッシュウイスキーは別物でした）</li>\n  <li>うま味… アミノ酸の一種であるグルタミン酸やアスパラギン酸、イノシン酸などの効用で生成される味。1908年に東京大学（旧 東京帝国大学）の池田菊苗先生により発見された。人間の舌にうま味を感じる機構（細胞）があることが科学的に証明されたのは2000年で、世界に認知されたのはかなり最近。</li>\n  <li><a href=\"https://www.ajinomoto.co.jp/products/anzen/keyword/aji.html\">味の素</a>… 味の素株式会社が製造販売しているグルタミン酸ナトリウム。サトウキビから抽出した糖を発酵させて作る「うま味」調味料。</li>\n  <li><a href=\"https://www.satosyokuhin.co.jp/products/products_rice\">サトウのごはん</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>イギリスよりスペインに行ってみたい。卵かけご飯には醤油と味の素と七味でFA。（abura）</li>\n  <li>スコッチウィスキーにもうまみが入ってると思います（koike）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/14"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-07-14-14.mp3",
+        "@length": 45079402,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "aburaとkoikeで、United Kingdom、うま味、美味しい食事について語りました。",
+      "itunes:duration": "00:31:21",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "13. AIとゲームと概念化",
+      "link": "https://www.submits.life/episode/13",
+      "pubDate": "Sat, 03 Jul 2021 12:00:00 +0900",
+      "description": "aburaとkoikeで、ゲームAIの論文と概念化の大事さの話をしました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.ai-gakkai.or.jp/about/award/jsai_award-paper/\">人工知能学会論文賞</a>… 一般社団法人 人工知能学会が、その年度に同学会が発行する論文誌に投稿された論文の中から、研究のインパクトやわかりやすさなどを総合的に考慮して優秀と評価したものに授与される賞。</li>\n  <li><a href=\"https://www.jstage.jst.go.jp/article/tjsai/35/2/35_B-J64/_article/-char/ja/\">大規模デジタルゲームにおける人工知能の一般的体系と実装 －FINAL FANTASY XVの実例を基に－</a>… スクウェア・エニックス社の<a href=\"https://miyayou.com/\">三宅陽一郎</a>先生の著作。今回の話題の中心にさせていただいた2020年度の人工知能学会 論文賞受賞論文。</li>\n  <li>学生企画… 人工知能学会 全国大会 学生企画。三宅先生をお呼びしたのは<a href=\"https://www.ai-gakkai.or.jp/jsai2019/student/\">2019年度の全国大会での学生企画</a>。東京大学の<a href=\"http://www.ailab.t.u-tokyo.ac.jp/~hori/\">堀浩一</a>先生と三宅先生をお呼びしてAIと哲学の議論をさせていただきました。</li>\n  <li>ITSの概念化… Yモデルなどとも呼ばれる、学習支援システムの構成の1種で、教材（領域知識）・学習者モデル・教授戦略との3つからなるとした概念化。</li>\n  <li>F=ma… ニュートンの運動法則。力学における最も基本的な方程式。力の強さ＝質量✕加速度。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>カッコいい概念化がしてぇなぁ（abura）</li>\n  <li>皆さんが納得したエピソードお待ちしてます（koike）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/13"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-06-29-13.mp3",
+        "@length": 42063333,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "aburaとkoikeで、ゲームAIの論文と概念化の大事さの話をしました。",
+      "itunes:duration": "00:29:12",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "12. ヒトは仮面を通してしか他人を見ることができない",
+      "link": "https://www.submits.life/episode/12",
+      "pubDate": "Mon, 28 Jun 2021 12:00:00 +0900",
+      "description": "aburaとkoikeで、オンラインゲームやアバターの話をしました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.livly.com/\">リヴリーアイランド（Livly Island）</a>… 元は2002年〜2019年ごろにサービスを提供していたオンライン育成シュミレーションゲーム。架空の生物リヴリーをアバターとして操作してみんなと交流するのほほん系ゲーム。2021年夏にスマホゲーで復活するそうな。</li>\n  <li><a href=\"http://l4cs.jpn.org/gikopoi/\">BAR ギコっぽいOnline</a>… FLASH技術を使ったオンラインチャット。ギコ（ギコ猫。正式にはギコ・ハニャーンというらしい）とは、(ﾟДﾟ；)&lt;-こういう顔文字やアスキーアートとかでよく見かけるキャラクタ。2021年6月現在はFlash Player版しかなく、基本的にプレイできない。HPには非Flash版を開発中とある。</li>\n  <li><a href=\"https://www.kiss-fm.co.jp/\">Kiss FM KOBE</a>… 兵庫を中心に配信されているラジオ。89.9Hz。ジングルがめちゃくちゃ頭に残る。</li>\n  <li><a href=\"https://gather.town/\">Gather.town</a></li>\n  <li>ゲーミフィケーション… ゲームの要素をゲーム以外に取り入れることで、ユーザ体験を高めるなどの応用方法のこと。教育・学習支援分野では、システムにポイントや経験知制度、バッジなどを導入することで学習者の参画意識を高めるといった取り組みが散見される。</li>\n  <li>心理的安全性(Psychological safety)… 元は<a href=\"https://journals.sagepub.com/doi/abs/10.2307/2666999\">企業の組織行動学の観点から提唱された</a>概念。自身の発言や行動（リスク）が他のメンバから否定されたり罰せられることがなく、受け入れられうる安全な場であるということが共有された状態のこと。教育・学習環境デザインにおいても重要視されている。</li>\n  <li>プロテウス効果… <a href=\"https://academic.oup.com/hcr/article-abstract/33/3/271/4210718\">Nick Yee, Jeremy Bailenson, “The Proteus Effect: The Effect of Transformed Self-Representation on Behavior,” Human Communication Research, vol.33, no.3, pp.271-290, 2007.</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/World_of_Warcraft\">World of Warcraft</a>… Blizzard Entertainment社が開発・運営しているMMO。</li>\n  <li>テリーのワンダーランド… ドラゴンクエストモンスターズ（DQM） テリーのワンダーランドのこと。1998年に発売開始。DQMシリーズの第1作目。超名作なのでぜひ皆さんもやってください（abura）。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>いつまでも感性が中高生のときと同じわけないんですよね〜。中二病は今も患ってますが←ﾉｼ（って挨拶の仕方が古いわ）（abura）</li>\n  <li>（暗黒微笑）（koike）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/12"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-06-02-12.mp3",
+        "@length": 53269359,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "aburaとkoikeで、オンラインゲームやアバターの話をしました。",
+      "itunes:duration": "00:37:03",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "11. おんぶにだっこする後輩とされる先輩",
+      "link": "https://www.submits.life/episode/11",
+      "pubDate": "Mon, 28 Jun 2021 12:00:00 +0900",
+      "description": "koikeとmogiで、キャンプギアとバイクなどについて雑談しました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>がしゃんがしゃんしてランタンを立てるやつ… <a href=\"https://ec.snowpeak.co.jp/snowpeak/ja/p/565\">こういうやつ</a></li>\n  <li>フェザースティック… 木の棒の表面を逆立った鳥の羽根のような形状に削って火が着きやすい状態にしたもの。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%BC\">（エマージェンシー）ファイアスターター</a>… マグネシウムの棒（ロッド）を火打石（ストライカ）にこすり合わせて削り、火種に点火する発火器具。カッコいいけどライターでいいかも？</li>\n  <li>ゆるキャン… 芳文社が刊行している雑誌「まんがタイムきららフォワード COMIC FUZ」で連載されている、あfろ（あふろ）先生によるマンガ、それを原作とするアニメなど関連作品。女子高生がゆるくキャンプする話。</li>\n  <li>しまりん… ゆるキャンの登場人物。志摩リン。アニメでは東山奈央さんの声を充てられている。</li>\n  <li>125や250… 125ccや250ccの略。自動車、特に自動二輪車（バイク）の排気量のこと。エンジンは内部でガソリンなどの燃料を爆発させてエネルギーに変換する仕組みであり、この燃料を燃やすシリンダの容積のこと。単純にはバイクのパワーと考えて差し支えない。一般に、いわゆる原付（原動機付自転車）は0〜49cc、小型自動二輪は50〜124cc、中型が400ccまで、それ以上が大型に分類される。250ccのことを「ニーハン（ニヒャクとハンブンの意）」などと呼ぶこともある。</li>\n  <li><a href=\"https://www.honda.co.jp/CBR400R/\">CBR400R</a>… HONDA（本田技研工業株式会社）が販売している自動二輪車。CBRシリーズの排気量400ccのモデル。</li>\n  <li><a href=\"https://www.kawasaki-motors.com/mc/lineup/z250/\">Z250</a>… 川崎重工業モーターサイクル&amp;エンジンカンパニーが販売している248ccのバイク。</li>\n  <li><a href=\"https://www.kawasaki-motors.com/mc/lineup/ninja250/\">Ninja250</a>… 川崎重工業モーターサイクル&amp;エンジンカンパニーが販売しているバイク。</li>\n  <li><a href=\"https://www.honda.co.jp/SILVERWING/\">Silver Wing</a> / <a href=\"https://www.honda.co.jp/GOLDWING/\">Gold Wing</a>… HONDA（本田技研工業株式会社）が販売しているスクーター型の大型自動二輪車。</li>\n  <li>モンハン… モンスターハンターシリーズの略。カプコン社から発売されているアクションゲーム。プレイヤはハンターとなり、ドラゴンなどの敵モンスターを狩る。</li>\n  <li>レウス・レイア… モンスターハンターシリーズに登場するドラゴン。雄火竜リオレウスと雌火竜リオレイアのこと。桜レイアなどは、通常より強力に設定された色の異なる特殊個体のこと。</li>\n  <li>クック… モンスターハンターシリーズに登場するドラゴン。イヤンクックのこと。</li>\n  <li>ミラルーツ… モンスターハンターシリーズに登場するドラゴン。公式名称ではなく、黒竜ミラボレアスというドラゴンの亜種として設定されており、非常に強力なモンスターとして設定されている。</li>\n  <li>大型免許… 排気量400cc以上の自動二輪車で公道を走るための免許。現行法では中型二輪免許を取得の上、さらに教習所に通い取得することになる。</li>\n  <li>モーターショー… 自動車メーカーが新型車などを展示する見本市。ここでは特に、<a href=\"https://www.tokyo-motorshow.com/\">東京モーターショー</a>のこと。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>僕はmogi君の背に乗り続けるのを辞めない（koike）</li>\n  <li>普段スクーター型の小型二輪に乗ってますが、大型持ってたらカッコいいじゃないですか〜。二輪車ならどんな車でも乗れるんですよ漢なら持ってて損はないでしょ〜。とれるときに取らなきゃ大人になってからは取りにくいしね（abura）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/11"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-05-19-11.mp3",
+        "@length": 42916571,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "koikeとmogiで、キャンプギアとバイクなどについて雑談しました。",
+      "itunes:duration": "00:29:51",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "10. バーチャルって元は仮想という意味の言葉ではない",
+      "link": "https://www.submits.life/episode/10",
+      "pubDate": "Wed, 16 Jun 2021 12:00:00 +0900",
+      "description": "aburaとkoikeで、オンラインでの議論や学習の良し悪しについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>virtual… 形容詞。元は「実質上の」や「事実上の」といった意味。</li>\n  <li><a href=\"https://spatial.chat/\">SpatialChat</a>… ユーザアイコンの距離が近い人の声は聞こえ、遠い人は聞こえなくなる音声インタフェースを備えたオンラインコミュニケーションツール。</li>\n  <li><a href=\"https://gather.town/\">Gather.town</a>… RPG風のインタフェースを備えたオンラインコミュニケーションサービス。Webブラウザで動作する。2021年6月14日時点ではまだスマートフォンには完全には対応していない。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0\">シグモイド関数</a>… S字状のグラフになる関数で、任意の入力値に対して0〜1や-1〜1などの範囲の値を返す連続的な関数で、色んな場面で利用される。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%BA%8A%E9%96%A2%E6%95%B0%E3%81%A8%E5%A4%A9%E4%BA%95%E9%96%A2%E6%95%B0\">ガウス（床関数）</a>… 対象の数を超えない最大の整数を返す関数。整数値1に近い値を考える。0.99..を入力値とするとそれを超えない最大の数は0である。一方で、1.00…1のような値を入力値とすると、すでに整数1を超えているので床関数の出力は1になる。つまり、極限値が左極限と右極限で変わる階段型の非連続なグラフを描くことになる。</li>\n  <li><a href=\"https://hello.vrchat.com/\">VRChat</a>… オンラインのVR空間上で3Dアバターを動作させる形式のコミュニケーションツール。利用するセンサ機器によってはいろいろな身体情報を送受信できるのかも。</li>\n  <li>SAO… 川原礫先生によるライトノベル、ソードアート・オンライン（Sword Art Online）、およびそれを原作とする関連作品のこと。近未来のバーチャルリアリティゲーム（SAO）を題材としており、脳の電気信号を直接ゲーム世界にリンクさせることで、様々なマルチモーダル情報を仮想空間上で再現できるようになっている。物語は主人公たちがその世界に囚われ、デスゲームに矯正参加させられるところから始まる。</li>\n  <li>茅場昭彦… SAOの登場人物。作品中のVRゲームであるSAOの研究・開発者という設定。</li>\n  <li><a href=\"https://wlgate.inf.uec.ac.jp/member/kashihara-japanese/\">柏原昭博</a></li>\n  <li><a href=\"https://wlgate.inf.uec.ac.jp/\">柏原研究室 (Learning Informatics Lab.)</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>無機質な機械相手に議論することになったら、きっと怖いと思いました（abura）</li>\n  <li>自分のボスをネズミに変えようとする学生は最低だと思います（koike）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/10"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-06-02-10.mp3",
+        "@length": 40632440,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "aburaとkoikeで、オンラインでの議論や学習の良し悪しについて語りました。",
+      "itunes:duration": "00:28:16",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "9. Teachable Agent for Revealing How Students Learn",
+      "link": "https://www.submits.life/episode/9",
+      "pubDate": "Sat, 12 Jun 2021 12:00:00 +0900",
+      "description": "初のkoikeとmogiペアで、「教えることによる学び」やエージェントを用いた「教えられる側の学習者」を代替する技術などについて書かれた論文を紹介しました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://people.engr.ncsu.edu/nmatsud/index.jp.html\">松田昇</a>… 日本を代表するAIED研究者のおひとり。代表的な研究成果に、本編でも挙げたSimStudentがある。</li>\n  <li><a href=\"https://www.jstage.jst.go.jp/article/jsise/35/1/35_350103/_article/-char/ja/\">松田昇. (2018). 学習科学における教育エージェントの動向. 教育システム情報学会誌, 35(1), 13-20.</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>Teachable Agentまじおもしろい（koike）</li>\n  <li>（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/9"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-05-19-9.mp3",
+        "@length": 31490494,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "初のkoikeとmogiペアで、「教えることによる学び」やエージェントを用いた「教えられる側の学習者」を代替する技術などについて書かれた論文を紹介しました。",
+      "itunes:duration": "00:21:52",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "8. Why cannot we communicate well?",
+      "link": "https://www.submits.life/episode/8",
+      "pubDate": "Mon, 24 May 2021 21:00:00 +0900",
+      "description": "Podcastの難しさ、良いPodcast、しゃべり方について反省しました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>特になし</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>大阪生まれ大阪育ちでもしゃべりは別にうまくない悲しい人間です（abura）</li>\n  <li>でも難しくね？（koike）</li>\n  <li>（aikawa）</li>\n  <li>でも今のままでいい気がするんですけど（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/8"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-05-12-8.mp3",
+        "@length": 40607400,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "Podcastの難しさ、良いPodcast、しゃべり方について反省しました。",
+      "itunes:duration": "00:28:15",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "7. 人生を記録する",
+      "link": "https://www.submits.life/episode/7",
+      "pubDate": "Sun, 23 May 2021 22:30:00 +0900",
+      "description": "メモの取り方、メモアプリ、キーボードについて話しました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Emacs\">Emacs</a>… 古典的かつ有名なテキストエディタの一つ。<a href=\"https://ja.wikipedia.org/wiki/Vim\">vi(vim)</a>というテキストエディタもあり、Emacsの2大陣営で日々<a href=\"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%88%A6%E4%BA%89\">戦争</a>が起こる（らしい）</li>\n  <li><a href=\"https://www.orgmode.org/ja/index.html\">Org Mode</a>… Emacsの拡張メモアプリ的なもの</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Emacs_Lisp\">Emacs Lisp</a>… Emacs上で使われるプログラミング言語の一つであるLISPの方言</li>\n  <li><a href=\"https://lafrenze.hatenablog.com/entry/2015/08/04/120205\">落合陽一先生の爆速で論文が読めるフォーマット</a></li>\n  <li><a href=\"https://www.inkdrop.app/\">Inkdrop</a>… Markdownフォーマットで書ける超おすすめのメモアプリ。koikeは色々試したがここに落ち着いた</li>\n  <li><a href=\"https://shop.yushakobo.jp/products/ergodash\">ErgoDash</a>… 自作キーボードの一つ</li>\n  <li><a href=\"https://ergodox-ez.com/\">ErgoDox</a>… 古典的な変なキーボード</li>\n  <li><a href=\"https://shop.yushakobo.jp/products/consign_manta60\">Manta60</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Emacs#Emacs%E5%B0%8F%E6%8C%87\">Emacs小指</a></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Language_Server_Protocol\">Language Server Protocol (英)</a>… 元々IDEとかでやっていたコードの静的分析をオンラインでサービスとして提供しようという仕組み</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Visual_Studio_Code\">VSCode</a>… Visual Studio Code。たぶん最近最も勢いのあるテキストエディタ</li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B00EN3DSS6/\">Microsoftのエルゴノミクスキーボード (amazon)</a></li>\n  <li><a href=\"https://www.edikun.co.jp/kinesis/\">Kinesis Advantage</a></li>\n  <li><a href=\"https://www2.razer.com/jp-jp/gaming-keyboards-keypads/razer-blackwidow\">Razer Blackwidow</a></li>\n  <li><a href=\"https://www.century.co.jp/products/ck-67cmb-bkjp1.html\">Century Black Pawn</a></li>\n  <li><a href=\"https://www.century.co.jp/products/ck-63cmb-ssjp1.html\">Century Black Queen</a></li>\n  <li><a href=\"https://yushakobo.jp/helixpico/\">Helix Pico</a></li>\n  <li><a href=\"https://olkb.com/\">PreonicとPlanck</a></li>\n  <li><a href=\"http://eucalyn.hatenadiary.jp/entry/about-eucalyn-layout\">Eucalyn配列</a>… ゆかり(@eucalyn_)さんが作った最強の日本語配列</li>\n  <li><a href=\"https://yushakobo.jp/blog/pluis9/2017/12/thinkkeylayout/\">Eucalynの検証スコア</a></li>\n  <li><a href=\"https://yushakobo.jp/\">遊舎工房</a>… 世界有数の自作キーボード専門店。自作キーボード興味ある人は是非行って下さい</li>\n  <li><a href=\"https://shop.yushakobo.jp/products/corne-cherry\">Corne Cherry</a>… <a href=\"https://shop.yushakobo.jp/products/corne-cherry-light\">Liteはこちら</a></li>\n  <li>キースイッチ… 種類によって荷重や押した心地が違う。このカスタマイズが自作キーボードを作る目的の半分くらいを占めそう</li>\n  <li><a href=\"https://keys.recompile.net/docs/keyswitch-best-practice/\">キースイッチに潤滑油を塗る業が深い作業</a></li>\n  <li>Artisan… デザインキーキャップのこと</li>\n  <li><a href=\"https://twitter.com/submits_life/status/1396461425887830018\">koike、mogi、aikawaのキーボード</a></li>\n  <li><a href=\"https://twitter.com/submits_life/status/1396461644142632972\">koikeのArtisanと副キーボード</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>IT界隈の戦争なんて，実際には起こっていません．（abura）</li>\n  <li>この音声とShow notesにはPlanckが使われました（koike）</li>\n  <li>（aikawa）</li>\n  <li>手のポジション動かさないと打てないキーはいらない（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/7"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-21-7.mp3",
+        "@length": 69654283,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "メモの取り方、メモアプリ、キーボードについて話しました。",
+      "itunes:duration": "00:48:26",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "6. Improve Your Design Skills",
+      "link": "https://www.submits.life/episode/6",
+      "pubDate": "Sat, 08 May 2021 00:00:00 +0900",
+      "description": "GUIデザインの困難さ、フェイルセーフデザイン、学習支援におけるGUIの重要性などについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li>GUI… グラフィカルユーザーインターフェース。ユーザーと何かの間で情報などのやりとりをするときの接点。いわゆるアプリ画面。</li>\n  <li>ペルソナ… 架空の人物像のこと。マーケティングにおいてはサービスに対して想定する顧客の人物像をさす。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>GUIはこだわるほどに時間が溶けちゃうんだよなぁ（abura）</li>\n  <li>音作りをちょっとづつ変えてみてます。フェイルセーフって言ってたけどもしかしたらフールプルーフの話かもしれない。過去回でexplainableをexplanationableって言ってたり単語の間違いがひどいので慎重に単語使うように心がけます…（koike）</li>\n  <li>デザインは好きですが得意とは言い難いのでもっと勉強したいです（aikawa）</li>\n  <li>だれかに丸投げしたい（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/6"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-21-6.mp3",
+        "@length": 35040239,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "GUIデザインの困難さ、フェイルセーフデザイン、学習支援におけるGUIの重要性などについて語りました。",
+      "itunes:duration": "00:24:20",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "5. 人工知能は芸術を見て泣くか？",
+      "link": "https://www.submits.life/episode/5",
+      "pubDate": "Tue, 04 May 2021 10:00:00 +0900",
+      "description": "感動の形成、最近感動したこと、人工知能技術のリベラルアーツへの応用などについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://promo.kadokawa.co.jp/feature/yoruhamijikashi/\">夜は短し歩けよ乙女</a>… 森見登美彦の小説。</li>\n  <li><a href=\"https://www.kadokawa.co.jp/product/322002000899/\">四畳半タイムマシンブルース</a>…森見登美彦の小説。</li>\n  <li><a href=\"https://umamusume.jp/\">ウマ娘　プリティダービー</a>…Cygamesによるゲーム、およびアニメなどのコンテンツ。競走馬が擬人化している。</li>\n  <li><a href=\"https://ao-buta.com/\">青春ブタ野郎はバニーガール先輩の夢を見ない</a></li>\n  <li><a href=\"https://kc.kodansha.co.jp/product?item=0000023177\">五等分の花嫁</a>…漫画作品。</li>\n  <li><a href=\"http://sakurasou.dengeki.com/books/\">さくら荘のペットな彼女</a>…ライトノベル。</li>\n  <li>AIによる小説の生成プロジェクト…主に機械学習技術といくつかの制約を中心にして自動的に小説のシナリオや文章を作成しようとする試み。国内の大きなプロジェクトとして<a href=\"https://www.fun.ac.jp/~kimagure_ai/\">「きまぐれ人工知能プロジェクト　作家ですのよ」</a>が知られている。(賛否様々な議論がなされているところではあります)</li>\n  <li>チューリングテスト…アラン・チューリングが提案した、機械（人工知能）が人間と同等の知的活動ができるか、または区別がつかない活動ができるかどうかを図るテスト。相手が見えない状態で審査員が人間と機械のそれぞれと話をし、審査員がどちらが人間か分からなければその機械は知的活動を行っているとみなせるとしたもの。近年ではこの見直しの必要性が議論され始めている。</li>\n  <li><a href=\"https://www.s-ail.org/works/aihaiku/\">AI一茶くんプロジェクト</a>…<a href=\"https://www.s-ail.org/\">SAPPORO AI LAB</a>による人工知能技術を用いて俳句の自動生成を試みるプロジェクト。関連して、<a href=\"https://aihaiku.org/\">AI俳句協会</a>なるものがあるらしい。</li>\n  <li>状況モデル…理解（把握）した文章の内容を既有知識と統合することで、後々に他の機会にも利用可能なものとした心的イメージ（高次なテキスト表象）のこと．参考（<a href=\"https://www.jstage.jst.go.jp/article/jjep1953/54/4/54_464/_article/-char/ja/\">井関ら 2006</a>）</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>Artは人生を豊かにするんですよねぇ（abura）</li>\n  <li>ヲタクトクユウノハヤクチニナルゴトウブンノハナヨメ（koike）</li>\n  <li>擬人化は良い文化だと思います（aikawa）</li>\n  <li>森見登美彦と鴨志田一はいいぞ（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/5"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-21-5.mp3",
+        "@length": 61672157,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "感動の形成、最近感動したこと、人工知能技術のリベラルアーツへの応用などについて語りました。",
+      "itunes:duration": "00:42:49",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "4. Introducing the \"eSports\"",
+      "link": "https://www.submits.life/episode/4",
+      "pubDate": "Tue, 20 Apr 2021 10:00:00 +0900",
+      "description": "元FPSプロゲーマーのkoikeがabura、aikawa、mogiに向けて、eSportsとは何か、金銭化の仕組み、FPS界隈の歴史、eSportsチームの構成などについて語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://ja.wikipedia.org/wiki/E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84\">eSports</a>… コンピュータゲーム（ビデオゲーム）をスポーツ競技として捉える際の名称。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0\">FPS（First-Person Shooter）</a>… 一人称視点シューティングゲームのこと。コンピュータ上でのサバイバルゲーム的なゲーム。自分がサバイバルゲームの参加者の視界を持ってゲームが進行されるため、基本的に自キャラクタ自体はゲーム画面上で見えない。</li>\n  <li>リアル系FPS… 武器やキャラクタの身体性能などを現実のものに近い設定とするタイプのFPS。</li>\n  <li>スポーツ系FPS… 現実ではありえない高いジャンプやSF的な武器も用いて行うタイプのFPS。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0\">TPS（Third-Person Shooter）</a>… FPSとは違い、三人称視点のゲーム。自キャラクタを斜め後ろから俯瞰して見たり、カメラの角度などを変えられる。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory\">エネミーテリトリー（Enemy Territory）</a>… 正式名称は、Wolfenstein: Enemy Territory。最初期のFPSの一つ（調べた範囲でPCの最初のFPSは、id Software製のDOSで行う<a href=\"https://en.wikipedia.org/wiki/Catacomb_3-D\">Catacomb 3-D</a>というタイトルらしい）。フリーのソフトウェアで、有志による拡張（MOD）の開発が多いタイトル。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/TrueCombat:Elite\">TrueCombat: Elite（トゥルーコンバットエリート）</a>… FPSゲームEnemy Territoryの拡張として開発されたゲーム。基盤はEnemy Territoryのものを用いているがゲーム性はこれとは全く異なる。リアル系。</li>\n  <li>ゲームエンジン… ゲームの基盤となる操作や処理を共通化してライブラリやAPI、エコシステムとして提供するソフトウェアの総称。有名所に、<a href=\"https://unity.com/ja\">Unity（Unity Technologies製）</a>や<a href=\"https://www.unrealengine.com/ja/\">Unreal Engine（Epic Games製）</a>、<a href=\"https://ja.wikipedia.org/wiki/RE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3\">REエンジン（カプコン製）</a>などがある。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Urban_Terror\">Urban Terror</a>… 元々は、<a href=\"https://ja.wikipedia.org/wiki/Quake\">Quakeシリーズ</a>、特に、Quake 3 Arenaの拡張（トータルコンバージョン：システム全体を変更するような拡張）として開発されたリアル系FPS。</li>\n  <li>ストレイフ(ストレイフジャンプ)… 一部のFPSゲームで実行可能な高速移動テクニックで、移動キーとジャンプ、マウスの振りを工夫することで移動速度を上げる手法。</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Strife_(1996_video_game)\">ストレイフ（ゲーム）</a></li>\n  <li>エイペックス… リアル系FPSである<a href=\"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%83%9A%E3%83%83%E3%82%AF%E3%82%B9%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%BA\">Apex Legends</a>のこと。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B92\">Special Force 2</a>… 韓国のゲーム会社製FPSの1タイトル。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%89%E3%83%B3%E3%82%A2%E3%82%BF%E3%83%83%E3%82%AF\">Sudden　Attack</a>… 同じく韓国のゲーム会社製FPSの1タイトル。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9_%E3%82%B7%E3%83%BC%E3%82%B8\">レインボーシックスシージ（Rainbow Six Siege）</a>… 2015年に発売が開始されたフランス製FPS。2021年4月現在でも<a href=\"https://rainbow6.jp/\">公式eSportsの大会が開かれている</a>。</li>\n  <li><a href=\"https://na.leagueoflegends.com/ja-jp/\">リーグ・オブ・レジェンド（League of Legends）</a>… 代表的なMOBAのタイトルの一つ。</li>\n  <li><a href=\"https://www.oca.ac.jp/glossary/6883/\">RTS（Real Time Strategy）</a>… e-sportsの主要な競技のひとつで、プレイヤはキャラクタに戦略的な指示を出してゲームを進める。このとき、プレイヤ間にターン制などはなく、互いに同時（リアルタイム）にゲームが進行するため高度な戦略とプレイヤスキルが要求される。</li>\n  <li><a href=\"https://www.oca.ac.jp/glossary/6882/\">MOBA（Multiplayer online battle arena）</a>… RTSの一種で、複数プレイヤが2チームに分かれて行う陣取りゲーム。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/Dota_2\">Dota 2</a>… 2013年に発売開始された代表的なMOBAのタイトルの一つ。<a href=\"https://www.dota2.com/international/overview/\">2019年の大会時点</a>で優勝賞金が約17億円。<a href=\"https://www.negitaku.org/news/n-24329\">2020年の大会では賞金総額約42億円</a>とも。</li>\n  <li><a href=\"http://team-detonation.net/\">デトネーション（DetonationN Gaming）</a>… 国内有数規模のプロゲーマチーム。電機、スポーツ用品、ソフトウェア系など多数のスポンサー企業と契約している。あった気がして喋ってましたがApex Legendsのチームはないようです。記憶違いでした。</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Counter-Strike\">カウンターストライク（Counter-Strike）</a>… 2000年に発売開始されたFPS。</li>\n  <li>フォーディーエヌ（4dimensionN: 4dN）… DetonationNの中でもCounter-Strikeに取り組んでいた伝説的チーム。元祖eSportsメディアnegitakuのYossy氏が、<a href=\"https://www.negitaku.org/news/n-19768\">リンク先記事の末尾で4dNに関わる歴史を簡単に紹介</a>している。</li>\n  <li>Noppoさん… 元4dimensioNおよびTeam Speederのメンバーで、FPSの本場・北欧へのゲーム留学などもしている。必見、とんでもないプレイ（<a href=\"https://twitter.com/YossyFPS/status/638031612089864193\">動画・解説</a>）の人。このように音と味方の情報だけでゲームをプレイできるのもFPSの醍醐味。なお、現在はNVIDIAを退職され、Twitchにいらっしゃる模様。（<a href=\"https://www.japanesecasino.com/ex-pro-gamer-nopp\">参考：Japanese Casino Sports News. スウェーデンにゲーム留学した日本人元プロゲーマー</a>）</li>\n  <li>うめはらさん… 格闘ゲームを対象としたプロゲーマの梅原大吾氏のこと。梅原氏も、紙面上で<a href=\"https://www.newsweekjapan.jp/stories/culture/2019/05/post-12059_1.php\">ゲームが反射神経などを要因として若い人有利になることについて言及</a>しています。<a href=\"https://twitter.com/daigothebeastJP\">Twitterアカウントはこちら</a>。</li>\n  <li>ストリーマー（Streamer）… 配信者。ゲーム実況動画などをオンラインで配信するひとの総称。</li>\n  <li><a href=\"https://www.sanwa.co.jp/seihin_joho/ergo/index.html\">エルゴノミクス（人間工学）</a>… 人間の身体的・認知的特性を考慮した製品やサービスの設計をする学問。キーボードのピッチや配列などが代表的。</li>\n  <li>RTA（Real Time Attack）… 人間のプレイヤが操作して、あるゲームをどれだけ早くクリアできるかを競うプレイ方法。</li>\n  <li>TAS（Tool Asisted Speedrun）… エミュレータ上でゲームを実行し、特定の操作をプログラムして自動実行させることで、いかに早くクリアできるのかを競うプレイ方法。</li>\n  <li>あめみやたいようさん… いわゆる落ちゲー（ぷよぷよフィーバーやTetris）を専門とするプロゲーマ。<a href=\"https://twitter.com/inazuma0217tai1\">Twitterアカウントはこちら</a>。</li>\n  <li>eSportsに関するITS事例… <a href=\"https://ieeexplore.ieee.org/abstract/document/8609685\">SENSEI: An Intelligent Advisory System for the eSport Community and Casual Players</a>など。</li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Chunking_(psychology)\">チャンキング（chunking）</a>… 情報セットの個々の部分を分解した後、意味のある全体で一緒にグループ化されるプロセス。ざっくり言えば、知識を意味のまとまりで捉える思考活動。</li>\n  <li><a href=\"https://www.nintendo.co.jp/switch/aab6a/index.html\">イカ（スプラトゥーン）</a>… 任天堂のTPSゲーム。登場キャラがイカの擬人化。</li>\n  <li>リコイルコントロール… FPSなどで、銃の発砲により発生した反動に対して、マウスやコントローラを用いて反対の動きをすることで、ブレた照準を抑え込むテクニック。</li>\n  <li><a href=\"https://stansmithpro.com/profile\">岸大河（旧名：StanSmith）</a>… 様々なジャンルのゲームで大会優勝歴多数の元プロゲーマー。現在はオールラウンドなゲームキャスターをやられています。現役時代のプレイも独自の哲学が垣間見えるほどでしたが、実況・解説がとても分かりやすいことでも有名です。自身の事務所でもある、Protagon株式会社の代表取締役もやられているそう。</li>\n  <li>ふり〜だ… GODSGARDEN所属。格闘ゲームジャンルを中心に複数タイトルで大会優勝をはじめ上位戦績を重ねた元プロゲーマー。格ゲーの祭典EVOでも準優勝したりしている。同じくゲームキャスター。<a href=\"https://twitter.com/frieda0914\">Twitterアカウントはこちら</a>。なお、現在はUBI社Rainbow Six Siege公式キャスターも務める。</li>\n  <li>FPSジャンルの解説における岸氏とふり〜だ氏の比較… 岸氏は自身の経験に基づく深みのある実況・解説を、ふり〜だ氏は元々門外漢だった経験から、初心者に伝わりやすい素朴な実況・解説を行うイメージ。どちらもプロならでは。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>電子の世界で自己研鑽する業界、新しい感動に溢れてそうで興味深い（abura）</li>\n  <li>Show notesの作成にあたって、いろいろ調べて勉強になりました（abura）</li>\n  <li>FPSプロゲーマー（コーチかつ短期間）ですが僕のゲーマー歴が供養できて良かったです！誰かの参考になれば嬉しいです。eSportsの大会は、眺めてるだけでも楽しいですよ！（koike）</li>\n  <li>面白かったです。内情聞いていると思った以上に普通にスポーツで、eSportsのスポーツ漫画とか出てきそうですね。もうあるんでしょうか（aikawa）</li>\n  <li>自分もRTAとかやってみたい（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/4"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-14-4.mp3",
+        "@length": 56851588,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "元FPSプロゲーマーのkoikeがabura、aikawa、mogiに向けて、eSportsとは何か、金銭化の仕組み、FPS界隈の歴史、eSportsチームの構成などについて語りました。",
+      "itunes:duration": "01:03:01",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "3. 知的エージェントとITSはどこから来たのか エージェントは何者か エージェントはどこへ行くのか",
+      "link": "https://www.submits.life/episode/3",
+      "pubDate": "Sat, 17 Apr 2021 00:00:00 +0900",
+      "description": "abura、koike、aikawa、mogiの4人でITSと知的エージェントシステムの結び付けに関するレビュー論文を題材に、ITSの全体像について語りました。<h2 id=\"show-notes\">Show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.inderscienceonline.com/doi/abs/10.1504/IJLT.2019.101847\">An agent-based intelligent tutoring systems review</a></li>\n  <li>ITSの基本的構成要素… 領域（ドメイン）知識・学習者モデル・教授戦略。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88\">(ソフトウェア)エージェント</a>… Wikipediaの説明は信頼できる論文を元に結構まとまった解説がなされている。</li>\n  <li>知識表現（Knowledge Representation）… コンピュータが計算（推論）するために与える意味・概念の表現や方法のこと。典型的な表現形式として、ルールモデルや意味ネットワークモデル、フレームモデルなどがある。<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1042814383710083\">オントロジー工学的アプローチはフレームモデルに従った概念</a>。</li>\n  <li><a href=\"https://www.jstage.jst.go.jp/article/jsise/36/4/36_360407/_article/-char/ja/\">会話エージェントと学習支援についての解説</a>… 教育システム情報学会という学会で発刊された解説。会話エージェントと学習支援について詳しい。途中で出てきたEmbodied Conversational Agentsなども説明されている。なお、筆頭著者はaburaの兄弟子。</li>\n  <li><a href=\"https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=6897&amp;item_no=1&amp;page_id=13&amp;block_id=8\">プロダクションシステム</a>… プロダクションルール、データベース（ワーキングメモリ）、インタプリタの3つの基本要素からなる人工知能プログラム技法の一種。会話中は若干不適当な説明だったので、厳密な議論は調べてくださいｗ。</li>\n  <li>学習管理システム（LMS：Learning Management System）… 大学の授業支援システムなど、学習者情報や授業情報などをオンラインで管理するシステムの総称。</li>\n  <li>MOOC（Massive Open Online Course）… オンラインで公開されている講義コンテンツのこと。代表的なプラットフォームとしてedXなどがある。</li>\n  <li><a href=\"https://www.public.asu.edu/~kvanlehn/\">Kurt Alen VanLehn</a>… 2021年現在、アリゾナ州立大学で教鞭をとられているITS研究の大御所のお一人。<a href=\"https://dl.acm.org/doi/10.5555/1435351.1435353\">ITSの一般的な振る舞い（Outer loop/Inner loop）の発見</a>や、<a href=\"https://www.public.asu.edu/~kvanlehn/why.htm\">Why2000</a>、<a href=\"https://www.researchgate.net/publication/221413893_The_Architecture_of_Why2-Atlas_A_Coach_for_Qualitative_Physics_Essay_Writing\">Why2-Atlas</a>などの開発者。配偶者は自己説明研究やICAP理論で有名なM.H.Chi先生。</li>\n  <li><a href=\"https://www.memphis.edu/psychology/people/faculty/graesser.php\">Arthur C. Graesser</a>… メンフィス大学の認知科学・学習科学、および人工知能研究者。代表的な発明に、「問い」のタイプを概念化した<a href=\"https://psycnet.apa.org/record/2010-03564-007\">Graesser’s Taxonomy</a>や、自然言語で会話しながら学習をサポートするITSである<a href=\"https://link.springer.com/article/10.3758/BF03195563\">AutoTutor</a>などがある。</li>\n  <li><a href=\"http://act-r.psy.cmu.edu/peoplepages/ja/\">John Robert Anderson</a>… CMUの認知科学、人工知能研究の大家。代表的な発明に、認知アーキテクチャの一種である<a href=\"http://act-r.psy.cmu.edu/\">ACT-R</a>や、様々なITSの基盤となるフレームワークとなっている<a href=\"http://ctat.pact.cs.cmu.edu/\">CTAT：Cognitive Tutor Authoring Tools</a>などがある。</li>\n  <li><a href=\"https://www.csse.canterbury.ac.nz/tanja.mitrovic/\">Antonija Mitrović</a>… Tanja（ターニャ）先生との愛称で知られる、ニュージーランドはカンタベリー大学のITS研究者。世界中の大学などで実際に利用されているSQLの学びを支援するITSである<a href=\"https://www.csse.canterbury.ac.nz/tanja.mitrovic/sql-tutor.html\">SQL-Tutor</a>や、リレーショナルデータベースのER図を教える<a href=\"https://www.csse.canterbury.ac.nz/tanja.mitrovic/kermit.html\">ERR-Tutor</a>、制約（Constraint）ベースチューターのためのオーサリング（教材開発支援）システムである<a href=\"https://aspire.cosc.canterbury.ac.nz/\">ASPIRE</a>などの重要なITSや概念の開発者。</li>\n  <li><a href=\"https://iaied.org/\">IAIED（International AIED Society）</a>… この分野の最難関カンファレンスの一つ、AIED（Artificial Intelligence in Education）を運営する組織。Tanja先生がPresidentだったのは2013-2015だったみたいです。だいぶ昔でしたね。なお、現在はTanja先生は<a href=\"https://apsce.net/\">APSCE</a>という別のカンファレンスを主催する組織のPresidentでした。そちらと勘違いしたようです。</li>\n  <li><a href=\"http://pact.cs.cmu.edu/koedinger.html\">Kenneth R. Koedinger</a>… CMUのLearningLabに所属するHCI・心理学の研究者。ACT-Rに基づくITSである<a href=\"https://en.wikipedia.org/wiki/Cognitive_tutor\">Cognitive Tutor</a>を始めとした様々なITSの開発に貢献した重要人物。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/PLATO\">PLATO</a>… 最初期のCAI（Computer-Assisted/Aided Instruction、ITSの前身のパラダイム）とされるシステム。1960年ごろのシステムということなので、分野としては60年くらいであるようです。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n\n<ul>\n  <li>Podcastで初めてちゃんと研究の話ができた。普段の輪読会とは少し違った雰囲気で楽しい。（abura）</li>\n  <li>まだまだ紹介できてない重要人物が沢山います（koike）</li>\n  <li>もっと何か喋れるように頑張ります（aikawa）</li>\n  <li>人の名前が全然覚えられないです（mogi）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/3"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-14-3.mp3",
+        "@length": 85680129,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "abura、koike、aikawa、mogiの4人でITSと知的エージェントシステムの結び付けに関するレビュー論文を題材に、ITSの全体像について語りました。",
+      "itunes:duration": "01:29:14",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "2. のどかな場所でさくらきゃんぷ△がしたい。",
+      "link": "https://www.submits.life/episode/2",
+      "pubDate": "Fri, 09 Apr 2021 18:00:00 +0900",
+      "description": "koike、aikawaの2人で桜狩り、ゆるキャン△とキャンプ、のどかさの定義、執筆における集中ゾーン、趣味と学業について語りました。<h2 id=\"show-notes\">Show notes</h2>\n<ul>\n  <li>桜狩り… 桜の花を求めて野山を歩き回ったり鑑賞したりすること。「狩り」の意味として狩猟の他に「自然の中にわけいって花や紅葉を鑑賞したりすること」というものもあるらしい。「桜の写真を撮ること」というのはウソ。</li>\n  <li><a href=\"https://yurucamp.jp/\">ゆるキャン△</a>… 現在連載中の漫画作品及びアニメ作品。女子高生がキャンプに行く。空気感が良い。かわいい。</li>\n  <li><a href=\"https://www.itmedia.co.jp/business/articles/1604/28/news029.html\">スローテレビ</a>… ノルウェーの公共放送「NRK」が2009年に放送を開始した番組の通称。薪が暖炉で燃えているだけの映像で高視聴率を記録した。視聴率が20%を超えたこともあるらしい。寒いところなのは本当。50%を超えているはウソ。</li>\n  <li><a href=\"https://gigazine.net/news/20180122-australian-bird-use-fire/\">火を使って狩りをする鳥</a>… 直接猿が火を使う記事は見つけられませんでしたが、ここに記述されている通り、人間以外が火を使う例はあるようです。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%B3%A2\">アルファ波</a>、<a href=\"https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%BC%E3%82%BF%E6%B3%A2\">ベータ波</a>… 脳波の種類。アルファ波がリラックス時、ベータ波が活動時に出ている脳波のようです。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/1/f%E3%82%86%E3%82%89%E3%81%8E\">1/fゆらぎ</a>… 規則性と突発性が調和したゆらぎのこと。心臓の音、ろうそくの炎のゆれ、波の感覚、雨音などの生体音や環境音が該当し、快適性に関係があるらしい。</li>\n  <li><a href=\"https://www.diamond.co.jp/book/9784478106112.html\">時間術大全　人生が本当に変わる「８７の時間ワザ」</a>… 自分の時間にゆとりを持たせるためのテクニックをまとめた自己啓発本。koikeは人生の見方変わったのでオススメです。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n<ul>\n  <li>koikeってやつウソしかつかねえじゃん…（koike）</li>\n  <li>おなかすきました（aikawa）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/2"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-09-2.mp3",
+        "@length": 47846464,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "koike、aikawaの2人で桜狩り、ゆるキャン△とキャンプ、のどかさの定義、執筆における集中ゾーン、趣味と学業について語りました。",
+      "itunes:duration": "00:33:14",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "1. First Submission",
+      "link": "https://www.submits.life/episode/1",
+      "pubDate": "Fri, 09 Apr 2021 00:00:00 +0900",
+      "description": "abura、koike、aikawa、mogiの4人でPodcastを始めた経緯、我々の専門（ITS）、研究者と中二病、娯楽（マンガ・ラノベ・アニメ・音楽）の情報量、エロゲーの主人公目線について語りました。<h2 id=\"show-notes\">Show notes</h2>\n<ul>\n  <li>submits.life… このpodcastの名前およびドメイン。ITSに関する論文を投稿（submit）する人生（life）という意味で submit + its + life になった。（<a href=\"https://submits.life/episode/0\">#0</a>より再掲）</li>\n  <li><a href=\"https://researchat.fm/\">Researchat.fm</a>… バイオロジーの研究者3人がアツいと感じていることを自由に話すポッドキャスト番組。なにも分からなくてもなぜか聞いていて面白い。</li>\n  <li><a href=\"https://www.allnightnippon.com/\">オールナイトニッポン</a>… 日本を代表するラジオ放送局の一つ。ニッポン放送をキーステーションとして日本全国で放送されているラジオの深夜番組。</li>\n  <li><a href=\"https://www.allnightnippon.com/creepynuts/\">Creepy Nutsのオールナイトニッポン0</a>… 1DJ・1MCの音楽ユニット Creepy Nutsがやっているオールナイトニッポンの番組。雑談がめっちゃ面白い。</li>\n  <li><a href=\"https://www.amazon.co.jp/dp/4844398466/\">今日からはじめる「技術Podcast」完全入門</a>… 老舗Podcastの1つ、<a href=\"https://yatteiki.fm/\">yatteiki.fm</a>のキャスターが、我々みたいなPodcast beginnerに作ってくれた指南書。心得も色々書いてあり、ためになる。</li>\n  <li>ハーバート・アレクサンダー・サイモン… 認知心理学者。人工知能のパイオニア。「作ってわかる」は「認知システムを作ることは認知を知る上で有益」（Simon, 1996）のこと。</li>\n  <li><a href=\"https://promo.kadokawa.co.jp/feature/yoruhamijikashi/\">夜は短し歩けよ乙女</a>… 森見登美彦の小説。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E8%AA%8D%E7%9F%A5\">メタ認知</a>… 自分の認知状態を客観的に捉えること。ITS界隈でも度々研究対象にされる。aburaの研究テーマもこれに関連する。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%82%B7%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89\">アカシックレコード</a>… すべての事象、思想、感情などが記録されているとされる概念。科学的根拠はない。</li>\n  <li><a href=\"http://www.kyotoanimation.co.jp/books/chuunibyo/\">中二病でも恋がしたい</a>… ライトノベル。</li>\n  <li><a href=\"http://syosetu.com/\">小説家になろう</a>… 小説投稿サイト。</li>\n  <li><a href=\"https://kakuyomu.jp/\">カクヨム</a>… 小説投稿サイト。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%8D%9A%E5%97%A3\">森博嗣</a>… 研究者しながら小説家をしてた人。なお、現在は研究者を辞められているみたい。</li>\n  <li><a href=\"https://ncode.syosetu.com/n7945fn/\">Dジェネシス</a>　ダンジョンが出来て3年… Web発のライトノベル。</li>\n  <li><a href=\"https://www.shonenjump.com/j/rensai/drstone.html\">Dr.STONE</a>… 週刊少年ジャンプで連載中の漫画。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%81%E3%81%A0%E3%81%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9\">めだかボックス</a>… 週刊少年ジャンプで連載されていた漫画。極度のインフレで有名。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%81%E3%81%A0%E3%81%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9#%E5%AE%89%E5%BF%83%E9%99%A2%E3%81%AA%E3%81%98%E3%81%BF\">安心院なじみ</a>… めだかボックスの登場人物。「1京2858兆0519億6763万3865個のスキル」を持っているらしい。100万どころじゃなかった。まさにジャンプもびっくりのインフレ。</li>\n  <li>夜好性… YOASOBI、ヨルシカ、ずっと真夜中でいいのに、という3組のアーティストの俗称。「よるぞく」はこれのことだと思われる。「夜に駆ける」はYOASOBIの曲。</li>\n  <li><a href=\"https://www.youtube.com/watch?v=DC6JppqHkaM\">春を告げる</a>… yamaによる楽曲。</li>\n  <li><a href=\"https://reissuerecords.net/\">米津玄師</a>… シンガーソングライター。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n<ul>\n  <li>エロゲーの主人公になりたい人生だった（koike）</li>\n  <li>研究よりもサブカル話の方が盛り上がってしまってる．．．？（abura）</li>\n  <li>Podcastは、自分が話したことを何回も聞き直して、メタ認知するよい機会ですね（abura）</li>\n  <li>機材トラブルで前半消えてますが一応参加しています（mogi）</li>\n  <li>緊張しました（aikawa）</li>\n</ul>\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/1"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-04-09-1.mp3",
+        "@length": 64379930,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "abura、koike、aikawa、mogiの4人でPodcastを始めた経緯、我々の専門（ITS）、研究者と中二病、娯楽（マンガ・ラノベ・アニメ・音楽）の情報量、エロゲーの主人公目線について語りました。",
+      "itunes:duration": "00:44:44",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    },
+    {
+      "title": "0. What is Intelligent Tutoring System?",
+      "link": "https://www.submits.life/episode/0",
+      "pubDate": "Fri, 26 Mar 2021 00:00:00 +0900",
+      "description": "テスト収録として、aburaとkoikeの2人で、我々の研究分野である、知的学習支援システムについて語ってみました。<h2 id=\"show-notes\">Show notes</h2>\n<ul>\n  <li>知的学習支援システム… 人工知能技術を用いて知的な（知性を持った、現実の先生のような）振舞いをする学習支援システムのこと。Intelligent Tutoring System (ITS)と訳される。</li>\n  <li>submits.life… このpodcastの名前およびドメイン。ITSに関する論文を投稿（submit）する人生（life）という意味で submit + its + life になった。</li>\n  <li><a href=\"https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol33-no4/\">知的学習支援システム研究に関する学術的解説</a>… 立命館大学の林先生が人工知能学会の寄稿で、ITS研究について分かりやすくまとめていらっしゃる。</li>\n  <li><a href=\"https://cognicull.com/\">Cognicull（コグニカル）</a>… 超キレイかつ便利な学習支援サイト。使っていて気持ちいい。個人開発とは思えない。</li>\n  <li><a href=\"https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/\">MicrosoftのC#リファレンス</a>… 一生お世話になってる。わかりやすい。</li>\n  <li><a href=\"https://dobon.net/vb/dotnet/\">個人のC#の解説サイトの一例</a>… 個人でこの情報量を共有することに驚き。わかりやすい。</li>\n  <li><a href=\"https://journals.sagepub.com/doi/10.3102/0034654307313795\">Shute VJ. Focus on Formative Feedback. Review of Educational Research. 2008;78(1):153-189.</a>… 教育におけるフィードバックを類型化している有名な論文。中盤以降で出てきた、学習者に誤っている箇所を教えてあげる”Error flagging”というフィードバックもこの分類によるもの。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%9C%E3%81%AA%E3%81%9C%E5%88%86%E6%9E%90\">なぜなぜ分析</a>… 「5回なんでって聞くと専門家でも答えられない」は恐らくこれの誤解かも。</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E7%84%A1%E7%9F%A5#%E7%84%A1%E7%9F%A5%E3%81%AE%E7%9F%A5\">無知の知</a>… 「知らないことを知っていること」は、「知らないことを知らないこと」より優れている、という格言。ソクラテスが言ったとか言ってないとかは諸説あり。</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial notes</h2>\n<ul>\n  <li>たのしい （2021.04.09追記）聞きづらかったので音を再編集しました（koike）</li>\n  <li>自分の音質わるいな…（abura）</li>\n  <li>ITSの研究面白いので、みなさん参入してみては？（abura）</li>\n</ul>\n\n<p>質問・意見・感想などは、ぜひ、 <a href=\"https://marshmallow-qa.com/submits_life\">マシュマロ</a> か Twitterで ハッシュタグ#submitslife までお願いします。Submits.lifeのTwitterアカウントは <a href=\"https://twitter.com/submits_life\">こちら</a> です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://www.submits.life/episode/0"
+      },
+      "enclosure": {
+        "@url": "https://www.submits.life/audio/2021-03-26-0.mp3",
+        "@length": 24287437,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Submits.life",
+      "itunes:subtitle": "テスト収録として、aburaとkoikeの2人で、我々の研究分野である、知的学習支援システムについて語ってみました。",
+      "itunes:duration": "00:16:52",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://www.submits.life/images/artwork240.png",
+        "#text": null
+      }
+    }
+  ]
+}

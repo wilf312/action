@@ -1,0 +1,1521 @@
+{
+  "title": "Today I Learned",
+  "description": "シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。",
+  "link": "https://anchor.fm/todayilearnedfm",
+  "image": {
+    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+    "title": "Today I Learned",
+    "link": "https://anchor.fm/todayilearnedfm"
+  },
+  "generator": "Anchor Podcasts",
+  "lastBuildDate": "Fri, 26 Aug 2022 01:30:12 GMT",
+  "atom:link": [
+    {
+      "@href": "https://anchor.fm/s/367f0040/podcast/rss",
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "#text": null
+    },
+    {
+      "@rel": "hub",
+      "@href": "https://pubsubhubbub.appspot.com/",
+      "#text": null
+    }
+  ],
+  "author": "Imai and Yusuke",
+  "copyright": "Imai and Yusuke",
+  "language": "ja",
+  "itunes:author": "Imai and Yusuke",
+  "itunes:summary": "シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。",
+  "itunes:type": "episodic",
+  "itunes:owner": {
+    "itunes:name": "Imai and Yusuke",
+    "itunes:email": "podcasts60+367f0040@anchor.fm"
+  },
+  "itunes:explicit": "No",
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:image": {
+    "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+    "#text": null
+  },
+  "item": [
+    {
+      "title": "58. WWDC 2022振り返り",
+      "description": "<p>WWDC 2022のPlatforms State of the UnionをベースにAppleの提供するプラットフォームのアップデートについてお話しました。</p>\n<ul>\n <li>Platforms State of the Union - <a href=\"https://developer.apple.com/videos/play/wwdc2022/102/\">https://developer.apple.com/videos/play/wwdc2022/102/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanab</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/58--WWDC-2022-e1mlcl2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "87b27667-0532-4f43-99f8-575ca56f0d32"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 19 Aug 2022 01:21:26 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/56324194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-18%2F4abd6642-3be3-7a30-97e9-2b85a8c9d938.mp3",
+        "@length": 31045872,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>WWDC 2022のPlatforms State of the UnionをベースにAppleの提供するプラットフォームのアップデートについてお話しました。</p>\n<ul>\n <li>Platforms State of the Union - <a href=\"https://developer.apple.com/videos/play/wwdc2022/102/\">https://developer.apple.com/videos/play/wwdc2022/102/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanab</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "57. ブロックチェーンアプリの作り方ガイド",
+      "description": "<p>ブロックチェーンでアプリを作る人向けの開発ステップガイドに関する記事を元に話をしました。</p>\n<ul>\n <li>記事 <a href=\"https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/\" rel=\"noopener noreferrer\" target=\"_blank\">https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanab</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/57-e1lodo7",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "7cce4fb2-2564-4790-b02e-846595fcb657"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 27 Jul 2022 18:44:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/55375047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F6f0d28da-d7f4-0919-4a2b-00447dab707b.mp3",
+        "@length": 36214536,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ブロックチェーンでアプリを作る人向けの開発ステップガイドに関する記事を元に話をしました。</p>\n<ul>\n <li>記事 <a href=\"https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/\" rel=\"noopener noreferrer\" target=\"_blank\">https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanab</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:42:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "56. mac買ったらするセットアップ",
+      "description": "<p>mac のセットアップに関する記事を元に、生産性を向上するアプリやツールなどについて話しました。</p>\n<ul>\n <li>記事 <a href=\"https://www.swyx.io/new-mac-setup/\">https://www.swyx.io/new-mac-setup/</a></li>\n <li>gist <a href=\"https://gist.github.com/sw-yx/7fa1009e460ecb818d5e6d9ca4616a05\">https://gist.github.com/sw-yx/7fa1009e460ecb818d5e6d9ca4616a05</a></li>\n <li><a href=\"https://github.com/Schniz/fnm\">https://github.com/Schniz/fnm</a></li>\n <li><a href=\"https://lunar.fyi/\">https://lunar.fyi/</a></li>\n  <li><a href=\"https://manytricks.com/moom/\">https://manytricks.com/moom/</a></li>\n  <li><a href=\"https://fuwari-app.com/\">https://fuwari-app.com/</a></li>\n  <li><a href=\"https://www.loom.com/\">https://www.loom.com/</a></li>\n  <li><a href=\"https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12\">https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/56--mac-e1kv1hc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "07d53da7-3c0c-4c30-8543-5207e7652295"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 08 Jul 2022 02:43:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/54543340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F54543340%2F8fc38b2298b23cca5f6f11e1b7f9265f.m4a",
+        "@length": 33037711,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>mac のセットアップに関する記事を元に、生産性を向上するアプリやツールなどについて話しました。</p>\n<ul>\n <li>記事 <a href=\"https://www.swyx.io/new-mac-setup/\">https://www.swyx.io/new-mac-setup/</a></li>\n <li>gist <a href=\"https://gist.github.com/sw-yx/7fa1009e460ecb818d5e6d9ca4616a05\">https://gist.github.com/sw-yx/7fa1009e460ecb818d5e6d9ca4616a05</a></li>\n <li><a href=\"https://github.com/Schniz/fnm\">https://github.com/Schniz/fnm</a></li>\n <li><a href=\"https://lunar.fyi/\">https://lunar.fyi/</a></li>\n  <li><a href=\"https://manytricks.com/moom/\">https://manytricks.com/moom/</a></li>\n  <li><a href=\"https://fuwari-app.com/\">https://fuwari-app.com/</a></li>\n  <li><a href=\"https://www.loom.com/\">https://www.loom.com/</a></li>\n  <li><a href=\"https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12\">https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:02",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "55. 3から18ヶ月の間に、スタートアップの世界に起こりうること",
+      "description": "<ul>\n <li>元Tweet「３から18ヶ月の間に、スタートアップの世界に起こりうること」 <a href=\"https://twitter.com/eladgil/status/1537812746426716161\">https://twitter.com/eladgil/status/1537812746426716161</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/55--318-e1kfokj",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f9c1c341-4299-4a64-ba76-cae7540a8c21"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 27 Jun 2022 00:35:23 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/54042707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-26%2Ff91d0b83-cd01-47a2-6bce-6e7ff7458568.mp3",
+        "@length": 26313072,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<ul>\n <li>元Tweet「３から18ヶ月の間に、スタートアップの世界に起こりうること」 <a href=\"https://twitter.com/eladgil/status/1537812746426716161\">https://twitter.com/eladgil/status/1537812746426716161</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:45",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episode": 55,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "54. 平凡なプログラマがGithubのCTOになれたわけ",
+      "description": "<p>元Github CTOへのインタビューを元に、視座の持ち方、技術への向き合い方などについて話しました。</p>\n<ul>\n <li><a href=\"https://stackoverflow.blog/2022/05/31/jason-warner-cto-github-redpoint-ventures-web3/\">https://stackoverflow.blog/2022/05/31/jason-warner-cto-github-redpoint-ventures-web3/</a></li>\n <li>自分の道の歩き方 <a href=\"https://speakerdeck.com/tomoima525/zi-fen-falsedao-falsebu-mifang-le-sikutiyarenzisurutamefalsehinto\">https://speakerdeck.com/tomoima525/zi-fen-falsedao-falsebu-mifang-le-sikutiyarenzisurutamefalsehinto</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/54--GithubCTO-e1jqnku",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "63562ac4-46a4-46c1-84a7-0b3fc79ce60f"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 12 Jun 2022 18:46:36 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/53353566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F53353566%2F542453282b5010f13f194299a9c3241d.m4a",
+        "@length": 28145977,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>元Github CTOへのインタビューを元に、視座の持ち方、技術への向き合い方などについて話しました。</p>\n<ul>\n <li><a href=\"https://stackoverflow.blog/2022/05/31/jason-warner-cto-github-redpoint-ventures-web3/\">https://stackoverflow.blog/2022/05/31/jason-warner-cto-github-redpoint-ventures-web3/</a></li>\n <li>自分の道の歩き方 <a href=\"https://speakerdeck.com/tomoima525/zi-fen-falsedao-falsebu-mifang-le-sikutiyarenzisurutamefalsehinto\">https://speakerdeck.com/tomoima525/zi-fen-falsedao-falsebu-mifang-le-sikutiyarenzisurutamefalsehinto</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "53. Get your work recognized: write a brag document",
+      "description": "<ul>\n <li>元記事：<a href=\"https://jvns.ca/blog/brag-documents/\">https://jvns.ca/blog/brag-documents/</a></li>\n <li>海外出張中に Covid-19 にかかると大変：<a href=\"https://tomoima525.hatenablog.com/entry/2022/05/07/225343\">https://tomoima525.hatenablog.com/entry/2022/05/07/225343</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/53--Get-your-work-recognized-write-a-brag-document-e1j36il",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8885e722-6c57-476b-94a8-5464ec484246"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 26 May 2022 16:07:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/52582421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-26%2F3cc0d1d6-b8dc-bb93-d49f-1d1c39f8ebde.mp3",
+        "@length": 25847472,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<ul>\n <li>元記事：<a href=\"https://jvns.ca/blog/brag-documents/\">https://jvns.ca/blog/brag-documents/</a></li>\n <li>海外出張中に Covid-19 にかかると大変：<a href=\"https://tomoima525.hatenablog.com/entry/2022/05/07/225343\">https://tomoima525.hatenablog.com/entry/2022/05/07/225343</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episode": 53,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "52. アムステルダムのブロックチェーンカンファレンス参加報告",
+      "description": "<p>アムステルダムで開催されたブロックチェーンカンファレンスDevconnectについて、面白かった技術、プロダクト、学び、現地の様子について話しました。</p>\n<ul>\n <li>devconnect <a href=\"https://devconnect.org/\">https://devconnect.org/</a></li>\n <li>Layer Two Amsterdam <a href=\"https://amsterdam.l2beat.com/\">https://amsterdam.l2beat.com/</a></li>\n <li>zkSummit <a href=\"https://www.zksummit.com/\">https://www.zksummit.com/</a></li>\n <li>mina <a href=\"https://minaprotocol.com/\">https://minaprotocol.com/</a></li>\n  <li>vaporwave <a href=\"https://en.wikipedia.org/wiki/Vaporwave\">https://en.wikipedia.org/wiki/Vaporwave</a></li>\n  <li>WORLDCOIN <a href=\"https://worldcoin.org/\">https://worldcoin.org/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/52-e1ho7b1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d8b482b8-329b-459f-8177-2515d19ec128"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 27 Apr 2022 18:58:09 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/51174177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F51174177%2Fc8e2006ad2bfb4788e0d30502528dbe1.m4a",
+        "@length": 27483920,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>アムステルダムで開催されたブロックチェーンカンファレンスDevconnectについて、面白かった技術、プロダクト、学び、現地の様子について話しました。</p>\n<ul>\n <li>devconnect <a href=\"https://devconnect.org/\">https://devconnect.org/</a></li>\n <li>Layer Two Amsterdam <a href=\"https://amsterdam.l2beat.com/\">https://amsterdam.l2beat.com/</a></li>\n <li>zkSummit <a href=\"https://www.zksummit.com/\">https://www.zksummit.com/</a></li>\n <li>mina <a href=\"https://minaprotocol.com/\">https://minaprotocol.com/</a></li>\n  <li>vaporwave <a href=\"https://en.wikipedia.org/wiki/Vaporwave\">https://en.wikipedia.org/wiki/Vaporwave</a></li>\n  <li>WORLDCOIN <a href=\"https://worldcoin.org/\">https://worldcoin.org/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:19",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "51. Amsterdamのカンファレンス、学生のキャリア相談、BigTechでの仕事",
+      "description": "<p>Amsterdamでのカンファレンスの話、日本滞在の感想、学生のキャリア相談、インフラフレームワークのディレクションを決めるための試みなどについて話しました。</p>\n<ul>\n <li>Amsterdam Devconnect <a href=\"https://devconnect.org/\">https://devconnect.org/</a></li>\n <li>Harmony <a href=\"https://www.harmony.one/\">https://www.harmony.one/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/51--AmsterdamBigTech-e1h7emu",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f53a743a-948f-42c2-a62e-56188c4bb1fe"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 15 Apr 2022 22:54:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/50624670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F50624670%2F1e2f0493b5328c404560f6919227caf4.m4a",
+        "@length": 27840316,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Amsterdamでのカンファレンスの話、日本滞在の感想、学生のキャリア相談、インフラフレームワークのディレクションを決めるための試みなどについて話しました。</p>\n<ul>\n <li>Amsterdam Devconnect <a href=\"https://devconnect.org/\">https://devconnect.org/</a></li>\n <li>Harmony <a href=\"https://www.harmony.one/\">https://www.harmony.one/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:41",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "50. 筋肉について（ゲスト：マンティ福原さん）",
+      "description": "<p>マンティ福原さん (<a href=\"https://twitter.com/manty_fukuhara\">https://twitter.com/manty_fukuhara</a>)をゲストに、筋肉について話しました。</p>\n<p>はなしたこと</p>\n<ul>\n <li>筋肉を鍛え始めた理由</li>\n <li>筋肉と大会</li>\n <li>オンライン筋肉コーチング</li>\n <li>筋肉を作るプロセスは実験に似ている</li>\n  <li>エンジニアリングと筋肉</li>\n  <li>ボディビルの視点で体重コントロールをする</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/50-e1g61jm",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "fcf1bc5a-e698-4f12-8994-dbb517749c7e"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 24 Mar 2022 06:30:28 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/49529910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F49529910%2Fbcc7b850de8c60dea6dba8a5576ac38c.m4a",
+        "@length": 79534835,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>マンティ福原さん (<a href=\"https://twitter.com/manty_fukuhara\">https://twitter.com/manty_fukuhara</a>)をゲストに、筋肉について話しました。</p>\n<p>はなしたこと</p>\n<ul>\n <li>筋肉を鍛え始めた理由</li>\n <li>筋肉と大会</li>\n <li>オンライン筋肉コーチング</li>\n <li>筋肉を作るプロセスは実験に似ている</li>\n  <li>エンジニアリングと筋肉</li>\n  <li>ボディビルの視点で体重コントロールをする</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:21:57",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "49. Amazonを10ヶ月でやめた人の話",
+      "description": "<p>アマゾンを10ヶ月でやめた人の記事をベースに大きいテックカンパニーで働くことについて話しました。</p>\n<ul>\n <li>I took a job at Amazon, only to leave after 10 months. <a href=\"https://benadam.me/thoughts/my-experience-at-amazon/\">https://benadam.me/thoughts/my-experience-at-amazon/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/49--Amazon10-e1fklkj",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "4f29cbf7-fc25-42e9-b1ca-ddd48981ea87"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 14 Mar 2022 07:43:56 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/48960595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F48960595%2F67c3baeb6950edf325abe2e946233a74.m4a",
+        "@length": 26950707,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>アマゾンを10ヶ月でやめた人の記事をベースに大きいテックカンパニーで働くことについて話しました。</p>\n<ul>\n <li>I took a job at Amazon, only to leave after 10 months. <a href=\"https://benadam.me/thoughts/my-experience-at-amazon/\">https://benadam.me/thoughts/my-experience-at-amazon/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episode": 49,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "48. ゼロ知識証明、SWEのキャリア、ハイブリッドワーク、ドーパミン(雑談回)",
+      "description": "<p>最近やっていることや面白かった本について話しました</p>\n<ul>\n <li>Zero-Knowledge University <a href=\"https://zku.one/\">https://zku.one/</a></li>\n <li>Dopamine Nation <a href=\"https://amzn.to/3sKGDiU\">https://amzn.to/3sKGDiU</a></li>\n <li>アマニタパンセリナ(中島らも) <a href=\"https://amzn.to/3Cd7Ca6\">https://amzn.to/3Cd7Ca6</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/48--SWE-e1f92fv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0e0ceead-8332-4c3e-861c-69e6c8cc4f21"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 05 Mar 2022 06:56:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/48580543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F48580543%2Ffcdf1bd83fd6e5f1021cb0074de3eac4.m4a",
+        "@length": 24291970,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>最近やっていることや面白かった本について話しました</p>\n<ul>\n <li>Zero-Knowledge University <a href=\"https://zku.one/\">https://zku.one/</a></li>\n <li>Dopamine Nation <a href=\"https://amzn.to/3sKGDiU\">https://amzn.to/3sKGDiU</a></li>\n <li>アマニタパンセリナ(中島らも) <a href=\"https://amzn.to/3Cd7Ca6\">https://amzn.to/3Cd7Ca6</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:01",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "47. テック業界で優れた書き手になるコツ",
+      "description": "<p>テック業界で働く人としてよりよい文章を書くコツについて話しました。</p>\n<ul>\n <li>Becoming a Better &nbsp;writer in tech <a href=\"https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/\">https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/</a></li>\n <li>Grammarly <a href=\"https://app.grammarly.com/\">https://app.grammarly.com/</a></li>\n <li>Hemingway Editor <a href=\"https://hemingwayapp.com/\">https://hemingwayapp.com/</a></li>\n <li><a href=\"https://developers.google.com/tech-writing\">Technical writing courses by Google</a></li>\n  <li><strong>The Elements of Style</strong> <a href=\"https://amzn.to/3Hzyp2b\">https://amzn.to/3Hzyp2b</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc. CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/47-e1e10tc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b0aa047c-520d-4aea-b041-0a8c72e0ca5f"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 06 Feb 2022 19:16:49 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/47268204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F47268204%2F227b6aab7d2778bd5982f6177bdec4b8.m4a",
+        "@length": 33631982,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>テック業界で働く人としてよりよい文章を書くコツについて話しました。</p>\n<ul>\n <li>Becoming a Better &nbsp;writer in tech <a href=\"https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/\">https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/</a></li>\n <li>Grammarly <a href=\"https://app.grammarly.com/\">https://app.grammarly.com/</a></li>\n <li>Hemingway Editor <a href=\"https://hemingwayapp.com/\">https://hemingwayapp.com/</a></li>\n <li><a href=\"https://developers.google.com/tech-writing\">Technical writing courses by Google</a></li>\n  <li><strong>The Elements of Style</strong> <a href=\"https://amzn.to/3Hzyp2b\">https://amzn.to/3Hzyp2b</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc. CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "46. 新年キャッチアップ(ワークフロムハワイの話)",
+      "description": "<p>Tomo多忙につき新年あけましてだいぶ経ってしまったので、雑談回をしました。</p>\n<ul>\n <li>長期間働くコツ</li>\n <li>ワークフロムハワイを支える技術</li>\n <li>日本滞在の話</li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc. CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/46-e1diqpo",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "42e7a79a-9900-4a11-8424-40024e658f83"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 29 Jan 2022 05:09:39 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/46803192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F46803192%2F9f07802fe76416b50dea328218e41417.m4a",
+        "@length": 29584123,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Tomo多忙につき新年あけましてだいぶ経ってしまったので、雑談回をしました。</p>\n<ul>\n <li>長期間働くコツ</li>\n <li>ワークフロムハワイを支える技術</li>\n <li>日本滞在の話</li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc. CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:29",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "45. Year end review 2021",
+      "description": "<p>2021年を振り返ってよく聴かれた回や自分たちの学びが多かった回について話しました。</p>\n<ul>\n <li>なんとなく元気がでない? それは languishing かもしれない <a href=\"https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic\">https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic</a></li>\n <li>新型コロナワクチンをリバースエンジニアリングする <a href=\"https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b\">https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b</a></li>\n <li>サーバレスアーキテクチャの過去、現在、そして未来 <a href=\"https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o\">https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o</a></li>\n <li>ベイエリア転職活動と、Amazonでの思い出（ゲスト：Ryoichi Katoさん）ryo1kato <a href=\"https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh\">https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh</a></li>\n  <li>仮想通貨のトレンド、SolanaとTakさん、非エンジニアが仮想通貨を学ぶまでの話（ゲスト：Takさん) <a href=\"https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8\">https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8</a></li>\n  <li>10X CTO石川さんと10X、開発組織、CTOの役割、個人の成長について <a href=\"https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp\">https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp</a></li>\n  <li>コミュニティ作り、失敗に対する考え方、人生をコントロールする秘訣 (ゲスト: 堤修一さん 前編) <a href=\"https://anchor.fm/todayilearnedfm/episodes/21-euarsh\">https://anchor.fm/todayilearnedfm/episodes/21-euarsh</a></li>\n  <li>シリコンバレーで働くエンジニアのキャリア論(Findy社イベント登壇回) <a href=\"https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9\">https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc. CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/45--Year-end-review-2021-e1c6egj",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5cc505e3-efa9-491b-a19d-3992cc6049ce"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 27 Dec 2021 03:14:22 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/45348819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-27%2Faa01e4ad436fce64cef668c414962194.m4a",
+        "@length": 41611958,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>2021年を振り返ってよく聴かれた回や自分たちの学びが多かった回について話しました。</p>\n<ul>\n <li>なんとなく元気がでない? それは languishing かもしれない <a href=\"https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic\">https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic</a></li>\n <li>新型コロナワクチンをリバースエンジニアリングする <a href=\"https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b\">https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b</a></li>\n <li>サーバレスアーキテクチャの過去、現在、そして未来 <a href=\"https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o\">https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o</a></li>\n <li>ベイエリア転職活動と、Amazonでの思い出（ゲスト：Ryoichi Katoさん）ryo1kato <a href=\"https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh\">https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh</a></li>\n  <li>仮想通貨のトレンド、SolanaとTakさん、非エンジニアが仮想通貨を学ぶまでの話（ゲスト：Takさん) <a href=\"https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8\">https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8</a></li>\n  <li>10X CTO石川さんと10X、開発組織、CTOの役割、個人の成長について <a href=\"https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp\">https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp</a></li>\n  <li>コミュニティ作り、失敗に対する考え方、人生をコントロールする秘訣 (ゲスト: 堤修一さん 前編) <a href=\"https://anchor.fm/todayilearnedfm/episodes/21-euarsh\">https://anchor.fm/todayilearnedfm/episodes/21-euarsh</a></li>\n  <li>シリコンバレーで働くエンジニアのキャリア論(Findy社イベント登壇回) <a href=\"https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9\">https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc. CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:42:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "44. 孤独と向き合う",
+      "description": "<p>今回はHow to Build a Happy LifeというポッドキャストからHow to know you're lonelyというタイトルのエピソードについて話しました。</p>\n<ul>\n <li>How to know you're lonely <a href=\"https://blockfi.com/\">https://pca.st/3wpb96wl</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a><a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&dl_branch=1\">&nbsp;</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/44-e1bpqh5",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ae5e60f6-7610-4558-9efa-38e56997aeb9"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 17 Dec 2021 04:10:23 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/44935141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-17%2F73e5c0198dd8c1b782418f2fb0cf0eab.m4a",
+        "@length": 29061113,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はHow to Build a Happy LifeというポッドキャストからHow to know you're lonelyというタイトルのエピソードについて話しました。</p>\n<ul>\n <li>How to know you're lonely <a href=\"https://blockfi.com/\">https://pca.st/3wpb96wl</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a><a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&amp;dl_branch=1\">&nbsp;</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episode": 44,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "43. NFTや暗号通貨の詐欺手法、ゼロ知識証明、金融と決済の未来",
+      "description": "<p>Takさん（<a href=\"https://twitter.com/TakDefi\">@TakDefi</a>, <a href=\"https://twitter.com/RealtyPnw\">@RealtyPnw</a>）と一緒に暗号通貨や期待する技術、金融と決済の未来について話しました。</p>\n<ul>\n <li>ホワイトペーパーどこ読む?</li>\n <li>暗号通貨やNFT詐欺の手法</li>\n <li>暗号通貨TITANで何が起きていたか</li>\n <li>ゼロ知識証明で何ができるか</li>\n  <li><a href=\"https://zksync.io/\" target=\"_blank\">https://zksync.io/</a></li>\n  <li>zkSnarkを説明した論文 <a href=\"http://petkus.info/papers/WhyAndHowZkSnarkWorks.pdf\" target=\"_blank\">http://petkus.info/papers/WhyAndHowZkSnarkWorks.pdf</a>&nbsp;</li>\n  <li>金融と決済の未来</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/43--NFT-e1agq5g",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "eaae299c-182a-4e67-a5ba-f83f5dd8a38e"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 19 Nov 2021 18:00:24 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/43591280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-19%2Fe38820ca75363781c4a41b3cc9f6706e.m4a",
+        "@length": 44380793,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Takさん（<a href=\"https://twitter.com/TakDefi\">@TakDefi</a>, <a href=\"https://twitter.com/RealtyPnw\">@RealtyPnw</a>）と一緒に暗号通貨や期待する技術、金融と決済の未来について話しました。</p>\n<ul>\n <li>ホワイトペーパーどこ読む?</li>\n <li>暗号通貨やNFT詐欺の手法</li>\n <li>暗号通貨TITANで何が起きていたか</li>\n <li>ゼロ知識証明で何ができるか</li>\n  <li><a href=\"https://zksync.io/\" target=\"_blank\">https://zksync.io/</a></li>\n  <li>zkSnarkを説明した論文 <a href=\"http://petkus.info/papers/WhyAndHowZkSnarkWorks.pdf\" target=\"_blank\">http://petkus.info/papers/WhyAndHowZkSnarkWorks.pdf</a>&nbsp;</li>\n  <li>金融と決済の未来</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:45:44",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "42. 仮想通貨のトレンド、SolanaとTakさん、非エンジニアが仮想通貨を学ぶまでの話（ゲスト：Takさん前編）",
+      "description": "<p>今回はTakさん（<a href=\"https://twitter.com/TakDefi\">@TakDefi</a>, <a href=\"https://twitter.com/RealtyPnw\">@RealtyPnw</a>）と一緒に仮想通貨について深掘りしました。</p>\n<ul>\n <li>仮想通貨周りのトレンド（エアドロ、NFT）</li>\n <li>Takさん、Imaiが仮想通貨に興味を持つまでの話</li>\n  <li>ブロックチェーン＋不動産業界への応用の可能性</li>\n  <li>非エンジニアとして仮想通貨を学ぶ話</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ff54636d-d1e1-48f1-b76a-713ae6c7fc71"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 12 Nov 2021 18:39:06 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/43222120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fb3221f42-1ef8-7b73-6ede-573e7edce270.mp3",
+        "@length": 37988064,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はTakさん（<a href=\"https://twitter.com/TakDefi\">@TakDefi</a>, <a href=\"https://twitter.com/RealtyPnw\">@RealtyPnw</a>）と一緒に仮想通貨について深掘りしました。</p>\n<ul>\n <li>仮想通貨周りのトレンド（エアドロ、NFT）</li>\n <li>Takさん、Imaiが仮想通貨に興味を持つまでの話</li>\n  <li>ブロックチェーン＋不動産業界への応用の可能性</li>\n  <li>非エンジニアとして仮想通貨を学ぶ話</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:51:40",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:season": 42,
+      "itunes:episode": 42,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "41. 暗号通貨への投資、NFTブーム後の世界の話",
+      "description": "<p>前回から引き続き、ブログに書けなかった投資観点からの暗号通貨の話、post NFTブームにブロックチェーンの世界で何が来るかの話をしました。暗号通貨投資の話は非専門家によるものなので、必ず自己責任で調査してください。</p>\n<ul>\n <li>blockfi <a href=\"https://blockfi.com/\">https://blockfi.com/</a></li>\n <li>curvefi <a href=\"http://curve.fi/\">curve.fi</a></li>\n <li>ape board <a href=\"https://apeboard.finance/\">https://apeboard.finance/</a></li>\n <li>the DAO <a href=\"https://en.wikipedia.org/wiki/The_DAO_(organization)\">https://en.wikipedia.org/wiki/The_DAO_(organization)</a>Friend with benefit <a href=\"https://www.fwb.help/\">https://www.fwb.help/</a></li>\n  <li>Developer DAO <a href=\"https://www.developerdao.com/\">https://www.developerdao.com/</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/41--NFT-e19jl8k",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2e792102-7820-4802-b5ba-844cfda45f2b"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 01 Nov 2021 06:38:18 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/42635988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-01%2F3cc28ce6d9c2f1ab88edce539418a313.m4a",
+        "@length": 35696986,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>前回から引き続き、ブログに書けなかった投資観点からの暗号通貨の話、post NFTブームにブロックチェーンの世界で何が来るかの話をしました。暗号通貨投資の話は非専門家によるものなので、必ず自己責任で調査してください。</p>\n<ul>\n <li>blockfi <a href=\"https://blockfi.com/\">https://blockfi.com/</a></li>\n <li>curvefi <a href=\"http://curve.fi/\">curve.fi</a></li>\n <li>ape board <a href=\"https://apeboard.finance/\">https://apeboard.finance/</a></li>\n <li>the DAO <a href=\"https://en.wikipedia.org/wiki/The_DAO_(organization)\">https://en.wikipedia.org/wiki/The_DAO_(organization)</a>Friend with benefit <a href=\"https://www.fwb.help/\">https://www.fwb.help/</a></li>\n  <li>Developer DAO <a href=\"https://www.developerdao.com/\">https://www.developerdao.com/</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:47",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "40. ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの学習記録 Q and A",
+      "description": "<p>今井さんが書いた「<a href=\"https://tomoima525.hatenablog.com/entry/2021/10/21/161644\">ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの学習記録</a>」という記事を元に疑問を聞いてみました。ブロックチェーンってトイプロダクトじゃないのか、エンジニア視点では何が見えるのか、エンジニアとしてどのような関わり方ができるのか、学習方などについて話をしました。</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/40---Solana--Q-and-A-e19cdh7",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "16681a7b-4fe3-4bd4-869f-dc8da063e6fe"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 27 Oct 2021 06:30:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/42398695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-27%2F4acfadd5-0738-8484-6b5e-c10574aa6d0c.mp3",
+        "@length": 33664728,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今井さんが書いた「<a href=\"https://tomoima525.hatenablog.com/entry/2021/10/21/161644\">ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの学習記録</a>」という記事を元に疑問を聞いてみました。ブロックチェーンってトイプロダクトじゃないのか、エンジニア視点では何が見えるのか、エンジニアとしてどのような関わり方ができるのか、学習方などについて話をしました。</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:09",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "39. 聴いているポッドキャスト、読んでるブログなどなど",
+      "description": "<p>よく聴いているポッドキャスト、読んでいるブログ、見ているショーなどについて話しました。</p>\n<ul>\n <li>Modern finance <a href=\"https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y\">https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y</a></li>\n <li>Stack overflow <a href=\"https://stackoverflow.blog/podcast/\">https://stackoverflow.blog/podcast/</a></li>\n  <li>serverless chat <a href=\"https://www.serverlesschats.com/\">https://www.serverlesschats.com/</a></li>\n  <li>Boz to the future <a href=\"https://open.spotify.com/show/24naBWv8LUimRNPtTETRft?si=iGfLbmRQSU2rF3OndgxRlg&dl_branch=1\">https://open.spotify.com/show/24naBWv8LUimRNPtTETRft?si=iGfLbmRQSU2rF3OndgxRlg&dl_branch=1</a>FB&nbsp;</li>\n  <li>Off topic <a href=\"https://offtopicjp.substack.com/\">https://offtopicjp.substack.com/</a></li>\n  <li>Secure Liason <a href=\"https://anchor.fm/secure-fm\">https://anchor.fm/secure-fm</a></li>\n  <li>Swift by Sundell <a href=\"https://www.swiftbysundell.com/podcast/\">https://www.swiftbysundell.com/podcast/</a></li>\n  <li>Chasing excellence <a href=\"https://podcasts.apple.com/us/podcast/chasing-excellence/id1170629044\">https://podcasts.apple.com/us/podcast/chasing-excellence/id1170629044</a></li>\n  <li>Huberman lab <a href=\"https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=9W6BIycbT7Kr0re__GE7ow&dl_branch=1\">https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=9W6BIycbT7Kr0re__GE7ow&dl_branch=1</a>:&nbsp;</li>\n  <li>The Bare Performance Podcast <a href=\"https://open.spotify.com/show/0FqNvRhcHYBtfxnmhDSt2r?si=ah7N3fYSRiSauow6ubPUkw&dl_branch=1\">https://open.spotify.com/show/0FqNvRhcHYBtfxnmhDSt2r?si=ah7N3fYSRiSauow6ubPUkw&dl_branch=1</a></li>\n  <li>The Tim Ferriss Show <a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&dl_branch=1\">https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&dl_branch=1</a></li>\n  <li><a href=\"http://daily.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">daily.dev</a> <a href=\"https://daily.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">https://daily.dev/</a></li>\n  <li>Squid Game <a href=\"https://www.netflix.com/title/81040344\">https://www.netflix.com/title/81040344</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a><a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&dl_branch=1\"><br>\n</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/39-e18n8ta",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "30bd5011-4732-4fae-8d4d-945b16438c58"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 13 Oct 2021 06:59:38 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/41705834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-13%2F79610373e81fb6ac58c05d338362a77f.m4a",
+        "@length": 38827351,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>よく聴いているポッドキャスト、読んでいるブログ、見ているショーなどについて話しました。</p>\n<ul>\n <li>Modern finance <a href=\"https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y\">https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y</a></li>\n <li>Stack overflow <a href=\"https://stackoverflow.blog/podcast/\">https://stackoverflow.blog/podcast/</a></li>\n  <li>serverless chat <a href=\"https://www.serverlesschats.com/\">https://www.serverlesschats.com/</a></li>\n  <li>Boz to the future <a href=\"https://open.spotify.com/show/24naBWv8LUimRNPtTETRft?si=iGfLbmRQSU2rF3OndgxRlg&amp;dl_branch=1\">https://open.spotify.com/show/24naBWv8LUimRNPtTETRft?si=iGfLbmRQSU2rF3OndgxRlg&amp;dl_branch=1</a>FB&nbsp;</li>\n  <li>Off topic <a href=\"https://offtopicjp.substack.com/\">https://offtopicjp.substack.com/</a></li>\n  <li>Secure Liason <a href=\"https://anchor.fm/secure-fm\">https://anchor.fm/secure-fm</a></li>\n  <li>Swift by Sundell <a href=\"https://www.swiftbysundell.com/podcast/\">https://www.swiftbysundell.com/podcast/</a></li>\n  <li>Chasing excellence <a href=\"https://podcasts.apple.com/us/podcast/chasing-excellence/id1170629044\">https://podcasts.apple.com/us/podcast/chasing-excellence/id1170629044</a></li>\n  <li>Huberman lab <a href=\"https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=9W6BIycbT7Kr0re__GE7ow&amp;dl_branch=1\">https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=9W6BIycbT7Kr0re__GE7ow&amp;dl_branch=1</a>:&nbsp;</li>\n  <li>The Bare Performance Podcast <a href=\"https://open.spotify.com/show/0FqNvRhcHYBtfxnmhDSt2r?si=ah7N3fYSRiSauow6ubPUkw&amp;dl_branch=1\">https://open.spotify.com/show/0FqNvRhcHYBtfxnmhDSt2r?si=ah7N3fYSRiSauow6ubPUkw&amp;dl_branch=1</a></li>\n  <li>The Tim Ferriss Show <a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&amp;dl_branch=1\">https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&amp;dl_branch=1</a></li>\n  <li><a href=\"http://daily.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">daily.dev</a> <a href=\"https://daily.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">https://daily.dev/</a></li>\n  <li>Squid Game <a href=\"https://www.netflix.com/title/81040344\">https://www.netflix.com/title/81040344</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a><a href=\"https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&amp;dl_branch=1\"><br>\n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "38. 開発組織の摩擦を乗り越える",
+      "description": "<p>Pushing through Frictionというプレゼンテーションを元に、開発チームにおける摩擦の気づき方、乗り越え方について話しました。</p>\n<ul>\n <li>Pushing through Friction <a href=\"https://blog.danielna.com/talks/pushing-through-friction/\">https://blog.danielna.com/talks/pushing-through-friction/</a></li>\n <li>Atsushi Sakaiさん <a href=\"https://twitter.com/_atsushisakai\">https://twitter.com/_atsushisakai</a>&nbsp;</li>\n <li>最高の脳で働く方法 <a href=\"https://amzn.to/3kScdaS\">https://amzn.to/3kScdaS</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/38-e181u2m",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "cb72b506-44be-43ac-9f89-b65c5ad9e0a6"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 29 Sep 2021 06:36:41 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/41006614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-29%2F66bf0b8ad118f1076d44f9b74a8243e6.m4a",
+        "@length": 39146143,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Pushing through Frictionというプレゼンテーションを元に、開発チームにおける摩擦の気づき方、乗り越え方について話しました。</p>\n<ul>\n <li>Pushing through Friction <a href=\"https://blog.danielna.com/talks/pushing-through-friction/\">https://blog.danielna.com/talks/pushing-through-friction/</a></li>\n <li>Atsushi Sakaiさん <a href=\"https://twitter.com/_atsushisakai\">https://twitter.com/_atsushisakai</a>&nbsp;</li>\n <li>最高の脳で働く方法 <a href=\"https://amzn.to/3kScdaS\">https://amzn.to/3kScdaS</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:20",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "37. Tsundokuは正義",
+      "description": "<p>とあるイタリア人ソフトウェアエンジニアの、Tsundokuに対する想いを書いたブログをもとに、積ん読している本やどうやって本を読んでいるかについて話しました。</p>\n<ul>\n <li>Tsundoku <a href=\"https://flaviocopes.com/tsundoku/\">https://flaviocopes.com/tsundoku/<br>\n</a></li>\n <li>オプションB <a href=\"https://amzn.to/2WQKMo8\">https://amzn.to/2WQKMo8</a></li>\n  <li>ピークパフォーマンス <a href=\"https://amzn.to/3BJZZGN\">https://amzn.to/3BJZZGN</a></li>\n  <li>王者の突破力 <a href=\"https://amzn.to/3n4g3yS\">https://amzn.to/3n4g3yS</a></li>\n  <li>ビジョナリー・カンパニー zero <a href=\"https://amzn.to/3DOxSrK\">https://amzn.to/3DOxSrK</a></li>\n  <li>Sovereign Individual <a href=\"https://amzn.to/3yNwzWv\">https://amzn.to/3yNwzWv</a></li>\n  <li>へうげもの <a href=\"https://amzn.to/3zXWtbd\">https://amzn.to/3zXWtbd</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/37--Tsundoku-e16utfb",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0927b72e-4649-4cce-8bc3-44f508feb135"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 08 Sep 2021 06:05:14 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/39859115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-08%2F473b2940e8a15d82a79db7acf98bceef.m4a",
+        "@length": 33804616,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>とあるイタリア人ソフトウェアエンジニアの、Tsundokuに対する想いを書いたブログをもとに、積ん読している本やどうやって本を読んでいるかについて話しました。</p>\n<ul>\n <li>Tsundoku <a href=\"https://flaviocopes.com/tsundoku/\">https://flaviocopes.com/tsundoku/<br>\n</a></li>\n <li>オプションB <a href=\"https://amzn.to/2WQKMo8\">https://amzn.to/2WQKMo8</a></li>\n  <li>ピークパフォーマンス <a href=\"https://amzn.to/3BJZZGN\">https://amzn.to/3BJZZGN</a></li>\n  <li>王者の突破力 <a href=\"https://amzn.to/3n4g3yS\">https://amzn.to/3n4g3yS</a></li>\n  <li>ビジョナリー・カンパニー zero <a href=\"https://amzn.to/3DOxSrK\">https://amzn.to/3DOxSrK</a></li>\n  <li>Sovereign Individual <a href=\"https://amzn.to/3yNwzWv\">https://amzn.to/3yNwzWv</a></li>\n  <li>へうげもの <a href=\"https://amzn.to/3zXWtbd\">https://amzn.to/3zXWtbd</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/9042928/9042928-1600111223236-34f672e0d1d01.jpg",
+        "#text": null
+      },
+      "itunes:season": 37,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "36. 偽名経済とはなにか?",
+      "description": "<p>匿名でも実名でもない、偽名性(pseudonymity)が仮想通貨市場において大きな役割を果たした話、これからの社会においてもたらす可能性やどう社会実装されるかについて話しました。</p>\n<ul>\n <li>Pseudonymous Economy <a href=\"https://www.youtube.com/watch?v=Dur918GqDIw\">https://www.youtube.com/watch?v=Dur918GqDIw</a> 2019 San Francisco BlockChain Week</li>\n <li>Balaji Srinivasan <a href=\"https://twitter.com/balajis\">https://twitter.com/balajis</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/36-e164o9d",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d05b1677-c2a8-4c8a-881a-0f749dff8c17"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 25 Aug 2021 06:43:02 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/39001837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-25%2F5cdab1078525a46284b504c2433f67c9.m4a",
+        "@length": 36274818,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>匿名でも実名でもない、偽名性(pseudonymity)が仮想通貨市場において大きな役割を果たした話、これからの社会においてもたらす可能性やどう社会実装されるかについて話しました。</p>\n<ul>\n <li>Pseudonymous Economy <a href=\"https://www.youtube.com/watch?v=Dur918GqDIw\">https://www.youtube.com/watch?v=Dur918GqDIw</a> 2019 San Francisco BlockChain Week</li>\n <li>Balaji Srinivasan <a href=\"https://twitter.com/balajis\">https://twitter.com/balajis</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:37:22",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "35. 趣味の資格と継続のための習慣の話（ゲスト：Ryoichi Katoさん後編）",
+      "description": "<p>資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、クレーンの話を筆頭に資格取得や、継続する習慣について話しました。</p>\n<p>はなしたこと</p>\n<ul>\n <li>なぜ資格取得に興味を持ったのか</li>\n <li>他分野の仕組みの本質を学ぶことがソフトウェアエンジニアリングにどう役立つのか</li>\n  <li>趣味の話と継続する話</li>\n  <li>精神的なエネルギーを保つための仕組みづくり</li>\n</ul>\n<p><br></p>\n<p>資格関連</p>\n<ul>\n  <li>クレーン・デリック運転士 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.exam.or.jp%2Fexmn%2FH_shokai206.htm&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.exam.or.jp/exmn/H_shokai206.htm</a></li>\n  <li>移動式クレーン運転士 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.exam.or.jp%2Fexmn%2FH_shokai232.htm&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.exam.or.jp/exmn/H_shokai232.htm</a> &nbsp;</li>\n  <li>電気通信主任技術者 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.shiken.dekyo.or.jp%2Fchief%2Fabout_chief.html&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.dekyo.or.jp/chief/about_chief.html</a></li>\n  <li>電気通信の工事担任者 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.shiken.dekyo.or.jp%2Fcharge%2Fabout_charge.html&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.dekyo.or.jp/charge/about_charge.html</a> &nbsp;</li>\n  <li>電気主任技術者 <a href=\"https://www.shiken.or.jp/chief.html\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.or.jp/chief.html</a> &nbsp;</li>\n  <li>第一級陸上特殊無線技士 <a href=\"https://www.nichimu.or.jp/denpa/shikaku/riku/index.html\" rel=\"nofollow noopener\" target=\"_blank\">https://www.nichimu.or.jp/denpa/shikaku/riku/index.html</a> &nbsp;</li>\n</ul>\n<p>参考</p>\n<ul>\n  <li>Scrum <a href=\"https://enterprisezine.jp/article/detail/4525\" rel=\"nofollow noopener\" target=\"_blank\">https://enterprisezine.jp/article/detail/4525</a>&nbsp;</li>\n  <li>カンバン <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fsolution.kke.co.jp%2Fadap%2Fnews%2F000976.html&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://solution.kke.co.jp/adap/news/000976.html</a> &nbsp;</li>\n  <li>「はじめてのGTD ストレスフリーの整理術」 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Famzn.to%2F3kfgqUb&h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://amzn.to/3kfgqUb</a>&nbsp;</li>\n  <li>Habit Hub <a href=\"https://apps.apple.com/us/app/habit-hub-routine-schedule/id1149192857\" rel=\"nofollow noopener\" target=\"_blank\">https://apps.apple.com/us/app/habit-hub-routine-schedule/id1149192857</a> Trello <a href=\"https://trello.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://trello.com/</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/35--Ryoichi-Kato-e167v3f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "7d4be62a-d63b-48fc-8f46-c78c745041d9"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 21 Aug 2021 06:39:48 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/39107119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-21%2Fa0bdfbca9025dacde04f2d078f7862d2.m4a",
+        "@length": 40098516,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、クレーンの話を筆頭に資格取得や、継続する習慣について話しました。</p>\n<p>はなしたこと</p>\n<ul>\n <li>なぜ資格取得に興味を持ったのか</li>\n <li>他分野の仕組みの本質を学ぶことがソフトウェアエンジニアリングにどう役立つのか</li>\n  <li>趣味の話と継続する話</li>\n  <li>精神的なエネルギーを保つための仕組みづくり</li>\n</ul>\n<p><br></p>\n<p>資格関連</p>\n<ul>\n  <li>クレーン・デリック運転士 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.exam.or.jp%2Fexmn%2FH_shokai206.htm&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.exam.or.jp/exmn/H_shokai206.htm</a></li>\n  <li>移動式クレーン運転士 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.exam.or.jp%2Fexmn%2FH_shokai232.htm&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.exam.or.jp/exmn/H_shokai232.htm</a> &nbsp;</li>\n  <li>電気通信主任技術者 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.shiken.dekyo.or.jp%2Fchief%2Fabout_chief.html&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.dekyo.or.jp/chief/about_chief.html</a></li>\n  <li>電気通信の工事担任者 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.shiken.dekyo.or.jp%2Fcharge%2Fabout_charge.html&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.dekyo.or.jp/charge/about_charge.html</a> &nbsp;</li>\n  <li>電気主任技術者 <a href=\"https://www.shiken.or.jp/chief.html\" rel=\"nofollow noopener\" target=\"_blank\">https://www.shiken.or.jp/chief.html</a> &nbsp;</li>\n  <li>第一級陸上特殊無線技士 <a href=\"https://www.nichimu.or.jp/denpa/shikaku/riku/index.html\" rel=\"nofollow noopener\" target=\"_blank\">https://www.nichimu.or.jp/denpa/shikaku/riku/index.html</a> &nbsp;</li>\n</ul>\n<p>参考</p>\n<ul>\n  <li>Scrum <a href=\"https://enterprisezine.jp/article/detail/4525\" rel=\"nofollow noopener\" target=\"_blank\">https://enterprisezine.jp/article/detail/4525</a>&nbsp;</li>\n  <li>カンバン <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Fsolution.kke.co.jp%2Fadap%2Fnews%2F000976.html&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://solution.kke.co.jp/adap/news/000976.html</a> &nbsp;</li>\n  <li>「はじめてのGTD ストレスフリーの整理術」 <a href=\"https://l.messenger.com/l.php?u=https%3A%2F%2Famzn.to%2F3kfgqUb&amp;h=AT0GQ-tVgoH6PqOnvKmHQJd74mkz7PwJq0jKMgXov9SD5WK9bMhoqC4g3xAb0AyhuySj6RIvF47PvyeNnugChS6zjpwXtHTzH7dHK8ESRx8mNUuK-BK00fZBBUkczZCSZXD9AIJdV7yoanPiuZkoZ5Qy\" rel=\"nofollow noopener\" target=\"_blank\">https://amzn.to/3kfgqUb</a>&nbsp;</li>\n  <li>Habit Hub <a href=\"https://apps.apple.com/us/app/habit-hub-routine-schedule/id1149192857\" rel=\"nofollow noopener\" target=\"_blank\">https://apps.apple.com/us/app/habit-hub-routine-schedule/id1149192857</a> Trello <a href=\"https://trello.com/\" rel=\"nofollow noopener\" target=\"_blank\">https://trello.com/</a></li>\n</ul>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:41:19",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "34. 「一億円の非常用発電機を守るか、壊すか」：複雑なシステムを支えるCapacity Planning（ゲスト：Ryoichi Katoさん中編）",
+      "description": "<p>ゲストのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、複雑なシステムを支えるCapacity Planningについてお話しました。</p>\n<p><br></p>\n<p>はなしたこと</p>\n<ul>\n <li>Amazonの検索エンジン（A9）でのカタログデータ検索とCapacity Planning</li>\n <li><a href=\"https://en.wikipedia.org/wiki/Queueing_theory\">Queueing Theory</a>とシステムのボトルネック</li>\n  <li><strong>一億円の非常用発電機を守るか、壊すか </strong><a href=\"https://perspectives.mvdirona.com/2017/04/at-scale-rare-events-arent-rare/\"><strong>by James Hamilton</strong></a></li>\n  <li>ザ・ゴール <a href=\"https://amzn.to/3CESl1C\">https://amzn.to/3CESl1C</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe<br>\n</li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/34--Capacity-PlanningRyoichi-Kato-e15g2ac",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "da1fe205-9a10-4702-b664-5445a39ebf8e"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 11 Aug 2021 21:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/38323980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-12%2F42f147ffa9a8cf8711bf8a747e36835c.m4a",
+        "@length": 33463766,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>ゲストのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、複雑なシステムを支えるCapacity Planningについてお話しました。</p>\n<p><br></p>\n<p>はなしたこと</p>\n<ul>\n <li>Amazonの検索エンジン（A9）でのカタログデータ検索とCapacity Planning</li>\n <li><a href=\"https://en.wikipedia.org/wiki/Queueing_theory\">Queueing Theory</a>とシステムのボトルネック</li>\n  <li><strong>一億円の非常用発電機を守るか、壊すか </strong><a href=\"https://perspectives.mvdirona.com/2017/04/at-scale-rare-events-arent-rare/\"><strong>by James Hamilton</strong></a></li>\n  <li>ザ・ゴール <a href=\"https://amzn.to/3CESl1C\">https://amzn.to/3CESl1C</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe<br>\n</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:29",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "33. ベイエリア転職活動と、Amazonでの思い出（ゲスト：Ryoichi Katoさん前編）",
+      "description": "<p>資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、転職活動やAmazonでのカンパニーカルチャーについて話しました。</p>\n<p><br></p>\n<p>はなしたこと</p>\n<ul>\n <li>コロナ時代ベイエリアでの転職活動</li>\n <li>Amazonグループ内での社内転職について</li>\n <li>大企業病を防ぐカンパニーカルチャー。意思決定ツールとしての<a href=\"https://www.aboutamazon.com/about-us/leadership-principles\">Our Leadership Principle</a></li>\n <li>ドキュメンテーション文化について</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai &nbsp;&nbsp;&nbsp;</li>\n <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>\n<p><br></p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e6f75b5f-c0cb-46fa-921d-0970fb5ae6a2"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 07 Aug 2021 17:49:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/38323153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-07%2F22c21e964aff18ad27e34e9c3b3fc358.m4a",
+        "@length": 42883687,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (<a href=\"https://twitter.com/ryo1kato\">https://twitter.com/ryo1kato</a>)をゲストに、転職活動やAmazonでのカンパニーカルチャーについて話しました。</p>\n<p><br></p>\n<p>はなしたこと</p>\n<ul>\n <li>コロナ時代ベイエリアでの転職活動</li>\n <li>Amazonグループ内での社内転職について</li>\n <li>大企業病を防ぐカンパニーカルチャー。意思決定ツールとしての<a href=\"https://www.aboutamazon.com/about-us/leadership-principles\">Our Leadership Principle</a></li>\n <li>ドキュメンテーション文化について</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO https://twitter.com/tomoaki_imai &nbsp;&nbsp;&nbsp;</li>\n <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:44:11",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 33,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "32. シリコンバレーで働くエンジニアのキャリア論(Findy社イベント登壇回)",
+      "description": "<p>今回はシリコンバレーで働くエンジニアのキャリア論というテーマでFindy社のイベントにゆうすけさんといまいが登壇した内容を編集したものをお送りします。</p>\n<ul>\n <li>海外移住までの経緯/どうチャンスをつかんだか</li>\n <li>海外で働く上で技術力と英語力はどう重要だったか(11:00頃)</li>\n <li>海外の優れたエンジニアや仕事の現場で学んだこと(23:00頃)</li>\n <li>今後のキャリアの方向性(33:00頃)</li>\n  <li>Q&A(40:00頃)</li>\n</ul>\n<p>イベント <a href=\"https://findy.connpass.com/event/217498/\">https://findy.connpass.com/event/217498/</a></p>\n<p>Findy <a href=\"https://findy-code.io/\">https://findy-code.io/</a></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>\n<p><br></p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "22397908-64cf-4602-bfa3-a4776b413003"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 15 Jul 2021 17:42:18 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/37292105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F4132f308-be7c-1b50-4285-fcadf54221b3.mp3",
+        "@length": 23449016,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はシリコンバレーで働くエンジニアのキャリア論というテーマでFindy社のイベントにゆうすけさんといまいが登壇した内容を編集したものをお送りします。</p>\n<ul>\n <li>海外移住までの経緯/どうチャンスをつかんだか</li>\n <li>海外で働く上で技術力と英語力はどう重要だったか(11:00頃)</li>\n <li>海外の優れたエンジニアや仕事の現場で学んだこと(23:00頃)</li>\n <li>今後のキャリアの方向性(33:00頃)</li>\n  <li>Q&amp;A(40:00頃)</li>\n</ul>\n<p>イベント <a href=\"https://findy.connpass.com/event/217498/\">https://findy.connpass.com/event/217498/</a></p>\n<p>Findy <a href=\"https://findy-code.io/\">https://findy-code.io/</a></p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:52:54",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "31. 解決力に優れた開発者のググり方",
+      "description": "<p>Information foraging – the tactics great developers use to find solutions(優れた開発者の解決方法を見つける戦略)というポッドキャストの内容をもとに情報探索するためのコツについて話しました。</p>\n<ul>\n <li>ポッドキャスト <a href=\"https://stackoverflow.blog/2021/06/15/podcast-347-information-foraging-the-tactics-great-developers-use-to-find-solutions/\">https://stackoverflow.blog/2021/06/15/podcast-347-information-foraging-the-tactics-great-developers-use-to-find-solutions/</a></li>\n <li>情報採集理論に関するブログ <a href=\"http://web.eecs.utk.edu/~azh/blog/informationforaging.html\" rel=\"noopener noreferrer\" target=\"_blank\">http://web.eecs.utk.edu/~azh/blog/informationforaging.html</a></li>\n  <li>シリコンバレーで働くエンジニアのキャリア論(7/13)開催 <a href=\"https://findy.connpass.com/event/217498/\">https://findy.connpass.com/event/217498/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/31-e144400",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "455fca2f-a21a-4789-9ca2-5b96aa4ac88a"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 08 Jul 2021 06:29:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/36883904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-8%2Fea20cad4-8aab-eacf-e7bb-64cb2fdfbf0f.mp3",
+        "@length": 18654548,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Information foraging – the tactics great developers use to find solutions(優れた開発者の解決方法を見つける戦略)というポッドキャストの内容をもとに情報探索するためのコツについて話しました。</p>\n<ul>\n <li>ポッドキャスト <a href=\"https://stackoverflow.blog/2021/06/15/podcast-347-information-foraging-the-tactics-great-developers-use-to-find-solutions/\">https://stackoverflow.blog/2021/06/15/podcast-347-information-foraging-the-tactics-great-developers-use-to-find-solutions/</a></li>\n <li>情報採集理論に関するブログ <a href=\"http://web.eecs.utk.edu/~azh/blog/informationforaging.html\" rel=\"noopener noreferrer\" target=\"_blank\">http://web.eecs.utk.edu/~azh/blog/informationforaging.html</a></li>\n  <li>シリコンバレーで働くエンジニアのキャリア論(7/13)開催 <a href=\"https://findy.connpass.com/event/217498/\">https://findy.connpass.com/event/217498/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:08",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "30. 米国CS大学院受験と大学院生活について（ゲスト：カロリーナさん後編）",
+      "description": "<p>カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、後編はコンピュータサイエンス大学院一年目の経験について話しました。全てがオンラインの中でも友達を作り、前向きに生活を楽しんでいる姿から学ぶものが多かったです。「難しく考えずやってみる」につきるとおもいます。</p>\n<p><a href=\"https://twitter.com/carolina_qwerty\">https://twitter.com/carolina_qwerty</a></p>\n<p>はなしたこと</p>\n<ul>\n <li>博士課程一年目の研究と授業のバランス</li>\n <li>CS博士課程での授業と難易度</li>\n  <li>オンラインで同級生の友達を作る方法</li>\n  <li>オンライン時代の働き方</li>\n  <li>アメリカの博士課程で給料を貰う話</li>\n  <li>最初の一年で楽しかったこと<br>\n</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai &nbsp; &nbsp;<br>\n</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/30--CS-e134kja",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "62547967-4100-4ec7-837a-8241a8db398a"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 29 Jun 2021 22:59:06 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/35852330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-29%2F8ad33fa8-48d7-396d-06e7-9271234340ba.mp3",
+        "@length": 22288190,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、後編はコンピュータサイエンス大学院一年目の経験について話しました。全てがオンラインの中でも友達を作り、前向きに生活を楽しんでいる姿から学ぶものが多かったです。「難しく考えずやってみる」につきるとおもいます。</p>\n<p><a href=\"https://twitter.com/carolina_qwerty\">https://twitter.com/carolina_qwerty</a></p>\n<p>はなしたこと</p>\n<ul>\n <li>博士課程一年目の研究と授業のバランス</li>\n <li>CS博士課程での授業と難易度</li>\n  <li>オンラインで同級生の友達を作る方法</li>\n  <li>オンライン時代の働き方</li>\n  <li>アメリカの博士課程で給料を貰う話</li>\n  <li>最初の一年で楽しかったこと<br>\n</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai &nbsp; &nbsp;<br>\n</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:09",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 30,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "29. 米国コンピュータサイエンス大学院受験と大学院生活について（ゲスト：カロリーナさん前編）",
+      "description": "<p>カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、前編となる今回はコンピュータサイエンス大学院受験準備について話しました。留学や大学院受験に関して難しく考えすぎず挑戦してみることの大切さを学びました。どんな人でも挑戦できる道なんですね。</p>\n<p><a href=\"https://twitter.com/carolina_qwerty\">https://twitter.com/carolina_qwerty</a></p>\n<p>はなしたこと</p>\n<ul>\n <li>History Diversity Statement<br>\n</li>\n <li>SoP<br>\n</li>\n  <li>学部から直接博士課程に行くことについて<br>\n</li>\n  <li>研究室選び、訪問するまで<br>\n</li>\n  <li>GPA<br>\n</li>\n  <li>GRE（数学、英語）<br>\n</li>\n  <li>TOEFL<br>\n</li>\n  <li>大学院受験をしたい今井さんへのアドバイス<br>\n</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai &nbsp;<br>\n</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/29-e134g06",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "3170fdbc-5fb3-4b2b-abb7-00b30c7095f5"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 20 Jun 2021 18:24:50 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/35847622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-29%2F16fbeab453d70213b9dde225436340d8.m4a",
+        "@length": 39277521,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、前編となる今回はコンピュータサイエンス大学院受験準備について話しました。留学や大学院受験に関して難しく考えすぎず挑戦してみることの大切さを学びました。どんな人でも挑戦できる道なんですね。</p>\n<p><a href=\"https://twitter.com/carolina_qwerty\">https://twitter.com/carolina_qwerty</a></p>\n<p>はなしたこと</p>\n<ul>\n <li>History Diversity Statement<br>\n</li>\n <li>SoP<br>\n</li>\n  <li>学部から直接博士課程に行くことについて<br>\n</li>\n  <li>研究室選び、訪問するまで<br>\n</li>\n  <li>GPA<br>\n</li>\n  <li>GRE（数学、英語）<br>\n</li>\n  <li>TOEFL<br>\n</li>\n  <li>大学院受験をしたい今井さんへのアドバイス<br>\n</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai &nbsp;<br>\n</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:28",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 29,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "28. なんとなく元気がでない? それは languishing かもしれない",
+      "description": "<p>There’s a Name for the Blah You’re Feeling: It’s Called Languishing というNew York times の記事を元に、languishingへの対処方法やチームメンバーが languishingな状態に陥ったときにどうすればよいかということについて話しました。</p>\n<ul>\n <li><a href=\"https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html\">https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html</a></li>\n <li>Deep Work 大事なことに集中する <a href=\"https://amzn.to/2TuOxOz\">https://amzn.to/2TuOxOz</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5b827b33-bf5f-46ec-9ab1-c99d5f940593"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 16 Jun 2021 04:02:50 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/35496972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-15%2F6d49e358-9d5d-730f-4b9c-ee7d7ebcaa50.mp3",
+        "@length": 21678092,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>There’s a Name for the Blah You’re Feeling: It’s Called Languishing というNew York times の記事を元に、languishingへの対処方法やチームメンバーが languishingな状態に陥ったときにどうすればよいかということについて話しました。</p>\n<ul>\n <li><a href=\"https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html\">https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html</a></li>\n <li>Deep Work 大事なことに集中する <a href=\"https://amzn.to/2TuOxOz\">https://amzn.to/2TuOxOz</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:07",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "27. コードレビューでどこを見るべきか",
+      "description": "<p>3つのブログ記事を元に、良いコードレビューや悪いコードレビュー、どうやってレビューしているか、レビューでよく指摘されちゃうことなどについて話ました。</p>\n<ul>\n <li><a href=\"https://blog.jetbrains.com/upsource/2015/07/23/what-to-look-for-in-a-code-review/\">What to look for in a Code Review | The Upsource Blog</a> (JetBrain)</li>\n <li><a href=\"https://google.github.io/eng-practices/review/reviewer/looking-for.html\">What to look for in a code review</a> (Google)</li>\n <li><a href=\"https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/\">https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/</a> (Stack Over Flow)</li>\n <li>Square社のオープンソースで見かけた良いレビュー <a href=\"https://github.com/square/wire/pull/700\">https://github.com/square/wire/pull/700</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/27-e11rb9t",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1b704284-ac47-4cb4-906e-4a45d7bc2c8c"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 31 May 2021 22:27:21 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/34499325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-30%2Fcddf232f-82c5-ae27-50d3-540550143d0e.mp3",
+        "@length": 23358838,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>3つのブログ記事を元に、良いコードレビューや悪いコードレビュー、どうやってレビューしているか、レビューでよく指摘されちゃうことなどについて話ました。</p>\n<ul>\n <li><a href=\"https://blog.jetbrains.com/upsource/2015/07/23/what-to-look-for-in-a-code-review/\">What to look for in a Code Review | The Upsource Blog</a> (JetBrain)</li>\n <li><a href=\"https://google.github.io/eng-practices/review/reviewer/looking-for.html\">What to look for in a code review</a> (Google)</li>\n <li><a href=\"https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/\">https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/</a> (Stack Over Flow)</li>\n <li>Square社のオープンソースで見かけた良いレビュー <a href=\"https://github.com/square/wire/pull/700\">https://github.com/square/wire/pull/700</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO &nbsp;<a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 27,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "26. Chomp CTO Tomoaki Imaiができるまで",
+      "description": "<p>今回は今井さんがゲストになりユウスケが気になっていることを聞きました。メルカリでのアメリカ進出、出産を含めたアメリカでの生活の話、ChompのCTOとしての話などを聞きました。<a href=\"https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0\"><br>\n</a></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai<br>\n</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/26--Chomp-CTO-Tomoaki-Imai-e11dc56",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5a3fed28-4bfb-4bf3-9bc3-fd5016dc5836"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 23 May 2021 05:59:30 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/34041446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-23%2Fb5555322-a289-2144-823f-f4da8e2f72ec.mp3",
+        "@length": 18668184,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は今井さんがゲストになりユウスケが気になっていることを聞きました。メルカリでのアメリカ進出、出産を含めたアメリカでの生活の話、ChompのCTOとしての話などを聞きました。<a href=\"https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0\"><br>\n</a></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai<br>\n</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:28",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "25. サーバレスアーキテクチャの過去、現在、そして未来",
+      "description": "<p>今回はThe Past, Present, and Future of Serverless with Tim というポッドキャストをもとに、AWS Lamdbaを中心としたサーバレスアーキテクチャのこれまで、これからと現場での開発体験について話しました。</p>\n<ul>\n <li>The Past, Present, and Future of Serverless with Tim Wagner　<a href=\"https://www.serverlesschats.com/52/\">https://www.serverlesschats.com/52/</a>&nbsp;</li>\n <li>Lego <a href=\"https://medium.com/lego-engineering\">https://medium.com/lego-engineering</a></li>\n  <li>AWS Lambda <a href=\"https://aws.amazon.com/lambda/\">https://aws.amazon.com/lambda/</a></li>\n  <li>AWS Appsync <a href=\"https://aws.amazon.com/appsync/\">https://aws.amazon.com/appsync/</a></li>\n  <li>Provisioned Concurrancy - ポッドキャスト内でTomoが名前を思い出せなかった、Lambda Functionを初期化した状態にできる機能 <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html#configuration-concurrency-provisioned\">https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html#configuration-concurrency-provisioned</a><a href=\"https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/\">https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/</a></li>\n  <li>Tim's wish list <a href=\"https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0\">https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8c0a22c0-b80d-4921-90a0-9bf0cee4fb81"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 13 May 2021 04:23:41 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/33394264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-13%2F41818735-b8f1-f750-a10b-9b0db65136b4.mp3",
+        "@length": 42349545,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はThe Past, Present, and Future of Serverless with Tim というポッドキャストをもとに、AWS Lamdbaを中心としたサーバレスアーキテクチャのこれまで、これからと現場での開発体験について話しました。</p>\n<ul>\n <li>The Past, Present, and Future of Serverless with Tim Wagner　<a href=\"https://www.serverlesschats.com/52/\">https://www.serverlesschats.com/52/</a>&nbsp;</li>\n <li>Lego <a href=\"https://medium.com/lego-engineering\">https://medium.com/lego-engineering</a></li>\n  <li>AWS Lambda <a href=\"https://aws.amazon.com/lambda/\">https://aws.amazon.com/lambda/</a></li>\n  <li>AWS Appsync <a href=\"https://aws.amazon.com/appsync/\">https://aws.amazon.com/appsync/</a></li>\n  <li>Provisioned Concurrancy - ポッドキャスト内でTomoが名前を思い出せなかった、Lambda Functionを初期化した状態にできる機能 <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html#configuration-concurrency-provisioned\">https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html#configuration-concurrency-provisioned</a><a href=\"https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/\">https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/</a></li>\n  <li>Tim's wish list <a href=\"https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0\">https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:01:43",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "24. 10X CTO石川さんと10Xを支える技術の話",
+      "description": "<p>株式会社10X CTOの石川さんをゲストに、10Xで使われているDart, Flutter, Kubernetesなどの技術について話しました。</p>\n<ul>\n <li><a href=\"https://twitter.com/_ishkawa\">https://twitter.com/_ishkawa</a></li>\n <li>Stailer <a href=\"https://stailer.jp/\">https://stailer.jp/</a></li>\n  <li>Flutter for web <a href=\"https://flutter.dev/web\">https://flutter.dev/web</a></li>\n  <li><a href=\"http://10x.fm/\">10X.fm</a> <a href=\"https://podcasts.apple.com/jp/podcast/10x-fm/id1562020110\">https://podcasts.apple.com/jp/podcast/10x-fm/id1562020110</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/24--10X-CTO10X-evassp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "171c1e21-e7d4-4dc2-9c1d-4cf82d73f998"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 27 Apr 2021 04:03:21 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/31863129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-21%2Fd703d1d7-5d91-3ae0-4b34-5ec3e4a70c72.mp3",
+        "@length": 20636451,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>株式会社10X CTOの石川さんをゲストに、10Xで使われているDart, Flutter, Kubernetesなどの技術について話しました。</p>\n<ul>\n <li><a href=\"https://twitter.com/_ishkawa\">https://twitter.com/_ishkawa</a></li>\n <li>Stailer <a href=\"https://stailer.jp/\">https://stailer.jp/</a></li>\n  <li>Flutter for web <a href=\"https://flutter.dev/web\">https://flutter.dev/web</a></li>\n  <li><a href=\"http://10x.fm/\">10X.fm</a> <a href=\"https://podcasts.apple.com/jp/podcast/10x-fm/id1562020110\">https://podcasts.apple.com/jp/podcast/10x-fm/id1562020110</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:28",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "23. 10X CTO石川さんと10X、開発組織、CTOの役割、個人の成長について",
+      "description": "<p>株式会社10X CTOの石川さんをゲストに、10Xの開発組織やワークフロー、CTOとしての取り組み、マルチプレイヤーになるための心構えなどについて話しました。</p>\n<ul>\n <li><a href=\"https://twitter.com/_ishkawa\">https://twitter.com/_ishkawa</a></li>\n <li>Stailer <a href=\"https://stailer.jp/\">https://stailer.jp/</a></li>\n <li>堤さんYoutubeチャンネル <a href=\"https://www.youtube.com/watch?v=hOeWBIKIaj0\">https://www.youtube.com/watch?v=hOeWBIKIaj0</a></li>\n <li>「10Xを支える技術」の実態はどうなっている？エンジニア6名が明かした#10XTopicレポート <a href=\"https://10x.co.jp/articles/posts/?id=2020-12-18\">https://10x.co.jp/articles/posts/?id=2020-12-18</a></li>\n  <li>Dart 選定の話 <a href=\"https://10x.co.jp/articles/posts/?id=2020-06-22\">https://10x.co.jp/articles/posts/?id=2020-06-22</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9acd8b16-1e50-4650-bf94-24351be12bb6"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 21 Apr 2021 06:34:45 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/31863033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-21%2F7c3ea9ad-349d-de91-6722-3259baf4c93f.mp3",
+        "@length": 46102080,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>株式会社10X CTOの石川さんをゲストに、10Xの開発組織やワークフロー、CTOとしての取り組み、マルチプレイヤーになるための心構えなどについて話しました。</p>\n<ul>\n <li><a href=\"https://twitter.com/_ishkawa\">https://twitter.com/_ishkawa</a></li>\n <li>Stailer <a href=\"https://stailer.jp/\">https://stailer.jp/</a></li>\n <li>堤さんYoutubeチャンネル <a href=\"https://www.youtube.com/watch?v=hOeWBIKIaj0\">https://www.youtube.com/watch?v=hOeWBIKIaj0</a></li>\n <li>「10Xを支える技術」の実態はどうなっている？エンジニア6名が明かした#10XTopicレポート <a href=\"https://10x.co.jp/articles/posts/?id=2020-12-18\">https://10x.co.jp/articles/posts/?id=2020-12-18</a></li>\n  <li>Dart 選定の話 <a href=\"https://10x.co.jp/articles/posts/?id=2020-06-22\">https://10x.co.jp/articles/posts/?id=2020-06-22</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:59:34",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "22. 人生をコントロールする、情報発信を続けること、エンジニアとしてのチャレンジ(ゲスト: 堤修一さん後編)",
+      "description": "<p>iOSエンジニアの堤さんをゲストに、人生をコントロールするために身につけたこと、情報を発信することの意義について話しました。</p>\n<p>話したこと:</p>\n<ul>\n <li>自分の人生をコントロールできるようになったきっかけ</li>\n <li>情報発信を続ける理由</li>\n  <li>情報発信メディア選びについて</li>\n  <li>フリーランスエンジニアとしてこれからのチャレンジ</li>\n</ul>\n<p>リンク:</p>\n<ul>\n  <li><a href=\"https://www.notion.so/e26a609059c542afbed87f341dd48d50?v=d3c008f219c742879c21e746f7c7ed81&p=1f542cb863564ba0b47937c609bd22c2\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/shu223</a></li>\n  <li>技術への全振りを緩めて新領域に挑戦 <a href=\"https://shu223.hatenablog.com/entry/2021/01/05/153015\" rel=\"noopener noreferrer\" target=\"_blank\">https://shu223.hatenablog.com/entry/2021/01/05/153015</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/22-euno6o",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "76108b20-f6f6-4495-a297-56ab6d64cf79"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 12 Apr 2021 05:05:26 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/31235736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-12%2F66df960d-2f61-519e-6ad6-88cb38041d43.mp3",
+        "@length": 19802129,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>iOSエンジニアの堤さんをゲストに、人生をコントロールするために身につけたこと、情報を発信することの意義について話しました。</p>\n<p>話したこと:</p>\n<ul>\n <li>自分の人生をコントロールできるようになったきっかけ</li>\n <li>情報発信を続ける理由</li>\n  <li>情報発信メディア選びについて</li>\n  <li>フリーランスエンジニアとしてこれからのチャレンジ</li>\n</ul>\n<p>リンク:</p>\n<ul>\n  <li><a href=\"https://www.notion.so/e26a609059c542afbed87f341dd48d50?v=d3c008f219c742879c21e746f7c7ed81&amp;p=1f542cb863564ba0b47937c609bd22c2\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/shu223</a></li>\n  <li>技術への全振りを緩めて新領域に挑戦 <a href=\"https://shu223.hatenablog.com/entry/2021/01/05/153015\" rel=\"noopener noreferrer\" target=\"_blank\">https://shu223.hatenablog.com/entry/2021/01/05/153015</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:43:58",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "21. コミュニティ作り、失敗に対する考え方、人生をコントロールする秘訣 (ゲスト: 堤修一さん 前編)",
+      "description": "<p>iOSエンジニアの堤さんをゲストに、前編となる今回はコミュニティを作ることや失敗に対する考え方などについて話しました。</p>\n<p><a href=\"//\">https://twitter.com/shu223</a></p>\n<p># はなしたこと</p>\n<p>- エンジニアと人生コミュニティ <a href=\"https://community.camp-fire.jp/projects/view/280040\">https://community.camp-fire.jp/projects/view/280040</a></p>\n<p>&nbsp;&nbsp;- コミュニティを始めたきっかけ</p>\n<p>&nbsp;&nbsp;- 自分の人生をコントロールするための情報発信</p>\n<p>&nbsp;&nbsp;- ビジネスも人生もグロースさせる　コミュニティマーケティング <a href=\"https://amzn.to/2Q0IeAx\">https://amzn.to/2Q0IeAx</a></p>\n<p>- 失敗に対する考え方、新しいことにチャレンジできる秘訣</p>\n<p><br></p>\n<p>&nbsp;Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>\n<p><br></p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/21-euarsh",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0b3ce20a-3cc1-4b56-ad5d-efbf4085fd6a"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 06 Apr 2021 22:16:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/30813521/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-06%2Fa94326296a373898e5df7ab79179e572.m4a",
+        "@length": 38135910,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>iOSエンジニアの堤さんをゲストに、前編となる今回はコミュニティを作ることや失敗に対する考え方などについて話しました。</p>\n<p><a href=\"//\">https://twitter.com/shu223</a></p>\n<p># はなしたこと</p>\n<p>- エンジニアと人生コミュニティ <a href=\"https://community.camp-fire.jp/projects/view/280040\">https://community.camp-fire.jp/projects/view/280040</a></p>\n<p>&nbsp;&nbsp;- コミュニティを始めたきっかけ</p>\n<p>&nbsp;&nbsp;- 自分の人生をコントロールするための情報発信</p>\n<p>&nbsp;&nbsp;- ビジネスも人生もグロースさせる　コミュニティマーケティング <a href=\"https://amzn.to/2Q0IeAx\">https://amzn.to/2Q0IeAx</a></p>\n<p>- 失敗に対する考え方、新しいことにチャレンジできる秘訣</p>\n<p><br></p>\n<p>&nbsp;Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:39:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "20. Git rebaseをなぜやめるべきなのか",
+      "description": "<p>Why you should stop using Git rebaseという記事を元に、Gitでのrebaseやmergeについて話しました。本編は11分23秒からです。</p>\n<ul>\n <li>元記事: <a href=\"https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1\">https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1</a></li>\n <li>ChompでのPull Request のサンプル: <a href=\"https://twitter.com/tomoaki_imai/status/1371019530948931584\">https://twitter.com/tomoaki_imai/status/1371019530948931584</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://chomp.app/ https://twitter.com/tomoaki_imai<br>\n</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe<br>\n</li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/20--Git-rebase-eu0hs4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "41997851-0d76-42c2-a7bf-3fa1e8e8e406"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 01 Apr 2021 06:32:43 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/30475588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-1%2F8768c82a-5118-a0a5-c58f-29294c53774c.mp3",
+        "@length": 26267101,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Why you should stop using Git rebaseという記事を元に、Gitでのrebaseやmergeについて話しました。本編は11分23秒からです。</p>\n<ul>\n <li>元記事: <a href=\"https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1\">https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1</a></li>\n <li>ChompでのPull Request のサンプル: <a href=\"https://twitter.com/tomoaki_imai/status/1371019530948931584\">https://twitter.com/tomoaki_imai/status/1371019530948931584</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://chomp.app/ https://twitter.com/tomoaki_imai<br>\n</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe<br>\n</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:12",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "19. コードレビューで重箱の隅をつつくのをやめよう",
+      "description": "<p>Stop Nitpicking in Code Reviewsという記事を元に、コードレビューやその改善方法にについて話しました。本編は19分52秒からです。</p>\n<ul>\n <li>Stop Nitpicking in Code Reviews: <a href=\"https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/\" rel=\"noopener noreferrer\" target=\"_blank\">https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/</a></li>\n <li>The LOGAF Scale: <a href=\"https://blog.danlew.net/2020/04/15/the-logaf-scale/\" rel=\"noopener noreferrer\" target=\"_blank\">https://blog.danlew.net/2020/04/15/the-logaf-scale/</a></li>\n <li>CrossFit games <a href=\"https://games.crossfit.com/workouts/open/2021\">https://games.crossfit.com/workouts/open/2021</a></li>\n <li>レガシーコード改善ガイド <a href=\"https://amzn.to/3qKta6O\">https://amzn.to/3qKta6O</a>&nbsp;</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://chomp.app/ https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/19-esgrh1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6a0d82f5-dc39-4ce3-b791-f6d957ae007f"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 14 Mar 2021 07:06:01 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/28912609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-14%2F71157e05-ddac-8179-2da6-599efb1f3c00.mp3",
+        "@length": 55887554,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Stop Nitpicking in Code Reviewsという記事を元に、コードレビューやその改善方法にについて話しました。本編は19分52秒からです。</p>\n<ul>\n <li>Stop Nitpicking in Code Reviews: <a href=\"https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/\" rel=\"noopener noreferrer\" target=\"_blank\">https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/</a></li>\n <li>The LOGAF Scale: <a href=\"https://blog.danlew.net/2020/04/15/the-logaf-scale/\" rel=\"noopener noreferrer\" target=\"_blank\">https://blog.danlew.net/2020/04/15/the-logaf-scale/</a></li>\n <li>CrossFit games <a href=\"https://games.crossfit.com/workouts/open/2021\">https://games.crossfit.com/workouts/open/2021</a></li>\n <li>レガシーコード改善ガイド <a href=\"https://amzn.to/3qKta6O\">https://amzn.to/3qKta6O</a>&nbsp;</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO https://chomp.app/ https://twitter.com/tomoaki_imai</li>\n  <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:46:34",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 19,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "18. ベイエリアに住むということ、個人開発におけるプロダクトの発想方法 (ゲスト:スマートニュース梅林さん後編)",
+      "description": "<p>スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。後編となる今回はベイエリアに住むということ、個人開発におけるプロダクトの発想方法、自分の会社をもったときの採用試験について話しました。</p>\n<ul>\n <li><a href=\"https://www.smartnews.com/\">https://www.smartnews.com</a></li>\n <li><a href=\"https://slamdunk.fandom.com/wiki/Ryuji_Yazawa\">https://slamdunk.fandom.com/wiki/Ryuji_Yazawa</a></li>\n  <li><a href=\"https://martinfowler.com/bliki/AlphaGeek.html\">https://martinfowler.com/bliki/AlphaGeek.html</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/18-eqvg8l",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9372b2e6-3d14-45f6-9b74-8c5003974587"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sun, 28 Feb 2021 23:30:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/27295445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-28%2F8843e937-d8f0-b032-b84d-0095b7709874.mp3",
+        "@length": 18327463,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。後編となる今回はベイエリアに住むということ、個人開発におけるプロダクトの発想方法、自分の会社をもったときの採用試験について話しました。</p>\n<ul>\n <li><a href=\"https://www.smartnews.com/\">https://www.smartnews.com</a></li>\n <li><a href=\"https://slamdunk.fandom.com/wiki/Ryuji_Yazawa\">https://slamdunk.fandom.com/wiki/Ryuji_Yazawa</a></li>\n  <li><a href=\"https://martinfowler.com/bliki/AlphaGeek.html\">https://martinfowler.com/bliki/AlphaGeek.html</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "17. ソフトウェアエンジニアの技術力、やりがい、深みとは(ゲスト:スマートニュース梅林さん前編)",
+      "description": "<p>スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。前編となる今回はスマニューの開発体制、Push Notificationの開発、ソフトウェアエンジニアとしてのやりがい、技術力、深み、低レイヤーへのあこがれなどについて話しました。</p>\n<ul>\n <li><a href=\"https://www.linkedin.com/in/yasutaka-umebayashi-b9a8034b/\">https://www.linkedin.com/in/yasutaka-umebayashi-b9a8034b/</a></li>\n <li><a href=\"https://www.smartnews.com/\">https://www.smartnews.com</a></li>\n  <li><a href=\"https://skydivecalifornia.com/\">https://skydivecalifornia.com/</a></li>\n  <li><a href=\"https://www.jeremiahlee.com/posts/failed-squad-goals/\">https://www.jeremiahlee.com/posts/failed-squad-goals/</a> SpotifyのSquad teamの話</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/17-eqvf2l",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "569903be-cbf9-4302-b77b-a20ab9e17cdb"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 24 Feb 2021 07:11:28 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/27294229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-24%2F72b68f3656da48e1336c523b59dfdf09.m4a",
+        "@length": 53508383,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。前編となる今回はスマニューの開発体制、Push Notificationの開発、ソフトウェアエンジニアとしてのやりがい、技術力、深み、低レイヤーへのあこがれなどについて話しました。</p>\n<ul>\n <li><a href=\"https://www.linkedin.com/in/yasutaka-umebayashi-b9a8034b/\">https://www.linkedin.com/in/yasutaka-umebayashi-b9a8034b/</a></li>\n <li><a href=\"https://www.smartnews.com/\">https://www.smartnews.com</a></li>\n  <li><a href=\"https://skydivecalifornia.com/\">https://skydivecalifornia.com/</a></li>\n  <li><a href=\"https://www.jeremiahlee.com/posts/failed-squad-goals/\">https://www.jeremiahlee.com/posts/failed-squad-goals/</a> SpotifyのSquad teamの話</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:55:08",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "16. 6年間テックインダストリーにいて考えを改めたこと、取り入れたこと、変わってないこと",
+      "description": "<p>今回はSoftware development topics I've changed my mind on after 6 years in the industry というブログ記事をもとに、ソフトウェア開発におけるお互いの考え方の変遷について語り合いました。</p>\n<ul>\n <li>元記事 <a href=\"https://chriskiehl.com/article/thoughts-after-6-years\">https://chriskiehl.com/article/thoughts-after-6-years</a></li>\n <li>SwiftUI <a href=\"https://developer.apple.com/xcode/swiftui/\">https://developer.apple.com/xcode/swiftui/</a></li>\n <li>Cargo Cult Programming <a href=\"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%B4%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0\">https://ja.wikipedia.org/wiki/カーゴ・カルト・プログラミング</a></li>\n <li>Gamestop frenzy <a href=\"https://www.wsj.com/articles/gamestop-frenzy-echoes-sharp-moves-long-seen-in-cryptocurrency-markets-11612965608\">https://www.wsj.com/articles/gamestop-frenzy-echoes-sharp-moves-long-seen-in-cryptocurrency-markets-11612965608</a></li>\n  <li>The manifesto for Agile Software development <a href=\"https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development\">https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development</a></li>\n  <li>Workplace from Facebook <a href=\"https://www.workplace.com/\">https://www.workplace.com</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/16--6-eq98pf",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "02b8181c-b9cd-410e-9e24-636823b68151"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 12 Feb 2021 06:08:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/26566895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-11%2F823871b5-586c-afb0-b62e-2345712677e3.mp3",
+        "@length": 29279612,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はSoftware development topics I've changed my mind on after 6 years in the industry というブログ記事をもとに、ソフトウェア開発におけるお互いの考え方の変遷について語り合いました。</p>\n<ul>\n <li>元記事 <a href=\"https://chriskiehl.com/article/thoughts-after-6-years\">https://chriskiehl.com/article/thoughts-after-6-years</a></li>\n <li>SwiftUI <a href=\"https://developer.apple.com/xcode/swiftui/\">https://developer.apple.com/xcode/swiftui/</a></li>\n <li>Cargo Cult Programming <a href=\"https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%B4%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0\">https://ja.wikipedia.org/wiki/カーゴ・カルト・プログラミング</a></li>\n <li>Gamestop frenzy <a href=\"https://www.wsj.com/articles/gamestop-frenzy-echoes-sharp-moves-long-seen-in-cryptocurrency-markets-11612965608\">https://www.wsj.com/articles/gamestop-frenzy-echoes-sharp-moves-long-seen-in-cryptocurrency-markets-11612965608</a></li>\n  <li>The manifesto for Agile Software development <a href=\"https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development\">https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development</a></li>\n  <li>Workplace from Facebook <a href=\"https://www.workplace.com/\">https://www.workplace.com</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:44:12",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "15. 新型コロナワクチンをリバースエンジニアリングする",
+      "description": "<p>今回はReverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccineという記事をもとに、新型コロナウイルスのワクチンのコードを読むというテーマについて話しました。</p>\n<ul>\n <li>フィットネストラッカー「Whoop」（アフィリエイトリンク）: <a href=\"https://join.whoop.com/#/B4C7BD\">https://join.whoop.com/#/B4C7BD</a></li>\n <li>元記事「Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine」：<a href=\"https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/\">https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/</a></li>\n <li>日本語訳「BioNTech/Pfizer の新型コロナワクチンを〈リバースエンジニアリング〉する」: <a href=\"https://note.com/yubais/n/n349ab986da42\">https://note.com/yubais/n/n349ab986da42</a></li>\n <li>RNA Vaccines and their lipids：<a href=\"https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids\">https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids</a></li>\n <li>No, Really, mRNA Vaccines Are Not Going To Affect Your DNA：<a href=\"https://www.deplatformdisease.com/blog/no-really-mrna-vaccines-are-not-going-to-affect-your-dna\">https://www.deplatformdisease.com/blog/no-really-mrna-vaccines-are-not-going-to-affect-your-dna</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "af2f1f40-ed16-4548-929b-09a03b9ba4b8"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 08 Feb 2021 23:21:42 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/26421835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2F5a5a7f0a-56b8-16e1-2a55-4439d35bc535.mp3",
+        "@length": 55464849,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はReverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccineという記事をもとに、新型コロナウイルスのワクチンのコードを読むというテーマについて話しました。</p>\n<ul>\n <li>フィットネストラッカー「Whoop」（アフィリエイトリンク）: <a href=\"https://join.whoop.com/#/B4C7BD\">https://join.whoop.com/#/B4C7BD</a></li>\n <li>元記事「Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine」：<a href=\"https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/\">https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/</a></li>\n <li>日本語訳「BioNTech/Pfizer の新型コロナワクチンを〈リバースエンジニアリング〉する」: <a href=\"https://note.com/yubais/n/n349ab986da42\">https://note.com/yubais/n/n349ab986da42</a></li>\n <li>RNA Vaccines and their lipids：<a href=\"https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids\">https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids</a></li>\n <li>No, Really, mRNA Vaccines Are Not Going To Affect Your DNA：<a href=\"https://www.deplatformdisease.com/blog/no-really-mrna-vaccines-are-not-going-to-affect-your-dna\">https://www.deplatformdisease.com/blog/no-really-mrna-vaccines-are-not-going-to-affect-your-dna</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe<br>\n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:46:13",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 15,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "14. 人のコードを読む",
+      "description": "<p>今回はブラウザ開発を手がけるPatricia Aasさんの、Reading Other People's Codeというプレゼンテーションをもとに、巨大なコードベースを読むための手法、心理的安全性と優れたチームについて話しました。</p>\n<ul>\n <li>プレゼン動画: <a href=\"https://www.youtube.com/watch?v=mrXHf71lYrs\">https://www.youtube.com/watch?v=mrXHf71lYrs</a></li>\n <li>スライド: <a href=\"https://www.slideshare.net/PatriciaAas/reading-other-peoples-code-ndc-sydney-2018\">https://www.slideshare.net/PatriciaAas/reading-other-peoples-code-ndc-sydney-2018</a></li>\n  <li>What Google Learned From Its Quest to Build the Perfect Team: <a href=\"https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html\">https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html</a></li>\n  <li>Today I learned Ep. 13 UberでのiOSアプリリライトにおける技術的、組織的な挑戦について: <a href=\"https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc\">https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc</a></li>\n  <li>Nest の統合に時間がかかった話: <a href=\"https://softwareengineeringdaily.com/2021/01/05/webassembly-on-iot-with-jonathan-beri-repeat/\">https://softwareengineeringdaily.com/2021/01/05/webassembly-on-iot-with-jonathan-beri-repeat/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/14-eotcm8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e63ee6cd-801d-4e56-8809-dc80c9f51466"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 15 Jan 2021 06:04:11 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/25129096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-13%2F709ccdea-7e11-3901-ba55-1516c0f3370b.mp3",
+        "@length": 25493985,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はブラウザ開発を手がけるPatricia Aasさんの、Reading Other People's Codeというプレゼンテーションをもとに、巨大なコードベースを読むための手法、心理的安全性と優れたチームについて話しました。</p>\n<ul>\n <li>プレゼン動画: <a href=\"https://www.youtube.com/watch?v=mrXHf71lYrs\">https://www.youtube.com/watch?v=mrXHf71lYrs</a></li>\n <li>スライド: <a href=\"https://www.slideshare.net/PatriciaAas/reading-other-peoples-code-ndc-sydney-2018\">https://www.slideshare.net/PatriciaAas/reading-other-peoples-code-ndc-sydney-2018</a></li>\n  <li>What Google Learned From Its Quest to Build the Perfect Team: <a href=\"https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html\">https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html</a></li>\n  <li>Today I learned Ep. 13 UberでのiOSアプリリライトにおける技術的、組織的な挑戦について: <a href=\"https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc\">https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc</a></li>\n  <li>Nest の統合に時間がかかった話: <a href=\"https://softwareengineeringdaily.com/2021/01/05/webassembly-on-iot-with-jonathan-beri-repeat/\">https://softwareengineeringdaily.com/2021/01/05/webassembly-on-iot-with-jonathan-beri-repeat/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 14,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "13. UberでのiOSアプリリライトにおける技術的、組織的な挑戦について",
+      "description": "<p>今回は The biggest engineering disaster I’ve ever had the misfortune of being involved in という元Uber社員の一連のツイートをもとに、iOSアプリケーションのリライトで技術的、組織的な問題やハイパーグロースにあるサービスを開発することについて話しました。</p>\n<ul>\n <li>元ツイート <a href=\"https://twitter.com/StanTwinB/status/1336890442768547845\">https://twitter.com/StanTwinB/status/1336890442768547845</a></li>\n <li>スレッドまとめ <a href=\"https://threadreaderapp.com/thread/1336890442768547845.html\">https://threadreaderapp.com/thread/1336890442768547845.html</a></li>\n <li>Static vs dynamic: <a href=\"https://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/\">https://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/</a></li>\n <li>Umbrella framework: <a href=\"https://gist.github.com/SheldonWangRJT/78c9bd3b98488487c59a6a4a9c35162c#:~:text=Dynamic\">https://gist.github.com/SheldonWangRJT/78c9bd3b98488487c59a6a4a9c35162c#:~:text=Dynamic</a> framework works at runtime,applications to relink to them.</li>\n <li>Application size optimization <a href=\"https://developer.apple.com/videos/play/wwdc2016/406/\">https://developer.apple.com/videos/play/wwdc2016/406/</a></li>\n <li>Androidのリライトのツイート <a href=\"https://twitter.com/ZacSweers/status/1337112019116453892?s=20\">https://twitter.com/ZacSweers/status/1337112019116453892?s=20</a></li>\n <li>CLLoationManager <a href=\"https://developer.apple.com/documentation/corelocation/cllocationmanager\">https://developer.apple.com/documentation/corelocation/cllocationmanager</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "16c1d63b-7ac1-418f-a9bd-73488afd67d4"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 26 Dec 2020 04:53:20 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/24417676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-25%2F13bf2c0b-2da6-a320-5975-d6f17398eba4.mp3",
+        "@length": 33144081,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は The biggest engineering disaster I’ve ever had the misfortune of being involved in という元Uber社員の一連のツイートをもとに、iOSアプリケーションのリライトで技術的、組織的な問題やハイパーグロースにあるサービスを開発することについて話しました。</p>\n<ul>\n <li>元ツイート <a href=\"https://twitter.com/StanTwinB/status/1336890442768547845\">https://twitter.com/StanTwinB/status/1336890442768547845</a></li>\n <li>スレッドまとめ <a href=\"https://threadreaderapp.com/thread/1336890442768547845.html\">https://threadreaderapp.com/thread/1336890442768547845.html</a></li>\n <li>Static vs dynamic: <a href=\"https://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/\">https://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/</a></li>\n <li>Umbrella framework: <a href=\"https://gist.github.com/SheldonWangRJT/78c9bd3b98488487c59a6a4a9c35162c#:~:text=Dynamic\">https://gist.github.com/SheldonWangRJT/78c9bd3b98488487c59a6a4a9c35162c#:~:text=Dynamic</a> framework works at runtime,applications to relink to them.</li>\n <li>Application size optimization <a href=\"https://developer.apple.com/videos/play/wwdc2016/406/\">https://developer.apple.com/videos/play/wwdc2016/406/</a></li>\n <li>Androidのリライトのツイート <a href=\"https://twitter.com/ZacSweers/status/1337112019116453892?s=20\">https://twitter.com/ZacSweers/status/1337112019116453892?s=20</a></li>\n <li>CLLoationManager <a href=\"https://developer.apple.com/documentation/corelocation/cllocationmanager\">https://developer.apple.com/documentation/corelocation/cllocationmanager</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:41:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:season": 13,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "12. Katryo on AWS, Graduate school and life in NY, Bay Area",
+      "description": "<p>Katryoさん（@katryo）をゲストに迎え、開発に携わったAWS Glue DataBrew、USへの留学、就職活動、Amazon独特の面接やアメリカの生活について話をしました。</p>\n<ul>\n <li>ゲストのKatryoさん: <a href=\"https://twitter.com/katryo\">https://twitter.com/katryo</a></li>\n <li>AWS Glue DataBrew <a href=\"https://aws.amazon.com/jp/glue/features/databrew/\">https://aws.amazon.com/jp/glue/features/databrew/</a></li>\n <li>Data scientists spend 60% of their time on cleaning and organizing data <a href=\"https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=37e4b916f637\">https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=37e4b916f637</a></li>\n <li>MUA <a href=\"https://www.makeupalley.com/\">https://www.makeupalley.com</a></li>\n  <li>jugyoさん <a href=\"https://twitter.com/jugyo\">https://twitter.com/jugyo</a></li>\n  <li>Interviewing at Amazon <a href=\"https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d\">https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d</a></li>\n  <li>Leadership Principals <a href=\"https://www.amazon.jobs/en/principles\">https://www.amazon.jobs/en/principles</a> &nbsp;<a href=\"https://www.amazon.jobs/jp/principles\">https://www.amazon.jobs/jp/principles</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/12--Katryo-on-AWS--Graduate-school-and-life-in-NY--Bay-Area-eo55bc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5be6a4f1-cc68-489c-aa6c-72d9b0b76f20"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 23 Dec 2020 06:26:32 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/24335148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-23%2F2a397f04-89e9-fdc2-2657-d18764d53d95.mp3",
+        "@length": 36249031,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Katryoさん（@katryo）をゲストに迎え、開発に携わったAWS Glue DataBrew、USへの留学、就職活動、Amazon独特の面接やアメリカの生活について話をしました。</p>\n<ul>\n <li>ゲストのKatryoさん: <a href=\"https://twitter.com/katryo\">https://twitter.com/katryo</a></li>\n <li>AWS Glue DataBrew <a href=\"https://aws.amazon.com/jp/glue/features/databrew/\">https://aws.amazon.com/jp/glue/features/databrew/</a></li>\n <li>Data scientists spend 60% of their time on cleaning and organizing data <a href=\"https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=37e4b916f637\">https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=37e4b916f637</a></li>\n <li>MUA <a href=\"https://www.makeupalley.com/\">https://www.makeupalley.com</a></li>\n  <li>jugyoさん <a href=\"https://twitter.com/jugyo\">https://twitter.com/jugyo</a></li>\n  <li>Interviewing at Amazon <a href=\"https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d\">https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d</a></li>\n  <li>Leadership Principals <a href=\"https://www.amazon.jobs/en/principles\">https://www.amazon.jobs/en/principles</a> &nbsp;<a href=\"https://www.amazon.jobs/jp/principles\">https://www.amazon.jobs/jp/principles</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:56:13",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "11. How Big Technical Changes Happen at Slack",
+      "description": "<p>今回は How Big Technical Changes Happen at Slack という記事をもとに、技術的変化をエンジニアとして、チームとして導入する手法やカルチャーづくりについて話しました。</p>\n<ul>\n <li>How Big Technical Changes Happen at Slack <a href=\"https://slack.engineering/how-big-technical-changes-happen-at-slack/\">https://slack.engineering/how-big-technical-changes-happen-at-slack/</a></li>\n <li>libSlack <a href=\"https://slack.engineering/client-consistency-at-slack-beyond-libslack/\">https://slack.engineering/client-consistency-at-slack-beyond-libslack/</a></li>\n  <li>技術的策定について <a href=\"https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=27\">https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=27</a></li>\n  <li>10X <a href=\"https://10x.co.jp/\">https://10x.co.jp/</a></li>\n  <li>チェーンソーマン <a href=\"https://shonenjumpplus.com/episode/10834108156650024834\">https://shonenjumpplus.com/episode/10834108156650024834</a></li>\n  <li>The Boys <a href=\"https://www.amazon.com/The-Boys-Season-1/dp/B07QNJCXZK\">https://www.amazon.com/The-Boys-Season-1/dp/B07QNJCXZK</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/11--How-Big-Technical-Changes-Happen-at-Slack-enm4tm",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d207341a-c4f9-46dc-a83e-5250701e5f53"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Fri, 11 Dec 2020 21:12:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/23843190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2Fa5791aec-f7a3-ce99-e7c6-690e77e7fcb3.mp3",
+        "@length": 37355664,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は How Big Technical Changes Happen at Slack という記事をもとに、技術的変化をエンジニアとして、チームとして導入する手法やカルチャーづくりについて話しました。</p>\n<ul>\n <li>How Big Technical Changes Happen at Slack <a href=\"https://slack.engineering/how-big-technical-changes-happen-at-slack/\">https://slack.engineering/how-big-technical-changes-happen-at-slack/</a></li>\n <li>libSlack <a href=\"https://slack.engineering/client-consistency-at-slack-beyond-libslack/\">https://slack.engineering/client-consistency-at-slack-beyond-libslack/</a></li>\n  <li>技術的策定について <a href=\"https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=27\">https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=27</a></li>\n  <li>10X <a href=\"https://10x.co.jp/\">https://10x.co.jp/</a></li>\n  <li>チェーンソーマン <a href=\"https://shonenjumpplus.com/episode/10834108156650024834\">https://shonenjumpplus.com/episode/10834108156650024834</a></li>\n  <li>The Boys <a href=\"https://www.amazon.com/The-Boys-Season-1/dp/B07QNJCXZK\">https://www.amazon.com/The-Boys-Season-1/dp/B07QNJCXZK</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:46:05",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 11,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "10. What distinguishes a great software engineer from a good one?",
+      "description": "<p>今回はWhat distinguishes a great software engineer from a good one? <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons</a> というQuora上の回答をベースに、良いソフトウェアエンジニアについて話をしました。</p>\n<ul>\n <li>What distinguishes a great software engineer from a good one? <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one</a></li>\n <li>Jin Yamanakaさんの回答 <a href=\"https://jp.quora.com/zu-ba-batsu-ke-te-yuushuu-na-sofutouea-enjinia-ha-donna-tokoroga-hokano-enjinia-to-chigai-masu-ka/answers/215786913?ch=2\">https://jp.quora.com/zu-ba-batsu-ke-te-yuushuu-na-sofutouea-enjinia-ha-donna-tokoroga-hokano-enjinia-to-chigai-masu-ka/answers/215786913?ch=2</a></li>\n <li>Edmond Lauさんの回答 <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Edmond-Lau?ch=10&share=ca05529a&srid=yWHh\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Edmond-Lau?ch=10&share=ca05529a&srid=yWHh</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/10--What-distinguishes-a-great-software-engineer-from-a-good-one-en6r42",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2231b7c7-8184-44f9-a80f-48eac4e61e1a"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 01 Dec 2020 19:10:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/23341634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-1%2F83f2b536-a975-32fd-1b97-da87940f3132.mp3",
+        "@length": 15540454,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回はWhat distinguishes a great software engineer from a good one? <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons</a> というQuora上の回答をベースに、良いソフトウェアエンジニアについて話をしました。</p>\n<ul>\n <li>What distinguishes a great software engineer from a good one? <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one</a></li>\n <li>Jin Yamanakaさんの回答 <a href=\"https://jp.quora.com/zu-ba-batsu-ke-te-yuushuu-na-sofutouea-enjinia-ha-donna-tokoroga-hokano-enjinia-to-chigai-masu-ka/answers/215786913?ch=2\">https://jp.quora.com/zu-ba-batsu-ke-te-yuushuu-na-sofutouea-enjinia-ha-donna-tokoroga-hokano-enjinia-to-chigai-masu-ka/answers/215786913?ch=2</a></li>\n <li>Edmond Lauさんの回答 <a href=\"https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Edmond-Lau?ch=10&amp;share=ca05529a&amp;srid=yWHh\">https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Edmond-Lau?ch=10&amp;share=ca05529a&amp;srid=yWHh</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:23:33",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 10,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "9. 200 OK! Error handling in GraphQL",
+      "description": "<p>今回は 200 OK! Error handling in GraphQL <a href=\"https://www.youtube.com/watch?v=RDNTP66oY2o\">https://www.youtube.com/watch?v=RDNTP66oY2o</a> という動画をベースに、GraphQLにおけるエラーハンドリングの難しい部分やベストプラクティスについて話しました。</p>\n<ul>\n <li><a href=\"https://www.youtube.com/watch?v=RDNTP66oY2o\">https://www.youtube.com/watch?v=RDNTP66oY2o</a></li>\n <li>GraphQL summit 2020 <a href=\"https://summit.graphql.com/\">https://summit.graphql.com/</a> (July, August)</li>\n <li>Blog post <a href=\"https://sachee.medium.com/200-ok-error-handling-in-graphql-7ec869aec9bc\">https://sachee.medium.com/200-ok-error-handling-in-graphql-7ec869aec9bc</a></li>\n <li>GraphQLのError仕様定義 <a href=\"http://spec.graphql.org/draft/#sec-Errors\">http://spec.graphql.org/draft/#sec-Errors</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/9--200-OK--Error-handling-in-GraphQL-elolp9",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "120f91b9-89c2-4c8d-be91-0e6751463944"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 10 Nov 2020 02:52:07 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/21828841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-29%2Ffc3c220b-8e5c-ddce-e54e-3459da75b0ef.mp3",
+        "@length": 23561128,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は 200 OK! Error handling in GraphQL <a href=\"https://www.youtube.com/watch?v=RDNTP66oY2o\">https://www.youtube.com/watch?v=RDNTP66oY2o</a> という動画をベースに、GraphQLにおけるエラーハンドリングの難しい部分やベストプラクティスについて話しました。</p>\n<ul>\n <li><a href=\"https://www.youtube.com/watch?v=RDNTP66oY2o\">https://www.youtube.com/watch?v=RDNTP66oY2o</a></li>\n <li>GraphQL summit 2020 <a href=\"https://summit.graphql.com/\">https://summit.graphql.com/</a> (July, August)</li>\n <li>Blog post <a href=\"https://sachee.medium.com/200-ok-error-handling-in-graphql-7ec869aec9bc\">https://sachee.medium.com/200-ok-error-handling-in-graphql-7ec869aec9bc</a></li>\n <li>GraphQLのError仕様定義 <a href=\"http://spec.graphql.org/draft/#sec-Errors\">http://spec.graphql.org/draft/#sec-Errors</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 9,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "8. Yuya on Shopify plugins, Vercel vs Netlify, life at Vancouver",
+      "description": "<p>Yuyaさん（@van_sf_engineer）をゲストに迎え、Shopifyプラグイン, Vercel vs NetlifyやVancouverでの生活について話をしました。前編はエピソード8です。</p>\n<ul>\n <li>ゲストのYuyaさん: <a href=\"https://twitter.com/van_sf_engineer\">https://twitter.com/van_sf_engineer</a></li>\n <li>Ramen Hero: <a href=\"https://ramenhero.com/products\">https://ramenhero.com/products</a></li>\n  <li>Retool: <a href=\"https://retool.com/\">https://retool.com/</a></li>\n  <li>Shopifyでサブスクリプションを作るRecharge: <a href=\"https://apps.shopify.com/subscription-payments\">https://apps.shopify.com/subscription-payments</a></li>\n  <li>next-on-netlify: <a href=\"https://github.com/netlify/next-on-netlify\">https://github.com/netlify/next-on-netlify</a></li>\n  <li>Vercel: <a href=\"https://vercel.com/\">https://vercel.com/</a></li>\n  <li>Netlify: <a href=\"https://www.netlify.com/\">https://www.netlify.com/</a></li>\n  <li>バンクーバーのえんじに屋ポッドキャスト: <a href=\"https://anchor.fm/van-engineers/episodes/Part-1-el8mbk\">https://anchor.fm/van-engineers/episodes/Part-1-el8mbk</a></li>\n  <li>今バンクーバーがどれだけエンジニアにとってヤバい街なのか書いてみる: <a href=\"https://webya.opdsgn.com/webtech/good-place-vancouver/\">https://webya.opdsgn.com/webtech/good-place-vancouver/</a></li>\n  <li>Ramen heroのブログ記事、TOP 7 RAMEN SHOPS NEAR ME IN THE SAN FRANCISCO BAY AREA: <a href=\"https://ramenhero.com/blogs/ramen-hero-blog/top-ramen-near-me-san-francisco\">https://ramenhero.com/blogs/ramen-hero-blog/top-ramen-near-me-san-francisco</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_ima</a></li>\n  <li>Yusuke, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/8--Yuya-on-Shopify-plugins--Vercel-vs-Netlify--life-at-Vancouver-elreni",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "51aea0d4-55c9-4577-be2f-6c087d0d121b"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 02 Nov 2020 23:38:40 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/21919922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2Fb498a39a-b6b7-5521-a574-74bc659a2a8d.mp3",
+        "@length": 23804765,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Yuyaさん（@van_sf_engineer）をゲストに迎え、Shopifyプラグイン, Vercel vs NetlifyやVancouverでの生活について話をしました。前編はエピソード8です。</p>\n<ul>\n <li>ゲストのYuyaさん: <a href=\"https://twitter.com/van_sf_engineer\">https://twitter.com/van_sf_engineer</a></li>\n <li>Ramen Hero: <a href=\"https://ramenhero.com/products\">https://ramenhero.com/products</a></li>\n  <li>Retool: <a href=\"https://retool.com/\">https://retool.com/</a></li>\n  <li>Shopifyでサブスクリプションを作るRecharge: <a href=\"https://apps.shopify.com/subscription-payments\">https://apps.shopify.com/subscription-payments</a></li>\n  <li>next-on-netlify: <a href=\"https://github.com/netlify/next-on-netlify\">https://github.com/netlify/next-on-netlify</a></li>\n  <li>Vercel: <a href=\"https://vercel.com/\">https://vercel.com/</a></li>\n  <li>Netlify: <a href=\"https://www.netlify.com/\">https://www.netlify.com/</a></li>\n  <li>バンクーバーのえんじに屋ポッドキャスト: <a href=\"https://anchor.fm/van-engineers/episodes/Part-1-el8mbk\">https://anchor.fm/van-engineers/episodes/Part-1-el8mbk</a></li>\n  <li>今バンクーバーがどれだけエンジニアにとってヤバい街なのか書いてみる: <a href=\"https://webya.opdsgn.com/webtech/good-place-vancouver/\">https://webya.opdsgn.com/webtech/good-place-vancouver/</a></li>\n  <li>Ramen heroのブログ記事、TOP 7 RAMEN SHOPS NEAR ME IN THE SAN FRANCISCO BAY AREA: <a href=\"https://ramenhero.com/blogs/ramen-hero-blog/top-ramen-near-me-san-francisco\">https://ramenhero.com/blogs/ramen-hero-blog/top-ramen-near-me-san-francisco</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_ima</a></li>\n  <li>Yusuke, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:41:21",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 8,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "7. Yuya on developing D2C site and JamStack",
+      "description": "<p>Yuyaさん（<a href=\"Yuyaさん（@van_sf_engineer）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。 - ゲストのYuyaさん: [https://twitter.com/van_sf_engineer](https://twitter.com/van_sf_engineer) - Ramen Hero: [https://ramenhero.com/products](https://ramenhero.com/products) - Shopify Storefront API: [https://shopify.dev/docs/storefront-api](https://shopify.dev/docs/storefront-api) - JAMstack: [https://jamstack.org/](https://jamstack.org/) - Next.js: [https://nextjs.org/](https://nextjs.org/) - Netlify: [https://www.netlify.com/](https://www.netlify.com/) - データ分析に用いているRedash: [https://redash.io/](https://redash.io/) - Lambda cold start vs hot start: [https://www.serverless.com/blog/keep-your-lambdas-warm](https://www.serverless.com/blog/keep-your-lambdas-warm) - SPA → SSR → SSG → ISG。Single Page Application（一般的なReactアプリケーション）は表示が早い、SEOがダメ、動的。Server Side Renderingは最初の1ページを返す、SEOに良い、表示が遅い、動的。Static Site Generationは全ページをレンダリングする、SEOに良い、表示が早い、静的なので再ビルドが必要。Incremental Static Regenerationは全ページをレンダリング、SEOに良い、表示が早い、見かけは静的、裏側で動的なので再ビルドが必要ない。 - ウェブサイトの表示スピードとコンバージョンレートの話: [https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/](https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/) Your co-hosts: - Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ https://twitter.com/tomoaki_ima - Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe\">@van_sf_engineer</a>）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。</p>\n<ul>\n <li>ゲストのYuyaさん: <a href=\"https://twitter.com/van_sf_engineer\">https://twitter.com/van_sf_engineer</a></li>\n <li>Ramen Hero: <a href=\"https://ramenhero.com/products\">https://ramenhero.com/products</a></li>\n <li>Shopify Storefront API: <a href=\"https://shopify.dev/docs/storefront-api\">https://shopify.dev/docs/storefront-api</a></li>\n <li>JAMstack: <a href=\"https://jamstack.org/\">https://jamstack.org/</a></li>\n  <li>Next.js: <a href=\"https://nextjs.org/\">https://nextjs.org/</a></li>\n  <li>Netlify: <a href=\"https://www.netlify.com/\">https://www.netlify.com/</a></li>\n  <li>データ分析に用いているRedash: <a href=\"https://redash.io/\">https://redash.io/</a></li>\n  <li>Lambda cold start vs hot start: <a href=\"https://www.serverless.com/blog/keep-your-lambdas-warm\">https://www.serverless.com/blog/keep-your-lambdas-warm</a></li>\n  <li>SPA → SSR → SSG → ISG。Single Page Application（一般的なReactアプリケーション）は表示が早い、SEOがダメ、動的。Server Side Renderingは最初の1ページを返す、SEOに良い、表示が遅い、動的。Static Site Generationは全ページをレンダリングする、SEOに良い、表示が早い、静的なので再ビルドが必要。Incremental Static Regenerationは全ページをレンダリング、SEOに良い、表示が早い、見かけは静的、裏側で動的なので再ビルドが必要ない。</li>\n  <li>ウェブサイトの表示スピードとコンバージョンレートの話: <a href=\"https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/\">https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a>&nbsp;</li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/7--Yuya-on-developing-D2C-site-and-JamStack-elirmv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d1b50e7a-f7bc-4414-b7e1-6e52249c43ae"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Mon, 26 Oct 2020 04:05:45 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/21638303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-26%2F8a751554-5ea0-8e31-0d35-b3d12e4c3720.mp3",
+        "@length": 21428365,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Yuyaさん（<a href=\"Yuyaさん（@van_sf_engineer）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。 - ゲストのYuyaさん: [https://twitter.com/van_sf_engineer](https://twitter.com/van_sf_engineer) - Ramen Hero: [https://ramenhero.com/products](https://ramenhero.com/products) - Shopify Storefront API: [https://shopify.dev/docs/storefront-api](https://shopify.dev/docs/storefront-api) - JAMstack: [https://jamstack.org/](https://jamstack.org/) - Next.js: [https://nextjs.org/](https://nextjs.org/) - Netlify: [https://www.netlify.com/](https://www.netlify.com/) - データ分析に用いているRedash: [https://redash.io/](https://redash.io/) - Lambda cold start vs hot start: [https://www.serverless.com/blog/keep-your-lambdas-warm](https://www.serverless.com/blog/keep-your-lambdas-warm) - SPA → SSR → SSG → ISG。Single Page Application（一般的なReactアプリケーション）は表示が早い、SEOがダメ、動的。Server Side Renderingは最初の1ページを返す、SEOに良い、表示が遅い、動的。Static Site Generationは全ページをレンダリングする、SEOに良い、表示が早い、静的なので再ビルドが必要。Incremental Static Regenerationは全ページをレンダリング、SEOに良い、表示が早い、見かけは静的、裏側で動的なので再ビルドが必要ない。 - ウェブサイトの表示スピードとコンバージョンレートの話: [https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/](https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/) Your co-hosts: - Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ https://twitter.com/tomoaki_ima - Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe\">@van_sf_engineer</a>）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。</p>\n<ul>\n <li>ゲストのYuyaさん: <a href=\"https://twitter.com/van_sf_engineer\">https://twitter.com/van_sf_engineer</a></li>\n <li>Ramen Hero: <a href=\"https://ramenhero.com/products\">https://ramenhero.com/products</a></li>\n <li>Shopify Storefront API: <a href=\"https://shopify.dev/docs/storefront-api\">https://shopify.dev/docs/storefront-api</a></li>\n <li>JAMstack: <a href=\"https://jamstack.org/\">https://jamstack.org/</a></li>\n  <li>Next.js: <a href=\"https://nextjs.org/\">https://nextjs.org/</a></li>\n  <li>Netlify: <a href=\"https://www.netlify.com/\">https://www.netlify.com/</a></li>\n  <li>データ分析に用いているRedash: <a href=\"https://redash.io/\">https://redash.io/</a></li>\n  <li>Lambda cold start vs hot start: <a href=\"https://www.serverless.com/blog/keep-your-lambdas-warm\">https://www.serverless.com/blog/keep-your-lambdas-warm</a></li>\n  <li>SPA → SSR → SSG → ISG。Single Page Application（一般的なReactアプリケーション）は表示が早い、SEOがダメ、動的。Server Side Renderingは最初の1ページを返す、SEOに良い、表示が遅い、動的。Static Site Generationは全ページをレンダリングする、SEOに良い、表示が早い、静的なので再ビルドが必要。Incremental Static Regenerationは全ページをレンダリング、SEOに良い、表示が早い、見かけは静的、裏側で動的なので再ビルドが必要ない。</li>\n  <li>ウェブサイトの表示スピードとコンバージョンレートの話: <a href=\"https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/\">https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a>&nbsp;</li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:40",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "6. The Self-Taught Engineer's Algorithm Study Plan",
+      "description": "<p>今回は The Self-Taught Engineer's Algorithm Study Plan <a href=\"https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a\">https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a</a> という記事をベースに、USテック企業におけるコーディング面接やその勉強方法、コツについて話しました。</p>\n<ul>\n <li>The Self-Taught Engineer's Algorithm Study Plan <a href=\"https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a\">https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a</a></li>\n <li>How I Survived the Technical Interview Process (with Tips!) <a href=\"https://chrisdoescoding.com/posts/5/\">https://chrisdoescoding.com/posts/5/</a></li>\n  <li>サンフランシスコで転職活動をしました<a href=\"https://jeffsuke.hatenablog.com/entry/2017/04/30/062502\">https://jeffsuke.hatenablog.com/entry/2017/04/30/062502</a>&nbsp;</li>\n  <li>CodeRust <a href=\"https://www.educative.io/courses/coderust-hacking-the-coding-interview\">https://www.educative.io/courses/coderust-hacking-the-coding-interview</a></li>\n  <li>Interview Cake <a href=\"https://www.interviewcake.com/\">https://www.interviewcake.com</a></li>\n  <li>LeetCode <a href=\"https://leetcode.com/\">https://leetcode.com</a>&nbsp;</li>\n  <li>workable <a href=\"https://www.interviewcake.com/\">https://www.interviewcake.com</a></li>\n  <li>The boys <a href=\"https://www.imdb.com/title/tt1190634/\">https://www.imdb.com/title/tt1190634/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/6--The-Self-Taught-Engineers-Algorithm-Study-Plan-el6u3q",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1e428f70-0b15-4336-bf5f-8d35909de4d5"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 17 Oct 2020 20:58:16 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/21247546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2F3988bbbb-b758-506b-7248-d6920ad63e0b.mp3",
+        "@length": 21120660,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は The Self-Taught Engineer's Algorithm Study Plan <a href=\"https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a\">https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a</a> という記事をベースに、USテック企業におけるコーディング面接やその勉強方法、コツについて話しました。</p>\n<ul>\n <li>The Self-Taught Engineer's Algorithm Study Plan <a href=\"https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a\">https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a</a></li>\n <li>How I Survived the Technical Interview Process (with Tips!) <a href=\"https://chrisdoescoding.com/posts/5/\">https://chrisdoescoding.com/posts/5/</a></li>\n  <li>サンフランシスコで転職活動をしました<a href=\"https://jeffsuke.hatenablog.com/entry/2017/04/30/062502\">https://jeffsuke.hatenablog.com/entry/2017/04/30/062502</a>&nbsp;</li>\n  <li>CodeRust <a href=\"https://www.educative.io/courses/coderust-hacking-the-coding-interview\">https://www.educative.io/courses/coderust-hacking-the-coding-interview</a></li>\n  <li>Interview Cake <a href=\"https://www.interviewcake.com/\">https://www.interviewcake.com</a></li>\n  <li>LeetCode <a href=\"https://leetcode.com/\">https://leetcode.com</a>&nbsp;</li>\n  <li>workable <a href=\"https://www.interviewcake.com/\">https://www.interviewcake.com</a></li>\n  <li>The boys <a href=\"https://www.imdb.com/title/tt1190634/\">https://www.imdb.com/title/tt1190634/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 6,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "5. Kazuki Nishiura on  Payment Processor OSS, DevOps and improving credit card auth rate",
+      "description": "<p>Nishiura Kazukiさん（<a href=\"https://twitter.com/daisy1754\">@daisy1754</a>）をゲストに迎え、Multi Payment Processor の OSS開発秘話、開発者用のVM環境を作った話、Credit card auth rateを改善する話をしました。前編はエピソード4です。</p>\n<ul>\n <li>ゲストのNishiura Kazukiさん: <a href=\"https://twitter.com/daisy1754\">https://twitter.com/daisy1754</a></li>\n <li>Multi-payment processor対応しOSS化されたBoltApp/sleet: <a href=\"https://github.com/BoltApp/sleet\">https://github.com/BoltApp/sleet</a></li>\n  <li>Shopifyが作ったRubyのactivemerchantを参考に上記のOSSは作られた: <a href=\"https://github.com/activemerchant/active_merchant\">https://github.com/activemerchant/active_merchant</a></li>\n  <li>Spreedly: <a href=\"https://www.spreedly.com/\">https://www.spreedly.com/</a></li>\n  <li>Magento: <a href=\"https://en.wikipedia.org/wiki/Magento\">https://en.wikipedia.org/wiki/Magento</a></li>\n  <li>Amazon Machine Images: <a href=\"https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html\">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html</a></li>\n  <li>smallstep: <a href=\"https://smallstep.com/sso-ssh/\">https://smallstep.com/sso-ssh/</a></li>\n  <li>ngrok: https://ngrok.com/</li>\n  <li>Stripeのcredit card auth rate改善記事、Optimizing authorization rates: How to reduce network declines: <a href=\"https://stripe.com/guides/optimizing-authorization-rates#adaptive-acceptance\">https://stripe.com/guides/optimizing-authorization-rates#adaptive-acceptance</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/5--Kazuki-Nishiura-on--Payment-Processor-OSS--DevOps-and-improving-credit-card-auth-rate-ekbqu0",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "4d654419-e1f6-491f-b475-ba797e08ef5d"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Tue, 29 Sep 2020 23:06:55 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/20359552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-29%2Fc727a7d6-5575-8b0b-6f2c-055492c86563.mp3",
+        "@length": 16670413,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Nishiura Kazukiさん（<a href=\"https://twitter.com/daisy1754\">@daisy1754</a>）をゲストに迎え、Multi Payment Processor の OSS開発秘話、開発者用のVM環境を作った話、Credit card auth rateを改善する話をしました。前編はエピソード4です。</p>\n<ul>\n <li>ゲストのNishiura Kazukiさん: <a href=\"https://twitter.com/daisy1754\">https://twitter.com/daisy1754</a></li>\n <li>Multi-payment processor対応しOSS化されたBoltApp/sleet: <a href=\"https://github.com/BoltApp/sleet\">https://github.com/BoltApp/sleet</a></li>\n  <li>Shopifyが作ったRubyのactivemerchantを参考に上記のOSSは作られた: <a href=\"https://github.com/activemerchant/active_merchant\">https://github.com/activemerchant/active_merchant</a></li>\n  <li>Spreedly: <a href=\"https://www.spreedly.com/\">https://www.spreedly.com/</a></li>\n  <li>Magento: <a href=\"https://en.wikipedia.org/wiki/Magento\">https://en.wikipedia.org/wiki/Magento</a></li>\n  <li>Amazon Machine Images: <a href=\"https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html\">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html</a></li>\n  <li>smallstep: <a href=\"https://smallstep.com/sso-ssh/\">https://smallstep.com/sso-ssh/</a></li>\n  <li>ngrok: https://ngrok.com/</li>\n  <li>Stripeのcredit card auth rate改善記事、Optimizing authorization rates: How to reduce network declines: <a href=\"https://stripe.com/guides/optimizing-authorization-rates#adaptive-acceptance\">https://stripe.com/guides/optimizing-authorization-rates#adaptive-acceptance</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:44",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "4: Kazuki Nishiura on Google Pay, Life in a startup and Monorepo migration",
+      "description": "<p>Nishiura Kazukiさん（<a href=\"https://twitter.com/daisy1754\">@daisy1754</a>）をゲストに迎え、ペイメントテクノロジーや急成長したスタートアップでの開発の話などを伺いました。前編となる今回は、Google Pay、ベイエリアでのスタートアップの探し方、急拡大した企業の成長痛、ペイメントサービス、モノリポ移行について話しました。</p>\n<ul>\n <li>ゲストのNishiura Kazukiさん: <a href=\"https://twitter.com/daisy1754\">https://twitter.com/daisy1754</a></li>\n <li>2つのGoogle Payと2つのGoogle Walletの話: <a href=\"https://note.com/daisy1754/n/nc0c9f885d9ed\">https://note.com/daisy1754/n/nc0c9f885d9ed</a></li>\n  <li>AngelList(スタートアップの採用) <a href=\"https://angel.co/\">https://angel.co</a> *AListはcloseした模様</li>\n  <li><a href=\"https://www.bolt.com/\">https://www.bolt.com</a> Bolt</li>\n  <li><a href=\"https://www2.fast.co/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www2.fast.co/</a> Fast.co(Boltの競合)</li>\n  <li>Migrating to a Monorepo: <a href=\"https://www.bolt.com/blog/migrating-to-monorepo/\">https://www.bolt.com/blog/migrating-to-monorepo/</a></li>\n  <li>roopakv/swissknife: <a href=\"https://circleci.com/orbs/registry/orb/roopakv/swissknife\">https://circleci.com/orbs/registry/orb/roopakv/swissknife</a></li>\n  <li>BFG Repo-cleaner: <a href=\"https://rtyley.github.io/bfg-repo-cleaner/\">https://rtyley.github.io/bfg-repo-cleaner/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/4-Kazuki-Nishiura-on-Google-Pay--Life-in-a-startup-and-Monorepo-migration-ek2icv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ede6ad19-4f6e-4d0d-a723-db7f1e18988d"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Wed, 23 Sep 2020 18:04:30 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/20055903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-23%2F36b2a920-3e8d-4a34-de14-b82f643dc707.mp3",
+        "@length": 14517181,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Nishiura Kazukiさん（<a href=\"https://twitter.com/daisy1754\">@daisy1754</a>）をゲストに迎え、ペイメントテクノロジーや急成長したスタートアップでの開発の話などを伺いました。前編となる今回は、Google Pay、ベイエリアでのスタートアップの探し方、急拡大した企業の成長痛、ペイメントサービス、モノリポ移行について話しました。</p>\n<ul>\n <li>ゲストのNishiura Kazukiさん: <a href=\"https://twitter.com/daisy1754\">https://twitter.com/daisy1754</a></li>\n <li>2つのGoogle Payと2つのGoogle Walletの話: <a href=\"https://note.com/daisy1754/n/nc0c9f885d9ed\">https://note.com/daisy1754/n/nc0c9f885d9ed</a></li>\n  <li>AngelList(スタートアップの採用) <a href=\"https://angel.co/\">https://angel.co</a> *AListはcloseした模様</li>\n  <li><a href=\"https://www.bolt.com/\">https://www.bolt.com</a> Bolt</li>\n  <li><a href=\"https://www2.fast.co/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www2.fast.co/</a> Fast.co(Boltの競合)</li>\n  <li>Migrating to a Monorepo: <a href=\"https://www.bolt.com/blog/migrating-to-monorepo/\">https://www.bolt.com/blog/migrating-to-monorepo/</a></li>\n  <li>roopakv/swissknife: <a href=\"https://circleci.com/orbs/registry/orb/roopakv/swissknife\">https://circleci.com/orbs/registry/orb/roopakv/swissknife</a></li>\n  <li>BFG Repo-cleaner: <a href=\"https://rtyley.github.io/bfg-repo-cleaner/\">https://rtyley.github.io/bfg-repo-cleaner/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます <a href=\"https://chomp.app/\">https://chomp.app/</a> <a href=\"https://twitter.com/tomoaki_ima\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:02",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 4,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "3. Thriving on the Technical Leadership Path",
+      "description": "<p>今回は「<a href=\"https://keavy.com/work/thriving-on-the-technical-leadership-path/\">Thriving on the Technical Leadership Path</a>」(技術的リーダーとして強く生き抜く)について話をしました。</p>\n<p><br></p>\n<p>- Thriving on the Technical Leadership Path: https://keavy.com/work/thriving-on-the-technical-leadership-path/</p>\n<p>- テック企業の役職比較ができるサイトlevels.fyi: https://www.levels.fyi/</p>\n<p>- 海をまたぐ開発チームとTech Lead メルカリのカンファレンスで話したスライド: https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=33</p>\n<p>- Tech Leadとしてのヒント (スーパーエンジニアへの道): https://tomoima525.hatenablog.com/entry/2016/09/07/170702</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></p>\n<p>- Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/3--Thriving-on-the-Technical-Leadership-Path-ejo0ii",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "53d8e4ad-b3f5-403e-a0cb-1f1ac8d3f19e"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 17 Sep 2020 06:34:38 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/19709970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-16%2Fdb3ca01c-d03f-d899-d07b-ed3a3203711f.mp3",
+        "@length": 20233200,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は「<a href=\"https://keavy.com/work/thriving-on-the-technical-leadership-path/\">Thriving on the Technical Leadership Path</a>」(技術的リーダーとして強く生き抜く)について話をしました。</p>\n<p><br></p>\n<p>- Thriving on the Technical Leadership Path: https://keavy.com/work/thriving-on-the-technical-leadership-path/</p>\n<p>- テック企業の役職比較ができるサイトlevels.fyi: https://www.levels.fyi/</p>\n<p>- 海をまたぐ開発チームとTech Lead メルカリのカンファレンスで話したスライド: https://speakerdeck.com/tomoima525/hai-womatagukai-fa-timutotech-lead?slide=33</p>\n<p>- Tech Leadとしてのヒント (スーパーエンジニアへの道): https://tomoima525.hatenablog.com/entry/2016/09/07/170702</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></p>\n<p>- Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:39:41",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 3,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "2: Language server protocol",
+      "description": "<p>今回は「<a href=\"https://nshipster.com/language-server-protocol/\">Language Server Protocol (NS Hipster)</a>」について話をしました。</p>\n<p><br></p>\n<p>- Language Server Protocol (NS Hipster): https://nshipster.com/language-server-protocol/</p>\n<p>- LSP/LSIFとは: https://microsoft.github.io/language-server-protocol/overviews/lsif/overview/</p>\n<p>- SourceKit-LSP: https://github.com/apple/sourcekit-lsp</p>\n<p>- clang: LLVM tool chainにおけるフロントエンド(コンパイラ): http://clang.llvm.org</p>\n<p>- Clangdについての設計や今後のロードマップについて: Clangd architecture of a scalable C++ language server: https://www.youtube.com/watch?v=5HIyAXj1YNQ</p>\n<p>- Buck Facebookで開発されたビルドシステム。マルチプラットフォームに対応: https://buck.build</p>\n<p>- Buck: How we build Android apps at Facebook: https://www.facebook.com/notes/facebook-engineering/buck-how-we-build-android-apps-at-facebook/10151454619998920</p>\n<p><br></p>\n<p>感想は #TodayILearnedFM まで！</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>\n<p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/2-Language-server-protocol-ejkk2c",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1c7cb113-656f-4b9c-bd89-34fc83df6fd8"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 12 Sep 2020 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/19598860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-14%2F62afe7b0-af76-b60d-3141-f83fc5b83db4.mp3",
+        "@length": 20467315,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は「<a href=\"https://nshipster.com/language-server-protocol/\">Language Server Protocol (NS Hipster)</a>」について話をしました。</p>\n<p><br></p>\n<p>- Language Server Protocol (NS Hipster): https://nshipster.com/language-server-protocol/</p>\n<p>- LSP/LSIFとは: https://microsoft.github.io/language-server-protocol/overviews/lsif/overview/</p>\n<p>- SourceKit-LSP: https://github.com/apple/sourcekit-lsp</p>\n<p>- clang: LLVM tool chainにおけるフロントエンド(コンパイラ): http://clang.llvm.org</p>\n<p>- Clangdについての設計や今後のロードマップについて: Clangd architecture of a scalable C++ language server: https://www.youtube.com/watch?v=5HIyAXj1YNQ</p>\n<p>- Buck Facebookで開発されたビルドシステム。マルチプラットフォームに対応: https://buck.build</p>\n<p>- Buck: How we build Android apps at Facebook: https://www.facebook.com/notes/facebook-engineering/buck-how-we-build-android-apps-at-facebook/10151454619998920</p>\n<p><br></p>\n<p>感想は #TodayILearnedFM まで！</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>\n<p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:08",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 2,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "1: Code-first vs. schema-first development in GraphQL",
+      "description": "<p>今回は「Code-first vs. schema-first development in GraphQL」(https://blog.logrocket.com/code-first-vs-schema-first-development-graphql/) について話をしました。</p>\n<p><br></p>\n<p>- apollo-gen(※トーク内でのgql-genはいい間違えです) https://github.com/apollographql/apollo-tooling#apollo-clientcodegen-output &nbsp;</p>\n<p>- GithubのGraphQL schema (10000行) https://gist.github.com/nikolasburk/15f30bb3e19e5bf8329ff52787fa72b5</p>\n<p>- GraphiQL https://github.com/graphql/graphiql</p>\n<p>- GraphQL Ruby https://graphql-ruby.org/</p>\n<p>- GraphQL Summit https://summit.graphql.com/</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;- Deferのトーク https://www.youtube.com/watch?v=icv_Pq06aOY</p>\n<p>- graphql.fm https://www.twitch.tv/graphqlfm&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;- Co-Creator & Engineering Director at Facebook Dan Schafer がゲスト</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>\n<p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/1-Code-first-vs--schema-first-development-in-GraphQL-ejkkfg",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "cdbb64d8-a7d0-4a41-8886-bedef1261d17"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Thu, 27 Aug 2020 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/19599280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-14%2F40bc8ae9-de10-3448-f6aa-37a0bc6cd16d.mp3",
+        "@length": 41075132,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は「Code-first vs. schema-first development in GraphQL」(https://blog.logrocket.com/code-first-vs-schema-first-development-graphql/) について話をしました。</p>\n<p><br></p>\n<p>- apollo-gen(※トーク内でのgql-genはいい間違えです) https://github.com/apollographql/apollo-tooling#apollo-clientcodegen-output &nbsp;</p>\n<p>- GithubのGraphQL schema (10000行) https://gist.github.com/nikolasburk/15f30bb3e19e5bf8329ff52787fa72b5</p>\n<p>- GraphiQL https://github.com/graphql/graphiql</p>\n<p>- GraphQL Ruby https://graphql-ruby.org/</p>\n<p>- GraphQL Summit https://summit.graphql.com/</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;- Deferのトーク https://www.youtube.com/watch?v=icv_Pq06aOY</p>\n<p>- graphql.fm https://www.twitch.tv/graphqlfm&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;- Co-Creator &amp; Engineering Director at Facebook Dan Schafer がゲスト</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>\n<p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:39:03",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episode": 1,
+      "itunes:episodeType": "full"
+    }
+  ]
+}
