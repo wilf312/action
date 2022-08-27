@@ -18,7 +18,17 @@ const main = async () => {
     const jsObj = xml.parse(file, { debug: false });
 
     // json の書き出し
-    writePodcastJSON(item.hashEncoded, jsObj?.rss?.channel || "");
+
+    let json = jsObj?.rss?.channel || "";
+    // airsap の動的な要素を削除する
+    if (item.url.includes(`airsap.net`)) {
+      json.item = json.item.map((d) => {
+        delete d["content:encoded"];
+
+        return d;
+      });
+    }
+    writePodcastJSON(item.hashEncoded, json);
   }
 };
 
