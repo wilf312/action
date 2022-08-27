@@ -54,7 +54,7 @@ ${ymlText}
             echo "no commit change"
             exit 0
           else 
-            git add .
+            git add ./json/*
             git commit -m "ci"
             git push
           fi
