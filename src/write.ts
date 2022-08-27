@@ -19,7 +19,7 @@ export const writeUrlList = (urlList: UrlListItem[]) => {
  */
 export const writePodcastJSON = (hashEncoded: string, jsObj: any) => {
   return Deno.writeTextFile(
-    `./rss/${hashEncoded}.json`,
+    `./json/${hashEncoded}.json`,
     JSON.stringify(jsObj, null, 2)
   );
 };
