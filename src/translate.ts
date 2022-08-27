@@ -30,11 +30,7 @@ const main = async () => {
     } else if (
       [`anchor.fm`, `pitpa.jp`].some((pattern) => item.url.includes(pattern))
     ) {
-      json.item = json.item.map((d) => {
-        delete d["lastBuildDate"];
-
-        return d;
-      });
+      delete json["alastBuildDateaaa"];
     }
     writePodcastJSON(item.hashEncoded, json);
   }
