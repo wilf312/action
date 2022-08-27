@@ -32,3 +32,12 @@ export const writePodcastJSON = (hashEncoded: string, jsObj: any) => {
 export const writeAction = (actionYml: string) => {
   return Deno.writeTextFile(".github/workflows/blank.yml", actionYml);
 };
+
+/**
+ * shellscript にローカルxml取得用のスクリプトを書き出す
+ * @param actionText
+ * @returns
+ */
+export const writeLocalShellScript = (actionText: string) => {
+  return Deno.writeTextFile("local/downloadxml.sh", actionText);
+};

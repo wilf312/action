@@ -5,7 +5,7 @@
  */
 import { getEncodedUrl } from "./config.ts";
 import { templateAction } from "./action.ts";
-import { writeUrlList, writeAction } from "./write.ts";
+import { writeUrlList, writeAction, writeLocalShellScript } from "./write.ts";
 
 const main = async () => {
   // hashをエンコードしたデータを作成
@@ -26,6 +26,9 @@ const main = async () => {
   const actionYml = templateAction(ymlText);
 
   await writeAction(actionYml);
+
+  // shellscript にローカルxml取得用のスクリプトを書き出す
+  await writeLocalShellScript(ymlText);
 };
 
 main();
