@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Secure Liaison]]></title>
+		<description><![CDATA[セキュリティアーキテクト・エンジニアであるken5（@ken5scal)が１人で、時にはゲストを招き、セキュリティネタをまったりと話すテック系Podcastです。通勤通学や作業のお供にお楽しみください。 ハッシュタグ：#secure旅団, おたより・アンケート：https://forms.gle/4hJNHn6ZfW5CAza9A]]></description>
+		<link>https://anchor.fm/secure-fm</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg</url>
+			<title>Secure Liaison</title>
+			<link>https://anchor.fm/secure-fm</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 21 Aug 2022 23:40:03 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/2607ca1c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Secure旅団]]></author>
+		<copyright><![CDATA[Secure旅団]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Secure旅団</itunes:author>
+		<itunes:summary>セキュリティアーキテクト・エンジニアであるken5（@ken5scal)が１人で、時にはゲストを招き、セキュリティネタをまったりと話すテック系Podcastです。通勤通学や作業のお供にお楽しみください。 ハッシュタグ：#secure旅団, おたより・アンケート：https://forms.gle/4hJNHn6ZfW5CAza9A</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Secure旅団</itunes:name>
+			<itunes:email>podcasts60+2607ca1c@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+		<item>
+			<title><![CDATA[Grafanaの脆弱性とか、SRE的なセキュリティとか]]></title>
+			<description><![CDATA[<p>(収録日: 2022/07/25)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>ストレスのシグナル</li>
+ <li>新作ゲーム（ライブアライブ, Stray）</li>
+  <li>トップガン・マーヴェリック（２回目）</li>
+  <li>Grafana OAuthの脆弱性（CVE-2022-31107）</li>
+  <li>ダッシュボードの話</li>
+  <li>Cloud Security Podcast by Googleのおすすめ</li>
+  <li>RSAカンファレンスのMicrosoftの話</li>
+  <li>NISTとAutomation</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li><a href="https://ken5scal.notion.site/Software-Supply-Chain-and-DevOps-Security-Practices-NCCoE-98bbd6fcf5fb453dab73ef76f973ac0b">Software Supply Chain and DevOps Security Practices | NCCoE</a></li>
+  <li><a href="https://ken5scal.notion.site/Cloud-Security-Podcast-by-Google-EP75-How-We-Scale-Detection-and-Response-at-Google-Automation-M-58b0d94851cf44a29e85832398de3d2a">Cloud Security Podcast by Google - EP75 How We Scale Detection and Response at Google: Automation, Metrics, Toil</a></li>
+  <li><a href="https://www.notion.so/ken5scal/54bda4932da14add9e9911ab3e9a6e5c?p=75d9a16f126e4bfba03a16bbed21e4f8&amp;pm=c">Grafana account takeover via OAuth vulnerability · Advisory · grafana/grafana</a></li>
+  <li><a href="https://ken5scal.notion.site/All-Hands-on-Deck-A-Whole-of-Society-Approach-for-Cybersecurity-Microsoft-Security-Response-Cente-adcd08db73bc4b59bf610a86a6fbf0de">All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity – Microsoft Security Response Center</a></li>
+</ul>
+<p>#積ん読</p>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/GrafanaSRE-e1mg3ke</link>
+			<guid isPermaLink="false">ed9d2365-e50e-4e2d-8d95-0e1d9091c233</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 14 Aug 2022 23:30:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/56151118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-14%2F6258c092-3c33-abd8-6922-a2101594db40.mp3" length="59768387" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/07/25)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;ストレスのシグナル&lt;/li&gt;
+ &lt;li&gt;新作ゲーム（ライブアライブ, Stray）&lt;/li&gt;
+  &lt;li&gt;トップガン・マーヴェリック（２回目）&lt;/li&gt;
+  &lt;li&gt;Grafana OAuthの脆弱性（CVE-2022-31107）&lt;/li&gt;
+  &lt;li&gt;ダッシュボードの話&lt;/li&gt;
+  &lt;li&gt;Cloud Security Podcast by Googleのおすすめ&lt;/li&gt;
+  &lt;li&gt;RSAカンファレンスのMicrosoftの話&lt;/li&gt;
+  &lt;li&gt;NISTとAutomation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ken5scal.notion.site/Software-Supply-Chain-and-DevOps-Security-Practices-NCCoE-98bbd6fcf5fb453dab73ef76f973ac0b&quot;&gt;Software Supply Chain and DevOps Security Practices | NCCoE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ken5scal.notion.site/Cloud-Security-Podcast-by-Google-EP75-How-We-Scale-Detection-and-Response-at-Google-Automation-M-58b0d94851cf44a29e85832398de3d2a&quot;&gt;Cloud Security Podcast by Google - EP75 How We Scale Detection and Response at Google: Automation, Metrics, Toil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/ken5scal/54bda4932da14add9e9911ab3e9a6e5c?p=75d9a16f126e4bfba03a16bbed21e4f8&amp;amp;pm=c&quot;&gt;Grafana account takeover via OAuth vulnerability · Advisory · grafana/grafana&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ken5scal.notion.site/All-Hands-on-Deck-A-Whole-of-Society-Approach-for-Cybersecurity-Microsoft-Security-Response-Cente-adcd08db73bc4b59bf610a86a6fbf0de&quot;&gt;All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity – Microsoft Security Response Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[プライバシー・スペシャル - 弁護士先生とプライバシーとの話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/07/30)</p>
+<ul>
+ <li>今回は @seko_law さん（hp: <a href="https://t.co/uLytp14it4" rel="noopener noreferrer nofollow" target="_blank">https://seko-law.info</a>）をゲストにお呼びしています</li>
+</ul>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>sekoさん登場</li>
+  <li>法務としての立ち振舞方</li>
+  <li>今回の背景</li>
+  <li>&nbsp;まずは個人情報保護委員会のガイドラインやQ&amp;Aを読もう</li>
+  <li>チェックシートを個人情報保護の観点から（フォーマット</li>
+  <li>なぜチェックシートは自動化できないか</li>
+  <li>提供元基準としての個人情報</li>
+  <li>チェック内容の繊維</li>
+  <li>個人情報とリスクベース</li>
+  <li>ガイドラインレベルでも違うが、結局、業界も含め利用ユースケース次第</li>
+  <li>日常的な（よく日常手きく）個人情報のと法律的な個人情報は違う</li>
+  <li>GDPRがベース</li>
+  <li>法律メンと技術メンのか変わり方</li>
+  <li>文脈共有</li>
+  <li>60分でわから個人情報保護</li>
+  <li>グラデーションによって個人情報の取り組みの濃淡をつけたい</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li><a href="https://vimeo.com/693847817/d1a671b075">法務が知っておきたいデータセキュリティの基本（動画）</a></li>
+  <li><a href="https://speakerdeck.com/seko_shuhei/fa-wu-gazhi-tuteokitaidetasekiyuriteifalseji-ben">法務が知っておきたいデータセキュリティの基本（資料）</a></li>
+  <li><a href="https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/oecd8198009.html">ＯＥＣＤ理事会勧告８原則</a></li>
+  <li><a href="https://www.ppc.go.jp/personalinfo/legal/">個人情報保護の法令・ガイドライン等</a></li>
+  <li><a href="https://www.ppc.go.jp/personalinfo/faq/APPI_QA/">個人情報の保護に関する法律についてのガイドライン に関するＱ＆Ａ</a></li>
+  <li><a href="https://leg.colorado.gov/sites/default/files/2021a_190_signed.pdf">コロラド州のプライバシー法</a></li>
+</ul>
+<p>#積ん読</p>
+<ul>
+  <li><a href="https://www.amazon.co.jp/60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95-%E8%B6%85%E5%85%A5%E9%96%80-%E5%BC%81%E8%AD%B7%E5%A3%AB-%E7%94%B0%E4%B8%AD/dp/4297127156/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=1AWRO3P29YJ0H&amp;keywords=60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95&amp;qid=1659157708&amp;sprefix=60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95+%2Caps%2C189&amp;sr=8-1">60分でわかる! 改正個人情報保護法 超入門</a></li>
+</ul>
+<p># 参加者: seko_lawさん、針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/--e1lsfem</link>
+			<guid isPermaLink="false">cbba8041-9ab5-4c85-a7b2-a6c2825faf0d</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 31 Jul 2022 23:30:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/55507862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-30%2F82365f8e-ff5e-02c6-4c33-e46d35ef3d41.mp3" length="89298828" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/07/30)&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;今回は @seko_law さん（hp: &lt;a href=&quot;https://t.co/uLytp14it4&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;https://seko-law.info&lt;/a&gt;）をゲストにお呼びしています&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;sekoさん登場&lt;/li&gt;
+  &lt;li&gt;法務としての立ち振舞方&lt;/li&gt;
+  &lt;li&gt;今回の背景&lt;/li&gt;
+  &lt;li&gt;&amp;nbsp;まずは個人情報保護委員会のガイドラインやQ&amp;amp;Aを読もう&lt;/li&gt;
+  &lt;li&gt;チェックシートを個人情報保護の観点から（フォーマット&lt;/li&gt;
+  &lt;li&gt;なぜチェックシートは自動化できないか&lt;/li&gt;
+  &lt;li&gt;提供元基準としての個人情報&lt;/li&gt;
+  &lt;li&gt;チェック内容の繊維&lt;/li&gt;
+  &lt;li&gt;個人情報とリスクベース&lt;/li&gt;
+  &lt;li&gt;ガイドラインレベルでも違うが、結局、業界も含め利用ユースケース次第&lt;/li&gt;
+  &lt;li&gt;日常的な（よく日常手きく）個人情報のと法律的な個人情報は違う&lt;/li&gt;
+  &lt;li&gt;GDPRがベース&lt;/li&gt;
+  &lt;li&gt;法律メンと技術メンのか変わり方&lt;/li&gt;
+  &lt;li&gt;文脈共有&lt;/li&gt;
+  &lt;li&gt;60分でわから個人情報保護&lt;/li&gt;
+  &lt;li&gt;グラデーションによって個人情報の取り組みの濃淡をつけたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/693847817/d1a671b075&quot;&gt;法務が知っておきたいデータセキュリティの基本（動画）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/seko_shuhei/fa-wu-gazhi-tuteokitaidetasekiyuriteifalseji-ben&quot;&gt;法務が知っておきたいデータセキュリティの基本（資料）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/oecd8198009.html&quot;&gt;ＯＥＣＤ理事会勧告８原則&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ppc.go.jp/personalinfo/legal/&quot;&gt;個人情報保護の法令・ガイドライン等&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ppc.go.jp/personalinfo/faq/APPI_QA/&quot;&gt;個人情報の保護に関する法律についてのガイドライン に関するＱ＆Ａ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leg.colorado.gov/sites/default/files/2021a_190_signed.pdf&quot;&gt;コロラド州のプライバシー法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95-%E8%B6%85%E5%85%A5%E9%96%80-%E5%BC%81%E8%AD%B7%E5%A3%AB-%E7%94%B0%E4%B8%AD/dp/4297127156/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;crid=1AWRO3P29YJ0H&amp;amp;keywords=60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95&amp;amp;qid=1659157708&amp;amp;sprefix=60%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E6%94%B9%E6%AD%A3%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E6%B3%95+%2Caps%2C189&amp;amp;sr=8-1&quot;&gt;60分でわかる! 改正個人情報保護法 超入門&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: seko_lawさん、針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:32:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[脅威の考え方などについて]]></title>
+			<description><![CDATA[<p>(収録日: 2022/07/13)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>政府系ドキュメントに思うこと。CNCFみたいなコンポーネントとかにするとか</li>
+ <li>サンドラッグ　リスト型攻撃 <a href="https://smbiz.asahi.com/article/14668844" rel="noopener noreferrer" target="_blank">https://smbiz.asahi.com/article/14668844</a></li>
+  <li>IPAの産業サイバーセキュリティセンターの中核人材育成プログラムについて</li>
+  <li>松本さんが社会人の要件について語る</li>
+  <li>メタップスペイメントの話</li>
+  <li>脅威の考え方について</li>
+  <li><br></li>
+</ul>
+<p># 参照</p>
+<p>#積ん読</p>
+<ul>
+  <li><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E6%9D%BE%E7%94%B0%E5%92%8C%E6%A8%B9/dp/4781702511">オンラインゲームセキュリティ</a></li>
+</ul>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e1lb5h4</link>
+			<guid isPermaLink="false">0ce76a04-3bf4-42a3-b6f3-9e2e6f46a35c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 18 Jul 2022 00:45:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/54940644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-17%2F1cd1a813-b1c4-120a-0aad-d610b8686f18.mp3" length="54630125" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/07/13)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;政府系ドキュメントに思うこと。CNCFみたいなコンポーネントとかにするとか&lt;/li&gt;
+ &lt;li&gt;サンドラッグ　リスト型攻撃 &lt;a href=&quot;https://smbiz.asahi.com/article/14668844&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://smbiz.asahi.com/article/14668844&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IPAの産業サイバーセキュリティセンターの中核人材育成プログラムについて&lt;/li&gt;
+  &lt;li&gt;松本さんが社会人の要件について語る&lt;/li&gt;
+  &lt;li&gt;メタップスペイメントの話&lt;/li&gt;
+  &lt;li&gt;脅威の考え方について&lt;/li&gt;
+  &lt;li&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E6%9D%BE%E7%94%B0%E5%92%8C%E6%A8%B9/dp/4781702511&quot;&gt;オンラインゲームセキュリティ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[雑談会v2]]></title>
+			<description><![CDATA[<p>(収録日: 2022/06/13)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>トップガンの話</li>
+ <li>スプリガンの話</li>
+  <li>ドローン規制の話</li>
+  <li>ゲームの話</li>
+</ul>
+<p># 参照</p>
+<p>#積ん読</p>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/v2-e1k4fe7</link>
+			<guid isPermaLink="false">d38848bf-9c20-404e-8b07-385763eedcdd</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 19 Jun 2022 23:30:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/53672839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-18%2F8199b63d-0fcc-4575-a04a-8fb6d8536bab.mp3" length="53006292" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/06/13)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;トップガンの話&lt;/li&gt;
+ &lt;li&gt;スプリガンの話&lt;/li&gt;
+  &lt;li&gt;ドローン規制の話&lt;/li&gt;
+  &lt;li&gt;ゲームの話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:46:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[東京ドームの入場チケット、Lapsus$、拾うボールの話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/03/28)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>東京ドームの入場チケット</li>
+ <li>LAPSUS$とOkta/Microsoft</li>
+  <li>拾うボールの話</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li><a href="https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/"><u>DEV-0537 criminal actor targeting organizations for data exfiltration and destruction</u></a></li>
+  <li><a href="https://gizmodo.com/microsoft-investigating-potential-lapsus-hack-1848680418"><u>Microsoft Investigating Potential LAPSUS$ Hack After Sensitive Screenshot Leak</u></a></li>
+  <li><a href="https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/"><u>Cloudflare’s investigation of the January 2022 Okta compromise</u></a></li>
+</ul>
+<p>#積ん読</p>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Lapsus-e1gl2mr</link>
+			<guid isPermaLink="false">c642ec88-fb67-4e09-99d2-e029b932c0ea</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/50022555/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-3%2F05f12678-20cb-525c-e7a4-f59c2a80f75f.mp3" length="68509103" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/03/28)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;東京ドームの入場チケット&lt;/li&gt;
+ &lt;li&gt;LAPSUS$とOkta/Microsoft&lt;/li&gt;
+  &lt;li&gt;拾うボールの話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/&quot;&gt;&lt;u&gt;DEV-0537 criminal actor targeting organizations for data exfiltration and destruction&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/microsoft-investigating-potential-lapsus-hack-1848680418&quot;&gt;&lt;u&gt;Microsoft Investigating Potential LAPSUS$ Hack After Sensitive Screenshot Leak&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/&quot;&gt;&lt;u&gt;Cloudflare’s investigation of the January 2022 Okta compromise&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:05:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Androidスマホブランド毎のアップデート状況などの話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/02/27)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>Androidのアップデート状況の話: <a href="https://hnpn914.hatenablog.com/entry/docomo-security-update">国内主要Androidスマートフォンブランドのアップデート実施状況を比べてみた</a>
+ <ul>
+      <li>Officeのmacroデフォ無効化: <a href="https://www.itmedia.co.jp/news/articles/2202/08/news070.html">Microsoft、OfficeのVBAマクロをデフォルトブロックへ　悪用対策で</a></li>
+    </ul>
+  </li>
+  <li><a href="https://prtimes.jp/main/html/rd/p/000000006.000054541.html"><u>家庭用ルーターなどIoT機器のマルウェア検査サービス「am I infected?」の無料提供を開始｜株式会社ゼロゼロワンのプレスリリース</u></a></li>
+  <li><a href="https://www.med.nagoya-u.ac.jp/hospital/news/news/2022/02/24135730.html"><u>名古屋大学への不正アクセスによる個人情報流出について - お知らせ - 病院からのお知らせ | 名古屋大学医学部附属病院</u></a></li>
+</ul>
+<p>#積ん読</p>
+<p>Software Design 2022年３月号</p>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Android-e1fdgo8</link>
+			<guid isPermaLink="false">e02dbb9b-2643-467b-b773-d84044e7a120</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/48726216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-8%2Ff381c89c-0600-6020-8cb9-978d3676b634.mp3" length="82287532" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/02/27)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Androidのアップデート状況の話: &lt;a href=&quot;https://hnpn914.hatenablog.com/entry/docomo-security-update&quot;&gt;国内主要Androidスマートフォンブランドのアップデート実施状況を比べてみた&lt;/a&gt;
+ &lt;ul&gt;
+      &lt;li&gt;Officeのmacroデフォ無効化: &lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2202/08/news070.html&quot;&gt;Microsoft、OfficeのVBAマクロをデフォルトブロックへ　悪用対策で&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prtimes.jp/main/html/rd/p/000000006.000054541.html&quot;&gt;&lt;u&gt;家庭用ルーターなどIoT機器のマルウェア検査サービス「am I infected?」の無料提供を開始｜株式会社ゼロゼロワンのプレスリリース&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.med.nagoya-u.ac.jp/hospital/news/news/2022/02/24135730.html&quot;&gt;&lt;u&gt;名古屋大学への不正アクセスによる個人情報流出について - お知らせ - 病院からのお知らせ | 名古屋大学医学部附属病院&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;Software Design 2022年３月号&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:20:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>38</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[雑談回]]></title>
+			<description><![CDATA[<p>(収録日: 2022/02/20)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>アニメやフィクションの頼み仕方</li>
+ <li>ゲームの話から筋トレの話</li>
+  <li>メンタルの整え方</li>
+  <li>ラーメンの話</li>
+  <li>他</li>
+</ul>
+<p>#積ん読</p>
+<p>特に無し</p>
+<p># 参加者: 針金細工さん（元名無しさん）、ykyanさん, 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e1evtqk</link>
+			<guid isPermaLink="false">9e807f09-0194-4fc9-bbf5-13d900dfca1e</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 27 Feb 2022 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/48280852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-27%2F3bbd5aae-9be8-6d08-07d6-d58beced8c2d.mp3" length="72195748" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/02/20)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;アニメやフィクションの頼み仕方&lt;/li&gt;
+ &lt;li&gt;ゲームの話から筋トレの話&lt;/li&gt;
+  &lt;li&gt;メンタルの整え方&lt;/li&gt;
+  &lt;li&gt;ラーメンの話&lt;/li&gt;
+  &lt;li&gt;他&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;特に無し&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、ykyanさん, 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:09:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Mini HardeningやCoinhive事件の話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/02/05)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>Mini Hardeningの運営の話</li>
+ <li>Firefoxの障害の振り返り　(<a href="https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/">Retrospective and Technical Details on the recent Firefox Outage</a>)</li>
+  <li>Coinhive訴訟の話　（<a href="https://www.hacker.or.jp/donation/">一般社団法人日本ハッカー協会の寄付先はこちら</a>）</li>
+  <li>地球外少年少女</li>
+</ul>
+<p>#積ん読</p>
+<p>特に無い</p>
+<p># 参加者: 針金細工さん（元名無しさん）、ykyanさん, 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Mini-HardeningCoinhive-e1e0opr</link>
+			<guid isPermaLink="false">8036f907-0b26-4b0c-9d48-9512ae5d5721</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 06 Feb 2022 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/47259899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-6%2F68fb3876-adcc-15e4-82c8-52366da8bd2e.mp3" length="77768716" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/02/05)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Mini Hardeningの運営の話&lt;/li&gt;
+ &lt;li&gt;Firefoxの障害の振り返り　(&lt;a href=&quot;https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/&quot;&gt;Retrospective and Technical Details on the recent Firefox Outage&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Coinhive訴訟の話　（&lt;a href=&quot;https://www.hacker.or.jp/donation/&quot;&gt;一般社団法人日本ハッカー協会の寄付先はこちら&lt;/a&gt;）&lt;/li&gt;
+  &lt;li&gt;地球外少年少女&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;特に無い&lt;/p&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、ykyanさん, 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:14:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[脆弱性情報の集め方、情報流出とHDD、OSSに悪意のあるコードが注入された話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/01/16)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p>firefoxOS搭載のTVを販売していたのはSHARPさんではなくPanasonicさんでした訂正します<br>
+他にも間違ったことに気づかれた方はご指摘いただけると幸いです。</p>
+<p># 内容</p>
+<ul>
+ <li>脆弱性情報の集め方</li>
+ <li><a href="https://www.lac.co.jp/news/2022/01/14_press_01.html">情報流出とHDDと</a></li>
+ <li><a href="https://twitter.com/firefox/status/1481657624651313155?s=20">Firefoxの障害の話</a>
+   <ul>
+      <li>colors、faker.jsなどのnpmパッケージに悪意あるコードが作者により含まれていたはなし</li>
+    </ul>
+  </li>
+</ul>
+<p>#積ん読</p>
+<p><a href="https://gihyo.jp/book/2021/978-4-297-12307-9">図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書</a></p>
+<p># 参加者: 名無し、ykyanさん, 松本さん(@ym405nm)</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/HDDOSS-e1de833</link>
+			<guid isPermaLink="false">c4872989-39fa-4ca6-a94f-3d3125c1e3ff</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 26 Jan 2022 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/46652963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2F150fa3cb-7e4d-0008-8376-ad17e98f7c48.mp3" length="177621260" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/01/16)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;firefoxOS搭載のTVを販売していたのはSHARPさんではなくPanasonicさんでした訂正します&lt;br&gt;
+他にも間違ったことに気づかれた方はご指摘いただけると幸いです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;脆弱性情報の集め方&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.lac.co.jp/news/2022/01/14_press_01.html&quot;&gt;情報流出とHDDと&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/firefox/status/1481657624651313155?s=20&quot;&gt;Firefoxの障害の話&lt;/a&gt;
+   &lt;ul&gt;
+      &lt;li&gt;colors、faker.jsなどのnpmパッケージに悪意あるコードが作者により含まれていたはなし&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gihyo.jp/book/2021/978-4-297-12307-9&quot;&gt;図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;# 参加者: 名無し、ykyanさん, 松本さん(@ym405nm)&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:14:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[カルチャーの作り方、リスク管理、経営に寄り添う話]]></title>
+			<description><![CDATA[<p>(収録日: 2022/01/07)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p>2022年あけましておめでとうございます、年始なのでエモい話多めです</p>
+<p><br></p>
+<p># 内容</p>
+<ul>
+ <li>経営統合とカルチャーの作り方</li>
+ <li>ポリシーメイキングと実態のトラッキングの話</li>
+  <li>リスク管理と経営に寄り添うとは～mins your own business～</li>
+  <li>他業種との付き合い方</li>
+  <li>CESとCPU開発者の小話</li>
+</ul>
+<p># 参加者: 名無し、ykyanさん, @ken5scal</p>
+<p><br></p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e1de74q</link>
+			<guid isPermaLink="false">606b6244-7c03-4975-abe7-0d09cb758827</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Tue, 25 Jan 2022 12:46:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/46651994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2F1dca27bd-cfc0-aaf9-a5b8-ecf03bdb9a54.mp3" length="82219924" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/01/07)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;2022年あけましておめでとうございます、年始なのでエモい話多めです&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;経営統合とカルチャーの作り方&lt;/li&gt;
+ &lt;li&gt;ポリシーメイキングと実態のトラッキングの話&lt;/li&gt;
+  &lt;li&gt;リスク管理と経営に寄り添うとは～mins your own business～&lt;/li&gt;
+  &lt;li&gt;他業種との付き合い方&lt;/li&gt;
+  &lt;li&gt;CESとCPU開発者の小話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無し、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[log4jとWAF, Freeeのサイバー演習, Regoの話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/12/19)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p>なお、今回のDevice Trust周りは製品によって差があるかもしれませんし、そもそも不正確なことを言っているかもしれません。</p>
+<p>気づかれた方はご指摘いただけると幸いです。</p>
+<p># 内容</p>
+<ul>
+ <li>log4jの話（続</li>
+ <li><a href="https://blogs.jpcert.or.jp/ja/2021/12/log4j-cve-2021-44228.html">WAFとシグネチャと運用について</a></li>
+  <li><a href="https://developers.freee.co.jp/entry/howto-make-cyber-exercise-scenario">【マジで】サイバー演習シナリオの作り方【怖い】</a></li>
+  <li><a href="https://speakerdeck.com/mizutani/trivy-rego">Trivy + Regoを用いたパッケージ脆弱性管理 /trivy-rego</a></li>
+</ul>
+<p># 参加者: ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/log4jWAF--Freee--Rego-e1c1seo</link>
+			<guid isPermaLink="false">f05aa5e8-afc6-4e42-b102-d8a58e26c509</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/45199256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-22%2Fc9cb5c50-cb67-08a0-c401-6e9a986e406e.mp3" length="49607276" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/12/19)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;なお、今回のDevice Trust周りは製品によって差があるかもしれませんし、そもそも不正確なことを言っているかもしれません。&lt;/p&gt;
+&lt;p&gt;気づかれた方はご指摘いただけると幸いです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;log4jの話（続&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blogs.jpcert.or.jp/ja/2021/12/log4j-cve-2021-44228.html&quot;&gt;WAFとシグネチャと運用について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.freee.co.jp/entry/howto-make-cyber-exercise-scenario&quot;&gt;【マジで】サイバー演習シナリオの作り方【怖い】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/mizutani/trivy-rego&quot;&gt;Trivy + Regoを用いたパッケージ脆弱性管理 /trivy-rego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Log4j 2や防御側のマインドセットの話 他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/12/12)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>log4jの話（収録日からやや経過してるため、現時点で古い話もある可能性があります）</li>
+ <li><a href="https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa">Defender`s mindset</a></li>
+ <li><a href="https://www.igaku-shoin.co.jp/paper/archive/y2021/3433_01">人はなぜミスしてしまうのか</a></li>
+ <li>聴いてないけど聴いたふりする技術</li>
+  <li><a href="https://www.amazon.co.jp/dp/4480097570">読んでいない本について堂々と語る方法</a></li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Log4j-2-e1bn5hk</link>
+			<guid isPermaLink="false">0bfbff97-461f-4f4d-b379-79c60a89cb9d</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/44848116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-14%2F0e3d390f-d2ca-6a81-5329-b8c613ee9ad2.mp3" length="85262692" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/12/12)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;log4jの話（収録日からやや経過してるため、現時点で古い話もある可能性があります）&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa&quot;&gt;Defender`s mindset&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.igaku-shoin.co.jp/paper/archive/y2021/3433_01&quot;&gt;人はなぜミスしてしまうのか&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;聴いてないけど聴いたふりする技術&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4480097570&quot;&gt;読んでいない本について堂々と語る方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:20:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[PyPyのパッケージ汚染やRedashの脆弱性 の話　他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/11/27)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>年末に向けて経済活動回してるよって話</li>
+ <li>BIMIの話</li>
+ <li>Emotet復活の話を少々とメールというプロトコルのユースケース</li>
+ <li><a href="https://jfrog.com/blog/python-malware-imitates-signed-pypi-traffic-in-novel-exfiltration-technique/">PyPyのパッケージ汚染(11/18)</a></li>
+ <li>セッションごととかにセキュリティ強弱をつける話（<a href="https://scrapbox.io/info-gathering-public/CAEP_%2F_Shared_Signals_and_Events_WG">CAEP / Shared Signals and Events WG</a>)</li>
+ <li>OSSFのAllstartとか<a href="https://github.com/ossf/scorecard">Score Cards</a></li>
+  <li>runtimeのauditの話: <a href="https://www.notion.so/ken5scal/Secure-Namespaced-Kernel-Audit-for-Containers-97d2e1aae1f348dfa98778680d014ae5">Secure Namespaced Kernel Audit for Containers</a></li>
+  <li><a href="https://github.com/getredash/redash/security/advisories">Redashの脆弱性の話とGithub Security Advisory</a></li>
+  <li><a href="https://www.nikkei.com/article/DGXZQOUE25C3L0V21C21A1000000/">身代金払わず2億円で新システム　徳島サイバー被害病院</a></li>
+  <li>ブラックフライデーの話とPS5欲しいって話</li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/PyPyRedash-e1aup50</link>
+			<guid isPermaLink="false">55b4cc67-b975-4e0c-93ac-cfa44e331803</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 28 Nov 2021 23:35:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/44048992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-28%2F2538d6fb-b873-441b-6b66-ac54b48922f1.mp3" length="77805220" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/11/27)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;年末に向けて経済活動回してるよって話&lt;/li&gt;
+ &lt;li&gt;BIMIの話&lt;/li&gt;
+ &lt;li&gt;Emotet復活の話を少々とメールというプロトコルのユースケース&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://jfrog.com/blog/python-malware-imitates-signed-pypi-traffic-in-novel-exfiltration-technique/&quot;&gt;PyPyのパッケージ汚染(11/18)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;セッションごととかにセキュリティ強弱をつける話（&lt;a href=&quot;https://scrapbox.io/info-gathering-public/CAEP_%2F_Shared_Signals_and_Events_WG&quot;&gt;CAEP / Shared Signals and Events WG&lt;/a&gt;)&lt;/li&gt;
+ &lt;li&gt;OSSFのAllstartとか&lt;a href=&quot;https://github.com/ossf/scorecard&quot;&gt;Score Cards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;runtimeのauditの話: &lt;a href=&quot;https://www.notion.so/ken5scal/Secure-Namespaced-Kernel-Audit-for-Containers-97d2e1aae1f348dfa98778680d014ae5&quot;&gt;Secure Namespaced Kernel Audit for Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/getredash/redash/security/advisories&quot;&gt;Redashの脆弱性の話とGithub Security Advisory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nikkei.com/article/DGXZQOUE25C3L0V21C21A1000000/&quot;&gt;身代金払わず2億円で新システム　徳島サイバー被害病院&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ブラックフライデーの話とPS5欲しいって話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[バッタ対策やTokyoワクションアプリ、採用・キャリアの話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/11/05)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li><a href="https://otokomaeno.hatenablog.com/entry/2021/10/30/170343?_ga=2.3098422.706234889.1635579310-771748488.1634104245">バッタ（蝗害）対策が前進した話</a></li>
+ <li><a href="https://twitter.com/ozuma5119/status/1456187371435659268">TOKYOワクションアプリのドメインのお話</a></li>
+  <li><a href="https://twitter.com/npmjs/status/1456310581846163457">npm(coa)に対する悪意ある改ざん</a></li>
+  <li><a href="https://twitter.com/jujulife7/status/1456217641543077891/photo/1">おすすめ新卒研修とセキュリティコンテンツ</a></li>
+  <li><a href="https://mztn.hatenablog.com/entry/2021/11/04/092940">セキュリティエンジニアがする採用の話</a></li>
+  <li>今日の積読: <a href="https://www.amazon.co.jp/%E3%83%90%E3%83%83%E3%82%BF%E3%82%92%E5%80%92%E3%81%97%E3%81%AB%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%B8-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%89%8D%E9%87%8E-%E3%82%A6%E3%83%AB%E3%83%89-%E6%B5%A9%E5%A4%AA%E9%83%8E-ebook/dp/B072FGTM65/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=%E3%83%90%E3%83%83%E3%82%BF%E3%82%92%E5%80%92%E3%81%97%E3%81%AB%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%B8&amp;qid=1636327726&amp;sr=8-1">バッタを倒しにアフリカへ</a>,&nbsp;<a href="https://www.oreilly.co.jp/books/9784873119076/">セキュリティエンジニアのための機械学習</a></li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Tokyo-e19tpfa</link>
+			<guid isPermaLink="false">5298940e-3aae-4914-a52e-7ee6c8286c0c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 07 Nov 2021 23:31:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/42967978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-7%2F492b593e-0d1c-4eeb-2e83-fb33b73bbbb4.mp3" length="89552188" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/11/05)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://otokomaeno.hatenablog.com/entry/2021/10/30/170343?_ga=2.3098422.706234889.1635579310-771748488.1634104245&quot;&gt;バッタ（蝗害）対策が前進した話&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://twitter.com/ozuma5119/status/1456187371435659268&quot;&gt;TOKYOワクションアプリのドメインのお話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/npmjs/status/1456310581846163457&quot;&gt;npm(coa)に対する悪意ある改ざん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jujulife7/status/1456217641543077891/photo/1&quot;&gt;おすすめ新卒研修とセキュリティコンテンツ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mztn.hatenablog.com/entry/2021/11/04/092940&quot;&gt;セキュリティエンジニアがする採用の話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;今日の積読: &lt;a href=&quot;https://www.amazon.co.jp/%E3%83%90%E3%83%83%E3%82%BF%E3%82%92%E5%80%92%E3%81%97%E3%81%AB%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%B8-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%89%8D%E9%87%8E-%E3%82%A6%E3%83%AB%E3%83%89-%E6%B5%A9%E5%A4%AA%E9%83%8E-ebook/dp/B072FGTM65/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=%E3%83%90%E3%83%83%E3%82%BF%E3%82%92%E5%80%92%E3%81%97%E3%81%AB%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%B8&amp;amp;qid=1636327726&amp;amp;sr=8-1&quot;&gt;バッタを倒しにアフリカへ&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873119076/&quot;&gt;セキュリティエンジニアのための機械学習&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:28:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[セキュリティの権限と業務委託、Amazonのセキュリティ教育公開などの話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/10/31)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>採用と業務委託と権限</li>
+ <li><a href="https://dev.classmethod.jp/articles/codeblue-2021-day1-track1-1530/">セキュリティのアレ ～ 知識と技術とあと2つ ～ – CODE BLUE 2021</a> #codeblue_jp</li>
+ <li><a href="https://learnsecurity.amazon.com/">Amazonが従業員向けのセキュリティオンライントレーニングを無償で一般公開</a></li>
+ <li><a href="https://mvsp.dev/mvsp.en/index.html">Minimum Viable Security Product</a> ( <a href="//Google Online Security Blog: Launching a collaborative minimum security baseline">Googleのブログ</a> ）</li>
+  <li>集合知の話</li>
+  <li>メモツール</li>
+  <li>VR, AR, MRと電脳コイル</li>
+  <li><a href="https://www.youtube.com/watch?v=wgQkqPmDIAQ">Netflixセキュリティの定量化</a></li>
+  <li>領域外を勉強する方法について( <a href="https://engineer-lab.findy-code.io/trivy-fukuda">苦手を捨てる決断により広がった世界 - 限られたリソースしか持たないエンジニアの戦い方</a> )</li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Amazon-e19iaok</link>
+			<guid isPermaLink="false">b1c11f2a-f4b6-4539-8b33-91328b8e5d7f</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 31 Oct 2021 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/42592468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-31%2Fd78d1fb5-2f70-52ae-3df0-f690393c3567.mp3" length="85275172" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/10/31)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;採用と業務委託と権限&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://dev.classmethod.jp/articles/codeblue-2021-day1-track1-1530/&quot;&gt;セキュリティのアレ ～ 知識と技術とあと2つ ～ – CODE BLUE 2021&lt;/a&gt; #codeblue_jp&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://learnsecurity.amazon.com/&quot;&gt;Amazonが従業員向けのセキュリティオンライントレーニングを無償で一般公開&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://mvsp.dev/mvsp.en/index.html&quot;&gt;Minimum Viable Security Product&lt;/a&gt; ( &lt;a href=&quot;//Google Online Security Blog: Launching a collaborative minimum security baseline&quot;&gt;Googleのブログ&lt;/a&gt; ）&lt;/li&gt;
+  &lt;li&gt;集合知の話&lt;/li&gt;
+  &lt;li&gt;メモツール&lt;/li&gt;
+  &lt;li&gt;VR, AR, MRと電脳コイル&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wgQkqPmDIAQ&quot;&gt;Netflixセキュリティの定量化&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;領域外を勉強する方法について( &lt;a href=&quot;https://engineer-lab.findy-code.io/trivy-fukuda&quot;&gt;苦手を捨てる決断により広がった世界 - 限られたリソースしか持たないエンジニアの戦い方&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:23:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[イベントが多かったり社内での端末選定、OSリリースのお話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/10/23)</p>
+<p><br></p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p><br></p>
+<p># 内容</p>
+<ul>
+ <li><a href="https://ja.avtokyo.org/">AVTokyo</a></li>
+ <li><a href="https://www.oreilly.co.jp/books/9784873119076/">セキュリティエンジニアのための機械学習</a></li>
+  <li>機械学習と専門外のことをキャッチアップする技術</li>
+  <li>やっぱりフィッシングサイトを見抜くのは難しい話(Jamf Wandera) <a href="https://phishing-quiz.wandera.com/#!/"><u>https://phishing-quiz.wandera.com/#!/</u></a>&nbsp;</li>
+  <li>Windows Subsystem for Android</li>
+  <li>macOS Montereyの話</li>
+  <li>キーボードの小ネタ</li>
+</ul>
+<p><br></p>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p><br></p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/OS-e198uh3</link>
+			<guid isPermaLink="false">c94c7cd1-c4d0-4f46-818d-f9cc68c72332</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 25 Oct 2021 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/42285027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F198b016e-4c99-c687-3a4f-436ca8a64d81.mp3" length="76765228" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/10/23)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://ja.avtokyo.org/&quot;&gt;AVTokyo&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873119076/&quot;&gt;セキュリティエンジニアのための機械学習&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;機械学習と専門外のことをキャッチアップする技術&lt;/li&gt;
+  &lt;li&gt;やっぱりフィッシングサイトを見抜くのは難しい話(Jamf Wandera) &lt;a href=&quot;https://phishing-quiz.wandera.com/#!/&quot;&gt;&lt;u&gt;https://phishing-quiz.wandera.com/#!/&lt;/u&gt;&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;Windows Subsystem for Android&lt;/li&gt;
+  &lt;li&gt;macOS Montereyの話&lt;/li&gt;
+  &lt;li&gt;キーボードの小ネタ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:16:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[各種プラットフォームの新OSやApacheの脆弱性にまつわる開発の話、等]]></title>
+			<description><![CDATA[<p>(収録日: 2021/10/08)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p># お礼</p>
+<p>当Podcastをブログ等で取り上げていただいた、次の方々に御礼申し上げます。</p>
+<ul>
+ <li>インハウスハブ東京法律事務所 世古 修平弁護士</li>
+ <li>Microsoft Yurika先生</li>
+</ul>
+<p># 内容</p>
+<ul>
+  <li>セブンの回者（非公式）として、舞茸展おむすびと塩むすびのオススメ</li>
+  <li>唐揚げ棒廃止のお知らせ</li>
+  <li><a href="https://developer.apple.com/jp/support/prepare-your-network-for-icloud-private-relay/">iPhone</a>, <a href="https://developer.android.com/about/versions/12/summary">Android</a>, Windows OSのアプデの話</li>
+  <li>量子暗号そろそろ気になるよね、という話</li>
+  <li>Yubikey Bio
+    <ul>
+      <li><a href="https://httpd.apache.org/security/vulnerabilities_24.html">Apacheの脆弱性（CVE-2021-41773）</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.ipa.go.jp/security/vuln/10threats2021.html">セキュリティ10大脅威 2021</a></li>
+  <li><a href="https://go.dev/blog/fuzz-beta">Golang 1.18とNative Fuzzingの話</a> (すみません、1.18はBeta Fuzzingでした）</li>
+  <li>OSS的なPull Requestとアタックベクター</li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/OSApache-e18ilts</link>
+			<guid isPermaLink="false">57c0acb5-0f1d-49b4-952d-ebb81767d32e</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/41555324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-10%2F6e5e8c09-7508-719a-5c57-e1255b6fe4e0.mp3" length="72841564" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/10/08)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# お礼&lt;/p&gt;
+&lt;p&gt;当Podcastをブログ等で取り上げていただいた、次の方々に御礼申し上げます。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;インハウスハブ東京法律事務所 世古 修平弁護士&lt;/li&gt;
+ &lt;li&gt;Microsoft Yurika先生&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;セブンの回者（非公式）として、舞茸展おむすびと塩むすびのオススメ&lt;/li&gt;
+  &lt;li&gt;唐揚げ棒廃止のお知らせ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/jp/support/prepare-your-network-for-icloud-private-relay/&quot;&gt;iPhone&lt;/a&gt;, &lt;a href=&quot;https://developer.android.com/about/versions/12/summary&quot;&gt;Android&lt;/a&gt;, Windows OSのアプデの話&lt;/li&gt;
+  &lt;li&gt;量子暗号そろそろ気になるよね、という話&lt;/li&gt;
+  &lt;li&gt;Yubikey Bio
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://httpd.apache.org/security/vulnerabilities_24.html&quot;&gt;Apacheの脆弱性（CVE-2021-41773）&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipa.go.jp/security/vuln/10threats2021.html&quot;&gt;セキュリティ10大脅威 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://go.dev/blog/fuzz-beta&quot;&gt;Golang 1.18とNative Fuzzingの話&lt;/a&gt; (すみません、1.18はBeta Fuzzingでした）&lt;/li&gt;
+  &lt;li&gt;OSS的なPull Requestとアタックベクター&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[セキュリティ10大脅威とかOWASP Top10 2021とか]]></title>
+			<description><![CDATA[<p>(収録日: 2021/09/11)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>カレーパーンとﾏﾙﾄｯﾂｵの話</li>
+ <li><a href="https://www.ipa.go.jp/security/vuln/10threats2021.html">セキュリティ10大脅威 2021</a></li>
+ <li>トレーニングコンテンツ（例: <a href="https://phishingquiz.withgoogle.com/?hl=ja">Googleフィッシングクイズ</a>）</li>
+ <li>インフルエンサーや芸能人がフィッシングについてSNSで話すのいいよね</li>
+  <li><a href="https://owasp.org/Top10/">OWASP Top10 2021</a> Peer Review</li>
+  <li>プロダクトの脆弱性と対応方針</li>
+  <li><a href="https://www.infiniteloop.co.jp/blog/2021/09/unko/">テスト文字列に”うんこ”と入れるな</a></li>
+  <li>RFCかるた
+    <ul>
+      <li>今日の積ん読: <a href="https://www.amazon.co.jp/-/en/%E5%AE%AE%E5%8E%9F-%E5%BE%B9/dp/4863543581/ref=sr_1_1?adgrpid=123449011165&amp;dchild=1&amp;gclid=CjwKCAjwp_GJBhBmEiwALWBQkzIFles44CFV3G5D1-0Q2rvY_0wSoN5l9_lskupaK6R6PNMto9wBgxoCHXEQAvD_BwE&amp;hvadid=535088897031&amp;hvdev=c&amp;hvlocphy=1009314&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=221939983384549073&amp;hvtargid=kwd-1395152339648&amp;hydadcr=14990_10893039&amp;jp-ad-ap=0&amp;keywords=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&amp;qid=1631352975&amp;sr=8-1">オープンソースの教科書</a></li>
+    </ul>
+  </li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん, 松本さん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/10OWASP-Top10-2021-e177afh</link>
+			<guid isPermaLink="false">26b921e0-28b2-45c7-ba86-7daca4f03c92</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 12 Sep 2021 22:36:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/40134577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-11%2F7503f5fb-c237-1e43-5436-db2e94c9813a.mp3" length="74584259" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/09/11)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;カレーパーンとﾏﾙﾄｯﾂｵの話&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.ipa.go.jp/security/vuln/10threats2021.html&quot;&gt;セキュリティ10大脅威 2021&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;トレーニングコンテンツ（例: &lt;a href=&quot;https://phishingquiz.withgoogle.com/?hl=ja&quot;&gt;Googleフィッシングクイズ&lt;/a&gt;）&lt;/li&gt;
+ &lt;li&gt;インフルエンサーや芸能人がフィッシングについてSNSで話すのいいよね&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://owasp.org/Top10/&quot;&gt;OWASP Top10 2021&lt;/a&gt; Peer Review&lt;/li&gt;
+  &lt;li&gt;プロダクトの脆弱性と対応方針&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infiniteloop.co.jp/blog/2021/09/unko/&quot;&gt;テスト文字列に”うんこ”と入れるな&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RFCかるた
+    &lt;ul&gt;
+      &lt;li&gt;今日の積ん読: &lt;a href=&quot;https://www.amazon.co.jp/-/en/%E5%AE%AE%E5%8E%9F-%E5%BE%B9/dp/4863543581/ref=sr_1_1?adgrpid=123449011165&amp;amp;dchild=1&amp;amp;gclid=CjwKCAjwp_GJBhBmEiwALWBQkzIFles44CFV3G5D1-0Q2rvY_0wSoN5l9_lskupaK6R6PNMto9wBgxoCHXEQAvD_BwE&amp;amp;hvadid=535088897031&amp;amp;hvdev=c&amp;amp;hvlocphy=1009314&amp;amp;hvnetw=g&amp;amp;hvqmt=e&amp;amp;hvrand=221939983384549073&amp;amp;hvtargid=kwd-1395152339648&amp;amp;hydadcr=14990_10893039&amp;amp;jp-ad-ap=0&amp;amp;keywords=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&amp;amp;qid=1631352975&amp;amp;sr=8-1&quot;&gt;オープンソースの教科書&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん, 松本さん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:10:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[【研究会】クライアントサイドのTEEを使ったキャプチャ回避に関する論文について伺う話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/08/28)</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p><br></p>
+<p># 内容</p>
+<p>UC IrvineのNetworked Systems Programで博士課程にある中塚義道をゲストにお招きし、</p>
+<p>Usenix Security 2021に採択された「CACTI: Captcha Avoidance via Client-side TEE Integration」についてお話いただきました。</p>
+<p>具体的には現在のCaptchaの課題、それを解決するCACTIの各種コンポーネント、肝であるProvisioning Authorityなどについてご教示いただきました。</p>
+<p>参考資料はこちら</p>
+<ul>
+ <li><a href="https://arxiv.org/pdf/2007.10397.pdf">もとの論文: 「CACTI: Captcha Avoidance via Client-side TEE Integration」</a></li>
+ <li><a href="https://www.usenix.org/legacy/event/sec10/tech/full_papers/Motoyama.pdf">Captchaの経済的合理性について説明する論文: 「Understanding CAPTCHA-Solving Services in an Economic Context」</a></li>
+ <li><a href="https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/">CloudflareがGoogleのRe:Captchaをやめた話: 「</a>Moving from reCAPTCHA to hCaptcha<a href="https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/">」</a></li>
+ <li><a href="http://labusers.net/~ynakatsuka/">中塚さんのブログ</a></li>
+</ul>
+<p># 参加者: 中塚義道 (@nyoshi93) , @ken5scal</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/TEE-e16t06e</link>
+			<guid isPermaLink="false">6a9c5a70-aa15-43ce-b869-4e60bb9295ae</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 05 Sep 2021 23:39:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/39796366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-4%2F63957cae-2428-8c72-14e0-b6ed8c5bcbf2.mp3" length="34613021" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/08/28)&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;p&gt;UC IrvineのNetworked Systems Programで博士課程にある中塚義道をゲストにお招きし、&lt;/p&gt;
+&lt;p&gt;Usenix Security 2021に採択された「CACTI: Captcha Avoidance via Client-side TEE Integration」についてお話いただきました。&lt;/p&gt;
+&lt;p&gt;具体的には現在のCaptchaの課題、それを解決するCACTIの各種コンポーネント、肝であるProvisioning Authorityなどについてご教示いただきました。&lt;/p&gt;
+&lt;p&gt;参考資料はこちら&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/2007.10397.pdf&quot;&gt;もとの論文: 「CACTI: Captcha Avoidance via Client-side TEE Integration」&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.usenix.org/legacy/event/sec10/tech/full_papers/Motoyama.pdf&quot;&gt;Captchaの経済的合理性について説明する論文: 「Understanding CAPTCHA-Solving Services in an Economic Context」&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/&quot;&gt;CloudflareがGoogleのRe:Captchaをやめた話: 「&lt;/a&gt;Moving from reCAPTCHA to hCaptcha&lt;a href=&quot;https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/&quot;&gt;」&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;http://labusers.net/~ynakatsuka/&quot;&gt;中塚さんのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 中塚義道 (@nyoshi93) , @ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/6280447/6280447-1597946354413-3d7586547626.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[スピーカーが自社でどうセキュリティ施策を進めてるか話あう会　他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/08/27)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>カレーパンの話</li>
+ <li>OpenSSLの脆弱性の話</li>
+  <li><a href="https://www.washingtonpost.com/technology/2021/08/25/white-house-cybersecurity-summit-apple-amazon/">ホワイトハウスとテックジャイアントがセキュリティサミットした話</a></li>
+  <li><a href="https://aws.amazon.com/blogs/security/amazon-security-awareness-training-and-aws-multi-factor-authentication-tokens-to-be-made-available-at-no-cost/">AWSのMFAの話</a></li>
+  <li><a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/migrate-your-apps-to-access-the-license-managements-apis-from/ba-p/2464366">Azure ADのライセンスの話</a></li>
+  <li>スピーカーが自社でどうセキュリティ施策を進めてるか話あう話</li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e16ink9</link>
+			<guid isPermaLink="false">f1b5f3a5-764f-4f12-90ed-a2c29752fbbe</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 30 Aug 2021 01:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/39459913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-28%2Fe2bae3b8-311c-847e-6732-e013bf262735.mp3" length="61622428" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/08/27)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;カレーパンの話&lt;/li&gt;
+ &lt;li&gt;OpenSSLの脆弱性の話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2021/08/25/white-house-cybersecurity-summit-apple-amazon/&quot;&gt;ホワイトハウスとテックジャイアントがセキュリティサミットした話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/security/amazon-security-awareness-training-and-aws-multi-factor-authentication-tokens-to-be-made-available-at-no-cost/&quot;&gt;AWSのMFAの話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcommunity.microsoft.com/t5/azure-active-directory-identity/migrate-your-apps-to-access-the-license-managements-apis-from/ba-p/2464366&quot;&gt;Azure ADのライセンスの話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;スピーカーが自社でどうセキュリティ施策を進めてるか話あう話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Microsoft周りの脆弱性 他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/08/20)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>Microsoft周りの脆弱性の話 + <a href="https://www.ipa.go.jp/security/announce/ie_eos.html">IEサポート終了の話</a></li>
+ <li>クラウドのセキュリティ管理の話</li>
+ <li>Google よりTwitterで検索しがちな話</li>
+ <li>Mizuho銀行の障害話</li>
+  <li><a href="https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html">セキュリティ事故が起こるといくらお金がかかるのか（JNSA）</a></li>
+</ul>
+<p># 参加者: 名無しさん、ykyanさん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Microsoft-e1695rm</link>
+			<guid isPermaLink="false">938c70c7-d882-4314-9191-a948eab4b2b6</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/39146806/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-26%2F1e40f084-64c4-38e9-fd8b-052916f891ec.mp3" length="183627244" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/08/20)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Microsoft周りの脆弱性の話 + &lt;a href=&quot;https://www.ipa.go.jp/security/announce/ie_eos.html&quot;&gt;IEサポート終了の話&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;クラウドのセキュリティ管理の話&lt;/li&gt;
+ &lt;li&gt;Google よりTwitterで検索しがちな話&lt;/li&gt;
+ &lt;li&gt;Mizuho銀行の障害話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html&quot;&gt;セキュリティ事故が起こるといくらお金がかかるのか（JNSA）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 名無しさん、ykyanさん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:16:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[メーカーの再委託先やOmiaiの話　他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/08/13)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/4hJNHn6ZfW5CAza9A">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>オリンピックの話（雑談）</li>
+ <li><a href="https://corporate.murata.com/ja-jp/newsroom/news/company/general/2021/0805">村田製作所の再委託先から情報漏えいがあった話</a></li>
+  <li><a href="https://pr.fujitsu.com/jp/news/2021/08/11.html">富士通のProjectWEBの話</a></li>
+  <li><a href="https://www.net-marketing.co.jp/news/6001/">Omiaiの不正アクセスの話</a></li>
+  <li>セキュキャン講師の話</li>
+  <li>今日の読書: <a href="https://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%E2%80%95%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6-%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BBC%E3%83%BB%E3%82%B4%E3%83%BC%E3%82%B9/dp/4320023684/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%3A+%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6&amp;qid=1629013540&amp;sr=8-1">ライトついてますか: 問題発見の人間学</a></li>
+</ul>
+<p># 参加者: ken5(@ken5scal) &nbsp;、名無しさん、松本さん(@ym405nm), &nbsp;ykyanさん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Omiai-e15uj38</link>
+			<guid isPermaLink="false">88fecd9b-af10-4472-b46f-82cc927ec97f</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/38799912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-15%2F51a9c9a8-7970-0314-a3a0-fb88b101161a.mp3" length="72079276" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/08/13)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/4hJNHn6ZfW5CAza9A&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;オリンピックの話（雑談）&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://corporate.murata.com/ja-jp/newsroom/news/company/general/2021/0805&quot;&gt;村田製作所の再委託先から情報漏えいがあった話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pr.fujitsu.com/jp/news/2021/08/11.html&quot;&gt;富士通のProjectWEBの話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.net-marketing.co.jp/news/6001/&quot;&gt;Omiaiの不正アクセスの話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;セキュキャン講師の話&lt;/li&gt;
+  &lt;li&gt;今日の読書: &lt;a href=&quot;https://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%E2%80%95%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6-%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BBC%E3%83%BB%E3%82%B4%E3%83%BC%E3%82%B9/dp/4320023684/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;dchild=1&amp;amp;keywords=%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%3A+%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6&amp;amp;qid=1629013540&amp;amp;sr=8-1&quot;&gt;ライトついてますか: 問題発見の人間学&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: ken5(@ken5scal) &amp;nbsp;、名無しさん、松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GitHub CopilotやPHP不正コード混入などのお話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/07/31)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>コロナと山</li>
+ <li>データのバックアップの話</li>
+  <li><a href="https://www.amazon.co.jp/%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%84%E3%81%AA%E3%81%84%E6%9C%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%A0%82%E3%80%85%E3%81%A8%E8%AA%9E%E3%82%8B%E6%96%B9%E6%B3%95-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB-%E3%83%90%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%AB/dp/4480097570/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%AA%E3%81%84%E6%9C%AC&amp;qid=1627831443&amp;sr=8-1" target="_blank">読んでいない本について堂々と語る方法</a></li>
+  <li>Github CopilotとOSSと機微情報の話</li>
+  <li><a href="https://fossa.com/blog/analyzing-legal-implications-github-copilot/">Github copilotとOSSの話（特にGPLライセンス）</a></li>
+  <li><a href="https://twitter.com/natfriedman/status/1409914420579344385?s=20">Github CEOのリプ</a></li>
+  <li><a href="https://news.mynavi.jp/article/20210408-1867104/">【続報】PHP不正コード混入はサーバ乗っ取りではなくアカウント流出原因か</a></li>
+  <li><a href="https://us-cert.cisa.gov/ncas/alerts/aa21-209a">日常的に悪用される脆弱性のリスト</a></li>
+  <li><a href="https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html"><strong>危ない脆弱性種別top25 CWEベース</strong></a></li>
+  <li><a href="https://twitter.com/sen_u/status/1417117823202070529">業務としてのペンテストをやるときに必要なもの</a></li>
+</ul>
+<p># 主宰: ken5(@ken5scal) &nbsp;ゲスト: &nbsp;名無しさん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/GitHub-CopilotPHP-e15agia</link>
+			<guid isPermaLink="false">51315614-12b9-42a2-8161-c7a9cd855609</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 02 Aug 2021 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/38141962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-1%2F7bfd3128-a38e-9beb-c413-c796354e2134.mp3" length="60567197" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/07/31)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;コロナと山&lt;/li&gt;
+ &lt;li&gt;データのバックアップの話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%84%E3%81%AA%E3%81%84%E6%9C%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%A0%82%E3%80%85%E3%81%A8%E8%AA%9E%E3%82%8B%E6%96%B9%E6%B3%95-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB-%E3%83%90%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%AB/dp/4480097570/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;dchild=1&amp;amp;keywords=%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%AA%E3%81%84%E6%9C%AC&amp;amp;qid=1627831443&amp;amp;sr=8-1&quot; target=&quot;_blank&quot;&gt;読んでいない本について堂々と語る方法&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github CopilotとOSSと機微情報の話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fossa.com/blog/analyzing-legal-implications-github-copilot/&quot;&gt;Github copilotとOSSの話（特にGPLライセンス）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/natfriedman/status/1409914420579344385?s=20&quot;&gt;Github CEOのリプ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.mynavi.jp/article/20210408-1867104/&quot;&gt;【続報】PHP不正コード混入はサーバ乗っ取りではなくアカウント流出原因か&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us-cert.cisa.gov/ncas/alerts/aa21-209a&quot;&gt;日常的に悪用される脆弱性のリスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html&quot;&gt;&lt;strong&gt;危ない脆弱性種別top25 CWEベース&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/sen_u/status/1417117823202070529&quot;&gt;業務としてのペンテストをやるときに必要なもの&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 主宰: ken5(@ken5scal) &amp;nbsp;ゲスト: &amp;nbsp;名無しさん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:17:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[DropBoxのキャリアフレームワークやcdnjsの脆弱性の話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/06/16)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>主宰の同人誌宣伝: <a href="https://techbookfest.org/product/5356285534928896?productVariantID=6241307947171840" rel="noopener noreferrer" target="_blank">https://techbookfest.org/product/5356285534928896?productVariantID=6241307947171840</a></li>
+ <li>CNCFの話</li>
+ <li>どういう仕事していきたいのか</li>
+ <li>Aquaセキュリティにおける募集: https://twitter.com/knqyf263/status/1414850569924141056?s=20</li>
+  <li><a href="https://dropbox.github.io/dbx-career-framework">DropBoxのエンジニア向けキャリアフレームワーク</a></li>
+  <li>スキルからチームへ</li>
+  <li>ドラマやアニメの話: 攻殻機動隊Arise, <a href="https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%93%E3%83%B3%E3%82%B7%E3%83%96%E3%83%AB-%EF%BD%9E%E7%84%A1%E6%95%B5%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%EF%BD%9E/dp/B08ZFZC15Z">Invincible</a>, スプリガン, 閃光のハサウェイ</li>
+  <li>JavaScript/CSSライブラリをホストするCDN「cdnjs」のパストラバーサルとリモートコード実行の脆弱性の話（<a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution/">詳細(日本語)</a>, <a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">詳細(英語)</a>）</li>
+  <li><a href="https://github.com/golang/go/issues/25849">goのarchive/zipでファイルパスのサニタイズしてないじゃんIssue</a></li>
+  <li><a href="https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html">OSSの脆弱性情報の標準スキーマの提案</a> by Google</li>
+</ul>
+<p># 主宰: ken5(@ken5scal) &nbsp;ゲスト: &nbsp;名無しさん</p>
+<p># &nbsp;BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/DropBoxcdnjs-e14l23n</link>
+			<guid isPermaLink="false">90032b6b-e7b4-4b65-bae3-c79f538d6c30</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/37439031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-18%2F7e550e0b-aac1-1cac-cccf-2c9ab392ef19.mp3" length="63458452" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/06/16)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;主宰の同人誌宣伝: &lt;a href=&quot;https://techbookfest.org/product/5356285534928896?productVariantID=6241307947171840&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://techbookfest.org/product/5356285534928896?productVariantID=6241307947171840&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;CNCFの話&lt;/li&gt;
+ &lt;li&gt;どういう仕事していきたいのか&lt;/li&gt;
+ &lt;li&gt;Aquaセキュリティにおける募集: https://twitter.com/knqyf263/status/1414850569924141056?s=20&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dropbox.github.io/dbx-career-framework&quot;&gt;DropBoxのエンジニア向けキャリアフレームワーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;スキルからチームへ&lt;/li&gt;
+  &lt;li&gt;ドラマやアニメの話: 攻殻機動隊Arise, &lt;a href=&quot;https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%93%E3%83%B3%E3%82%B7%E3%83%96%E3%83%AB-%EF%BD%9E%E7%84%A1%E6%95%B5%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%EF%BD%9E/dp/B08ZFZC15Z&quot;&gt;Invincible&lt;/a&gt;, スプリガン, 閃光のハサウェイ&lt;/li&gt;
+  &lt;li&gt;JavaScript/CSSライブラリをホストするCDN「cdnjs」のパストラバーサルとリモートコード実行の脆弱性の話（&lt;a href=&quot;https://blog.ryotak.me/post/cdnjs-remote-code-execution/&quot;&gt;詳細(日本語)&lt;/a&gt;, &lt;a href=&quot;https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/&quot;&gt;詳細(英語)&lt;/a&gt;）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/golang/go/issues/25849&quot;&gt;goのarchive/zipでファイルパスのサニタイズしてないじゃんIssue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html&quot;&gt;OSSの脆弱性情報の標準スキーマの提案&lt;/a&gt; by Google&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 主宰: ken5(@ken5scal) &amp;nbsp;ゲスト: &amp;nbsp;名無しさん&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:03:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[IE11のサポート終了とブラウザとセキュリティ]]></title>
+			<description><![CDATA[<p>(収録日: 2021/06/23)</p>
+<p>今回は @hasegawayosuke さんをゲストにお招きし、個人的なIEと脆弱性のエピソードについて教えてもらっています。</p>
+<p>なお、ここでいうIEの脆弱性は「Webアプリケーションに影響を与える部分」の範囲で、バッファオーバーフローやプラグイン周りの脆弱性はふくまれていません。</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li><a href="https://blogs.windows.com/japan/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/">Internet Explorer は Microsoft Edge へ – Windows 10 の Internet Explorer 11 デスクトップアプリは 2022 年 6 月 15 日にサポート終了</a>　</li>
+ <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%AE%E5%B9%B4%E8%A1%A8">ウェブブラウザの年表</a> とか眺めてあらためてすげー大作だなと感心していたところ</li>
+ <li><a href="https://blog.jxck.io/entries/2021-05-11/end-of-ie.html">IE11 サポート終了の歴史</a> サポート終了するために数年に渡ってフラグを立てていたんだなーと</li>
+ <li><a href="https://ics.media/entry/17960/">若い世代が知らない2000年代のHTMLコーディングの地獄</a> よくIE対応が辛いとは聞いていたけど何が具体的に辛いのか良くわかってなかったので勉強になる</li>
+ <li><a href="https://utf-8.jp/public/2016/0116/byebyeie8.pdf">「ぼくたちの愛したIE8</a> IE8はセキュリティにすごく力を入れていた。</li>
+ <li>IEが引き起こした脆弱性といえば UTF-7によるXSS を外すわけにはいかない</li>
+ <li>2010年シアトルレドモンド訪問</li>
+ <li><a href="https://www.itmedia.co.jp/news/articles/1003/08/news030.html">IE6の“葬儀”行われる Microsoftから献花も</a></li>
+ <li><a href="https://www.slideshare.net/masatokinugawa/xxn-ja">X-XSS-Nightmare: 1; mode=attack ～XSSフィルターを利用したXSS攻撃～ Masato Kinugawa</a></li>
+ <li><a href="https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-10">5文字で書くJavaScript/ Shibuya.XSS techtalk #10</a></li>
+  <li><a href="https://www.ipa.go.jp/security/anshin/mgdayori20210615.html">安心相談窓口だより：IPA 独立行政法人 情報処理推進機構 で2022年6月「Internet Explorer」サポートが終了へ ～ サポートが継続する他のブラウザへの切り替えを ～ のアナウンス</a></li>
+  <li><a href="https://gs.statcounter.com/browser-market-share/all/japan">Browser Market Share Japan 直近12ヶ月の日本でのIEのシェアは2.64%&nbsp;</a></li>
+  <li>IE6 bot https://twitter.com/ie6bot</li>
+</ul>
+<p><br></p>
+<p>他</p>
+<p>主宰: ken5(@ken5scal)&nbsp;</p>
+<p>ゲスト: &nbsp;松本さん(@ym405nm), &nbsp;ykyanさん</p>
+<p>BGM: "A Fool in Love" by Imprismed</p>
+<p>ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/IE11-e13h138</link>
+			<guid isPermaLink="false">f0639e72-e357-4276-a553-8dfd2a4d4ce7</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 27 Jun 2021 22:31:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/36258344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-27%2F55b8e34d-8f61-9842-a3fd-2e5662def7ec.mp3" length="82226860" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/06/23)&lt;/p&gt;
+&lt;p&gt;今回は @hasegawayosuke さんをゲストにお招きし、個人的なIEと脆弱性のエピソードについて教えてもらっています。&lt;/p&gt;
+&lt;p&gt;なお、ここでいうIEの脆弱性は「Webアプリケーションに影響を与える部分」の範囲で、バッファオーバーフローやプラグイン周りの脆弱性はふくまれていません。&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blogs.windows.com/japan/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/&quot;&gt;Internet Explorer は Microsoft Edge へ – Windows 10 の Internet Explorer 11 デスクトップアプリは 2022 年 6 月 15 日にサポート終了&lt;/a&gt;　&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%AE%E5%B9%B4%E8%A1%A8&quot;&gt;ウェブブラウザの年表&lt;/a&gt; とか眺めてあらためてすげー大作だなと感心していたところ&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blog.jxck.io/entries/2021-05-11/end-of-ie.html&quot;&gt;IE11 サポート終了の歴史&lt;/a&gt; サポート終了するために数年に渡ってフラグを立てていたんだなーと&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://ics.media/entry/17960/&quot;&gt;若い世代が知らない2000年代のHTMLコーディングの地獄&lt;/a&gt; よくIE対応が辛いとは聞いていたけど何が具体的に辛いのか良くわかってなかったので勉強になる&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://utf-8.jp/public/2016/0116/byebyeie8.pdf&quot;&gt;「ぼくたちの愛したIE8&lt;/a&gt; IE8はセキュリティにすごく力を入れていた。&lt;/li&gt;
+ &lt;li&gt;IEが引き起こした脆弱性といえば UTF-7によるXSS を外すわけにはいかない&lt;/li&gt;
+ &lt;li&gt;2010年シアトルレドモンド訪問&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/1003/08/news030.html&quot;&gt;IE6の“葬儀”行われる Microsoftから献花も&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/masatokinugawa/xxn-ja&quot;&gt;X-XSS-Nightmare: 1; mode=attack ～XSSフィルターを利用したXSS攻撃～ Masato Kinugawa&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-10&quot;&gt;5文字で書くJavaScript/ Shibuya.XSS techtalk #10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipa.go.jp/security/anshin/mgdayori20210615.html&quot;&gt;安心相談窓口だより：IPA 独立行政法人 情報処理推進機構 で2022年6月「Internet Explorer」サポートが終了へ ～ サポートが継続する他のブラウザへの切り替えを ～ のアナウンス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gs.statcounter.com/browser-market-share/all/japan&quot;&gt;Browser Market Share Japan 直近12ヶ月の日本でのIEのシェアは2.64%&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IE6 bot https://twitter.com/ie6bot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;p&gt;主宰: ken5(@ken5scal)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ゲスト: &amp;nbsp;松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/p&gt;
+&lt;p&gt;BGM: &quot;A Fool in Love&quot; by Imprismed&lt;/p&gt;
+&lt;p&gt;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:22:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>19</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[みずほFGのシステム障害の調査報告書（要旨）の話　他]]></title>
+			<description><![CDATA[<p>(収録日: 2021/06/16)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li><a href="https://www.mizuho-fg.co.jp/release/pdf/20210615release_2_jp.pdf">みずほFGのシステム障害特別調査委員会の調査報告書（要旨）の話</a></li>
+ <li>システム子会社の開発系と運用系の話</li>
+ <li>開発フェーズと運用フェーズの話（10営業日は言い過ぎかも。でも、開発 -&gt; 親会社にエスカレ -&gt; オヤ会社から運用会社に連携 -&gt; 開発・運用でのやり取りの予想）</li>
+ <li><a href="https://www.usajobs.gov/GetJob/ViewDetails/603103100">CISA senior security executiveの年収あてクイズ</a></li>
+  <li>Appleはじめとした新しいプライバシー機構の話</li>
+  <li>Jamfの話</li>
+  <li>Google workspcaeの新しい機能の話</li>
+  <li>ファイル共有の話</li>
+  <li>新作ゲームの話</li>
+</ul>
+<p><br></p>
+<p># 主宰: ken5(@ken5scal) &nbsp;ゲスト: &nbsp;松本さん(@ym405nm), &nbsp;ykyanさん BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/FG-e133v8k</link>
+			<guid isPermaLink="false">d7f86897-da81-4635-be19-37cb58b3c4d0</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 20 Jun 2021 23:50:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/35830484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F9852ce3b-7e07-f855-8d7a-17708e042332.mp3" length="91738300" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/06/16)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.mizuho-fg.co.jp/release/pdf/20210615release_2_jp.pdf&quot;&gt;みずほFGのシステム障害特別調査委員会の調査報告書（要旨）の話&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;システム子会社の開発系と運用系の話&lt;/li&gt;
+ &lt;li&gt;開発フェーズと運用フェーズの話（10営業日は言い過ぎかも。でも、開発 -&amp;gt; 親会社にエスカレ -&amp;gt; オヤ会社から運用会社に連携 -&amp;gt; 開発・運用でのやり取りの予想）&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.usajobs.gov/GetJob/ViewDetails/603103100&quot;&gt;CISA senior security executiveの年収あてクイズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Appleはじめとした新しいプライバシー機構の話&lt;/li&gt;
+  &lt;li&gt;Jamfの話&lt;/li&gt;
+  &lt;li&gt;Google workspcaeの新しい機能の話&lt;/li&gt;
+  &lt;li&gt;ファイル共有の話&lt;/li&gt;
+  &lt;li&gt;新作ゲームの話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;# 主宰: ken5(@ken5scal) &amp;nbsp;ゲスト: &amp;nbsp;松本さん(@ym405nm), &amp;nbsp;ykyanさん BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:27:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[主宰が以前話したパスワード認証における開発コストについて掌を返す話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/06/02)</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li>日本ダービー３連複で買った競馬の話とJRAのドメインの運用方法</li>
+ <li><a href="https://www.itmedia.co.jp/news/articles/2105/27/news149.html">富士通製ツールへの不正アクセスで複数省庁や企業の情報が流出</a></li>
+ <li><a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/conditional-access-authentication-context-now-in-public-preview/ba-p/1942484">Azure ADの新機能「Conditional Access authentication context now in public preview - Microsoft Tech Community」の話</a></li>
+ <li>パスワード認証と認証サービスを使った開発コストの話</li>
+  <li>パスワードレス化を進めまくってるYahooへのアカウント登録の話</li>
+  <li><a href="https://scrapbox.io/info-gathering-public/AWS_Nitro_Enclave%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">AWS Nitro Enclaveの話</a>（お詫び: Nitro Enclaveに対してAWS運用者がアクセスできる可能性がある、という部分については、確実にそうだといえる資料を確認できませんでした。）</li>
+  <li>今日の積ん読: <a href="https://static.googleusercontent.com/media/sre.google/en//static/pdf/incident_metrics_in_sre.pdf">Incident Metics in SRE</a><br>
+</li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)&nbsp;</li>
+  <li>ゲスト: &nbsp;松本さん(@ym405nm), &nbsp;ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e128h6v</link>
+			<guid isPermaLink="false">d2478a22-c187-4ce7-b88b-d3de63bf0e47</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 06 Jun 2021 23:18:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/34931359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-6%2F90a6a690-2f67-e395-ba3b-a16596e55cf1.mp3" length="50896636" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/06/02)&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;日本ダービー３連複で買った競馬の話とJRAのドメインの運用方法&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2105/27/news149.html&quot;&gt;富士通製ツールへの不正アクセスで複数省庁や企業の情報が流出&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://techcommunity.microsoft.com/t5/azure-active-directory-identity/conditional-access-authentication-context-now-in-public-preview/ba-p/1942484&quot;&gt;Azure ADの新機能「Conditional Access authentication context now in public preview - Microsoft Tech Community」の話&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;パスワード認証と認証サービスを使った開発コストの話&lt;/li&gt;
+  &lt;li&gt;パスワードレス化を進めまくってるYahooへのアカウント登録の話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrapbox.io/info-gathering-public/AWS_Nitro_Enclave%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&quot;&gt;AWS Nitro Enclaveの話&lt;/a&gt;（お詫び: Nitro Enclaveに対してAWS運用者がアクセスできる可能性がある、という部分については、確実にそうだといえる資料を確認できませんでした。）&lt;/li&gt;
+  &lt;li&gt;今日の積ん読: &lt;a href=&quot;https://static.googleusercontent.com/media/sre.google/en//static/pdf/incident_metrics_in_sre.pdf&quot;&gt;Incident Metics in SRE&lt;/a&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;ゲスト: &amp;nbsp;松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:02:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[OmiaiとかCodecov in mercariを話つつGitHubのプランについて愚痴る話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/05/24)</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li>散歩の話</li>
+ <li>Podcastの話(<a href="https://securityweekly.com/">Paul's Security Weekly</a>, <a href="https://thecyberwire.com/podcasts/daily-podcast">CyberWire Daily</a>, <a href="https://isc.sans.edu/podcast.html">ISC Stormcast</a>等々）</li>
+ <li><a href="https://www.net-marketing.co.jp/news/5873/">Omiaiアプリ</a>と個人情報漏洩の話</li>
+ <li><a href="https://about.mercari.com/press/news/articles/20210521_incident_report/">mercariのCodecovの話</a>(github tokenの話、git commitの削除に関する話、影響の範囲の話）</li>
+  <li><a href="https://github.com/pricing">GitHubのプランの話</a></li>
+  <li>今日の積ん読紹介: なし</li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), &nbsp;ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion<br>
+</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/OmiaiCodecov-in-mercariGitHub-e11re37</link>
+			<guid isPermaLink="false">e7b05d3e-29cf-4975-8ce2-b87c18344159</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 30 May 2021 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/34502183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-30%2Fb789b69e-f2eb-4d07-58fe-10352e3a711f.mp3" length="75207292" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/05/24)&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;散歩の話&lt;/li&gt;
+ &lt;li&gt;Podcastの話(&lt;a href=&quot;https://securityweekly.com/&quot;&gt;Paul&apos;s Security Weekly&lt;/a&gt;, &lt;a href=&quot;https://thecyberwire.com/podcasts/daily-podcast&quot;&gt;CyberWire Daily&lt;/a&gt;, &lt;a href=&quot;https://isc.sans.edu/podcast.html&quot;&gt;ISC Stormcast&lt;/a&gt;等々）&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.net-marketing.co.jp/news/5873/&quot;&gt;Omiaiアプリ&lt;/a&gt;と個人情報漏洩の話&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://about.mercari.com/press/news/articles/20210521_incident_report/&quot;&gt;mercariのCodecovの話&lt;/a&gt;(github tokenの話、git commitの削除に関する話、影響の範囲の話）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pricing&quot;&gt;GitHubのプランの話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;今日の積ん読紹介: なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[映画とかバイオに雑談しつつ、フィッシング対策や身代金支払いに関する話]]></title>
+			<description><![CDATA[<p>(収録日: 2021/05/17)</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li>雑談（映画、PS5、バイオハザード、イベント、英語教育）</li>
+ <li>防衛省製のワクチン予約サイトなどの著名なサイトのフィッシング対策をどうすべきか（`脆弱性` などの話はしていません）</li>
+  <li>Colonial Pipelineの話（DarkSideの話や反社への支払いに関する制裁対象の話）（収録当日にはまだ身代金支払いに関する公式なニュースはありませんでした）</li>
+  <li>キャンプと教育の話</li>
+  <li>今日の積ん読紹介: <a href="https://www.amazon.co.jp/dp/4255010773/">誰のために法は生まれた</a></li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), &nbsp;ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion<br>
+</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-e11dpg9</link>
+			<guid isPermaLink="false">e6c2e877-e9a0-4be7-8e27-0336eafef0c3</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 23 May 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/34055113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-23%2F08c443f9-4eb5-7b1a-3a70-5917f2595c32.mp3" length="62901629" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2021/05/17)&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;雑談（映画、PS5、バイオハザード、イベント、英語教育）&lt;/li&gt;
+ &lt;li&gt;防衛省製のワクチン予約サイトなどの著名なサイトのフィッシング対策をどうすべきか（`脆弱性` などの話はしていません）&lt;/li&gt;
+  &lt;li&gt;Colonial Pipelineの話（DarkSideの話や反社への支払いに関する制裁対象の話）（収録当日にはまだ身代金支払いに関する公式なニュースはありませんでした）&lt;/li&gt;
+  &lt;li&gt;キャンプと教育の話&lt;/li&gt;
+  &lt;li&gt;今日の積ん読紹介: &lt;a href=&quot;https://www.amazon.co.jp/dp/4255010773/&quot;&gt;誰のために法は生まれた&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:17:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Science FictionとSales Forceをごっちゃにしながら喋ってた話]]></title>
+			<description><![CDATA[<p>今回は結構話が飛び飛びです。</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li>Science FictionとSales Force</li>
+ <li>DCとパンチカードの話</li>
+ <li><a href="https://security.googleblog.com/2021/05/enabling-hardware-enforced-stack.html">Enabling Hardware-enforced Stack Protection (cetcompat) in Chrome</a></li>
+ <li><a href="https://objective-see.com/blog/blog_0x64.html">All Your Macs Are Belong To Us</a>&nbsp;</li>
+  <li>ECキューブの脆弱性の話</li>
+  <li>本の紹介（<a href="//詳解セキュリティコンテスト">詳細セキュリティコンテスト</a>、<a href="https://www.lambdanote.com/collections/littleprover/products/littleprover">定理証明手習い</a>）
+    <ul>
+      <li><br>
+</li>
+    </ul>
+  </li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), &nbsp;ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion<br>
+</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Science-FictionSales-Force-e10ve7f</link>
+			<guid isPermaLink="false">1897214f-da8d-4911-8ffb-3aa3f60d9052</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 17 May 2021 00:51:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/33584815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-16%2F93456f59-06de-50f7-dae2-2b2c5ab03876.mp3" length="51803692" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回は結構話が飛び飛びです。&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Science FictionとSales Force&lt;/li&gt;
+ &lt;li&gt;DCとパンチカードの話&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2021/05/enabling-hardware-enforced-stack.html&quot;&gt;Enabling Hardware-enforced Stack Protection (cetcompat) in Chrome&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://objective-see.com/blog/blog_0x64.html&quot;&gt;All Your Macs Are Belong To Us&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;ECキューブの脆弱性の話&lt;/li&gt;
+  &lt;li&gt;本の紹介（&lt;a href=&quot;//詳解セキュリティコンテスト&quot;&gt;詳細セキュリティコンテスト&lt;/a&gt;、&lt;a href=&quot;https://www.lambdanote.com/collections/littleprover/products/littleprover&quot;&gt;定理証明手習い&lt;/a&gt;）
+    &lt;ul&gt;
+      &lt;li&gt;&lt;br&gt;
+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), &amp;nbsp;ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:05:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Linux kernelと研究の話、セキュリティの体制構築と経営と現場の話、他]]></title>
+			<description><![CDATA[<p>今回から前半パートはニュース解説、後半パートはテーマに沿った話の構成にしてみました。</p>
+<p><br></p>
+<p>内容</p>
+<ul>
+ <li>clubhouseの思い出</li>
+ <li>研究とミネソタ大学とLinux kernel (https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)&nbsp;</li>
+ <li>homebrew とcask (https://blog.ryotak.me/post/homebrew-security-incident/)</li>
+ <li>メーリスで流れる情報について</li>
+  <li>サイバーセキュリティ体制構築の話、経済産業省 サイバーセキュリティ経営ガイドライン(https://www.meti.go.jp/policy/netsecurity/mng_guide.html)</li>
+</ul>
+<p><br></p>
+<p>他</p>
+<p>主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん BGM: "A Fool in Love" by Imprismed ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Linux-kernel-e10hulv</link>
+			<guid isPermaLink="false">2df238ec-789c-45cf-b4da-76987717ae6c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 10 May 2021 00:29:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/33142911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-9%2F2a3e9d3f-5572-f1ce-0fdf-6f620a10505f.mp3" length="77488021" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回から前半パートはニュース解説、後半パートはテーマに沿った話の構成にしてみました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;clubhouseの思い出&lt;/li&gt;
+ &lt;li&gt;研究とミネソタ大学とLinux kernel (https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)&amp;nbsp;&lt;/li&gt;
+ &lt;li&gt;homebrew とcask (https://blog.ryotak.me/post/homebrew-security-incident/)&lt;/li&gt;
+ &lt;li&gt;メーリスで流れる情報について&lt;/li&gt;
+  &lt;li&gt;サイバーセキュリティ体制構築の話、経済産業省 サイバーセキュリティ経営ガイドライン(https://www.meti.go.jp/policy/netsecurity/mng_guide.html)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;p&gt;主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん BGM: &quot;A Fool in Love&quot; by Imprismed ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[CapcomとかCodecovとか反社の話]]></title>
+			<description><![CDATA[<p>Capcomの身代金支払いに関する発表から、反社の話へ、そこから普段なんの気なしに使っている制度およびサービスの信頼の話からCodecovへ、最後にやや反社の話に戻ります</p>
+<p>内容</p>
+<ul>
+ <li>エナジードリンクの話</li>
+ <li>Capcom「不正アクセスに関する調査結果のご報告【第4報】」(<a href="https://www.capcom.co.jp/ir/news/html/210413.html" rel="noopener noreferrer" target="_blank">https://www.capcom.co.jp/ir/news/html/210413.html</a>)</li>
+  <li>リブセンス「反社とは誰を指すのか。静かなる暴力「反社チェック」を問いただす」 (<a href="https://q.livesense.co.jp/2021/04/05/517.html" rel="noopener noreferrer" target="_blank">https://q.livesense.co.jp/2021/04/05/517.html</a>)</li>
+  <li>Codecov「Bash Uploader Security Update」 (<a href="https://about.codecov.io/security-update/" rel="noopener noreferrer" target="_blank">https://about.codecov.io/security-update/</a>)</li>
+  <li>プラットフォーマーの義務とは</li>
+  <li>責任のありかの社会合意はどう形成されていくのか</li>
+  <li>推しが推せなくなったとき</li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/CapcomCodecov-e103aod</link>
+			<guid isPermaLink="false">6ab498f6-60ac-4819-87b9-2674f545725c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/32663757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-2%2F05fdea94-76bc-3a2e-a4fa-01d7053cab2e.mp3" length="95924044" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Capcomの身代金支払いに関する発表から、反社の話へ、そこから普段なんの気なしに使っている制度およびサービスの信頼の話からCodecovへ、最後にやや反社の話に戻ります&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;エナジードリンクの話&lt;/li&gt;
+ &lt;li&gt;Capcom「不正アクセスに関する調査結果のご報告【第4報】」(&lt;a href=&quot;https://www.capcom.co.jp/ir/news/html/210413.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.capcom.co.jp/ir/news/html/210413.html&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;リブセンス「反社とは誰を指すのか。静かなる暴力「反社チェック」を問いただす」 (&lt;a href=&quot;https://q.livesense.co.jp/2021/04/05/517.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://q.livesense.co.jp/2021/04/05/517.html&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Codecov「Bash Uploader Security Update」 (&lt;a href=&quot;https://about.codecov.io/security-update/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://about.codecov.io/security-update/&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;プラットフォーマーの義務とは&lt;/li&gt;
+  &lt;li&gt;責任のありかの社会合意はどう形成されていくのか&lt;/li&gt;
+  &lt;li&gt;推しが推せなくなったとき&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:31:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[クレジットカードスペシャル]]></title>
+			<description><![CDATA[<p>今回も @ozuma5119 さんをゲストにお招きし、クレジットカードについて教えてもらっています。</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p>内容</p>
+<ul>
+ <li>クレジットカード不正利用被害
+   <ul>
+      <li><a href="https://www.j-credit.or.jp/download/news20210331b1.pdf" rel="noopener noreferrer" target="_blank">https://www.j-credit.or.jp/download/news20210331b1.pdf</a></li>
+    </ul>
+  </li>
+  <li>クレカの物理的なしくみ</li>
+  <li>クレカ利用時の3Dセキュアなどのオプション指定</li>
+  <li>クレカ不正利用手法の繊維</li>
+  <li>クレカIssuerごとにことなる認証手法や認証挙動</li>
+  <li>クレカ情報狙いのフィッシングサイト傾向とその目的</li>
+  <li>クレカの有効性確認</li>
+  <li>クレカ利用者の心理</li>
+  <li>なんでPAN(Primary Account Number : カード番号)とセキュリティコード印字してるの？</li>
+</ul>
+<p>他</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)&nbsp;</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), @ozuma5119 さん, ykyanさん</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-eumfs8</link>
+			<guid isPermaLink="false">35a63af1-6b02-4427-a7c2-79b1430de838</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/31194440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-11%2F02932691-de1d-f8e9-8a52-689ada99ea0a.mp3" length="66638068" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回も @ozuma5119 さんをゲストにお招きし、クレジットカードについて教えてもらっています。&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;クレジットカード不正利用被害
+   &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.j-credit.or.jp/download/news20210331b1.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.j-credit.or.jp/download/news20210331b1.pdf&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;クレカの物理的なしくみ&lt;/li&gt;
+  &lt;li&gt;クレカ利用時の3Dセキュアなどのオプション指定&lt;/li&gt;
+  &lt;li&gt;クレカ不正利用手法の繊維&lt;/li&gt;
+  &lt;li&gt;クレカIssuerごとにことなる認証手法や認証挙動&lt;/li&gt;
+  &lt;li&gt;クレカ情報狙いのフィッシングサイト傾向とその目的&lt;/li&gt;
+  &lt;li&gt;クレカの有効性確認&lt;/li&gt;
+  &lt;li&gt;クレカ利用者の心理&lt;/li&gt;
+  &lt;li&gt;なんでPAN(Primary Account Number : カード番号)とセキュリティコード印字してるの？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), @ozuma5119 さん, ykyanさん&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:14:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[通信事業社間の不正競争防止法の話　他]]></title>
+			<description><![CDATA[<p>収録自体は2021/01にしたものです。だいぶ遅れてしまい申し訳ありません。</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>RモバイルとS社の話</li>
+ <li>福岡県のコロナ感染者情報流出の話</li>
+ <li>ISPとアビューズ対策の話</li>
+ <li>ラーメン屋を作るシミュレーションゲームの話</li>
+  <li>オチをつける方法の話</li>
+</ul>
+<p># 他</p>
+<ul>
+  <li>スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん<br>
+</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed<br>
+</a></li>
+  <li>ジングル: @hajipion<br>
+</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/ep-etmhss</link>
+			<guid isPermaLink="false">f33534d1-07d8-4854-a3df-480040d005f4</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 28 Mar 2021 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/30147932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-28%2F957d8c61-0e0e-0587-4ba8-fd8fd3b21a6a.mp3" length="45087268" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;収録自体は2021/01にしたものです。だいぶ遅れてしまい申し訳ありません。&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;RモバイルとS社の話&lt;/li&gt;
+ &lt;li&gt;福岡県のコロナ感染者情報流出の話&lt;/li&gt;
+ &lt;li&gt;ISPとアビューズ対策の話&lt;/li&gt;
+ &lt;li&gt;ラーメン屋を作るシミュレーションゲームの話&lt;/li&gt;
+  &lt;li&gt;オチをつける方法の話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm), ykyanさん&lt;br&gt;
+&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;br&gt;
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[フィッシング・DNSスペシャル - Abuse対策の話]]></title>
+			<description><![CDATA[<p>いきなり噛んでます。</p>
+<p>今回は @ozuma5119 さんをゲストにお招きし、ドメイン・WHOIS・ICANN・ISP・アビューズ対策についてお話していただきました。</p>
+<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>WHOISの話</li>
+ <li>オリンピックの聖火ランナー募集サイト乱立しすぎワロタ</li>
+ <li>ISPとアビューズ対策の話</li>
+ <li>インターネットは奇跡という話</li>
+</ul>
+<p># 他</p>
+<ul>
+  <li>スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm)</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+  <li>ジングル: @hajipion</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/DNS---Abuse-eoqkna</link>
+			<guid isPermaLink="false">9f12af45-8534-4faf-854b-d4fe65197fd2</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/25039018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-12%2F3e62201d-738e-458b-0efb-99216568cb39.mp3" length="84035293" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;いきなり噛んでます。&lt;/p&gt;
+&lt;p&gt;今回は @ozuma5119 さんをゲストにお招きし、ドメイン・WHOIS・ICANN・ISP・アビューズ対策についてお話していただきました。&lt;/p&gt;
+&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;WHOISの話&lt;/li&gt;
+ &lt;li&gt;オリンピックの聖火ランナー募集サイト乱立しすぎワロタ&lt;/li&gt;
+ &lt;li&gt;ISPとアビューズ対策の話&lt;/li&gt;
+ &lt;li&gt;インターネットは奇跡という話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 他&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm)&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:05:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[PayPayの「管理サーバーのアクセス履歴について」他]]></title>
+			<description><![CDATA[<p>感想はtwitterでハッシュタグ「#secure旅団 」や<a href="https://forms.gle/pXXyTDu2ZPZDcVdv7">Google Form</a>にいただけると嬉しいです</p>
+<p># 内容</p>
+<ul>
+ <li>お年玉やご祝儀の認証と</li>
+ <li>paypayの情報漏えい</li>
+ <li>依存しているSaaSに問題があった場合の対処</li>
+ <li>openSSHの脆弱性</li>
+ <li>Mac上のアプリとapple上ocspサーバー&nbsp;の話</li>
+</ul>
+<p># 他</p>
+<ul>
+ <li>スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm)</li>
+ <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/" rel="ugc noopener noreferrer" target="_blank">Imprismed</a></li>
+ <li>ジングル: @hajipion <br>
+</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/PayPay-eopaf8</link>
+			<guid isPermaLink="false">4a84ece5-9aff-4094-81fb-2e01e32ff2e9</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 10 Jan 2021 23:37:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/24995752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-10%2F05ef441e-2b70-d6b5-dab4-b03d3678497b.mp3" length="72196888" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;感想はtwitterでハッシュタグ「#secure旅団 」や&lt;a href=&quot;https://forms.gle/pXXyTDu2ZPZDcVdv7&quot;&gt;Google Form&lt;/a&gt;にいただけると嬉しいです&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;お年玉やご祝儀の認証と&lt;/li&gt;
+ &lt;li&gt;paypayの情報漏えい&lt;/li&gt;
+ &lt;li&gt;依存しているSaaSに問題があった場合の対処&lt;/li&gt;
+ &lt;li&gt;openSSHの脆弱性&lt;/li&gt;
+ &lt;li&gt;Mac上のアプリとapple上ocspサーバー&amp;nbsp;の話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 他&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;スピーカー :主宰: ken5(@ken5scal) ゲスト: 名無しさん, 松本さん(@ym405nm)&lt;/li&gt;
+ &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ジングル: @hajipion &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:59:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ランサムの最近の話やSIEMの話]]></title>
+			<description><![CDATA[<ul>
+ <li>Apple Eventの話</li>
+ <li>MacOSの管理って大変だよねって話</li>
+ <li>カプコンの話（カプコンは最初から狙われたのか）</li>
+ <li>ランサムの最近の話</li>
+  <li>SIEMの話（使い所の話）</li>
+  <li>ダッシュボードの価値の話</li>
+  <li>ThreatIntelligenceなどのデータをいい感じに運用まで落とし込む方法&nbsp;</li>
+  <li>新しいyubikeyの話</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/SIEM-enfvgt</link>
+			<guid isPermaLink="false">f3dc1612-7609-4677-af0a-a2dc98fcc13c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 07 Dec 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/23641053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-7%2F65188fff-5023-5694-17fd-7fe8a83379ca.mp3" length="88227216" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;Apple Eventの話&lt;/li&gt;
+ &lt;li&gt;MacOSの管理って大変だよねって話&lt;/li&gt;
+ &lt;li&gt;カプコンの話（カプコンは最初から狙われたのか）&lt;/li&gt;
+ &lt;li&gt;ランサムの最近の話&lt;/li&gt;
+  &lt;li&gt;SIEMの話（使い所の話）&lt;/li&gt;
+  &lt;li&gt;ダッシュボードの価値の話&lt;/li&gt;
+  &lt;li&gt;ThreatIntelligenceなどのデータをいい感じに運用まで落とし込む方法&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;新しいyubikeyの話&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:10:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Identityスペシャル - OAuth2.1の話　他]]></title>
+			<description><![CDATA[<p>感想等は、twitterで#secure旅団 をつけたり、Google Form（https://forms.gle/pXXyTDu2ZPZDcVdv7）にいただければ幸いです</p>
+<p>主にOAuth2.1の話をしています</p>
+<ul>
+ <li>OAuth2.1の背景</li>
+ <li>認証認可とbug bounty</li>
+ <li>Appleとオレオレ実装</li>
+ <li>WebAuthn 2</li>
+ <li>またOAuth2.1の話</li>
+ <li>OIDC/SAMLが情報処理技術者試験に出た話</li>
+  <li>プラットフォームに依存したくない話</li>
+  <li>GSuite -&gt; Workspaceの話</li>
+</ul>
+<p>スピーカー</p>
+<ul>
+  <li>主宰: ken5(@ken5scal)</li>
+  <li>ゲスト: 名無しさん, 松本さん(@ym405nm), 56さん(@kg0r0)</li>
+</ul>
+<p>Special Thanks</p>
+<ul>
+  <li>ジングル: @hajipion</li>
+  <li>BGM: "A Fool in Love" by <a href="https://www.epidemicsound.com/artists/imprismed/">Imprismed</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Identity---OAuth2-1-elrebe</link>
+			<guid isPermaLink="false">7f3cfe8d-aad3-4a9e-9d2e-7d7d9fe26319</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 01 Nov 2020 23:25:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/21919534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-1%2Ff373bcd3-5185-b544-8e0f-7191bcce556f.mp3" length="64634186" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;感想等は、twitterで#secure旅団 をつけたり、Google Form（https://forms.gle/pXXyTDu2ZPZDcVdv7）にいただければ幸いです&lt;/p&gt;
+&lt;p&gt;主にOAuth2.1の話をしています&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;OAuth2.1の背景&lt;/li&gt;
+ &lt;li&gt;認証認可とbug bounty&lt;/li&gt;
+ &lt;li&gt;Appleとオレオレ実装&lt;/li&gt;
+ &lt;li&gt;WebAuthn 2&lt;/li&gt;
+ &lt;li&gt;またOAuth2.1の話&lt;/li&gt;
+ &lt;li&gt;OIDC/SAMLが情報処理技術者試験に出た話&lt;/li&gt;
+  &lt;li&gt;プラットフォームに依存したくない話&lt;/li&gt;
+  &lt;li&gt;GSuite -&amp;gt; Workspaceの話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;スピーカー&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主宰: ken5(@ken5scal)&lt;/li&gt;
+  &lt;li&gt;ゲスト: 名無しさん, 松本さん(@ym405nm), 56さん(@kg0r0)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Special Thanks&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ジングル: @hajipion&lt;/li&gt;
+  &lt;li&gt;BGM: &quot;A Fool in Love&quot; by &lt;a href=&quot;https://www.epidemicsound.com/artists/imprismed/&quot;&gt;Imprismed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GithubのCode Scanningやデジタル改革Idea Box、行政のセキュリティの話　他]]></title>
+			<description><![CDATA[<p>いつもご視聴ありがとうございます。もしよければ、ハッシュ #secure旅団 #secureLiaison をつけてご感想ください</p>
+<ul>
+ <li>GitHubのCode Scanning機能の話</li>
+ <li>Fuzzingの話</li>
+ <li>マイクロソフトのFuzzingの話: https://www.publickey1.jp/blog/20/project_onefuzzwindowsmicorosoft_edge.html</li>
+ <li>ブラウザの話</li>
+ <li>デジタル改革 Idea Boxの話
+   <ul>
+      <li>- 行政パブリケーションでの西暦表記: <a href="https://ideabox.cio.go.jp/ja/idea/00740/" rel="noopener noreferrer" target="_blank">https://ideabox.cio.go.jp/ja/idea/00740/</a></li>
+      <li>- 行政関連のアプリケーション発行元を確認できるようにしてほしい: <a href="https://ideabox.cio.go.jp/ja/idea/01049/" rel="noopener noreferrer" target="_blank">https://ideabox.cio.go.jp/ja/idea/01049/</a></li>
+      <li>利用者のセキュリティレベルをちょっとさげても、自社サービスを使ってくれ、という文化の危険性の話</li>
+      <li>行政の失敗はどこまで許容されるのかの話</li>
+      <li>日本など7カ国、暗号化された通信へのバックドアをIT企業に要請の話</li>
+      <li>主宰が録音を忘れてたインシデント発生の話</li>
+    </ul>
+  </li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/GithubCode-ScanningIdea-Box-el7pac</link>
+			<guid isPermaLink="false">1ed518d4-48a6-4cce-a82f-774f4c8ad0c1</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 19 Oct 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/21275404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-18%2F119dce6b-d5c3-57cc-2bcc-e1dec7b5b727.mp3" length="83364084" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;いつもご視聴ありがとうございます。もしよければ、ハッシュ #secure旅団 #secureLiaison をつけてご感想ください&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;GitHubのCode Scanning機能の話&lt;/li&gt;
+ &lt;li&gt;Fuzzingの話&lt;/li&gt;
+ &lt;li&gt;マイクロソフトのFuzzingの話: https://www.publickey1.jp/blog/20/project_onefuzzwindowsmicorosoft_edge.html&lt;/li&gt;
+ &lt;li&gt;ブラウザの話&lt;/li&gt;
+ &lt;li&gt;デジタル改革 Idea Boxの話
+   &lt;ul&gt;
+      &lt;li&gt;- 行政パブリケーションでの西暦表記: &lt;a href=&quot;https://ideabox.cio.go.jp/ja/idea/00740/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://ideabox.cio.go.jp/ja/idea/00740/&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;- 行政関連のアプリケーション発行元を確認できるようにしてほしい: &lt;a href=&quot;https://ideabox.cio.go.jp/ja/idea/01049/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://ideabox.cio.go.jp/ja/idea/01049/&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;利用者のセキュリティレベルをちょっとさげても、自社サービスを使ってくれ、という文化の危険性の話&lt;/li&gt;
+      &lt;li&gt;行政の失敗はどこまで許容されるのかの話&lt;/li&gt;
+      &lt;li&gt;日本など7カ国、暗号化された通信へのバックドアをIT企業に要請の話&lt;/li&gt;
+      &lt;li&gt;主宰が録音を忘れてたインシデント発生の話&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:06:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[東証インシデント会見やZero Loginの話]]></title>
+			<description><![CDATA[<p>収録日: 2020/10/01</p>
+<ul>
+ <li>zero logonの話</li>
+ <li>Windowsパッチの話</li>
+ <li>東証インシデント会見の話</li>
+ <li>一般的なインシデントハンドリングの話</li>
+  <li>各種IaaS障害の話</li>
+  <li>松本さんの名前の話</li>
+  <li>Igniteの話</li>
+  <li>Microsoft365をヨイショする話</li>
+  <li>海外セキュリティスタートアップの話</li>
+  <li>Microsoft365をまたヨイショする話</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Zero-Login-ekj649</link>
+			<guid isPermaLink="false">b8177fb1-2dee-4173-8539-ae93979adde3</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Tue, 06 Oct 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/20600393/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-5%2F131a781e-ebc8-1865-0174-c48e5506b154.mp3" length="79274509" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;収録日: 2020/10/01&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;zero logonの話&lt;/li&gt;
+ &lt;li&gt;Windowsパッチの話&lt;/li&gt;
+ &lt;li&gt;東証インシデント会見の話&lt;/li&gt;
+ &lt;li&gt;一般的なインシデントハンドリングの話&lt;/li&gt;
+  &lt;li&gt;各種IaaS障害の話&lt;/li&gt;
+  &lt;li&gt;松本さんの名前の話&lt;/li&gt;
+  &lt;li&gt;Igniteの話&lt;/li&gt;
+  &lt;li&gt;Microsoft365をヨイショする話&lt;/li&gt;
+  &lt;li&gt;海外セキュリティスタートアップの話&lt;/li&gt;
+  &lt;li&gt;Microsoft365をまたヨイショする話&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[taro.org  + 行政改革庁とかの話 - 他]]></title>
+			<description><![CDATA[<p>主催者の声が小さいです....すみません...</p>
+<p>前半あんまりセキュリティの話してないです笑</p>
+<ul>
+ <li>収録後にpodcast化する編集作業が面倒くさい話</li>
+ <li>ラジオとRadikoの話</li>
+ <li>taro.org &nbsp;+ 行政改革庁の話</li>
+ <li>マイナンバーカードの話</li>
+  <li>パスワードマネージャーの話</li>
+  <li>LINEアカウントに対する不正アクセス注意喚起の話</li>
+  <li>Emotetと日本医師会感染の話　（Mr.脆弱性の登場）</li>
+  <li>インターネットにつなぎにくいシステムの運用の話</li>
+</ul>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/taro-org------ek540q</link>
+			<guid isPermaLink="false">763b455a-28ba-42f7-ae9e-600e0c076749</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 27 Sep 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/20139482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2Fe65ca47a-881b-a53c-01ed-89be391ab010.mp3" length="68887768" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;主催者の声が小さいです....すみません...&lt;/p&gt;
+&lt;p&gt;前半あんまりセキュリティの話してないです笑&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;収録後にpodcast化する編集作業が面倒くさい話&lt;/li&gt;
+ &lt;li&gt;ラジオとRadikoの話&lt;/li&gt;
+ &lt;li&gt;taro.org &amp;nbsp;+ 行政改革庁の話&lt;/li&gt;
+ &lt;li&gt;マイナンバーカードの話&lt;/li&gt;
+  &lt;li&gt;パスワードマネージャーの話&lt;/li&gt;
+  &lt;li&gt;LINEアカウントに対する不正アクセス注意喚起の話&lt;/li&gt;
+  &lt;li&gt;Emotetと日本医師会感染の話　（Mr.脆弱性の登場）&lt;/li&gt;
+  &lt;li&gt;インターネットにつなぎにくいシステムの運用の話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[銀行と資金移動業者（当日編）- 他]]></title>
+			<description><![CDATA[<ul>
+ <li>docomoと地銀　（収録日が2020/09/09なので、正確でない情報も含まれています）</li>
+ <li>リスクベース認証の話</li>
+ <li>セキュリティべき論は通じるか</li>
+ <li>セキュリティトレーニングと教育</li>
+ <li>LAPSと特権管理 in ADDC</li>
+ <li>雑多な話（ゼロトラスト、apple, Windows, Windows Phoneの話）</li>
+  <li>Mozillaの大量解雇</li>
+  <li>デジタル・ガバメント</li>
+  <li>Cocoaアプリの話</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/--ek53rf</link>
+			<guid isPermaLink="false">044575ad-cced-4321-9473-397e5e1a285c</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Fri, 25 Sep 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/20139311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F11aa0bde-53bf-8e90-f761-da7c9d86ce5b.mp3" length="114310389" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;docomoと地銀　（収録日が2020/09/09なので、正確でない情報も含まれています）&lt;/li&gt;
+ &lt;li&gt;リスクベース認証の話&lt;/li&gt;
+ &lt;li&gt;セキュリティべき論は通じるか&lt;/li&gt;
+ &lt;li&gt;セキュリティトレーニングと教育&lt;/li&gt;
+ &lt;li&gt;LAPSと特権管理 in ADDC&lt;/li&gt;
+ &lt;li&gt;雑多な話（ゼロトラスト、apple, Windows, Windows Phoneの話）&lt;/li&gt;
+  &lt;li&gt;Mozillaの大量解雇&lt;/li&gt;
+  &lt;li&gt;デジタル・ガバメント&lt;/li&gt;
+  &lt;li&gt;Cocoaアプリの話&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:33:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[セキュリティのバズワードへの向き合い方 - 他]]></title>
+			<description><![CDATA[<ul>
+ <li>ワークフローと管理ツール</li>
+ <li>カンファレンス・mtgツールの話</li>
+ <li>バズワードへの向き合い方</li>
+ <li>テレワークとセキュリティ</li>
+ <li>サイバーセキュリティのキャリアについて</li>
+</ul>
+<p>#フリートーク</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/--eiho0a</link>
+			<guid isPermaLink="false">79a19cd5-27f6-4609-baae-c68458036a17</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Mon, 24 Aug 2020 12:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/18456010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-23%2Fa6d378ea-8d6c-667e-910c-6a9e3a144617.mp3" length="79179702" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;ワークフローと管理ツール&lt;/li&gt;
+ &lt;li&gt;カンファレンス・mtgツールの話&lt;/li&gt;
+ &lt;li&gt;バズワードへの向き合い方&lt;/li&gt;
+ &lt;li&gt;テレワークとセキュリティ&lt;/li&gt;
+ &lt;li&gt;サイバーセキュリティのキャリアについて&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#フリートーク&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:03:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[7~8月のカンファレンス]]></title>
+			<description><![CDATA[<p><strong>概要</strong></p>
+<ul>
+ <li>Hitcon, July Tech Festa, 懇親会ぼっち, 論文</li>
+</ul>
+<h2><strong>参加者</strong></h2>
+<ul>
+ <li>@ken5scal, @ym405nm</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/78-ehdc5s</link>
+			<guid isPermaLink="false">753184fa-6ea7-48b3-bec0-92615ee429d1</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 29 Jul 2020 16:31:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/17264252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-29%2F94100233-44100-2-cfb054326fadd.m4a" length="45727562" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Hitcon, July Tech Festa, 懇親会ぼっち, 論文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;参加者&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+ &lt;li&gt;@ken5scal, @ym405nm&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:47:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ep.1: ECサイトのフィッシングなど]]></title>
+			<description><![CDATA[<p><strong>Overview</strong></p>
+<ul>
+ <li>ECサイトにおけるフィッシングについて</li>
+ <li>metigojp[.]comのwhoisがGDPR maskedになってた</li>
+ <li>Android老人会</li>
+ <li>AIとセキュリティ人材</li>
+</ul>
+<p><strong>参加者</strong></p>
+<ul>
+  <li><strong>@ken5scal, </strong><a href="https://twitter.com/ym405nm" rel="nofollow">@ym405nm</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/Ep-1-EC-efas6r</link>
+			<guid isPermaLink="false">8ec03c47-5101-46c8-bef6-0708996026f9</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Wed, 29 Jul 2020 16:31:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/15085211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-29%2F94095965-44100-2-130fa127e4f9e.m4a" length="15348106" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;ECサイトにおけるフィッシングについて&lt;/li&gt;
+ &lt;li&gt;metigojp[.]comのwhoisがGDPR maskedになってた&lt;/li&gt;
+ &lt;li&gt;Android老人会&lt;/li&gt;
+ &lt;li&gt;AIとセキュリティ人材&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;参加者&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;@ken5scal, &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ym405nm&quot; rel=&quot;nofollow&quot;&gt;@ym405nm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
