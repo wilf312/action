@@ -309,7 +309,7 @@ export const getEncodedUrl = (): UrlListItemAndHashEncoded[] => {
 
 export const findPodcastConfig = (
   hashEncoded: string
-): UrlListItem | undefined => {
+): UrlListItemAndHashEncoded | undefined => {
   const urlListItemAndHashEncodedList = getEncodedUrl();
   return urlListItemAndHashEncodedList.find((d) => {
     return hashEncoded === d.hash;
