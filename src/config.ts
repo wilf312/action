@@ -292,6 +292,36 @@ export const urlList: UrlListItem[] = [
     hash: "ノウカノタネ",
     url: "https://anchor.fm/s/1c8e7878/podcast/rss",
   },
+
+  {
+    name: "Researchat.fm",
+    hash: "researchatfm",
+    url: "https://researchat.fm/feed.xml",
+  },
+
+  {
+    name: "STILL RENDERING // スティレン",
+    hash: "スティレン",
+    url: "https://anchor.fm/s/40a74b4/podcast/rss",
+  },
+
+  {
+    name: "はなれより。",
+    hash: "はなれより",
+    url: "https://anchor.fm/s/c2e46e8/podcast/rss",
+  },
+
+  {
+    name: "中村繪里子・吉田尚記の本格雑談くちをひらく",
+    hash: "くちをひらく",
+    url: "https://www.omnycontent.com/d/playlist/67122501-9b17-4d77-84bd-a93d00dc791e/bf2b4e95-c669-4e1c-abcf-a98c00a5f513/b923e360-dc05-438d-be85-a98c00a5f517/podcast.rss",
+  },
+
+  {
+    name: "楽しいラジオ「ドングリFM」",
+    hash: "ドングリFM",
+    url: "http://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss",
+  },
 ];
 
 /**
