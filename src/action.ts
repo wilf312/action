@@ -40,7 +40,7 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      - name: arkb
+      - name: xml translate json
         run: |
           git config --global user.email "g.okada.wilf+github@gmail.com"
           git config --global user.name "okada genya(CI)"
