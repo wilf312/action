@@ -262,6 +262,36 @@ export const urlList: UrlListItem[] = [
     hash: "いんよう",
     url: "https://anchor.fm/s/576104c/podcast/rss",
   },
+
+  {
+    name: "銀の弾丸ラジオ",
+    hash: "SilverBulletClub",
+    url: "https://anchor.fm/s/13df46f8/podcast/rss",
+  },
+
+  {
+    name: "Yokohama North AM",
+    hash: "yokohamanortham",
+    url: "https://anchor.fm/s/1e60bd50/podcast/rss",
+  },
+
+  {
+    name: "FREE AGENDA by hikaru & yamotty",
+    hash: "フリーアジェンダ",
+    url: "https://anchor.fm/s/147f7150/podcast/rss",
+  },
+
+  {
+    name: "「話し方」のハナシ",
+    hash: "話し方のハナシ",
+    url: "https://hanashi.koelab.net/feed/podcast/",
+  },
+
+  {
+    name: "ノウカノタネ",
+    hash: "ノウカノタネ",
+    url: "https://anchor.fm/s/1c8e7878/podcast/rss",
+  },
 ];
 
 /**
