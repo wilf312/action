@@ -49,6 +49,9 @@ ${ymlText}
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts
 
+          # XMLからJSONに変換したら xmlを元の状態に戻す
+          git checkout HEAD -- rss/*
+
           # 書き出したファイルをコミットする
           if [[ -z $(git status -s) ]]; then
             echo "no commit change"
