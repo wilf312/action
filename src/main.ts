@@ -6,6 +6,7 @@
 import { getEncodedUrl } from "./config.ts";
 import { templateAction } from "./action.ts";
 import { writeUrlList, writeAction, writeLocalShellScript } from "./write.ts";
+import { isSoundCloud } from "./soundcloud.ts";
 
 const main = async () => {
   // hashをエンコードしたデータを作成
@@ -18,7 +19,12 @@ const main = async () => {
   // anchorの時だけ sed を使って lastBuildDateを削除する（anchorfmで毎時くらいで差分が出るため）
   const ymlText = encoded
     .map((d) => {
+      // soundcloudはcurlだと空文字を返すのでスキップする
+      if (isSoundCloud(d.url)) {
+        return ``;
+      }
       return `          # ${d.name}
+          echo '${d.url}'
           curl ${d.url} --compressed > rss/${d.hashEncoded}.xml
 `;
     })
