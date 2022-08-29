@@ -42,10 +42,17 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: xml translate json
         run: |
+          # git の設定
           git config --global user.email "g.okada.wilf+github@gmail.com"
           git config --global user.name "okada genya(CI)"
 
+
+          # deno xmlダウンロード
+          deno run --allow-net --allow-write src/curlIgnoredDownload.ts
+
+          # curl xmlダウンロード
 ${ymlText}
+
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts
 
