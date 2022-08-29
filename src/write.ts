@@ -41,3 +41,13 @@ export const writeAction = (actionYml: string) => {
 export const writeLocalShellScript = (actionText: string) => {
   return Deno.writeTextFile("local/downloadxml.sh", actionText);
 };
+
+/**
+ * rss.xmlの書き出し
+ * @param hashEncoded
+ * @param xmlString
+ * @returns
+ */
+export const writePodcastXML = (hashEncoded: string, xmlString: string) => {
+  return Deno.writeTextFile(`./rss/${hashEncoded}.xml`, xmlString);
+};
