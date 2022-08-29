@@ -6,8 +6,6 @@ const output = async (item) => {
   // xmlの読み込み
   const file = await Deno.readTextFile(`rss/${item.hashEncoded}.xml`);
 
-  console.log(file);
-
   // xml to json
   const jsObj = xml.parse(file, { debug: false });
 
@@ -27,7 +25,6 @@ const output = async (item) => {
     delete json["lastBuildDate"];
   }
 
-  console.log(json);
   await writePodcastJSON(item.hashEncoded, json);
 };
 
