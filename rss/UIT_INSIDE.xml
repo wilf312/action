@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://uit-inside.linecorp.com/feed.atom" rel="self" type="application/rss+xml" />
+    <link>https://uit-inside.linecorp.com</link>
+    <title>UIT INSIDE</title>
+    <description>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </description>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <image><url>https://uit-inside.linecorp.com/resources/images/brand.png</url><title>UIT INSIDE - LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast  の イメージ画像</title><link>https://uit-inside.linecorp.com</link></image>
+    <itunes:subtitle>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </itunes:subtitle>
+    <itunes:author>UIT</itunes:author>
+    <itunes:summary>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </itunes:summary>
+    <itunes:owner>
+      <itunes:name>UIT</itunes:name>
+      <itunes:email>dl_uit_inside@linecorp.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://uit-inside.linecorp.com/resources/images/apple-podcast.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+  <item>
+    <title>ep.129『不要な export をまとめて掃除！みんながほしかった CLI ts-prune』</title>
+    <link>https://uit-inside.linecorp.com/episode/129</link>
+    <pubDate>Fri, 26 Aug 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @kazuma0129 に、 TypeScript プロジェクトの dead code を検知・削除できる ts-prune について話を聞いてみました&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/129</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode129.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Kazuma Ohashi(kazuma0129)</itunes:author>
+    <itunes:subtitle>ep.129『不要な export をまとめて掃除！みんながほしかった CLI ts-prune』</itunes:subtitle>
+    <itunes:duration>14:23</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode129.png"/>
+  </item>
+  <item>
+    <title>ep.128『SolidJSを踏まえて見つめ直すUIフレームワーク』</title>
+    <link>https://uit-inside.linecorp.com/episode/128</link>
+    <pubDate>Fri, 19 Aug 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@G4RDS が、 @uhyo_ と @AlanGDavalos に、SolidJSの登場を踏まえたUIライブラリの考え方について、話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/128</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-128.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),uhyo(uhyo_),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.128『SolidJSを踏まえて見つめ直すUIフレームワーク』</itunes:subtitle>
+    <itunes:duration>47:0</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode128.png"/>
+  </item>
+  <item>
+    <title>ep.127 『この 1 年の Vite の普及と Vite 3 への期待』</title>
+    <link>https://uit-inside.linecorp.com/episode/127</link>
+    <pubDate>Fri, 05 Aug 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-rainingが、ここ1年で積極的にViteを使っている@kazushikonosuと@T28_tatsuyaに、Viteの良さや最近リリースされたVite 3に期待することを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/127</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-vite3.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),T28_tatsuya(T28_tatsuya),kazushikonosu(kazushikonosu)</itunes:author>
+    <itunes:subtitle>ep.127 『この 1 年の Vite の普及と Vite 3 への期待』</itunes:subtitle>
+    <itunes:duration>48:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode127.png"/>
+  </item>
+  <item>
+    <title>ep.126 UIT Meetup vol.16「ちゃんとやってる？アクセシビリティ」 Aftershow</title>
+    <link>https://uit-inside.linecorp.com/episode/126</link>
+    <pubDate>Fri, 29 Jul 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@pittankopta が UIT Meetup vol.16 「ちゃんとやってる？アクセシビリティ」のAfter Show として、登壇者の @kubosho @at @hiroyaUGA の3人に話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/126</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode126.mp3" type="audio/mp3"/>
+    <itunes:author>Pittan(Pittan),Azusa Tomita(a_t),kubosho_(kubosho_),hiroya_UGA(hiroya_UGA)</itunes:author>
+    <itunes:subtitle>ep.126 UIT Meetup vol.16「ちゃんとやってる？アクセシビリティ」 Aftershow</itunes:subtitle>
+    <itunes:duration>48:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode126.png"/>
+  </item>
+  <item>
+    <title>Overcoming Language Barriers! Working as a Front-End Engineer in a Different Language</title>
+    <link>https://uit-inside.linecorp.com/episode/125</link>
+    <pubDate>Fri, 08 Jul 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@AlanGDavalos and @cipto.hartanto talk about the difficulties of working in a different language and how to overcome them.&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/125</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode125_en_1.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),Cipto Hartanto(cipto.hartanto)</itunes:author>
+    <itunes:subtitle>Overcoming Language Barriers! Working as a Front-End Engineer in a Different Language</itunes:subtitle>
+    <itunes:duration>37:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode125.png"/>
+  </item>
+  <item>
+    <title>ep.124『書き起こしからダークモードまで！UIT INSIDE 大型リニューアルの裏側』</title>
+    <link>https://uit-inside.linecorp.com/episode/124</link>
+    <pubDate>Fri, 01 Jul 2022 03:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @spring_raining に、 UIT INSIDE のリニューアルについて話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/124</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode124.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.124『書き起こしからダークモードまで！UIT INSIDE 大型リニューアルの裏側』</itunes:subtitle>
+    <itunes:duration>20:45</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode124.png"/>
+  </item>
+  <item>
+    <title>ep.123『Recoil Relayの登場とState managementからData-flow graphへの進化』</title>
+    <link>https://uit-inside.linecorp.com/episode/123</link>
+    <pubDate>Fri, 17 Jun 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;Recoil から最近登場したライブラリ recoil-relay とライブラリ公開の真意について、@spring-raining と @uhyo が話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/123</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-recoil-relay.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_)</itunes:author>
+    <itunes:subtitle>ep.123『Recoil Relayの登場とState managementからData-flow graphへの進化』</itunes:subtitle>
+    <itunes:duration>32:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode123.png"/>
+  </item>
+  <item>
+    <title>ep.122『実体験から見えてくるもの UIT アクセシビリティインタビュー・レポート』</title>
+    <link>https://uit-inside.linecorp.com/episode/122</link>
+    <pubDate>Fri, 10 Jun 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @at と @takueof に、アクセシビリティインタビューについて話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/122</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-a11y.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),taku_eof(taku_eof),Azusa Tomita(a_t)</itunes:author>
+    <itunes:subtitle>ep.122『実体験から見えてくるもの UIT アクセシビリティインタビュー・レポート』</itunes:subtitle>
+    <itunes:duration>38:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode122.png"/>
+  </item>
+  <item>
+    <title>ep.121 『つくって学ぶ LIFF プラグインとエコシステム』</title>
+    <link>https://uit-inside.linecorp.com/episode/121</link>
+    <pubDate>Fri, 20 May 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @potato4d に GW 中に開発した LIFF プラグインの概要と、開発してみて感じたことを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/121</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-121.m4a" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.121 『つくって学ぶ LIFF プラグインとエコシステム』</itunes:subtitle>
+    <itunes:duration>24:39</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode121.png"/>
+  </item>
+  <item>
+    <title>ep.120『LINE NEWS が取り組むフロントエンド開発体験の改善サイクル』</title>
+    <link>https://uit-inside.linecorp.com/episode/120</link>
+    <pubDate>Fri, 13 May 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-raining が、LINE NEWS のフロントエンドエンジニアの @he.shuangbing と @jaycompsci に継続してフロントエンド開発の環境を改善することとその取り組みについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/120</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-news-kaizen.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),jaycompsci(jaycompsci),he.shuangbing(he-shuangbing)</itunes:author>
+    <itunes:subtitle>ep.120『LINE NEWS が取り組むフロントエンド開発体験の改善サイクル』</itunes:subtitle>
+    <itunes:duration>34:45</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode120.png"/>
+  </item>
+  <item>
+    <title>ep.119 『まだ見ぬオプションも先取り！？ Prettier より 10 倍速いと噂の Rome Formatter を使ってみた』</title>
+    <link>https://uit-inside.linecorp.com/episode/119</link>
+    <pubDate>Wed, 20 Apr 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @potato4d に、ついにリリースされた Rome Formatter について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/119</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-119.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.119 『まだ見ぬオプションも先取り！？ Prettier より 10 倍速いと噂の Rome Formatter を使ってみた』</itunes:subtitle>
+    <itunes:duration>27:41</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode119.png"/>
+  </item>
+  <item>
+    <title>ep.118 『大型アップデートのTypeScript 4.7 Beta全部見る』</title>
+    <link>https://uit-inside.linecorp.com/episode/118</link>
+    <pubDate>Fri, 15 Apr 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-rainingが、@uhyo_にTypeScript 4.7 Betaでの変更点や4/22に発売されるTypeScriptの本について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/118</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-typescript47.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_)</itunes:author>
+    <itunes:subtitle>ep.118 『大型アップデートのTypeScript 4.7 Beta全部見る』</itunes:subtitle>
+    <itunes:duration>39:11</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode118.png"/>
+  </item>
+  <item>
+    <title>ep.117 「早速 Stage の変化も！？ UIT Meetup vol.15  『Relearn Modern Web Standard』Aftershow」</title>
+    <link>https://uit-inside.linecorp.com/episode/117</link>
+    <pubDate>Fri, 08 Apr 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が UIT Meetup vol.15 の登壇者たちに、Aftershow として話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/117</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-117.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Davalos Alan(AlanGDavalos),uhyo(uhyo_),yoshiko(yoshiko_pg)</itunes:author>
+    <itunes:subtitle>ep.117 「早速 Stage の変化も！？ UIT Meetup vol.15  『Relearn Modern Web Standard』Aftershow」</itunes:subtitle>
+    <itunes:duration>40:4</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode117.png"/>
+  </item>
+  <item>
+    <title>ep.116『Podcastのユーザー体験が大幅に改善するMediaSession API』</title>
+    <link>https://uit-inside.linecorp.com/episode/116</link>
+    <pubDate>Fri, 01 Apr 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-raining が、@potato4d にプラウザ上での音声や動画を制御できる MediaSession API について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/116</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-116.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.116『Podcastのユーザー体験が大幅に改善するMediaSession API』</itunes:subtitle>
+    <itunes:duration>19:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode116.png"/>
+  </item>
+  <item>
+    <title>ep.115 『言語だけじゃない！ 国際化対応の切り札 Intl API』</title>
+    <link>https://uit-inside.linecorp.com/episode/115</link>
+    <pubDate>Fri, 18 Mar 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-raining が、国際化対応のための API である Intl API や Safari 15.4 での対応状況について @AlanGDavalos に聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/115</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-intl-api.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.115 『言語だけじゃない！ 国際化対応の切り札 Intl API』</itunes:subtitle>
+    <itunes:duration>37:38</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode115.png"/>
+  </item>
+  <item>
+    <title>ep.114『ランチャーアプリ Raycast はフロントエンドエンジニアこそ使いたい』</title>
+    <link>https://uit-inside.linecorp.com/episode/114</link>
+    <pubDate>Fri, 11 Mar 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-raining が、最近ランチャーアプリ Raycast を使い始めた @potato4d に Raycast の良さや Extension の開発について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/114</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-raycast.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.114『ランチャーアプリ Raycast はフロントエンドエンジニアこそ使いたい』</itunes:subtitle>
+    <itunes:duration>35:9</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode114.png"/>
+  </item>
+  <item>
+    <title>ep.113『おすすめツールから QA との協業まで End-To-End テストのイマを聞いてみた』</title>
+    <link>https://uit-inside.linecorp.com/episode/113</link>
+    <pubDate>Fri, 04 Mar 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が SET チームのテストエンジニア @Isao に、E2Eテストの最新情報について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/113</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-113.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Isao(Isao)</itunes:author>
+    <itunes:subtitle>ep.113『おすすめツールから QA との協業まで End-To-End テストのイマを聞いてみた』</itunes:subtitle>
+    <itunes:duration>37:46</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode113.png"/>
+  </item>
+  <item>
+    <title>ep.112『Reactの重要ライブラリTanStackについて語りたい！』</title>
+    <link>https://uit-inside.linecorp.com/episode/112</link>
+    <pubDate>Fri, 18 Feb 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-rainingが、@potato4dと@uhyo_にReactのライブラリ群を公開しているTanStackについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/112</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-tanstack.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),uhyo(uhyo_)</itunes:author>
+    <itunes:subtitle>ep.112『Reactの重要ライブラリTanStackについて語りたい！』</itunes:subtitle>
+    <itunes:duration>45:2</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode112.png"/>
+  </item>
+  <item>
+    <title>Special episode “Reconsidering the baseline for web development in 2022”</title>
+    <link>https://uit-inside.linecorp.com/episode/111</link>
+    <pubDate>Thu, 10 Feb 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;Tzu-Lin Huang talked with @AlanGDavalos, who's the author of “The baseline for web development in 2022” article that went viral around the Front-end community worldwide.&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/111</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-111.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),Tzu-Lin Huang(huangtzulin)</itunes:author>
+    <itunes:subtitle>Special episode “Reconsidering the baseline for web development in 2022”</itunes:subtitle>
+    <itunes:duration>18:41</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode111.png"/>
+  </item>
+  <item>
+    <title>ep.110 『いま改めて考えたいフロントエンド開発のベースライン』</title>
+    <link>https://uit-inside.linecorp.com/episode/110</link>
+    <pubDate>Fri, 04 Feb 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が、先日反響のあった LINE Engineering Blog の記事『2022 年におけるフロントエンド開発のベースライン』を執筆した @AlanGDavalos に記事への質問を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/110</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-110.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.110 『いま改めて考えたいフロントエンド開発のベースライン』</itunes:subtitle>
+    <itunes:duration>32:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode110.png"/>
+  </item>
+  <item>
+    <title>ep.109 『気になる技術が大集合！UIT新春Tech Blog』</title>
+    <link>https://uit-inside.linecorp.com/episode/109</link>
+    <pubDate>Fri, 28 Jan 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @springraining と @pittankopta に、UIT 新春 Tech blog 企画について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/109</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-109.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Pittan(Pittan)</itunes:author>
+    <itunes:subtitle>ep.109 『気になる技術が大集合！UIT新春Tech Blog』</itunes:subtitle>
+    <itunes:duration>20:53</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode109.png"/>
+  </item>
+  <item>
+    <title>ep.108 『変わり続ける CSS-in-JS のトレンドと vanilla-extract』</title>
+    <link>https://uit-inside.linecorp.com/episode/108</link>
+    <pubDate>Fri, 21 Jan 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @spring_raining に、最近の CSS-in-JS のライブラリや、その中で注目を集めている vanilla-extract について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/108</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-vanilla-extract.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.108 『変わり続ける CSS-in-JS のトレンドと vanilla-extract』</itunes:subtitle>
+    <itunes:duration>30:56</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode108.png"/>
+  </item>
+  <item>
+    <title>ep.107 『新しい BaaS のスタンダードになるか？Supabase の Production 事例を聞いてみた』</title>
+    <link>https://uit-inside.linecorp.com/episode/107</link>
+    <pubDate>Fri, 14 Jan 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @sho_yamane に、プロフィールページ作成サービス『4me.bio』開発にて見えてきた Supabase への手応えを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/107</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-107.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),sho_yamane(sho_yamane)</itunes:author>
+    <itunes:subtitle>ep.107 『新しい BaaS のスタンダードになるか？Supabase の Production 事例を聞いてみた』</itunes:subtitle>
+    <itunes:duration>21:44</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode107.png"/>
+  </item>
+  <item>
+    <title>ep.106 『フロントエンドエンジニアが Kubernetes を身につける理由』</title>
+    <link>https://uit-inside.linecorp.com/episode/106</link>
+    <pubDate>Fri, 10 Dec 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;フロントエンドエンジニアが Kubernetes を身につけることについて、@spring_raining が @ta7uw と @yuji.kurihara 双方の立場から聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/106</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-106.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Kurihara Yuji(yuji.kurihara),ta7uw(ta7uw)</itunes:author>
+    <itunes:subtitle>ep.106 『フロントエンドエンジニアが Kubernetes を身につける理由』</itunes:subtitle>
+    <itunes:duration>38:50</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode106.png"/>
+  </item>
+  <item>
+    <title>ep.105 『歴史との戦い 〜 LINE NEWS がやむなく disable にしている ESLint ルール事情』</title>
+    <link>https://uit-inside.linecorp.com/episode/105</link>
+    <pubDate>Fri, 03 Dec 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @akinori.inoue と @asakura_dev に、 LINE NEWS の eslint-disable 事情について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/105</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-105.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Taiga Nishiyama(asakura_dev),Akinori Inoue(akinori.inoue)</itunes:author>
+    <itunes:subtitle>ep.105 『歴史との戦い 〜 LINE NEWS がやむなく disable にしている ESLint ルール事情』</itunes:subtitle>
+    <itunes:duration>40:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode105.png"/>
+  </item>
+  <item>
+    <title>ep.104 『defineCustomElement で広がる Vue 3 によるコラボレーションの世界』</title>
+    <link>https://uit-inside.linecorp.com/episode/104</link>
+    <pubDate>Fri, 19 Nov 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @T28_tatsuya に Vue 3 の defineCustomElement を Production で活用した事例について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/104</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-104.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),T28_tatsuya(T28_tatsuya)</itunes:author>
+    <itunes:subtitle>ep.104 『defineCustomElement で広がる Vue 3 によるコラボレーションの世界』</itunes:subtitle>
+    <itunes:duration>32:49</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode104.png"/>
+  </item>
+  <item>
+    <title>ep.103 『Next.js 12振り返りとやがて来るReact 18』</title>
+    <link>https://uit-inside.linecorp.com/episode/103</link>
+    <pubDate>Fri, 05 Nov 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;先日発表された Next.js 12 について、@springraining @uhyo @G4RDS の 3 人で話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/103</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-next-js-12.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.103 『Next.js 12振り返りとやがて来るReact 18』</itunes:subtitle>
+    <itunes:duration>42:51</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode103.png"/>
+  </item>
+  <item>
+    <title>ep.102 「魔法のスプレッドシート作者に『社会人になってインターンするなら』を聞いてみた」</title>
+    <link>https://uit-inside.linecorp.com/episode/102</link>
+    <pubDate>Fri, 29 Oct 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @asakuradev と @springraining に、社会人の今インターンするならどうするかについて語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/102</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-102.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Taiga Nishiyama(asakura_dev)</itunes:author>
+    <itunes:subtitle>ep.102 「魔法のスプレッドシート作者に『社会人になってインターンするなら』を聞いてみた」</itunes:subtitle>
+    <itunes:duration>27:32</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode102.png"/>
+  </item>
+  <item>
+    <title>ep.101 『身近で遠いW3Cの活動に参加してみた - Web Components CGのケース』</title>
+    <link>https://uit-inside.linecorp.com/episode/101</link>
+    <pubDate>Fri, 15 Oct 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が、最近W3CのWeb Components Community Groupでの活動に取り組んでいる @AlanGDavalos に、CGでの活動について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/101</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-101.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.101 『身近で遠いW3Cの活動に参加してみた - Web Components CGのケース』</itunes:subtitle>
+    <itunes:duration>36:2</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode101.png"/>
+  </item>
+  <item>
+    <title>ep.100 『100回記念8時間生放送』</title>
+    <link>https://uit-inside.linecorp.com/episode/100</link>
+    <pubDate>Fri, 08 Oct 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;こちらは YouTube 配信の内容より、休憩時間などをカットしたものとなります。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/100</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-100.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Kawasaki Kohei(kawasako3),折原 レオナルド賢(Leonardo-mbc),Davalos Alan(AlanGDavalos),kazuya kawaguchi(kazupon),spring-raining(spring_raining),Akinori Inoue(akinori.inoue),uhyo(uhyo_),Ikuta Nozomu(nozomu-ikuta),__sosukesuzuki(__sosukesuzuki),Pittan(Pittan),Hanakla(Hanakla),f_subal(f_subal),Ikuno Naoto(naoto.ikuno),takanoripe(takanoripe),Takeru Suzuki(terkel)</itunes:author>
+    <itunes:subtitle>ep.100 『100回記念8時間生放送』</itunes:subtitle>
+    <itunes:duration>480:0</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode100.png"/>
+  </item>
+  <item>
+    <title>ep.99『Web流入とCore Web Vitalsの探求 - LINEバイトのサマーインターン2021』</title>
+    <link>https://uit-inside.linecorp.com/episode/99</link>
+    <pubDate>Fri, 01 Oct 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining がインターンとして参加された @kota.arai に、LINE バイトチームで取り組んだ Web 流入改善の取り組みについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/99</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-099.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Kota Arai(kota-arai)</itunes:author>
+    <itunes:subtitle>ep.99『Web流入とCore Web Vitalsの探求 - LINEバイトのサマーインターン2021』</itunes:subtitle>
+    <itunes:duration>33:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode099.png"/>
+  </item>
+  <item>
+    <title>ep.98 『Web Components で実現する企画者が作れる動的Webサイト』</title>
+    <link>https://uit-inside.linecorp.com/episode/98</link>
+    <pubDate>Fri, 17 Sep 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @cola119 に、 LINEバイトで行っている Web Component の活用術について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/98</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-098.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),cola119(cola119)</itunes:author>
+    <itunes:subtitle>ep.98 『Web Components で実現する企画者が作れる動的Webサイト』</itunes:subtitle>
+    <itunes:duration>22:4</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode098.png"/>
+  </item>
+  <item>
+    <title>ep.97『フロントエンドに詳しい CTO がいてよかったことは？heyのフロントエンド事情を聞いてみた』</title>
+    <link>https://uit-inside.linecorp.com/episode/97</link>
+    <pubDate>Fri, 10 Sep 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;hey の @ffu_ と @ushiro_noko をゲストにSTORESのフロントエンドの今、デザインシステム、フロントエンドに詳しいCTOがいてよかったことなどについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/97</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-097.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),ffu_(ffu_),ushiro_noko(ushiro_noko)</itunes:author>
+    <itunes:subtitle>ep.97『フロントエンドに詳しい CTO がいてよかったことは？heyのフロントエンド事情を聞いてみた』</itunes:subtitle>
+    <itunes:duration>69:0</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode097.png"/>
+  </item>
+  <item>
+    <title>ep.96 『Shell scriptがもっと身近に！ zx活用術』</title>
+    <link>https://uit-inside.linecorp.com/episode/96</link>
+    <pubDate>Fri, 27 Aug 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;最近注目を集めているツール zx について、@springraining が @T28tatsuya に聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/96</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-096.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),T28_tatsuya(T28_tatsuya)</itunes:author>
+    <itunes:subtitle>ep.96 『Shell scriptがもっと身近に！ zx活用術』</itunes:subtitle>
+    <itunes:duration>31:11</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode096.png"/>
+  </item>
+  <item>
+    <title>ep.95 Front-End Tooling 実践！最新のツールチェインで長大なビルド時間の改善に挑む</title>
+    <link>https://uit-inside.linecorp.com/episode/95</link>
+    <pubDate>Fri, 20 Aug 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @spring_raining に、 LINE公式アカウントの管理画面開発で行っている webpack のチューニングについて話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/95</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-095.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.95 Front-End Tooling 実践！最新のツールチェインで長大なビルド時間の改善に挑む</itunes:subtitle>
+    <itunes:duration>22:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode095.png"/>
+  </item>
+  <item>
+    <title>ep.94『もうアップデートをサボらない！On-premise Renovate 構築のススメ』</title>
+    <link>https://uit-inside.linecorp.com/episode/94</link>
+    <pubDate>Fri, 13 Aug 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @sunecosuri と @jacksmam0 に、オンプレミス環境で構築・運用している Self Hosted 版 Renovate について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/94</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-renovate.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),hiroike(jacksmam0),sunecosuri(sunecosuri)</itunes:author>
+    <itunes:subtitle>ep.94『もうアップデートをサボらない！On-premise Renovate 構築のススメ』</itunes:subtitle>
+    <itunes:duration>28:46</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode094.png"/>
+  </item>
+  <item>
+    <title>ep.93『開発者目線のFront-end Toolingを考える - UIT Meetup vol. 13 After show』</title>
+    <link>https://uit-inside.linecorp.com/episode/93</link>
+    <pubDate>Fri, 30 Jul 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@springraining、@miyoshi、@pittankopta、@about_hiroppy の 4 人で UIT Meetup vol. 13 『知っておきたいFront-end Toolingの今』を振り返りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/93</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-093.mp3" type="audio/mp3"/>
+    <itunes:author>Miyoshi Kosuke(miyoshi),spring-raining(spring_raining),Pittan(Pittan),hiroppy(hiroppy)</itunes:author>
+    <itunes:subtitle>ep.93『開発者目線のFront-end Toolingを考える - UIT Meetup vol. 13 After show』</itunes:subtitle>
+    <itunes:duration>51:54</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode093.png"/>
+  </item>
+  <item>
+    <title>ep.92 『UX同好会 - プロダクト横断で取り組む草の根活動』</title>
+    <link>https://uit-inside.linecorp.com/episode/92</link>
+    <pubDate>Fri, 16 Jul 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@leonardoengr が、有志による UX 同好会の活動について @springraining と @naoto.ikuno に聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/92</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-092.mp3" type="audio/mp3"/>
+    <itunes:author>折原 レオナルド賢(Leonardo-mbc),spring-raining(spring_raining),Ikuno Naoto(naoto.ikuno)</itunes:author>
+    <itunes:subtitle>ep.92 『UX同好会 - プロダクト横断で取り組む草の根活動』</itunes:subtitle>
+    <itunes:duration>31:39</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode092.png"/>
+  </item>
+  <item>
+    <title>ep.91 『今さら聞けないモブプログラミングのはじめかた・続けかた』</title>
+    <link>https://uit-inside.linecorp.com/episode/91</link>
+    <pubDate>Fri, 09 Jul 2021 06:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @aloerina_ に、 LINE NEWS でのモブプログラミングの取り組みについて話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/91</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-91.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d), Tomoaki Otsuki(aloerina_)</itunes:author>
+    <itunes:subtitle>ep.91 『今さら聞けないモブプログラミングのはじめかた・続けかた』</itunes:subtitle>
+    <itunes:duration>35:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode091.png"/>
+  </item>
+  <item>
+    <title>ep.90 『23 秒のビルド時間が 23 ms に！？LINEバイトにおける snowpack 導入記』</title>
+    <link>https://uit-inside.linecorp.com/episode/90</link>
+    <pubDate>Fri, 02 Jul 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @kazushikonosu に、LINE バイトに snowpack を導入した経緯と効果について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/90</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-snowpack.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),kazushikonosu(kazushikonosu)</itunes:author>
+    <itunes:subtitle>ep.90 『23 秒のビルド時間が 23 ms に！？LINEバイトにおける snowpack 導入記』</itunes:subtitle>
+    <itunes:duration>19:35</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode090.png"/>
+  </item>
+  <item>
+    <title>ep.89 『React 18 Alpha の新機能と私たちに試されるパラダイムシフト』</title>
+    <link>https://uit-inside.linecorp.com/episode/89</link>
+    <pubDate>Fri, 18 Jun 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;先日公開された React 18 の新機能や変更点について、@springraining が @uhyo に聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/89</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-089.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_)</itunes:author>
+    <itunes:subtitle>ep.89 『React 18 Alpha の新機能と私たちに試されるパラダイムシフト』</itunes:subtitle>
+    <itunes:duration>39:54</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode089.png"/>
+  </item>
+  <item>
+    <title>ep.88 『PWA Night Conference 2021 直前記念！ 開発以外で評価するPWA』</title>
+    <link>https://uit-inside.linecorp.com/episode/88</link>
+    <pubDate>Fri, 11 Jun 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;2021/06/26 の PWA Night Conference 登壇を記念して、同じく PWANight Conference の登壇者であり、 html5j など Web 標準が作り出す未来を負い続けたコミュニティを牽引してきたテックフィード白石さんとのコラボ回！&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/88</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-088.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),shumpei(shumpei)</itunes:author>
+    <itunes:subtitle>ep.88 『PWA Night Conference 2021 直前記念！ 開発以外で評価するPWA』</itunes:subtitle>
+    <itunes:duration>56:36</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode088.png"/>
+  </item>
+  <item>
+    <title>ep.87 『LINE の Vue 3 利用状況 〜 Vue.js スポンサリング開始記念トーク』</title>
+    <link>https://uit-inside.linecorp.com/episode/87</link>
+    <pubDate>Fri, 04 Jun 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raning が @potato4d @changhee.kim に、 LINE での Vue 3 利用状況について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/87</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-87.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),kim.changhee(kim-changhee)</itunes:author>
+    <itunes:subtitle>ep.87 『LINE の Vue 3 利用状況 〜 Vue.js スポンサリング開始記念トーク』</itunes:subtitle>
+    <itunes:duration>29:40</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode087.png"/>
+  </item>
+  <item>
+    <title>ep.86 Chrome extension - そしてサーバーサイドエンジニアの Web フロントエンド活用術</title>
+    <link>https://uit-inside.linecorp.com/episode/86</link>
+    <pubDate>Fri, 21 May 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining がLINEのサーバーサイドエンジニアである @dayflower と @kazuki-ma に、サーバーサイドエンジニアがフロントエンドを開発することやChrome extensionの活用例について聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/86</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-086.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),dayflower(dayflower),kazuki-ma(kazuki-ma)</itunes:author>
+    <itunes:subtitle>ep.86 Chrome extension - そしてサーバーサイドエンジニアの Web フロントエンド活用術</itunes:subtitle>
+    <itunes:duration>35:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode086.png"/>
+  </item>
+  <item>
+    <title>ep.85 『新たな開発者のために - 技術リニューアルを目指したLINEスケジュール開発の舞台裏』</title>
+    <link>https://uit-inside.linecorp.com/episode/85</link>
+    <pubDate>Fri, 14 May 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @ikuno.naoto @g4rds @akinori.inoue に、LINEスケジュールのリニューアルの舞台裏について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/85</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-085.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Akinori Inoue(akinori.inoue),Yuki Sensui(g4rds),Ikuno Naoto(naoto.ikuno)</itunes:author>
+    <itunes:subtitle>ep.85 『新たな開発者のために - 技術リニューアルを目指したLINEスケジュール開発の舞台裏』</itunes:subtitle>
+    <itunes:duration>34:6</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode085.png"/>
+  </item>
+  <item>
+    <title>ep.84 『Web Components 最前線！Lit 2 で広がる新たな可能性』</title>
+    <link>https://uit-inside.linecorp.com/episode/84</link>
+    <pubDate>Fri, 23 Apr 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@AlanGDavalo と @T28_Tatsuya の二人で、今週公開されたばかりの Lit 2 について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/84</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-084.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),T28_tatsuya(T28_tatsuya)</itunes:author>
+    <itunes:subtitle>ep.84 『Web Components 最前線！Lit 2 で広がる新たな可能性』</itunes:subtitle>
+    <itunes:duration>27:41</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode084.png"/>
+  </item>
+  <item>
+    <title>ep.83 『LINE が husky にスポンサリングする理由』</title>
+    <link>https://uit-inside.linecorp.com/episode/83</link>
+    <pubDate>Fri, 16 Apr 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @pittanko_pta と @tatsuya.yamamoto に、 LINE として husky をスポンサリングするようになった経緯や、他のツールと比較しての husky の立ち位置、これからの UIT での活用方法について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/83</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-083.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),T28_tatsuya(T28_tatsuya)</itunes:author>
+    <itunes:subtitle>ep.83 『LINE が husky にスポンサリングする理由』</itunes:subtitle>
+    <itunes:duration>19:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode083.png"/>
+  </item>
+  <item>
+    <title>ep.82 Vue 3のためのTSXという新しい選択肢</title>
+    <link>https://uit-inside.linecorp.com/episode/82</link>
+    <pubDate>Fri, 09 Apr 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;新規プロジェクトでVue 3とTSXを導入した感想について、@spring_raining が @changhee.kim と @daisuke.yamamoto に聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/82</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-082.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),kim.changhee(kim-changhee),daisuke.yamamoto(daisuke.yamamoto)</itunes:author>
+    <itunes:subtitle>ep.82 Vue 3のためのTSXという新しい選択肢</itunes:subtitle>
+    <itunes:duration>29:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode082.png"/>
+  </item>
+  <item>
+    <title>ep.81 『UIT meetup vol.12 リニューアル戦略発表会』 After show</title>
+    <link>https://uit-inside.linecorp.com/episode/81</link>
+    <pubDate>Fri, 02 Apr 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;ゲストにサイボウズ株式会社より @pirosikick、株式会社カカクコムより @osunu を招待し、イベント運営の @potato4d、社内登壇者の @naoto.ikuno を含めた 4 人で、 UIT meetup vol.12 のアフタートークの延長戦を行いました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/81</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-ep81.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Ikuno Naoto(naoto.ikuno),pirosikick(pirosikick),osunu(osunu)</itunes:author>
+    <itunes:subtitle>ep.81 『UIT meetup vol.12 リニューアル戦略発表会』 After show</itunes:subtitle>
+    <itunes:duration>53:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode081.png"/>
+  </item>
+  <item>
+    <title>ep.80 これからSvelte はこうなるぞ！（Svelte 会第2回） </title>
+    <link>https://uit-inside.linecorp.com/episode/80</link>
+    <pubDate>Fri, 19 Mar 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;※ 厳正なる審査の結果、Svelteの日本語表記は『スベルト』になりました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/80</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-080.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Miyoshi Kosuke(miyoshi),tomoam(tomoam)</itunes:author>
+    <itunes:subtitle>ep.80 これからSvelte はこうなるぞ！（Svelte 会第2回） </itunes:subtitle>
+    <itunes:duration>23:20</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode080.png"/>
+  </item>
+  <item>
+    <title>ep.79 「フォントのなかの人」と見る Web フォントの未来</title>
+    <link>https://uit-inside.linecorp.com/episode/79</link>
+    <pubDate>Fri, 05 Mar 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_rainingが、フォントワークス株式会社の@terkelにフォントメーカーのWebに対する取り組みや日本語Webフォントの未来について聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/79</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-079.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Takeru Suzuki(terkel)</itunes:author>
+    <itunes:subtitle>ep.79 「フォントのなかの人」と見る Web フォントの未来</itunes:subtitle>
+    <itunes:duration>42:57</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode079.png"/>
+  </item>
+  <item>
+    <title>ep.78 『賛成・反対それとも中立！？あなたはどっち派？TypeScriptを積極的に採用していくために必要なこと』</title>
+    <link>https://uit-inside.linecorp.com/episode/78</link>
+    <pubDate>Fri, 26 Feb 2021 08:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;ep.77 の延長戦として、@potato4d が、 @hyenashoyokyo と @pittanko_pta に、 TypeScript を推進していくための考え方について話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/78</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-078%20-%202021%3A02%3A26%2012.06.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),shoyo.kyo(hyena_shoyo_kyo)</itunes:author>
+    <itunes:subtitle>ep.78 『賛成・反対それとも中立！？あなたはどっち派？TypeScriptを積極的に採用していくために必要なこと』</itunes:subtitle>
+    <itunes:duration>49:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode078.png"/>
+  </item>
+  <item>
+    <title>ep.77 TypeScriptマイグレーション進捗報告！LINE ポイントクラブがかけたリソースと回収状況</title>
+    <link>https://uit-inside.linecorp.com/episode/77</link>
+    <pubDate>Fri, 19 Feb 2021 08:55:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が、 @hyenashoyokyo と @pittanko_pta に、 2020年7月に行ったTypeScriptへのマイグレーションのその後とコスト感について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/77</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-077.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),shoyo.kyo(hyena_shoyo_kyo)</itunes:author>
+    <itunes:subtitle>ep.77 TypeScriptマイグレーション進捗報告！LINE ポイントクラブがかけたリソースと回収状況</itunes:subtitle>
+    <itunes:duration>39:27</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode077.png"/>
+  </item>
+  <item>
+    <title>ep.76 React Server Componentsはサーバーサイドの新たなゲームチェンジャー？</title>
+    <link>https://uit-inside.linecorp.com/episode/76</link>
+    <pubDate>Fri, 12 Feb 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_rainingが、@G4RDSに期待のReact Server ComponentsについてやReact公式が開発中のreact-fetchについて聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/76</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-076.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.76 React Server Componentsはサーバーサイドの新たなゲームチェンジャー？</itunes:subtitle>
+    <itunes:duration>29:51</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode076.png"/>
+  </item>
+  <item>
+    <title>ep.75 OSSライブラリ開発者に聞く個人開発の楽しさと苦しみ</title>
+    <link>https://uit-inside.linecorp.com/episode/75</link>
+    <pubDate>Fri, 05 Feb 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@springrainingが@hanak1aと@uhyo_に、今開発しているフロントエンドのためのOSSライブラリや、個人開発をし続ける理由について聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/75</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-075.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_),Hanakla(Hanakla)</itunes:author>
+    <itunes:subtitle>ep.75 OSSライブラリ開発者に聞く個人開発の楽しさと苦しみ</itunes:subtitle>
+    <itunes:duration>57:23</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode075.png"/>
+  </item>
+  <item>
+    <title>ep.74 LINE の開発者の推し技術に変化が！？ UIT Front-End Tooling Survey 2020</title>
+    <link>https://uit-inside.linecorp.com/episode/74</link>
+    <pubDate>Fri, 29 Jan 2021 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@okazou 主導で開催された UIT Front-End Tooling Survey について、 @potato4d, @akinori,inoue, @jaycompsci を交えた 4 人で語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/74</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-074.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Okazaki Akihiro(okazou),Akinori Inoue(akinori.inoue),jaycompsci(jaycompsci)</itunes:author>
+    <itunes:subtitle>ep.74 LINE の開発者の推し技術に変化が！？ UIT Front-End Tooling Survey 2020</itunes:subtitle>
+    <itunes:duration>59:53</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode074.png"/>
+  </item>
+  <item>
+    <title>ep.73 『UIT meetup vol.11フロントエンド紅白LT合戦』 After show</title>
+    <link>https://uit-inside.linecorp.com/episode/73</link>
+    <pubDate>Fri, 22 Jan 2021 08:55:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@vivil が UIT meetup vol.11 の出演者とともに、ミートアップを振り返りつつ語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/73</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode073.mp3" type="audio/mp3"/>
+    <itunes:author>Jun Hyunje(hyunje-jun),spring-raining(spring_raining),uhyo(uhyo_),Hanakla(Hanakla),takanoripe(takanoripe),vivil(vivil),isoken26(isoken26)</itunes:author>
+    <itunes:subtitle>ep.73 『UIT meetup vol.11フロントエンド紅白LT合戦』 After show</itunes:subtitle>
+    <itunes:duration>64:50</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode073.png"/>
+  </item>
+  <item>
+    <title>ep.72 『期待のフレームワーク Svelte を一年以上使ってみて』</title>
+    <link>https://uit-inside.linecorp.com/episode/72</link>
+    <pubDate>Fri, 25 Dec 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;注目が集まるフレームワーク『Svelte』を v2 から利用しており、 v3 も長らく利用しているという @miyoshi に、概要と所感を共有してもらいました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/72</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-072.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Miyoshi Kosuke(miyoshi)</itunes:author>
+    <itunes:subtitle>ep.72 『期待のフレームワーク Svelte を一年以上使ってみて』</itunes:subtitle>
+    <itunes:duration>28:51</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode072.png"/>
+  </item>
+  <item>
+    <title>ep.71『ドキュメント作成の決定版！nuxt/contentとコントリビューション』</title>
+    <link>https://uit-inside.linecorp.com/episode/71</link>
+    <pubDate>Fri, 11 Dec 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d と @IkutaNozomu が、 nuxt/content を利用した社内ドキュメントの作成について話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/71</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode071.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
+    <itunes:subtitle>ep.71『ドキュメント作成の決定版！nuxt/contentとコントリビューション』</itunes:subtitle>
+    <itunes:duration>26:12</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode071.png"/>
+  </item>
+  <item>
+    <title>ep.70 おすすめセッション一挙紹介！ LINE DEV DAY Speaker recommends</title>
+    <link>https://uit-inside.linecorp.com/episode/70</link>
+    <pubDate>Fri, 04 Dec 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE DEVELOPER DAY 2020 に登壇した @spring_raining、@takuya.okamoto、@masanos、@inaoki.misatoが、それぞれのセッション内容やおすすめのセッションについて話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/70</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-070.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),inaoki misato(inaoki misato),masanos(masanos),takuya.okamoto(takuya-okamoto)</itunes:author>
+    <itunes:subtitle>ep.70 おすすめセッション一挙紹介！ LINE DEV DAY Speaker recommends</itunes:subtitle>
+    <itunes:duration>35:9</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode070.png"/>
+  </item>
+  <item>
+    <title>ep.69 deisui × UIT 特別企画『どうしてアクセシビリティ？』After Talk</title>
+    <link>https://uit-inside.linecorp.com/episode/69</link>
+    <pubDate>Fri, 27 Nov 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE DEVELOPER DAY 2020 のゲスト @masuP9 @otiext をお呼びして、イベント内で行われたパネルディスカッション『どうしてアクティビティ？』のアフタートークを行いました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/69</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-069.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),masuP9(masuP9),otiext(otiext),Azusa Tomita(a_t)</itunes:author>
+    <itunes:subtitle>ep.69 deisui × UIT 特別企画『どうしてアクセシビリティ？』After Talk</itunes:subtitle>
+    <itunes:duration>44:3</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode069.png"/>
+  </item>
+  <item>
+    <title>ep.68 Web Standard な Modular CSS - 現場で使ってみてわかる Shadow DOM の嬉しさ</title>
+    <link>https://uit-inside.linecorp.com/episode/68</link>
+    <pubDate>Fri, 20 Nov 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@AlanGDavalos が Web Platform Study Group Organizer の @takanoripe, LINE 証券フロントエンドエンジニアの @uhyo_ と共に、 Shadow DOM について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/68</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-068.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),uhyo(uhyo_),takanoripe(takanoripe)</itunes:author>
+    <itunes:subtitle>ep.68 Web Standard な Modular CSS - 現場で使ってみてわかる Shadow DOM の嬉しさ</itunes:subtitle>
+    <itunes:duration>45:10</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode068.png"/>
+  </item>
+  <item>
+    <title>ep.67 新規開発から DX 改善まで！画面越しでも活躍するリモート時代の新卒座談会</title>
+    <link>https://uit-inside.linecorp.com/episode/67</link>
+    <pubDate>Fri, 13 Nov 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@G4RDS が、20新卒の @yuji.kurihara, @kengo.miyamae, @naoto.ikuno に、大学時代の活動内容、今携わっている業務、リモートワークやアプリケーション設計について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/67</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-067.mp3" type="audio/mp3"/>
+    <itunes:author>kengo.miyamae(kengo.miyamae),Yuki Sensui(g4rds),Kurihara Yuji(yuji.kurihara),Ikuno Naoto(naoto.ikuno)</itunes:author>
+    <itunes:subtitle>ep.67 新規開発から DX 改善まで！画面越しでも活躍するリモート時代の新卒座談会</itunes:subtitle>
+    <itunes:duration>60:3</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode067.png"/>
+  </item>
+  <item>
+    <title>ep.66 Next.js 10 を総おさらい！ Next.js Conf アフターレポート</title>
+    <link>https://uit-inside.linecorp.com/episode/66</link>
+    <pubDate>Fri, 30 Oct 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@springraining が @fsubal に、先日発表されたNext.js 10 の新機能である next/image, i18n routing や、Next.js Confで気になるセッションについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/66</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-066.mp3 " type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),f_subal(f_subal)</itunes:author>
+    <itunes:subtitle>ep.66 Next.js 10 を総おさらい！ Next.js Conf アフターレポート</itunes:subtitle>
+    <itunes:duration>34:1</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode066.png"/>
+  </item>
+  <item>
+    <title>ep.65 好きな技術では妥協しない！LINEのフロントエンドエンジニアの技術選定</title>
+    <link>https://uit-inside.linecorp.com/episode/65</link>
+    <pubDate>Fri, 23 Oct 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@g4rds が、 @daisuke.yamamoto と @uhyo_ に、Vue 3 や React / TypeScript の技術選定とその理由について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/65</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-065_public.mp3 " type="audio/mp3"/>
+    <itunes:author>uhyo(uhyo_),daisuke.yamamoto(daisuke.yamamoto),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.65 好きな技術では妥協しない！LINEのフロントエンドエンジニアの技術選定</itunes:subtitle>
+    <itunes:duration>42:50</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode065.png"/>
+  </item>
+  <item>
+    <title>ep.64 UIT新卒エンジニア座談会 リバイバル！</title>
+    <link>https://uit-inside.linecorp.com/episode/64</link>
+    <pubDate>Fri, 16 Oct 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@springraining が @akinori.inoue と @asakuradev と、新卒入社後1年半たった今について振り返りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/64</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-064.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Taiga Nishiyama(asakura_dev),Akinori Inoue(akinori.inoue)</itunes:author>
+    <itunes:subtitle>ep.64 UIT新卒エンジニア座談会 リバイバル！</itunes:subtitle>
+    <itunes:duration>35:40</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode064.png"/>
+  </item>
+  <item>
+    <title>ep.63 よりよい動画閲覧体験を求めて - LINE NEWS の夏インターン 2020</title>
+    <link>https://uit-inside.linecorp.com/episode/63</link>
+    <pubDate>Fri, 09 Oct 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が夏インターン生の @g4rds に、インターンで行った、 LINE NEWS VISION の動画プレイヤーの改善について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/63</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-063.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.63 よりよい動画閲覧体験を求めて - LINE NEWS の夏インターン 2020</itunes:subtitle>
+    <itunes:duration>42:34</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode063.png"/>
+  </item>
+  <item>
+    <title>ep.62 UIT Meetup『Vue 三昧』After show</title>
+    <link>https://uit-inside.linecorp.com/episode/62</link>
+    <pubDate>Fri, 02 Oct 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @kazupon と@NozomuIkuta に、UIT Meetup vol.10 「Vue 三昧」での内容やこれまでのVue.jsについて振り返りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/62</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-062.mp3" type="audio/mp3"/>
+    <itunes:author>kazuya kawaguchi(kazupon),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
+    <itunes:subtitle>ep.62 UIT Meetup『Vue 三昧』After show</itunes:subtitle>
+    <itunes:duration>60:4</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode062.png"/>
+  </item>
+  <item>
+    <title>ep.61 地味だけど見逃せない！社内パッケージのバージョン管理と CHANGELOG ってどうしてる？</title>
+    <link>https://uit-inside.linecorp.com/episode/61</link>
+    <pubDate>Fri, 25 Sep 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d と @spring_raining が、OSS や内製ライブラリのバージョン管理と CHANGELOG などについて話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/61</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-061.mp3  " type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.61 地味だけど見逃せない！社内パッケージのバージョン管理と CHANGELOG ってどうしてる？</itunes:subtitle>
+    <itunes:duration>22:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode061.png"/>
+  </item>
+  <item>
+    <title>ep.60 UIリニューアルは技術的負債改善のチャンス！LINE LIVEのリニューアルの裏話</title>
+    <link>https://uit-inside.linecorp.com/episode/60</link>
+    <pubDate>Fri, 04 Sep 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @AlanGDavalos と @nhayashida に、 LINE LIVE のリニューアルについて話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/60</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-060.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Davalos Alan(AlanGDavalos),nhayashida(nhayashida)</itunes:author>
+    <itunes:subtitle>ep.60 UIリニューアルは技術的負債改善のチャンス！LINE LIVEのリニューアルの裏話</itunes:subtitle>
+    <itunes:duration>35:14</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode060.png"/>
+  </item>
+  <item>
+    <title>ep.59 Twitter で再生できる音声プレイヤーの作り方</title>
+    <link>https://uit-inside.linecorp.com/episode/59</link>
+    <pubDate>Fri, 28 Aug 2020 08:55:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が UIT INSIDE の Twitter 埋め込みプレイヤー対応について、 @kengo-miyamae に話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/59</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-059.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),kengo.miyamae(kengo.miyamae)</itunes:author>
+    <itunes:subtitle>ep.59 Twitter で再生できる音声プレイヤーの作り方</itunes:subtitle>
+    <itunes:duration>11:50</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode059.png"/>
+  </item>
+  <item>
+    <title>ep.58 デザインとフロントエンドの関係を Tailwind CSS から考えよう</title>
+    <link>https://uit-inside.linecorp.com/episode/58</link>
+    <pubDate>Fri, 21 Aug 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-raining が @f_subal @potato4d に Tailwind CSS やフロントエンドにおける CSS 設計について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/58</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-058.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),f_subal(f_subal)</itunes:author>
+    <itunes:subtitle>ep.58 デザインとフロントエンドの関係を Tailwind CSS から考えよう</itunes:subtitle>
+    <itunes:duration>46:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode058.png"/>
+  </item>
+  <item>
+    <title>ep.57 Vue 3 Study 『よりよい Directive を求めて』</title>
+    <link>https://uit-inside.linecorp.com/episode/57</link>
+    <pubDate>Fri, 14 Aug 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @inaoki.misato に Vue 3 で変わる Directive のアップデート内容について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/57</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-057.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),inaoki misato(inaoki misato)</itunes:author>
+    <itunes:subtitle>ep.57 Vue 3 Study 『よりよい Directive を求めて』</itunes:subtitle>
+    <itunes:duration>20:44</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode057.png"/>
+  </item>
+  <item>
+    <title>ep.56 期待の Vue 3 を先取り！？Vue 3 Official Docs 輪読会について話を聞いてみた</title>
+    <link>https://uit-inside.linecorp.com/episode/56</link>
+    <pubDate>Fri, 07 Aug 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @andoshin11 に、有志で開催している beta 版の Vue 3 公式ドキュメントの輪読会について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/56</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-056.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),andoshin11(andoshin11)</itunes:author>
+    <itunes:subtitle>ep.56 期待の Vue 3 を先取り！？Vue 3 Official Docs 輪読会について話を聞いてみた</itunes:subtitle>
+    <itunes:duration>31:50</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode056.png"/>
+  </item>
+  <item>
+    <title>ep.55 TypeScriptへのマイグレーション対応開始！LINEポイントクラブのリファクタについて聞いてみた。</title>
+    <link>https://uit-inside.linecorp.com/episode/55</link>
+    <pubDate>Fri, 31 Jul 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が、 @hyenashoyokyo と @pittanko_pta に、TypeScriptへのマイグレーションを開始した、LINEポイントクラブのリファクタについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/55</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-055.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),shoyo.kyo(hyena_shoyo_kyo)</itunes:author>
+    <itunes:subtitle>ep.55 TypeScriptへのマイグレーション対応開始！LINEポイントクラブのリファクタについて聞いてみた。</itunes:subtitle>
+    <itunes:duration>44:45</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode055.png"/>
+  </item>
+  <item>
+    <title>ep.54 UIT Playbook - これが私たちのコーディングスタイル</title>
+    <link>https://uit-inside.linecorp.com/episode/54</link>
+    <pubDate>Fri, 17 Jul 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@springraining が @potato4d @jaycompsci @T28tatsuyaに、現在 UIT で策定中のコーディングスタイルについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/54</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-054.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),T28_tatsuya(T28_tatsuya),jaycompsci(jaycompsci)</itunes:author>
+    <itunes:subtitle>ep.54 UIT Playbook - これが私たちのコーディングスタイル</itunes:subtitle>
+    <itunes:duration>34:11</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode054.png"/>
+  </item>
+  <item>
+    <title>ep.53 Vue 3 Study 『Vue.js にもやってくる Fragment』</title>
+    <link>https://uit-inside.linecorp.com/episode/53</link>
+    <pubDate>Fri, 10 Jul 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @potato4d に、 Vue 3 の Fragment について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/53</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-053.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.53 Vue 3 Study 『Vue.js にもやってくる Fragment』</itunes:subtitle>
+    <itunes:duration>15:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode053.png"/>
+  </item>
+  <item>
+    <title>ep.52 UIT meetup 『The new normal for frontend』After show</title>
+    <link>https://uit-inside.linecorp.com/episode/52</link>
+    <pubDate>Fri, 03 Jul 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@leonardo_engr が @mirka と Kim Changhee に UIT meetup vol.9 「The new normal for frontend」の内容を振り返りつつ、詳しく話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/52</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-052.mp3" type="audio/mp3"/>
+    <itunes:author>折原 レオナルド賢(Leonardo-mbc),kim.changhee(kim-changhee),Lena Morita(mirka)</itunes:author>
+    <itunes:subtitle>ep.52 UIT meetup 『The new normal for frontend』After show</itunes:subtitle>
+    <itunes:duration>40:46</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode052.png"/>
+  </item>
+  <item>
+    <title>ep.51 Vue 3 Study『Teleport でキレイに解消するモーダルの z-index 問題』</title>
+    <link>https://uit-inside.linecorp.com/episode/51</link>
+    <pubDate>Fri, 26 Jun 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @potato4d に Vue 3 で追加される Teleport (Portal) について話を聴きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/51</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-051.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.51 Vue 3 Study『Teleport でキレイに解消するモーダルの z-index 問題』</itunes:subtitle>
+    <itunes:duration>25:33</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode051.png"/>
+  </item>
+  <item>
+    <title>ep.50 AngularJSからVue.js - 大型リニューアルの学び</title>
+    <link>https://uit-inside.linecorp.com/episode/50</link>
+    <pubDate>Fri, 19 Jun 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;ゲスト紹介&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/50</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-050.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining),kimulaco(kimulaco)</itunes:author>
+    <itunes:subtitle>ep.50 AngularJSからVue.js - 大型リニューアルの学び</itunes:subtitle>
+    <itunes:duration>33:0</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode050.png"/>
+  </item>
+  <item>
+    <title>ep.49 ReThink state managements - Recoil から見える未来</title>
+    <link>https://uit-inside.linecorp.com/episode/49</link>
+    <pubDate>Fri, 12 Jun 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;ゲスト紹介&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/49</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-049.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_),Hanakla(Hanakla)</itunes:author>
+    <itunes:subtitle>ep.49 ReThink state managements - Recoil から見える未来</itunes:subtitle>
+    <itunes:duration>43:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode049.png"/>
+  </item>
+  <item>
+    <title>ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』</title>
+    <link>https://uit-inside.linecorp.com/episode/48</link>
+    <pubDate>Fri, 05 Jun 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;Asteroidについて&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/48</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-048.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』</itunes:subtitle>
+    <itunes:duration>37:46</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode048.png"/>
+  </item>
+  <item>
+    <title>ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW</title>
+    <link>https://uit-inside.linecorp.com/episode/47</link>
+    <pubDate>Fri, 29 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @inoutch に、 Rust でゲームフレームワークの開発を始めた話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/47</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-047.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Akinori Inoue(akinori.inoue)</itunes:author>
+    <itunes:subtitle>ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
+    <itunes:duration>22:21</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode047.png"/>
+  </item>
+  <item>
+    <title>ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW</title>
+    <link>https://uit-inside.linecorp.com/episode/46</link>
+    <pubDate>Thu, 28 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.4。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/46</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-046.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan)</itunes:author>
+    <itunes:subtitle>ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
+    <itunes:duration>19:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode046.png"/>
+  </item>
+  <item>
+    <title>ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW</title>
+    <link>https://uit-inside.linecorp.com/episode/45</link>
+    <pubDate>Wed, 27 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.3。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/45</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-045.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),折原 レオナルド賢(Leonardo-mbc),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
+    <itunes:duration>18:0</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode045.png"/>
+  </item>
+  <item>
+    <title>ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW</title>
+    <link>https://uit-inside.linecorp.com/episode/44</link>
+    <pubDate>Tue, 26 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.2。@spring_raining  が miyoshi が開発した SVG ベースの日本地図マッピングライブラリ開発について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/44</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-044.mp3" type="audio/mp3"/>
+    <itunes:author>Miyoshi Kosuke(miyoshi),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
+    <itunes:duration>21:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode044.png"/>
+  </item>
+  <item>
+    <title>ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW</title>
+    <link>https://uit-inside.linecorp.com/episode/43</link>
+    <pubDate>Mon, 25 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.1。初回は @potato4d と @spring_raining が、 @xingoxu の GW 企画「Flutter でのカレンダーアプリ作成」について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/43</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-043.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),xingoxu(xingoxu)</itunes:author>
+    <itunes:subtitle>ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
+    <itunes:duration>21:37</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode043.png"/>
+  </item>
+  <item>
+    <title>ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ</title>
+    <link>https://uit-inside.linecorp.com/episode/42</link>
+    <pubDate>Fri, 15 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d と @spring_raining が、 @NozomuIkuta に普段のインプット・アウトプットの方法について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/42</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-042.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
+    <itunes:subtitle>ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ</itunes:subtitle>
+    <itunes:duration>23:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode042.png"/>
+  </item>
+  <item>
+    <title>ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ</title>
+    <link>https://uit-inside.linecorp.com/episode/41</link>
+    <pubDate>Fri, 01 May 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining と @harumitsu.fujii が、ビジュアルレグレッションテストを導入した時の話や困りごと、今後のE2Eテストへの期待について話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/41</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-041.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Fujii Harumitsu(harumitsu-fujii)</itunes:author>
+    <itunes:subtitle>ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ</itunes:subtitle>
+    <itunes:duration>34:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode041.png"/>
+  </item>
+  <item>
+    <title>ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション</title>
+    <link>https://uit-inside.linecorp.com/episode/40</link>
+    <pubDate>Fri, 24 Apr 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d と @spring_raining の二人で、 Lottie について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/40</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-040.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション</itunes:subtitle>
+    <itunes:duration>21:59</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode040.png"/>
+  </item>
+  <item>
+    <title>ep.39 Vue 3 Study 『Render function で React の世界を覗いてみる』</title>
+    <link>https://uit-inside.linecorp.com/episode/39</link>
+    <pubDate>Fri, 17 Apr 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining と @potato4d が、 Vue 3 の render function についてのアップデート、TypeScript と TSX、Babelに依存しない Vue.js 開発について語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/39</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-039%20.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.39 Vue 3 Study 『Render function で React の世界を覗いてみる』</itunes:subtitle>
+    <itunes:duration>24:13</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode039.png"/>
+  </item>
+  <item>
+    <title>ep.38 Chromeでも廃止？サードパーティクッキーのない世界</title>
+    <link>https://uit-inside.linecorp.com/episode/38</link>
+    <pubDate>Fri, 10 Apr 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @kawasako3 に、ITP の最新状況、Chrome でのサードパーティ Cookie の廃止、広告のこれからについて聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/38</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-038.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Kawasaki Kohei(kawasako3)</itunes:author>
+    <itunes:subtitle>ep.38 Chromeでも廃止？サードパーティクッキーのない世界</itunes:subtitle>
+    <itunes:duration>30:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode038.png"/>
+  </item>
+  <item>
+    <title>ep.37 「コントリビュートして学ぶ Prettier のしくみ」</title>
+    <link>https://uit-inside.linecorp.com/episode/37</link>
+    <pubDate>Fri, 03 Apr 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @cola119 と @__sosukesuzuki に Prettier への貢献や、最近気になる OSS について話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/37</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-037.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),__sosukesuzuki(__sosukesuzuki),cola119(cola119)</itunes:author>
+    <itunes:subtitle>ep.37 「コントリビュートして学ぶ Prettier のしくみ」</itunes:subtitle>
+    <itunes:duration>26:25</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode037.png"/>
+  </item>
+  <item>
+    <title>ep.36 Vue 3 Study 「何が変わる？ Composition API」</title>
+    <link>https://uit-inside.linecorp.com/episode/36</link>
+    <pubDate>Thu, 26 Mar 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @rChaser53 とともに、 Vue 3  Composition API の概要、実際にコードを書いて触ってみた所感、使うべきか？ などをテーマに話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/36</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-036.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),rChaser53(rChaser53)</itunes:author>
+    <itunes:subtitle>ep.36 Vue 3 Study 「何が変わる？ Composition API」</itunes:subtitle>
+    <itunes:duration>33:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode036.png"/>
+  </item>
+  <item>
+    <title>ep.35 UIT 自由研究 居残り編 - Live2Dを使ってCSSとSVGの限界を試してみた話</title>
+    <link>https://uit-inside.linecorp.com/episode/35</link>
+    <pubDate>Thu, 12 Mar 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が Live2D をモデルを CSS で再現してみた実験結果について、 @potato4d が色々と聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/35</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-035.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.35 UIT 自由研究 居残り編 - Live2Dを使ってCSSとSVGの限界を試してみた話</itunes:subtitle>
+    <itunes:duration>28:17</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode035.png"/>
+  </item>
+  <item>
+    <title>ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」</title>
+    <link>https://uit-inside.linecorp.com/episode/34</link>
+    <pubDate>Fri, 21 Feb 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @nozomuikuta, @potato4d と共に、 Vue 3 の named export 事情、Tree Shaking の仕組み、Podcastでの抜き打ちバンドルアナライズ結果などについて話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/34</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-034-02.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
+    <itunes:subtitle>ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」</itunes:subtitle>
+    <itunes:duration>24:31</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode034.png"/>
+  </item>
+  <item>
+    <title>ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり</title>
+    <link>https://uit-inside.linecorp.com/episode/33</link>
+    <pubDate>Fri, 14 Feb 2020 03:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が極北の TypeScripter @uhyo_ に、 LINE 証券における TypeScript の実践状況について聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/33</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-033.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),uhyo(uhyo_)</itunes:author>
+    <itunes:subtitle>ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり</itunes:subtitle>
+    <itunes:duration>35:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode033.png"/>
+  </item>
+  <item>
+    <title>ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」</title>
+    <link>https://uit-inside.linecorp.com/episode/32</link>
+    <pubDate>Fri, 07 Feb 2020 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining と @NozomuIkuta が、来る Vue 3.0 に向けて、RFC の内容を全て読み込んでみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/32</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-032.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
+    <itunes:subtitle>ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」</itunes:subtitle>
+    <itunes:duration>37:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode032.png"/>
+  </item>
+  <item>
+    <title>ep.31 「UIT 年末年始の自由研究報告回」</title>
+    <link>https://uit-inside.linecorp.com/episode/31</link>
+    <pubDate>Mon, 20 Jan 2020 08:45:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d と @spring_raining が年末に年末年始の自由研究の宣言を、年明けに結果報告をしました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/31</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-031.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.31 「UIT 年末年始の自由研究報告回」</itunes:subtitle>
+    <itunes:duration>31:48</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode031.png"/>
+  </item>
+  <item>
+    <title>ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue</title>
+    <link>https://uit-inside.linecorp.com/episode/30</link>
+    <pubDate>Mon, 02 Dec 2019 09:15:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINE DEVELOPER DAY 2019 スピーカーである okazou に、@potato4d, @kotarok, @myakura の三人で登壇内容についての質問・座談会を実施しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/30</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-030.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Okazaki Akihiro(okazou),myakura(myakura),kotarok(kotarok)</itunes:author>
+    <itunes:subtitle>ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue</itunes:subtitle>
+    <itunes:duration>42:12</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode030.png"/>
+  </item>
+  </channel>
+</rss>
