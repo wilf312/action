@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "45: CTを使って脆弱なRSA鍵を調べる話と、夏と青春18きっぷの話",
+      "description": "<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>\n<p>雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。</p>\n<ul>\n <li>Finding shared RSA factors in the Certificate Transparency logs<br>\n<a href=\"https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf</a></li>\n <li>青春18きっぷ<br>\n<a href=\"https://railway.jr-central.co.jp/tickets/youth18-ticket/\" rel=\"noreferrer noopener\" target=\"_blank\">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>\n</ul>",
+      "link": "https://anchor.fm/hitokuchipki/episodes/45-CTRSA18-e1n5d7d",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d5b5bd11-eb99-4989-a486-10c8aa6f45d7"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Tue, 30 Aug 2022 13:36:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/56849069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-30%2F07d54d9b-a253-c0db-c902-dfaa8a5090d6.mp3",
+        "@length": 36815928,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>\n<p>雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。</p>\n<ul>\n <li>Finding shared RSA factors in the Certificate Transparency logs<br>\n<a href=\"https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf</a></li>\n <li>青春18きっぷ<br>\n<a href=\"https://railway.jr-central.co.jp/tickets/youth18-ticket/\" rel=\"noreferrer noopener\" target=\"_blank\">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:01:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 45,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "44: AppleがBIMIのサポートを始める話と、夏の活動限界、古墳の話など",
       "description": "IPhoneとMacOSのメールクライアントでBIMIのサポートが始まるようです。また実際BIMI対応するにあたってなかなか大変だったお話がJANOG49であったようでした！\r\n雑談では塩味の食べ物、バイク、夏の活動限界、歴史勉強したけど覚えてない、大阪の古墳群世界遺産になったけどそんな雰囲気全然ないなどの話をしました。\r\n\r\n• VMC Adoption is Growing with Apple Support | DigiCert : iPhones (iOS 16) (MacOS Ventura) This fall\r\n\t• https://www.digicert.com/blog/vmc-adoption-growing-with-apple-support\r\n• Email Client Market Share and Popularity – Litmus\r\n\t• https://www.litmus.com/email-client-market-share/\r\n• これから始めるBIMI ～メールにロゴを表示させるまでの長い道のり(継続中) 平野 善隆さん(株式会社クオリティア)\r\n\t• https://www.janog.gr.jp/meeting/janog49/wp-content/uploads/2021/12/bimi-pre_hirano_20220126.pdf",
       "link": "https://anchor.fm/hitokuchipki/episodes/44-AppleBIMI-e1mku0h",
