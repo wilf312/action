@@ -322,6 +322,42 @@ export const urlList: UrlListItem[] = [
     hash: "ドングリFM",
     url: "http://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss",
   },
+
+
+  {
+    name: "テストラジオ",
+    hash: "テストラジオ",
+    url: "https://testradio.fm/feed/podcast/",
+  },
+
+
+  {
+    name: "The Potluck",
+    hash: "ThePotluck",
+    url: "https://anchor.fm/s/bf3149c/podcast/rss",
+  },
+
+
+  {
+    name: "fukabori.fm",
+    hash: "fukabori",
+    url: "https://pitpa.jp/rss/fukabori",
+  },
+
+
+  {
+    name: "ごりゅごcast",
+    hash: "ごりゅごcast",
+    url: "https://anchor.fm/s/2e56f6c/podcast/rss",
+  },
+
+
+  {
+    name: "UIT INSIDE",
+    hash: "UIT_INSIDE",
+    url: "https://uit-inside.linecorp.com/feed.atom",
+  },
+
 ];
 
 /**
