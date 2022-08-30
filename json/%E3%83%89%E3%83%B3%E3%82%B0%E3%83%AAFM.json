@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=624271491",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=625319913",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Thu, 18 Aug 2022 02:07:33 +0000",
-  "lastBuildDate": "Thu, 18 Aug 2022 02:07:33 +0000",
+  "pubDate": "Mon, 29 Aug 2022 13:13:19 +0000",
+  "lastBuildDate": "Mon, 29 Aug 2022 13:13:19 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1333363396"
+      },
+      "title": "888 第2回プロ野球チップス開封",
+      "pubDate": "Tue, 30 Aug 2022 09:00:18 +0000",
+      "link": "https://soundcloud.com/dongurifm/888-2a",
+      "itunes:duration": "00:17:28",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "吉田、マーティン、プロ野球、日本ハムについて話しました。\n\n #dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "吉田、マーティン、プロ野球、日本ハムについて話しました。\n\n #dongurifm へのお便りはこ…",
+      "description": "吉田、マーティン、プロ野球、日本ハムについて話しました。\n\n #dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1333363396-dongurifm-888-2a.mp3",
+        "@length": 16768939,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000540166416-r18n7z-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/624271491"
-      },
-      "title": "388 丸亀製麺の130円「天丼用ご飯」がコスパ最強すぎてやばい",
-      "pubDate": "Wed, 22 May 2019 14:00:17 +0000",
-      "link": "https://soundcloud.com/dongurifm/388a",
-      "itunes:duration": "00:12:33",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "お便りに回答しました。\n\nトッピング・その他 | メニュー | 讃岐釜揚げうどん 丸亀製麺\nhttps://www.marugame-seimen.com/menu/topping/\n\n実際に食べてきました（写真）\nhttps://bit.ly/2HvPzRF\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "お便りに回答しました。\n\nトッピング・その他 | メニュー | 讃岐釜揚げうどん 丸亀製麺\nhtt…",
-      "description": "お便りに回答しました。\n\nトッピング・その他 | メニュー | 讃岐釜揚げうどん 丸亀製麺\nhttps://www.marugame-seimen.com/menu/topping/\n\n実際に食べてきました（写真）\nhttps://bit.ly/2HvPzRF\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/624271491-dongurifm-388a.mp3",
-        "@length": 12059793,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000539112123-wwpuuh-t3000x3000.jpg",
         "#text": null
       }
     }
