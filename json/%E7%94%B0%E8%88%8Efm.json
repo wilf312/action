@@ -1,0 +1,348 @@
+{
+  "atom:link": {
+    "@href": "https://komatatsu.github.io/inaka-fm/feed.xml",
+    "@rel": "self",
+    "@type": "application/rss+xml",
+    "#text": null
+  },
+  "link": "https://komatatsu.github.io/inaka-fm/",
+  "title": "田舎.fm",
+  "description": "田舎から配信してます",
+  "media:keywords": null,
+  "media:category": {
+    "@scheme": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "#text": "Technology"
+  },
+  "language": "ja",
+  "itunes:subtitle": "田舎から配信してます",
+  "itunes:author": "komatatsu",
+  "itunes:summary": "田舎から配信してます",
+  "itunes:keywords": null,
+  "itunes:owner": {
+    "itunes:name": "komatatsu",
+    "itunes:email": null
+  },
+  "itunes:image": {
+    "@href": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+    "#text": null
+  },
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:explicit": "no",
+  "item": [
+    {
+      "title": "13. Subroh Rosso",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/13",
+      "pubDate": "Mon, 16 Jul 2018 12:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>海</li>\n  <li>飛行機</li>\n  <li>島の生活事情</li>\n  <li>火山</li>\n  <li><a href=\"https://www.town.oshima.tokyo.jp/soshiki/kyouiku/bonodori.html\">盆踊り</a></li>\n  <li>人口減少</li>\n  <li><a href=\"http://caravanflake.com/\">ゲストハウス CARAVAN FLAKE</a></li>\n  <li><a href=\"http://www.izu-oshima.or.jp/\">伊豆大島観光協会</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/13"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/13.mp3",
+        "@length": 31258905,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "subroh_0508と伊豆大島のはなしをしました",
+      "itunes:duration": "44:48",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "12. Missing working hours",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/12",
+      "pubDate": "Mon, 25 Jun 2018 10:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>自己紹介</li>\n  <li><a href=\"https://note.mu/\">note</a></li>\n  <li><a href=\"https://www.e-n.shop/\">アイシングクッキー屋さん</a></li>\n  <li>田舎でこまったこと</li>\n  <li>松屋・サイゼ・鳥貴族</li>\n  <li>青森の技術コミュニティ</li>\n  <li>鳥取の技術コミュニティ</li>\n  <li>田舎と最新技術</li>\n  <li>リモートワークするうえで気をつけていること</li>\n  <li><a href=\"http://www.uniqlo.com/jp/store/feature/uq/stetecorelaco/men/\">ステテコ</a></li>\n  <li>リモートワークのデメリット</li>\n  <li>リモートワークをするひとが身につけておいた方が良いスキル </li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/12"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/12.mp3",
+        "@length": 36341789,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "fukuiretuと田舎での生活やリモートワークについてはなしました",
+      "itunes:duration": "46:52",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "11. Twitter is life",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/11",
+      "pubDate": "Sun, 17 Jun 2018 14:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>ぜんせ</li>\n  <li>おしごと</li>\n  <li><a href=\"https://paymo.life/\">ぺいも</a></li>\n  <li><a href=\"https://kyash.co/\">きゃっしゅ</a>とのすみわけ</li>\n  <li>なげせん</li>\n  <li><a href=\"https://www.wechat.com/ja/\">うぃちゃっとぺい</a></li>\n  <li><a href=\"https://www.pixiv.net/fanbox/creator/13627594\">ぴくしぶ ふぁんぼっくす</a></li>\n  <li>でじたるれもねーどすたんど</li>\n  <li><a href=\"https://www.youtube.com/channel/UCqN87Ye4TNLB04EFhxJ0L5w\">きりみんちゃんねる</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/11"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/11.mp3",
+        "@length": 31068636,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "きりみんちゃんと新しい世代の経済やデジタルレモネードスタンドについて話しました",
+      "itunes:duration": "34:44",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "10. The dots will somehow connect",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/10",
+      "pubDate": "Sun, 10 Jun 2018 21:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>おたよりコーナー</li>\n  <li>生誕の秘密</li>\n  <li>きりみんちゃん駆動開発</li>\n  <li><a href=\"http://www.live2d.com/ja/\">Live2D</a>を使う理由</li>\n  <li>継続していくためのコツ</li>\n  <li>モチベーション</li>\n</ul>\n\n<p>次回は 6/18(月) 配信予定、ゲストは引き続ききりみんちゃんです☆</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/10"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/10.mp3",
+        "@length": 28115559,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "きりみんちゃんときりみんちゃん生誕の秘密などについて話しました",
+      "itunes:duration": "31:40",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "9. Train commuting is dead",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/9",
+      "pubDate": "Sun, 03 Jun 2018 22:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"https://techbookfest.org/event/tbf04\">技術書典4</a></li>\n  <li>サークル宣伝</li>\n  <li><a href=\"https://corocn.booth.pm/items/830458\">Auth0 でつくる！認証付き SPA(booth)</a></li>\n  <li>田舎を選んだ理由</li>\n  <li>東京の魅力</li>\n  <li>勉強会は飲み会説</li>\n  <li><a href=\"https://www.youtube.com/channel/UCujNJ2A08gzoEcMHoi_Ul2g\">Shibuya.apk</a></li>\n  <li>僕たちが求めているもの</li>\n  <li>リモート飲み会</li>\n  <li><a href=\"https://atnd.org/events/97496\">リモート飲み会飲み会</a></li>\n</ul>\n\n<p>次回は 6/11(月) 配信予定、ゲストはあの有名VTuberさん！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/9"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/9.mp3",
+        "@length": 36291843,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "corocnさんと技術書典、田舎を選んだ理由、リモート飲み会について話しました",
+      "itunes:duration": "44:26",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "8. Chicken turns into boar",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/8",
+      "pubDate": "Sun, 27 May 2018 22:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>アマチュア木こり</li>\n  <li>ジビエ</li>\n  <li><a href=\"https://tabelog.com/gifu/A2103/A210301/21000023/\">柳家</a></li>\n  <li>電波</li>\n  <li><a href=\"https://www.nttdocomo.co.jp/support/area/know/\">モバイルネットワークに用いる電波の周波数特性</a></li>\n  <li>SMS認証の落とし穴</li>\n  <li>プライベートと仕事のわけかた</li>\n</ul>\n\n<p>ちょっとノイジーになってしまいましたが今の技術ではこれが限界でした\n次回は 6/4(月) 配信予定、ゲストは引き続きころちゃんさん、ガチの田舎からお届けします！！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/8"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/8.mp3",
+        "@length": 29484523,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "corocnさんと田舎での生活についてはなしました",
+      "itunes:duration": "36:05",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "7. Strict mode",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/7",
+      "pubDate": "Sun, 20 May 2018 13:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"https://droidkaigi.jp/2018/\">DroidKaigi</a></li>\n  <li>ダイエット</li>\n  <li><a href=\"https://events.google.com/io/\">io2018</a></li>\n  <li>産地直送モード</li>\n  <li>カレー</li>\n</ul>\n\n<p>次回は 5/27(日) 配信予定、ゲストには新たな岐阜県民が！お楽しみに！！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/7"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/7.mp3",
+        "@length": 30186765,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "mhidakaさん、よこまくさんとLatest inaka NEWSについてはなしました",
+      "itunes:duration": "36:08",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "6. Shot in a white arrow",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/6",
+      "pubDate": "Sat, 12 May 2018 15:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.weblio.jp/content/%E3%81%84%E3%81%A3%E3%81%9F%E3%82%93\">一旦</a></li>\n  <li><a href=\"https://droidkaigi.jp/2018/\">DroidKaigi</a></li>\n  <li>白羽の矢</li>\n  <li>名古屋文化</li>\n  <li>自転車</li>\n  <li>岐阜</li>\n</ul>\n\n<p>次回は 5/20(日) 配信予定、ゲストには新たな岐阜県民が！お楽しみに！！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/6"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/6.mp3",
+        "@length": 33503867,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "よこまくさんと一旦はなしました",
+      "itunes:duration": "42:59",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "5. ThaiGIF",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/5",
+      "pubDate": "Sun, 06 May 2018 19:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"https://play.google.com/store/apps/details?id=com.drivemode.android\">drivemode</a></li>\n  <li>ドライブデイ</li>\n  <li>アメリカの会社</li>\n  <li>大変だったこと</li>\n  <li>浮かびあがる型</li>\n  <li>ex-mixi community</li>\n  <li>自転車</li>\n  <li><a href=\"https://tabelog.com/tokyo/A1320/A132001/13104794/\">えん寺</a></li>\n  <li><a href=\"https://www.google.com/maps/d/u/0/viewer?ll=35.28374300000001%2C138.802643&amp;spn=0.538088%2C0.878906&amp;hl=ja&amp;t=m&amp;msa=0&amp;z=10&amp;source=embed&amp;ie=UTF8&amp;mid=1WRHA06_BJrpfxYhoC6DxwTBOjbU\">IH 小田原〜箱根ルート</a></li>\n  <li>ヘルシェイク矢野</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E8%84%82%E8%82%AA%E7%B5%84%E7%B9%94\">重し</a></li>\n  <li>○○○コーナー</li>\n</ul>\n\n<p>次回は 5/13(日) 配信予定、ゲストは引き続きよこまく氏です！お楽しみに！！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/5"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/5.mp3",
+        "@length": 27162865,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "よこまくさんと一緒に会社、自転車についてはなしました",
+      "itunes:duration": "34:08",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "4. Lost power",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/4",
+      "pubDate": "Mon, 23 Apr 2018 10:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>電車と風邪</li>\n  <li>リモートワークで大事なこと</li>\n  <li>失われる社会人力</li>\n  <li>スキマ時間</li>\n  <li>クロスフェード転職</li>\n</ul>\n\n<p>次回は 5/6(日) 配信予定、ゲストはまだ秘密！お楽しみに！！！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/4"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/4.mp3",
+        "@length": 18075103,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "らこらこさんと一緒に、21世紀らしい働き方についてはなしました",
+      "itunes:duration": "22:39",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "3. Friendly Fire",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/3",
+      "pubDate": "Sun, 15 Apr 2018 20:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"https://www.youtube.com/channel/UCayXpiOPFQh9MWePLoEFLmg\">ng-japan OnAir</a></li>\n  <li><a href=\"https://www.google.co.jp/search?q=online+meetup&amp;rlz=1C5CHFA_enJP720JP720&amp;oq=online+meetup&amp;aqs=chrome..69i57j0l5.4372j0j9&amp;sourceid=chrome&amp;ie=UTF-8\">Online Meetup</a></li>\n  <li>配信時のコミュニケーション</li>\n  <li><a href=\"https://www.sli.do/\">sli.do</a></li>\n  <li>場所からの解放</li>\n  <li><a href=\"https://developers-jp.googleblog.com/2017/05/google-io-2017-recap-japan.html\">Google I/O 報告会</a></li>\n  <li>VRにくわしい<a href=\"https://twitter.com/youten_redo\">ようてんさん</a></li>\n  <li>勉強会の参加枠足りない問題</li>\n  <li>ドタキャンで現場に人が居ない問題</li>\n  <li>相槌うんうん</li>\n  <li><a href=\"https://manabiya.tech/\">MANABIYA</a></li>\n  <li>質問プラットフォームの決定版たのむ</li>\n</ul>\n\n<p>次回は 4/22(日) 配信予定、ゲストは引き続き<a href=\"https://twitter.com/laco2net\">らこらこ</a>さんです！</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/3"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/3.mp3",
+        "@length": 29811351,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "らこらこさんと一緒に、福岡は田舎じゃないという話をしました",
+      "itunes:duration": "37:09",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "2. Uncontrollable",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/2",
+      "pubDate": "Mon, 09 Apr 2018 06:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li>本を書く</li>\n  <li>素敵な表紙の理由</li>\n  <li><a href=\"https://techbookfest.org/event/tbf04\">技術書典4</a>と雨男</li>\n  <li>ブレーキが壊れている</li>\n  <li>50人とパワー</li>\n  <li>技術書典に本を出したい人が多い<a href=\"https://www.misoca.jp/\">Misoca</a></li>\n  <li>コルーチンにくわしい<a href=\"https://twitter.com/sys1yagi\">八木さん</a></li>\n  <li>エラー出たときの表示について</li>\n</ul>\n\n<p>次回は 4/16(月) 配信予定、ゲストは<a href=\"https://twitter.com/laco2net\">らこらこ</a>さんです！<br />\n<a href=\"https://komatatsu.hateblo.jp/entry/inaka-fm-ep2\">編集裏話</a></p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/2"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/2.mp3",
+        "@length": 23330954,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "mhidakaさんと一緒に、技術書典、DroidKaigi、エラーの表示方法について話しました",
+      "itunes:duration": "27:46",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "1. The world rendered for me",
+      "link": "https://komatatsu.github.io/inaka-fm/episode/1",
+      "pubDate": "Mon, 02 Apr 2018 06:00:00 +0900",
+      "description": "<h2 id=\"show-notes\">show notes</h2>\n\n<ul>\n  <li><a href=\"http://portal.nifty.com/kiji/130430160492_1.htm\">鳥取と島根</a></li>\n  <li>神奈川 -&gt; 鳥取 -&gt; 名古屋</li>\n  <li>田舎のいいところ</li>\n  <li><a href=\"http://www.tottori-guide.jp/tourism/tour/view/996\">江島大橋</a></li>\n  <li><a href=\"https://droidkaigi.jp/2018/\">DroidKaigi 2018</a>お疲れ様でした</li>\n  <li><a href=\"https://www.doorkeeper.jp/\">Doorkeeper</a></li>\n  <li><a href=\"https://www.google.co.jp/search?q=%E8%96%AC%E7%89%A9%E4%BE%9D%E5%AD%98%E3%81%AE%E6%82%AA%E5%BE%AA%E7%92%B0&amp;rlz=1C5CHFA_enJP720JP720&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiQ3rvGiJjaAhVQQLwKHd3QB7gQ_AUICigB&amp;biw=993&amp;bih=855#imgrc=8kRbLzIdTAnWfM:\">またやっちゃうやつ</a></li>\n</ul>\n\n<p>つづきは 4/9(月) 配信予定<br />\n<a href=\"https://komatatsu.hateblo.jp/entry/inaka-fm-ep1\">編集裏話</a></p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://komatatsu.github.io/inaka-fm/episode/1"
+      },
+      "enclosure": {
+        "@url": "https://komatatsu.github.io/inaka-fm/audio/1.mp3",
+        "@length": 19855848,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "komatatsu",
+      "itunes:subtitle": "mhidakaさんと一緒に、こまたつの半生とDroidKaigiの話をしました",
+      "itunes:duration": "24:45",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://komatatsu.github.io/inaka-fm/images/artwork.jpg",
+        "#text": null
+      }
+    }
+  ]
+}

@@ -275,6 +275,30 @@ jobs:
           echo 'https://uit-inside.linecorp.com/feed.atom'
           curl https://uit-inside.linecorp.com/feed.atom --compressed > rss/UIT_INSIDE.xml
 
+          # Peapod by Peatix - ここでしか聞けない楽屋トーク
+          echo 'https://feeds.buzzsprout.com/782645.rss'
+          curl https://feeds.buzzsprout.com/782645.rss --compressed > rss/Peapod.xml
+
+          # 日本人の英語を変える！ポッドキャスト
+          echo 'https://anchor.fm/s/3c1b4ec8/podcast/rss'
+          curl https://anchor.fm/s/3c1b4ec8/podcast/rss --compressed > rss/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E8%8B%B1%E8%AA%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%EF%BC%81%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88.xml
+
+          # ポッドキャスト Export
+          echo 'https://export.fm/feed'
+          curl https://export.fm/feed --compressed > rss/exportfm.xml
+
+          # 田舎.fm
+          echo 'https://komatatsu.github.io/inaka-fm/feed.xml'
+          curl https://komatatsu.github.io/inaka-fm/feed.xml --compressed > rss/%E7%94%B0%E8%88%8Efm.xml
+
+          # 人生fm
+          echo 'https://kirimin.github.io/jinseifm/feed.xml'
+          curl https://kirimin.github.io/jinseifm/feed.xml --compressed > rss/jinseifm.xml
+
+          # soussune - エンジニアわいわいポッドキャスト「そうっすね」
+          echo 'https://soussune.com/feed.xml'
+          curl https://soussune.com/feed.xml --compressed > rss/soussune.xml
+
 
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts

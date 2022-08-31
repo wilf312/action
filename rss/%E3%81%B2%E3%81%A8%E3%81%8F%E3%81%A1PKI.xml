@@ -12,7 +12,7 @@
 			<link>https://anchor.fm/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 24 Aug 2022 21:47:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Aug 2022 13:38:34 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,38 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[45: CTを使って脆弱なRSA鍵を調べる話と、夏と青春18きっぷの話 ]]></title>
+			<description><![CDATA[<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>
+<p>雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。</p>
+<ul>
+ <li>Finding shared RSA factors in the Certificate Transparency logs<br>
+<a href="https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf" rel="noreferrer noopener" target="_blank">https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf</a></li>
+ <li>青春18きっぷ<br>
+<a href="https://railway.jr-central.co.jp/tickets/youth18-ticket/" rel="noreferrer noopener" target="_blank">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/45-CTRSA18-e1n5d7d</link>
+			<guid isPermaLink="false">d5b5bd11-eb99-4989-a486-10c8aa6f45d7</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 30 Aug 2022 13:36:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/56849069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-30%2F07d54d9b-a253-c0db-c902-dfaa8a5090d6.mp3" length="36815928" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。&lt;/p&gt;
+&lt;p&gt;雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Finding shared RSA factors in the Certificate Transparency logs&lt;br&gt;
+&lt;a href=&quot;https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;青春18きっぷ&lt;br&gt;
+&lt;a href=&quot;https://railway.jr-central.co.jp/tickets/youth18-ticket/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://railway.jr-central.co.jp/tickets/youth18-ticket/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[44: AppleがBIMIのサポートを始める話と、夏の活動限界、古墳の話など
 ]]></title>
