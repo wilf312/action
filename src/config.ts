@@ -388,6 +388,36 @@ export const urlList: UrlListItem[] = [
     hash: "soussune",
     url: "https://soussune.com/feed.xml",
   },
+
+  {
+    name: "Kubernetes Podcast from Google",
+    hash: "Kubernetes_Podcast_from_Google",
+    url: "https://kubernetespodcast.com/feeds/audio.xml",
+  },
+
+  {
+    name: "Google Cloud Platform Podcast",
+    hash: "Google_Cloud_Platform_Podcast",
+    url: "https://googlecloudpodcast.libsyn.com/rss",
+  },
+
+  {
+    name: "React Podcast",
+    hash: "React_Podcast",
+    url: "https://feeds.simplecast.com/JoR28o79",
+  },
+
+  {
+    name: "Turing Complete FM",
+    hash: "tcfm",
+    url: "https://feeds.turingcomplete.fm/tcfm",
+  },
+
+  {
+    name: "Misreading Chat",
+    hash: "misreading",
+    url: "https://misreading.chat/category/episodes/feed/",
+  },
 ];
 
 /**
