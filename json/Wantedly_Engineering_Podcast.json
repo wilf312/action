@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "#ISUCON 12 本選 - 実質2位でした (fail) w/ @bubusu_ryu",
+      "description": "<p>kyncon の一員として ISUCON 本選に出場した <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に本選の感想を聞きました。</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4/a-a8a11kj\">#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-final\">https://github.com/kyncon/isucon12-final</a></li>\n <li><a href=\"https://isucon.net/archives/56923294.html\" target=\"_blank\">ISUCON12 本選の結果発表と全チームのスコア : ISUCON公式Blog</a></li>\n</ul>",
+      "link": "https://anchor.fm/wantedly-dev/episodes/ISUCON-12----2-fail-w-bubusu_ryu-e1n84jd",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "af3a5851-53fa-418d-b72b-07ca12d3275a"
+      },
+      "dc:creator": "Wantedly Engineering",
+      "pubDate": "Thu, 01 Sep 2022 09:57:43 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/64205bfc/podcast/play/56938541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-1%2F820f0f0b-1029-3e02-d5b5-82ca922005da.mp3",
+        "@length": 82037155,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>kyncon の一員として ISUCON 本選に出場した <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に本選の感想を聞きました。</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4/a-a8a11kj\">#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-final\">https://github.com/kyncon/isucon12-final</a></li>\n <li><a href=\"https://isucon.net/archives/56923294.html\" target=\"_blank\">ISUCON12 本選の結果発表と全チームのスコア : ISUCON公式Blog</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:56:58",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "翻訳パラメーターに型を導入する hi18n の解説 w/ @qnighy",
       "description": "<p><a href=\"https://www.wantedly.com/id/qnighy\">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>\n<ul>\n <li>https://www.wantedly.com/id/qnighy</li>\n <li>https://github.com/wantedly/hi18n</li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/400195\">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/402631\">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/403077\">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/399501\">hi18n (i18nライブラリ) の使い方</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/hi18n--w-qnighy-e1logap",
