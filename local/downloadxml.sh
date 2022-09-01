@@ -246,3 +246,23 @@
           # soussune - エンジニアわいわいポッドキャスト「そうっすね」
           echo 'https://soussune.com/feed.xml'
           curl https://soussune.com/feed.xml --compressed > rss/soussune.xml
+
+          # Kubernetes Podcast from Google
+          echo 'https://kubernetespodcast.com/feeds/audio.xml'
+          curl https://kubernetespodcast.com/feeds/audio.xml --compressed > rss/Kubernetes_Podcast_from_Google.xml
+
+          # Google Cloud Platform Podcast
+          echo 'https://googlecloudpodcast.libsyn.com/rss'
+          curl https://googlecloudpodcast.libsyn.com/rss --compressed > rss/Google_Cloud_Platform_Podcast.xml
+
+          # React Podcast
+          echo 'https://feeds.simplecast.com/JoR28o79'
+          curl https://feeds.simplecast.com/JoR28o79 --compressed > rss/React_Podcast.xml
+
+          # Turing Complete FM
+          echo 'https://feeds.turingcomplete.fm/tcfm'
+          curl https://feeds.turingcomplete.fm/tcfm --compressed > rss/tcfm.xml
+
+          # Misreading Chat
+          echo 'https://misreading.chat/category/episodes/feed/'
+          curl https://misreading.chat/category/episodes/feed/ --compressed > rss/misreading.xml
