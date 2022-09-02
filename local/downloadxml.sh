@@ -266,3 +266,23 @@
           # Misreading Chat
           echo 'https://misreading.chat/category/episodes/feed/'
           curl https://misreading.chat/category/episodes/feed/ --compressed > rss/misreading.xml
+
+          # 未来授業
+          echo 'https://www.tfm.co.jp/podcasts/future/podcast.xml'
+          curl https://www.tfm.co.jp/podcasts/future/podcast.xml --compressed > rss/%E6%9C%AA%E6%9D%A5%E6%8E%88%E6%A5%AD.xml
+
+          # 前田ヒロ Startup Podcast
+          echo 'https://hiromaeda.com/feed/podcast/'
+          curl https://hiromaeda.com/feed/podcast/ --compressed > rss/%E5%89%8D%E7%94%B0%E3%83%92%E3%83%AD.xml
+
+          # nextstep.fm
+          echo 'https://nextstep.fm/feed.xml'
+          curl https://nextstep.fm/feed.xml --compressed > rss/nextstepfm.xml
+
+          # EM . FM #EMFM
+          echo 'https://anchor.fm/s/70a2c40/podcast/rss'
+          curl https://anchor.fm/s/70a2c40/podcast/rss --compressed > rss/EMF.xml
+
+          # yatteiki.fm
+          echo 'https://yatteiki.fm/feed.xml'
+          curl https://yatteiki.fm/feed.xml --compressed > rss/yatteikifm.xml

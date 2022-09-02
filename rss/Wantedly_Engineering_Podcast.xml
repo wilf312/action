@@ -9,7 +9,7 @@
 			<link>https://wantedly.dev/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 29 Aug 2022 18:10:17 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Sep 2022 10:00:29 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/64205bfc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Wantedly Engineering]]></author>
 		<copyright><![CDATA[Wantedly Engineering]]></copyright>
@@ -25,6 +25,34 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+		<item>
+			<title><![CDATA[#ISUCON 12 本選 - 実質2位でした (fail) w/ @bubusu_ryu]]></title>
+			<description><![CDATA[<p>kyncon の一員として ISUCON 本選に出場した <a href="https://twitter.com/bubusu_ryu">@bubusu_ryu</a> に本選の感想を聞きました。</p>
+<ul>
+ <li><a href="https://www.wantedly.com/id/bubusu">山岸 立のプロフィール - Wantedly</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4/a-a8a11kj">#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu</a></li>
+ <li><a href="https://github.com/kyncon/isucon12-final">https://github.com/kyncon/isucon12-final</a></li>
+ <li><a href="https://isucon.net/archives/56923294.html" target="_blank">ISUCON12 本選の結果発表と全チームのスコア : ISUCON公式Blog</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/ISUCON-12----2-fail-w-bubusu_ryu-e1n84jd</link>
+			<guid isPermaLink="false">af3a5851-53fa-418d-b72b-07ca12d3275a</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 01 Sep 2022 09:57:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/56938541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-1%2F820f0f0b-1029-3e02-d5b5-82ca922005da.mp3" length="82037155" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;kyncon の一員として ISUCON 本選に出場した &lt;a href=&quot;https://twitter.com/bubusu_ryu&quot;&gt;@bubusu_ryu&lt;/a&gt; に本選の感想を聞きました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/bubusu&quot;&gt;山岸 立のプロフィール - Wantedly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4/a-a8a11kj&quot;&gt;#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kyncon/isucon12-final&quot;&gt;https://github.com/kyncon/isucon12-final&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56923294.html&quot; target=&quot;_blank&quot;&gt;ISUCON12 本選の結果発表と全チームのスコア : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[翻訳パラメーターに型を導入する hi18n の解説 w/ @qnighy]]></title>
 			<description><![CDATA[<p><a href="https://www.wantedly.com/id/qnighy">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>
