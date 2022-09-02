@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=625319913",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=625951983",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Mon, 29 Aug 2022 13:13:19 +0000",
-  "lastBuildDate": "Mon, 29 Aug 2022 13:13:19 +0000",
+  "pubDate": "Wed, 31 Aug 2022 04:28:40 +0000",
+  "lastBuildDate": "Wed, 31 Aug 2022 04:28:40 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1334732884"
+      },
+      "title": "889 今までやった悪いこと",
+      "pubDate": "Fri, 02 Sep 2022 04:02:49 +0000",
+      "link": "https://soundcloud.com/dongurifm/889a",
+      "itunes:duration": "00:17:16",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "悪いこと、ポカリスエットについて話しました。\n\n中島セナ、ポカリ新CMでリアル雲の上にワイヤーアクションでダイブ！ポカリスエットCM+メイキング\nhttps://youtu.be/JUL9GhQxlbk\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "悪いこと、ポカリスエットについて話しました。\n\n中島セナ、ポカリ新CMでリアル雲の上にワイヤーアク…",
+      "description": "悪いこと、ポカリスエットについて話しました。\n\n中島セナ、ポカリ新CMでリアル雲の上にワイヤーアクションでダイブ！ポカリスエットCM+メイキング\nhttps://youtu.be/JUL9GhQxlbk\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1334732884-dongurifm-889a.mp3",
+        "@length": 16577096,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000540851943-lb5ued-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/625319913"
-      },
-      "title": "389 いま銭湯とサウナがテーマのマンガが熱いらしい",
-      "pubDate": "Thu, 23 May 2019 15:01:01 +0000",
-      "link": "https://soundcloud.com/dongurifm/389a",
-      "itunes:duration": "00:11:54",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "銭湯とねとらぼさんについて話しました。\n\n銭湯サウナマンガの魅力を銭湯で振り返るトークイベント「マンガで入る銭湯サウナin小杉湯」が開催！\nhttps://tokyosento.com/news/24400/\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "銭湯とねとらぼさんについて話しました。\n\n銭湯サウナマンガの魅力を銭湯で振り返るトークイベント「マ…",
-      "description": "銭湯とねとらぼさんについて話しました。\n\n銭湯サウナマンガの魅力を銭湯で振り返るトークイベント「マンガで入る銭湯サウナin小杉湯」が開催！\nhttps://tokyosento.com/news/24400/\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/625319913-dongurifm-389a.mp3",
-        "@length": 11437452,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000540166416-r18n7z-t3000x3000.jpg",
         "#text": null
       }
     }
