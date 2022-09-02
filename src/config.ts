@@ -418,6 +418,36 @@ export const urlList: UrlListItem[] = [
     hash: "misreading",
     url: "https://misreading.chat/category/episodes/feed/",
   },
+
+  {
+    name: "未来授業",
+    hash: "未来授業",
+    url: "https://www.tfm.co.jp/podcasts/future/podcast.xml",
+  },
+
+  {
+    name: "前田ヒロ Startup Podcast",
+    hash: "前田ヒロ",
+    url: "https://hiromaeda.com/feed/podcast/",
+  },
+
+  {
+    name: "nextstep.fm",
+    hash: "nextstepfm",
+    url: "https://nextstep.fm/feed.xml",
+  },
+
+  {
+    name: "EM . FM #EMFM",
+    hash: "EMF",
+    url: "https://anchor.fm/s/70a2c40/podcast/rss",
+  },
+
+  {
+    name: "yatteiki.fm",
+    hash: "yatteikifm",
+    url: "https://yatteiki.fm/feed.xml",
+  },
 ];
 
 /**
