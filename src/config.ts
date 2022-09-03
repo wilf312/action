@@ -448,6 +448,36 @@ export const urlList: UrlListItem[] = [
     hash: "yatteikifm",
     url: "https://yatteiki.fm/feed.xml",
   },
+
+  {
+    name: "PHPの現場",
+    hash: "phpgenba",
+    url: "https://php-genba.shin1x1.com/rss",
+  },
+
+  {
+    name: "Automagic Podcast",
+    hash: "automagic",
+    url: "https://feedpress.me/automagic",
+  },
+
+  {
+    name: "ajitofm",
+    hash: "ajitofm",
+    url: "https://ajito.fm/index.xml",
+  },
+
+  {
+    name: "“MOOK STUDY”日本の歴史（ムックスタディー 日本の歴史）",
+    hash: "MOOKSTUDY日本の歴史",
+    url: "https://mookstudy1.mookmookradio.com/feed/",
+  },
+
+  {
+    name: "狭くて浅いやつら 漫画（マンガ）・ゲーム・映画・アニメの感想",
+    hash: "狭浅",
+    url: "https://semaasa.net/feed/podcast",
+  },
 ];
 
 /**
