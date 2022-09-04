@@ -1,0 +1,305 @@
+{
+  "title": "mosa.fm",
+  "link": "https://mosa.fm",
+  "language": "ja",
+  "copyright": "Shoya Ishimaru",
+  "itunes:subtitle": "様々な分野の猛者をゲストに迎えてソフトウェア開発の話題を中心にゆるく話すポッドキャスト番組",
+  "itunes:author": "Shoya Ishimaru",
+  "itunes:summary": "様々な分野の猛者をゲストに迎えてソフトウェア開発の話題を中心にゆるく話すポッドキャスト番組",
+  "description": "様々な分野の猛者をゲストに迎えてソフトウェア開発の話題を中心にゆるく話すポッドキャスト番組",
+  "itunes:owner": {
+    "itunes:name": "Shoya Ishimaru",
+    "itunes:email": "mosahq@gmail.com"
+  },
+  "itunes:image": {
+    "@href": "https://mosa.fm/images/artwork.png",
+    "#text": null
+  },
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:explicit": "no",
+  "item": [
+    {
+      "title": "14. Learning Product Development from Cooking Comics",
+      "link": "https://mosa.fm/14",
+      "pubDate": "Mon, 30 Aug 2021 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://nowdo.net/\" target=\"_blank\">NowDo - 好きなことで 生きていくための ソーシャルスクール</a></li>\n  <li><a href=\"https://solio.me/\" target=\"_blank\">solio - ジャンルを選んで寄付をする、ソーシャルポートフォリオサービス</a></li>\n  <li><a href=\"https://alphaben.app/\" target=\"_blank\">alphaben - smart reading for kids</a></li>\n  <li><a href=\"https://nextjs.org\" target=\"_blank\">Next.js</a></li>\n  <li><a href=\"https://twitter.com/shoya140/status/1419598389965119489\" target=\"_blank\">「複数の仕事をしていると進捗がでない件、今まではシャローワークとディープワークが混在してるからだと思ってミーティングを同じ時間帯に集めていたんだけど、種類ではなくコンテキストで集める方が良いことに気がついた。MTG直後の「やるぞ！」という気持ちが次のMTGで消えてしまうのが問題だった。」 - Twitter</a></li>\n  <li><a href=\"https://clubhouse.io/\" target=\"_blank\">Project Management for Software Teams - Clubhouse</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E7%99%BA%E8%A6%8B%E4%BC%9D%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%B2%B3%E5%90%88%E5%8D%98-ebook/dp/B00BEPE9QG\" target=\"_blank\">ラーメン発見伝（１） (ビッグコミックス) - 河合単, 久部緑郎 - Amazon</a></li>\n  <li><a href=\"https://twitter.com/shoya140/status/1417971209950670849\" target=\"_blank\">「Photosが芹沢さん切り抜きまとめになってきた… 一番好きなセリフは発見伝2巻の「そのため (ラーメン作り) に最も必要なのは、独自の味を着想し、具体化できるセンスです。」です。 https://t.co/iZzoj0E4Ol」 - Twitter</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E5%B0%86%E5%A4%AA%E3%81%AE%E5%AF%BF%E5%8F%B8%EF%BC%88%EF%BC%91%EF%BC%89-%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%AF%BA%E6%B2%A2%E5%A4%A7%E4%BB%8B-ebook/dp/B00AIFYZ62/\" target=\"_blank\">将太の寿司（１） (週刊少年マガジンコミックス) - 寺沢大介 - Amazon</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E5%AF%BF%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%EF%BC%88%EF%BC%91%EF%BC%89-%E8%A3%8F%E5%B0%91%E5%B9%B4%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%9B%E3%81%8D%E3%82%84%E3%81%A6%E3%81%A4%E3%81%98-ebook/dp/B085G3N6HD/\" target=\"_blank\">寿エンパイア（１） (裏少年サンデーコミックス) - せきやてつじ - Amazon</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/14"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/14.mp3",
+        "@length": 48321068,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Takashi Nakagawaさんをゲストに迎えて、スタートアップ、Clubhouse、料理漫画などについて話しました。",
+      "itunes:duration": "50:08",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "13. Our Past Decade and Future Decade",
+      "link": "https://mosa.fm/13",
+      "pubDate": "Sun, 13 Dec 2020 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://seiren-voice.dmv.nico/\" target=\"_blank\">Seiren Voice Demo（AIボイスチェンジャー）</a></li>\n  <li><a href=\"https://dmv.nico/ja/articles/seiren_voice/\" target=\"_blank\">誰の声でも100人の声に変えられる声変換システム - Dwango Media Village</a></li>\n  <li><a href=\"https://twitter.com/iwera813/status/1335586235910246401\" target=\"_blank\">「FROM THE NEXT ERA」 Dwango Media Village 廣芝和之さんをお迎え。 近未来は「声」の権利が注目を集める?! ラジオや音声メディアの可能性を探ります。 ポッドキャストではロング版配信中！</a></li>\n  <li><a href=\"https://news.j-wave.co.jp/2020/12/post-7105.html\" target=\"_blank\">誰でも「理想の声」になれる時代がくる。音声合成技術の最先端と未来 - J-WAVE NEWS</a></li>\n  <li><a href=\"https://blog.hiroshiba.jp/talk-to-yuduki-yukari-with-deep-learning-power/\" target=\"_blank\">ディープラーニングの力で人工知能になって結月ゆかりと会話してみた - Hiho’s Blog</a></li>\n  <li><a href=\"https://qiita.com/atticatticattic/items/37441f3be6916cd1e73a\" target=\"_blank\">『Yukarinライブラリ』become-yukarin, yukarin コマンド解説 - Qiita</a></li>\n  <li><a href=\"https://hello.vrchat.com/\" target=\"_blank\">VRChat</a></li>\n  <li><a href=\"https://www.oculus.com/quest-2/\" target=\"_blank\">Oculus Quest 2: Our Most Advanced All-in-One VR Headset - Oculus</a></li>\n  <li><a href=\"https://www.theverge.com/2020/12/10/22167509/germany-fco-investigation-facebook-oculus-account-requirements-competition\" target=\"_blank\">German regulators are investigating Facebook for Oculus account rules - The Verge</a></li>\n  <li><a href=\"https://www.vive.com/jp/product/vive-pro-eye/overview/\" target=\"_blank\">VIVE Pro Eye 概要 - VIVE™</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E7%AA%A9\" target=\"_blank\">中心窩 - Wikipedia</a></li>\n  <li><a href=\"https://twitter.com/shoya140/status/1329576780726996997\" target=\"_blank\">絵の練習</a></li>\n  <li><a href=\"https://www.palmie.jp/\" target=\"_blank\">お絵かき講座パルミー - イラストマンガの描き方が学べるオンライン学習サイト</a></li>\n  <li><a href=\"https://dotinstall.com/\" target=\"_blank\">ドットインストール - 3分動画でマスターできるプログラミング学習サービス</a></li>\n  <li><a href=\"https://sensei.pixiv.net/\" target=\"_blank\">イラストの描き方を動画で学ぶ！ - sensei by pixiv</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8-%E3%83%80%E3%83%86-%E3%83%8A%E3%82%AA%E3%83%88-ebook/dp/B07BF7FHZ8\" target=\"_blank\">イラスト解体新書 - ダテ ナオト, 弐藤 潔 - Amazon</a></li>\n  <li><a href=\"https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/\" target=\"_blank\">Keyboards : Komplete Kontrol S49 / S61 - Komplete</a></li>\n  <li><a href=\"https://soundquest.jp/\" target=\"_blank\">SoundQuest - 新しい音を見つけよう</a></li>\n  <li><a href=\"https://twitter.com/Yam_eye/status/871761918775644160\" target=\"_blank\">真理に近づく方法は二つある。 ひとつは、知識を検証可能な方法で記述し、みんなで共有すること。 もう一つは、認識を洗練させて提示し、みんなの共感を得ること。 前者を科学といい、後者を芸術という。</a></li>\n  <li><a href=\"https://qiita.com/Hiroshiba/items/86b9ec67029d5f2b33f8\" target=\"_blank\">生放送駆動開発を1000日やったら進捗出たのでみんなもやろう！ - Qiita</a></li>\n  <li><a href=\"https://store.steampowered.com/app/736260/Baba_Is_You/\" target=\"_blank\">Baba Is You on Steam</a></li>\n  <li><a href=\"http://altosadventure.com/\" target=\"_blank\">Alto’s Adventure - out now for iOS, Android &amp; Kindle Fire</a></li>\n  <li><a href=\"https://store.steampowered.com/app/912660/Welcome_Above/\" target=\"_blank\">Welcome Above on Steam</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%88%E7%9B%AE%E3%81%A7%E8%A6%8B%E3%81%A6%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%9C%AC%E3%80%82%E3%80%89-%E7%AD%92%E4%BA%95-%E7%BE%8E%E5%B8%8C/dp/4844365177/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=\" target=\"_blank\">なるほどデザイン〈目で見て楽しむ新しいデザインの本。〉 - 筒井 美希 - Amazon</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/13"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/13.mp3",
+        "@length": 59910241,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Kazuyuki Hiroshibaさんをゲストに迎えて、Deep Learningで声変換、次の10年でやりたいこと、生放送駆動開発などについて話しました。",
+      "itunes:duration": "01:02:12",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "12. From Now On",
+      "link": "https://mosa.fm/12",
+      "pubDate": "Thu, 12 Dec 2019 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://growth-next.com/ja/event/15893\" target=\"_blank\">CTOの存在理由とスタートアップにおける技術組織</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B07L2R3LTN\" target=\"_blank\">LeanとDevOpsの科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する - Amazon</a></li>\n  <li><a href=\"https://www.businessinsider.jp/post-166302\" target=\"_blank\">6ページの長文メモ、ベゾスも認めるアマゾンの｢奇妙な会議ルール｣ - BUSINESS INSIDER JAPAN</a></li>\n  <li><a href=\"https://takashi.im/\" target=\"_blank\">takashi.im</a></li>\n  <li><a href=\"https://photos.shoya.io/\" target=\"_blank\">photos.shoya.io</a></li>\n  <li><a href=\"https://firebase.google.com/docs/firestore\" target=\"_blank\">Cloud Firestore - Firebase</a></li>\n  <li><a href=\"https://www.terraform.io/\" target=\"_blank\">Terraform by HashiCorp</a></li>\n  <li><a href=\"https://twitter.com/takehiro0740/status/1197912012656791554\" target=\"_blank\">Takehiro on Twitter: “今日の、壁から落ちて発狂し続けるだけの90秒動画… “</a></li>\n  <li><a href=\"http://www.foxmovies-jp.com/greatest-showman/\" target=\"_blank\">映画『グレイテスト・ショーマン』オフィシャルサイト - 20世紀フォックス ホーム エンターテイメント</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/12"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/12.mp3",
+        "@length": 53480356,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Takashi Nakagawaさんをゲストに迎えて、CTOの役割、ボルダリング、グレイテスト・ショーマンなどについて話しました。",
+      "itunes:duration": "00:55:30",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "11. Donation as an Expression",
+      "link": "https://mosa.fm/11",
+      "pubDate": "Sun, 23 Dec 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer\" target=\"_blank\">Bracket Pair Colorizer - Visual Studio Marketplace</a></li>\n  <li><a href=\"https://marketplace.visualstudio.com/items?itemName=Increments.qiita\" target=\"_blank\">Qiita - Visual Studio Marketplace</a></li>\n  <li><a href=\"https://marketplace.visualstudio.com/items?itemName=harg.iceberg\" target=\"_blank\">Iceberg - Visual Studio Marketplace</a></li>\n  <li><a href=\"https://cocopon.me/blog/2016/02/iceberg/\" target=\"_blank\">自作Vimカラースキーム「Iceberg」の配色戦略 - ここぽんのーと</a></li>\n  <li><a href=\"https://visualstudio.microsoft.com/services/live-share/\" target=\"_blank\">Visual Studio Live Share - Visual Studio</a></li>\n  <li><a href=\"https://twitter.com/tak0303/status/1052889544779948032\" target=\"_blank\">Takashi Nakagawa on Twitter: “サービス開発について、メンタリングしてほしい誰かに”</a></li>\n  <li><a href=\"https://speakerdeck.com/ken_c_lo/how-to-design-presentations-for-engineers\" target=\"_blank\">エンジニアのためのスライドデザイン実践講座 / How to design presentations for engineers - Speaker Deck</a></li>\n  <li><a href=\"https://catcher.tw/\" target=\"_blank\">Catcher（キャッチャー） - Twitter 転職、Twitter 副業なら。</a></li>\n  <li><a href=\"https://kifu.love/\" target=\"_blank\">寄付ランキング</a></li>\n  <li><a href=\"https://solio.me/\" target=\"_blank\">SOLIO（ソリオ） - 新しい寄付集めのカタチ</a></li>\n  <li><a href=\"https://scrapspace.shoya.io/\" target=\"_blank\">Scrapspace - Workspace for your Scrapbox projects</a></li>\n  <li><a href=\"https://scrapbox.io/shoya140/%E9%AB%98%E6%A9%8B%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E3%81%AEUserScript\" target=\"_blank\">高橋メソッドのUserScript - shoya140</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89\" target=\"_blank\">高橋メソッド - Wikipedia</a></li>\n  <li><a href=\"https://www.notion.so/\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></li>\n</ul>\n\n<p><a href=\"https://adventar.org/calendars/3068\" target=\"_blank\">Podcaster Advent Calendar 2018</a> 23日目の配信です。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/11"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/11.mp3",
+        "@length": 52849238,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Takashi Nakagawaさんをゲストに迎えて、VSCode、寄付プラットフォーム、ペア読書などについて話しました。",
+      "itunes:duration": "00:54:50",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "10. 2/100 Things To Do in My Lifetime",
+      "link": "https://mosa.fm/10",
+      "pubDate": "Wed, 10 Oct 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://note.mu/pika_shi/n/nc2d1a1a47903\" target=\"_blank\">ガラパゴス諸島に1人旅してきた - ぴかし - note</a></li>\n  <li><a href=\"https://twitter.com/shoya140/status/1046162353719574528\" target=\"_blank\">Shoya Ishimaru on Twitter: “休暇でアイスランドに行ってきました:)”</a></li>\n  <li><a href=\"http://pika-shi.hatenablog.com/entry/2014/03/23/220619\" target=\"_blank\">【2014.3.8〜3.21】アジア諸国旅行 - Hello World!!</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E4%BA%BA%E7%94%9F%E3%81%AE100%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88-%E8%AC%9B%E8%AB%87%E7%A4%BE-%CE%B1%E6%96%87%E5%BA%AB-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9/dp/4062812053\" target=\"_blank\">人生の100のリスト (講談社+α文庫) - ロバート・ハリス - Amazon</a></li>\n  <li><a href=\"http://pika-shi.hatenablog.com/entry/2013/08/26/220848\" target=\"_blank\">人生の100のリスト - Hello World!!</a></li>\n  <li><a href=\"https://github.com/shoya140/100todo\" target=\"_blank\">shoya140/100todo</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/10"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/10.mp3",
+        "@length": 41148053,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Hikaru Takemuraさんをゲストに迎えて、ガラパゴス諸島、アイスランド、人生の100のリストなどについて話しました。",
+      "itunes:duration": "00:42:39",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "9. Collective Personal Projects",
+      "link": "https://mosa.fm/9",
+      "pubDate": "Mon, 13 Aug 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"http://mama-hack.com/\" target=\"_blank\">ままはっく - ママブロガーまなしばが、妊娠出産・子育て・WEBサービスの知恵を発信していくママブログ</a></li>\n  <li><a href=\"https://hoiku-navi.net/\" target=\"_blank\">ほいくびより - 保育士が「楽しく働く」を応援する総合情報ブログ</a></li>\n  <li><a href=\"https://tameshigaki.jp/\" target=\"_blank\">ためしがき - 日本語のフリーフォントを検索できるサイト</a></li>\n  <li><a href=\"https://twitter.com/nabettu/status/996345580400951296\" target=\"_blank\">ナベ🍲 / ためしがき / Amazonで本の販売始まりました！ on Twitter: “この色んなフォントでロゴ試せるサイトの「日本語版の商用利用可能なフリーフォント版」が欲しいんだよな。 renさんを見習って1000RTいったら作りますか〜”</a></li>\n  <li><a href=\"https://nabettu.hatenablog.com/entry/tameshigaki\" target=\"_blank\">日本語のフリーフォントをまとめて試せるサイト「 #ためしがき 」をなんで作ったのかと技術的な話 - フロントエンドの地獄</a></li>\n  <li><a href=\"https://carbon.now.sh/\" target=\"_blank\">Carbon</a></li>\n  <li><a href=\"https://nabettu.hatenablog.com/entry/2018/07/17/172015\" target=\"_blank\">著書「Vue.jsとFirebaseで作るミニWebサービス」が発売されました！🎉本に込めた想いと経緯など - フロントエンドの地獄</a></li>\n  <li><a href=\"https://twitter.com/tameshigakijp\" target=\"_blank\">@tameshigakijp - Twitter</a></li>\n  <li><a href=\"https://twitter.com/becolomochi/status/1021660801982029824\" target=\"_blank\">べこ🐄 on Twitter: “Webサービスのイメージキャラクター制作承ります😀ゆるかわファンシーなキャラがほしい開発者さんからのご連絡お待ちしております〜。急ぎとか締め切りありとかだと難しいんですが作るとなれば丁寧に作業させていただきます。ぜひ！”</a></li>\n  <li><a href=\"https://twitter.com/hashtag/web%E3%83%8D%E3%82%BF%E5%B8%B3?src=hash\" target=\"_blank\">#webネタ帳 hashtag on Twitter</a></li>\n  <li><a href=\"https://masuidrive.tadalist.com/lists/1941485/public\" target=\"_blank\">masuidriveの作りたい物&amp;試作品リスト</a></li>\n  <li><a href=\"http://intereskine.tumblr.com/\" target=\"_blank\">INTERESKINE</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E8%B6%85%E3%83%8E%E3%83%BC%E3%83%88%E8%A1%93-%E6%88%90%E6%9E%9C%E3%82%9210%E5%80%8D%E3%81%AB%E3%81%99%E3%82%8B%E3%83%A1%E3%83%A2%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-%E4%BD%90%E8%97%A4%E3%81%AD%E3%81%98/dp/4822251802\" target=\"_blank\">超ノート術 成果を10倍にするメモの書き方 - 佐藤ねじ - Amazon</a></li>\n  <li><a href=\"https://nabettu.hatenablog.com/entry/disassembly-peing\" target=\"_blank\">#Webサービス分解 「Peing-質問箱-」の分解 - フロントエンドの地獄</a></li>\n  <li><a href=\"https://scrapbox.io/admin-guild-pr/%E9%81%8B%E5%96%B6%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89\" target=\"_blank\">運営者ギルド - 運営者ギルド外部向けScrapbox</a></li>\n  <li><a href=\"https://medium.com/@tumada/%E5%A4%A9%E6%89%8D%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%E3%81%AE%E8%A3%8F%E3%81%AB%E3%81%84%E3%81%9F-%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%82%BA-9ebb0d9e6809\" target=\"_blank\">天才エジソンの裏にいた “マッカーズ” – Taka Umada – Medium</a></li>\n  <li><a href=\"http://mama-hack.com/app-reach/\" target=\"_blank\">アプリーチ - iPhoneアプリとAndroidアプリを同時に検索し、統合されたブログパーツを作成出来ます。</a></li>\n  <li><a href=\"https://chatblog.me/\" target=\"_blank\">チャットブログ</a></li>\n  <li><a href=\"https://emog.tokyo/#/\" target=\"_blank\">😀</a></li>\n  <li><a href=\"https://blog.notsobad.jp/entry/2018/07/30/110000\" target=\"_blank\">作ったWebサービスが誰からも使われなくてさみしい問題を解決する（しない）意識低い方法論 - NOT SO BADなブログ</a></li>\n  <li><a href=\"https://www.netlify.com/\" target=\"_blank\">Netlify: All-in-one platform for automating modern web projects.</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/9"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/9.mp3",
+        "@length": 45310507,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Tatsuaki Watanabeさんをゲストに迎えて、「ためしがき」開発裏話、Vue.jsとFirebase、開発者コミュニティなどについて話しました。",
+      "itunes:duration": "00:46:59",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "8. Domain-First Naming",
+      "link": "https://mosa.fm/8",
+      "pubDate": "Tue, 10 Jul 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://www.oculus.com/go/\" target=\"_blank\">Oculus Go - Oculus</a></li>\n  <li><a href=\"https://www.oculus.com/experiences/go/1389161184521528/\" target=\"_blank\">Virtual Virtual Reality - Oculus</a></li>\n  <li><a href=\"https://www.oculus.com/experiences/gear-vr/1168200286607832/\" target=\"_blank\">Face Your Fears - Oculus</a></li>\n  <li><a href=\"https://dl.acm.org/citation.cfm?id=3204541\" target=\"_blank\">Gaze typing in virtual reality: impact of keyboard design, selection method, and motion</a></li>\n  <li><a href=\"https://www.getfove.com/\" target=\"_blank\">FOVE Eye Tracking Virtual Reality Headset</a></li>\n  <li><a href=\"https://developer.apple.com/videos/play/wwdc2018/602/\" target=\"_blank\">What’s New in ARKit 2 - WWDC 2018 Videos Apple Developer</a></li>\n  <li><a href=\"https://github.com/virakri/eye-tracking-ios-prototype\" target=\"_blank\">virakri/eye-tracking-ios-prototype - GitHub</a></li>\n  <li><a href=\"https://hashic.co/\" target=\"_blank\">ハシッコ - 評論ジャンルを中心に活動する同人サークル</a></li>\n  <li><a href=\"https://hashic.co/stage/vol1\" target=\"_blank\">【C91新刊】”はじめてのコミケ”をテーマにした同人誌「STAGE」創刊</a></li>\n  <li><a href=\"https://webmaster-ja.googleblog.com/2016/11/mobile-first-indexing.html?m=1\" target=\"_blank\">Google ウェブマスター向け公式ブログ: モバイル ファースト インデックスに向けて</a></li>\n  <li><a href=\"https://support.google.com/webmasters/answer/4559176\" target=\"_blank\">Search Console とは - Search Console ヘルプ</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/8"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/8.mp3",
+        "@length": 55516235,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Kaz Hozmiさんをゲストに迎えて、同人サークル「ハシッコ」、Mobile-First Indexing、ドメインの魅力などについて話しました。",
+      "itunes:duration": "00:57:37",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "7. Towards Estimable Slumps",
+      "link": "https://mosa.fm/7",
+      "pubDate": "Mon, 02 Jul 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://twitter.com/shoya140/status/984935542860189696\" target=\"_blank\">Shoya Ishimaru on Twitter: “研究所内に”iQL: Immersive Quantified Learning Lab”というLiving Lab(研究成果を実装したりデモ展示したりする場所)を設立しました。今日はそのオープニングイベントでした。”</a></li>\n  <li><a href=\"https://shoya.io/blog/DFKI3/\" target=\"_blank\">ドイツ人工知能研究センター(DFKI)への留学と就職 - shoya.io</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B00KGNV4BA/\" target=\"_blank\">スランプ克服の法則 (PHP新書) 岡本 浩一 - Amazon</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%AD%A6%E7%BF%92%E6%80%A7%E7%84%A1%E5%8A%9B%E6%84%9F\" target=\"_blank\">学習性無力感 - Wikipedia</a></li>\n  <li><a href=\"https://twitter.com/kensuu/status/936010062094409729\" target=\"_blank\">けんすう on Twitter: “実は頑張ってなくて習慣の力による惰性でできるようにだけ頑張ってます “</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%95%8F%E9%A1%8C\" target=\"_blank\">フレーム問題 - Wikipedia</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B079TLW41L/\" target=\"_blank\">エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング 広木 大地 - Amazon</a></li>\n  <li><a href=\"https://scrapbox.io/nishio/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AF%E6%B7%B7%E4%B9%B1\" target=\"_blank\">マルチタスク混乱 - 西尾泰和のScrapbox</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/7"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/7.mp3",
+        "@length": 41064042,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Ryo Matsumotoさんをゲストに迎えて、スランプとプラトー、タスクの不確実性と優先度などについて話しました。",
+      "itunes:duration": "00:42:33",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "6. The Life Consists of YOHAKU and Chance",
+      "link": "https://mosa.fm/6",
+      "pubDate": "Mon, 25 Jun 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"http://piyon.hatenablog.com/entry/2015/08/03/180847\" target=\"_blank\">「アイデア」は形にしないと意味がない - 「うれくやしい」</a></li>\n  <li><a href=\"http://meiwaku.me/\" target=\"_blank\">SPAM MUSEUM - スパムメール・迷惑メールランキングサイト</a></li>\n  <li><a href=\"http://kakidashi.com/\" target=\"_blank\">本の書き出し</a></li>\n  <li><a href=\"http://www.kuroyanagi-test.com/\" target=\"_blank\">黒柳テスト</a></li>\n  <li><a href=\"http://piyon.hatenablog.com/entry/2017/05/06/172024\" target=\"_blank\">「黒柳テスト」をつくって思い出した、手段を楽しむことの大切さ - 「うれくやしい」</a></li>\n  <li><a href=\"https://uwork.jp/\" target=\"_blank\">ユニークな制度から、会社を知ろう - UWORK（ユーワーク）</a></li>\n  <li><a href=\"https://findog.jp/\" target=\"_blank\">半径6Kmのみんなが、飼い主になる。迷子犬発見アプリ FINDOG</a></li>\n  <li><a href=\"https://miraimanabi.withgoogle.com/local_project/interview-detail-30007.html\" target=\"_blank\">未来への学び｜復旧・復興支援に携わった企業、団体、個人の学びを、未来へ。</a></li>\n  <li><a href=\"https://catcher.tw/\" target=\"_blank\">Catcher（キャッチャー） - 仕事探しを、もっと気軽に。</a></li>\n  <li><a href=\"https://twitter.com/search?q=%23hiyokonitsuduke&amp;src=savs\" target=\"_blank\">#hiyokonitsuduke - Twitter Search</a></li>\n  <li><a href=\"https://twitter.com/oishii_shitsuji\" target=\"_blank\">美味しい執事🍴 (@oishii_shitsuji) - Twitter</a></li>\n  <li><a href=\"https://twitter.com/fuwa_shop\" target=\"_blank\">ふわふわ商店 (@fuwa_shop) - Twitter</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/6"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/6.mp3",
+        "@length": 38345635,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Piyon Yumiyonさんをゲストに迎えて、人生の余白、完結的な人間、逆にチャンスなどについて話しました。",
+      "itunes:duration": "00:39:44",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "5. ChiChi-no-hi is Coming Soon",
+      "link": "https://mosa.fm/5",
+      "pubDate": "Thu, 14 Jun 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://pikashi.tokyo/\" target=\"_blank\">pikashi.tokyo - Portfolio of Products and Publications</a></li>\n  <li><a href=\"https://folio-sec.com/\" target=\"_blank\">フォリオ - テーマでえらぶ、あたらしい投資のかたち</a></li>\n  <li><a href=\"http://intempo.adriablue.jp/\" target=\"_blank\">INTEMPO -「リズムに乗って歩くだけ」で乗りたい電車に間に合うアプリ</a></li>\n  <li><a href=\"https://developer.gracenote.com/\" target=\"_blank\">Gracenote Developer Music</a></li>\n  <li><a href=\"http://inshade.adriablue.jp/\" target=\"_blank\">inShade -「日陰」しか通らない、日よけルート検索アプリ</a></li>\n  <li><a href=\"http://chichi.pink/\" target=\"_blank\">ChiChi - スマホを胸に挟むだけでカップ数が測れるアプリ</a></li>\n  <li><a href=\"http://meiwaku.me/\" target=\"_blank\">SPAM MUSEUM - スパムメール・迷惑メールランキングサイト</a></li>\n  <li><a href=\"http://paletta.mrk1869.com/\" target=\"_blank\">Paletta - HSV Color palette for every Programmer</a></li>\n  <li><a href=\"https://memelogger.shoya.io/\" target=\"_blank\">MEMELogger - The sensor data logging application for JINS MEME</a></li>\n  <li><a href=\"http://pika-shi.hatenablog.com/entry/2017/10/29/180328\" target=\"_blank\">サービス開発における「見切り発車」の必要性 - Hello World!!</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B00U3UMSKC/\" target=\"_blank\">フューチャー・オブ・マインド　心の未来を科学する - ミチオ・カク, 斉藤 隆央 - Amazon</a></li>\n  <li><a href=\"https://www.eurekalert.org/pub_releases/2011-06/uosc-rmr061211.php\" target=\"_blank\">Restoring memory, repairing damaged brains - EurekAlert! Science News</a></li>\n  <li><a href=\"https://bsd.neuroinf.jp/wiki/%E5%85%89%E9%81%BA%E4%BC%9D%E5%AD%A6\" target=\"_blank\">光遺伝学 - 脳科学辞典</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B00U3P2XKC/\" target=\"_blank\">２１００年の科学ライフ - ミチオ・カク, 斉藤 隆央 - Amazon</a></li>\n  <li><a href=\"http://pika-shi.hatenablog.com/entry/2015/07/12/184051\" target=\"_blank\">未来予測本から見える3つの未来 - Hello World!!</a></li>\n  <li><a href=\"https://dl.acm.org/citation.cfm?id=3180354\" target=\"_blank\">Assessing Cognitive Workload on Printed and Electronic Media using Eye-Tracker and EDA Wristband</a></li>\n  <li><a href=\"http://www.newsdigest.de/newsde/column/doctor/9274-1073.html\" target=\"_blank\">ドイツの花粉症（Heuschnupfen） - ドイツ生活情報満載！ドイツニュースダイジェスト</a></li>\n  <li><a href=\"https://nk.jiho.jp/article/133213\" target=\"_blank\">鳥居薬品、「シダキュアスギ花粉舌下錠」6月発売 アレルゲン免疫療法薬 - 日刊薬業</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/5"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/5.mp3",
+        "@length": 44448257,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Hikaru Takemuraさんをゲストに迎えて、FOLIO、おもしろアプリ開発、フューチャー・オブ・マインドなどについて話しました。",
+      "itunes:duration": "00:46:05",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "4. Whale-san Team vs. Penguin-san Team",
+      "link": "https://mosa.fm/4",
+      "pubDate": "Mon, 28 May 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"http://tbpgr.hatenablog.com/entry/2018/05/07/083000\" target=\"_blank\">ゆるキャラ研究家「べこ」さんにゆるキャラ制作を依頼してみたら評判がよかった - Tbpgr Blog</a></li>\n  <li><a href=\"https://www.san-x.co.jp/jinbeesan/campaign/2016/\" target=\"_blank\">San-Xネット じんべえさん ゆったりじんべえらいふ</a></li>\n  <li><a href=\"https://becolomochi.hatenablog.com/entry/tanoshii_slack\" target=\"_blank\">メッセージアプリ「Slack」を使って仕事がはかどっている話 - べこのツボ</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6-Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80%E3%80%88GitHub%E3%80%81Bitbucket%E3%80%81SourceTree%E3%80%89-%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/dp/4863542178\" target=\"_blank\">わかばちゃんと学ぶ Git使い方入門〈GitHub、Bitbucket、SourceTree〉 - 湊川 あい, DQNEO - Amazon</a></li>\n  <li><a href=\"http://ppworks.hatenablog.jp/entry/2014/07/18/171741\" target=\"_blank\">プログラマーがイラレで絵を描けるようになると、こうなる - pblog</a></li>\n  <li><a href=\"https://suzuri.jp/becolomochi\" target=\"_blank\">（・-・） ( becolomochi ) のオリジナルアイテム ∞ SUZURI（スズリ）</a></li>\n  <li><a href=\"https://becolomochi.hatenablog.com/entry/2017/10/27/224804\" target=\"_blank\">Markdown × InDesign で本を作ったこと【技術書典3】 - べこのツボ</a></li>\n  <li><a href=\"https://booth.pm/ja/items/667217\" target=\"_blank\">Vue.jsでポートフォリオサイト制作記 - Shop Becolomochi（べころもち工房） - BOOTH</a></li>\n  <li><a href=\"https://becolomochi.hatenablog.com/entry/dam-meister\" target=\"_blank\">ダムマイスターになりました - べこのツボ</a></li>\n  <li><a href=\"https://becolomochi.hatenablog.com/entry/the-dam-digest_201805\" target=\"_blank\">君はダムの月刊誌を知っているか〜月刊ダム日本2018年5月号 感想〜 - べこのツボ</a></li>\n  <li><a href=\"https://becolomochi.hatenablog.com/entry/2017damadcale-minakami\" target=\"_blank\">ダムたくさんの群馬県みなかみ町【ダム Advent Calendar 2017】14日目 - べこのツボ</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E4%BF%A3%E3%83%80%E3%83%A0\" target=\"_blank\">奈良俣ダム - Wikipedia</a></li>\n  <li><a href=\"https://adventar.org/calendars/2251\" target=\"_blank\">ダム Advent Calendar 2017 - Adventar</a></li>\n  <li><a href=\"https://adventar.org/calendars/2092\" target=\"_blank\">SHIROBAKO Advent Calendar 2017 - Adventar</a></li>\n  <li><a href=\"http://shanonim.hatenablog.com/entry/2016/12/29/191208\" target=\"_blank\">SHIROBAKOデスク百景 - shanon’s note</a></li>\n  <li><a href=\"https://shoya.io/blog/imaginary-mentor/\" target=\"_blank\">仮想メンター - shoya.io</a></li>\n  <li><a href=\"https://motida-japan.hatenablog.com/entry/2016/12/09/230701\" target=\"_blank\">SHIROBAKOに出てくる声優たちの意外な声 - アナログ金木犀</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/4"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/4.mp3",
+        "@length": 40340137,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "becolomochiさんをゲストに迎えて、公式キャラクター制作裏話、ダム、SHIROBAKOなどについて話しました。",
+      "itunes:duration": "00:41:49",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "3. Service on Machine Learning on Mathematics",
+      "link": "https://mosa.fm/3",
+      "pubDate": "Mon, 21 May 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-technologies/index.html\" target=\"_blank\">Cisco IOS Technologies - Cisco</a></li>\n  <li><a href=\"http://rubykaigi.org/2018\" target=\"_blank\">RubyKaigi 2018</a></li>\n  <li><a href=\"http://bussorenre.hatenablog.jp/entry/2018/05/13/103448\" target=\"_blank\">コンテキストスイッチにどうやって立ち向かうか - bussorenre Laboratory</a></li>\n  <li><a href=\"https://jins-meme.com/ja/\" target=\"_blank\">JINS MEME - TURN IT ON - 見るから、知るへ。</a></li>\n  <li><a href=\"https://jins-meme.github.io/sdkdoc/\" target=\"_blank\">JINS MEME SDKへようこそ - JINS MEME DEVELOPER DOCUMENTATION</a></li>\n  <li><a href=\"https://memelogger.shoya.io/\" target=\"_blank\">MEMELogger - The sensor data logging application for JINS MEME</a></li>\n  <li><a href=\"https://twitter.com/bussorenre/status/995186759167180805\" target=\"_blank\">Unknown Exception on Twitter: “やっぱりCSガチでやり直したみ”</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8A-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061224\" target=\"_blank\">パターン認識と機械学習 上 - C.M. ビショップ, 元田 浩, 栗田 多喜夫, 樋口 知之, 松本 裕治, 村田 昇 - Amazon</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%AD%A6%E7%BF%92%E2%80%95%E3%83%99%E3%82%A4%E3%82%BA%E7%90%86%E8%AB%96%E3%81%AB%E6%8C%AB%E6%8A%98%E3%81%97%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6-%E5%85%89%E6%88%90-%E6%BB%8B%E7%94%9F/dp/4873101662\" target=\"_blank\">パターン認識と機械学習の学習 - ベイズ理論に挫折しないための数学 - 光成 滋生, 竹迫 良範 - Amazon</a></li>\n  <li><a href=\"http://d.hatena.ne.jp/rkmt/20140114/1389687306\" target=\"_blank\">自分の英語文書をマイニングして次に学ぶべき単語リストを自動生成する方法(暦本式語彙増強法) - NextReality</a></li>\n  <li><a href=\"https://blogs.msdn.microsoft.com/wsl/\" target=\"_blank\">Windows Subsystem for Linux – The underlying technology enabling the Windows Subsystem for Linux</a></li>\n  <li><a href=\"http://bussorenre.hatenablog.jp/entry/2018/05/23/231732\" target=\"_blank\">windows subsystem for Linux で 困ったこととその解決法 - bussorenre Laboratory</a></li>\n  <li><a href=\"http://www.itmedia.co.jp/pcuser/articles/1508/27/news042.html\" target=\"_blank\">Windows 10の「コマンドプロンプト」は“コピペ”を手に入れ大幅進化 - ITmedia PC USER</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/3"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/3.mp3",
+        "@length": 41510840,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Ryo Matsumotoさんをゲストに迎えて、コンテキストスイッチ、社会人の学び直し、Windowsの開発環境などについて話しました。",
+      "itunes:duration": "00:43:03",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "2. No More Tofu; No More Natto",
+      "link": "https://mosa.fm/2",
+      "pubDate": "Thu, 17 May 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"https://vuepress.vuejs.org/\" target=\"_blank\">VuePress</a></li>\n  <li><a href=\"https://012.vuejs.org/guide/best-practices.html\" target=\"_blank\">Tips &amp; Best Practices - vue.js</a></li>\n  <li><a href=\"https://github.com/SimulatedGREG/electron-vue\" target=\"_blank\">SimulatedGREG/electron-vue</a></li>\n  <li><a href=\"https://prettier.io/\" target=\"_blank\">Prettier · Opinionated Code Formatter</a></li>\n  <li><a href=\"https://coin-q.jp/\" target=\"_blank\">CoinQ[コインキュー] - 仮想通貨に特化したQ&amp;Aサービス</a></li>\n  <li><a href=\"https://fonts.google.com/specimen/Noto+Sans\" target=\"_blank\">Noto Sans - Google Fonts</a></li>\n  <li><a href=\"https://aws.amazon.com/jp/blogs/news/aws-and-the-general-data-protection-regulation/\" target=\"_blank\">AWS と EU の一般データ保護規則 (GDPR) - Amazon Web Services ブログ</a></li>\n  <li><a href=\"https://blog.craftz.dog/gdpr-a-practical-guide-for-developers-24f94f2fce34\" target=\"_blank\">EU一般データ保護規則(GDPR)への対応に向けたやるべき事まとめ – 週休７日で働きたい</a></li>\n  <li><a href=\"https://techblog.bozho.net/gdpr-practical-guide-developers/\" target=\"_blank\">GDPR - A Practical Guide For Developers - Bozho’s tech blog</a></li>\n  <li><a href=\"https://code.visualstudio.com/\" target=\"_blank\">Visual Studio Code - Code Editing. Redefined</a></li>\n  <li><a href=\"https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/\" target=\"_blank\">Introducing Visual Studio IntelliCode - The Visual Studio Blog</a></li>\n  <li><a href=\"https://www.netflix.com/title/80178726\" target=\"_blank\">DOPE - Netflix original</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/2"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/2.mp3",
+        "@length": 59872205,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Takashi Nakagawaさんをゲストに迎えて、Vue.jsのエコシステム、GDPR、育児などについて話しました。",
+      "itunes:duration": "01:02:02",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "1. The Social Network as a BGM",
+      "link": "https://mosa.fm/1",
+      "pubDate": "Mon, 14 May 2018 00:00:00 +0900",
+      "description": "<h2 id=\"関連リンク\">関連リンク</h2>\n\n<ul>\n  <li><a href=\"http://techlife.cookpad.com/entry/2018/04/18/180000\" target=\"_blank\">ReactNativeプロジェクトのAndroid環境を整備する - クックパッド開発者ブログ</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/B01M70KAK0/\" target=\"_blank\">天才たちの日課: クリエイティブな人々の必ずしもクリエイティブでない日々 - amazon.co.jp</a></li>\n  <li><a href=\"http://www.itmedia.co.jp/news/articles/1804/26/news067.html\" target=\"_blank\">Google、タスク管理アプリ「Google ToDo リスト」公開 - ITmedia NEWS</a></li>\n  <li><a href=\"https://www.wunderlist.com/blog/our-future-wunderlist-joins-microsoft/\" target=\"_blank\">Our Future, Wunderlist Joins Microsoft</a></li>\n  <li><a href=\"http://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye\" target=\"_blank\">It’s almost time to say goodbye - Sunrise</a></li>\n  <li><a href=\"https://get.google.com/spaces/\" target=\"_blank\">Spaces</a></li>\n  <li><a href=\"https://twitter.com/i/moments/993010089324957696\" target=\"_blank\">ソーシャル・ネットワーク</a></li>\n  <li><a href=\"https://yomefm.github.io/episode/10\" target=\"_blank\">10. 『君の名は。』特典映像と、自尊心に釣り合う成果（15:52）- yome.fm</a></li>\n  <li><a href=\"https://twitter.com/mosafmhq\" target=\"_blank\">@mosafmhq</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://mosa.fm/1"
+      },
+      "enclosure": {
+        "@url": "https://mosa.fm/audio/1.mp3",
+        "@length": 47496678,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Shoya Ishimaru",
+      "itunes:subtitle": "Kazuki Yoshidaさんをゲストに迎えて、React Native、天才たちの日課、作業中のBGMなどについて話しました。",
+      "itunes:duration": "00:49:26",
+      "itunes:explicit": "no"
+    }
+  ]
+}

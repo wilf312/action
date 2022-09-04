@@ -306,3 +306,28 @@
           # 狭くて浅いやつら 漫画（マンガ）・ゲーム・映画・アニメの感想
           echo 'https://semaasa.net/feed/podcast'
           curl https://semaasa.net/feed/podcast --compressed > rss/%E7%8B%AD%E6%B5%85.xml
+
+          # mozaic.fm
+          echo 'http://feed.mozaic.fm/'
+          curl http://feed.mozaic.fm/ --compressed > rss/mozaicfm.xml
+
+          # mosa.fm
+          echo 'https://mosa.fm/feed.xml'
+          curl https://mosa.fm/feed.xml --compressed > rss/mosafm.xml
+
+          # dex.fm
+          echo 'https://dex.fm/rss'
+          curl https://dex.fm/rss --compressed > rss/dexfm.xml
+
+          # #strobofm
+          echo 'https://feeds.feedburner.com/strobofm'
+          curl https://feeds.feedburner.com/strobofm --compressed > rss/strobofm.xml
+
+          # engineer meeting podcast
+          echo 'https://engineer-meeting.tumblr.com/rss'
+          curl https://engineer-meeting.tumblr.com/rss --compressed > rss/engineermeetingpodcast.xml
+
+
+          # バイリンガルニュース (Bilingual News)
+          echo 'https://bilingualnews.jp/feed/'
+          curl https://bilingualnews.jp/feed/ --compressed > rss/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.xml
