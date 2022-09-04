@@ -478,6 +478,48 @@ export const urlList: UrlListItem[] = [
     hash: "狭浅",
     url: "https://semaasa.net/feed/podcast",
   },
+
+  {
+    name: "mozaic.fm",
+    hash: "mozaicfm",
+    url: "http://feed.mozaic.fm/",
+  },
+
+  {
+    name: "mosa.fm",
+    hash: "mosafm",
+    url: "https://mosa.fm/feed.xml",
+  },
+
+  {
+    name: "dex.fm",
+    hash: "dexfm",
+    url: "https://dex.fm/rss",
+  },
+
+  {
+    name: "#strobofm",
+    hash: "strobofm",
+    url: "https://feeds.feedburner.com/strobofm",
+  },
+
+  {
+    name: "engineer meeting podcast",
+    hash: "engineermeetingpodcast",
+    url: "https://engineer-meeting.tumblr.com/rss",
+  },
+
+  {
+    name: "しがないラジオ",
+    hash: "しがないラジオ",
+    url: "https://feeds.soundcloud.com/users/soundcloud:users:294673416/sounds.rss",
+  },
+
+  {
+    name: "バイリンガルニュース (Bilingual News)",
+    hash: "バイリンガルニュース",
+    url: "https://bilingualnews.jp/feed/",
+  },
 ];
 
 /**
