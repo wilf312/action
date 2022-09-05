@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=625951983",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=626854818",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Wed, 31 Aug 2022 04:28:40 +0000",
-  "lastBuildDate": "Wed, 31 Aug 2022 04:28:40 +0000",
+  "pubDate": "Mon, 05 Sep 2022 06:12:51 +0000",
+  "lastBuildDate": "Mon, 05 Sep 2022 06:12:51 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1337858365"
+      },
+      "title": "890「御手洗家、炎上する」はめちゃくちゃ面白い",
+      "pubDate": "Mon, 05 Sep 2022 13:00:19 +0000",
+      "link": "https://soundcloud.com/dongurifm/890a",
+      "itunes:duration": "00:21:35",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "オススメのマンガ、ブラスバンドについて話しました。\n\n御手洗家、炎上する\nhttps://amzn.to/3cKhsIc\n\nしょせん他人事ですから ～とある弁護士の本音の仕事～ 1 (黒蜜コミックス) https://amzn.to/3KKBVcx @amazonより\n\n高校野球を100倍楽しむ　ブラバン甲子園大研究 (文春文庫) https://amzn.to/3CSMg4i\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "オススメのマンガ、ブラスバンドについて話しました。\n\n御手洗家、炎上する\nhttps://amzn…",
+      "description": "オススメのマンガ、ブラスバンドについて話しました。\n\n御手洗家、炎上する\nhttps://amzn.to/3cKhsIc\n\nしょせん他人事ですから ～とある弁護士の本音の仕事～ 1 (黒蜜コミックス) https://amzn.to/3KKBVcx @amazonより\n\n高校野球を100倍楽しむ　ブラバン甲子園大研究 (文春文庫) https://amzn.to/3CSMg4i\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1337858365-dongurifm-890a.mp3",
+        "@length": 20734536,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000541702818-8eoi1g-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/625951983"
-      },
-      "title": "390 公開収録イベントやります。よかったら来てください。",
-      "pubDate": "Fri, 24 May 2019 15:57:55 +0000",
-      "link": "https://soundcloud.com/dongurifm/390a",
-      "itunes:duration": "00:09:32",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "イベントについて話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリFM』×『社長とモンゴルナイフ』公開コラボ収録 https://koenowa02.peatix.com/ @PeatixJPさんから\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "イベントについて話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリ…",
-      "description": "イベントについて話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリFM』×『社長とモンゴルナイフ』公開コラボ収録 https://koenowa02.peatix.com/ @PeatixJPさんから\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/625951983-dongurifm-390a.mp3",
-        "@length": 9154141,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000540851943-lb5ued-t3000x3000.jpg",
         "#text": null
       }
     }
