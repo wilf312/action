@@ -25,6 +25,48 @@
   "itunes:type": "episodic",
   "item": [
     {
+      "title": "79. BigQuery と D.Node w/ g_suzutatsu",
+      "description": "<p>D.Nodeのsuzutatsuさんをゲストに、BigQueryの基本、BigQueryの内部、最近のアップデート、D.Nodeなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>BigQueryとは？</li>\n<li>データウェアハウス(DWH)とは？</li>\n<li>データウェアハウスとRDBとの違いは？</li>\n<li>BigQueryの利用フロー・方法</li>\n<li>RDBの変更をBigQueryに反映するユースケース</li>\n<li>BigQueryと併用されるBIツール</li>\n<li>Tableau</li>\n<li>Google データポータル</li>\n<li>BigQuery の内部アーキテクチャは？</li>\n<li>Compute と Storage</li>\n<li><a href=\"https://cloud.google.com/blog/ja/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system\">Colossus</a> とは？</li>\n<li><a href=\"https://www.notion.so/fukabori-dnote-shownote-f69e7d45d3d44a64a7cbf2072f9f3c64\">Dremel</a> とは？</li>\n<li>Slot というCPUとメモリを抽象化した単位</li>\n<li>分散メモリとは？</li>\n<li>分割統治法</li>\n<li>最近の BiqQuery の進化で面白いところは？</li>\n<li><a href=\"https://cloud.google.com/bigquery/docs/materialized-views-intro?hl=ja\">BigQuery の マテリアライズドビュー</a></li>\n<li>そもそもマテリアライズドビュー（マテビュー）の一般的な意味とは？</li>\n<li>マテリアライズドビュー利用時の注意点とは？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node</a> とは？</li>\n<li>suzutatsuさんのお仕事内容</li>\n<li>社内にはどんな人が多い？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node 採用ページ</a></li>\n</ul>\n<h2 id=\"-\">エピソード提供スポンサー</h2>\n<ul>\n<li><a href=\"https://www.dnode.cloud/join\">デロイト トーマツ ノード合同会社(D.Node)</a></li>\n</ul>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/080_qEHby.mp3"
+      },
+      "enclosure": {
+        "@url": "https://r.pitpa.jp/episodes/01gc5ek16gxtk98sq4w00dx7zs.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "pubDate": "Mon, 05 Sep 2022 08:50:18 +0900",
+      "media:content": [
+        {
+          "@url": "https://r.pitpa.jp/episodes/01gc5ek16gxtk98sq4w00dx7zs.mp3",
+          "@type": "audio/mpeg",
+          "media:player": {
+            "@url": "https://pitpa.jp/player/fukabori/episodes/11213/embedded",
+            "#text": null
+          }
+        },
+        {
+          "@url": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+          "@type": "image/png",
+          "#text": null
+        }
+      ],
+      "itunes:author": "iwashi",
+      "itunes:image": {
+        "@href": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+        "#text": null
+      },
+      "itunes:duration": "00:39:21",
+      "itunes:explicit": "no",
+      "itunes:subtitle": "<p>D.Nodeのsuzutatsuさんをゲストに、BigQueryの基本、BigQueryの内部、最近のアップデート、D.Nodeなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>BigQueryとは？</li>\n<li>データウェアハウス(DWH)とは？</li>\n<li>データウェアハウスとRDBとの違いは？</li>\n<li>BigQueryの利用フロー・方法</li>\n<li>RDBの変更をBigQueryに反映するユースケース</li>\n<li>BigQueryと併用されるBIツール</li>\n<li>Tableau</li>\n<li>Google データポータル</li>\n<li>BigQuery の内部アーキテクチャは？</li>\n<li>Compute と Storage</li>\n<li><a href=\"https://cloud.google.com/blog/ja/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system\">Colossus</a> とは？</li>\n<li><a href=\"https://www.notion.so/fukabori-dnote-shownote-f69e7d45d3d44a64a7cbf2072f9f3c64\">Dremel</a> とは？</li>\n<li>Slot というCPUとメモリを抽象化した単位</li>\n<li>分散メモリとは？</li>\n<li>分割統治法</li>\n<li>最近の BiqQuery の進化で面白いところは？</li>\n<li><a href=\"https://cloud.google.com/bigquery/docs/materialized-views-intro?hl=ja\">BigQuery の マテリアライズドビュー</a></li>\n<li>そもそもマテリアライズドビュー（マテビュー）の一般的な意味とは？</li>\n<li>マテリアライズドビュー利用時の注意点とは？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node</a> とは？</li>\n<li>suzutatsuさんのお仕事内容</li>\n<li>社内にはどんな人が多い？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node 採用ページ</a></li>\n</ul>\n<h2 id=\"-\">エピソード提供スポンサー</h2>\n<ul>\n<li><a href=\"https://www.dnode.cloud/join\">デロイト トーマツ ノード合同会社(D.Node)</a></li>\n</ul>",
+      "itunes:summary": "<p>D.Nodeのsuzutatsuさんをゲストに、BigQueryの基本、BigQueryの内部、最近のアップデート、D.Nodeなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>BigQueryとは？</li>\n<li>データウェアハウス(DWH)とは？</li>\n<li>データウェアハウスとRDBとの違いは？</li>\n<li>BigQueryの利用フロー・方法</li>\n<li>RDBの変更をBigQueryに反映するユースケース</li>\n<li>BigQueryと併用されるBIツール</li>\n<li>Tableau</li>\n<li>Google データポータル</li>\n<li>BigQuery の内部アーキテクチャは？</li>\n<li>Compute と Storage</li>\n<li><a href=\"https://cloud.google.com/blog/ja/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system\">Colossus</a> とは？</li>\n<li><a href=\"https://www.notion.so/fukabori-dnote-shownote-f69e7d45d3d44a64a7cbf2072f9f3c64\">Dremel</a> とは？</li>\n<li>Slot というCPUとメモリを抽象化した単位</li>\n<li>分散メモリとは？</li>\n<li>分割統治法</li>\n<li>最近の BiqQuery の進化で面白いところは？</li>\n<li><a href=\"https://cloud.google.com/bigquery/docs/materialized-views-intro?hl=ja\">BigQuery の マテリアライズドビュー</a></li>\n<li>そもそもマテリアライズドビュー（マテビュー）の一般的な意味とは？</li>\n<li>マテリアライズドビュー利用時の注意点とは？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node</a> とは？</li>\n<li>suzutatsuさんのお仕事内容</li>\n<li>社内にはどんな人が多い？</li>\n<li><a href=\"https://www.dnode.cloud/join\">D.Node 採用ページ</a></li>\n</ul>\n<h2 id=\"-\">エピソード提供スポンサー</h2>\n<ul>\n<li><a href=\"https://www.dnode.cloud/join\">デロイト トーマツ ノード合同会社(D.Node)</a></li>\n</ul>",
+      "itunes:title": "79. BigQuery と D.Node w/ g_suzutatsu",
+      "itunes:episodeType": "full",
+      "podcast:episode": 80
+    },
+    {
       "title": "78. プロジェクトスプリント（後編）w/ motoi, kedamatti",
       "description": "<p>プロジェクトスプリント、ホラクラシー、定例会議の進め方、「お尻が痛い」からつながる改善などについて語っていただいたエピソードです。</p>\n<ul>\n<li><a href=\"https://www.projectsprint.org/\">プロジェクトスプリント</a>とは？</li>\n<li>プロジェクトスプリントの作成経緯</li>\n<li>プロジェクトが上手く進んでいる兆候が定例会議にあった</li>\n<li>ホラクラシーとスクラム</li>\n<li>ホラクラシーとは？</li>\n<li>役割（ロール）と違和感（テンション）</li>\n<li>タクティカルミーティングとは</li>\n<li>役職（権限）と役割は関係がある？</li>\n<li>ホラクラシーとスクラムとの共通点は？</li>\n<li>自律的な行動を生まれやすくする仕組みを作る</li>\n<li>変化し続けるものを切り取ることで改善しやすくする</li>\n<li>上手くいっている定例会議とは何か？</li>\n<li>チームメンバの認識が揃って、次の行動が出る。次の行動にはメンバーの意見が反映されている。</li>\n<li>会議の分類（4目的 x 人数)</li>\n<li>書籍: <a href=\"https://amzn.to/3e2eUWi\">会議の進め方 / 高橋 誠</a></li>\n<li>プロジェクトのライフサイクルにどこにいるかで、会議の進め方にグラデーションがある</li>\n<li>プロジェクトの流れ・メンバーの腹落ち感をどうやって作るか？</li>\n<li>関係性によって「共有」のやり方を変える</li>\n<li>書籍: <a href=\"https://amzn.to/3CGf7bR\">センスメーキング イン オーガニゼーションズ / カール.E.ワイク</a></li>\n<li>プロジェクトスプリントを具体的にどう進めていくのか？</li>\n<li>書籍: <a href=\"https://amzn.to/3QUvaHu\">チームトポロジー　価値あるソフトウェアをすばやく届ける適応型組織設計</a></li>\n<li>会議体をAPIとして捉える</li>\n<li><a href=\"https://blog.copilot.jp/\">COPILOT BLOG</a></li>\n<li>RPC: Remote Procedure Call</li>\n<li>会議の伴走方法は？</li>\n<li>会議体の変更めんどくさい問題</li>\n<li>会議体を見直す変更タイミングはいつ？</li>\n<li>テンショントリアージ</li>\n<li>「お尻が痛い」</li>\n<li>「何が必要ですか？」 / What do you need?”</li>\n<li>プロジェクトスプリントは <a href=\"https://github.com/copilot-jp/project-sprint\">OSS公開中</a></li>\n<li><a href=\"https://copilot.jp/recruit/\">採用 株式会社コパイロツト</a></li>\n<li><a href=\"https://supergoodmeetings.com/\">SuperGoodMeetings</a></li>\n<li><a href=\"https://uniba.jp/join.html\">採用 ユニバ株式会社</a></li>\n</ul>",
       "guid": {
