@@ -518,7 +518,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "バイリンガルニュース (Bilingual News)",
     hash: "バイリンガルニュース",
-    url: "https://bilingualnews.jp/feed/",
+    url: "https://feeds.libsyn.com/46528/rss",
   },
 ];
 
