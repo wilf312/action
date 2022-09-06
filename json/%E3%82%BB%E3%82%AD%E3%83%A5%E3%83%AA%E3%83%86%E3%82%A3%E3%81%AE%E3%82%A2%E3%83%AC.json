@@ -8,12 +8,31 @@
   },
   "link": "https://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Sun, 28 Aug 2022 16:23:59 +0000",
+  "lastBuildDate": "Mon, 05 Sep 2022 16:02:38 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
   "generator": "https://wordpress.org/?v=6.0.2",
   "item": [
+    {
+      "title": "第148回 共存・共栄・共有！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1303",
+      "dc:creator": "ntsuji",
+      "pubDate": "Tue, 06 Sep 2022 20:00:28 +0000",
+      "category": "podcast",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1303"
+      },
+      "description": "Tweet  【関連記事】 ・自分の行っているセキュリティ関連の情報収集 – ドキュメン[...]",
+      "content:encoded": "<div id=\"tweetbutton1303\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1303&text=%E7%AC%AC148%E5%9B%9E%20%E5%85%B1%E5%AD%98%E3%83%BB%E5%85%B1%E6%A0%84%E3%83%BB%E5%85%B1%E6%9C%89%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1303\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://benevolent0505.hatenablog.com/entry/2022/08/29/170000\">自分の行っているセキュリティ関連の情報収集 – ドキュメントを見たほうが早い</a><br />\n・<a href=\"https://blog.netlab.360.com/some_details_of_the_ddos_attacks_targeting_ukraine_and_russia_in_recent_days/\">Some details of the DDoS attacks targeting Ukraine and Russia in recent days</a><br />\n・<a href=\"https://plaid.co.jp/news/20220829/\">「Slack」における当社関係者のメールアドレス等漏えいに関するお知らせ</a><br />\n・<a href=\"https://slack.com/intl/ja-jp/enterprise-key-management\">Slack のエンタープライズ向け暗号化キー管理 | Slack EKM | Slack</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/\">LockBit ransomware blames Entrust for DDoS attacks on leak sites</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-gets-aggressive-with-triple-extortion-tactic/\">LockBit ransomware gang gets aggressive with triple-extortion tactic</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/shared-folder.png\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/shared-folder.png\" alt=\"\" width=\"64\" height=\"64\" class=\"alignnone size-full wp-image-1306\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>スーツ欲しかってん。三人でスーツもいいかも。適正な夏。ランニングのお供にも。情報収集方法の共有ありがとうございます。名前はまだない。山のような亜種をすべて見られないことが前提。Booter, Stresserとは。その裏側にはIoTボットへのC2がいるってことがよくある。やばいやつほど深く調べないと分からない状況。ユニークな攻撃手法で広がるので見つかりにくい。今までと異なる傾向。稼働率100%のDDoS基盤。インフラとその利用者は別。持ってる情報へのアプローチの共有。可視化から入るのもいいのでは。そこが情報漏洩したのかと思いきや。事実発覚ではなくある程度動いてから。タイムライン的にはちょっと間空いてるのかな。組織外のメアドも追加ででてきたのでしょうか。連絡手段はメールだけなのか。寝耳に水感。空白は避けたい。ハックバック。繋がらないというか不安定なのは観測されていました。ミラーも軒並み。UserAgentにメッセージがあるパターン。アクティブなのか奥ゆかしいのか分からんDDoS。LockBitの掲げた再発防止策。根岸さんなんでも知ってるなぁ。効果のあるハックバックもある。こないだ高橋名人がテレビに出てました。ニヤニヤ止まりは見えない。「とっとと寝ろよ」いただきました。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年09月04日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_220906_meijin.mp3",
+        "@length": 33889557,
+        "@type": "audio/mpeg",
+        "#text": null
+      }
+    },
     {
       "title": "第147回 ゲームもやろう！過去比較もしよう！期待しよう！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1296",
@@ -181,25 +200,6 @@
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_220628_nndknd.mp3",
         "@length": 31619781,
-        "@type": "audio/mpeg",
-        "#text": null
-      }
-    },
-    {
-      "title": "第138回 あるある募集と謎草プロジェクト始動！スペシャル",
-      "link": "https://www.tsujileaks.com/?p=1237",
-      "dc:creator": "ntsuji",
-      "pubDate": "Mon, 20 Jun 2022 20:00:08 +0000",
-      "category": "podcast",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://www.tsujileaks.com/?p=1237"
-      },
-      "description": "Tweet  【関連記事】 ・Password policies of most top websi[...]",
-      "content:encoded": "<div id=\"tweetbutton1237\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237&text=%E7%AC%AC138%E5%9B%9E%20%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E5%8B%9F%E9%9B%86%E3%81%A8%E8%AC%8E%E8%8D%89%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%A7%8B%E5%8B%95%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1237\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://passwordpolicies.cs.princeton.edu/\">Password policies of most top websites fail to follow best practices</a><br />\n・<a href=\"https://github.com/dropbox/zxcvbn\">GitHub – dropbox/zxcvbn: Low-Budget Password Strength Estimation</a><br />\n・<a href=\"https://www.cybersolutions.co.jp/news/20220606/\">20代は8％しか上司に報告しない！？ビジネスメールの誤送信と対応の実態調査を発表新入社員から企業情報が漏洩するリスクに要注意 | 法人向けクラウドメールサービスのサイバーソリューションズ</a><br />\n・<a href=\"https://www.bourbon.co.jp/alfort/\">ブルボン アルフォートの公式サイト</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg\" alt=\"\" width=\"225\" height=\"300\" class=\"alignnone size-medium wp-image-1238\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/nazokusa-225x300.jpg 225w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-768x1024.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/nazokusa-1152x1536.jpg 1152w, https://www.tsujileaks.com/wp-content/uploads/nazokusa.jpg 1352w\" sizes=\"(max-width: 225px) 100vw, 225px\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>きゅうり覚えてますか。こっそりピーマン。謎草生えてきた。1より2が面白い。どっちがメリットがあるか。時間の流れによる変化もある。メール訓練の話大好き。あるあるネタのお便り待ってます！過去のアレもお役に立てているようで何よりです。パスワードづく。ベストプラクティスってどんくらい守られているのか。無理難題を押し付けると抜け道を探し始める。折角機能としてあるのにメッセージが悪いケース。ちゃんとやってる風はあかん。何もしてないより良くない。正しい知識や技術だけではダメで仕組みが必要。消費税より少ない報告率。誤送信とは。記事タイトルにある言葉の定義が自分の思うものとは限らない。なくせないから放り投げるのはよくない。精神論のみに頼ってはいけないけど、不要なものではない。iPadのサイズに例えたらめちゃくちゃ分かりやすかった。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年06月18日</p>",
-      "enclosure": {
-        "@url": "https://www.tsujileaks.com/media/are_220620_hamoge.mp3",
-        "@length": 30994837,
         "@type": "audio/mpeg",
         "#text": null
       }
