@@ -6,8 +6,10 @@ const output = async (item) => {
   // xmlの読み込み
   const file = await Deno.readTextFile(`rss/${item.hashEncoded}.xml`);
 
+  const cleanedFile = file.replaceAll(/\u2028/gi, "");
+
   // xml to json
-  const jsObj = xml.parse(file, { debug: false });
+  const jsObj = xml.parse(cleanedFile, { debug: false });
 
   // json の書き出し
 
@@ -30,13 +32,16 @@ const output = async (item) => {
 
 const main = async () => {
   const urlList = getEncodedUrl();
-  const writePromiseList = [];
-  for (var i = urlList.length - 1; i >= 0; i--) {
-    const item = urlList[i];
-    writePromiseList.push(output(item));
-  }
+  await output(urlList[0]);
+  console.log("end");
 
-  await Promise.allSettled(writePromiseList);
+  const writePromiseList = [];
+  // for (var i = urlList.length - 1; i >= 0; i--) {
+  //   const item = urlList[i];
+  //   writePromiseList.push(output(item));
+  // }
+
+  // await Promise.allSettled(writePromiseList);
 };
 
 main();
