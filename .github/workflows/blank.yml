@@ -183,8 +183,8 @@ jobs:
           curl https://anchor.fm/s/367f0040/podcast/rss --compressed > rss/TodayILearned.xml
 
           # セキュリティのアレ
-          echo 'https://www.tsujileaks.com/?feed=rss2'
-          curl https://www.tsujileaks.com/?feed=rss2 --compressed > rss/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC.xml
+          echo 'https://www.tsujileaks.com/?feed=podcast'
+          curl https://www.tsujileaks.com/?feed=podcast --compressed > rss/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC.xml
 
           # 46fm
           echo 'http://46fm.seike460.com/rss.xml'
@@ -381,8 +381,8 @@ jobs:
 
 
           # バイリンガルニュース (Bilingual News)
-          echo 'https://bilingualnews.jp/feed/'
-          curl https://bilingualnews.jp/feed/ --compressed > rss/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.xml
+          echo 'https://feeds.libsyn.com/46528/rss'
+          curl https://feeds.libsyn.com/46528/rss --compressed > rss/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.xml
 
 
           # 書き出したxmlをJSONに変換
