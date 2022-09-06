@@ -212,7 +212,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "セキュリティのアレ",
     hash: "セキュリティのアレ",
-    url: "https://www.tsujileaks.com/?feed=rss2",
+    url: "https://www.tsujileaks.com/?feed=podcast",
   },
 
   {
