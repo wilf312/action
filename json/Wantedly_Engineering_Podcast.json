@@ -64,11 +64,13 @@
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
         "#text": null
       },
+      "itunes:season": 1,
+      "itunes:episode": 26,
       "itunes:episodeType": "full"
     },
     {
       "title": "翻訳パラメーターに型を導入する hi18n の解説 w/ @qnighy",
-      "description": "<p><a href=\"https://www.wantedly.com/id/qnighy\">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>\n<ul>\n <li>https://www.wantedly.com/id/qnighy</li>\n <li>https://github.com/wantedly/hi18n</li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/400195\">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/402631\">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/403077\">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/399501\">hi18n (i18nライブラリ) の使い方</a></li>\n</ul>",
+      "description": "<p><a href=\"https://www.wantedly.com/id/qnighy\">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>\n<ul>\n <li>https://www.wantedly.com/id/qnighy</li>\n <li>https://github.com/wantedly/hi18n</li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/400195\">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/402631\">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/403077\">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/399501\">hi18n (i18nライブラリ) の使い方</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/hi18n--w-qnighy-e1logap",
       "guid": {
         "@isPermaLink": false,
@@ -82,18 +84,20 @@
         "@type": "audio/mpeg",
         "#text": null
       },
-      "itunes:summary": "<p><a href=\"https://www.wantedly.com/id/qnighy\">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>\n<ul>\n <li>https://www.wantedly.com/id/qnighy</li>\n <li>https://github.com/wantedly/hi18n</li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/400195\">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/402631\">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/403077\">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/399501\">hi18n (i18nライブラリ) の使い方</a></li>\n</ul>",
+      "itunes:summary": "<p><a href=\"https://www.wantedly.com/id/qnighy\">@qnighy</a> が作っている hi18n という i18n ライブラリの設計や思想について聞きました。</p>\n<ul>\n <li>https://www.wantedly.com/id/qnighy</li>\n <li>https://github.com/wantedly/hi18n</li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/400195\">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/402631\">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/403077\">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>\n  <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/399501\">hi18n (i18nライブラリ) の使い方</a></li>\n</ul>",
       "itunes:explicit": "No",
       "itunes:duration": "01:03:36",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
         "#text": null
       },
+      "itunes:season": 1,
+      "itunes:episode": 25,
       "itunes:episodeType": "full"
     },
     {
       "title": "#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu",
-      "description": "<p>kyncon の一員として ISUCON 本選出場を決めた <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に予選突破の要因を聞きました</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify\">https://github.com/kyncon/isucon12-qualify</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile\">鬼のようなMakefile</a></li>\n <li><a href=\"https://github.com/jakkcer/alpdiff\">https://github.com/jakkcer/alpdiff</a></li>\n  <li><a href=\"https://isucon.net/archives/56838181.html\">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>\n  <li><a href=\"https://isucon.net/archives/56838276.html\">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu\">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>\n</ul>",
+      "description": "<p>kyncon の一員として ISUCON 本選出場を決めた <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に予選突破の要因を聞きました</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify\">https://github.com/kyncon/isucon12-qualify</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile\">鬼のようなMakefile</a></li>\n <li><a href=\"https://github.com/jakkcer/alpdiff\">https://github.com/jakkcer/alpdiff</a></li>\n <li><a href=\"https://isucon.net/archives/56838181.html\">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>\n <li><a href=\"https://isucon.net/archives/56838276.html\">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu\">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4",
       "guid": {
         "@isPermaLink": false,
@@ -107,13 +111,15 @@
         "@type": "audio/mpeg",
         "#text": null
       },
-      "itunes:summary": "<p>kyncon の一員として ISUCON 本選出場を決めた <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に予選突破の要因を聞きました</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify\">https://github.com/kyncon/isucon12-qualify</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile\">鬼のようなMakefile</a></li>\n <li><a href=\"https://github.com/jakkcer/alpdiff\">https://github.com/jakkcer/alpdiff</a></li>\n  <li><a href=\"https://isucon.net/archives/56838181.html\">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>\n  <li><a href=\"https://isucon.net/archives/56838276.html\">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu\">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>\n</ul>",
+      "itunes:summary": "<p>kyncon の一員として ISUCON 本選出場を決めた <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に予選突破の要因を聞きました</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify\">https://github.com/kyncon/isucon12-qualify</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile\">鬼のようなMakefile</a></li>\n <li><a href=\"https://github.com/jakkcer/alpdiff\">https://github.com/jakkcer/alpdiff</a></li>\n <li><a href=\"https://isucon.net/archives/56838181.html\">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>\n <li><a href=\"https://isucon.net/archives/56838276.html\">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu\">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>\n</ul>",
       "itunes:explicit": "No",
       "itunes:duration": "00:51:32",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
         "#text": null
       },
+      "itunes:season": 1,
+      "itunes:episode": 24,
       "itunes:episodeType": "full"
     },
     {
@@ -139,11 +145,13 @@
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
         "#text": null
       },
+      "itunes:season": 1,
+      "itunes:episode": 23,
       "itunes:episodeType": "full"
     },
     {
       "title": "新人研修で話した Wantedly のアーキテクチャの話 w/ @Altech_2015",
-      "description": "<ul>\n <li>https://twitter.com/Altech_2015</li>\n <li><a href=\"https://speakerdeck.com/altech/wantedly-architecture-overview\">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv\">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>\n <li><a href=\"https://docs.wantedly.dev/introduction/technical-overview\"><strong>技術とアーキテクチャ</strong></a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io\">退職するつもりでコードを書け w/ @stomk_</a></li>\n</ul>",
+      "description": "<ul>\n <li>https://twitter.com/Altech_2015</li>\n <li><a href=\"https://speakerdeck.com/altech/wantedly-architecture-overview\">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv\">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>\n <li><a href=\"https://docs.wantedly.dev/introduction/technical-overview\"><strong>技術とアーキテクチャ</strong></a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io\">退職するつもりでコードを書け w/ @stomk_</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/Wantedly--w-Altech_2015-e1hnr68",
       "guid": {
         "@isPermaLink": false,
@@ -157,13 +165,15 @@
         "@type": "audio/mpeg",
         "#text": null
       },
-      "itunes:summary": "<ul>\n <li>https://twitter.com/Altech_2015</li>\n <li><a href=\"https://speakerdeck.com/altech/wantedly-architecture-overview\">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv\">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>\n <li><a href=\"https://docs.wantedly.dev/introduction/technical-overview\"><strong>技術とアーキテクチャ</strong></a></li>\n  <li><a href=\"https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io\">退職するつもりでコードを書け w/ @stomk_</a></li>\n</ul>",
+      "itunes:summary": "<ul>\n <li>https://twitter.com/Altech_2015</li>\n <li><a href=\"https://speakerdeck.com/altech/wantedly-architecture-overview\">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv\">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>\n <li><a href=\"https://docs.wantedly.dev/introduction/technical-overview\"><strong>技術とアーキテクチャ</strong></a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io\">退職するつもりでコードを書け w/ @stomk_</a></li>\n</ul>",
       "itunes:explicit": "No",
       "itunes:duration": "00:54:36",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg",
         "#text": null
       },
+      "itunes:season": 1,
+      "itunes:episode": 22,
       "itunes:episodeType": "full"
     },
     {
