@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "46: PKI成熟度モデルというものが議論されています",
+      "description": "<p>PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。</p>\n<p>雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。</p>\n<ul>\n <li>What is the PKI Maturity Model (PKIMM) and how can you contribute?</li>\n <li><a href=\"https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/\" rel=\"noreferrer noopener\" target=\"_blank\">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>\n</ul>",
+      "link": "https://anchor.fm/hitokuchipki/episodes/46-PKI-e1ngal4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "eb375990-4e63-4ec1-bde5-7fbeeadae8c4"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 07 Sep 2022 08:13:08 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/57206884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-7%2Fedf1cf52-09c1-a800-2449-49b8f8d30601.mp3",
+        "@length": 26578752,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。</p>\n<p>雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。</p>\n<ul>\n <li>What is the PKI Maturity Model (PKIMM) and how can you contribute?</li>\n <li><a href=\"https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/\" rel=\"noreferrer noopener\" target=\"_blank\">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:47:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 46,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "45: CTを使って脆弱なRSA鍵を調べる話と、夏と青春18きっぷの話",
       "description": "<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>\n<p>雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。</p>\n<ul>\n <li>Finding shared RSA factors in the Certificate Transparency logs<br>\n<a href=\"https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf</a></li>\n <li>青春18きっぷ<br>\n<a href=\"https://railway.jr-central.co.jp/tickets/youth18-ticket/\" rel=\"noreferrer noopener\" target=\"_blank\">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>\n</ul>",
       "link": "https://anchor.fm/hitokuchipki/episodes/45-CTRSA18-e1n5d7d",
