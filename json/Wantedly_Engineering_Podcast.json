@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "GoとRust - 並行プログラミング編 w/ @nasa_desu",
+      "description": "<p><a href=\"https://twitter.com/nasa_desu\">@nasa_desu</a> を読んで Go と rust の並行処理の違いから並行処理の基礎について教えてもらいました。</p>\n<ul>\n <li><a href=\"https://speakerdeck.com/nasa_desu/gotorust-bing-xing-chu-li-bian\">GoとRust - 並行処理編</a></li>\n <li><a href=\"https://zenn.dev/nasa/articles/compare_rust_go_concurrency\">GoとRust - 並行プログラミング編</a></li>\n</ul>",
+      "link": "https://anchor.fm/wantedly-dev/episodes/GoRust----w-nasa_desu-e1ng6bq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "79b8e9fd-7c2e-45fc-b6a0-f01d4296f62e"
+      },
+      "dc:creator": "Wantedly Engineering",
+      "pubDate": "Wed, 07 Sep 2022 09:00:14 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/64205bfc/podcast/play/57202490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-7%2F3a0e3a69-3d16-5669-cde2-50951487b307.mp3",
+        "@length": 82250941,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p><a href=\"https://twitter.com/nasa_desu\">@nasa_desu</a> を読んで Go と rust の並行処理の違いから並行処理の基礎について教えてもらいました。</p>\n<ul>\n <li><a href=\"https://speakerdeck.com/nasa_desu/gotorust-bing-xing-chu-li-bian\">GoとRust - 並行処理編</a></li>\n <li><a href=\"https://zenn.dev/nasa/articles/compare_rust_go_concurrency\">GoとRust - 並行プログラミング編</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:57:06",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 27,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "#ISUCON 12 本選 - 実質2位でした (fail) w/ @bubusu_ryu",
       "description": "<p>kyncon の一員として ISUCON 本選に出場した <a href=\"https://twitter.com/bubusu_ryu\">@bubusu_ryu</a> に本選の感想を聞きました。</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/id/bubusu\">山岸 立のプロフィール - Wantedly</a></li>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/ISUCON--w-bubusu_ryu-e1lllp4/a-a8a11kj\">#ISUCON の必勝法はユーザーストーリーの理解 w/ @bubusu_ryu</a></li>\n <li><a href=\"https://github.com/kyncon/isucon12-final\">https://github.com/kyncon/isucon12-final</a></li>\n <li><a href=\"https://isucon.net/archives/56923294.html\" target=\"_blank\">ISUCON12 本選の結果発表と全チームのスコア : ISUCON公式Blog</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/ISUCON-12----2-fail-w-bubusu_ryu-e1n84jd",
