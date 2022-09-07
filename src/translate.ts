@@ -32,16 +32,14 @@ const output = async (item) => {
 
 const main = async () => {
   const urlList = getEncodedUrl();
-  await output(urlList[0]);
-  console.log("end");
 
   const writePromiseList = [];
-  // for (var i = urlList.length - 1; i >= 0; i--) {
-  //   const item = urlList[i];
-  //   writePromiseList.push(output(item));
-  // }
+  for (var i = urlList.length - 1; i >= 0; i--) {
+    const item = urlList[i];
+    writePromiseList.push(output(item));
+  }
 
-  // await Promise.allSettled(writePromiseList);
+  await Promise.allSettled(writePromiseList);
 };
 
 main();
