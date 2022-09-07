@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/todayilearnedfm</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 06 Sep 2022 10:25:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Sep 2022 00:05:09 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/367f0040/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Imai and Yusuke ]]></author>
 		<copyright><![CDATA[Imai and Yusuke ]]></copyright>
@@ -25,6 +25,60 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+		<item>
+			<title><![CDATA[59. zkEVMとはなにか]]></title>
+			<description><![CDATA[<p>Ethereumのスケーラビリティを補完する重要な技術と考えられているzkEVMについて、その技術的な仕組みや開発する各社の覇権争いについて話しました。</p>
+<ul>
+ <li>EVM <a href="https://ethereum.org/en/developers/docs/evm/#top">https://ethereum.org/en/developers/docs/evm/#top</a></li>
+ <li>Huff &amp; EVM basic <a href="https://docs.huff.sh/tutorial/evm-basics/#storage">https://docs.huff.sh/tutorial/evm-basics/#storage</a></li>
+ <li>EVMのopcode <a href="https://www.ethervm.io/">https://www.ethervm.io/</a></li>
+ <li>zkEVM Overview <a href="https://www.alchemy.com/overviews/zkevm">https://www.alchemy.com/overviews/zkevm</a></li>
+  <li>zkEVM in depth <a href="https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4">https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4</a></li>
+  <li>Polygon zkEVM<a href="https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/">https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/<br>
+</a><a href="https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics">https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics<br>
+</a></li>
+  <li>zksync 2.0 <a href="https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73">https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73</a></li>
+  <li>Scroll<a href="https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k">https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k<br>
+</a><a href="https://scroll.io/blog/zkEVM">https://scroll.io/blog/zkEVM<br>
+</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/todayilearnedfm/episodes/59--zkEVM-e1nfopi</link>
+			<guid isPermaLink="false">01d6e005-c300-44d0-a8a0-78059a31d50a</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Wed, 07 Sep 2022 00:03:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/57188594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-6%2F8419ca14-a194-b25b-dced-eeceda941e71.mp3" length="30753934" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Ethereumのスケーラビリティを補完する重要な技術と考えられているzkEVMについて、その技術的な仕組みや開発する各社の覇権争いについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;EVM &lt;a href=&quot;https://ethereum.org/en/developers/docs/evm/#top&quot;&gt;https://ethereum.org/en/developers/docs/evm/#top&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Huff &amp;amp; EVM basic &lt;a href=&quot;https://docs.huff.sh/tutorial/evm-basics/#storage&quot;&gt;https://docs.huff.sh/tutorial/evm-basics/#storage&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;EVMのopcode &lt;a href=&quot;https://www.ethervm.io/&quot;&gt;https://www.ethervm.io/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;zkEVM Overview &lt;a href=&quot;https://www.alchemy.com/overviews/zkevm&quot;&gt;https://www.alchemy.com/overviews/zkevm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;zkEVM in depth &lt;a href=&quot;https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4&quot;&gt;https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Polygon zkEVM&lt;a href=&quot;https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/&quot;&gt;https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/&lt;br&gt;
+&lt;/a&gt;&lt;a href=&quot;https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics&quot;&gt;https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics&lt;br&gt;
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;zksync 2.0 &lt;a href=&quot;https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73&quot;&gt;https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scroll&lt;a href=&quot;https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k&quot;&gt;https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k&lt;br&gt;
+&lt;/a&gt;&lt;a href=&quot;https://scroll.io/blog/zkEVM&quot;&gt;https://scroll.io/blog/zkEVM&lt;br&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO &amp;nbsp;&lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:37:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[58. WWDC 2022振り返り]]></title>
 			<description><![CDATA[<p>WWDC 2022のPlatforms State of the UnionをベースにAppleの提供するプラットフォームのアップデートについてお話しました。</p>
