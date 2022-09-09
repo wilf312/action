@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』",
+      "link": "https://uit-inside.linecorp.com/episode/130",
+      "pubDate": "Fri, 09 Sep 2022 09:00:00 GMT",
+      "description": "<p>LINEバイトのフロントエンドチームで最近実施されたReact 18へのアップグレードについて、＠spring_raining が @kazushikonosu に聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/130"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-react18-migration.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),kazushikonosu(kazushikonosu)",
+      "itunes:subtitle": "ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』",
+      "itunes:duration": "26:38",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode130.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.129『不要な export をまとめて掃除！みんながほしかった CLI ts-prune』",
       "link": "https://uit-inside.linecorp.com/episode/129",
       "pubDate": "Fri, 26 Aug 2022 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode031.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue",
-      "link": "https://uit-inside.linecorp.com/episode/30",
-      "pubDate": "Mon, 02 Dec 2019 09:15:00 GMT",
-      "description": "<p>LINE DEVELOPER DAY 2019 スピーカーである okazou に、@potato4d, @kotarok, @myakura の三人で登壇内容についての質問・座談会を実施しました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/30"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-030.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),Okazaki Akihiro(okazou),myakura(myakura),kotarok(kotarok)",
-      "itunes:subtitle": "ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue",
-      "itunes:duration": "42:12",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode030.png",
         "#text": null
       }
     }
