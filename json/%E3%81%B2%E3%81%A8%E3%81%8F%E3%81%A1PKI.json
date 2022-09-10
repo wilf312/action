@@ -42,6 +42,60 @@
   },
   "item": [
     {
+      "title": "48: BIMIの利用拡大とLet's EncryptがCRL発行を始める話、技術書典13に本を出した話",
+      "description": "BIMIの利用が広がっているようです。Yahoo! Japanが送信メールでBIMIに対応したとのニュースがありました。Tech blogにはBIMIの説明やトラブルシュートの様子が記載されており参考になりました。またLet's Encryptではいくつかのルートプログラムの要請により今まで発行していなかったCRLの発行を始めるとのこと。WebPKIの失効検証が大きく変化していますねという話をしました。\r\n\r\nまた、技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました。\r\n技術書典13 オンラインマーケット開催期間の2022/09/10～2022/09/25に、以下のURLから無料で入手できます。PKIの話と雑談という構成でかなりポッドキャストを再現できたと思います。頻出単語の用語集や図を使った脆弱性の解説、園芸や音楽の話を書きました。ぜひ見てみてください。今回の雑談でちょっと紹介しています。\r\n「ひとくちPKI Journal 1」\r\nhttps://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi\r\n\r\n\r\nYahoo! JAPAN がBIMIを導入\r\n\t• フィッシングメール対策として、Yahoo! JAPANから配信するメールにアイコンが表示される規格「BIMI」を導入 - ニュース - ヤフー株式会社\r\n\t• Yahoo! JAPAN がメールセキュリティ「BIMI」を導入するまでのお話 - Yahoo! JAPAN Tech Blog\r\n\r\nA New Life for Certificate Revocation Lists\r\n\t• https://letsencrypt.org/2022/09/07/new-life-for-crls.html\r\n\r\n技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました！\r\n\t• https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi",
+      "link": "https://anchor.fm/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "84848ac5-600c-42b0-9ecf-ecba376adf67"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Sat, 10 Sep 2022 04:05:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/57348588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-10%2F284948951-48000-1-93bef0b70af07.mp3",
+        "@length": 26376360,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "BIMIの利用が広がっているようです。Yahoo! Japanが送信メールでBIMIに対応したとのニュースがありました。Tech blogにはBIMIの説明やトラブルシュートの様子が記載されており参考になりました。またLet's Encryptではいくつかのルートプログラムの要請により今まで発行していなかったCRLの発行を始めるとのこと。WebPKIの失効検証が大きく変化していますねという話をしました。\r\n\r\nまた、技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました。\r\n技術書典13 オンラインマーケット開催期間の2022/09/10～2022/09/25に、以下のURLから無料で入手できます。PKIの話と雑談という構成でかなりポッドキャストを再現できたと思います。頻出単語の用語集や図を使った脆弱性の解説、園芸や音楽の話を書きました。ぜひ見てみてください。今回の雑談でちょっと紹介しています。\r\n「ひとくちPKI Journal 1」\r\nhttps://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi\r\n\r\n\r\nYahoo! JAPAN がBIMIを導入\r\n\t• フィッシングメール対策として、Yahoo! JAPANから配信するメールにアイコンが表示される規格「BIMI」を導入 - ニュース - ヤフー株式会社\r\n\t• Yahoo! JAPAN がメールセキュリティ「BIMI」を導入するまでのお話 - Yahoo! JAPAN Tech Blog\r\n\r\nA New Life for Certificate Revocation Lists\r\n\t• https://letsencrypt.org/2022/09/07/new-life-for-crls.html\r\n\r\n技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました！\r\n\t• https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:42:22",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 48,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "47: ChromeでEV証明書の失効検証もOCSPで確認しなくなる話",
+      "description": "OCSPが持つプライバシーへの懸念を理由の一つとして、Chrome106からはDVやOV証明書がすでにそうなっているようにEV証明書でもOSCPでの証明書失効検証を行わなくなるのとのこと。Webサーバー管理者から見るとOCSP staplingをやったほうがいいケースがありそうという話をしました。\r\nほか、OCSPのRFCって史上最悪級に読みにくいらしい、湖でカメを助けた、夏野菜の育成に失敗したことなどを話しました。\r\n\r\n• Revocation checking for EV server certificates in Chrome (google.com)\r\nhttps://groups.google.com/a/mozilla.org/g/dev-security-policy/c/S6A14e_X-T0/m/T4WxWgajAAAJ\r\n\r\n• 自分の行っているセキュリティ関連の情報収集 - ドキュメントを見たほうが早い (hatenablog.com)\r\nhttps://benevolent0505.hatenablog.com/entry/2022/08/29/170000\r\nひとくちPKIをご紹介いただきましてありがとうございます！",
+      "link": "https://anchor.fm/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "69d906dc-ab0d-4284-bde8-1ff84c002a4f"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Sat, 10 Sep 2022 03:59:13 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/57348526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-10%2F284948745-48000-1-379778b7ddaca.mp3",
+        "@length": 25542288,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "OCSPが持つプライバシーへの懸念を理由の一つとして、Chrome106からはDVやOV証明書がすでにそうなっているようにEV証明書でもOSCPでの証明書失効検証を行わなくなるのとのこと。Webサーバー管理者から見るとOCSP staplingをやったほうがいいケースがありそうという話をしました。\r\nほか、OCSPのRFCって史上最悪級に読みにくいらしい、湖でカメを助けた、夏野菜の育成に失敗したことなどを話しました。\r\n\r\n• Revocation checking for EV server certificates in Chrome (google.com)\r\nhttps://groups.google.com/a/mozilla.org/g/dev-security-policy/c/S6A14e_X-T0/m/T4WxWgajAAAJ\r\n\r\n• 自分の行っているセキュリティ関連の情報収集 - ドキュメントを見たほうが早い (hatenablog.com)\r\nhttps://benevolent0505.hatenablog.com/entry/2022/08/29/170000\r\nひとくちPKIをご紹介いただきましてありがとうございます！",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:35:26",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 47,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "46: PKI成熟度モデルというものが議論されています",
       "description": "<p>PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。</p>\n<p>雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。</p>\n<ul>\n <li>What is the PKI Maturity Model (PKIMM) and how can you contribute?</li>\n <li><a href=\"https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/\" rel=\"noreferrer noopener\" target=\"_blank\">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>\n</ul>",
       "link": "https://anchor.fm/hitokuchipki/episodes/46-PKI-e1ngal4",
