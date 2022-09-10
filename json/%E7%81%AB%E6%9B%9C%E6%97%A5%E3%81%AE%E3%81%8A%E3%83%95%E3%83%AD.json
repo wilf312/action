@@ -45,6 +45,31 @@
   },
   "item": [
     {
+      "title": ":has(), Infinite Scrolling, Topics API",
+      "description": "<p><a href=\"https://twitter.com/myakura/status/1565986899097178112\">https://twitter.com/myakura/status/1565986899097178112</a></p>\n<p><a href=\"https://www.nngroup.com/articles/infinite-scrolling-tips/\">Infinite Scrolling: When to Use It, When to Avoid It</a></p>\n<p><a href=\"https://blog.ojisan.io/i-hate-infinite-scroll/\">無限スクロールは考慮することが多い | blog.ojisan.io</a></p>\n<p><a href=\"https://udn.realityripple.com/docs/Web/Accessibility/ARIA/Roles/Feed_Role\">ARIA: feed role - Accessibility</a></p>\n<p><a href=\"https://w3c.github.io/aria-practices/examples/feed/feedDisplay.html\">Feed Display | WAI-ARIA Authoring Practices 1.2</a></p>\n<p><a href=\"https://twitter.com/ChromiumDev/status/1567133236102414341\">https://twitter.com/ChromiumDev/status/1567133236102414341</a></p>\n<p><a href=\"https://developer.chrome.com/ja/docs/privacy-sandbox/topics/\">Topics API - Chrome Developers</a></p>\n<p><a href=\"https://developer.chrome.com/ja/docs/privacy-sandbox/topics/#この-api-が必要な理由\">この API が必要な理由 Topics API - Chrome Developers</a></p>\n<p><a href=\"https://japan.googleblog.com/2022/01/topics-api.html\">Google Japan Blog: プライバシー サンドボックスの新しい Topics API について</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=p8_gFRNAUBg&t=9s\">Topics を紹介します。 | Privacy Sandbox - YouTube</a></p>",
+      "link": "https://anchor.fm/tue-ofuro/episodes/has--Infinite-Scrolling--Topics-API-e1nki04",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "85077fb8-8234-4563-8c86-de8c62bd84dc"
+      },
+      "dc:creator": "igtm, tmr, ymdarake",
+      "pubDate": "Sat, 10 Sep 2022 02:30:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/2b3dd74c/podcast/play/57345476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-10%2F5a8dafeb-5796-845d-20eb-d884b5d1756e.mp3",
+        "@length": 80675026,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p><a href=\"https://twitter.com/myakura/status/1565986899097178112\">https://twitter.com/myakura/status/1565986899097178112</a></p>\n<p><a href=\"https://www.nngroup.com/articles/infinite-scrolling-tips/\">Infinite Scrolling: When to Use It, When to Avoid It</a></p>\n<p><a href=\"https://blog.ojisan.io/i-hate-infinite-scroll/\">無限スクロールは考慮することが多い | blog.ojisan.io</a></p>\n<p><a href=\"https://udn.realityripple.com/docs/Web/Accessibility/ARIA/Roles/Feed_Role\">ARIA: feed role - Accessibility</a></p>\n<p><a href=\"https://w3c.github.io/aria-practices/examples/feed/feedDisplay.html\">Feed Display | WAI-ARIA Authoring Practices 1.2</a></p>\n<p><a href=\"https://twitter.com/ChromiumDev/status/1567133236102414341\">https://twitter.com/ChromiumDev/status/1567133236102414341</a></p>\n<p><a href=\"https://developer.chrome.com/ja/docs/privacy-sandbox/topics/\">Topics API - Chrome Developers</a></p>\n<p><a href=\"https://developer.chrome.com/ja/docs/privacy-sandbox/topics/#この-api-が必要な理由\">この API が必要な理由 Topics API - Chrome Developers</a></p>\n<p><a href=\"https://japan.googleblog.com/2022/01/topics-api.html\">Google Japan Blog: プライバシー サンドボックスの新しい Topics API について</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=p8_gFRNAUBg&amp;t=9s\">Topics を紹介します。 | Privacy Sandbox - YouTube</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:49:43",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "Bun, Zig/Rust, Next.js Conf, Chrome 105",
       "description": "<p id=\"f9bf5c11-5596-4d35-acc8-bb8ac638d3fd\" class=\"\"><a href=\"https://oven.sh/\">Oven: the company behind\n\t\t\t\t\tBun</a></p>\n\t\t\t<p id=\"e8e81cb1-9f3c-4cf4-87d1-4cb15f5be2a9\" class=\"\"><a\n\t\t\t\t\thref=\"https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html\">JavaScriptランタイム「Bun」が約9億円を調達、「Oven」社を設立。ホスティングやCIサービスなど計画\n\t\t\t\t\t－ Publickey</a></p>\n\t\t\t<p id=\"1a761bab-5f48-4060-a399-82e07dd877c3\" class=\"\"><a href=\"https://ziglang.org/ja/\">ホーム ⚡ Zig\n\t\t\t\t\tProgramming Language</a></p>\n\t\t\t<p id=\"043410d6-03dc-4f87-abe5-5838220665f7\" class=\"\"><a\n\t\t\t\t\thref=\"https://www.rust-lang.org/ja\">Rustプログラミング言語</a></p>\n\t\t\t<p id=\"db199633-e1d1-444f-aa91-76d5afae97d9\" class=\"\"><a href=\"https://swc.rs/\">Rust-based platform for the\n\t\t\t\t\tWeb – SWC</a></p>\n\t\t\t<p id=\"2398c418-4e32-461a-9841-e278fee8072b\" class=\"\"><a href=\"https://deno.land/\">Deno - A modern runtime\n\t\t\t\t\tfor JavaScript and TypeScript</a></p>\n\t\t\t<p id=\"876023b1-5a43-48c6-b802-27b5a296d6b0\" class=\"\"><a\n\t\t\t\t\thref=\"https://zenn.dev/hastur/scraps/06c2ff5bde0c10\">Rustがあるのに何でZig使うんですか？に対する解答</a></p>\n\t\t\t<p id=\"059ade7e-e14a-4da8-b57a-de86f620af39\" class=\"\"><a\n\t\t\t\t\thref=\"https://voluntas.medium.com/%E3%81%AA%E3%81%9C-zig-%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%92%E6%A4%9C%E8%A8%8E%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-106f1ca2d25\">なぜ\n\t\t\t\t\tZig の採用を検討しているのか. かなり雑に書いてるので、雑に読んでください。 | by V | Jul, 2022 | Medium</a></p>\n\t\t\t<p id=\"f6b0f9fa-bfb1-463f-931a-5dd2c2933107\" class=\"\"><a\n\t\t\t\t\thref=\"https://developer.hatenastaff.com/entry/2022/09/01/093000\">CSS Modulesの歴史、現在、これから - Hatena\n\t\t\t\t\tDeveloper Blog</a></p>\n\t\t\t<p id=\"6fe8c08d-6413-42a9-881c-8f9f77bdc462\" class=\"\"><a href=\"https://nextjs.org/conf\">Next.js Conf</a></p>\n\t\t\t<p id=\"c2fbc947-80c9-4eb8-a1c5-25bce10f83cc\" class=\"\"><a\n\t\t\t\t\thref=\"https://twitter.com/yuxiao_he/status/1565865694402469888\">https://twitter.com/yuxiao_he/status/1565865694402469888</a>\n\t\t\t</p>\n\t\t\t<p id=\"45a2c923-9d95-4b09-b4f1-fb6c373bd861\" class=\"\"><a\n\t\t\t\t\thref=\"https://developer.chrome.com/blog/new-in-chrome-105/\">New in Chrome 105 - Chrome\n\t\t\t\t\tDevelopers</a></p>\n\t\t\t<p id=\"d2cf10b3-d6f9-4d74-929e-a6093111f2be\" class=\"\"><a\n\t\t\t\t\thref=\"https://japan.cnet.com/article/20423173/\">W3C、「Web SQL Database」の仕様策定を正式に断念 - CNET Japan</a>\n\t\t\t</p>",
       "link": "https://anchor.fm/tue-ofuro/episodes/Bun--ZigRust--Next-js-Conf--Chrome-105-e1naubc",
