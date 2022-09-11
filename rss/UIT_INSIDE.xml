@@ -20,6 +20,21 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』</title>
+    <link>https://uit-inside.linecorp.com/episode/130</link>
+    <pubDate>Fri, 09 Sep 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINEバイトのフロントエンドチームで最近実施されたReact 18へのアップグレードについて、＠spring_raining が @kazushikonosu に聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/130</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-react18-migration.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),kazushikonosu(kazushikonosu)</itunes:author>
+    <itunes:subtitle>ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』</itunes:subtitle>
+    <itunes:duration>26:38</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode130.png"/>
+  </item>
+  <item>
     <title>ep.129『不要な export をまとめて掃除！みんながほしかった CLI ts-prune』</title>
     <link>https://uit-inside.linecorp.com/episode/129</link>
     <pubDate>Fri, 26 Aug 2022 09:00:00 GMT</pubDate>
@@ -1503,21 +1518,6 @@
     <itunes:duration>31:48</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode031.png"/>
-  </item>
-  <item>
-    <title>ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue</title>
-    <link>https://uit-inside.linecorp.com/episode/30</link>
-    <pubDate>Mon, 02 Dec 2019 09:15:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;LINE DEVELOPER DAY 2019 スピーカーである okazou に、@potato4d, @kotarok, @myakura の三人で登壇内容についての質問・座談会を実施しました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/30</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-030.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Okazaki Akihiro(okazou),myakura(myakura),kotarok(kotarok)</itunes:author>
-    <itunes:subtitle>ep.30 「デザインシステムにおけるフロントエンド」公開AMA in DEV DAY Venue</itunes:subtitle>
-    <itunes:duration>42:12</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode030.png"/>
   </item>
   </channel>
 </rss>

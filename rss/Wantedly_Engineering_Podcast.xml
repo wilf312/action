@@ -9,7 +9,7 @@
 			<link>https://wantedly.dev/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 01 Sep 2022 10:00:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Sep 2022 09:05:21 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/64205bfc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Wantedly Engineering]]></author>
 		<copyright><![CDATA[Wantedly Engineering]]></copyright>
@@ -25,6 +25,32 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+		<item>
+			<title><![CDATA[GoとRust - 並行プログラミング編 w/ @nasa_desu]]></title>
+			<description><![CDATA[<p><a href="https://twitter.com/nasa_desu">@nasa_desu</a> を読んで Go と rust の並行処理の違いから並行処理の基礎について教えてもらいました。</p>
+<ul>
+ <li><a href="https://speakerdeck.com/nasa_desu/gotorust-bing-xing-chu-li-bian">GoとRust - 並行処理編</a></li>
+ <li><a href="https://zenn.dev/nasa/articles/compare_rust_go_concurrency">GoとRust - 並行プログラミング編</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/GoRust----w-nasa_desu-e1ng6bq</link>
+			<guid isPermaLink="false">79b8e9fd-7c2e-45fc-b6a0-f01d4296f62e</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 07 Sep 2022 09:00:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/57202490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-7%2F3a0e3a69-3d16-5669-cde2-50951487b307.mp3" length="82250941" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/nasa_desu&quot;&gt;@nasa_desu&lt;/a&gt; を読んで Go と rust の並行処理の違いから並行処理の基礎について教えてもらいました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nasa_desu/gotorust-bing-xing-chu-li-bian&quot;&gt;GoとRust - 並行処理編&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://zenn.dev/nasa/articles/compare_rust_go_concurrency&quot;&gt;GoとRust - 並行プログラミング編&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:57:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#ISUCON 12 本選 - 実質2位でした (fail) w/ @bubusu_ryu]]></title>
 			<description><![CDATA[<p>kyncon の一員として ISUCON 本選に出場した <a href="https://twitter.com/bubusu_ryu">@bubusu_ryu</a> に本選の感想を聞きました。</p>
@@ -51,6 +77,8 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:56:58</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -59,8 +87,8 @@
 <ul>
  <li>https://www.wantedly.com/id/qnighy</li>
  <li>https://github.com/wantedly/hi18n</li>
-  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/400195">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>
-  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/402631">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/400195">hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/402631">hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー</a></li>
   <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/403077">hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期</a></li>
   <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/399501">hi18n (i18nライブラリ) の使い方</a></li>
 </ul>
@@ -74,8 +102,8 @@
 &lt;ul&gt;
  &lt;li&gt;https://www.wantedly.com/id/qnighy&lt;/li&gt;
  &lt;li&gt;https://github.com/wantedly/hi18n&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/400195&quot;&gt;hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/402631&quot;&gt;hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/400195&quot;&gt;hi18n (i18nライブラリ) の紹介 (1) 設計思想と基本方針&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/402631&quot;&gt;hi18n (i18nライブラリ) の紹介 (2) メッセージパーサーと型レベルパーサー&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/403077&quot;&gt;hi18n (i18nライブラリ) の紹介 (3) 翻訳の同期&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/399501&quot;&gt;hi18n (i18nライブラリ) の使い方&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -83,6 +111,8 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:03:36</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -93,8 +123,8 @@
  <li><a href="https://github.com/kyncon/isucon12-qualify">https://github.com/kyncon/isucon12-qualify</a></li>
  <li><a href="https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile">鬼のようなMakefile</a></li>
  <li><a href="https://github.com/jakkcer/alpdiff">https://github.com/jakkcer/alpdiff</a></li>
-  <li><a href="https://isucon.net/archives/56838181.html">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>
-  <li><a href="https://isucon.net/archives/56838276.html">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>
+ <li><a href="https://isucon.net/archives/56838181.html">ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog</a></li>
+ <li><a href="https://isucon.net/archives/56838276.html">ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog</a></li>
   <li><a href="https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu">#ISUCON で100万点とって予選2位になるためにやったこと</a></li>
 </ul>
 ]]></description>
@@ -109,14 +139,16 @@
  &lt;li&gt;&lt;a href=&quot;https://github.com/kyncon/isucon12-qualify&quot;&gt;https://github.com/kyncon/isucon12-qualify&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://github.com/kyncon/isucon12-qualify/blob/f19d87568d5d2173dd1509d42076b4a9c4e6898f/Makefile&quot;&gt;鬼のようなMakefile&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://github.com/jakkcer/alpdiff&quot;&gt;https://github.com/jakkcer/alpdiff&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838181.html&quot;&gt;ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838276.html&quot;&gt;ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838181.html&quot;&gt;ISUCON12 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://isucon.net/archives/56838276.html&quot;&gt;ISUCON12 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/ISUCON-1002-e16aotu&quot;&gt;#ISUCON で100万点とって予選2位になるためにやったこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:32</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -133,6 +165,8 @@
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:01:55</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -142,7 +176,7 @@
  <li><a href="https://speakerdeck.com/altech/wantedly-architecture-overview">Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview</a></li>
  <li><a href="https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv">技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech</a></li>
  <li><a href="https://docs.wantedly.dev/introduction/technical-overview"><strong>技術とアーキテクチャ</strong></a></li>
-  <li><a href="https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io">退職するつもりでコードを書け w/ @stomk_</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io">退職するつもりでコードを書け w/ @stomk_</a></li>
 </ul>
 ]]></description>
 			<link>https://anchor.fm/wantedly-dev/episodes/Wantedly--w-Altech_2015-e1hnr68</link>
@@ -155,12 +189,14 @@
  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/altech/wantedly-architecture-overview&quot;&gt;Wantedly の技術とアーキテクチャ / Wantedly Architecture Overview&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://docs.wantedly.dev/introduction/technical-overview&quot;&gt;&lt;strong&gt;技術とアーキテクチャ&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io&quot;&gt;退職するつもりでコードを書け w/ @stomk_&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/w-stomk_-e1hc6io&quot;&gt;退職するつもりでコードを書け w/ @stomk_&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:54:36</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16698423/16698423-1626322039832-c09d859c6cbe8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>

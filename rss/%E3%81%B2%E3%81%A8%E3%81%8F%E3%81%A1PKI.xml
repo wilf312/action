@@ -12,7 +12,7 @@
 			<link>https://anchor.fm/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 31 Aug 2022 06:17:34 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 10 Sep 2022 04:08:13 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,128 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[48: BIMIの利用拡大とLet's EncryptがCRL発行を始める話、技術書典13に本を出した話
+]]></title>
+			<description><![CDATA[BIMIの利用が広がっているようです。Yahoo! Japanが送信メールでBIMIに対応したとのニュースがありました。Tech blogにはBIMIの説明やトラブルシュートの様子が記載されており参考になりました。またLet's Encryptではいくつかのルートプログラムの要請により今まで発行していなかったCRLの発行を始めるとのこと。WebPKIの失効検証が大きく変化していますねという話をしました。
+
+また、技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました。
+技術書典13 オンラインマーケット開催期間の2022/09/10～2022/09/25に、以下のURLから無料で入手できます。PKIの話と雑談という構成でかなりポッドキャストを再現できたと思います。頻出単語の用語集や図を使った脆弱性の解説、園芸や音楽の話を書きました。ぜひ見てみてください。今回の雑談でちょっと紹介しています。
+「ひとくちPKI Journal 1」
+https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi
+
+
+Yahoo! JAPAN がBIMIを導入
+	• フィッシングメール対策として、Yahoo! JAPANから配信するメールにアイコンが表示される規格「BIMI」を導入 - ニュース - ヤフー株式会社
+	• Yahoo! JAPAN がメールセキュリティ「BIMI」を導入するまでのお話 - Yahoo! JAPAN Tech Blog
+
+A New Life for Certificate Revocation Lists
+	• https://letsencrypt.org/2022/09/07/new-life-for-crls.html
+
+技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました！
+	• https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi
+ 
+
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c</link>
+			<guid isPermaLink="false">84848ac5-600c-42b0-9ecf-ecba376adf67</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Sat, 10 Sep 2022 04:05:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/57348588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-10%2F284948951-48000-1-93bef0b70af07.mp3" length="26376360" type="audio/mpeg"/>
+			<itunes:summary>BIMIの利用が広がっているようです。Yahoo! Japanが送信メールでBIMIに対応したとのニュースがありました。Tech blogにはBIMIの説明やトラブルシュートの様子が記載されており参考になりました。またLet&apos;s Encryptではいくつかのルートプログラムの要請により今まで発行していなかったCRLの発行を始めるとのこと。WebPKIの失効検証が大きく変化していますねという話をしました。
+
+また、技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました。
+技術書典13 オンラインマーケット開催期間の2022/09/10～2022/09/25に、以下のURLから無料で入手できます。PKIの話と雑談という構成でかなりポッドキャストを再現できたと思います。頻出単語の用語集や図を使った脆弱性の解説、園芸や音楽の話を書きました。ぜひ見てみてください。今回の雑談でちょっと紹介しています。
+「ひとくちPKI Journal 1」
+https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi
+
+
+Yahoo! JAPAN がBIMIを導入
+	• フィッシングメール対策として、Yahoo! JAPANから配信するメールにアイコンが表示される規格「BIMI」を導入 - ニュース - ヤフー株式会社
+	• Yahoo! JAPAN がメールセキュリティ「BIMI」を導入するまでのお話 - Yahoo! JAPAN Tech Blog
+
+A New Life for Certificate Revocation Lists
+	• https://letsencrypt.org/2022/09/07/new-life-for-crls.html
+
+技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました！
+	• https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi
+ 
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:42:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[47: ChromeでEV証明書の失効検証もOCSPで確認しなくなる話
+]]></title>
+			<description><![CDATA[OCSPが持つプライバシーへの懸念を理由の一つとして、Chrome106からはDVやOV証明書がすでにそうなっているようにEV証明書でもOSCPでの証明書失効検証を行わなくなるのとのこと。Webサーバー管理者から見るとOCSP staplingをやったほうがいいケースがありそうという話をしました。
+ほか、OCSPのRFCって史上最悪級に読みにくいらしい、湖でカメを助けた、夏野菜の育成に失敗したことなどを話しました。
+
+• Revocation checking for EV server certificates in Chrome (google.com)
+https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/S6A14e_X-T0/m/T4WxWgajAAAJ
+
+• 自分の行っているセキュリティ関連の情報収集 - ドキュメントを見たほうが早い (hatenablog.com)
+https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
+ひとくちPKIをご紹介いただきましてありがとうございます！
+
+
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve</link>
+			<guid isPermaLink="false">69d906dc-ab0d-4284-bde8-1ff84c002a4f</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Sat, 10 Sep 2022 03:59:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/57348526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-8-10%2F284948745-48000-1-379778b7ddaca.mp3" length="25542288" type="audio/mpeg"/>
+			<itunes:summary>OCSPが持つプライバシーへの懸念を理由の一つとして、Chrome106からはDVやOV証明書がすでにそうなっているようにEV証明書でもOSCPでの証明書失効検証を行わなくなるのとのこと。Webサーバー管理者から見るとOCSP staplingをやったほうがいいケースがありそうという話をしました。
+ほか、OCSPのRFCって史上最悪級に読みにくいらしい、湖でカメを助けた、夏野菜の育成に失敗したことなどを話しました。
+
+• Revocation checking for EV server certificates in Chrome (google.com)
+https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/S6A14e_X-T0/m/T4WxWgajAAAJ
+
+• 自分の行っているセキュリティ関連の情報収集 - ドキュメントを見たほうが早い (hatenablog.com)
+https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
+ひとくちPKIをご紹介いただきましてありがとうございます！
+
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[46: PKI成熟度モデルというものが議論されています ]]></title>
+			<description><![CDATA[<p>PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。</p>
+<p>雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。</p>
+<ul>
+ <li>What is the PKI Maturity Model (PKIMM) and how can you contribute?</li>
+ <li><a href="https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/" rel="noreferrer noopener" target="_blank">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/46-PKI-e1ngal4</link>
+			<guid isPermaLink="false">eb375990-4e63-4ec1-bde5-7fbeeadae8c4</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Wed, 07 Sep 2022 08:13:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/57206884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-7%2Fedf1cf52-09c1-a800-2449-49b8f8d30601.mp3" length="26578752" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。&lt;/p&gt;
+&lt;p&gt;雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;What is the PKI Maturity Model (PKIMM) and how can you contribute?&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:47:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[45: CTを使って脆弱なRSA鍵を調べる話と、夏と青春18きっぷの話 ]]></title>
 			<description><![CDATA[<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>

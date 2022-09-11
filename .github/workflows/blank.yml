@@ -333,7 +333,7 @@ jobs:
 
           # EM . FM #EMFM
           echo 'https://anchor.fm/s/70a2c40/podcast/rss'
-          curl https://anchor.fm/s/70a2c40/podcast/rss --compressed > rss/EMF.xml
+          curl https://anchor.fm/s/70a2c40/podcast/rss --compressed > rss/EMFM.xml
 
           # yatteiki.fm
           echo 'https://yatteiki.fm/feed.xml'

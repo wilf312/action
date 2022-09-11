@@ -15,8 +15,8 @@
         <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
         <atom:link href="https://kubernetespodcast.com/feeds/audio.xml" rel="self" type="application/rss+xml"/>
         <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://kubernetespodcast.com/feeds/audio.xml" />
-        <lastBuildDate>Tue, 23 Aug 2022 22:51:46 +0100</lastBuildDate>
-        <pubDate>Tue, 23 Aug 2022 22:51:46 +0100</pubDate>
+        <lastBuildDate>Sat, 10 Sep 2022 10:11:40 +1200</lastBuildDate>
+        <pubDate>Sat, 10 Sep 2022 10:11:40 +1200</pubDate>
         <ttl>720</ttl>
         <itunes:type>episodic</itunes:type>
         <itunes:author>Craig Box</itunes:author>
@@ -39,6 +39,133 @@
         <itunes:category text="Technology" />
         </itunes:category>
 
+        
+        <item>
+            <title>Security, Access and War, with Kateryna Ivashchenko</title>
+            <link>https://kubernetespodcast.com/episode/188-security-access-war/</link>
+            <pubDate>Fri, 09 Sep 2022 15:05:30 -0700</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep188.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep188.mp3" length="56185985" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>188</itunes:episode>
+            <itunes:duration>00:39:00</itunes:duration>
+            <description><![CDATA[<p><a href="https://twitter.com/kivashch">Kateryna Ivashchenko</a> is a Senior Demand Generation Manager at Teleport, an organizer of community events, and a supporter of the developer community in her home country of Ukraine.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://istio.io/latest/blog/2022/introducing-ambient-mesh/">Introducing Ambient Mesh in Istio</a></li>
+<li><a href="https://istio.io/latest/news/releases/1.15.x/announcing-1.15/">Istio 1.15</a></li>
+<li><a href="https://buoyant.io/blog/announcing-linkerd-2-12">Linkerd 2.12</a>
+<ul>
+<li><a href="https://buoyant.io/blog/linkerd-and-the-gateway-api">Linkerd and the Gateway API</a></li>
+</ul>
+</li>
+<li><a href="https://symbiosis.host/blog/initial">Symbiosis</a></li>
+<li><a href="https://cuber.cloud/">Cuber</a> nay-tace
+<ul>
+<li><a href="https://www.reddit.com/r/kubernetes/comments/x2bule/cuber_is_now_free_and_open_source/">Reddit discussion</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-explore-2022-tanzu-announcements">VMware Tanzu announcments from VMware Explore</a></li>
+<li><a href="https://www.prnewswire.com/news-releases/isovalent-raises-40m-series-b-as-cilium-and-ebpf-transform-cloud-native-service-connectivity-and-security-301619134.html">Isovalent raises $40m Series B</a></li>
+<li>Kubernetes Blog:
+<ul>
+<li><a href="https://kubernetes.io/blog/2022/08/23/podsecuritypolicy-the-historical-context/">PodSecurityPolicy: The Historical Context</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/25/pod-security-admission-stable/">Pod Security Admission Controller in Stable</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/">CSI Inline Volumes have graduated to GA</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/31/cgroupv2-ga-1-25/">cgroup v2 graduates to GA</a></li>
+</ul>
+</li>
+<li><a href="https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338">Kubernetes was never designed for batch jobs</a> by Kurt Schelfthout</li>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/benefits-of-using-kubernetes">7 years of GKE General Availability</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://portworx.com/">Portworx</a></li>
+<li><a href="https://goteleport.com/">Teleport</a></li>
+<li><a href="https://www.bbc.co.uk/news/world-europe-60503037">24 February 2022: Russia invades Ukraine</a></li>
+<li><a href="https://research.google/pubs/pub43231/">BeyondCorp</a></li>
+<li><a href="https://github.com/gravitational/teleport">Teleport open source</a></li>
+<li><a href="http://bash.org/?244321">hunter2</a></li>
+<li><a href="https://techcrunch.com/2022/03/22/okta-january-hack-breach/">Okta breach</a></li>
+<li><a href="https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405">Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin&rsquo;s Most Dangerous Hackers</a> by Andy Greenberg</li>
+<li><a href="https://www.bbc.com/news/world-60525350">War in Ukraine</a></li>
+<li><a href="https://www.customink.com/fundraising/help-ukraine">Kateryna&rsquo;s sister&rsquo;s T-shirt</a></li>
+<li><a href="https://www.bbc.com/news/world-europe-62666046">Independence Day</a></li>
+<li><a href="https://www.cncf.io/humans-of-cloud-native/chris-lentricchia/">Chris Lentricchia</a> and <a href="https://www.operationdvoretskyi.org/">Operation Dvoretskyi</a></li>
+<li><a href="https://crowdfunding.lfx.linuxfoundation.org/initiative/7a485ead-79b3-4302-9472-08caa1e94ab5">CNCF crowdfunding</a></li>
+<li><a href="https://twitter.com/devopsdays_kyiv/status/1529027505994211329">DevOpsDays Kyiv</a></li>
+<li><a href="https://twitter.com/kivashch/status/1516938164689981440">International Snack Exchange</a></li>
+<li><a href="https://twitter.com/kivashch">Kateryna Ivashchenko on Twitter</a></li>
+</ul>]]></description>
+            <itunes:summary>Kateryna Ivashchenko is a Senior Demand Generation Manager at Teleport, an organizer of community events, and a supporter of the developer community in her home country of Ukraine.
+</itunes:summary>
+            
+            <itunes:subtitle>Kateryna Ivashchenko is a Senior Demand Generation Manager at Teleport, an organizer of community events, and a supporter of the developer community in her home country of Ukraine.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p><a href="https://twitter.com/kivashch">Kateryna Ivashchenko</a> is a Senior Demand Generation Manager at Teleport, an organizer of community events, and a supporter of the developer community in her home country of Ukraine.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://istio.io/latest/blog/2022/introducing-ambient-mesh/">Introducing Ambient Mesh in Istio</a></li>
+<li><a href="https://istio.io/latest/news/releases/1.15.x/announcing-1.15/">Istio 1.15</a></li>
+<li><a href="https://buoyant.io/blog/announcing-linkerd-2-12">Linkerd 2.12</a>
+<ul>
+<li><a href="https://buoyant.io/blog/linkerd-and-the-gateway-api">Linkerd and the Gateway API</a></li>
+</ul>
+</li>
+<li><a href="https://symbiosis.host/blog/initial">Symbiosis</a></li>
+<li><a href="https://cuber.cloud/">Cuber</a> nay-tace
+<ul>
+<li><a href="https://www.reddit.com/r/kubernetes/comments/x2bule/cuber_is_now_free_and_open_source/">Reddit discussion</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-explore-2022-tanzu-announcements">VMware Tanzu announcments from VMware Explore</a></li>
+<li><a href="https://www.prnewswire.com/news-releases/isovalent-raises-40m-series-b-as-cilium-and-ebpf-transform-cloud-native-service-connectivity-and-security-301619134.html">Isovalent raises $40m Series B</a></li>
+<li>Kubernetes Blog:
+<ul>
+<li><a href="https://kubernetes.io/blog/2022/08/23/podsecuritypolicy-the-historical-context/">PodSecurityPolicy: The Historical Context</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/25/pod-security-admission-stable/">Pod Security Admission Controller in Stable</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/">CSI Inline Volumes have graduated to GA</a></li>
+<li><a href="https://kubernetes.io/blog/2022/08/31/cgroupv2-ga-1-25/">cgroup v2 graduates to GA</a></li>
+</ul>
+</li>
+<li><a href="https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338">Kubernetes was never designed for batch jobs</a> by Kurt Schelfthout</li>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/benefits-of-using-kubernetes">7 years of GKE General Availability</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://portworx.com/">Portworx</a></li>
+<li><a href="https://goteleport.com/">Teleport</a></li>
+<li><a href="https://www.bbc.co.uk/news/world-europe-60503037">24 February 2022: Russia invades Ukraine</a></li>
+<li><a href="https://research.google/pubs/pub43231/">BeyondCorp</a></li>
+<li><a href="https://github.com/gravitational/teleport">Teleport open source</a></li>
+<li><a href="http://bash.org/?244321">hunter2</a></li>
+<li><a href="https://techcrunch.com/2022/03/22/okta-january-hack-breach/">Okta breach</a></li>
+<li><a href="https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405">Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin&rsquo;s Most Dangerous Hackers</a> by Andy Greenberg</li>
+<li><a href="https://www.bbc.com/news/world-60525350">War in Ukraine</a></li>
+<li><a href="https://www.customink.com/fundraising/help-ukraine">Kateryna&rsquo;s sister&rsquo;s T-shirt</a></li>
+<li><a href="https://www.bbc.com/news/world-europe-62666046">Independence Day</a></li>
+<li><a href="https://www.cncf.io/humans-of-cloud-native/chris-lentricchia/">Chris Lentricchia</a> and <a href="https://www.operationdvoretskyi.org/">Operation Dvoretskyi</a></li>
+<li><a href="https://crowdfunding.lfx.linuxfoundation.org/initiative/7a485ead-79b3-4302-9472-08caa1e94ab5">CNCF crowdfunding</a></li>
+<li><a href="https://twitter.com/devopsdays_kyiv/status/1529027505994211329">DevOpsDays Kyiv</a></li>
+<li><a href="https://twitter.com/kivashch/status/1516938164689981440">International Snack Exchange</a></li>
+<li><a href="https://twitter.com/kivashch">Kateryna Ivashchenko on Twitter</a></li>
+</ul>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
         
         <item>
             <title>Kubernetes 1.25, with Cici Huang</title>
@@ -116,7 +243,9 @@
 </ul>
 </li>
 <li><a href="https://github.com/cici37">Cici Huang</a> on GitHub</li>
-</ul>]]></description>
+</ul>
+
+]]></description>
             <itunes:summary>It&amp;rsquo;s release day! We discuss today&amp;rsquo;s Kubernetes 1.25 with release team lead Cici Huang, Software Engineer at Google Cloud. What&amp;rsquo;s in, what&amp;rsquo;s out, and what is it like to lead a release you are also promoting a feature in?
 </itunes:summary>
             
@@ -188,7 +317,9 @@
 </ul>
 </li>
 <li><a href="https://github.com/cici37">Cici Huang</a> on GitHub</li>
-</ul>]]></content:encoded>
+</ul>
+
+]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
             <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
         </item>
