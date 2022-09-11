@@ -439,7 +439,7 @@ export const urlList: UrlListItem[] = [
 
   {
     name: "EM . FM #EMFM",
-    hash: "EMF",
+    hash: "EMFM",
     url: "https://anchor.fm/s/70a2c40/podcast/rss",
   },
 
