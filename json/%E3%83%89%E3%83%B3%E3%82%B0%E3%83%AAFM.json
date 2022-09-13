@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=627978069",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=629549088",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Fri, 09 Sep 2022 00:36:20 +0000",
-  "lastBuildDate": "Fri, 09 Sep 2022 00:36:20 +0000",
+  "pubDate": "Mon, 12 Sep 2022 09:52:03 +0000",
+  "lastBuildDate": "Mon, 12 Sep 2022 09:52:03 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1342285126"
+      },
+      "title": "892 ドングリフェスに参加したみなさんありがとう",
+      "pubDate": "Tue, 13 Sep 2022 05:00:10 +0000",
+      "link": "https://soundcloud.com/dongurifm/892a",
+      "itunes:duration": "00:16:16",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "ドングリフェスについて話しました。\n\nドングリフェスのツイートまとめ\nhttps://twitter.com/i/events/1564013489144098816\n\nゆとたわドングリフェス\nhttps://open.spotify.com/episode/0gv3a2v7lOMXE3RzhzeEGU?si=OI77vAHoTDGHw3Lj6vO0ag\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "ドングリフェスについて話しました。\n\nドングリフェスのツイートまとめ\nhttps://twitte…",
+      "description": "ドングリフェスについて話しました。\n\nドングリフェスのツイートまとめ\nhttps://twitter.com/i/events/1564013489144098816\n\nゆとたわドングリフェス\nhttps://open.spotify.com/episode/0gv3a2v7lOMXE3RzhzeEGU?si=OI77vAHoTDGHw3Lj6vO0ag\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1342285126-dongurifm-892a.mp3",
+        "@length": 15621223,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000544546797-fp0tx2-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/627978069"
-      },
-      "title": "392 会社をうまくサボる方法",
-      "pubDate": "Tue, 28 May 2019 18:11:44 +0000",
-      "link": "https://soundcloud.com/dongurifm/392a",
-      "itunes:duration": "00:15:34",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "会社をサボる方法について話しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "会社をサボる方法について話しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/…",
-      "description": "会社をサボる方法について話しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/627978069-dongurifm-392a.mp3",
-        "@length": 14952906,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000542817264-uk5jwu-t3000x3000.jpg",
         "#text": null
       }
     }
