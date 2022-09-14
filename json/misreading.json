@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 23 Aug 2022 05:24:12 +0000",
+  "lastBuildDate": "Wed, 14 Sep 2022 12:37:01 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -58,8 +58,8 @@
         "@isPermaLink": false,
         "#text": "http://misreading.chat/?p=741"
       },
-      "description": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。感想などはハッシュタグ #misreading か hello@misreading.chat にお … <a href=\"https://misreading.chat/2022/08/22/97-using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3/\" class=\"more-link\"><span class=\"screen-reader-text\">\"#97: Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3\"の</span>続きを読む</a>",
-      "content:encoded": "<p>AWS の中の人が Rust の力で TLA+ に対抗する話を<a href=\"https://twitter.com/jmuk\">向井</a>が読みました。感想などはハッシュタグ&nbsp;<a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>&nbsp;か&nbsp;<a href=\"mailto:hello@misreading.chat\">hello@misreading.chat</a>&nbsp;にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/08/ep97.mp3\"></audio></figure>\n\n\n\n<ul><li><a href=\"https://dl.acm.org/doi/10.1145/3477132.3483540\">Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 | Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles</a></li><li><a href=\"https://www.pm.inf.ethz.ch/research/prusti.html\">Prusti – Programming Methodology Group | ETH Zurich</a></li><li><a href=\"https://github.com/tokio-rs/loom\">tokio-rs/loom: Concurrency permutation testing tool for Rust.</a></li><li><a href=\"https://github.com/awslabs/shuttle\">awslabs/shuttle: Shuttle is a library for testing concurrent Rust code</a></li></ul>",
+      "description": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。",
+      "content:encoded": "<p>AWS の中の人が Rust の力で TLA+ に対抗する話を<a href=\"https://twitter.com/jmuk\">向井</a>が読みました。感想などはハッシュタグ&nbsp;<a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>&nbsp;か&nbsp;<a href=\"mailto:hello@misreading.chat\">hello@misreading.chat</a>&nbsp;にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/08/ep97.mp3\"></audio></figure>\n\n\n\n<ul>\n<li><a href=\"https://dl.acm.org/doi/10.1145/3477132.3483540\">Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 | Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles</a></li>\n\n\n\n<li><a href=\"https://www.pm.inf.ethz.ch/research/prusti.html\">Prusti – Programming Methodology Group | ETH Zurich</a></li>\n\n\n\n<li><a href=\"https://github.com/tokio-rs/loom\">tokio-rs/loom: Concurrency permutation testing tool for Rust.</a></li>\n\n\n\n<li><a href=\"https://github.com/awslabs/shuttle\">awslabs/shuttle: Shuttle is a library for testing concurrent Rust code</a></li>\n</ul>",
       "enclosure": {
         "@url": "https://misreadingchat.files.wordpress.com/2022/08/ep97.mp3",
         "@length": 50990445,
@@ -71,9 +71,9 @@
       "googleplay:author": "Jun Mukai",
       "itunes:explicit": "no",
       "googleplay:explicit": "no",
-      "itunes:summary": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。感想などはハッシュタグ #misreading か hello@misreading.chat にお … \"#97: Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3\"の続きを読む",
-      "googleplay:description": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。感想などはハッシュタグ #misreading か hello@misreading.chat にお … \"#97: Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3\"の続きを読む",
-      "itunes:subtitle": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。感想などはハッシュタグ #misreading か hello@misreading.chat にお … \"#97: Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3\"の続きを読む",
+      "itunes:summary": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。",
+      "googleplay:description": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。",
+      "itunes:subtitle": "AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。",
       "media:content": {
         "@url": "https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&d=identicon&r=G",
         "@medium": "image",
