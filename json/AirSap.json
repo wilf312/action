@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Thu, 25 Aug 2022 13:29:42 +0000",
+  "lastBuildDate": "Thu, 15 Sep 2022 19:32:55 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -49,6 +49,34 @@
   "itunes:block": "no",
   "itunes:explicit": "no",
   "item": [
+    {
+      "title": "#84 Apple Event 2022",
+      "link": "https://airsap.net/2022/09/16/84-apple-event-2022/",
+      "pubDate": "Thu, 15 Sep 2022 19:32:55 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2022-09-15t19:27:24+00:00-aa9750cd4081e20"
+      },
+      "description": "Apple Event 2022(taqumiさんを迎えて) / Apple Watch Ultra / みんなどのiPhoneを予約した？ / iPhone14シリーズの重さ / iPhone Pro Maxの重さで手首は大丈夫？ / Apple Watch / iPhone 14の話 / LockBuddy(若林さん新作アプリ) / iPhoneカメラの話 / AirPods Proについて",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2022/09/16/84-apple-event-2022/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/273/s/feed/c/podcast/AirSap84_20220910_rev2.mp3",
+        "@length": 55433026,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "01:16:59",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Apple Event 2022",
+      "itunes:episode": 84,
+      "itunes:episodeType": "full",
+      "itunes:summary": "Apple Event 2022(taqumiさんを迎えて) / Apple Watch Ultra / みんなどのiPhoneを予約した？ / iPhone14シリーズの重さ / iPhone Pro Maxの重さで手首は大丈夫？ / Apple Watch / iPhone 14の話 / LockBuddy(若林さん新作アプリ) / iPhoneカメラの話 / AirPods Proについて"
+    },
     {
       "title": "#83 M2 Macへの環境移行と写真のクラウドバックアップ",
       "link": "https://airsap.net/2022/08/25/83-m2/",
