@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=629549088",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=629958039",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Mon, 12 Sep 2022 09:52:03 +0000",
-  "lastBuildDate": "Mon, 12 Sep 2022 09:52:03 +0000",
+  "pubDate": "Wed, 14 Sep 2022 04:28:12 +0000",
+  "lastBuildDate": "Wed, 14 Sep 2022 04:28:12 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1343525800"
+      },
+      "title": "893 今オススメの通信キャリア",
+      "pubDate": "Fri, 16 Sep 2022 09:00:24 +0000",
+      "link": "https://soundcloud.com/dongurifm/893a",
+      "itunes:duration": "00:18:12",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "オススメの通信キャリアについて話しました。\n\nアハモ\nhttps://ahamo.com/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "オススメの通信キャリアについて話しました。\n\nアハモ\nhttps://ahamo.com/\n\n#d…",
+      "description": "オススメの通信キャリアについて話しました。\n\nアハモ\nhttps://ahamo.com/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1343525800-dongurifm-893a.mp3",
+        "@length": 17477798,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000544955988-av48l0-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/629549088"
-      },
-      "title": "393 予告します。これから確実に「クイズ」が流行る",
-      "pubDate": "Fri, 31 May 2019 14:30:08 +0000",
-      "link": "https://soundcloud.com/dongurifm/393a",
-      "itunes:duration": "00:10:33",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "クイズについて話しました\n\nみんはや\nhttps://itunes.apple.com/jp/app/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%97%A9%E6%8A%BC%E3%81%97%E3%82%AF%E3%82%A4%E3%82%BA/id1044039663?mt=8\n\nnarumiさんのプレイヤーコードはこちら\nコード: VCUPY5\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "クイズについて話しました\n\nみんはや\nhttps://itunes.apple.com/jp/ap…",
-      "description": "クイズについて話しました\n\nみんはや\nhttps://itunes.apple.com/jp/app/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%97%A9%E6%8A%BC%E3%81%97%E3%82%AF%E3%82%A4%E3%82%BA/id1044039663?mt=8\n\nnarumiさんのプレイヤーコードはこちら\nコード: VCUPY5\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/629549088-dongurifm-393a.mp3",
-        "@length": 10137181,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000544546797-fp0tx2-t3000x3000.jpg",
         "#text": null
       }
     }
