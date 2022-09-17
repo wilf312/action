@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "60. ベイエリアでファウンダーCTOとして働く話（ゲスト：Taishiさん）",
+      "description": "<p>今回は <a href=\"https://www.wafflejournal.com/\">Waffle</a> の創業メンバーCTOであるTaishiさん (<a href=\"https://twitter.com/taishi_yade\">@taishi_yade</a>) をゲストにお招きして、毎月2万人以上が174ヶ国から利用する交換日記サービスWaffleを作るまでの話、CTOという立場で大変だった話、Waffleの技術的な話や採用について話しました。</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://anchor.fm/todayilearnedfm/episodes/60--CTOTaishi-e1nvvvf",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "dfc88245-1672-4d73-8ff2-399198b5f711"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 17 Sep 2022 18:50:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/57720239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-17%2F6ce60206-a2d1-c148-56b9-299cb1513f6f.mp3",
+        "@length": 53045544,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今回は <a href=\"https://www.wafflejournal.com/\">Waffle</a> の創業メンバーCTOであるTaishiさん (<a href=\"https://twitter.com/taishi_yade\">@taishi_yade</a>) をゲストにお招きして、毎月2万人以上が174ヶ国から利用する交換日記サービスWaffleを作るまでの話、CTOという立場で大変だった話、Waffleの技術的な話や採用について話しました。</p>\n<p><br></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:05:59",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "59. zkEVMとはなにか",
       "description": "<p>Ethereumのスケーラビリティを補完する重要な技術と考えられているzkEVMについて、その技術的な仕組みや開発する各社の覇権争いについて話しました。</p>\n<ul>\n <li>EVM <a href=\"https://ethereum.org/en/developers/docs/evm/#top\">https://ethereum.org/en/developers/docs/evm/#top</a></li>\n <li>Huff & EVM basic <a href=\"https://docs.huff.sh/tutorial/evm-basics/#storage\">https://docs.huff.sh/tutorial/evm-basics/#storage</a></li>\n <li>EVMのopcode <a href=\"https://www.ethervm.io/\">https://www.ethervm.io/</a></li>\n <li>zkEVM Overview <a href=\"https://www.alchemy.com/overviews/zkevm\">https://www.alchemy.com/overviews/zkevm</a></li>\n  <li>zkEVM in depth <a href=\"https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4\">https://mirror.xyz/msfew.eth/Yl64OK3lLG48eJpVB3GxqFEhmWOm6yMlAo9sc1VrQP4</a></li>\n  <li>Polygon zkEVM<a href=\"https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/\">https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/<br>\n</a><a href=\"https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics\">https://docs.hermez.io/zkEVM/Overview/Overview/#zkevm-design-characteristics<br>\n</a></li>\n  <li>zksync 2.0 <a href=\"https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73\">https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73</a></li>\n  <li>Scroll<a href=\"https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k\">https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k<br>\n</a><a href=\"https://scroll.io/blog/zkEVM\">https://scroll.io/blog/zkEVM<br>\n</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
       "link": "https://anchor.fm/todayilearnedfm/episodes/59--zkEVM-e1nfopi",
