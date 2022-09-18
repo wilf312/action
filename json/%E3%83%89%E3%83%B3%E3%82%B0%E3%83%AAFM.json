@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=629958039",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=630442554",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Wed, 14 Sep 2022 04:28:12 +0000",
-  "lastBuildDate": "Wed, 14 Sep 2022 04:28:12 +0000",
+  "pubDate": "Thu, 15 Sep 2022 23:48:57 +0000",
+  "lastBuildDate": "Thu, 15 Sep 2022 23:48:57 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1344741163"
+      },
+      "title": "894 やなやつやなやつやなやつ",
+      "pubDate": "Sun, 18 Sep 2022 13:05:30 +0000",
+      "link": "https://soundcloud.com/dongurifm/894a",
+      "itunes:duration": "00:10:11",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "ジブリについて話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "ジブリについて話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/…",
+      "description": "ジブリについて話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1344741163-dongurifm-894a.mp3",
+        "@length": 9790274,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000545491446-4eqhy4-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/629958039"
-      },
-      "title": "394 LINE Payとガンダムハラスメント",
-      "pubDate": "Sat, 01 Jun 2019 10:25:05 +0000",
-      "link": "https://soundcloud.com/dongurifm/393a-1",
-      "itunes:duration": "00:10:33",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "LINE PayとPayPayとガンダムについて話しました。\n\nLINE Payのキャンペーンで知り合いに無言で1000円を送ったら、「僕は乞食じゃないんで、あなたにお金をめぐんでもらう理由がありません」って送り返された\nhttps://twitter.com/narumi/status/1130332249734299658\n\nこれは『機動戦士ガンダム』第19話「ランバ・ラル特攻！」のワンシーンですね。\nhttps://twitter.com/hitasuraeiga/status/1130420898018676736\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "LINE PayとPayPayとガンダムについて話しました。\n\nLINE Payのキャンペーンで知…",
-      "description": "LINE PayとPayPayとガンダムについて話しました。\n\nLINE Payのキャンペーンで知り合いに無言で1000円を送ったら、「僕は乞食じゃないんで、あなたにお金をめぐんでもらう理由がありません」って送り返された\nhttps://twitter.com/narumi/status/1130332249734299658\n\nこれは『機動戦士ガンダム』第19話「ランバ・ラル特攻！」のワンシーンですね。\nhttps://twitter.com/hitasuraeiga/status/1130420898018676736\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/629958039-dongurifm-393a-1.mp3",
-        "@length": 10137181,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000544955988-av48l0-t3000x3000.jpg",
         "#text": null
       }
     }
