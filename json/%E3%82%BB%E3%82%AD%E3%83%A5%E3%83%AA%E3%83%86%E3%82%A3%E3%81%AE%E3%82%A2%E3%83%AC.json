@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 12 Sep 2022 11:00:14 +0000",
+  "lastBuildDate": "Mon, 19 Sep 2022 11:00:16 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -66,6 +66,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第150回 アレかぶり！皆さんの作業BGMはなんですか？スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1314",
+      "pubDate": "Mon, 19 Sep 2022 20:00:16 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1314"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1314#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1314",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet  【関連記事】 ・Notice of Recent Security Incident [...]",
+      "content:encoded": "<div id=\"tweetbutton1314\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1314&text=%E7%AC%AC150%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%81%8B%E3%81%B6%E3%82%8A%EF%BC%81%E7%9A%86%E3%81%95%E3%82%93%E3%81%AE%E4%BD%9C%E6%A5%ADBGM%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1314\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/\">Notice of Recent Security Incident – The LastPass Blog</a><br />\n・<a href=\"https://www.npa.go.jp/publications/statistics/cybersecurity/data/R04_kami_cyber_jousei.pdf\">令和４年上半期におけるサイバー空間をめぐる脅威の情勢等について</a><br />\n・<a href=\"https://www.antiphishing.jp/report/monthly/202208.html\">フィッシング対策協議会 Council of Anti-Phishing Japan | 報告書類 | 月次報告書 | 2022/08 フィッシング報告状況</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/v.png\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/v-300x210.png\" alt=\"\" width=\"300\" height=\"210\" class=\"alignnone size-medium wp-image-1315\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/v-300x210.png 300w, https://www.tsujileaks.com/wp-content/uploads/v.png 700w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>Lockbitのバグバウンティ第1号。ペネトレ話の反響。お便りにより漏らした解説を追加で説明。聴き始めたきっかけは。結構曲気に入ってもらってた。Travis Scott。Lil Durk。変態紳士クラブ。皆さんの作業BGM教えてください。LastPass事件のその後。関係者の端末からって目立ってきている？改竄の兆候は。SolarWinds事件が頭を過った。LastLastPassにはならなかった。持っていかれたものは低リスクだったのかもしれない。根岸さんが安心したなら多くの人も安心できそう。生感あるレポート。あわせて読みたい。直接的な要求とは。被害組織規模は大きく変わらず件数が増えた。今後の動向は気にしていこう。復旧に関わる情報には気になるポイントが多い。リモートアクセスに関する2TOP。バックアップに関する情報。めちゃくちゃサブドイン発行。実体はそれより少なめ。警察法の改正を受けて。ウクライナに関するものはなかった。大体おいしい。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年09月17日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_220919_arekaburi.mp3",
+        "@length": 31053047,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet  【関連記事】 ・Notice of Recent Security Incident [...]",
+      "itunes:summary": "Tweet  【関連記事】 ・Notice of Recent Security Incident [...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:04:29"
+    },
     {
       "title": "第149回 今回も真面目です！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1308",
@@ -335,12 +364,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1248"
       },
-      "comments": "https://www.tsujileaks.com/?p=1248#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1248",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・LockBit 3.0 introduces the first ra[...]",
-      "content:encoded": "<div id=\"tweetbutton1248\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248&text=%E7%AC%AC140%E5%9B%9E%20%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%BB%E3%81%A9%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7%E3%81%97%E3%81%A6%E3%82%821%2F3%E3%82%82%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1248\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/\">LockBit 3.0 introduces the first ransomware bug bounty program</a><br />\n・<a href=\"https://lrv.lt/en/news/intense-ddos-attacks-targeted-several-companies-and-institutions-in-lithuania\">Intense DDoS attacks targeted several companies and institutions in Lithuania | My Government</a><br />\n・<a href=\"https://nsm.no/aktuelt/malrettede-tjenestenektangrep-mot-norske-nettsteder\">Målrettede tjenestenektangrep mot norske nettsteder – Nasjonal sikkerhetsmyndighet</a><br />\n・<a href=\"https://www3.nhk.or.jp/news/html/20220627/k10013690121000.html\">世界に飛び火 “サイバー市民戦争” パンドラの箱は開かれた | NHK | WEB特集 | ウクライナ情勢</a><br />\n・<a href=\"https://diskunion.net/\">弊社オンラインショップ登録個人情報漏えいに関するお詫びとご報告 | ディスクユニオン</a><br />\n・<a href=\"https://www.shop-maruhiro.jp/item/293610/\">住吉屋製菓 一里飴 162g – まるひろオンラインショッピング</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/goodguy.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg\" alt=\"\" width=\"300\" height=\"180\" class=\"alignnone size-medium wp-image-1249\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/goodguy-300x180.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/goodguy-768x461.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/goodguy.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>生の声の重み。臨場感。10年に向けて。始めた当初からの変化。情報の共有先。いっちゃんヤバいやつの下。何回聞いても怖い話。2.0 -> 3.0の変更・追加点。暗号化したらあかんけど盗んでの脅迫は許可。勢い増してる感ある。交渉の中でそういったニーズがあったのかもしれない追加。ビットコインとモネロとジーキャッシュがくるくる。ソムリエだった。キルネットはアノニマスのサイトへの攻撃もしていましたね。リアルの世界の動向がサイバー空間にもたらす影響。直球質問ちょっと危険。こちらの考えと相手の理屈が噛み合わなくても攻撃は行われる。じっと待つにしても想定しておくことが大切ですね。クラウドにするかオンプレにするか。大阪店で買い物したこと何回かあって懐かしかった。リリースの文言から読み取れるもの。SNSから見える事件の片鱗。プレイリスト変更で得られる利益はどのくらいだろうか。セキュリティのアレはSpotifyで再生されてもチャリンチャリンされません。口コミ注意喚起。対応側に求められるスピード感。暗号化してなかったことは潔く明記するほうがいいのではないか。<img src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f408.png\" alt=\"🐈\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" />。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年07月02日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_220704_HonBuchoDairi.mp3",
         "@length": 31629618,
