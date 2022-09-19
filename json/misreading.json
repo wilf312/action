@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 14 Sep 2022 12:37:01 +0000",
+  "lastBuildDate": "Mon, 19 Sep 2022 03:44:57 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#98: Dynamo: Amazon’s Highly Available Key-value Store",
+      "link": "https://misreading.chat/2022/09/14/98-dynamo-amazons-highly-available-key-value-store/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 14 Sep 2022 12:53:30 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=749"
+      },
+      "description": "昔 Amazon が作った DynamoDB の祖先について森田が読みました。",
+      "content:encoded": "<p>昔 Amazon が作った DynamoDB の祖先について<a href=\"https://twitter.com/omo20009\">森田</a>が読みました。感想などはハッシュタグ <a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a> か <a href=\"mailto:hello@misreading.chat\">hello@misreading.chat</a> にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/09/ep98-1.mp3\"></audio></figure>\n\n\n\n<ul>\n<li><a href=\"https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html\">Amazon’s Dynamo | All Things Distributed</a></li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/Chord_(peer-to-peer)\">Chord (peer-to-peer) – Wikipedia</a></li>\n</ul>\n\n\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Vector_clock\">Vector clock – Wikipedia</a></li>\n\n\n\n<li><a href=\"https://cassandra.apache.org/doc/latest/cassandra/architecture/dynamo.html#multi-master-replication-versioned-data-and-tunable-consistency\">Dynamo | Apache Cassandra Documentation</a></li>\n</ul>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/09/ep98-1.mp3",
+        "@length": 28323774,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2360,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "昔 Amazon が作った DynamoDB の祖先について森田が読みました。",
+      "googleplay:description": "昔 Amazon が作った DynamoDB の祖先について森田が読みました。",
+      "itunes:subtitle": "昔 Amazon が作った DynamoDB の祖先について森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#97: Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3",
       "link": "https://misreading.chat/2022/08/22/97-using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3/",
