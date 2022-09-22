@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=630442554",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=630896358",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Thu, 15 Sep 2022 23:48:57 +0000",
-  "lastBuildDate": "Thu, 15 Sep 2022 23:48:57 +0000",
+  "pubDate": "Tue, 20 Sep 2022 07:11:59 +0000",
+  "lastBuildDate": "Tue, 20 Sep 2022 07:11:59 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1347222526"
+      },
+      "title": "895 夏の思い出。テントサウナとレモンサワー",
+      "pubDate": "Thu, 22 Sep 2022 07:00:34 +0000",
+      "link": "https://soundcloud.com/dongurifm/895a",
+      "itunes:duration": "00:22:19",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "夏の思い出について話しました。\n\n［“絶対に失敗しない”レシピ］瀬戸内『塩レモンサワー』の素。\nhttps://note.com/hiro_akase/n/n54e059f72c7e\n\nサウナキャンプ\nhttps://saunacamp.net/\n\nエイトホテル\nhttps://chigasaki.8hotel.jp/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "夏の思い出について話しました。\n\n［“絶対に失敗しない”レシピ］瀬戸内『塩レモンサワー』の素。\nh…",
+      "description": "夏の思い出について話しました。\n\n［“絶対に失敗しない”レシピ］瀬戸内『塩レモンサワー』の素。\nhttps://note.com/hiro_akase/n/n54e059f72c7e\n\nサウナキャンプ\nhttps://saunacamp.net/\n\nエイトホテル\nhttps://chigasaki.8hotel.jp/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1347222526-dongurifm-895a.mp3",
+        "@length": 21424586,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000545911584-428ijc-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/630442554"
-      },
-      "title": "395 結婚式に呼ばれない人と献血の最適解",
-      "pubDate": "Sun, 02 Jun 2019 14:43:22 +0000",
-      "link": "https://soundcloud.com/dongurifm/395a",
-      "itunes:duration": "00:19:03",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "結婚式と献血についてのお便りに回答しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "結婚式と献血についてのお便りに回答しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/fo…",
-      "description": "結婚式と献血についてのお便りに回答しました。\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/630442554-dongurifm-395a.mp3",
-        "@length": 18290310,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000545491446-4eqhy4-t3000x3000.jpg",
         "#text": null
       }
     }
