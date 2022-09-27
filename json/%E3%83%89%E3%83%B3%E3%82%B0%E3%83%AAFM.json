@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=632449164",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=635438409",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Fri, 23 Sep 2022 15:46:36 +0000",
-  "lastBuildDate": "Fri, 23 Sep 2022 15:46:36 +0000",
+  "pubDate": "Tue, 27 Sep 2022 09:23:21 +0000",
+  "lastBuildDate": "Tue, 27 Sep 2022 09:23:21 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1351784824"
+      },
+      "title": "897さよならマーティン",
+      "pubDate": "Tue, 27 Sep 2022 11:00:22 +0000",
+      "link": "https://soundcloud.com/dongurifm/897a-1",
+      "itunes:duration": "00:13:59",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "第3回カルビー提供プロ野球チップス\n\n【ロッテ】一時帰国中のマーティンがSNSで退団示唆、井口監督「家庭の事情とは聞いてます」 https://www.nikkansports.com/baseball/news/202208290001211.html?utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp \n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "第3回カルビー提供プロ野球チップス\n\n【ロッテ】一時帰国中のマーティンがSNSで退団示唆、井口監督…",
+      "description": "第3回カルビー提供プロ野球チップス\n\n【ロッテ】一時帰国中のマーティンがSNSで退団示唆、井口監督「家庭の事情とは聞いてます」 https://www.nikkansports.com/baseball/news/202208290001211.html?utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp \n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1351784824-dongurifm-897a-1.mp3",
+        "@length": 13431117,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000550708674-qpf04c-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/632449164"
-      },
-      "title": "397  Voicyオフィスで公開収録したら楽しかった話",
-      "pubDate": "Thu, 06 Jun 2019 03:25:36 +0000",
-      "link": "https://soundcloud.com/dongurifm/397a",
-      "itunes:duration": "00:09:20",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "公開収録について話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリFM』×『社長とモンゴルナイフ』公開コラボ収録 https://koenowa02.peatix.com/ @PeatixJPさんから\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "公開収録について話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリ…",
-      "description": "公開収録について話しました。\n\n5/30(木)19:30〜@渋谷【こえの和 Vol.2】『ドングリFM』×『社長とモンゴルナイフ』公開コラボ収録 https://koenowa02.peatix.com/ @PeatixJPさんから\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/632449164-dongurifm-397a.mp3",
-        "@length": 8964387,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000547527636-0kn8vt-t3000x3000.jpg",
         "#text": null
       }
     }
