@@ -25,6 +25,48 @@
   "itunes:type": "episodic",
   "item": [
     {
+      "title": "81. 低遅延ライブ配信を支える技術 w/ mmasaki",
+      "description": "<p>mmasakiさんをゲストに、HLSやRTMPなどの配信技術、WebRTCを利用した配信技術とアーキテクチャ、そのスケーラビリティとトレードオフなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://nttcom.connpass.com/event/257675/\">低遅延ライブ配信を支える技術 - NTT Com Open TechLunch #1</a></li>\n<li><a href=\"https://www.ntt.com/business/services/voice-visual-communication/business-support/smartvlive.html\">Smart vLive</a></li>\n<li>配信とは？</li>\n<li>YouTube や Twitch</li>\n<li>古くはどういう技術で、どのような仕組みで配信が行われていた？</li>\n<li>RTMP、MPEG-DASH、HLS</li>\n<li>HTTPストリーミングでパケットが落ちたらどうなる？</li>\n<li>キャッシュ、HTTPにのっかることのメリット</li>\n<li>HTTPベースストリーミングにおける進化</li>\n<li>HTTP Rangeリクエスト</li>\n<li>CMAF、Ultra Low Latency</li>\n<li>HTTPベースによる遅延限界は何秒ぐらい？</li>\n<li>Sub Secondを狙った WebRTCによる配信</li>\n<li>なぜ、HTTPベースの配信は遅延が大きいのか？</li>\n<li>超低遅延配信って、ビジネス的なユースケースってあるの？</li>\n<li>End-End はどのような技術で使われている</li>\n<li>Upstream としてRTMP、クラウド内転送のSRT、DownStreamにWebRTC</li>\n<li>RTMPってどういうプロトコル？</li>\n<li>WebRTCの負荷とスケーラビリティ</li>\n<li>スケーラビリティと遅延とのトレードオフ</li>\n<li>実績では10,000クライアントまで、puppeteerにより確認済み</li>\n<li>負荷試験の負荷が難しい</li>\n<li><a href=\"https://gstreamer.freedesktop.org/\">GStreamer</a> をRustから制御</li>\n<li>FECやRTXは利用している？</li>\n<li>WebRTCでプロキシを通す工夫、TURNサーバーの利用</li>\n<li>環境が異なるクライアントに対して、体験を高める工夫は？</li>\n<li>WebTransport、WebCodecsの現状</li>\n<li><a href=\"https://fukabori.fm/episode/43\">43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz</a></li>\n<li>中途採用募集中: <a href=\"https://hrmos.co/pages/nttcom0033/jobs/1692897\">低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.openwork.co.jp/recruit/>OpenWork 採用サイトはこちら</a></li></ul>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/082_KJAZI.mp3"
+      },
+      "enclosure": {
+        "@url": "https://r.pitpa.jp/episodes/01ge48m4tw7farv44tcz91b8jy.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "pubDate": "Thu, 29 Sep 2022 18:18:11 +0900",
+      "media:content": [
+        {
+          "@url": "https://r.pitpa.jp/episodes/01ge48m4tw7farv44tcz91b8jy.mp3",
+          "@type": "audio/mpeg",
+          "media:player": {
+            "@url": "https://pitpa.jp/player/fukabori/episodes/11955/embedded",
+            "#text": null
+          }
+        },
+        {
+          "@url": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+          "@type": "image/png",
+          "#text": null
+        }
+      ],
+      "itunes:author": "iwashi",
+      "itunes:image": {
+        "@href": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+        "#text": null
+      },
+      "itunes:duration": "00:35:07",
+      "itunes:explicit": "no",
+      "itunes:subtitle": "<p>mmasakiさんをゲストに、HLSやRTMPなどの配信技術、WebRTCを利用した配信技術とアーキテクチャ、そのスケーラビリティとトレードオフなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://nttcom.connpass.com/event/257675/\">低遅延ライブ配信を支える技術 - NTT Com Open TechLunch #1</a></li>\n<li><a href=\"https://www.ntt.com/business/services/voice-visual-communication/business-support/smartvlive.html\">Smart vLive</a></li>\n<li>配信とは？</li>\n<li>YouTube や Twitch</li>\n<li>古くはどういう技術で、どのような仕組みで配信が行われていた？</li>\n<li>RTMP、MPEG-DASH、HLS</li>\n<li>HTTPストリーミングでパケットが落ちたらどうなる？</li>\n<li>キャッシュ、HTTPにのっかることのメリット</li>\n<li>HTTPベースストリーミングにおける進化</li>\n<li>HTTP Rangeリクエスト</li>\n<li>CMAF、Ultra Low Latency</li>\n<li>HTTPベースによる遅延限界は何秒ぐらい？</li>\n<li>Sub Secondを狙った WebRTCによる配信</li>\n<li>なぜ、HTTPベースの配信は遅延が大きいのか？</li>\n<li>超低遅延配信って、ビジネス的なユースケースってあるの？</li>\n<li>End-End はどのような技術で使われている</li>\n<li>Upstream としてRTMP、クラウド内転送のSRT、DownStreamにWebRTC</li>\n<li>RTMPってどういうプロトコル？</li>\n<li>WebRTCの負荷とスケーラビリティ</li>\n<li>スケーラビリティと遅延とのトレードオフ</li>\n<li>実績では10,000クライアントまで、puppeteerにより確認済み</li>\n<li>負荷試験の負荷が難しい</li>\n<li><a href=\"https://gstreamer.freedesktop.org/\">GStreamer</a> をRustから制御</li>\n<li>FECやRTXは利用している？</li>\n<li>WebRTCでプロキシを通す工夫、TURNサーバーの利用</li>\n<li>環境が異なるクライアントに対して、体験を高める工夫は？</li>\n<li>WebTransport、WebCodecsの現状</li>\n<li><a href=\"https://fukabori.fm/episode/43\">43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz</a></li>\n<li>中途採用募集中: <a href=\"https://hrmos.co/pages/nttcom0033/jobs/1692897\">低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.openwork.co.jp/recruit/>OpenWork 採用サイトはこちら</a></li></ul>",
+      "itunes:summary": "<p>mmasakiさんをゲストに、HLSやRTMPなどの配信技術、WebRTCを利用した配信技術とアーキテクチャ、そのスケーラビリティとトレードオフなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://nttcom.connpass.com/event/257675/\">低遅延ライブ配信を支える技術 - NTT Com Open TechLunch #1</a></li>\n<li><a href=\"https://www.ntt.com/business/services/voice-visual-communication/business-support/smartvlive.html\">Smart vLive</a></li>\n<li>配信とは？</li>\n<li>YouTube や Twitch</li>\n<li>古くはどういう技術で、どのような仕組みで配信が行われていた？</li>\n<li>RTMP、MPEG-DASH、HLS</li>\n<li>HTTPストリーミングでパケットが落ちたらどうなる？</li>\n<li>キャッシュ、HTTPにのっかることのメリット</li>\n<li>HTTPベースストリーミングにおける進化</li>\n<li>HTTP Rangeリクエスト</li>\n<li>CMAF、Ultra Low Latency</li>\n<li>HTTPベースによる遅延限界は何秒ぐらい？</li>\n<li>Sub Secondを狙った WebRTCによる配信</li>\n<li>なぜ、HTTPベースの配信は遅延が大きいのか？</li>\n<li>超低遅延配信って、ビジネス的なユースケースってあるの？</li>\n<li>End-End はどのような技術で使われている</li>\n<li>Upstream としてRTMP、クラウド内転送のSRT、DownStreamにWebRTC</li>\n<li>RTMPってどういうプロトコル？</li>\n<li>WebRTCの負荷とスケーラビリティ</li>\n<li>スケーラビリティと遅延とのトレードオフ</li>\n<li>実績では10,000クライアントまで、puppeteerにより確認済み</li>\n<li>負荷試験の負荷が難しい</li>\n<li><a href=\"https://gstreamer.freedesktop.org/\">GStreamer</a> をRustから制御</li>\n<li>FECやRTXは利用している？</li>\n<li>WebRTCでプロキシを通す工夫、TURNサーバーの利用</li>\n<li>環境が異なるクライアントに対して、体験を高める工夫は？</li>\n<li>WebTransport、WebCodecsの現状</li>\n<li><a href=\"https://fukabori.fm/episode/43\">43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz</a></li>\n<li>中途採用募集中: <a href=\"https://hrmos.co/pages/nttcom0033/jobs/1692897\">低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.openwork.co.jp/recruit/>OpenWork 採用サイトはこちら</a></li></ul>",
+      "itunes:title": "81. 低遅延ライブ配信を支える技術 w/ mmasaki",
+      "itunes:episodeType": "full",
+      "podcast:episode": 82
+    },
+    {
       "title": "80. PRと広報、エンジニア向け採用広報 w/ r1ccha",
       "description": "<p>r1cchaさんをゲストに、PR・広報の定義、公聴の役割、ストーリーの重要性、PRとプロダクト開発との関連、エンジニア採用過熱問題、採用広報などについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>PRと広報ってそもそも何のためにあるのか？</li>\n<li>PRの定義、広報の定義</li>\n<li>公聴とは</li>\n<li>公聴の具体的業務は？</li>\n<li>外からの自社の見え方が、なぜ重要なのか？</li>\n<li>ステークホルダーとの関係性構築がなぜ重要なのか？</li>\n<li>どのように広報メッセージの優先度をつけていくのか？</li>\n<li><a href=\"https://yamotty.tokyo/zerotopic\">Zero Topic | yamottyさんのPodcast</a></li>\n<li>同じことでも何度いってもいい</li>\n<li>なぜ、何度もいう必要があるのか？</li>\n<li>わかりやすいストーリーの重要性</li>\n<li>プロダクト開発への応用</li>\n<li>書籍: <a href=\"https://amzn.to/3DikzSt\">ユーザーストーリーマッピング</a></li>\n<li>守りの情報発信とは何か？</li>\n<li>エンジニア採用過熱問題</li>\n<li>なぜ採用広報のニーズが高まっているのか？</li>\n<li>どのように採用広報として振る舞っているか？</li>\n<li>採用広報向けの発信とメディア向けの情報発信は異なる</li>\n<li>サーフィンとマラソンによるメタファー</li>\n<li>どうすれば、情報発信を継続できるのか？（ランナーズハイに到れるのか？）</li>\n<li>その会社が楽しそうだからこそ「いいな」と思う</li>\n<li><a href=\"https://twitter.com/yaiyai_radio\">やいやいラジオ</a></li>\n<li><a href=\"https://10x.co.jp/recruit/\">RECRUIT | 株式会社10X</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.openwork.co.jp/recruit/>OpenWork 採用サイトはこちら</a></li></ul>",
       "guid": {
