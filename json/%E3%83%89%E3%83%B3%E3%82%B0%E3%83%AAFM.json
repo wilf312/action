@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=635438409",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=636081255",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1351711006"
+      },
+      "title": "898 今年もやってきました #ポッドキャストウィークエンド",
+      "pubDate": "Thu, 29 Sep 2022 05:30:52 +0000",
+      "link": "https://soundcloud.com/dongurifm/897a",
+      "itunes:duration": "00:12:48",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "ポッドキャストウィークエンド\nhttps://podcastweekend.jp/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "ポッドキャストウィークエンド\nhttps://podcastweekend.jp/\n\n#dongu…",
+      "description": "ポッドキャストウィークエンド\nhttps://podcastweekend.jp/\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1351711006-dongurifm-897a.mp3",
+        "@length": 12290924,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000551482254-6q1n0u-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/635438409"
-      },
-      "title": "398 佐藤ねじさんというすごい人",
-      "pubDate": "Wed, 12 Jun 2019 07:45:43 +0000",
-      "link": "https://soundcloud.com/dongurifm/398a",
-      "itunes:duration": "00:14:22",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "佐藤ねじ\nhttp://www.nezihiko.com/works/web.html\n\nレシートレター\nhttp://receipt.nezihiko.com/\n\n小１起業家 〜900円借金して、コーヒー屋を家庭内起業〜｜佐藤ねじ（ブルーパドル） @sato_nezi｜note（ノート） https://note.mu/sato_nezi/n/n7b911aadd691\n\n大人の悩みに6歳児が答えるラジオ\nhttps://voicy.jp/channel/670\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "佐藤ねじ\nhttp://www.nezihiko.com/works/web.html\n\nレシート…",
-      "description": "佐藤ねじ\nhttp://www.nezihiko.com/works/web.html\n\nレシートレター\nhttp://receipt.nezihiko.com/\n\n小１起業家 〜900円借金して、コーヒー屋を家庭内起業〜｜佐藤ねじ（ブルーパドル） @sato_nezi｜note（ノート） https://note.mu/sato_nezi/n/n7b911aadd691\n\n大人の悩みに6歳児が答えるラジオ\nhttps://voicy.jp/channel/670\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/635438409-dongurifm-398a.mp3",
-        "@length": 13795995,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000550708674-qpf04c-t3000x3000.jpg",
         "#text": null
       }
     }
