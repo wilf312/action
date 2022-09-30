@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.131『Node.js コアコラボレーターに聞く、OSS コントリビュートの始め方』",
+      "link": "https://uit-inside.linecorp.com/episode/131",
+      "pubDate": "Fri, 30 Sep 2022 09:00:00 GMT",
+      "description": "<p>Node.js コアコラボレーターの @cola119 に、活動内容や OSS コントリビュートを始めたきっかけについて @G4RDS が聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/131"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-131.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "cola119(cola119),Yuki Sensui(g4rds)",
+      "itunes:subtitle": "ep.131『Node.js コアコラボレーターに聞く、OSS コントリビュートの始め方』",
+      "itunes:duration": "30:24",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode131.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』",
       "link": "https://uit-inside.linecorp.com/episode/130",
       "pubDate": "Fri, 09 Sep 2022 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode032.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.31 「UIT 年末年始の自由研究報告回」",
-      "link": "https://uit-inside.linecorp.com/episode/31",
-      "pubDate": "Mon, 20 Jan 2020 08:45:00 GMT",
-      "description": "<p>@potato4d と @spring_raining が年末に年末年始の自由研究の宣言を、年明けに結果報告をしました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/31"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-031.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.31 「UIT 年末年始の自由研究報告回」",
-      "itunes:duration": "31:48",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode031.png",
         "#text": null
       }
     }
