@@ -134,6 +134,8 @@
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
+    "publish only podcast posts, not references",
+    "publish only podcast posts, not blog",
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
@@ -337,6 +339,30 @@
     "publish only podcast posts, not references"
   ],
   "item": [
+    {
+      "title": "147. Can't Imagine How Big Is That",
+      "link": "https://researchat.fm/episode/147",
+      "pubDate": "Fri, 30 Sep 2022 04:00:00 +0900",
+      "description": "コロナの終わり、植物や星の名前、アメリカやカナダの捉えきれない広大さ、新しいポッドキャストについての雑談です。<h2 id=\"shownotes\">Shownotes</h2>\n<ul>\n  <li><a href=\"https://www.cdc.gov/poxvirus/monkeypox/index.html\">Monkeypox Signs and Symptoms</a></li>\n  <li><a href=\"https://novelgame.jp/games/show/6590\">ぷらんちゅ</a></li>\n  <li><a href=\"https://www.amazon.co.jp/%E3%81%86%E3%81%9A%E3%81%BE%E3%81%8D%E7%8C%AB%E3%81%AE%E3%81%BF%E3%81%A4%E3%81%91%E3%81%8B%E3%81%9F-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4103534206\">うずまき猫のみつけかた 村上春樹</a></li>\n  <li><a href=\"https://www.mlb.com/mariners\">Seattle Mariners</a></li>\n  <li><a href=\"https://www.thetravel.com/facts-about-the-moab-desert/\">10 Fascinating Facts About The Moab Desert</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3\">バーニングマン (Wikipedia)</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial Notes</h2>\n<ul>\n  <li>編集をながらくさぼってすみませんでした… もうカナダは冬に突入しています (soh)</li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://researchat.fm/episode/147"
+      },
+      "enclosure": {
+        "@url": "https://traffic.libsyn.com/secure/researchat/ep140_trunc.mp3",
+        "@length": 80312110,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "researchat",
+      "itunes:subtitle": "コロナの終わり、植物や星の名前、アメリカやカナダの捉えきれない広大さ、新しいポッドキャストについての雑談です。",
+      "itunes:duration": "01:23:39",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://researchat.fm/images/itunes_artwork_240.jpg",
+        "#text": null
+      }
+    },
     {
       "title": "146. The Black Triangle",
       "link": "https://researchat.fm/episode/146",
