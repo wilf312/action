@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 25 Sep 2022 12:15:30 +0000",
+  "lastBuildDate": "Sun, 02 Oct 2022 01:48:22 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,35 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第217回 テストラジオ 見つけたバグの話 と ワークショップやミーティングのファシリテーションについて",
+      "link": "https://testradio.fm/testradio-no/1350/",
+      "pubDate": "Sat, 24 Sep 2022 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1350"
+      },
+      "comments": "https://testradio.fm/testradio-no/1350/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1350/feed/",
+      "slash:comments": 0,
+      "category": "テストラジオ",
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/09/N217TestRadio.mp3",
+        "@length": 71442207,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/LytaGi5JVzI      https://twitter.com/hiroyuki3gou/status/1573998384255741955?s=20&t=4mXW0U31pqU5OZV_z3Vlag",
+      "itunes:summary": "https://youtu.be/LytaGi5JVzI<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://twitter.com/hiroyuki3gou/status/1573998384255741955?s=20&t=4mXW0U31pqU5OZV_z3Vlag",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:46",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1350
+      }
+    },
     {
       "title": "今週のテストラジオは kz_suzukiさん作成『勝手版 #ソフトウェアバグの7原則 Ver.1.0』の話",
       "link": "https://testradio.fm/testradio-no/1343/",
@@ -343,39 +372,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1297
-      }
-    },
-    {
-      "title": "第206回 テストラジオ  このURL大丈夫？とJaSST Onlineの話",
-      "link": "https://testradio.fm/testradio-no/1292/",
-      "pubDate": "Sun, 29 May 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1292"
-      },
-      "comments": "https://testradio.fm/testradio-no/1292/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1292/feed/",
-      "slash:comments": 0,
-      "category": [
-        "Podcast配信",
-        "なそ回",
-        "よしたけ回"
-      ],
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/05/N206TestRadio.mp3",
-        "@length": 70890777,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://twitter.com/hiroyuki3gou/status/1530874217620983809?s=20&t=KJhJxkhqggz8nPDxhUzTow      https://youtu.be/SeAgFYeYeSg",
-      "itunes:summary": "https://twitter.com/hiroyuki3gou/status/1530874217620983809?s=20&t=KJhJxkhqggz8nPDxhUzTow<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://youtu.be/SeAgFYeYeSg",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "29:32",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1292
       }
     }
   ]
