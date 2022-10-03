@@ -136,6 +136,8 @@
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
+    "publish only podcast posts, not references",
+    "publish only podcast posts, not blog",
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
@@ -339,6 +341,30 @@
     "publish only podcast posts, not references"
   ],
   "item": [
+    {
+      "title": "148. The Mountain is Calling You (ASMR)",
+      "link": "https://researchat.fm/episode/148",
+      "pubDate": "Mon, 03 Oct 2022 09:00:00 +0900",
+      "description": "BC州に広がる大自然の音をお届けします。<h2 id=\"shownotes\">Shownotes</h2>\n<ul>\n  <li><a href=\"https://en.wikipedia.org/wiki/Elaho_River\">Elaho River (Wikipedia)</a> … BC州は険しい山々を擁し、手つかずの大自然が広大に広がっています。Elaho川には2,000m級の山々と夏場でも雪が溶けない氷河から豊かな水が流れ込みます。険しい山道を川沿いに50km以上も北上し、辺り一帯を探索しキャンプしています。もちろん一人の人間もいません。</li>\n  <li><a href=\"https://photos.app.goo.gl/T876CqrNmptUDPv77\">Exploring Elaho river in BC (Google Photo)</a> … sohが撮った写真です。雪山、天の川銀河まで見える満点の星空、激しい岩肌がお気に入りです。</li>\n  <li><a href=\"https://www.youtube.com/c/TheStoryTillNow\">TheStoryTillNow (YouTube)</a> … BCに住むYoutuber。彼の映像を見てBCに広がるバックカントリーの美しさや激しさに引き込まれました。</li>\n  <li><a href=\"https://www.youtube.com/watch?v=COdVhJDbLd0\">The Road To Paradise, Epic Jeep Gladiator and EcoDiesel JL Off-Road Adventure TheStoryTillNow (YouTube)</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial Notes</h2>\n<ul>\n  <li>途中、なにを料理している音かわかりましたか？好評ならこのシリーズを続けたいです。感想あれば嬉しいです (soh)</li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://researchat.fm/episode/148"
+      },
+      "enclosure": {
+        "@url": "https://traffic.libsyn.com/secure/researchat/148.mp3",
+        "@length": 14314683,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "researchat",
+      "itunes:subtitle": "BC州に広がる大自然の音をお届けします。",
+      "itunes:duration": "01:23:39",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://researchat.fm/images/itunes_artwork_240.jpg",
+        "#text": null
+      }
+    },
     {
       "title": "147. Can't Imagine How Big Is That",
       "link": "https://researchat.fm/episode/147",
