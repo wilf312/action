@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 28 Sep 2022 23:27:16 +0000",
+  "lastBuildDate": "Wed, 05 Oct 2022 13:13:51 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#99.5 AMA?",
+      "link": "https://misreading.chat/2022/10/05/99-5-ama/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 05 Oct 2022 13:13:51 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=763"
+      },
+      "description": "そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。",
+      "content:encoded": "<p>そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと<a href=\"https://twitter.com/jmuk\">向井</a>と<a href=\"https://twitter.com/omo2009\">森田</a>が相談しました（やります）。</p>\n\n\n\n<p>そこで皆様からの質問などをお待ちしております。投稿先はメール: <a href=\"mailto:hello@misreading.chat\">hello@misreading.chat</a>, Twitter hashtag <a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>, あるいは Google Forms <a href=\"https://forms.gle/aDU21GzBvqpnQTcS7\">https://forms.gle/aDU21GzBvqpnQTcS7</a>　です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/10/ep99_5.mp3\"></audio></figure>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/10/ep99_5.mp3",
+        "@length": 4837647,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 403,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。",
+      "googleplay:description": "そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。",
+      "itunes:subtitle": "そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#99: The Prusti Project: Formal Verification for Rust#99:",
       "link": "https://misreading.chat/2022/09/27/99-the-prusti-project-formal-verification-for-rust99/",
