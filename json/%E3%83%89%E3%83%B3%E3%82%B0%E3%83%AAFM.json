@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=637806783",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=637817382",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Tue, 27 Sep 2022 09:23:21 +0000",
-  "lastBuildDate": "Tue, 27 Sep 2022 09:23:21 +0000",
+  "pubDate": "Wed, 05 Oct 2022 06:45:05 +0000",
+  "lastBuildDate": "Wed, 05 Oct 2022 06:45:05 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1357039516"
+      },
+      "title": "900 都内でおすすめのジムはここだ！",
+      "pubDate": "Thu, 06 Oct 2022 06:30:08 +0000",
+      "link": "https://soundcloud.com/dongurifm/890a-1",
+      "itunes:duration": "00:16:43",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "最近がんばってること、TIPNESS、銭湯について話しました。\n\n駒沢大学ティップネス\nhttps://tip.tipness.co.jp/shop_info/SHP100/\n\nたかまさ【筋肉に愛された男】\nhttps://www.youtube.com/channel/UC-Bru5mBxz16espBIKZikOw/videos\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "最近がんばってること、TIPNESS、銭湯について話しました。\n\n駒沢大学ティップネス\nhttps…",
+      "description": "最近がんばってること、TIPNESS、銭湯について話しました。\n\n駒沢大学ティップネス\nhttps://tip.tipness.co.jp/shop_info/SHP100/\n\nたかまさ【筋肉に愛された男】\nhttps://www.youtube.com/channel/UC-Bru5mBxz16espBIKZikOw/videos\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1357039516-dongurifm-890a-1.mp3",
+        "@length": 16056737,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000553111632-it3le4-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/637806783"
-      },
-      "title": "400 祝！400回はなつめぐのひとり収録",
-      "pubDate": "Mon, 17 Jun 2019 06:59:34 +0000",
-      "link": "https://soundcloud.com/dongurifm/400a",
-      "itunes:duration": "00:08:39",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "daichi ito\nhttps://twitter.com/daichi\n\nsatoru masuda\nhttps://twitter.com/masudas\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "daichi ito\nhttps://twitter.com/daichi\n\nsatoru mas…",
-      "description": "daichi ito\nhttps://twitter.com/daichi\n\nsatoru masuda\nhttps://twitter.com/masudas\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/637806783-dongurifm-400a.mp3",
-        "@length": 8316968,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000553096653-324u43-t3000x3000.jpg",
         "#text": null
       }
     }
