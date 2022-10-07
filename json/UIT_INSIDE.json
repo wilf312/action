@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.132『Changesetsではじめる継続的なmonorepoリリース』",
+      "link": "https://uit-inside.linecorp.com/episode/132",
+      "pubDate": "Fri, 07 Oct 2022 09:00:00 GMT",
+      "description": "<p>主にOSSプロジェクトで活用されているmonorepoバージョニングツール「Changesets」を社内プロジェクトに導入した話について、@potato4dが@spring-rainingに聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/132"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-changesets.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.132『Changesetsではじめる継続的なmonorepoリリース』",
+      "itunes:duration": "25:23",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode132.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.131『Node.js コアコラボレーターに聞く、OSS コントリビュートの始め方』",
       "link": "https://uit-inside.linecorp.com/episode/131",
       "pubDate": "Fri, 30 Sep 2022 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode033.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」",
-      "link": "https://uit-inside.linecorp.com/episode/32",
-      "pubDate": "Fri, 07 Feb 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining と @NozomuIkuta が、来る Vue 3.0 に向けて、RFC の内容を全て読み込んでみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/32"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-032.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)",
-      "itunes:subtitle": "ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」",
-      "itunes:duration": "37:16",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode032.png",
         "#text": null
       }
     }
