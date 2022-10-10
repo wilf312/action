@@ -25,6 +25,48 @@
   "itunes:type": "episodic",
   "item": [
     {
+      "title": "82. Node.js、Deno、Bun （前編） w/ yosuke_furukawa",
+      "description": "<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/denofalsehua\">denoの話</a></li>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/bun-first-impressions\">Bun first impressions</a></li>\n<li>Node.js、Deno、Bunとは何か？</li>\n<li>JavaScriptランタイムとは何か？</li>\n<li>サーバーサイドJavaScript</li>\n<li>expressを利用してWebサーバーを立てるコードは、Node.js以外でも動くのか？</li>\n<li>ECMAScript と ランタイム との関係は？</li>\n<li>TC39</li>\n<li>Node.js はどんな経緯で生まれてきた？</li>\n<li>Rubyを書くタイミングと、JavaScriptを書くタイミングでのコンテキストスイッチ</li>\n<li>netv8</li>\n<li>イベントループモデルとは何か？</li>\n<li>ブロッキング処理、for文やJSON.parse()</li>\n<li>なぜ、Node.jsはここまで人気が出たのか？</li>\n<li>V8(JavaScriptエンジン)とは何か？</li>\n<li>JavaScriptCore</li>\n<li>Edge Workerとの相性の良さ</li>\n<li>JITコンパイラ</li>\n<li>Denoはどういう背景で生まれてきているのか？</li>\n<li>モジュールを取り巻く課題</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n</ul>\n<h2 id=\"-\">訂正</h2>\n<ul>\n<li>冒頭で第81回と話しておりますが、82回の誤りです。</li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/083_LaKUD.mp3"
+      },
+      "enclosure": {
+        "@url": "https://r.pitpa.jp/episodes/01gezvyem1hpxge9p2bvtyc17t.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "pubDate": "Mon, 10 Oct 2022 11:35:22 +0900",
+      "media:content": [
+        {
+          "@url": "https://r.pitpa.jp/episodes/01gezvyem1hpxge9p2bvtyc17t.mp3",
+          "@type": "audio/mpeg",
+          "media:player": {
+            "@url": "https://pitpa.jp/player/fukabori/episodes/12225/embedded",
+            "#text": null
+          }
+        },
+        {
+          "@url": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+          "@type": "image/png",
+          "#text": null
+        }
+      ],
+      "itunes:author": "iwashi",
+      "itunes:image": {
+        "@href": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+        "#text": null
+      },
+      "itunes:duration": "00:39:57",
+      "itunes:explicit": "no",
+      "itunes:subtitle": "<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/denofalsehua\">denoの話</a></li>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/bun-first-impressions\">Bun first impressions</a></li>\n<li>Node.js、Deno、Bunとは何か？</li>\n<li>JavaScriptランタイムとは何か？</li>\n<li>サーバーサイドJavaScript</li>\n<li>expressを利用してWebサーバーを立てるコードは、Node.js以外でも動くのか？</li>\n<li>ECMAScript と ランタイム との関係は？</li>\n<li>TC39</li>\n<li>Node.js はどんな経緯で生まれてきた？</li>\n<li>Rubyを書くタイミングと、JavaScriptを書くタイミングでのコンテキストスイッチ</li>\n<li>netv8</li>\n<li>イベントループモデルとは何か？</li>\n<li>ブロッキング処理、for文やJSON.parse()</li>\n<li>なぜ、Node.jsはここまで人気が出たのか？</li>\n<li>V8(JavaScriptエンジン)とは何か？</li>\n<li>JavaScriptCore</li>\n<li>Edge Workerとの相性の良さ</li>\n<li>JITコンパイラ</li>\n<li>Denoはどういう背景で生まれてきているのか？</li>\n<li>モジュールを取り巻く課題</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n</ul>\n<h2 id=\"-\">訂正</h2>\n<ul>\n<li>冒頭で第81回と話しておりますが、82回の誤りです。</li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "itunes:summary": "<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/denofalsehua\">denoの話</a></li>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/bun-first-impressions\">Bun first impressions</a></li>\n<li>Node.js、Deno、Bunとは何か？</li>\n<li>JavaScriptランタイムとは何か？</li>\n<li>サーバーサイドJavaScript</li>\n<li>expressを利用してWebサーバーを立てるコードは、Node.js以外でも動くのか？</li>\n<li>ECMAScript と ランタイム との関係は？</li>\n<li>TC39</li>\n<li>Node.js はどんな経緯で生まれてきた？</li>\n<li>Rubyを書くタイミングと、JavaScriptを書くタイミングでのコンテキストスイッチ</li>\n<li>netv8</li>\n<li>イベントループモデルとは何か？</li>\n<li>ブロッキング処理、for文やJSON.parse()</li>\n<li>なぜ、Node.jsはここまで人気が出たのか？</li>\n<li>V8(JavaScriptエンジン)とは何か？</li>\n<li>JavaScriptCore</li>\n<li>Edge Workerとの相性の良さ</li>\n<li>JITコンパイラ</li>\n<li>Denoはどういう背景で生まれてきているのか？</li>\n<li>モジュールを取り巻く課題</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n</ul>\n<h2 id=\"-\">訂正</h2>\n<ul>\n<li>冒頭で第81回と話しておりますが、82回の誤りです。</li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "itunes:title": "82. Node.js、Deno、Bun （前編） w/ yosuke_furukawa",
+      "itunes:episodeType": "full",
+      "podcast:episode": 83
+    },
+    {
       "title": "81. 低遅延ライブ配信を支える技術 w/ mmasaki",
       "description": "<p>mmasakiさんをゲストに、HLSやRTMPなどの配信技術、WebRTCを利用した配信技術とアーキテクチャ、そのスケーラビリティとトレードオフなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://nttcom.connpass.com/event/257675/\">低遅延ライブ配信を支える技術 - NTT Com Open TechLunch #1</a></li>\n<li><a href=\"https://www.ntt.com/business/services/voice-visual-communication/business-support/smartvlive.html\">Smart vLive</a></li>\n<li>配信とは？</li>\n<li>YouTube や Twitch</li>\n<li>古くはどういう技術で、どのような仕組みで配信が行われていた？</li>\n<li>RTMP、MPEG-DASH、HLS</li>\n<li>HTTPストリーミングでパケットが落ちたらどうなる？</li>\n<li>キャッシュ、HTTPにのっかることのメリット</li>\n<li>HTTPベースストリーミングにおける進化</li>\n<li>HTTP Rangeリクエスト</li>\n<li>CMAF、Ultra Low Latency</li>\n<li>HTTPベースによる遅延限界は何秒ぐらい？</li>\n<li>Sub Secondを狙った WebRTCによる配信</li>\n<li>なぜ、HTTPベースの配信は遅延が大きいのか？</li>\n<li>超低遅延配信って、ビジネス的なユースケースってあるの？</li>\n<li>End-End はどのような技術で使われている</li>\n<li>Upstream としてRTMP、クラウド内転送のSRT、DownStreamにWebRTC</li>\n<li>RTMPってどういうプロトコル？</li>\n<li>WebRTCの負荷とスケーラビリティ</li>\n<li>スケーラビリティと遅延とのトレードオフ</li>\n<li>実績では10,000クライアントまで、puppeteerにより確認済み</li>\n<li>負荷試験の負荷が難しい</li>\n<li><a href=\"https://gstreamer.freedesktop.org/\">GStreamer</a> をRustから制御</li>\n<li>FECやRTXは利用している？</li>\n<li>WebRTCでプロキシを通す工夫、TURNサーバーの利用</li>\n<li>環境が異なるクライアントに対して、体験を高める工夫は？</li>\n<li>WebTransport、WebCodecsの現状</li>\n<li><a href=\"https://fukabori.fm/episode/43\">43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz</a></li>\n<li>中途採用募集中: <a href=\"https://hrmos.co/pages/nttcom0033/jobs/1692897\">低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
       "guid": {
