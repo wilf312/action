@@ -7,7 +7,7 @@
       "#text": null
     },
     {
-      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=637817382",
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:170031062/sounds.rss?before=637830285",
       "@rel": "next",
       "@type": "application/rss+xml",
       "#text": null
@@ -15,8 +15,8 @@
   ],
   "title": "楽しいラジオ「ドングリFM」",
   "link": "http://donguri.fm/",
-  "pubDate": "Wed, 05 Oct 2022 06:45:05 +0000",
-  "lastBuildDate": "Wed, 05 Oct 2022 06:45:05 +0000",
+  "pubDate": "Tue, 11 Oct 2022 10:25:09 +0000",
+  "lastBuildDate": "Tue, 11 Oct 2022 10:25:09 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1360901077"
+      },
+      "title": "901リスニング量が足らないと聴き取れないポッドキャスト",
+      "pubDate": "Tue, 11 Oct 2022 10:25:09 +0000",
+      "link": "https://soundcloud.com/dongurifm/901a",
+      "itunes:duration": "00:16:06",
+      "itunes:author": "donguri.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "滑舌について話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "itunes:subtitle": "滑舌について話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/W…",
+      "description": "滑舌について話しました。\n\n#dongurifm へのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\n裏ドングリ\nhttps://community.camp-fire.jp/projects/view/206637",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1360901077-dongurifm-901a.mp3",
+        "@length": 15462399,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/artworks-6WaUhPzDPV8hW31g-BSuvUA-t3000x3000.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
@@ -12515,31 +12540,6 @@
       },
       "itunes:image": {
         "@href": "https://i1.sndcdn.com/artworks-000553127307-7qpflx-t3000x3000.jpg",
-        "#text": null
-      }
-    },
-    {
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "tag:soundcloud,2010:tracks/637817382"
-      },
-      "title": "401 narumiさんがいま使ってる最高の財布",
-      "pubDate": "Tue, 18 Jun 2019 14:00:09 +0000",
-      "link": "https://soundcloud.com/dongurifm/401a",
-      "itunes:duration": "00:11:02",
-      "itunes:author": "donguri.fm",
-      "itunes:explicit": "no",
-      "itunes:summary": "財布について話しました。\n\nグッチ\nhttps://www.gucci.com/jp/ja/ca/women/womens-small-leather-goods-c-women-small-leather-goods\n\nKINOKUNIYA の KINOKUNIYA スライドジッパーバッグ4タイプセット を Amazon でチェック！\nhttps://amzn.to/2WQFOH5\n\n池澤あやか\nhttps://twitter.com/ikeay/status/1104756279166156800\nhttps://twitter.com/ikeay/status/1090490506897809408\n\n小さい財布\nhttps://superclassic.jp/?pid=31812710\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "itunes:subtitle": "財布について話しました。\n\nグッチ\nhttps://www.gucci.com/jp/ja/ca/…",
-      "description": "財布について話しました。\n\nグッチ\nhttps://www.gucci.com/jp/ja/ca/women/womens-small-leather-goods-c-women-small-leather-goods\n\nKINOKUNIYA の KINOKUNIYA スライドジッパーバッグ4タイプセット を Amazon でチェック！\nhttps://amzn.to/2WQFOH5\n\n池澤あやか\nhttps://twitter.com/ikeay/status/1104756279166156800\nhttps://twitter.com/ikeay/status/1090490506897809408\n\n小さい財布\nhttps://superclassic.jp/?pid=31812710\n\nドングリfmへのお便りはこちら\ngoo.gl/forms/WlhFWl5MKqpp2VXQ2\n\nドングリfm\nhttp://donguri.fm",
-      "enclosure": {
-        "@type": "audio/mpeg",
-        "@url": "https://feeds.soundcloud.com/stream/637817382-dongurifm-401a.mp3",
-        "@length": 10602787,
-        "#text": null
-      },
-      "itunes:image": {
-        "@href": "https://i1.sndcdn.com/artworks-000553111632-it3le4-t3000x3000.jpg",
         "#text": null
       }
     }
