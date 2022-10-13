@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy",
+      "description": "<ul>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/wantedly/hi18n\">https://github.com/wantedly/hi18n</a></li>\n</ul>",
+      "link": "https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "387581c2-3f7d-43c5-813b-0f9f08577df5"
+      },
+      "dc:creator": "Wantedly Engineering",
+      "pubDate": "Thu, 13 Oct 2022 08:39:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/64205bfc/podcast/play/58984574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-13%2Fe55e18cc-1607-03d1-a2c1-0e37ca9e63a3.mp3",
+        "@length": 92415500,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<ul>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/wantedly/hi18n\">https://github.com/wantedly/hi18n</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:04:10",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "プロダクト基盤を EKS に移行しました w/ @irotoris",
       "description": "<p>Infrastructure Squad Leader の <a href=\"https://twitter.com/irotoris\">@irotoris</a>&nbsp;を呼んで EKS 移行の背景を聞きました</p>\n<ul>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/423392\">プロダクト基盤を EKS に移行しました | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/node-taints-managed-node-groups.html\">マネージド型ノードグループでのノードテイント - Amazon EKS</a></li>\n  <li><a href=\"https://speakerdeck.com/potsbo/github-team-based-access-control\">Kubernetes における最高の認証フローを本気で考え直してみた / GitHub Team Based Access Control - Speaker Deck</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/EKS--w-irotoris-e1oe8qb",
