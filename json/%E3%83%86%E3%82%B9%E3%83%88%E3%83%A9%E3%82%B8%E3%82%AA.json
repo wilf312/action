@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 09 Oct 2022 23:00:00 +0000",
+  "lastBuildDate": "Sun, 16 Oct 2022 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,35 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第219回 テストラジオ 勇者本：ソフトウェアテストをカイゼンする 50のアイデア について",
+      "link": "https://testradio.fm/testradio-no/1358/",
+      "pubDate": "Sun, 16 Oct 2022 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1358"
+      },
+      "comments": "https://testradio.fm/testradio-no/1358/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1358/feed/",
+      "slash:comments": 0,
+      "category": "テストラジオ",
+      "description": "ソフトウェアテストをカイゼンする50のアイデア",
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/10/N219TestRadio.mp3",
+        "@length": 70969945,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "ソフトウェアテストをカイゼンする50のアイデア",
+      "itunes:summary": "ソフトウェアテストをカイゼンする50のアイデア",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:34",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1358
+      }
+    },
     {
       "title": "第217回 テストラジオ 見つけたバグの話 と ワークショップやミーティングのファシリテーションについて",
       "link": "https://testradio.fm/testradio-no/1350/",
@@ -339,39 +368,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1301
-      }
-    },
-    {
-      "title": "第207回 テストラジオ JaSST Tohokuの話",
-      "link": "https://testradio.fm/testradio-no/1297/",
-      "pubDate": "Sun, 05 Jun 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1297"
-      },
-      "comments": "https://testradio.fm/testradio-no/1297/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1297/feed/",
-      "slash:comments": 0,
-      "category": [
-        "ゲスト回",
-        "ぱいん回",
-        "よしたけ回"
-      ],
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/06/N207TestRadio_Podcast.mp3",
-        "@length": 141768963,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://twitter.com/hiroyuki3gou/status/1533393619121770496?s=20&t=MDWSK_XS1jPWnTiZ9ixMCw      https://www.youtube.com/watch?v=-bj6fcA4gLk",
-      "itunes:summary": "https://twitter.com/hiroyuki3gou/status/1533393619121770496?s=20&t=MDWSK_XS1jPWnTiZ9ixMCw<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://www.youtube.com/watch?v=-bj6fcA4gLk",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "59:04",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1297
       }
     }
   ]
