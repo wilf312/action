@@ -25,6 +25,48 @@
   "itunes:type": "episodic",
   "item": [
     {
+      "title": "83. Node.js、Deno、Bun（後編） w/ yosuke_furukawa",
+      "description": "<p>yosuke_furukawaさんをゲストに、Bunの狙い、Bunのパフォーマンス比較、Node.jsとBunとのIO実装の違いなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>Bunはどういう課題感を持って登場してきた？</li>\n<li>Node.jsの3倍速いという主張</li>\n<li>パフォーマンス比較時におけるZigとJavaScript実装の差</li>\n<li>ライブラリのマーケティング戦略</li>\n<li>libuv とは？</li>\n<li>OS の違いにおける実装隠ぺい戦略</li>\n<li>Bun は libuv を利用していない</li>\n<li>Mac向けにkqueue、Linux向けにio_uring</li>\n<li>Bun のProduction利用は?</li>\n<li><a href=\"https://github.com/honojs/hono\">honojs/hono</a></li>\n<li>この後、業界はどのように変わっていく？</li>\n<li>三国志</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n<li>採用: <a href=\"https://recruit.nijibox.jp/\">NIJIBOX</a></li>\n<li>採用: <a href=\"https://www.recruit.co.jp/employment/\">リクルート</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/084_UpQdY.mp3"
+      },
+      "enclosure": {
+        "@url": "https://r.pitpa.jp/episodes/01gfj1sfmsdp7yp53901fn0sss.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "pubDate": "Mon, 17 Oct 2022 18:00:00 +0900",
+      "media:content": [
+        {
+          "@url": "https://r.pitpa.jp/episodes/01gfj1sfmsdp7yp53901fn0sss.mp3",
+          "@type": "audio/mpeg",
+          "media:player": {
+            "@url": "https://pitpa.jp/player/fukabori/episodes/12654/embedded",
+            "#text": null
+          }
+        },
+        {
+          "@url": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+          "@type": "image/png",
+          "#text": null
+        }
+      ],
+      "itunes:author": "iwashi",
+      "itunes:image": {
+        "@href": "https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png",
+        "#text": null
+      },
+      "itunes:duration": "00:22:21",
+      "itunes:explicit": "no",
+      "itunes:subtitle": "<p>yosuke_furukawaさんをゲストに、Bunの狙い、Bunのパフォーマンス比較、Node.jsとBunとのIO実装の違いなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>Bunはどういう課題感を持って登場してきた？</li>\n<li>Node.jsの3倍速いという主張</li>\n<li>パフォーマンス比較時におけるZigとJavaScript実装の差</li>\n<li>ライブラリのマーケティング戦略</li>\n<li>libuv とは？</li>\n<li>OS の違いにおける実装隠ぺい戦略</li>\n<li>Bun は libuv を利用していない</li>\n<li>Mac向けにkqueue、Linux向けにio_uring</li>\n<li>Bun のProduction利用は?</li>\n<li><a href=\"https://github.com/honojs/hono\">honojs/hono</a></li>\n<li>この後、業界はどのように変わっていく？</li>\n<li>三国志</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n<li>採用: <a href=\"https://recruit.nijibox.jp/\">NIJIBOX</a></li>\n<li>採用: <a href=\"https://www.recruit.co.jp/employment/\">リクルート</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "itunes:summary": "<p>yosuke_furukawaさんをゲストに、Bunの狙い、Bunのパフォーマンス比較、Node.jsとBunとのIO実装の違いなどについて語っていただいたエピソードです。</p>\n<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li>Bunはどういう課題感を持って登場してきた？</li>\n<li>Node.jsの3倍速いという主張</li>\n<li>パフォーマンス比較時におけるZigとJavaScript実装の差</li>\n<li>ライブラリのマーケティング戦略</li>\n<li>libuv とは？</li>\n<li>OS の違いにおける実装隠ぺい戦略</li>\n<li>Bun は libuv を利用していない</li>\n<li>Mac向けにkqueue、Linux向けにio_uring</li>\n<li>Bun のProduction利用は?</li>\n<li><a href=\"https://github.com/honojs/hono\">honojs/hono</a></li>\n<li>この後、業界はどのように変わっていく？</li>\n<li>三国志</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n<li>採用: <a href=\"https://recruit.nijibox.jp/\">NIJIBOX</a></li>\n<li>採用: <a href=\"https://www.recruit.co.jp/employment/\">リクルート</a></li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
+      "itunes:title": "83. Node.js、Deno、Bun（後編） w/ yosuke_furukawa",
+      "itunes:episodeType": "full",
+      "podcast:episode": 84
+    },
+    {
       "title": "82. Node.js、Deno、Bun （前編） w/ yosuke_furukawa",
       "description": "<h2 id=\"-\">話したネタ</h2>\n<ul>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/denofalsehua\">denoの話</a></li>\n<li><a href=\"https://speakerdeck.com/yosuke_furukawa/bun-first-impressions\">Bun first impressions</a></li>\n<li>Node.js、Deno、Bunとは何か？</li>\n<li>JavaScriptランタイムとは何か？</li>\n<li>サーバーサイドJavaScript</li>\n<li>expressを利用してWebサーバーを立てるコードは、Node.js以外でも動くのか？</li>\n<li>ECMAScript と ランタイム との関係は？</li>\n<li>TC39</li>\n<li>Node.js はどんな経緯で生まれてきた？</li>\n<li>Rubyを書くタイミングと、JavaScriptを書くタイミングでのコンテキストスイッチ</li>\n<li>netv8</li>\n<li>イベントループモデルとは何か？</li>\n<li>ブロッキング処理、for文やJSON.parse()</li>\n<li>なぜ、Node.jsはここまで人気が出たのか？</li>\n<li>V8(JavaScriptエンジン)とは何か？</li>\n<li>JavaScriptCore</li>\n<li>Edge Workerとの相性の良さ</li>\n<li>JITコンパイラ</li>\n<li>Denoはどういう背景で生まれてきているのか？</li>\n<li>モジュールを取り巻く課題</li>\n<li><a href=\"https://jsconf.jp/2022/\">JSConf JP</a></li>\n</ul>\n<h2 id=\"-\">訂正</h2>\n<ul>\n<li>冒頭で第81回と話しておりますが、82回の誤りです。</li>\n</ul>\n<h3>番組のスポンサー</h3><ul><li><a href=https://www.dnode.cloud/join>D.Node採用募集ページはこちら</a></li></ul>",
       "guid": {
