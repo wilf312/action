@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 03 Oct 2022 11:00:50 +0000",
+  "lastBuildDate": "Mon, 17 Oct 2022 11:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -66,6 +66,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第153回 帰ってきたから帰ってきたぜ！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1330",
+      "pubDate": "Mon, 17 Oct 2022 20:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1330"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1330#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1330",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet  【関連記事】 ・Fortinet warns admins to patch crit[...]",
+      "content:encoded": "<div id=\"tweetbutton1330\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1330&text=%E7%AC%AC153%E5%9B%9E%20%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B%E3%82%89%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1330\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/\">Fortinet warns admins to patch critical auth bypass bug immediately</a><br />\n・<a href=\"https://www.fortiguard.com/psirt/FG-IR-22-377\">FortiOS / FortiProxy / FortiSwitchManager – Authentication bypass on administrative interface | PSIRT Advisories | FortiGuard</a><br />\n・<a href=\"https://www.fortinet.com/blog/psirt-blogs/update-regarding-cve-2022-40684\">Update Regarding CVE-2022-40684 | Fortinet Blog</a><br />\n・<a href=\"https://www.jpcert.or.jp/at/2022/at220025.html\">Fortinet製FortiOS、FortiProxyおよびFortiSwitchManagerの認証バイパスの脆弱性（CVE-2022-40684）に関する注意喚起</a><br />\n・<a href=\"https://www.cisa.gov/binding-operational-directive-23-01\">Binding Operational Directive 23-01 | CISA</a><br />\n・<a href=\"https://www.cisa.gov/implementation-guidance-binding-operational-directive-23-01\">Implementation Guidance for Binding Operational Directive 23-01 | CISA</a><br />\n・<a href=\"https://blog.nicter.jp/2022/08/nicter_statistics_2022_2q/\">NICTER観測統計 – 2022年4月～6月 – NICTER Blog</a><br />\n・<a href=\"https://www.greynoise.io/blog/new-sensor-benign-activity\">GreyNoise | Sensors and benign scanner activity</a><br />\n・<a href=\"https://censys.io/greynoise-research-finds-censys-scan-data-is-fastest-most-comprehensive/\">GreyNoise Research Finds Censys Scan Data Is Fastest, Most Comprehensive – Censys</a><br />\n・<a href=\"https://www.shop-orange.info/c/gr1132/horinishi-001\">アウトドアスパイス 「ほりにし」 【アウトドア/キャンプ/BBQ/調味料/料理】 | ほりにしの通販 | Orange</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/onsen.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/onsen-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1332\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/onsen-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/onsen-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/onsen-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/onsen.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>湯沢で喋ってきました。白浜からの繋がり。アレフーズ。Forti再び。Switch ManagerはVLANの管理とかのやつですかね。6系が多い印象。KEVかKEVcどっちで言うかいつも悩む。インターネットに公開してないでしょって思い込み。攻撃の観測、攻撃コードのリリースから実被害が遅れてくるケースもあるでしょうね。脆弱性に関する情報のコントロールの難しさ。攻撃コード見たけどめちゃ単純。明暗を分ける脆弱性対処のタイミング。脆弱性対処は侵害を受けていないかの確認を行うまでですね。資産の可視化と脆弱性への対処。クレデンシャルスキャンまで実施してる組織ってどれくらいあるんだろうか。KEVから漏れるものもだけどCVEから漏れるものもですね。これを回すことも大事だけど、うまく回せない場合の工夫などが知りたいですね。自分たちできることとそうでないことの明確化も進む。優しいスキャンはまぁまぁ厳しめのもある。早いやつは1時間。他人勝手ディスカバリー。検証用はほんと気をつけて！たまに「はらにし」と勘違いする。一本あれば重宝するアレ。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年10月15日&nbsp;</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_221017_36.938189896535064_138.81274701707304.mp3",
+        "@length": 29637206,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet  【関連記事】 ・Fortinet warns admins to patch crit[...]",
+      "itunes:summary": "Tweet  【関連記事】 ・Fortinet warns admins to patch crit[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:01:32"
+    },
     {
       "title": "第152回 ソムリエの嗜みと文書管理の重要性！市場？史上？初！！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1325",
@@ -335,12 +364,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1265"
       },
-      "comments": "https://www.tsujileaks.com/?p=1265#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1265",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社 ・Ille[...]",
-      "content:encoded": "<div id=\"tweetbutton1265\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265&text=%E7%AC%AC143%E5%9B%9E%20%E5%8B%9D%E6%89%8B%E3%81%AB%E4%B8%AD%E7%B6%99%E7%82%B9%EF%BC%81%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%90%E3%83%A9%E3%83%9E%E3%82%AD%E3%81%A8%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%9F%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1265\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://yamae-foods.net/item/%e9%ab%98%e5%8d%83%e7%a9%82%e5%b3%a1%e3%81%a4%e3%82%86%e3%80%80%e3%81%8b%e3%81%a4%e3%81%8a%e5%91%b3%e3%81%86%e3%81%be%e3%81%8f%e3%81%a1/\">高千穂峡つゆ かつお味うまくち | ヤマエ食品工業株式会社</a><br />\n・<a href=\"https://gric.recherche.usherbrooke.ca/rpaas/\">Illegitimate residential proxy services: the case of 911.re and its IOCs</a><br />\n・<a href=\"https://jsac.jpcert.or.jp/archive/2022/pdf/JSAC2022_3_ino_jp.pdf\">国内悪性プロキシサービスとの闘争</a><br />\n・<a href=\"https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/\">Exposing initial access broker with ties to Conti</a><br />\n・<a href=\"https://www.proofpoint.com/jp/blog/threat-insight/bumblebee-is-still-transforming\">マルウェアBumblebeeのトランスフォーム | Proofpoint JP</a><br />\n・<a href=\"https://elis531989.medium.com/the-chronicles-of-bumblebee-the-hook-the-bee-and-the-trickbot-connection-686379311056\">The chronicles of Bumblebee: The Hook, the Bee, and the Trickbot connection | by Eli Salem | Medium</a><br />\n・<a href=\"https://attack.mitre.org/techniques/T1553/005/\">Subvert Trust Controls: Mark-of-the-Web Bypass, Sub-technique T1553.005 – Enterprise | MITRE ATT&CK®</a><br />\n・<a href=\"https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion\">Anatomy of Attack: Truth Behind the Costa Rica Government Ransomware 5-Day Intrusion</a><br />\n・<a href=\"https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/\">CONTInuing the Bazar Ransomware Story</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/tanktop.png\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png\" alt=\"\" width=\"300\" height=\"247\" class=\"alignnone size-medium wp-image-1266\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/tanktop-300x247.png 300w, https://www.tsujileaks.com/wp-content/uploads/tanktop.png 569w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>猫と仲良くなってます。オチもない話もする。不正アクセスとは。定義の共通認識。窓口運用の勘所。アレルギーこわい。蕎麦屋行きたい。知らないものだらけです。れじでんしゃるぷろくしさーびすとは。プライベートVPN使いっぱであるサービスにブロックされたことある。知らないうちに中継点。全くのダマ。注意喚起があまり届いていない感じ。これ広まると守る側が厄介。皆さんプライベートVPN使ってます？マルウェアのほうのバンブルビー。マルウェアの置き換わり。ISOを使う理由。届いた方こっそり教えてください！手口自体は別のマルウェアが使うことも考慮。収録中にどっかに行ったのかと思った。CONTIとコスタリカの話。今度は戦争だ！耳にタコの脆弱性。典型的感ある。外向けHTTPS通信の中身ってどれくらいの組織が見てるかな。攻撃マニュアルがあることを逆手にとれますね。週休2日攻撃。RedTeam演習ぽさ。こういうのは知っておき、来たらどうするかを考えてほしい。攻撃者をあたふたさせよう。物持ちいいんです。レスラーノウハウ。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年07月23日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_220725_tanktop.mp3",
         "@length": 33136165,
