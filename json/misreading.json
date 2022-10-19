@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Fri, 14 Oct 2022 23:49:33 +0000",
+  "lastBuildDate": "Wed, 19 Oct 2022 23:33:21 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#101: Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics",
+      "link": "https://misreading.chat/2022/10/19/101-lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 19 Oct 2022 23:33:21 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=787"
+      },
+      "description": "高給企業 Databricks の論文を森田が冷やかしました。",
+      "content:encoded": "<p>高給企業 Databricks の論文を<a href=\"https://twitter.com/omo2009\">森田</a>が冷やかしました。感想などはハッシュタグ&nbsp;<a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>&nbsp;や <a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a> にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/10/ep101.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.databricks.com/research/lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics\">Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics – Databricks</a></li>\n\n\n\n<li><a href=\"https://www.databricks.com/research/delta-lake-high-performance-acid-table-storage-overcloud-object-stores\">Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores – Databricks</a></li>\n\n\n\n<li><a href=\"https://www.cidrdb.org/cidr2022/papers/a100-behm.pdf\">Photon: A High-Performance Query Engine for the Lakehouse</a></li>\n</ul>\n\n\n\n<ul>\n<li><a href=\"https://www.theregister.com/2022/10/11/google_bigquery/\">Google announces updates for BigQuery data warehouse • The Register</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/10/ep101.mp3",
+        "@length": 29294887,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2441,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "高給企業 Databricks の論文を森田が冷やかしました。",
+      "googleplay:description": "高給企業 Databricks の論文を森田が冷やかしました。",
+      "itunes:subtitle": "高給企業 Databricks の論文を森田が冷やかしました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#100 AMA!",
       "link": "https://misreading.chat/2022/10/14/100-ama/",
