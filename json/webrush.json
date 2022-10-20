@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 13 Oct 2022 10:00:00 +0000",
-  "lastBuildDate": "Thu, 13 Oct 2022 10:00:13 +0000",
+  "pubDate": "Thu, 20 Oct 2022 10:00:00 +0000",
+  "lastBuildDate": "Thu, 20 Oct 2022 10:00:12 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c300e500-5480-4e2c-a12f-7c7ce0b314d8"
+      },
+      "title": "Episode 206: A Little Diddy About A Griddy With Tanner Linsley",
+      "description": "<p>Recording date: 09/29/2022</p><p><br /> </p><p>John Papa [@John_Papa](https://twitter.com/john_papa)</p><p><br /> </p><p>Ward Bell [@WardBell](https://twitter.com/WardBell)</p><p><br /> </p><p>Dan Wahlin [@DanWahlin](https://twitter.com/danwahlin)</p><p><br /> </p><p>Craig Shoemaker [@craigshoemaker](https://twitter.com/craigshoemaker)</p><p><br /> </p><p>Tanner Linsley [@TannerLinsley](https://twitter.com/tannerlinsley)</p><p><br /> </p><p>## Brought to you by</p><p><br /> </p><p>* <a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><br /> </p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">![ag-grid-logo-2](https://johnpapa.net/content/images/2021/07/Unknown.png)</a></p><p><br /> </p><p>* <a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p><p><br /> </p><p>## Resources:</p><p><br /> </p><p>* [TanStack](https://tanstack.com/)</p><p>* [TanStack Table on github](https://github.com/TanStack/table)</p><p>* [Tanner Linsley’s conference presentation 5 Years of Building React Table at React Summit 2022](https://www.youtube.com/watch?v=O4IWJcafX8c)</p><p>* [Ag-Grid](https://www.ag-grid.com/)</p><p>* [Nozzle](https://www.nozzle.ai/ )</p><p>* [Memoization in Javascript and React](https://www.freecodecamp.org/news/memoization-in-javascript-and-react )</p><p><br /> </p><p>## Timejumps</p><p><br /> </p><p>* <strong>**[01:18](</strong>#t=01:18<strong>)**</strong> Guest introduction</p><p>* <strong>**[02:59](</strong>#t=02:59<strong>)**</strong> What functionality does a data grid give you?</p><p>* <strong>**[08:13](</strong>#t=08:13<strong>)**</strong> Sponsor: Ag Grid</p><p>* <strong>**[09:17](</strong>#t=09:17<strong>)**</strong> What are people using grids for?</p><p>* <strong>**[16:22](</strong>#t=16:22<strong>)**</strong> How do you differ from Ag Grid?</p><p>* <strong>**[29:02](</strong>#t=29:02<strong>)**</strong> How do you decide which grid to use?</p><p>* <strong>**[34:54](</strong>#t=34:54<strong>)**</strong> Do you work with other libraries besides React?</p><p>* <strong>**[36:27](</strong>#t=36:27<strong>)**</strong> Virtualization</p><p>* <strong>**[39:42](</strong>#t=39:42<strong>)**</strong> Sponsor: IdeaBlade</p><p>* <strong>**[40:34](</strong>#t=40:34<strong>)**</strong> Why would you want to use headless?</p><p>* <strong>**[42:52](</strong>#t=42:52<strong>)**</strong> Final thoughts</p><p><br /> </p><p>Podcast editing on this episode done by [Chris Enns of Lemon Productions](https://lemonproductions.ca/).</p>",
+      "pubDate": "Thu, 20 Oct 2022 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Recording date: 09/29/2022</p><p><br /> </p><p>John Papa [@John_Papa](https://twitter.com/john_papa)</p><p><br /> </p><p>Ward Bell [@WardBell](https://twitter.com/WardBell)</p><p><br /> </p><p>Dan Wahlin [@DanWahlin](https://twitter.com/danwahlin)</p><p><br /> </p><p>Craig Shoemaker [@craigshoemaker](https://twitter.com/craigshoemaker)</p><p><br /> </p><p>Tanner Linsley [@TannerLinsley](https://twitter.com/tannerlinsley)</p><p><br /> </p><p>## Brought to you by</p><p><br /> </p><p>* <a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><br /> </p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">![ag-grid-logo-2](https://johnpapa.net/content/images/2021/07/Unknown.png)</a></p><p><br /> </p><p>* <a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p><p><br /> </p><p>## Resources:</p><p><br /> </p><p>* [TanStack](https://tanstack.com/)</p><p>* [TanStack Table on github](https://github.com/TanStack/table)</p><p>* [Tanner Linsley’s conference presentation 5 Years of Building React Table at React Summit 2022](https://www.youtube.com/watch?v=O4IWJcafX8c)</p><p>* [Ag-Grid](https://www.ag-grid.com/)</p><p>* [Nozzle](https://www.nozzle.ai/ )</p><p>* [Memoization in Javascript and React](https://www.freecodecamp.org/news/memoization-in-javascript-and-react )</p><p><br /> </p><p>## Timejumps</p><p><br /> </p><p>* <strong>**[01:18](</strong>#t=01:18<strong>)**</strong> Guest introduction</p><p>* <strong>**[02:59](</strong>#t=02:59<strong>)**</strong> What functionality does a data grid give you?</p><p>* <strong>**[08:13](</strong>#t=08:13<strong>)**</strong> Sponsor: Ag Grid</p><p>* <strong>**[09:17](</strong>#t=09:17<strong>)**</strong> What are people using grids for?</p><p>* <strong>**[16:22](</strong>#t=16:22<strong>)**</strong> How do you differ from Ag Grid?</p><p>* <strong>**[29:02](</strong>#t=29:02<strong>)**</strong> How do you decide which grid to use?</p><p>* <strong>**[34:54](</strong>#t=34:54<strong>)**</strong> Do you work with other libraries besides React?</p><p>* <strong>**[36:27](</strong>#t=36:27<strong>)**</strong> Virtualization</p><p>* <strong>**[39:42](</strong>#t=39:42<strong>)**</strong> Sponsor: IdeaBlade</p><p>* <strong>**[40:34](</strong>#t=40:34<strong>)**</strong> Why would you want to use headless?</p><p>* <strong>**[42:52](</strong>#t=42:52<strong>)**</strong> Final thoughts</p><p><br /> </p><p>Podcast editing on this episode done by [Chris Enns of Lemon Productions](https://lemonproductions.ca/).</p>",
+      "enclosure": {
+        "@length": 36217759,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/70ae17df-b93f-4c60-8a00-31d7bd4b9ee9/audio/a5846951-86aa-4f43-b56b-455033681481/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 206: A Little Diddy About A Griddy With Tanner Linsley",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:49:48",
+      "itunes:summary": "Tanner Linsley talks about writing open source software at TanStack, including TanStack Table, and answers our questions about data grid functionality, why reach for a grid, and why should developers consider headless?",
+      "itunes:subtitle": "Tanner Linsley talks about writing open source software at TanStack, including TanStack Table, and answers our questions about data grid functionality, why reach for a grid, and why should developers consider headless?",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 206
+    },
     {
       "guid": {
         "@isPermaLink": false,
