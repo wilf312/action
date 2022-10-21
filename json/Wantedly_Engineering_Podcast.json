@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "Native ESM に移行するまでに直面した全問題と解決策 w/ @qnighy",
+      "description": "<ul>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu\">あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/19603f11d5f264\">Native ESM + TypeScript 拡張子問題: 歯にものが挟まったようなスッキリしない書き流し</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/6267716578c76d\">Node.jsのネイティブES Modulesサポートが抱える問題を解決するBabelプラグインを書いた</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/421107\">Storyshotsを止めてスナップショットテストの仕組みを自作した話 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/nodejs/node/pull/40902\">esm: add pjson.importInterop to support __esModule by qnighy · Pull Request #40902 · nodejs/node</a></li>\n  <li><a href=\"https://github.com/nodejs/node/pull/40892\">esm: add option to interpret __esModule like Babel by qnighy · Pull Request #40892 · nodejs/node</a></li>\n</ul>",
+      "link": "https://anchor.fm/wantedly-dev/episodes/Native-ESM--w-qnighy-e1ph4ib",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "41364fb6-aab1-442b-b8ef-e3e245c8ac55"
+      },
+      "dc:creator": "Wantedly Engineering",
+      "pubDate": "Fri, 21 Oct 2022 04:11:13 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/64205bfc/podcast/play/59330571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F3a0bc2fb-bc06-a475-d2f9-a7f0fcd6fa3b.mp3",
+        "@length": 99977008,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<ul>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu\">あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/19603f11d5f264\">Native ESM + TypeScript 拡張子問題: 歯にものが挟まったようなスッキリしない書き流し</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/6267716578c76d\">Node.jsのネイティブES Modulesサポートが抱える問題を解決するBabelプラグインを書いた</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/421107\">Storyshotsを止めてスナップショットテストの仕組みを自作した話 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/nodejs/node/pull/40902\">esm: add pjson.importInterop to support __esModule by qnighy · Pull Request #40902 · nodejs/node</a></li>\n  <li><a href=\"https://github.com/nodejs/node/pull/40892\">esm: add option to interpret __esModule like Babel by qnighy · Pull Request #40892 · nodejs/node</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:09:25",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy",
       "description": "<ul>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/wantedly/hi18n\">https://github.com/wantedly/hi18n</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu",
