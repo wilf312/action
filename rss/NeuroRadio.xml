@@ -11,7 +11,7 @@
 			<link>https://neuroradio.tokyo</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 05 Sep 2022 15:41:15 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Oct 2022 05:24:08 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/4ddf5488/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[NeuroRadio]]></author>
 		<copyright><![CDATA[NeuroRadio]]></copyright>
@@ -31,6 +31,454 @@
 			<itunes:category text="Life Sciences"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+		<item>
+			<title><![CDATA[#48 In search of thalamo-cortical computational principles]]></title>
+			<description><![CDATA[<p>We sat down with Lukas Ian Schmitt (<a href="https://twitter.com/lucidians">@lucidianS)</a>, a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)</p>
+<p>Show Notes:</p>
+<ul>
+ <li>Ian’s lab at RIKEN: <a href="https://distributedcognitionlab.riken.jp/">Laboratory for Distributed Cognitive Processing</a></li>
+ <li>Miho: <a href="https://scholar.google.co.jp/citations?user=f_jfiOMAAAAJ&amp;hl=ja">Miho Nakajima-san</a></li>
+ <li><a href="https://mcgovern.mit.edu/profile/michael-halassa/">Mike Halassa’s lab @NYU-&gt;MIT</a></li>
+ <li><a href="https://sites.tufts.edu/haydonlab/">Phil Haydon’s lab @Tufts</a></li>
+  <li><a href="https://academic.oup.com/book/30097/chapter-abstract/256810406?redirectedFrom=fulltext">The Neuron by Kaczmarek (and Levitan)</a>&nbsp;(Still have the original on my shelf here. – Ian)</li>
+  <li><a href="https://www.jneurosci.org/content/32/13/4417.short">Ian’s work at the grad school: the astrocyte-neuron interaction&nbsp;</a></li>
+  <li>Ian’s works&nbsp; during postdoc: Rule representations in the cross-modal sensory attention task <a href="https://www.nature.com/articles/nature15398">#1</a> <a href="https://www.nature.com/articles/nature22073">#2</a> (mentioned as ”The thalamo-cortical paper”, MD-mPFC loop) <a href="https://doi.org/10.1016/j.neuron.2019.09.040">#3</a></li>
+  <li><a href="https://www.nature.com/articles/nature22324">Guo/Inagaki’s paper</a> (VM/VAL-ALM loop)</li>
+  <li><a href="https://www.nature.com/articles/s41593-018-0269-z">If you change the rule sets, the dynamics change a little bit in subgroups of MD thalamic neurons</a></li>
+  <li><a href="https://doi.org/10.1016/j.neures.2018.10.008">A review discussing the region identified as the PPC</a> &nbsp;- Ian</li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0168010219306704">Ian’s strategy for the research&nbsp;</a></li>
+  <li><a href="https://www.nature.com/articles/nature25510">Ahena Akrami’s paper</a></li>
+  <li><a href="https://cohenlab.johnshopkins.edu/">Jeremiah Cohen</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S089662731930529X">His recent publication on representation of the task history in PL</a></li>
+  <li><a href="https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html">Computational Advantages conferred by biologically inspired networks</a></li>
+  <li><a href="https://www.nature.com/articles/s41593-022-01088-4">Structured networks sometimes perform better/faster</a></li>
+  <li>Idea of having a parallel stream of processing through the thalamus is useful: I was thinking of some ideas from Murray Sherman and Sabine Kastner (e.g. <a href="https://www.nature.com/articles/nn.4269">this paper</a>, and <a href="https://www.science.org/doi/10.1126/science.1223082">this</a>) – Ian</li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>Really nice conversation though I guess we have some difference as to whether thalamic computational roles are an inevitable network design or just based on evolutionary history (I guess time and research will reveal who's right!) In any case, I really enjoyed talking science with you both! - Ian</li>
+  <li>I enjoyed the discussion and it was nice to see the connection between Ian's work and others' on the thalamus. It seems the time has finally come to decipher thalamic functions and I hope our new work will change the way we think about how the brain computes information!　-Miho</li>
+  <li>Recent evolutionary expansion in thalamus/LP could be just optimization around local minima. Let’s see how Ian’s work would discard this possibility! For now, we can happily agree to disagree! &nbsp;- Kenta/萩</li>
+  <li>It was a perfect way to drop our first episode for both domestic and international listeners. Thanks, Ian and Miho! -Tak/脇</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/48-In-search-of-thalamo-cortical-computational-principles-e1p9q8a</link>
+			<guid isPermaLink="false">24fca70a-554f-4769-84ca-270587774aac</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Mon, 17 Oct 2022 02:29:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/59090634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-15%2Fd839a8ed-d7ed-fbcb-2b8b-908e43a7de43.mp3" length="109956384" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;We sat down with Lukas Ian Schmitt (&lt;a href=&quot;https://twitter.com/lucidians&quot;&gt;@lucidianS)&lt;/a&gt;, a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Ian’s lab at RIKEN: &lt;a href=&quot;https://distributedcognitionlab.riken.jp/&quot;&gt;Laboratory for Distributed Cognitive Processing&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Miho: &lt;a href=&quot;https://scholar.google.co.jp/citations?user=f_jfiOMAAAAJ&amp;amp;hl=ja&quot;&gt;Miho Nakajima-san&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://mcgovern.mit.edu/profile/michael-halassa/&quot;&gt;Mike Halassa’s lab @NYU-&amp;gt;MIT&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://sites.tufts.edu/haydonlab/&quot;&gt;Phil Haydon’s lab @Tufts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academic.oup.com/book/30097/chapter-abstract/256810406?redirectedFrom=fulltext&quot;&gt;The Neuron by Kaczmarek (and Levitan)&lt;/a&gt;&amp;nbsp;(Still have the original on my shelf here. – Ian)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jneurosci.org/content/32/13/4417.short&quot;&gt;Ian’s work at the grad school: the astrocyte-neuron interaction&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ian’s works&amp;nbsp; during postdoc: Rule representations in the cross-modal sensory attention task &lt;a href=&quot;https://www.nature.com/articles/nature15398&quot;&gt;#1&lt;/a&gt; &lt;a href=&quot;https://www.nature.com/articles/nature22073&quot;&gt;#2&lt;/a&gt; (mentioned as ”The thalamo-cortical paper”, MD-mPFC loop) &lt;a href=&quot;https://doi.org/10.1016/j.neuron.2019.09.040&quot;&gt;#3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature22324&quot;&gt;Guo/Inagaki’s paper&lt;/a&gt; (VM/VAL-ALM loop)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-018-0269-z&quot;&gt;If you change the rule sets, the dynamics change a little bit in subgroups of MD thalamic neurons&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neures.2018.10.008&quot;&gt;A review discussing the region identified as the PPC&lt;/a&gt; &amp;nbsp;- Ian&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0168010219306704&quot;&gt;Ian’s strategy for the research&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature25510&quot;&gt;Ahena Akrami’s paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cohenlab.johnshopkins.edu/&quot;&gt;Jeremiah Cohen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S089662731930529X&quot;&gt;His recent publication on representation of the task history in PL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://proceedings.neurips.cc/paper/2020/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html&quot;&gt;Computational Advantages conferred by biologically inspired networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-022-01088-4&quot;&gt;Structured networks sometimes perform better/faster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Idea of having a parallel stream of processing through the thalamus is useful: I was thinking of some ideas from Murray Sherman and Sabine Kastner (e.g. &lt;a href=&quot;https://www.nature.com/articles/nn.4269&quot;&gt;this paper&lt;/a&gt;, and &lt;a href=&quot;https://www.science.org/doi/10.1126/science.1223082&quot;&gt;this&lt;/a&gt;) – Ian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Really nice conversation though I guess we have some difference as to whether thalamic computational roles are an inevitable network design or just based on evolutionary history (I guess time and research will reveal who&apos;s right!) In any case, I really enjoyed talking science with you both! - Ian&lt;/li&gt;
+  &lt;li&gt;I enjoyed the discussion and it was nice to see the connection between Ian&apos;s work and others&apos; on the thalamus. It seems the time has finally come to decipher thalamic functions and I hope our new work will change the way we think about how the brain computes information!　-Miho&lt;/li&gt;
+  &lt;li&gt;Recent evolutionary expansion in thalamus/LP could be just optimization around local minima. Let’s see how Ian’s work would discard this possibility! For now, we can happily agree to disagree! &amp;nbsp;- Kenta/萩&lt;/li&gt;
+  &lt;li&gt;It was a perfect way to drop our first episode for both domestic and international listeners. Thanks, Ian and Miho! -Tak/脇&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:31:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>48</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#47 On flexibility in cognitive processes, behavioral paradigms, and careers]]></title>
+			<description><![CDATA[<p>理研CBSの中島美保さん（<a href="https://twitter.com/mihonakajima"><u>@mihonakajima</u></a>）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)</p>
+<p>Show Notes:</p>
+<ul>
+ <li><a href="https://distributedcognitionlab.riken.jp/index-jp.html"><u>認知分散処理研究チームHP</u></a></li>
+ <li><a href="https://scholar.google.co.jp/citations?user=f_jfiOMAAAAJ&amp;hl=ja"><u>中島さん業績集</u></a></li>
+ <li><a href="https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1181-nathaniel-heintz/"><u>Nat Heintzラボ</u></a></li>
+ <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867414011696"><u>オキシトシンに反応するmPFCニューロンのメス性行動への影響…のお仕事</u></a></li>
+  <li><a href="https://www.nature.com/articles/nbt0997-859"><u>BAC Tgの基礎を作ったHeintzたちの仕事 in 1997</u></a></li>
+  <li>BAC トランスジェニックの神経科学への応用を解説した<a href="https://www.nature.com/articles/35104049"><u>2001年のレビュー</u></a></li>
+  <li><a href="https://halassalab.mit.edu/"><u>Michael Halassaラボ</u></a></li>
+  <li>Halassaラボでの<a href="https://www.sciencedirect.com/science/article/pii/S0896627319304799"><u>注意機能による感覚選択を司る脳回路、のお仕事</u></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627319308438%5b"><u>その自閉症モデルでの状態と緩和方法探索、のお仕事</u></a></li>
+  <li><a href="https://cbs.riken.jp/en/faculty/l.schmitt/"><u>イアン・シュミット</u></a></li>
+  <li>GENSATの<a href="https://www.nature.com/articles/nature02033"><u>論文</u></a></li>
+  <li>TRAP ：ここではTranslating Ribosome Affinity Purification (TRAP) のこと。<a href="https://www.sciencedirect.com/science/article/pii/S0092867408013652"><u>その１</u></a> <a href="https://www.sciencedirect.com/science/article/pii/S0092867408013664"><u>その２</u></a></li>
+  <li>Parafascicular nucleus: 束傍核。<a href="https://www.sciencedirect.com/science/article/pii/S0896627319301709"><u>Striatumによく投射する</u></a></li>
+  <li>TRN: Thalamic Reticular Nucleus 皮質とThalamusを繋ぐ抑制性ニューロンの核。最近印象的だった<a href="https://www.nature.com/articles/s41586-020-2504-5"><u>Guoping Fenの仕事とか</u></a></li>
+  <li>マット：<a href="https://biology.mit.edu/profile/matthew-a-wilson/"><u>Matt Wilson</u></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867414008150"><u>State-dependentなTRNの論文</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature15398"><u>イアンが最初に立ち上げた行動</u></a></li>
+  <li>中島さんが神経回路学会に載せていた<a href="https://www.jstage.jst.go.jp/article/jnns/27/3-4/27_127/_pdf/-char/ja"><u>行動実験に関する日本語レビュー</u></a></li>
+  <li><a href="https://ekmillerlab.mit.edu/"><u>Earl Millerラボ</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature22073"><u>MD（mediodorsal thalamus）の仕事</u></a></li>
+  <li>b2bになっている<a href="https://www.nature.com/articles/nature22324"> Guo/Inagakiの仕事</a> (ALMに対応するthalamusは”VM/VAL”)</li>
+  <li>Pulvinar視床枕。ヒトでの機能的な示唆については、<a href="https://www.science.org/doi/full/10.1126/science.1223082"><u>これ</u></a>とか</li>
+  <li><a href="https://mcgovern.mit.edu/profile/guoping-feng/"><u>Guoping Feng</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature17427"><u>2016年のプロジェクト</u></a></li>
+  <li>PPC：posterior parietal cortex</li>
+  <li><a href="https://neuroradio.tokyo/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/"><u>NeuroRadioのCell Type 回</u></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627318302460"><u>KarelとSvobodaとCallawayのレビュー</u></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867422007838?via%3Dihub"><u>Hongkuiのレビュー</u></a></li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>今回は貴重な機会を頂きありがとうございました！本当に長々と申し訳ないです。お二人とも話が非常に明快で一瞬で重要なポイントをついてくるので、勉強になりました。これからの更なるご活躍が楽しみです！私は日本語も英語も結構間違えてて反省！（汗）エレベーターピッチの練習しないと。これからも人間の行動に迫っていきたい思うので乞うご期待！（中島）</li>
+  <li>ブザキとかは心理学で先に定義された用語に神経活動を後から対応付けることに否定的な主張をしていますが（それも一理あるとは思いますが）、今回の話を聞いて、やっぱ行動心理学をちゃんと勉強した方が色々とやりようがありそうだよな～、と思いました（脇）</li>
+  <li>常々、研究者として一番大事な能力の一つはresilienceだと思っていますが、度々苦境に立たされつつも、その度にいい仕事をいい論文に仕上げてくるスタイルに大変刺激を受けます！（萩）</li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/47-On-flexibility-in-cognitive-processes--behavioral-paradigms--and-careers-e1p09a8</link>
+			<guid isPermaLink="false">eaec0dde-00b4-43b1-bf44-80a0a1ddea31</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Mon, 10 Oct 2022 02:14:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/58778376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-9%2Fbd43b5f8-5e1d-9698-19eb-614f19ff83d7.mp3" length="200988309" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;理研CBSの中島美保さん（&lt;a href=&quot;https://twitter.com/mihonakajima&quot;&gt;&lt;u&gt;@mihonakajima&lt;/u&gt;&lt;/a&gt;）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://distributedcognitionlab.riken.jp/index-jp.html&quot;&gt;&lt;u&gt;認知分散処理研究チームHP&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://scholar.google.co.jp/citations?user=f_jfiOMAAAAJ&amp;amp;hl=ja&quot;&gt;&lt;u&gt;中島さん業績集&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1181-nathaniel-heintz/&quot;&gt;&lt;u&gt;Nat Heintzラボ&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867414011696&quot;&gt;&lt;u&gt;オキシトシンに反応するmPFCニューロンのメス性行動への影響…のお仕事&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nbt0997-859&quot;&gt;&lt;u&gt;BAC Tgの基礎を作ったHeintzたちの仕事 in 1997&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;BAC トランスジェニックの神経科学への応用を解説した&lt;a href=&quot;https://www.nature.com/articles/35104049&quot;&gt;&lt;u&gt;2001年のレビュー&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://halassalab.mit.edu/&quot;&gt;&lt;u&gt;Michael Halassaラボ&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Halassaラボでの&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627319304799&quot;&gt;&lt;u&gt;注意機能による感覚選択を司る脳回路、のお仕事&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627319308438%5b&quot;&gt;&lt;u&gt;その自閉症モデルでの状態と緩和方法探索、のお仕事&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cbs.riken.jp/en/faculty/l.schmitt/&quot;&gt;&lt;u&gt;イアン・シュミット&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GENSATの&lt;a href=&quot;https://www.nature.com/articles/nature02033&quot;&gt;&lt;u&gt;論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TRAP ：ここではTranslating Ribosome Affinity Purification (TRAP) のこと。&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867408013652&quot;&gt;&lt;u&gt;その１&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867408013664&quot;&gt;&lt;u&gt;その２&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Parafascicular nucleus: 束傍核。&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627319301709&quot;&gt;&lt;u&gt;Striatumによく投射する&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TRN: Thalamic Reticular Nucleus 皮質とThalamusを繋ぐ抑制性ニューロンの核。最近印象的だった&lt;a href=&quot;https://www.nature.com/articles/s41586-020-2504-5&quot;&gt;&lt;u&gt;Guoping Fenの仕事とか&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;マット：&lt;a href=&quot;https://biology.mit.edu/profile/matthew-a-wilson/&quot;&gt;&lt;u&gt;Matt Wilson&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867414008150&quot;&gt;&lt;u&gt;State-dependentなTRNの論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature15398&quot;&gt;&lt;u&gt;イアンが最初に立ち上げた行動&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;中島さんが神経回路学会に載せていた&lt;a href=&quot;https://www.jstage.jst.go.jp/article/jnns/27/3-4/27_127/_pdf/-char/ja&quot;&gt;&lt;u&gt;行動実験に関する日本語レビュー&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ekmillerlab.mit.edu/&quot;&gt;&lt;u&gt;Earl Millerラボ&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature22073&quot;&gt;&lt;u&gt;MD（mediodorsal thalamus）の仕事&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;b2bになっている&lt;a href=&quot;https://www.nature.com/articles/nature22324&quot;&gt; Guo/Inagakiの仕事&lt;/a&gt; (ALMに対応するthalamusは”VM/VAL”)&lt;/li&gt;
+  &lt;li&gt;Pulvinar視床枕。ヒトでの機能的な示唆については、&lt;a href=&quot;https://www.science.org/doi/full/10.1126/science.1223082&quot;&gt;&lt;u&gt;これ&lt;/u&gt;&lt;/a&gt;とか&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mcgovern.mit.edu/profile/guoping-feng/&quot;&gt;&lt;u&gt;Guoping Feng&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature17427&quot;&gt;&lt;u&gt;2016年のプロジェクト&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PPC：posterior parietal cortex&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/&quot;&gt;&lt;u&gt;NeuroRadioのCell Type 回&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627318302460&quot;&gt;&lt;u&gt;KarelとSvobodaとCallawayのレビュー&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867422007838?via%3Dihub&quot;&gt;&lt;u&gt;Hongkuiのレビュー&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;今回は貴重な機会を頂きありがとうございました！本当に長々と申し訳ないです。お二人とも話が非常に明快で一瞬で重要なポイントをついてくるので、勉強になりました。これからの更なるご活躍が楽しみです！私は日本語も英語も結構間違えてて反省！（汗）エレベーターピッチの練習しないと。これからも人間の行動に迫っていきたい思うので乞うご期待！（中島）&lt;/li&gt;
+  &lt;li&gt;ブザキとかは心理学で先に定義された用語に神経活動を後から対応付けることに否定的な主張をしていますが（それも一理あるとは思いますが）、今回の話を聞いて、やっぱ行動心理学をちゃんと勉強した方が色々とやりようがありそうだよな～、と思いました（脇）&lt;/li&gt;
+  &lt;li&gt;常々、研究者として一番大事な能力の一つはresilienceだと思っていますが、度々苦境に立たされつつも、その度にいい仕事をいい論文に仕上げてくるスタイルに大変刺激を受けます！（萩）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:47:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#46 The Fos expression we saw that day]]></title>
+			<description><![CDATA[<p>ゲスト参加型のJournal Club。海馬CA1ニューロンにおけるFos発現と場所表象・神経活動の双方的な関係を調べた論文を題材に、北西卓磨さん(<a href="https://twitter.com/tkitanishi">@tkitanishi</a>)、吉良信一郎さん(<a href="https://twitter.com/ShinichiroKira">@ShinichiroKira</a>)、田中和正さん(<a href="https://twitter.com/Kazu_ZT">@Kazu_ZT</a>)、柳下祥さん(<a href="https://twitter.com/sho_yagishita">@sho_yagishita</a>) とディスカッションをしました。(9/22 収録)</p>
+<p>Show Notes(<a href="http://neuroradio.tokyo/2022/10/06/46-the-fos-expression-we-saw-that-day/">完全版</a>):</p>
+<ul>
+ <li>お題の論文：<a href="https://www.nature.com/articles/s41586-022-05113-1">Fos ensembles encode and shape stable spatial maps in the hippocampus</a></li>
+ <li><a href="https://groups.oist.jp/mru/kazumasa-tanaka"><u>田中さん</u></a></li>
+  <li><a href="https://neuroradio.tokyo/2021/04/09/7-fireside-chat-with-dr-kazumasa-z-tanaka/"><u>NR田中さん回</u></a></li>
+  <li><a href="https://www.kitanishilab.org/"><u>北西さん</u></a></li>
+  <li>NR北西さん回<a href="https://neuroradio.tokyo/2022/05/16/36-robust-routing-to-strong-physiology-molecular-research-at-kis-part-1/"> <u>Part1</u></a><a href="https://neuroradio.tokyo/2022/05/24/37-robust-routing-to-strong-physiology-molecular-research-at-kis-part-2/"> <u>Part2</u></a></li>
+  <li><a href="https://sites.google.com/view/yagishita-group"><u>柳下さん</u></a></li>
+  <li><a href="https://twitter.com/shinichirokira"><u>吉良さん</u></a></li>
+  <li><a href="https://harveylab.hms.harvard.edu/">Harveyラボ</a></li>
+  <li><a href="https://greenberg.hms.harvard.edu/">Greenbergラボ</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aat5397">田中さんのトムラボでの論文</a></li>
+  <li><a href="http://cbp.brain.riken.jp/">Thomas McHugh</a></li>
+  <li><a href="https://www.jax.org/strain/018306">よく使われるcFos-tTA, Mayfordの作ったライン</a> *knock-inと言ってますがtgです(萩)</li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1143839"><u>の元論文</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature11028">最初の利根川研での仕事</a> Fig1fgでshGFPがまあまあ綺麗に見えている</li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627314008952">田中さんのWiltgen研での仕事</a></li>
+  <li>Georg Kellerの<a href="https://www.biorxiv.org/content/10.1101/644526v1">bioRxiv論文</a> (Mahringer 2019)</li>
+  <li><a href="https://www.jneurosci.org/content/21/5/1635"><u>Rewardの所に場所細胞が増える</u></a></li>
+  <li>海馬の一部の細胞でreward response,<a href="https://doi.org/10.1016/j.neuron.2018.06.008"> <u>David Tank のDedicated Population for Reward論文</u></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-020-3031-0">以前Greenberg達が作ったFosのトリプルノックアウトの系</a></li>
+  <li>1st authorが書いた<a href="https://www.nature.com/articles/s41593-022-01050-4"><u>behavioural engagementに関する前の仕事</u></a><u>&nbsp;</u></li>
+  <li>FamiliarなEnvironmentだとFosはほぼ出ない、の<a href="http://learnmem.cshlp.org/content/15/12/899"><u>論文</u></a></li>
+  <li>最近Twitter界隈ではCausalityに関する議論がある：いろんなスレッドがありましたが、この(Tweetに基づく<a href="https://www.sas.upenn.edu/psych/rust-lab/Summary_Causality_Discussion.pdf">)PDF</a>が一番核心を突いていたように思います。 by 吉良さん</li>
+  <li><a href="https://doi.org/10.1016/S0896-6273(04)00192-8"><u>アテンションを高めて空間タスクをやらせると安定性up</u></a></li>
+  <li><a href="https://www.nature.com/articles/nn.3329">Schitzerがendoscopeで見始めた時</a></li>
+  <li>学生たちと一緒に書いた<a href="https://doi.org/10.1016/j.conb.2022.102568">Current Opinionの総説</a></li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>JCでこんなに論文ほじくり返したのは久しぶりです！マニアックなディスカッションもあって、とっても濃い2時間でした。またぜひ呼んでください！次は辛口ゲストを集めてNR主催のお二人の論文とかどうですかね？（笑）(田中)</li>
+  <li>濃くて楽しいJCでした！それぞれのラボのスタイルが垣間見えるのも面白いですね。(北西)</li>
+  <li>海馬やfosを専門にやっている方々と議論できてよかったです。ぜひ定期的にやって欲しいです。今回のような分野横断的で新しい方向性の論文だと特に盛り上がりそうです。他の方々の議論を聞くのも面白そう(柳下)</li>
+  <li>普段あまり接することのない、分子と神経活動の関係を扱う論文について議論する機会をいただき、とても勉強になりました。図表のフェアな作成法や因果性の解釈についても、様々なご意見を伺うことができて充実したJCでした。(吉良)</li>
+  <li>音声での論文紹介をはじめた当初から、正直どのくらい伝わるんだろうか...と思いながらやってますが、最近では自分達が楽しめてその雰囲気が伝われば、ドメイン知識自体は別にどうでもいいかなと開き直っています。メンバーを変えつつ定期的にやれると楽しそうです(萩原)</li>
+  <li>これだけ大人数のディスカッションなのに議論が発散しなかったことも印象的でした。皆さんお忙しい中ご都合つけてくださりありがとうございました！ (宮脇)</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/46-The-Fos-expression-we-saw-that-day-e1osaro</link>
+			<guid isPermaLink="false">cac0729e-4099-4822-9e11-f703c75cb31c</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Fri, 07 Oct 2022 02:11:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/58648888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-6%2Faff02244-1fcb-8eb1-a01a-241bd5f109f1.mp3" length="188526572" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ゲスト参加型のJournal Club。海馬CA1ニューロンにおけるFos発現と場所表象・神経活動の双方的な関係を調べた論文を題材に、北西卓磨さん(&lt;a href=&quot;https://twitter.com/tkitanishi&quot;&gt;@tkitanishi&lt;/a&gt;)、吉良信一郎さん(&lt;a href=&quot;https://twitter.com/ShinichiroKira&quot;&gt;@ShinichiroKira&lt;/a&gt;)、田中和正さん(&lt;a href=&quot;https://twitter.com/Kazu_ZT&quot;&gt;@Kazu_ZT&lt;/a&gt;)、柳下祥さん(&lt;a href=&quot;https://twitter.com/sho_yagishita&quot;&gt;@sho_yagishita&lt;/a&gt;) とディスカッションをしました。(9/22 収録)&lt;/p&gt;
+&lt;p&gt;Show Notes(&lt;a href=&quot;http://neuroradio.tokyo/2022/10/06/46-the-fos-expression-we-saw-that-day/&quot;&gt;完全版&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;お題の論文：&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05113-1&quot;&gt;Fos ensembles encode and shape stable spatial maps in the hippocampus&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://groups.oist.jp/mru/kazumasa-tanaka&quot;&gt;&lt;u&gt;田中さん&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2021/04/09/7-fireside-chat-with-dr-kazumasa-z-tanaka/&quot;&gt;&lt;u&gt;NR田中さん回&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kitanishilab.org/&quot;&gt;&lt;u&gt;北西さん&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NR北西さん回&lt;a href=&quot;https://neuroradio.tokyo/2022/05/16/36-robust-routing-to-strong-physiology-molecular-research-at-kis-part-1/&quot;&gt; &lt;u&gt;Part1&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://neuroradio.tokyo/2022/05/24/37-robust-routing-to-strong-physiology-molecular-research-at-kis-part-2/&quot;&gt; &lt;u&gt;Part2&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/yagishita-group&quot;&gt;&lt;u&gt;柳下さん&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/shinichirokira&quot;&gt;&lt;u&gt;吉良さん&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://harveylab.hms.harvard.edu/&quot;&gt;Harveyラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://greenberg.hms.harvard.edu/&quot;&gt;Greenbergラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aat5397&quot;&gt;田中さんのトムラボでの論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cbp.brain.riken.jp/&quot;&gt;Thomas McHugh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jax.org/strain/018306&quot;&gt;よく使われるcFos-tTA, Mayfordの作ったライン&lt;/a&gt; *knock-inと言ってますがtgです(萩)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1143839&quot;&gt;&lt;u&gt;の元論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature11028&quot;&gt;最初の利根川研での仕事&lt;/a&gt; Fig1fgでshGFPがまあまあ綺麗に見えている&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627314008952&quot;&gt;田中さんのWiltgen研での仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Georg Kellerの&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/644526v1&quot;&gt;bioRxiv論文&lt;/a&gt; (Mahringer 2019)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jneurosci.org/content/21/5/1635&quot;&gt;&lt;u&gt;Rewardの所に場所細胞が増える&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;海馬の一部の細胞でreward response,&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2018.06.008&quot;&gt; &lt;u&gt;David Tank のDedicated Population for Reward論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-020-3031-0&quot;&gt;以前Greenberg達が作ったFosのトリプルノックアウトの系&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;1st authorが書いた&lt;a href=&quot;https://www.nature.com/articles/s41593-022-01050-4&quot;&gt;&lt;u&gt;behavioural engagementに関する前の仕事&lt;/u&gt;&lt;/a&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/li&gt;
+  &lt;li&gt;FamiliarなEnvironmentだとFosはほぼ出ない、の&lt;a href=&quot;http://learnmem.cshlp.org/content/15/12/899&quot;&gt;&lt;u&gt;論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;最近Twitter界隈ではCausalityに関する議論がある：いろんなスレッドがありましたが、この(Tweetに基づく&lt;a href=&quot;https://www.sas.upenn.edu/psych/rust-lab/Summary_Causality_Discussion.pdf&quot;&gt;)PDF&lt;/a&gt;が一番核心を突いていたように思います。 by 吉良さん&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/S0896-6273(04)00192-8&quot;&gt;&lt;u&gt;アテンションを高めて空間タスクをやらせると安定性up&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.3329&quot;&gt;Schitzerがendoscopeで見始めた時&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;学生たちと一緒に書いた&lt;a href=&quot;https://doi.org/10.1016/j.conb.2022.102568&quot;&gt;Current Opinionの総説&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;JCでこんなに論文ほじくり返したのは久しぶりです！マニアックなディスカッションもあって、とっても濃い2時間でした。またぜひ呼んでください！次は辛口ゲストを集めてNR主催のお二人の論文とかどうですかね？（笑）(田中)&lt;/li&gt;
+  &lt;li&gt;濃くて楽しいJCでした！それぞれのラボのスタイルが垣間見えるのも面白いですね。(北西)&lt;/li&gt;
+  &lt;li&gt;海馬やfosを専門にやっている方々と議論できてよかったです。ぜひ定期的にやって欲しいです。今回のような分野横断的で新しい方向性の論文だと特に盛り上がりそうです。他の方々の議論を聞くのも面白そう(柳下)&lt;/li&gt;
+  &lt;li&gt;普段あまり接することのない、分子と神経活動の関係を扱う論文について議論する機会をいただき、とても勉強になりました。図表のフェアな作成法や因果性の解釈についても、様々なご意見を伺うことができて充実したJCでした。(吉良)&lt;/li&gt;
+  &lt;li&gt;音声での論文紹介をはじめた当初から、正直どのくらい伝わるんだろうか...と思いながらやってますが、最近では自分達が楽しめてその雰囲気が伝われば、ドメイン知識自体は別にどうでもいいかなと開き直っています。メンバーを変えつつ定期的にやれると楽しそうです(萩原)&lt;/li&gt;
+  &lt;li&gt;これだけ大人数のディスカッションなのに議論が発散しなかったことも印象的でした。皆さんお忙しい中ご都合つけてくださりありがとうございました！ (宮脇)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:37:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#45 The amyloid hypothesis of Alzheimer's disease, explained]]></title>
+			<description><![CDATA[<p>認知症研究者の佐野俊春さん（<a href="https://twitter.com/tsano321">@tsano321</a>）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）</p>
+<p>Show Notes (<a href="http://neuroradio.tokyo/2022/10/03/45-the-amyloid-hypothesis-of-alzheimers-disease-explained/">完全版</a>):</p>
+<ul>
+ <li><a href="https://researchmap.jp/sano_toshiharu">佐野さん</a></li>
+ <li><a href="http://motomasalab.riken.jp/">タンパク質構造疾患研究チーム</a></li>
+  <li><a href="http://www.neuropathology.m.u-tokyo.ac.jp/">岩坪研</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S096999612100259X">PhD時代の仕事（の一部）</a></li>
+  <li><a href="https://doi.org/10.15083/0002005004">博士論文の要旨</a></li>
+  <li><a href="https://www.nature.com/articles/nrn2786">神経変性疾患のプリオン様伝播仮説</a></li>
+  <li><a href="https://www.jstage.jst.go.jp/article/naika/108/4/108_701/_pdf/-char/ja">生活習慣病と認知症のレビュー by 佐野さん</a></li>
+  <li>Aβの治験が上手くいかない：<a href="https://www.nature.com/articles/d41586-018-05719-4">Aβを標的とする抗体医薬の治験失敗が続く中で2018年に出たコメンタリー</a></li>
+  <li>抗Aβ抗体医薬が効かない原因の考察を含む<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001694">Selkoe達によるAβ仮説レビュー</a></li>
+  <li><a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease">Aβ*56捏造疑惑に関する記事</a></li>
+  <li><a href="https://www.alzforum.org/news/community-news/sylvain-lesne-who-found-av56-accused-image-manipulation">Aβ*56捏造疑惑が出た時のAlzforumの反応</a></li>
+  <li><a href="https://www.pnas.org/doi/10.1073/pnas.95.11.6448">Aβオリゴマーが神経細胞毒性を有する</a></li>
+  <li><a href="https://www.yodosha.co.jp/jikkenigaku/book/9784758125185/860.html">富田先生によるアルツハイマー病の歴史の表</a></li>
+  <li>1984年 <a href="https://www.sciencedirect.com/science/article/pii/S0006291X84801904">アルツハイマー病患者の脳内の血管壁に沈着したAmyloid βを単離</a></li>
+  <li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.82.12.4245">老人斑の主要構成成分はAmyloid β</a></li>
+  <li>1987年 <a href="https://www.nature.com/articles/325733a0">APPのクローニング</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1566067">1992にamyloid cascade hypothesisというタイトルのperspectiveがscienceに</a></li>
+  <li><a href="https://www.nature.com/articles/nature11283">2012年のプロテクティブ変異（アイスラインド変異）の論文</a></li>
+  <li><a href="https://www.nature.com/articles/22124">Dale Schenkがワクチン療法を考え、合成ヒトAβ42をマウスに注射</a></li>
+  <li><a href="https://www.alzforum.org/therapeutics/an-1792">AN-1792ワクチンの臨床試験、髄膜脳炎、すぐ中止</a></li>
+  <li><a href="https://www.nature.com/articles/s41573-022-00391-w">Aβをターゲットにした臨床試験のまとめ</a></li>
+  <li><a href="https://doi.org/10.1016/j.jalz.2015.06.1893">軽度ADに限ればsolanezumabは認知機能低下を抑制</a>（訂正：複数の試験ではなく、この研究しかありませんでした）</li>
+  <li><a href="https://www.nature.com/articles/nature19323">aducanumab論文（Phase1b）</a></li>
+  <li><a href="https://www.biogen.co.jp/ja_JP/news-insights/japanaffiliatenews/2016-09-05-news.html">認知機能正常な高齢者や認知機能低下が緩やかな高齢者由来のB細胞ライブラリーを用いて開発（Reverse Translational Medicine）&nbsp;</a></li>
+  <li><a href="https://link.springer.com/article/10.14283/jpad.2022.30">2019年の中間解析で中止になったが、中間解析の後に入ってきたデータを含めて再解析すると、2つの試験のうち1つで効果が出ていた</a>（効果としてはかなり小さい）</li>
+  <li><a href="https://www.eisai.co.jp/news/2022/news202271.html">Phase3が進行中のエーザイの別のAβ抗体（lecanemab）（収録後に試験結果が発表され、承認申請予定とのこと）</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1474442221003616">血液バイオマーカーによる早期発見の研究、レビュー</a></li>
+  <li><a href="https://www.alzforum.org/therapeutics/donanemab">その他のAβ抗体としては、Eli LillyのdonanemabがPhase3進行中</a></li>
+</ul>
+<p><br></p>
+<p>Editorial Notes:</p>
+<ul>
+  <li>治験が失敗続きなのにいまだにアミロイドβ仮説が信じられている理由、アミロイドβ仮説の背景、アルツハイマー病の研究対象としての面白さなどを伝えられたら嬉しいです。　と思っていましたが、まさか収録後にレカネマブの主要評価項目達成という大事件が起きたのは予想外でした。このニュースでアミロイドβ仮説に対する世間の風向きも変わったかも？（佐野）</li>
+  <li>「僕は病気に関しては無知なので」と口走ってしまっていますが、当然進行を考えた上でのポーズです(ので「お前MD持ちだろ」とかつっこまないように！)。（萩）</li>
+  <li>一口にアミロイドβ仮説と言っても色々なものがあるということ、それに至るまでの歴史や登場人物が学べて非常に面白かったです。佐野さんありがとうございます！（脇）</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/45-The-amyloid-hypothesis-of-Alzheimers-disease--explained-e1om3bp</link>
+			<guid isPermaLink="false">ea8f8876-86e4-43d5-9c93-9812c8daa7be</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Mon, 03 Oct 2022 02:31:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/58444601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-2%2Ff47a4b3f-0530-0d0e-e72a-d9140f77a542.mp3" length="241388930" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;認知症研究者の佐野俊春さん（&lt;a href=&quot;https://twitter.com/tsano321&quot;&gt;@tsano321&lt;/a&gt;）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）&lt;/p&gt;
+&lt;p&gt;Show Notes (&lt;a href=&quot;http://neuroradio.tokyo/2022/10/03/45-the-amyloid-hypothesis-of-alzheimers-disease-explained/&quot;&gt;完全版&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://researchmap.jp/sano_toshiharu&quot;&gt;佐野さん&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;http://motomasalab.riken.jp/&quot;&gt;タンパク質構造疾患研究チーム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.neuropathology.m.u-tokyo.ac.jp/&quot;&gt;岩坪研&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S096999612100259X&quot;&gt;PhD時代の仕事（の一部）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.15083/0002005004&quot;&gt;博士論文の要旨&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nrn2786&quot;&gt;神経変性疾患のプリオン様伝播仮説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jstage.jst.go.jp/article/naika/108/4/108_701/_pdf/-char/ja&quot;&gt;生活習慣病と認知症のレビュー by 佐野さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Aβの治験が上手くいかない：&lt;a href=&quot;https://www.nature.com/articles/d41586-018-05719-4&quot;&gt;Aβを標的とする抗体医薬の治験失敗が続く中で2018年に出たコメンタリー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;抗Aβ抗体医薬が効かない原因の考察を含む&lt;a href=&quot;https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001694&quot;&gt;Selkoe達によるAβ仮説レビュー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease&quot;&gt;Aβ*56捏造疑惑に関する記事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alzforum.org/news/community-news/sylvain-lesne-who-found-av56-accused-image-manipulation&quot;&gt;Aβ*56捏造疑惑が出た時のAlzforumの反応&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.95.11.6448&quot;&gt;Aβオリゴマーが神経細胞毒性を有する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yodosha.co.jp/jikkenigaku/book/9784758125185/860.html&quot;&gt;富田先生によるアルツハイマー病の歴史の表&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;1984年 &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0006291X84801904&quot;&gt;アルツハイマー病患者の脳内の血管壁に沈着したAmyloid βを単離&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/abs/10.1073/pnas.82.12.4245&quot;&gt;老人斑の主要構成成分はAmyloid β&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;1987年 &lt;a href=&quot;https://www.nature.com/articles/325733a0&quot;&gt;APPのクローニング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1566067&quot;&gt;1992にamyloid cascade hypothesisというタイトルのperspectiveがscienceに&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature11283&quot;&gt;2012年のプロテクティブ変異（アイスラインド変異）の論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/22124&quot;&gt;Dale Schenkがワクチン療法を考え、合成ヒトAβ42をマウスに注射&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alzforum.org/therapeutics/an-1792&quot;&gt;AN-1792ワクチンの臨床試験、髄膜脳炎、すぐ中止&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41573-022-00391-w&quot;&gt;Aβをターゲットにした臨床試験のまとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jalz.2015.06.1893&quot;&gt;軽度ADに限ればsolanezumabは認知機能低下を抑制&lt;/a&gt;（訂正：複数の試験ではなく、この研究しかありませんでした）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature19323&quot;&gt;aducanumab論文（Phase1b）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biogen.co.jp/ja_JP/news-insights/japanaffiliatenews/2016-09-05-news.html&quot;&gt;認知機能正常な高齢者や認知機能低下が緩やかな高齢者由来のB細胞ライブラリーを用いて開発（Reverse Translational Medicine）&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.springer.com/article/10.14283/jpad.2022.30&quot;&gt;2019年の中間解析で中止になったが、中間解析の後に入ってきたデータを含めて再解析すると、2つの試験のうち1つで効果が出ていた&lt;/a&gt;（効果としてはかなり小さい）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eisai.co.jp/news/2022/news202271.html&quot;&gt;Phase3が進行中のエーザイの別のAβ抗体（lecanemab）（収録後に試験結果が発表され、承認申請予定とのこと）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1474442221003616&quot;&gt;血液バイオマーカーによる早期発見の研究、レビュー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alzforum.org/therapeutics/donanemab&quot;&gt;その他のAβ抗体としては、Eli LillyのdonanemabがPhase3進行中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;治験が失敗続きなのにいまだにアミロイドβ仮説が信じられている理由、アミロイドβ仮説の背景、アルツハイマー病の研究対象としての面白さなどを伝えられたら嬉しいです。　と思っていましたが、まさか収録後にレカネマブの主要評価項目達成という大事件が起きたのは予想外でした。このニュースでアミロイドβ仮説に対する世間の風向きも変わったかも？（佐野）&lt;/li&gt;
+  &lt;li&gt;「僕は病気に関しては無知なので」と口走ってしまっていますが、当然進行を考えた上でのポーズです(ので「お前MD持ちだろ」とかつっこまないように！)。（萩）&lt;/li&gt;
+  &lt;li&gt;一口にアミロイドβ仮説と言っても色々なものがあるということ、それに至るまでの歴史や登場人物が学べて非常に面白かったです。佐野さんありがとうございます！（脇）&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>03:21:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#44 Timestamping academic life events onto podcast sequels]]></title>
+			<description><![CDATA[<p>帰ってきた北沢太郎さん(<a href="https://twitter.com/kitazawa_taro"><u>@kitazawa_taro</u></a>) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）</p>
+<p>Show Notes:</p>
+<ul>
+ <li><a href="https://www.kitazawa-lab.com/"><u>北沢さんラボ</u></a></li>
+ <li>北沢さん前回収録 その<a href="https://neuroradio.tokyo/2021/11/26/28-plasticity-in-engram-research-interest-part-1/"><u>１</u></a> その<a href="https://neuroradio.tokyo/2021/12/03/29-plasticity-in-engram-research-interest-part-2/"><u>２</u></a></li>
+ <li><a href="https://dandrite.au.dk/"><u>DANDRITE</u></a></li>
+ <li><a href="https://www.eventbrite.com/e/engrams-and-ensembles-in-learning-and-memory-from-molecules-to-behavior-tickets-346839575507"><u>Engram 学会</u></a></li>
+  <li><a href="https://www.nature.com/articles/s41467-018-06935-2"><u>CaMPARI2</u></a><u> </u>Georgが<a href="https://www.biorxiv.org/content/10.1101/2022.07.20.500837v1"><u>V1ミスマッチでやった</u></a>よね、という話をするのを忘れた(萩)</li>
+  <li><a href="https://www.nature.com/articles/s41586-022-05113-1"><u>Greenberg とHarveyのNature</u></a></li>
+  <li><a href="https://www.epfl.ch/labs/graefflab/"><u>Johannes Graff</u></a></li>
+  <li><a href="https://doi.org/10.1038/s41588-021-00789-z"><u>僕の論文</u></a></li>
+  <li><a href="https://erc.europa.eu/"><u>ERC</u></a></li>
+  <li><a href="https://www.columbiapsychiatry.org/profile/christine-denny-phd"><u>Christine Denny</u></a></li>
+  <li><a href="https://twitter.com/okaysteve/status/1569650055748911104"><u>がArcプッシュ</u></a></li>
+  <li><a href="https://doi.org/10.1016/j.cell.2017.12.024"><u>Arcのviral transmission</u></a></li>
+  <li><a href="https://greenberg.hms.harvard.edu/"><u>Greenberg</u></a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1208049"><u>LinのScienceは2011でした</u></a></li>
+  <li><a href="https://doi.org/10.1016/j.cell.2020.02.055"><u>FosとArcを比べたCell</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature07319"><u>活動との相関性</u></a></li>
+  <li>Npas4-”FH”はFlag-HAのknock-inで、免疫染色しやすいライン。</li>
+  <li><a href="https://doi.org/10.1038/s41586-020-3031-0"><u>Yap et al. FosKOの表現型</u></a></li>
+  <li><a href="https://tokuhain.arukikata.co.jp/copenhagen/2014/03/post_149.html"><u>デンマークの悲しいバスルーム事情</u></a><u> </u>うん、まさにこのストレス(萩)</li>
+  <li><a href="https://www.hokkai.com/ja/?switch_language=ja"><u>北海水産</u></a> 欧州全土に新鮮な(冷凍だけどw)魚介をお届け。</li>
+  <li><a href="https://mbg.au.dk/en/news-and-events/news-item/artikel/erc-bevilling-paa-11-mio-kr-til-at-studere-hvordan-hukommelse-lagres-i-hjernen"><u>北沢さん ERCスターティンググラントの解説</u></a></li>
+  <li><a href="https://www.fmi.ch/research-groups/groupleader.html?group=123"><u>Filippo</u></a> (北沢さん元ボス)</li>
+  <li><a href="https://lundbeckfonden.com/en"><u>ルンドベック財団</u></a></li>
+  <li><a href="https://neuroscienceacademydenmark.dk/"><u>学生のネットワーク Neuroscience Academy Denmark</u></a><u> </u>デンマークのPhDプログラムに興味がある人はアプライしてみるとよいかも。４年分のお給料だったり、デンマークのいろんなラボでインターンできる機会があります（北沢）</li>
+  <li><a href="https://en.wikipedia.org/wiki/The_Brain_Prize"><u>Brain Prize</u></a></li>
+  <li>コペンハーゲンの<a href="https://in.ku.dk/research/kiehn-lab/"><u>Ole Kiehn</u></a></li>
+  <li><a href="https://dandrite.au.dk/about-dandrite/organization/scientific-advisory-board"><u>DANDRITEのSAB (Scientific Advisory Board)</u></a></li>
+  <li>米原さん回@NR<a href="https://neuroradio.tokyo/2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/"> <u>その１</u></a><a href="https://neuroradio.tokyo/2021/08/13/21-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-2/"> <u>その２</u></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-022-05046-9"><u>ちゅっちゅっと吸うトランスクリプトームのNature</u></a></li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>独立一カ月後編ありがとうございます。ラボのプロジェクトの大半がオフレコになった結果萩原君とほぼだべっているだけになってしまった気が。早く論文を形にして語りたいですね！(北沢)</li>
+  <li>たまにはこのくらいゆるい回があるといいですね。編集等も楽だし笑　しかしIEG論文をさっさとなんとかしないとなー (萩)</li>
+  <li>こんな濃厚な音声版blog?もなかなかないですね。。ちなみに今回もShownotesのほとんどを北沢さんが準備してくれました～ありがとうございます！ (脇)</li>
+</ul>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/44-Timestamping-academic-life-events-onto-podcast-sequels-e1o5bgf</link>
+			<guid isPermaLink="false">69c96c9d-39ce-4e4f-ae42-df12f812b281</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Thu, 22 Sep 2022 02:32:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/57895887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-21%2F59632c01-08a2-21bf-7298-cd056a40dfff.mp3" length="144654387" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;帰ってきた北沢太郎さん(&lt;a href=&quot;https://twitter.com/kitazawa_taro&quot;&gt;&lt;u&gt;@kitazawa_taro&lt;/u&gt;&lt;/a&gt;) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.kitazawa-lab.com/&quot;&gt;&lt;u&gt;北沢さんラボ&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;北沢さん前回収録 その&lt;a href=&quot;https://neuroradio.tokyo/2021/11/26/28-plasticity-in-engram-research-interest-part-1/&quot;&gt;&lt;u&gt;１&lt;/u&gt;&lt;/a&gt; その&lt;a href=&quot;https://neuroradio.tokyo/2021/12/03/29-plasticity-in-engram-research-interest-part-2/&quot;&gt;&lt;u&gt;２&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://dandrite.au.dk/&quot;&gt;&lt;u&gt;DANDRITE&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/e/engrams-and-ensembles-in-learning-and-memory-from-molecules-to-behavior-tickets-346839575507&quot;&gt;&lt;u&gt;Engram 学会&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-018-06935-2&quot;&gt;&lt;u&gt;CaMPARI2&lt;/u&gt;&lt;/a&gt;&lt;u&gt; &lt;/u&gt;Georgが&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2022.07.20.500837v1&quot;&gt;&lt;u&gt;V1ミスマッチでやった&lt;/u&gt;&lt;/a&gt;よね、という話をするのを忘れた(萩)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05113-1&quot;&gt;&lt;u&gt;Greenberg とHarveyのNature&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.epfl.ch/labs/graefflab/&quot;&gt;&lt;u&gt;Johannes Graff&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41588-021-00789-z&quot;&gt;&lt;u&gt;僕の論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://erc.europa.eu/&quot;&gt;&lt;u&gt;ERC&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.columbiapsychiatry.org/profile/christine-denny-phd&quot;&gt;&lt;u&gt;Christine Denny&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/okaysteve/status/1569650055748911104&quot;&gt;&lt;u&gt;がArcプッシュ&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2017.12.024&quot;&gt;&lt;u&gt;Arcのviral transmission&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://greenberg.hms.harvard.edu/&quot;&gt;&lt;u&gt;Greenberg&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1208049&quot;&gt;&lt;u&gt;LinのScienceは2011でした&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2020.02.055&quot;&gt;&lt;u&gt;FosとArcを比べたCell&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature07319&quot;&gt;&lt;u&gt;活動との相関性&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Npas4-”FH”はFlag-HAのknock-inで、免疫染色しやすいライン。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41586-020-3031-0&quot;&gt;&lt;u&gt;Yap et al. FosKOの表現型&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tokuhain.arukikata.co.jp/copenhagen/2014/03/post_149.html&quot;&gt;&lt;u&gt;デンマークの悲しいバスルーム事情&lt;/u&gt;&lt;/a&gt;&lt;u&gt; &lt;/u&gt;うん、まさにこのストレス(萩)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hokkai.com/ja/?switch_language=ja&quot;&gt;&lt;u&gt;北海水産&lt;/u&gt;&lt;/a&gt; 欧州全土に新鮮な(冷凍だけどw)魚介をお届け。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mbg.au.dk/en/news-and-events/news-item/artikel/erc-bevilling-paa-11-mio-kr-til-at-studere-hvordan-hukommelse-lagres-i-hjernen&quot;&gt;&lt;u&gt;北沢さん ERCスターティンググラントの解説&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fmi.ch/research-groups/groupleader.html?group=123&quot;&gt;&lt;u&gt;Filippo&lt;/u&gt;&lt;/a&gt; (北沢さん元ボス)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lundbeckfonden.com/en&quot;&gt;&lt;u&gt;ルンドベック財団&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroscienceacademydenmark.dk/&quot;&gt;&lt;u&gt;学生のネットワーク Neuroscience Academy Denmark&lt;/u&gt;&lt;/a&gt;&lt;u&gt; &lt;/u&gt;デンマークのPhDプログラムに興味がある人はアプライしてみるとよいかも。４年分のお給料だったり、デンマークのいろんなラボでインターンできる機会があります（北沢）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Brain_Prize&quot;&gt;&lt;u&gt;Brain Prize&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;コペンハーゲンの&lt;a href=&quot;https://in.ku.dk/research/kiehn-lab/&quot;&gt;&lt;u&gt;Ole Kiehn&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dandrite.au.dk/about-dandrite/organization/scientific-advisory-board&quot;&gt;&lt;u&gt;DANDRITEのSAB (Scientific Advisory Board)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;米原さん回@NR&lt;a href=&quot;https://neuroradio.tokyo/2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/&quot;&gt; &lt;u&gt;その１&lt;/u&gt;&lt;/a&gt;&lt;a href=&quot;https://neuroradio.tokyo/2021/08/13/21-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-2/&quot;&gt; &lt;u&gt;その２&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05046-9&quot;&gt;&lt;u&gt;ちゅっちゅっと吸うトランスクリプトームのNature&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;独立一カ月後編ありがとうございます。ラボのプロジェクトの大半がオフレコになった結果萩原君とほぼだべっているだけになってしまった気が。早く論文を形にして語りたいですね！(北沢)&lt;/li&gt;
+  &lt;li&gt;たまにはこのくらいゆるい回があるといいですね。編集等も楽だし笑　しかしIEG論文をさっさとなんとかしないとなー (萩)&lt;/li&gt;
+  &lt;li&gt;こんな濃厚な音声版blog?もなかなかないですね。。ちなみに今回もShownotesのほとんどを北沢さんが準備してくれました～ありがとうございます！ (脇)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:00:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#43  Splendid isolation]]></title>
 			<description><![CDATA[<p>伏線回収、円安・オイル高騰中の海外生活・学会参加に関する雑談など。後半は、SNcドパミン神経の細胞体と軸索＠線条体の活動をサブタイプ毎に観察した仕事、カリウム選択的なチャネルロドプシンに関する論文×２、Eve Marderのエッセイを元にしたディスカッション（7/16収録）</p>

@@ -15,8 +15,8 @@
         <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
         <atom:link href="https://kubernetespodcast.com/feeds/audio.xml" rel="self" type="application/rss+xml"/>
         <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://kubernetespodcast.com/feeds/audio.xml" />
-        <lastBuildDate>Sat, 10 Sep 2022 10:11:40 +1200</lastBuildDate>
-        <pubDate>Sat, 10 Sep 2022 10:11:40 +1200</pubDate>
+        <lastBuildDate>Fri, 14 Oct 2022 20:45:07 +0200</lastBuildDate>
+        <pubDate>Fri, 14 Oct 2022 20:45:07 +0200</pubDate>
         <ttl>720</ttl>
         <itunes:type>episodic</itunes:type>
         <itunes:author>Craig Box</itunes:author>
@@ -39,6 +39,666 @@
         <itunes:category text="Technology" />
         </itunes:category>
 
+        
+        <item>
+            <title>Looking Forward and Back, with Adam Glick</title>
+            <link>https://kubernetespodcast.com/episode/192-hello-goodbye/</link>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 +1300</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep192.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep192.mp3" length="70858314" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>192</itunes:episode>
+            <itunes:duration>00:48:52</itunes:duration>
+            <description><![CDATA[<p>After four and a half years hosting this podcast (and almost 9 years at Google) <a href="https://twitter.com/craigbox">Craig Box</a> is moving on from the latter, which unfortunately means leaving the former. But the show must go on. In this episode Craig introduces new hosts <a href="https://twitter.com/boredabdel">Abdel Sghiouar</a> and <a href="https://twitter.com/kaslinfields">Kaslin Fields</a>. We take a small look forward, and then a big look back.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="links-from-the-show">Links from the show</h3>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/134-cncf-and-linux-foundation/">Adam&rsquo;s last episode</a></li>
+<li><a href="https://twitter.com/boredabdel">Abdelfettah Sghiouar</a>
+<ul>
+<li><a href="https://devoxx.ma/">Devoxx MA</a></li>
+<li><a href="https://www.cloudcareers.dev/">Cloud Careers Podcast</a></li>
+<li><a href="https://www.youtube.com/watch?v=qwSGI89RHt8">You probably DON&rsquo;T need a Service Mesh</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/kaslinfields">Kaslin Fields</a>
+<ul>
+<li><a href="http://kaslin.rocks/container-cookies/">Containers as cookies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Biscuits_and_gravy">Biscuits and gravy</a></li>
+<li><a href="https://github.com/kubernetes/community/tree/master/communication/contributor-comms">Contributor comms</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/RafikN_/status/1044801399098429440">First-gen stickers</a></li>
+<li><a href="https://twitter.com/KubernetesPod/status/1115711489623511040">Second-gen stickers</a></li>
+<li><a href="https://kubernetespodcast.com/episode/060-ubuntu/">Episode 60, with Mark Shuttleworth</a></li>
+<li><a href="https://kubernetespodcast.com/episode/015-istio/">Episode 15, with Dan Ciruli and Jasmine Jaksic</a>
+<ul>
+<li><a href="https://twitter.com/KubernetesPod/status/1130764301021646848/photo/1">Dan on sticker duty</a></li>
+</ul>
+</li>
+<li><a href="https://kubernetespodcast.com/episode/030-tencent/">Episode 30, with Joe Zou</a>
+<ul>
+<li><a href="https://twitter.com/KubernetesPod/status/1064966996377419778/photo/1">A rare team photo</a></li>
+</ul>
+</li>
+<li>Music and musicians
+<ul>
+<li><a href="https://www.korg.com/us/products/software/korg_kaossilator_for_android/">Kaossilator</a></li>
+<li><a href="https://kubernetespodcast.com/episode/191-fresh-pivot/">Episode 191, with DJ Fresh</a></li>
+<li><a href="https://kubernetespodcast.com/episode/127-pop-punk-to-pods/">Episode 127, with David Pait</a></li>
+<li><a href="https://kubernetespodcast.com/episode/083-kubernetes-1.17/">Episode 83, with Guinevere Saenger</a></li>
+<li><a href="https://kubernetespodcast.com/episode/120-airbnb/">Episode 120, with Melanie Cebula</a></li>
+<li><a href="https://kubernetespodcast.com/episode/121-tikv-tidb-and-pingcap/">Episode 121, with Ed Huang</a></li>
+</ul>
+</li>
+<li>Double guest trivia:
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/001-kubernetes-community/">Episodes 1</a> and <a href="https://kubernetespodcast.com/episode/100-community-redux/">100</a> with Paris Pittman</li>
+<li><a href="https://kubernetespodcast.com/episode/062-cern/">Episodes 62</a> and <a href="https://kubernetespodcast.com/episode/180-kubecon-eu-2022/">180</a> with Ricardo Rocha (on a technicality)</li>
+</ul>
+</li>
+<li><a href="https://pbs.twimg.com/media/Fe2p0oNUYAAWtFU?format=jpg&amp;name=large">The Adam face</a>
+<ul>
+<li><a href="https://www.duckbillgroup.com/wp-content/uploads/2019/09/Corey_Quinn_2019_02-350x350.jpg">Corey Quinn</a>: separated at birth?</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/KubernetesPod/status/1130890443665870852/photo/1">One of many booth meetups</a></li>
+<li><a href="https://twitter.com/craigbox">Follow Craig Box on Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/mradamglick">Follow Adam Glick on LinkedIn</a></li>
+</ul>]]></description>
+            <itunes:summary>After four and a half years hosting this podcast (and almost 9 years at Google) Craig Box is moving on from the latter, which unfortunately means leaving the former. But the show must go on. In this episode Craig introduces new hosts Abdel Sghiouar and Kaslin Fields. We take a small look forward, and then a big look back.
+</itunes:summary>
+            
+            <itunes:subtitle>After four and a half years hosting this podcast (and almost 9 years at Google) Craig Box is moving on from the latter, which unfortunately means leaving the former. But the show must go on. In this episode Craig introduces new hosts Abdel Sghiouar and Kaslin Fields. We take a small look forward, and then a big look back.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p>After four and a half years hosting this podcast (and almost 9 years at Google) <a href="https://twitter.com/craigbox">Craig Box</a> is moving on from the latter, which unfortunately means leaving the former. But the show must go on. In this episode Craig introduces new hosts <a href="https://twitter.com/boredabdel">Abdel Sghiouar</a> and <a href="https://twitter.com/kaslinfields">Kaslin Fields</a>. We take a small look forward, and then a big look back.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="links-from-the-show">Links from the show</h3>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/134-cncf-and-linux-foundation/">Adam&rsquo;s last episode</a></li>
+<li><a href="https://twitter.com/boredabdel">Abdelfettah Sghiouar</a>
+<ul>
+<li><a href="https://devoxx.ma/">Devoxx MA</a></li>
+<li><a href="https://www.cloudcareers.dev/">Cloud Careers Podcast</a></li>
+<li><a href="https://www.youtube.com/watch?v=qwSGI89RHt8">You probably DON&rsquo;T need a Service Mesh</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/kaslinfields">Kaslin Fields</a>
+<ul>
+<li><a href="http://kaslin.rocks/container-cookies/">Containers as cookies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Biscuits_and_gravy">Biscuits and gravy</a></li>
+<li><a href="https://github.com/kubernetes/community/tree/master/communication/contributor-comms">Contributor comms</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/RafikN_/status/1044801399098429440">First-gen stickers</a></li>
+<li><a href="https://twitter.com/KubernetesPod/status/1115711489623511040">Second-gen stickers</a></li>
+<li><a href="https://kubernetespodcast.com/episode/060-ubuntu/">Episode 60, with Mark Shuttleworth</a></li>
+<li><a href="https://kubernetespodcast.com/episode/015-istio/">Episode 15, with Dan Ciruli and Jasmine Jaksic</a>
+<ul>
+<li><a href="https://twitter.com/KubernetesPod/status/1130764301021646848/photo/1">Dan on sticker duty</a></li>
+</ul>
+</li>
+<li><a href="https://kubernetespodcast.com/episode/030-tencent/">Episode 30, with Joe Zou</a>
+<ul>
+<li><a href="https://twitter.com/KubernetesPod/status/1064966996377419778/photo/1">A rare team photo</a></li>
+</ul>
+</li>
+<li>Music and musicians
+<ul>
+<li><a href="https://www.korg.com/us/products/software/korg_kaossilator_for_android/">Kaossilator</a></li>
+<li><a href="https://kubernetespodcast.com/episode/191-fresh-pivot/">Episode 191, with DJ Fresh</a></li>
+<li><a href="https://kubernetespodcast.com/episode/127-pop-punk-to-pods/">Episode 127, with David Pait</a></li>
+<li><a href="https://kubernetespodcast.com/episode/083-kubernetes-1.17/">Episode 83, with Guinevere Saenger</a></li>
+<li><a href="https://kubernetespodcast.com/episode/120-airbnb/">Episode 120, with Melanie Cebula</a></li>
+<li><a href="https://kubernetespodcast.com/episode/121-tikv-tidb-and-pingcap/">Episode 121, with Ed Huang</a></li>
+</ul>
+</li>
+<li>Double guest trivia:
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/001-kubernetes-community/">Episodes 1</a> and <a href="https://kubernetespodcast.com/episode/100-community-redux/">100</a> with Paris Pittman</li>
+<li><a href="https://kubernetespodcast.com/episode/062-cern/">Episodes 62</a> and <a href="https://kubernetespodcast.com/episode/180-kubecon-eu-2022/">180</a> with Ricardo Rocha (on a technicality)</li>
+</ul>
+</li>
+<li><a href="https://pbs.twimg.com/media/Fe2p0oNUYAAWtFU?format=jpg&amp;name=large">The Adam face</a>
+<ul>
+<li><a href="https://www.duckbillgroup.com/wp-content/uploads/2019/09/Corey_Quinn_2019_02-350x350.jpg">Corey Quinn</a>: separated at birth?</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/KubernetesPod/status/1130890443665870852/photo/1">One of many booth meetups</a></li>
+<li><a href="https://twitter.com/craigbox">Follow Craig Box on Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/mradamglick">Follow Adam Glick on LinkedIn</a></li>
+</ul>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
+        
+        <item>
+            <title>Fresh Pivot, with Dan Stein</title>
+            <link>https://kubernetespodcast.com/episode/191-fresh-pivot/</link>
+            <pubDate>Thu, 06 Oct 2022 12:12:22 +1300</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep191.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep191.mp3" length="71249856" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>191</itunes:episode>
+            <itunes:duration>00:49:28</itunes:duration>
+            <description><![CDATA[<p><a href="https://twitter.com/djfreshuk">Dan Stein</a> is an engineering manager at General Bioinformatics. Dan Stein is also DJ Fresh, a multi-million selling artist with two UK number one records. Learn about the surprising overlap between these two careers.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a> and <a href="https://twitter.com/craigbox">@craigbox</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://www.bbc.com/news/entertainment-arts-63084082">Trevor Noah stepping down as host of Daily Show</a></li>
+<li><a href="https://twitter.com/craigbox">Follow @craigbox to learn what&rsquo;s next</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/run-gpu-workloads-on-gke-autopilot">Google Cloud adds GPU support to Autopilot</a>
+<ul>
+<li><a href="https://cloud.google.com/kubernetes-engine/pricing">Pricing</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/advisories/GHSA-g7j7-h4q8-8w2f">CVE-2021-36782 in Rancher</a></li>
+<li><a href="https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out">State of DevOps Report for 2022</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/03/congratulations-to-the-27-summer-lfx-program-cncf-interns/">Congratulations to the 27 Summer LFX Program CNCF interns</a></li>
+<li><a href="https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/">Reviewing the 2019 Kubernetes security audit</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DJ_Fresh">DJ Fresh</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Atari_8-bit_family">Atari 800</a> and <a href="https://en.wikipedia.org/wiki/Atari_ST">Atari ST</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Pong">Pong</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Atari_BASIC">Atari BASIC</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Amiga">Commodore Amiga</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OctaMED">OctaMED</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=qLjgXPDzeZo">Fatboy Slim and the Atari ST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dogs_On_Acid">Dogs on Acid</a> music forum</li>
+<li><a href="https://www.foofighters.com/news/taylor-hawkins-tribute-concerts/">Taylor Hawkins Tribute Concerts</a></li>
+<li><a href="https://www.bbc.com/news/uk-63114279">Abolishing the high tax rate in the UK, or not</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Breakbeat_Kaos">Breakbeat Kaos</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hold_Your_Colour">Hold Your Colour</a> by Pendulum</li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Kryptonite_(album)">Kryptonite</a> by DJ Fresh</li>
+<li><a href="https://www.youtube.com/watch?v=RNuUgbUzM8U">Gold Dust</a></li>
+<li>Subsequent hits:
+<ul>
+<li><a href="https://www.youtube.com/watch?v=eE-dwpWpscU">Louder</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7OPZOBJZyI">Hot Right Now</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Kyma_(sound_design_language)">Kyma</a> (sound design language) and <a href="https://en.wikipedia.org/wiki/Max_(software)">Max/MSP</a></li>
+<li><a href="https://www.coursereport.com/schools/we-got-coders">We Got Coders</a></li>
+<li><a href="https://www.generalbioinformatics.com/">General Bioinformatics</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Massive_parallel_sequencing">NGS gene sequencing</a></li>
+<li><a href="https://www.ebi.ac.uk/training/online/courses/ensembl-browsing-genomes/what-is-ensembl/">Ensembl</a></li>
+</ul>
+</li>
+<li><a href="https://hasura.io/">Hasura</a></li>
+<li><a href="https://github.com/graphql/graphql-playground">GraphQL Playground</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/genome/">NCBI</a> - National Center for Biotechnology Information</li>
+<li><a href="https://en.wikipedia.org/wiki/Max_Martin">Max Martin</a></li>
+<li><a href="https://www.hachettebookgroup.com/titles/john-powell/how-music-works/9780316098311/">How Music Works</a> by John Powell</li>
+<li>Learning:
+<ul>
+<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
+<li><a href="https://www.udemy.com/">Udemy</a></li>
+<li><a href="https://www.youtube.com/c/3blue1brown">3Blue1Brown</a></li>
+<li><a href="https://www.codecademy.com/">Codeacademy</a></li>
+</ul>
+</li>
+<li>DJ Fresh&rsquo;s new single, <a href="https://www.youtube.com/watch?v=gVZSmZv9e4A">Higher</a></li>
+<li><a href="https://thedjfresh.com/">DJ Fresh</a> on Facebook</li>
+<li><a href="https://twitter.com/djfreshuk">Dan Stein</a> on Twitter</li>
+</ul>]]></description>
+            <itunes:summary>Dan Stein is an engineering manager at General Bioinformatics. Dan Stein is also DJ Fresh, a multi-million selling artist with two UK number one records. Learn about the surprising overlap between these two careers.
+</itunes:summary>
+            
+            <itunes:subtitle>Dan Stein is an engineering manager at General Bioinformatics. Dan Stein is also DJ Fresh, a multi-million selling artist with two UK number one records. Learn about the surprising overlap between these two careers.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p><a href="https://twitter.com/djfreshuk">Dan Stein</a> is an engineering manager at General Bioinformatics. Dan Stein is also DJ Fresh, a multi-million selling artist with two UK number one records. Learn about the surprising overlap between these two careers.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a> and <a href="https://twitter.com/craigbox">@craigbox</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://www.bbc.com/news/entertainment-arts-63084082">Trevor Noah stepping down as host of Daily Show</a></li>
+<li><a href="https://twitter.com/craigbox">Follow @craigbox to learn what&rsquo;s next</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/run-gpu-workloads-on-gke-autopilot">Google Cloud adds GPU support to Autopilot</a>
+<ul>
+<li><a href="https://cloud.google.com/kubernetes-engine/pricing">Pricing</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/advisories/GHSA-g7j7-h4q8-8w2f">CVE-2021-36782 in Rancher</a></li>
+<li><a href="https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out">State of DevOps Report for 2022</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/03/congratulations-to-the-27-summer-lfx-program-cncf-interns/">Congratulations to the 27 Summer LFX Program CNCF interns</a></li>
+<li><a href="https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/">Reviewing the 2019 Kubernetes security audit</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DJ_Fresh">DJ Fresh</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Atari_8-bit_family">Atari 800</a> and <a href="https://en.wikipedia.org/wiki/Atari_ST">Atari ST</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Pong">Pong</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Atari_BASIC">Atari BASIC</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Amiga">Commodore Amiga</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OctaMED">OctaMED</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=qLjgXPDzeZo">Fatboy Slim and the Atari ST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dogs_On_Acid">Dogs on Acid</a> music forum</li>
+<li><a href="https://www.foofighters.com/news/taylor-hawkins-tribute-concerts/">Taylor Hawkins Tribute Concerts</a></li>
+<li><a href="https://www.bbc.com/news/uk-63114279">Abolishing the high tax rate in the UK, or not</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Breakbeat_Kaos">Breakbeat Kaos</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hold_Your_Colour">Hold Your Colour</a> by Pendulum</li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Kryptonite_(album)">Kryptonite</a> by DJ Fresh</li>
+<li><a href="https://www.youtube.com/watch?v=RNuUgbUzM8U">Gold Dust</a></li>
+<li>Subsequent hits:
+<ul>
+<li><a href="https://www.youtube.com/watch?v=eE-dwpWpscU">Louder</a></li>
+<li><a href="https://www.youtube.com/watch?v=N7OPZOBJZyI">Hot Right Now</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Kyma_(sound_design_language)">Kyma</a> (sound design language) and <a href="https://en.wikipedia.org/wiki/Max_(software)">Max/MSP</a></li>
+<li><a href="https://www.coursereport.com/schools/we-got-coders">We Got Coders</a></li>
+<li><a href="https://www.generalbioinformatics.com/">General Bioinformatics</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Massive_parallel_sequencing">NGS gene sequencing</a></li>
+<li><a href="https://www.ebi.ac.uk/training/online/courses/ensembl-browsing-genomes/what-is-ensembl/">Ensembl</a></li>
+</ul>
+</li>
+<li><a href="https://hasura.io/">Hasura</a></li>
+<li><a href="https://github.com/graphql/graphql-playground">GraphQL Playground</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/genome/">NCBI</a> - National Center for Biotechnology Information</li>
+<li><a href="https://en.wikipedia.org/wiki/Max_Martin">Max Martin</a></li>
+<li><a href="https://www.hachettebookgroup.com/titles/john-powell/how-music-works/9780316098311/">How Music Works</a> by John Powell</li>
+<li>Learning:
+<ul>
+<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
+<li><a href="https://www.udemy.com/">Udemy</a></li>
+<li><a href="https://www.youtube.com/c/3blue1brown">3Blue1Brown</a></li>
+<li><a href="https://www.codecademy.com/">Codeacademy</a></li>
+</ul>
+</li>
+<li>DJ Fresh&rsquo;s new single, <a href="https://www.youtube.com/watch?v=gVZSmZv9e4A">Higher</a></li>
+<li><a href="https://thedjfresh.com/">DJ Fresh</a> on Facebook</li>
+<li><a href="https://twitter.com/djfreshuk">Dan Stein</a> on Twitter</li>
+</ul>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
+        
+        <item>
+            <title>VMware Tanzu, with Betty Junod</title>
+            <link>https://kubernetespodcast.com/episode/190-vmware-tanzu/</link>
+            <pubDate>Thu, 29 Sep 2022 11:39:57 +1300</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep190.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep190.mp3" length="54527538" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>190</itunes:episode>
+            <itunes:duration>00:37:51</itunes:duration>
+            <description><![CDATA[<p><a href="https://twitter.com/BettyJunod">Betty Junod</a>, VP of Product Marketing at VMware Tanzu, kindly took up Craig&rsquo;s challenge to explain the various parts of the Tanzu ecosystem, and how the traditional IT buyer and the modern cloud native really aren&rsquo;t that different.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a> and <a href="https://twitter.com/craigbox">@craigbox</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://www.google.com/search?q=nasa+dart+mission">NASA DART mission</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Deep_Impact_(film)">Deep Impact</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Armageddon_(1998_film)">Armageddon</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Apparent_retrograde_motion">Apparent retrograde motion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Planets_beyond_Neptune">Planets beyond Neptune</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.cncf.io/blog/2022/09/28/istio-sails-into-the-cloud-native-computing-foundation/">Istio sails into the CNCF</a></li>
+<li><a href="https://www.cncf.io/announcements/2022/09/20/spiffe-and-spire-projects-graduate-from-cloud-native-computing-foundation-incubator/">SPIFFE and SPIRE graduate</a>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/045-spiffe/">Episode 45, with Andrew Jessup</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/cncf/toc/pull/915">Brigade archived</a></li>
+<li><a href="https://sysdig.com/blog/2022-sysdig-cloud-native-threat-report">Sysdig 2022 Cloud Native threat report</a>
+<ul>
+<li><a href="https://doomwiki.org/wiki/TeamTNT">The nice TeamTNT</a></li>
+<li><a href="https://kubernetespodcast.com/episode/188-security-access-war/">Episode 188, with Kateryna Ivashchenko</a></li>
+<li><a href="https://kubernetespodcast.com/episode/169-sysdig-report/">Episode 169, with Anna Belak</a></li>
+</ul>
+</li>
+<li><a href="https://www.chainguard.dev/unchained/introducing-wolfi-the-first-linux-un-distro">Chainguard introduces Wolfi</a></li>
+<li><a href="https://blog.cloudflare.com/workerd-open-source-workers-runtime/">workerd, from Cloudflare</a></li>
+<li><a href="https://medium.com/@ospalaemon/introducing-palaemon-the-savior-of-kubernetes-pods-85576c33287c">Introducing Palaemon</a></li>
+<li><a href="https://cloud.google.com/blog/products/identity-security/introducing-custom-organization-policy-for-gke-in-preview">Custom org policy for GKE in preview</a></li>
+<li><a href="https://medium.com/blablacar/be-lean-go-far-leveraging-kubernetes-for-an-elastic-right-sized-platform-bc1179c4c784">Leveraging Kubernetes for an elastic platform at Blablacar</a> by Sebastien Doido</li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://vmware.com/">VMware</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/VMware#History">History</a></li>
+</ul>
+</li>
+<li><a href="https://docker.com/">Docker</a></li>
+<li><a href="https://solo.io">Solo.io</a></li>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-tanzu-completes-the-modern-applications-picture">VMware Tanzu introduction blog</a>
+<ul>
+<li><a href="https://news.vmware.com/releases/vmware-to-acquire-heptio-to-accelerate-enterprise-adoption-of-kubernetes-on-premises-and-across-multi-cloud-environments">VMware acquires Heptio</a></li>
+<li><a href="https://news.vmware.com/releases/vmware-signs-definitive-agreement-to-acquire-pivotal-software">VMware acquires Pivotal</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/mission-control">Tanzu Mission Control</a></li>
+<li><a href="https://tanzu.vmware.com/kubernetes-operations">Tanzu for Kubernetes Operations</a></li>
+<li><a href="https://tanzu.vmware.com/application-platform">Tanzu Application Platform</a></li>
+<li><a href="https://tanzu.vmware.com/kubernetes-grid">Tanzu Kubernetes Grid</a>
+<ul>
+<li><a href="https://octo.vmware.com/kubernetes-cluster-api-provider-for-bring-your-own-host/">Bring your own host to TKG</a></li>
+</ul>
+</li>
+<li><a href="https://blogs.vmware.com/vsphere/2019/08/project-pacific-technical-overview.html">Project Pacific introduction</a>
+<ul>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-tanzu-kubernetes-grid-2-0">TKG 2.0</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/content/blog/unified-observability-platform-by-vmware-aria-operations-for-applications">VMware Aria Operations for Applications</a></li>
+<li><a href="https://tanzu.vmware.com/application-service">Tanzu Application Service</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_Foundry">Cloud Foundry</a></li>
+</ul>
+</li>
+<li>Open source projects:
+<ul>
+<li><a href="https://velero.io/">Velero</a></li>
+<li><a href="https://antrea.io/">Antrea</a></li>
+<li><a href="https://carvel.dev/">Carvel</a></li>
+<li><a href="https://cartographer.sh/">Cartographer</a></li>
+</ul>
+</li>
+<li><a href="https://www.michigan.org/article/trip-idea/discover-hard-cider-michigan-cideries">Michigan cider</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Detroit-style_pizza">Detroit-style pizza</a></li>
+<li><a href="https://twitter.com/BettyJunod">Betty Junod</a> on Twitter</li>
+</ul>
+
+]]></description>
+            <itunes:summary>Betty Junod, VP of Product Marketing at VMware Tanzu, kindly took up Craig&amp;rsquo;s challenge to explain the various parts of the Tanzu ecosystem, and how the traditional IT buyer and the modern cloud native really aren&amp;rsquo;t that different.
+</itunes:summary>
+            
+            <itunes:subtitle>Betty Junod, VP of Product Marketing at VMware Tanzu, kindly took up Craig&#39;s challenge to explain the various parts of the Tanzu ecosystem, and how the traditional IT buyer and the modern cloud native really aren&#39;t that different.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p><a href="https://twitter.com/BettyJunod">Betty Junod</a>, VP of Product Marketing at VMware Tanzu, kindly took up Craig&rsquo;s challenge to explain the various parts of the Tanzu ecosystem, and how the traditional IT buyer and the modern cloud native really aren&rsquo;t that different.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a> and <a href="https://twitter.com/craigbox">@craigbox</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://www.google.com/search?q=nasa+dart+mission">NASA DART mission</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Deep_Impact_(film)">Deep Impact</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Armageddon_(1998_film)">Armageddon</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Apparent_retrograde_motion">Apparent retrograde motion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Planets_beyond_Neptune">Planets beyond Neptune</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.cncf.io/blog/2022/09/28/istio-sails-into-the-cloud-native-computing-foundation/">Istio sails into the CNCF</a></li>
+<li><a href="https://www.cncf.io/announcements/2022/09/20/spiffe-and-spire-projects-graduate-from-cloud-native-computing-foundation-incubator/">SPIFFE and SPIRE graduate</a>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/045-spiffe/">Episode 45, with Andrew Jessup</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/cncf/toc/pull/915">Brigade archived</a></li>
+<li><a href="https://sysdig.com/blog/2022-sysdig-cloud-native-threat-report">Sysdig 2022 Cloud Native threat report</a>
+<ul>
+<li><a href="https://doomwiki.org/wiki/TeamTNT">The nice TeamTNT</a></li>
+<li><a href="https://kubernetespodcast.com/episode/188-security-access-war/">Episode 188, with Kateryna Ivashchenko</a></li>
+<li><a href="https://kubernetespodcast.com/episode/169-sysdig-report/">Episode 169, with Anna Belak</a></li>
+</ul>
+</li>
+<li><a href="https://www.chainguard.dev/unchained/introducing-wolfi-the-first-linux-un-distro">Chainguard introduces Wolfi</a></li>
+<li><a href="https://blog.cloudflare.com/workerd-open-source-workers-runtime/">workerd, from Cloudflare</a></li>
+<li><a href="https://medium.com/@ospalaemon/introducing-palaemon-the-savior-of-kubernetes-pods-85576c33287c">Introducing Palaemon</a></li>
+<li><a href="https://cloud.google.com/blog/products/identity-security/introducing-custom-organization-policy-for-gke-in-preview">Custom org policy for GKE in preview</a></li>
+<li><a href="https://medium.com/blablacar/be-lean-go-far-leveraging-kubernetes-for-an-elastic-right-sized-platform-bc1179c4c784">Leveraging Kubernetes for an elastic platform at Blablacar</a> by Sebastien Doido</li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://vmware.com/">VMware</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/VMware#History">History</a></li>
+</ul>
+</li>
+<li><a href="https://docker.com/">Docker</a></li>
+<li><a href="https://solo.io">Solo.io</a></li>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-tanzu-completes-the-modern-applications-picture">VMware Tanzu introduction blog</a>
+<ul>
+<li><a href="https://news.vmware.com/releases/vmware-to-acquire-heptio-to-accelerate-enterprise-adoption-of-kubernetes-on-premises-and-across-multi-cloud-environments">VMware acquires Heptio</a></li>
+<li><a href="https://news.vmware.com/releases/vmware-signs-definitive-agreement-to-acquire-pivotal-software">VMware acquires Pivotal</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/mission-control">Tanzu Mission Control</a></li>
+<li><a href="https://tanzu.vmware.com/kubernetes-operations">Tanzu for Kubernetes Operations</a></li>
+<li><a href="https://tanzu.vmware.com/application-platform">Tanzu Application Platform</a></li>
+<li><a href="https://tanzu.vmware.com/kubernetes-grid">Tanzu Kubernetes Grid</a>
+<ul>
+<li><a href="https://octo.vmware.com/kubernetes-cluster-api-provider-for-bring-your-own-host/">Bring your own host to TKG</a></li>
+</ul>
+</li>
+<li><a href="https://blogs.vmware.com/vsphere/2019/08/project-pacific-technical-overview.html">Project Pacific introduction</a>
+<ul>
+<li><a href="https://tanzu.vmware.com/content/blog/vmware-tanzu-kubernetes-grid-2-0">TKG 2.0</a></li>
+</ul>
+</li>
+<li><a href="https://tanzu.vmware.com/content/blog/unified-observability-platform-by-vmware-aria-operations-for-applications">VMware Aria Operations for Applications</a></li>
+<li><a href="https://tanzu.vmware.com/application-service">Tanzu Application Service</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_Foundry">Cloud Foundry</a></li>
+</ul>
+</li>
+<li>Open source projects:
+<ul>
+<li><a href="https://velero.io/">Velero</a></li>
+<li><a href="https://antrea.io/">Antrea</a></li>
+<li><a href="https://carvel.dev/">Carvel</a></li>
+<li><a href="https://cartographer.sh/">Cartographer</a></li>
+</ul>
+</li>
+<li><a href="https://www.michigan.org/article/trip-idea/discover-hard-cider-michigan-cideries">Michigan cider</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Detroit-style_pizza">Detroit-style pizza</a></li>
+<li><a href="https://twitter.com/BettyJunod">Betty Junod</a> on Twitter</li>
+</ul>
+
+]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
+        
+        <item>
+            <title>Ambient Mesh, with Justin Pettit and Ethan Jackson</title>
+            <link>https://kubernetespodcast.com/episode/189-ambient-mesh/</link>
+            <pubDate>Wed, 21 Sep 2022 10:31:58 +1200</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep189.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep189.mp3" length="80356981" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>189</itunes:episode>
+            <itunes:duration>00:55:47</itunes:duration>
+            <description><![CDATA[<p>When you think of a service mesh, you probably think of &ldquo;sidecar containers running with each pod&rdquo;. The Istio team has come up with a new approach, introduced recently as an experimental preview. Google Cloud software engineers <a href="https://twitter.com/Justin_D_Pettit">Justin Pettit</a> and <a href="https://twitter.com/EthanJJackson">Ethan Jackson</a> join Craig to explore ambient mesh.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://twitter.com/davemccollough/status/1568381307519893506">Listening immediately</a> and <a href="https://twitter.com/KataMapkon/status/1568759912695734272">listening on a 1 year delay</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II">Death and state funeral of Queen Elizabeth II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Queue">The Queue</a>
+<ul>
+<li><a href="https://www.bbc.com/news/av/uk-62949220">What the queue says about our relationship with royalty</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.cncf.io/blog/2022/09/14/cloud-custodian-becomes-a-cncf-incubating-project/">Cloud Custodian becomes an incubating project</a></li>
+<li><a href="https://cloud.google.com/blog/topics/anthos/extending-anthos-to-manage-on-premises-edge-vms-now-generally-available">Anthos VM support</a></li>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-control-plane-metrics-are-generally-available">GKE control plane metrics</a></li>
+<li><a href="https://groups.google.com/g/kubernetes-announce/c/aaOLnyQPXFg/m/oi5CC2XPAAAJ">CVE-2022-3172: Aggregated API server can cause clients to be redirected</a></li>
+<li><a href="https://groups.google.com/g/kubernetes-announce/c/3L7PuIBn4hU/m/5DIyRGGHAAAJ">CVE-2021-25749: runAsNonRoot logic bypass for Windows containers</a></li>
+<li><a href="https://akuity.io/blog/announcing-akuity-platform/">Akuity Platform</a>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/172-argo/">Episode 172, with Jesse Suen</a></li>
+</ul>
+</li>
+<li><a href="https://www.weave.works/blog/weave-gitops-2022-09">Weave GitOps 2022.09</a></li>
+<li><a href="https://github.com/coroot/coroot">Coroot Community Edition</a></li>
+<li><a href="https://github.com/edgelesssys/constellation">Constellation, by Edgeless Systems</a></li>
+<li><a href="https://g.co/cloudnext">Register for Google Cloud Next</a></li>
+<li><a href="https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-and-red-hat-expand-strategic-collaboration">Dell and Red Hat expand strategic collaboration</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nicira">Nicira</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_vSwitch">Open vSwitch</a></li>
+<li><a href="https://istio.io/latest/blog/2022/introducing-ambient-mesh/">Introucing Ambient Mesh</a>
+<ul>
+<li><a href="https://istio.io/latest/about/service-mesh/">Service mesh</a></li>
+</ul>
+</li>
+<li><a href="https://www.infoq.com/articles/istio-future-service-mesh/">First mention of Ambient in 2018</a></li>
+<li><a href="https://github.com/kubernetes/enhancements/issues/753">No first class support for sidecars in Kubernetes</a></li>
+<li><a href="https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.mkuc663xxmt1">Istio working group meeting, August 2021</a>
+<ul>
+<li><a href="https://docs.google.com/document/d/1q1FWaPjW8ko9Eh2m-7DO5wbQTCy6neF8Gl_1r0IoxnQ/edit?resourcekey=0-IJdySFDjGIayhbwLs1bfuA#heading=h.aftfqyuq9wud">Remote proxy proposal</a></li>
+</ul>
+</li>
+<li><a href="https://pkg.go.dev/github.com/costinm/hbone#section-readme">HBONE</a>: HTTP/2-based overlay network environment</li>
+<li><a href="https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/">mTLS</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT">HTTP Connect</a></li>
+<li><a href="https://www.youtube.com/watch?v=N1AL2EMvVy0">GIF</a></li>
+<li><a href="https://datatracker.ietf.org/wg/masque/about/">MASQUE</a> and <a href="https://en.wikipedia.org/wiki/QUIC">QUIC</a></li>
+<li><a href="https://istio.io/latest/blog/2022/get-started-ambient/">Get started with Ambient Mesh</a></li>
+<li><a href="https://istio.io/latest/blog/2022/ambient-security/">Ambient Mesh Security Deep Dive</a></li>
+<li><a href="https://twitter.com/Justin_D_Pettit">Justin Pettit</a> and <a href="https://twitter.com/EthanJJackson">Ethan Jackson</a> on Twitter</li>
+</ul>
+
+]]></description>
+            <itunes:summary>When you think of a service mesh, you probably think of &amp;ldquo;sidecar containers running with each pod&amp;rdquo;. The Istio team has come up with a new approach, introduced recently as an experimental preview. Google Cloud software engineers Justin Pettit and Ethan Jackson join Craig to explore ambient mesh.
+</itunes:summary>
+            
+            <itunes:subtitle>When you think of a service mesh, you probably think of &#34;sidecar containers running with each pod&#34;. The Istio team has come up with a new approach, introduced recently as an experimental preview. Google Cloud software engineers Justin Pettit and Ethan Jackson join Craig to explore ambient mesh.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p>When you think of a service mesh, you probably think of &ldquo;sidecar containers running with each pod&rdquo;. The Istio team has come up with a new approach, introduced recently as an experimental preview. Google Cloud software engineers <a href="https://twitter.com/Justin_D_Pettit">Justin Pettit</a> and <a href="https://twitter.com/EthanJJackson">Ethan Jackson</a> join Craig to explore ambient mesh.</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://twitter.com/davemccollough/status/1568381307519893506">Listening immediately</a> and <a href="https://twitter.com/KataMapkon/status/1568759912695734272">listening on a 1 year delay</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II">Death and state funeral of Queen Elizabeth II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Queue">The Queue</a>
+<ul>
+<li><a href="https://www.bbc.com/news/av/uk-62949220">What the queue says about our relationship with royalty</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.cncf.io/blog/2022/09/14/cloud-custodian-becomes-a-cncf-incubating-project/">Cloud Custodian becomes an incubating project</a></li>
+<li><a href="https://cloud.google.com/blog/topics/anthos/extending-anthos-to-manage-on-premises-edge-vms-now-generally-available">Anthos VM support</a></li>
+<li><a href="https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-control-plane-metrics-are-generally-available">GKE control plane metrics</a></li>
+<li><a href="https://groups.google.com/g/kubernetes-announce/c/aaOLnyQPXFg/m/oi5CC2XPAAAJ">CVE-2022-3172: Aggregated API server can cause clients to be redirected</a></li>
+<li><a href="https://groups.google.com/g/kubernetes-announce/c/3L7PuIBn4hU/m/5DIyRGGHAAAJ">CVE-2021-25749: runAsNonRoot logic bypass for Windows containers</a></li>
+<li><a href="https://akuity.io/blog/announcing-akuity-platform/">Akuity Platform</a>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/172-argo/">Episode 172, with Jesse Suen</a></li>
+</ul>
+</li>
+<li><a href="https://www.weave.works/blog/weave-gitops-2022-09">Weave GitOps 2022.09</a></li>
+<li><a href="https://github.com/coroot/coroot">Coroot Community Edition</a></li>
+<li><a href="https://github.com/edgelesssys/constellation">Constellation, by Edgeless Systems</a></li>
+<li><a href="https://g.co/cloudnext">Register for Google Cloud Next</a></li>
+<li><a href="https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-and-red-hat-expand-strategic-collaboration">Dell and Red Hat expand strategic collaboration</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nicira">Nicira</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_vSwitch">Open vSwitch</a></li>
+<li><a href="https://istio.io/latest/blog/2022/introducing-ambient-mesh/">Introucing Ambient Mesh</a>
+<ul>
+<li><a href="https://istio.io/latest/about/service-mesh/">Service mesh</a></li>
+</ul>
+</li>
+<li><a href="https://www.infoq.com/articles/istio-future-service-mesh/">First mention of Ambient in 2018</a></li>
+<li><a href="https://github.com/kubernetes/enhancements/issues/753">No first class support for sidecars in Kubernetes</a></li>
+<li><a href="https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.mkuc663xxmt1">Istio working group meeting, August 2021</a>
+<ul>
+<li><a href="https://docs.google.com/document/d/1q1FWaPjW8ko9Eh2m-7DO5wbQTCy6neF8Gl_1r0IoxnQ/edit?resourcekey=0-IJdySFDjGIayhbwLs1bfuA#heading=h.aftfqyuq9wud">Remote proxy proposal</a></li>
+</ul>
+</li>
+<li><a href="https://pkg.go.dev/github.com/costinm/hbone#section-readme">HBONE</a>: HTTP/2-based overlay network environment</li>
+<li><a href="https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/">mTLS</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT">HTTP Connect</a></li>
+<li><a href="https://www.youtube.com/watch?v=N1AL2EMvVy0">GIF</a></li>
+<li><a href="https://datatracker.ietf.org/wg/masque/about/">MASQUE</a> and <a href="https://en.wikipedia.org/wiki/QUIC">QUIC</a></li>
+<li><a href="https://istio.io/latest/blog/2022/get-started-ambient/">Get started with Ambient Mesh</a></li>
+<li><a href="https://istio.io/latest/blog/2022/ambient-security/">Ambient Mesh Security Deep Dive</a></li>
+<li><a href="https://twitter.com/Justin_D_Pettit">Justin Pettit</a> and <a href="https://twitter.com/EthanJJackson">Ethan Jackson</a> on Twitter</li>
+</ul>
+
+]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
         
         <item>
             <title>Security, Access and War, with Kateryna Ivashchenko</title>
@@ -103,7 +763,9 @@
 <li><a href="https://twitter.com/devopsdays_kyiv/status/1529027505994211329">DevOpsDays Kyiv</a></li>
 <li><a href="https://twitter.com/kivashch/status/1516938164689981440">International Snack Exchange</a></li>
 <li><a href="https://twitter.com/kivashch">Kateryna Ivashchenko on Twitter</a></li>
-</ul>]]></description>
+</ul>
+
+]]></description>
             <itunes:summary>Kateryna Ivashchenko is a Senior Demand Generation Manager at Teleport, an organizer of community events, and a supporter of the developer community in her home country of Ukraine.
 </itunes:summary>
             
@@ -162,7 +824,9 @@
 <li><a href="https://twitter.com/devopsdays_kyiv/status/1529027505994211329">DevOpsDays Kyiv</a></li>
 <li><a href="https://twitter.com/kivashch/status/1516938164689981440">International Snack Exchange</a></li>
 <li><a href="https://twitter.com/kivashch">Kateryna Ivashchenko on Twitter</a></li>
-</ul>]]></content:encoded>
+</ul>
+
+]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
             <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
         </item>

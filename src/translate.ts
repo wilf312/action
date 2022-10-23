@@ -16,7 +16,7 @@ const output = async (item) => {
     .join("\n");
 
   // xml to json
-  const jsObj = xml.parse(cleanedFile, { debug: true });
+  const jsObj = xml.parse(cleanedFile, { debug: false });
 
   // json の書き出し
   let json = jsObj?.rss?.channel || "";

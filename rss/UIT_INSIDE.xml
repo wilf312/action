@@ -20,6 +20,36 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.132『Changesetsではじめる 継続的なmonorepoリリース』</title>
+    <link>https://uit-inside.linecorp.com/episode/132</link>
+    <pubDate>Fri, 07 Oct 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;主にOSSプロジェクトで活用されているmonorepoバージョニングツール「Changesets」を社内プロジェクトに導入した話について、@potato4dが@spring-rainingに聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/132</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-changesets.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.132『Changesetsではじめる 継続的なmonorepoリリース』</itunes:subtitle>
+    <itunes:duration>25:23</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode132.png"/>
+  </item>
+  <item>
+    <title>ep.131『Node.js コアコラボレーターに聞く、OSS コントリビュートの始め方』</title>
+    <link>https://uit-inside.linecorp.com/episode/131</link>
+    <pubDate>Fri, 30 Sep 2022 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;Node.js コアコラボレーターの @cola119 に、活動内容や OSS コントリビュートを始めたきっかけについて @G4RDS が聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/131</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-131.mp3" type="audio/mp3"/>
+    <itunes:author>cola119(cola119),Yuki Sensui(g4rds)</itunes:author>
+    <itunes:subtitle>ep.131『Node.js コアコラボレーターに聞く、OSS コントリビュートの始め方』</itunes:subtitle>
+    <itunes:duration>30:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode131.png"/>
+  </item>
+  <item>
     <title>ep.130『簡単？ 大変？ 既存プロジェクトの React 18 アップグレード』</title>
     <link>https://uit-inside.linecorp.com/episode/130</link>
     <pubDate>Fri, 09 Sep 2022 09:00:00 GMT</pubDate>
@@ -1488,36 +1518,6 @@
     <itunes:duration>35:19</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode033.png"/>
-  </item>
-  <item>
-    <title>ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」</title>
-    <link>https://uit-inside.linecorp.com/episode/32</link>
-    <pubDate>Fri, 07 Feb 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining と @NozomuIkuta が、来る Vue 3.0 に向けて、RFC の内容を全て読み込んでみました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/32</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-032.mp3" type="audio/mp3"/>
-    <itunes:author>spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
-    <itunes:subtitle>ep.32 Vue 3 Study 「RFC を全部読んで理解する Vue 3.0 の進化」</itunes:subtitle>
-    <itunes:duration>37:16</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode032.png"/>
-  </item>
-  <item>
-    <title>ep.31 「UIT 年末年始の自由研究報告回」</title>
-    <link>https://uit-inside.linecorp.com/episode/31</link>
-    <pubDate>Mon, 20 Jan 2020 08:45:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d と @spring_raining が年末に年末年始の自由研究の宣言を、年明けに結果報告をしました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/31</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-031.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.31 「UIT 年末年始の自由研究報告回」</itunes:subtitle>
-    <itunes:duration>31:48</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode031.png"/>
   </item>
   </channel>
 </rss>

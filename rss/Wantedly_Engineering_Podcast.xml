@@ -9,7 +9,7 @@
 			<link>https://wantedly.dev/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 07 Sep 2022 09:05:21 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Oct 2022 04:15:08 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/64205bfc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Wantedly Engineering]]></author>
 		<copyright><![CDATA[Wantedly Engineering]]></copyright>
@@ -25,6 +25,88 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+		<item>
+			<title><![CDATA[Native ESM に移行するまでに直面した全問題と解決策 w/ @qnighy]]></title>
+			<description><![CDATA[<ul>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu">あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/410531">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>
+ <li><a href="https://zenn.dev/qnighy/articles/19603f11d5f264">Native ESM + TypeScript 拡張子問題: 歯にものが挟まったようなスッキリしない書き流し</a></li>
+ <li><a href="https://zenn.dev/qnighy/articles/6267716578c76d">Node.jsのネイティブES Modulesサポートが抱える問題を解決するBabelプラグインを書いた</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/421107">Storyshotsを止めてスナップショットテストの仕組みを自作した話 | Wantedly Engineer Blog</a></li>
+ <li><a href="https://github.com/nodejs/node/pull/40902">esm: add pjson.importInterop to support __esModule by qnighy · Pull Request #40902 · nodejs/node</a></li>
+  <li><a href="https://github.com/nodejs/node/pull/40892">esm: add option to interpret __esModule like Babel by qnighy · Pull Request #40892 · nodejs/node</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Native-ESM--w-qnighy-e1ph4ib</link>
+			<guid isPermaLink="false">41364fb6-aab1-442b-b8ef-e3e245c8ac55</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Fri, 21 Oct 2022 04:11:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/59330571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-20%2F3a0bc2fb-bc06-a475-d2f9-a7f0fcd6fa3b.mp3" length="99977008" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu&quot;&gt;あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/410531&quot;&gt;実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://zenn.dev/qnighy/articles/19603f11d5f264&quot;&gt;Native ESM + TypeScript 拡張子問題: 歯にものが挟まったようなスッキリしない書き流し&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://zenn.dev/qnighy/articles/6267716578c76d&quot;&gt;Node.jsのネイティブES Modulesサポートが抱える問題を解決するBabelプラグインを書いた&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/421107&quot;&gt;Storyshotsを止めてスナップショットテストの仕組みを自作した話 | Wantedly Engineer Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/node/pull/40902&quot;&gt;esm: add pjson.importInterop to support __esModule by qnighy · Pull Request #40902 · nodejs/node&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/node/pull/40892&quot;&gt;esm: add option to interpret __esModule like Babel by qnighy · Pull Request #40892 · nodejs/node&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:09:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy]]></title>
+			<description><![CDATA[<ul>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/410531">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>
+ <li><a href="https://github.com/wantedly/hi18n">https://github.com/wantedly/hi18n</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu</link>
+			<guid isPermaLink="false">387581c2-3f7d-43c5-813b-0f9f08577df5</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Thu, 13 Oct 2022 08:39:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/58984574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-13%2Fe55e18cc-1607-03d1-a2c1-0e37ca9e63a3.mp3" length="92415500" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/410531&quot;&gt;実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/wantedly/hi18n&quot;&gt;https://github.com/wantedly/hi18n&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[プロダクト基盤を EKS に移行しました w/ @irotoris]]></title>
+			<description><![CDATA[<p>Infrastructure Squad Leader の <a href="https://twitter.com/irotoris">@irotoris</a>&nbsp;を呼んで EKS 移行の背景を聞きました</p>
+<ul>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/423392">プロダクト基盤を EKS に移行しました | Wantedly Engineer Blog</a></li>
+ <li><a href="https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/node-taints-managed-node-groups.html">マネージド型ノードグループでのノードテイント - Amazon EKS</a></li>
+  <li><a href="https://speakerdeck.com/potsbo/github-team-based-access-control">Kubernetes における最高の認証フローを本気で考え直してみた / GitHub Team Based Access Control - Speaker Deck</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/EKS--w-irotoris-e1oe8qb</link>
+			<guid isPermaLink="false">638df6c0-a0ef-44ff-b5be-ff7af9748198</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Tue, 27 Sep 2022 09:06:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/58188043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-27%2Fbc87efe6-3fba-c0c6-5ed0-c8425de9e887.mp3" length="87529766" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Infrastructure Squad Leader の &lt;a href=&quot;https://twitter.com/irotoris&quot;&gt;@irotoris&lt;/a&gt;&amp;nbsp;を呼んで EKS 移行の背景を聞きました&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/423392&quot;&gt;プロダクト基盤を EKS に移行しました | Wantedly Engineer Blog&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/node-taints-managed-node-groups.html&quot;&gt;マネージド型ノードグループでのノードテイント - Amazon EKS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/potsbo/github-team-based-access-control&quot;&gt;Kubernetes における最高の認証フローを本気で考え直してみた / GitHub Team Based Access Control - Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:00:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[GoとRust - 並行プログラミング編 w/ @nasa_desu]]></title>
 			<description><![CDATA[<p><a href="https://twitter.com/nasa_desu">@nasa_desu</a> を読んで Go と rust の並行処理の違いから並行処理の基礎について教えてもらいました。</p>

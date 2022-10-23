@@ -1,0 +1,358 @@
+{
+  "feedpress:locale": "jp",
+  "title": "Automagic Podcast",
+  "link": "https://automagic.fm",
+  "description": "Webやアプリのデザインの仕事に携わる長谷川恭久が、今活躍していらっしゃるプロの方を招いていろいろな話をしています。",
+  "language": "en",
+  "copyright": "Yasuhisa Hasegawa Copyright 2022",
+  "atom:link": {
+    "@href": "https://feedpress.me/automagic",
+    "@rel": "self",
+    "@type": "application/rss+xml",
+    "#text": null
+  },
+  "itunes:author": "Automagic Podcast",
+  "itunes:summary": "Webやアプリのデザインの仕事に携わる長谷川恭久が、今活躍していらっしゃるプロの方を招いていろいろな話をしています。",
+  "itunes:owner": {
+    "itunes:name": "Yasuhisa Hasegawa",
+    "itunes:email": "mail@yasuhisa.com"
+  },
+  "image": {
+    "url": "https://yhassy.heteml.net/albumart-v2.jpg",
+    "title": "Automagic Podcast",
+    "link": "https://automagic.fm/"
+  },
+  "itunes:category": [
+    {
+      "@text": "Arts",
+      "itunes:category": {
+        "@text": "Design",
+        "#text": null
+      }
+    },
+    {
+      "@text": "Technology",
+      "itunes:category": [
+        {
+          "@text": "Tech News",
+          "#text": null
+        },
+        {
+          "@text": "Podcasting",
+          "#text": null
+        }
+      ]
+    },
+    {
+      "@text": "Society & Culture",
+      "itunes:category": {
+        "@text": "Personal Journals",
+        "#text": null
+      }
+    }
+  ],
+  "itunes:type": "episodic",
+  "itunes:explicit": "clean",
+  "item": [
+    {
+      "title": "#334 組織でデザインを推進をどうやっていますか？",
+      "link": "https://yasuhisa.com/automagic/334/",
+      "pubDate": "Mon, 03 Oct 2022 00:15:38 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6339aa9c89d213003db59f98"
+      },
+      "description": "DX Design Day では、様々な組織のなかでデザイン推進をしてきて見えてきた「打率の高い攻め方」を紹介する予定です。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic334.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>DX Design Days では、様々な組織のなかでデザイン推進をしてきて見えてきた「打率の高い攻め方」を紹介する予定です。デザイン推進の「目標」や「悩み」を共有する Miro ボードを用意したので、ぜひ書き込みお願いします。</p><ul><li>ぜひ <a href=\"https://bit.ly/dxdesignday_y\">Miroボードの書き込みお願いします</a>（会員登録不要）</li><li><a href=\"https://anywhere.goodpatch.com/d3/\">DX Design Days | 2022.10.06-07</a></li><li><a href=\"https://matejlatin.com/blog/2022/09/19/why-designers-quit/\">Why designers quit | Matej Latin</a></li><li><a href=\"https://betterwebtype.com\">Free Web Typography Course | Better Web Type</a></li><li>退職理由のトップ は「キャリアパスが見えない」</li><li>そもそものデザイン価値定義がされていないかも？</li><li>どう評価すれば「できている」といえるのか</li><li>価値提供できるとどうなるのか</li><li>さまざまな手段は何のためにあるのか</li><li>評価する側もされる側も何をみれば良いか不透明な状態がキャリアパスの問題にも繋がる</li><li>不透明な状態が続くとチームの健康状態も悪くなる</li><li>デザインを組織へ推進していくために何をしているか知りたい</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">なぜデザイナーは退職するのか。個人の方が156のデザイナーに質問した結果。サンプル数が多くないけど、興味深い結果なのでスレに雑サマリーを残しておきます。 <a href=\"https://t.co/OkTQKdWGE0\">https://t.co/OkTQKdWGE0</a></p>&mdash; ヤスヒサ 🗑 (@yhassy) <a href=\"https://twitter.com/yhassy/status/1575044945542811648?ref_src=twsrc%5Etfw\">September 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15677812/automagic334.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "DX Design Day では、様々な組織のなかでデザイン推進をしてきて見えてきた「打率の高い攻め方」を紹介する予定です。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic334.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>DX Design Days では、様々な組織のなかでデザイン推進をしてきて見えてきた「打率の高い攻め方」を紹介する予定です。デザイン推進の「目標」や「悩み」を共有する Miro ボードを用意したので、ぜひ書き込みお願いします。</p><ul><li>ぜひ <a href=\"https://bit.ly/dxdesignday_y\">Miroボードの書き込みお願いします</a>（会員登録不要）</li><li><a href=\"https://anywhere.goodpatch.com/d3/\">DX Design Days | 2022.10.06-07</a></li><li><a href=\"https://matejlatin.com/blog/2022/09/19/why-designers-quit/\">Why designers quit | Matej Latin</a></li><li><a href=\"https://betterwebtype.com\">Free Web Typography Course | Better Web Type</a></li><li>退職理由のトップ は「キャリアパスが見えない」</li><li>そもそものデザイン価値定義がされていないかも？</li><li>どう評価すれば「できている」といえるのか</li><li>価値提供できるとどうなるのか</li><li>さまざまな手段は何のためにあるのか</li><li>評価する側もされる側も何をみれば良いか不透明な状態がキャリアパスの問題にも繋がる</li><li>不透明な状態が続くとチームの健康状態も悪くなる</li><li>デザインを組織へ推進していくために何をしているか知りたい</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">なぜデザイナーは退職するのか。個人の方が156のデザイナーに質問した結果。サンプル数が多くないけど、興味深い結果なのでスレに雑サマリーを残しておきます。 <a href=\"https://t.co/OkTQKdWGE0\">https://t.co/OkTQKdWGE0</a></p>&mdash; ヤスヒサ 🗑 (@yhassy) <a href=\"https://twitter.com/yhassy/status/1575044945542811648?ref_src=twsrc%5Etfw\">September 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#333 Adobe の Figma 買収について私はこう思う",
+      "link": "https://yasuhisa.com/automagic/333/",
+      "pubDate": "Wed, 21 Sep 2022 01:17:25 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6329e72a89d213003db59f84"
+      },
+      "description": "「感情」「ビジネス」「業界」の 3 つの観点から Figma の買収の意味を考えてみました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic333.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>先週 Adobe が Figma の買収を発表しましたが、デザイン業界では様々な反応がみられました。今回は「感情」「ビジネス」「業界」の 3 つの観点から Figma の買収の意味を考えてみました。</p><ul><li><a href=\"https://www.figma.com/blog/a-new-collaboration-with-adobe/\">A New Collaboration with Adobe</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2022-09-15/adobe-agrees-to-buy-figma-in-20-billion-software-deal\">Adobe (ADBE) Agrees to Buy Figma in $20 Billion Software Deal - Bloomberg</a></li><li><a href=\"https://blog.adobe.com/en/publish/2021/10/26/creative-cloud-canvas-spaces-ps-ai-in-browser\">Creative Cloud Canvas, Spaces & More Announced at MAX 2021 | Adobe</a></li><li><a href=\"https://frame.io/\">Frame.io</a></li><li><a href=\"https://www.salesforce.com/news/press-releases/2021/07/21/salesforce-slack-deal-close/\">Salesforce Completes Acquisition of Slack - Salesforce News</a></li><li>Figma の年間経常収益（ARR）は 400 Millions</li><li>株価も 18% 落ちたのも分かるように、市場は好意的ではない</li><li>コラボレーションネイティブの Figma の強み</li><li>エンタープライズにはある種の大きくて分厚い『壁』</li><li>買収によってコラボレーションがデファクトになる</li><li>コラボレーション前提でのデザイナーの働き方</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15654349/automagic333.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "「感情」「ビジネス」「業界」の 3 つの観点から Figma の買収の意味を考えてみました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic333.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>先週 Adobe が Figma の買収を発表しましたが、デザイン業界では様々な反応がみられました。今回は「感情」「ビジネス」「業界」の 3 つの観点から Figma の買収の意味を考えてみました。</p><ul><li><a href=\"https://www.figma.com/blog/a-new-collaboration-with-adobe/\">A New Collaboration with Adobe</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2022-09-15/adobe-agrees-to-buy-figma-in-20-billion-software-deal\">Adobe (ADBE) Agrees to Buy Figma in $20 Billion Software Deal - Bloomberg</a></li><li><a href=\"https://blog.adobe.com/en/publish/2021/10/26/creative-cloud-canvas-spaces-ps-ai-in-browser\">Creative Cloud Canvas, Spaces & More Announced at MAX 2021 | Adobe</a></li><li><a href=\"https://frame.io/\">Frame.io</a></li><li><a href=\"https://www.salesforce.com/news/press-releases/2021/07/21/salesforce-slack-deal-close/\">Salesforce Completes Acquisition of Slack - Salesforce News</a></li><li>Figma の年間経常収益（ARR）は 400 Millions</li><li>株価も 18% 落ちたのも分かるように、市場は好意的ではない</li><li>コラボレーションネイティブの Figma の強み</li><li>エンタープライズにはある種の大きくて分厚い『壁』</li><li>買収によってコラボレーションがデファクトになる</li><li>コラボレーション前提でのデザイナーの働き方</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#332 ヘッドレスCMSの強みを知ろう（加藤 健太さん）",
+      "link": "https://yasuhisa.com/automagic/332/",
+      "pubDate": "Tue, 10 May 2022 11:35:28 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6279cf1fd82e8b004dcc4f08"
+      },
+      "description": "様々な Web サイト管理手段があるなか、どういうときにヘッドレスCMSが活きるのか。不得意なところも踏まえながら教えていただきました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic332.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>ヘッドレスCMSの開発に携わっている加藤 健太さん（<a href=\"https://twitter.com/katoh_kenta\">@katoh_kenta</a>）がゲスト。様々な Web サイト管理・運用手段があるなか、どういうときにヘッドレスCMSが活きるのか。不得意なところも踏まえながら教えていただきました。</p><ul><li><a href=\"https://www.diverta.co.jp/\">株式会社ディバータ</a></li><li><a href=\"https://kuroco.app/ja/\">Kuroco(クロコ) | API中心設計のエンタープライズ・ヘッドレスCMS</a></li><li>そもそもヘッドレスCMSってなに？</li><li>手段の道筋が増やせる</li><li><a href=\"https://netflixtechblog.com/tagged/microservices\">Microservices – Netflix TechBlog</a></li><li>時代、トレンドに合わせたモノ作り</li><li>過去の資産を使って時代の流れに合わせる</li><li>未来のために 自由・柔軟性を担保する</li><li>企画力が問われる</li><li>使っていただきたい方達にどう伝えるか</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15284305/automagic332.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "様々な Web サイト管理手段があるなか、どういうときにヘッドレスCMSが活きるのか。不得意なところも踏まえながら教えていただきました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic332.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>ヘッドレスCMSの開発に携わっている加藤 健太さん（<a href=\"https://twitter.com/katoh_kenta\">@katoh_kenta</a>）がゲスト。様々な Web サイト管理・運用手段があるなか、どういうときにヘッドレスCMSが活きるのか。不得意なところも踏まえながら教えていただきました。</p><ul><li><a href=\"https://www.diverta.co.jp/\">株式会社ディバータ</a></li><li><a href=\"https://kuroco.app/ja/\">Kuroco(クロコ) | API中心設計のエンタープライズ・ヘッドレスCMS</a></li><li>そもそもヘッドレスCMSってなに？</li><li>手段の道筋が増やせる</li><li><a href=\"https://netflixtechblog.com/tagged/microservices\">Microservices – Netflix TechBlog</a></li><li>時代、トレンドに合わせたモノ作り</li><li>過去の資産を使って時代の流れに合わせる</li><li>未来のために 自由・柔軟性を担保する</li><li>企画力が問われる</li><li>使っていただきたい方達にどう伝えるか</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#331 デザインシステム浸透に欠かせないサポートについて",
+      "link": "https://yasuhisa.com/automagic/331/",
+      "pubDate": "Sun, 08 May 2022 22:30:40 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6277c56bc94c28003d9b932b"
+      },
+      "description": "有志だけで作ったほうがスピードも速いですが、広げるための仕組み作りが広く使われるデザインシステムになるかどうかの分かれ道になります。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic331.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>デザインシステムは使われてようやく価値になります。なので、小さくても良いので運用・サポート体制を作っていくことが重要です。有志だけで作ったほうがスピードも速いですが、広げるための仕組み作りが広く使われるデザインシステムになるかどうかの分かれ道になります。</p><ul><li><a href=\"https://yasuhisa.com/could/article/designsystem-support/\">デザインシステム浸透に欠かせないサポートについて</a></li><li><a href=\"https://yasuhisa.com/automagic/310/\">#310 UIの品質って何ですかねぇ？</a></li><li><a href=\"https://yasuhisa.com/automagic/319/\">#319 前向きな姿勢がプロダクトを良くする（小木曽 槙一さん）</a></li><li>デザインシステムは『納品』するものではない</li><li>効率的に作るために必要な理解やスキル</li><li>小さな認識のズレが大きな誤解になる</li><li>チャットだけでは足りない問い合わせ窓口</li><li>認識を合わせるための活動</li><li>品質 担保できる範囲を明確にする</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15281262/automagic331.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "有志だけで作ったほうがスピードも速いですが、広げるための仕組み作りが広く使われるデザインシステムになるかどうかの分かれ道になります。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic331.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>デザインシステムは使われてようやく価値になります。なので、小さくても良いので運用・サポート体制を作っていくことが重要です。有志だけで作ったほうがスピードも速いですが、広げるための仕組み作りが広く使われるデザインシステムになるかどうかの分かれ道になります。</p><ul><li><a href=\"https://yasuhisa.com/could/article/designsystem-support/\">デザインシステム浸透に欠かせないサポートについて</a></li><li><a href=\"https://yasuhisa.com/automagic/310/\">#310 UIの品質って何ですかねぇ？</a></li><li><a href=\"https://yasuhisa.com/automagic/319/\">#319 前向きな姿勢がプロダクトを良くする（小木曽 槙一さん）</a></li><li>デザインシステムは『納品』するものではない</li><li>効率的に作るために必要な理解やスキル</li><li>小さな認識のズレが大きな誤解になる</li><li>チャットだけでは足りない問い合わせ窓口</li><li>認識を合わせるための活動</li><li>品質 担保できる範囲を明確にする</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#330 制作会社が携わるべきデザインとは（中野 浩明さん）",
+      "link": "https://yasuhisa.com/automagic/330/",
+      "pubDate": "Tue, 12 Apr 2022 08:42:08 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "625439970d3eb0003d6e207d"
+      },
+      "description": "仕事が増えてきた背景や、求められるデザインへの期待にどう応えているか教えていただきました。経験がある方ならではのデザインの仕事論についていろいろ聞ける内容です。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic330.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>株式会社スリーのアートディレクター / Webディレクター / デザイナー として活躍している中野 浩明さん（<a href=\"https://twitter.com/HiroakiNakano\">@HiroakiNakano</a>）がゲスト。仕事が増えてきた背景や、求められるデザインへの期待にどう応えているか教えていただきました。経験がある方ならではのデザインの仕事論についていろいろ聞ける内容です。</p><ul><li><a href=\"https://three-inc.jp/\">ホームページ制作・Webサイト制作・Web制作｜株式会社スリー THREE Inc.</a></li><li>コロナ禍で変わってきた問い合わせ経路</li><li>新規の方との期待値の合わせ方</li><li>言葉や感覚を合わせていく</li><li>テンプレで十分と思うとき</li><li>今の時代におけるブランドサイトの役割は</li><li>仕事の進め方、タスクの捉え方</li><li>そのとき必要なコミュニケーションは何か</li><li>プロセスと即興</li><li>アートディレクションとデザインシステム</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15212748/automagic330.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "仕事が増えてきた背景や、求められるデザインへの期待にどう応えているか教えていただきました。経験がある方ならではのデザインの仕事論についていろいろ聞ける内容です。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic330.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>株式会社スリーのアートディレクター / Webディレクター / デザイナー として活躍している中野 浩明さん（<a href=\"https://twitter.com/HiroakiNakano\">@HiroakiNakano</a>）がゲスト。仕事が増えてきた背景や、求められるデザインへの期待にどう応えているか教えていただきました。経験がある方ならではのデザインの仕事論についていろいろ聞ける内容です。</p><ul><li><a href=\"https://three-inc.jp/\">ホームページ制作・Webサイト制作・Web制作｜株式会社スリー THREE Inc.</a></li><li>コロナ禍で変わってきた問い合わせ経路</li><li>新規の方との期待値の合わせ方</li><li>言葉や感覚を合わせていく</li><li>テンプレで十分と思うとき</li><li>今の時代におけるブランドサイトの役割は</li><li>仕事の進め方、タスクの捉え方</li><li>そのとき必要なコミュニケーションは何か</li><li>プロセスと即興</li><li>アートディレクションとデザインシステム</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#329 余分なものを作る余裕はないわけです（宮下 竜大郎さん）",
+      "link": "https://yasuhisa.com/automagic/329/",
+      "pubDate": "Tue, 29 Mar 2022 09:05:20 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6241c093e8b83b003d91cec5"
+      },
+      "description": "エンジニアからプロダクトマネージャーになって広がった視点や、作っていたからこそ分かる価値について話していただきました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic329.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p><a href=\"https://go.chatwork.com/ja/\">Chatwork</a> でプロダクトマネージャーをしている宮下 竜大郎さん（<a href=\"https://twitter.com/ryugoo_\">@ryugoo_</a>）がゲスト。エンジニアからプロダクトマネージャーになって広がった視点や、作っていたからこそ分かる価値について話していただきました。エンジニア、デザイナー、プロダクトマネージャーとの協働のヒントも。</p><ul><li>プロダクトマネージャーを選んでいる理由</li><li>自分だからできることは何か</li><li><a href=\"https://yasuhisa.com/could/article/productmanager-designer/\">プロダクトマネージャーにはできないデザイナーの強みを活かす方法</a></li><li>変わり続けるユーザーへの理解</li><li>ビジネス、ユーザー、開発の三点から考える難しさ</li><li>様々な背景がある人たちと一緒に働くこと</li><li>視覚化に貪欲なる</li><li>作り手の視点が合わなくなるとき</li><li>課題への取り組み方、見方を広げるための知識</li><li>どれだけ「Why」を深掘りして考えられるか</li><li>課題解決に先走っていないか</li><li>我々が解決すべき課題は何かを知ることが大事</li><li>PdM になったときにやったこと</li><li><a href=\"https://creators-note.chatwork.com/\">Chatwork Creator’s Note</a></li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a></li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">ロジックだけでは正論パンチになってしまい解決につながらない。ちゃんと話を聞いてみたり、場を設けてみると、実は「気のせいだった」とか「わからないから」で止まっちゃってた、みたいなケースもある。というお話が印象に残った <a href=\"https://t.co/dMYBA1Ecce\">https://t.co/dMYBA1Ecce</a></p>&mdash; 山田 (@whoringsthebell) <a href=\"https://twitter.com/whoringsthebell/status/1504064318429884422?ref_src=twsrc%5Etfw\">March 16, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\"><a href=\"https://twitter.com/hashtag/furoshiki_fm?src=hash&ref_src=twsrc%5Etfw\">#furoshiki_fm</a> 「デザイン」とスクラムの交差点<br>課題をリアルな温度感でお話されてたのが良かった。そしてお三方ともお話がわかりやすい！ これも職能なのかな。<br>「ちゃんとデザインする」<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a> ならヤスヒサさんが掘り下げるだろう言葉の意味を聞けて面白かった。 <a href=\"https://t.co/JQEME6fAIS\">https://t.co/JQEME6fAIS</a></p>&mdash; majimasachi🐖 (@mjmjsachi) <a href=\"https://twitter.com/mjmjsachi/status/1501181585433198592?ref_src=twsrc%5Etfw\">March 8, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\"><a href=\"https://twitter.com/hashtag/furoshiki_fm?src=hash&ref_src=twsrc%5Etfw\">#furoshiki_fm</a> 面白かったです。分野は違うけど私も最近、会社の上の人の話など聴いて自分なりに構想した落とし込み方など、とりあえずざっと言葉と図にして見せたところ、相手方で思考を進める一助になって。たたき台を形にして見せるのを意識的にやってこうと思っていたところ励まされる内容でした</p>&mdash; hysmrk (@marimari) <a href=\"https://twitter.com/marimari/status/1502900058097741828?ref_src=twsrc%5Etfw\">March 13, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15182819/automagic329.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "エンジニアからプロダクトマネージャーになって広がった視点や、作っていたからこそ分かる価値について話していただきました。",
+      "itunes:summary": "Chatwork でプロダクトマネージャーをしている宮下 竜大郎さん（@ryugoo_）がゲスト。エンジニアからプロダクトマネージャーになって広がった視点や、作っていたからこそ分かる価値について話していただきました。エンジニア、デザイナー、プロダクトマネージャーとの協働のヒントも。プロダクトマネージャーを選んでいる理由自分だからできることは何かプロダクトマネージャーにはできないデザイナーの強みを活かす方法変わり続けるユーザーへの理解ビジネス、ユーザー、開発の三点から考える難しさ様々な背景がある人たちと一緒に働くこと視覚化に貪欲なる作り手の視点が合わなくなるとき課題への取り組み方、見方を広げるための知識どれだけ「Why」を深掘りして考えられるか課題解決に先走っていないか我々が解決すべき課題は何かを知ることが大事PdM になったときにやったことChatwork Creator’s Noteポッドキャストしませんか？ロジックだけでは正論パンチになってしまい解決につながらない。ちゃんと話を聞いてみたり、場を設けてみると、実は「気のせいだった」とか「わからないから」で止まっちゃってた、みたいなケースもある。というお話が印象に残った https://t.co/dMYBA1Ecce&amp;mdash; 山田 (@whoringsthebell) March 16, 2022\n\n#furoshiki_fm 「デザイン」とスクラムの交差点課題をリアルな温度感でお話されてたのが良かった。そしてお三方ともお話がわかりやすい！ これも職能なのかな。「ちゃんとデザインする」#automagic ならヤスヒサさんが掘り下げるだろう言葉の意味を聞けて面白かった。 https://t.co/JQEME6fAIS&amp;mdash; majimasachi🐖 (@mjmjsachi) March 8, 2022\n\n#furoshiki_fm 面白かったです。分野は違うけど私も最近、会社の上の人の話など聴いて自分なりに構想した落とし込み方など、とりあえずざっと言葉と図にして見せたところ、相手方で思考を進める一助になって。たたき台を形にして見せるのを意識的にやってこうと思っていたところ励まされる内容でした&amp;mdash; hysmrk (@marimari) March 13, 2022",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#328 広義なデザインと向き合いたい（furoshiki.fm）",
+      "link": "https://yasuhisa.com/automagic/328/",
+      "pubDate": "Tue, 15 Mar 2022 09:05:53 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "622f49359b08e6003dc0aad6"
+      },
+      "description": "furoshiki.fm のお二人、いっしーさんとひろみつさんとで、仕組みのデザインについて意見交換をしました。エンジニア、デザイナーといった『作る』お仕事経験のある二人がなぜ仕組みに興味をもって活動しているのでしょうか。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic328.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>furoshiki.fm のお二人、いっしーさん(<a href=\"https://twitter.com/oturu333\">@oturu333</a>) 　とひろみつさん(<a href=\"https://twitter.com/hiromitsuuuuu\">@hiromitsuuuuu</a>)とで、仕組みのデザインについて意見交換をしました。エンジニア、デザイナーといった『作る』お仕事経験のある二人がなぜ仕組みに興味をもって活動しているのか。ポッドキャストを続けているモチベーションと重なるところもありました。</p><ul><li><a href=\"https://anchor.fm/-372134\">furoshiki.fm</a></li><li><a href=\"https://anchor.fm/-372134/episodes/ep-14-e1f9ah3\">ep.14 「デザイン」とスクラムの交差点 by furoshiki.fm</a></li><li><a href=\"https://aktsk.jp/\">株式会社アカツキ（Akatsuki Inc.)</a></li><li>furoshiki.fm 誕生秘話</li><li>アジャイルを組織に広める</li><li>肩書きって気にします？</li><li>スクラムで働くデザイナーの難しさ</li><li><a href=\"https://anchor.fm/-372134/episodes/ep-e1d0np6\">政治力！影響力！ by furoshiki.fm</a></li><li>うまく噛み合わないサイクルとどう向き合うか</li><li>エンジニアリングマネージャーの役割</li><li>仕組みを作るだけでは物事は変わらない</li><li>伝え方の工夫で先入観がなくなる</li><li>デザイナーとして譲れないところ</li><li>情報設計を学んで活かすためのアプローチ</li><li>面倒くさんの働き方</li><li><a href=\"https://designxscrum.netlify.app/\">デザインとスクラムなかよくする会</a></li><li><a href=\"https://steam.place/entry/2019/07/03/083000\">【EM必読】エンジニアリングマネジメントトライアングルの考察：序 - STEAM PLACE</a></li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a> (Meety)</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">組織の文化を変える？のが好きという仙田さんに共感しました。<br>ただ現状上手くいってなくて、仙田さんの取り組みを参考にしようと思ってます。<br><br>仙田さんと同年代なのでさらに頑張ろうと思えます🔥<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a> <a href=\"https://t.co/5MGwE3HGpW\">https://t.co/5MGwE3HGpW</a></p>&mdash; ひとみ hitomi｜編集力鍛える💪 (@ichito0123) <a href=\"https://twitter.com/ichito0123/status/1498800629418180614?ref_src=twsrc%5Etfw\">March 1, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15149473/automagic328.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "furoshiki.fm のお二人、いっしーさんとひろみつさんとで、仕組みのデザインについて意見交換をしました。エンジニア、デザイナーといった『作る』お仕事経験のある二人がなぜ仕組みに興味をもって活動しているのでしょうか。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic328.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>furoshiki.fm のお二人、いっしーさん(<a href=\"https://twitter.com/oturu333\">@oturu333</a>) 　とひろみつさん(<a href=\"https://twitter.com/hiromitsuuuuu\">@hiromitsuuuuu</a>)とで、仕組みのデザインについて意見交換をしました。エンジニア、デザイナーといった『作る』お仕事経験のある二人がなぜ仕組みに興味をもって活動しているのか。ポッドキャストを続けているモチベーションと重なるところもありました。</p><ul><li><a href=\"https://anchor.fm/-372134\">furoshiki.fm</a></li><li><a href=\"https://anchor.fm/-372134/episodes/ep-14-e1f9ah3\">ep.14 「デザイン」とスクラムの交差点 by furoshiki.fm</a></li><li><a href=\"https://aktsk.jp/\">株式会社アカツキ（Akatsuki Inc.)</a></li><li>furoshiki.fm 誕生秘話</li><li>アジャイルを組織に広める</li><li>肩書きって気にします？</li><li>スクラムで働くデザイナーの難しさ</li><li><a href=\"https://anchor.fm/-372134/episodes/ep-e1d0np6\">政治力！影響力！ by furoshiki.fm</a></li><li>うまく噛み合わないサイクルとどう向き合うか</li><li>エンジニアリングマネージャーの役割</li><li>仕組みを作るだけでは物事は変わらない</li><li>伝え方の工夫で先入観がなくなる</li><li>デザイナーとして譲れないところ</li><li>情報設計を学んで活かすためのアプローチ</li><li>面倒くさんの働き方</li><li><a href=\"https://designxscrum.netlify.app/\">デザインとスクラムなかよくする会</a></li><li><a href=\"https://steam.place/entry/2019/07/03/083000\">【EM必読】エンジニアリングマネジメントトライアングルの考察：序 - STEAM PLACE</a></li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a> (Meety)</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">組織の文化を変える？のが好きという仙田さんに共感しました。<br>ただ現状上手くいってなくて、仙田さんの取り組みを参考にしようと思ってます。<br><br>仙田さんと同年代なのでさらに頑張ろうと思えます🔥<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a> <a href=\"https://t.co/5MGwE3HGpW\">https://t.co/5MGwE3HGpW</a></p>&mdash; ひとみ hitomi｜編集力鍛える💪 (@ichito0123) <a href=\"https://twitter.com/ichito0123/status/1498800629418180614?ref_src=twsrc%5Etfw\">March 1, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#327 人の話を聞くのは楽しいです（仙田 真郷さん）",
+      "link": "https://yasuhisa.com/automagic/327/",
+      "pubDate": "Tue, 01 Mar 2022 08:45:06 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "621ceae28f1fa6003d067367"
+      },
+      "description": "note の UX リサーチャー・仙田 真郷さんに、リサーチの面白さと立ち上げ時のアプローチについて話していただきました。苦労も多いリサーチにある魅力は何でしょうか。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic327.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>note の UX リサーチャー・仙田 真郷さん（<a href=\"https://twitter.com/masatosenda\">@masatosend</a>）に、リサーチの面白さと立ち上げ時のアプローチについて話していただきました。結果を見せるだけでは伝わりにくい。リモートだから組織露出が難しい状況をどう乗り越えているのか。苦労も多いリサーチにある魅力は何でしょうか。</p><ul><li><a href=\"https://note.com/sendamasato/n/n68b320e1e80e\">生まれたばかりのUXリサーチチームを社内に知ってもらうための取り組み｜仙田 真郷｜note</a></li><li>あえてリサーチに絞っている理由</li><li>組織文化を定着させるには</li><li>レポートになった瞬間『遠い』存在になる</li><li>情報共有の工夫</li><li><a href=\"https://yasuhisa.com/could/article/write-documents/\">リモートワーカーに欠かせないドキュメントスキルを磨こう</a></li><li>見て欲しい人たちにきちんと届ける</li><li>リサーチの接触頻度を上げる</li><li><a href=\"https://yasuhisa.com/automagic/325/\">#325 前進し始めているリサーチ活動の次のステップとは</a></li><li>プロダクト開発にインパクトのあるリサーチを</li><li>能動的なリサーチ活動</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15114211/automagic327.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "note の UX リサーチャー・仙田 真郷さんに、リサーチの面白さと立ち上げ時のアプローチについて話していただきました。苦労も多いリサーチにある魅力は何でしょうか。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic327.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>note の UX リサーチャー・仙田 真郷さん（<a href=\"https://twitter.com/masatosenda\">@masatosend</a>）に、リサーチの面白さと立ち上げ時のアプローチについて話していただきました。結果を見せるだけでは伝わりにくい。リモートだから組織露出が難しい状況をどう乗り越えているのか。苦労も多いリサーチにある魅力は何でしょうか。</p><ul><li><a href=\"https://note.com/sendamasato/n/n68b320e1e80e\">生まれたばかりのUXリサーチチームを社内に知ってもらうための取り組み｜仙田 真郷｜note</a></li><li>あえてリサーチに絞っている理由</li><li>組織文化を定着させるには</li><li>レポートになった瞬間『遠い』存在になる</li><li>情報共有の工夫</li><li><a href=\"https://yasuhisa.com/could/article/write-documents/\">リモートワーカーに欠かせないドキュメントスキルを磨こう</a></li><li>見て欲しい人たちにきちんと届ける</li><li>リサーチの接触頻度を上げる</li><li><a href=\"https://yasuhisa.com/automagic/325/\">#325 前進し始めているリサーチ活動の次のステップとは</a></li><li>プロダクト開発にインパクトのあるリサーチを</li><li>能動的なリサーチ活動</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#326 デザインで提供できる『価値』ってなに？（なみこさん）",
+      "link": "https://yasuhisa.com/automagic/326/",
+      "pubDate": "Tue, 15 Feb 2022 08:46:50 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "620a6fdeddd090003b4dddd8"
+      },
+      "description": "KOELへ転職し、立場も周りとの関わり方も変わったなかで、なみこさんが考える提供したいデザインの価値と伝えることの難しさについて話していただきました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic326.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>KOEL DESIGN STUDIO でデザイナーをされている、なみこさん（<a href=\"https://twitter.com/namimorinamiko\">@namimorinamiko</a>）がゲスト。ベンチャー企業ではプロダクトオーナー兼デザイナーをしていたなみこさんは、KOEL ではデザイナーとして仕事をしています。立場も周りとの関わり方も変わったなかで、なみこさんが考える提供したいデザインの価値と伝えることの難しさについて話していただきました。</p><ul><li><a href=\"https://www.ntt.com/lp/koel/\">KOEL DESIGN STUDIO by NTT Communications</a></li><li><a href=\"https://note.com/koelnote/n/necf0bdc47915\">ベンチャー企業から転職して気づいた大企業の３つの誤解｜KOEL Design Studio by NTT Communications｜note</a></li><li>プロダクトオーナーとデザイナーの間で</li><li>計測しやすいところだけでは不十分とはいえ</li><li>長い期間を見据えた仕事</li><li>プロセスの一部を変えても何も変わらない</li><li>KOEL のデザイナーとして働くことの魅力</li><li>一緒に働く人について考える機会が増えた</li><li>同じことを考えてもすれ違うことはある</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">今の組織にとって必要なことを、周りを巻き込みながら、できることから少しずつ、やってこう。<br>やってかないと現状打破できん。やるぞ。やるわよ。（宣言しないとやらないタチ） <a href=\"https://t.co/aEYawNNbL2\">https://t.co/aEYawNNbL2</a></p>&mdash; 湘南のヨーコ | さすらいのデザイナー (@ExitYoko) <a href=\"https://twitter.com/ExitYoko/status/1488685119569563649?ref_src=twsrc%5Etfw\">February 2, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">UXリサーチの現状と次なる課題をテーマにした回。現場で働くデザイナーとして、自分が日頃から抱いていた視点と一致して、わかるわかる〜と勢いで記録がてら要点メモした。<br><br>#325 前進し始めているリサーチ活動の次のステップとは<a href=\"https://t.co/RXx7ILqmKz\">https://t.co/RXx7ILqmKz</a> <a href=\"https://t.co/3sqa84kV8L\">pic.twitter.com/3sqa84kV8L</a></p>&mdash; たじー | Designer (@tajima_kaho) <a href=\"https://twitter.com/tajima_kaho/status/1490574750954835969?ref_src=twsrc%5Etfw\">February 7, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15080561/automagic326.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "KOELへ転職し、立場も周りとの関わり方も変わったなかで、なみこさんが考える提供したいデザインの価値と伝えることの難しさについて話していただきました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic326.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>KOEL DESIGN STUDIO でデザイナーをされている、なみこさん（<a href=\"https://twitter.com/namimorinamiko\">@namimorinamiko</a>）がゲスト。ベンチャー企業ではプロダクトオーナー兼デザイナーをしていたなみこさんは、KOEL ではデザイナーとして仕事をしています。立場も周りとの関わり方も変わったなかで、なみこさんが考える提供したいデザインの価値と伝えることの難しさについて話していただきました。</p><ul><li><a href=\"https://www.ntt.com/lp/koel/\">KOEL DESIGN STUDIO by NTT Communications</a></li><li><a href=\"https://note.com/koelnote/n/necf0bdc47915\">ベンチャー企業から転職して気づいた大企業の３つの誤解｜KOEL Design Studio by NTT Communications｜note</a></li><li>プロダクトオーナーとデザイナーの間で</li><li>計測しやすいところだけでは不十分とはいえ</li><li>長い期間を見据えた仕事</li><li>プロセスの一部を変えても何も変わらない</li><li>KOEL のデザイナーとして働くことの魅力</li><li>一緒に働く人について考える機会が増えた</li><li>同じことを考えてもすれ違うことはある</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">今の組織にとって必要なことを、周りを巻き込みながら、できることから少しずつ、やってこう。<br>やってかないと現状打破できん。やるぞ。やるわよ。（宣言しないとやらないタチ） <a href=\"https://t.co/aEYawNNbL2\">https://t.co/aEYawNNbL2</a></p>&mdash; 湘南のヨーコ | さすらいのデザイナー (@ExitYoko) <a href=\"https://twitter.com/ExitYoko/status/1488685119569563649?ref_src=twsrc%5Etfw\">February 2, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">UXリサーチの現状と次なる課題をテーマにした回。現場で働くデザイナーとして、自分が日頃から抱いていた視点と一致して、わかるわかる〜と勢いで記録がてら要点メモした。<br><br>#325 前進し始めているリサーチ活動の次のステップとは<a href=\"https://t.co/RXx7ILqmKz\">https://t.co/RXx7ILqmKz</a> <a href=\"https://t.co/3sqa84kV8L\">pic.twitter.com/3sqa84kV8L</a></p>&mdash; たじー | Designer (@tajima_kaho) <a href=\"https://twitter.com/tajima_kaho/status/1490574750954835969?ref_src=twsrc%5Etfw\">February 7, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#325 前進し始めているリサーチ活動の次のステップとは",
+      "link": "https://yasuhisa.com/automagic/325/",
+      "pubDate": "Tue, 01 Feb 2022 08:24:15 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61f7f3fd4c0fc2003bee2b11"
+      },
+      "description": "リサーチは「できる」ようになったものの、幾つか課題があります。続けるため、組織へ価値提供するために何ができるか話しました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic325.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>過去に「リサーチをする意味あるの？」「やったほうが良いと思うけど難しい」と言われていた時期もありましたが、今はリサーチをするためのノウハウが web や書籍でたくさん手に入るようになりました。そうしたなか、今のリサーチの課題は何でしょうか。「できる」から「続ける」ためにできることは何でしょうか。</p><ul><li>問いがマンネリを打破する</li><li>正しさにある多面性</li><li>デザイナーの定義も価値も変わり続けている</li><li>どうやってリサーチするの？からリサーチをどう組織に取り込むの？フェイズへ</li><li>『単発案件』になりやすいリサーチ</li><li>リサーチ結果に求める粒度の差</li><li>求められている価値を提供することで信頼を得る</li><li>プロダクトにインパクトがあると考えられるリサーチテーマ</li><li><a href=\"https://yasuhisa.com/could/article/productmanager-designer/\">プロダクトマネージャーにはできないデザイナーの強みを活かす方法</a></li><li><a href=\"https://yasuhisa.com/automagic/311/\">#311 使いやすさってどう評価する？</a></li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">「問いを持つ」<br>自分も含めて疑ってみる。正しいと思ったことも「本当にそうか？」と一度立ち返ってみる。<br>または子どもみたいに「どゆこと？」と素朴に疑問を立てる。<br><br>正直めんどくさいと思うけど、人って面倒を嫌うからこそ多くの人が避けてるってこともある。<br>知らんけど。 <a href=\"https://t.co/gEQY8WF4lG\">https://t.co/gEQY8WF4lG</a></p>&mdash; 町田祐一郎@愛媛／Webディレクター (@netacho) <a href=\"https://twitter.com/netacho/status/1483418680113655809?ref_src=twsrc%5Etfw\">January 18, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">自分の姿勢を見直すきっかけに。「正しい」と思っていることは押し付けになることもある。<br><br>だけど、「こう考えてみたらどうですか？」とクライアントでも会社の上司でも提案し続けることは大事（そう簡単には変えられないのでエネルギーを要する）。<br>※現在実践中<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a> <a href=\"https://t.co/kESLZcJbuB\">https://t.co/kESLZcJbuB</a></p>&mdash; ひとみ｜編集力鍛える💪 (@ichito0123) <a href=\"https://twitter.com/ichito0123/status/1483252464006885383?ref_src=twsrc%5Etfw\">January 18, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">とても納得<br><br>人間だからできる問うということ<br><br>デザイナーの存在意義を考える上では、デザイナーだからできる問い、について考えるべきなんだろうな<br><br>どの職種にも当てはまるんだろうけど<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a><br><br> <a href=\"https://t.co/wEUlMoZEtF\">https://t.co/wEUlMoZEtF</a></p>&mdash; murasho (@murasho_81) <a href=\"https://twitter.com/murasho_81/status/1485974448759250949?ref_src=twsrc%5Etfw\">January 25, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15047636/automagic325.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "リサーチは「できる」ようになったものの、幾つか課題があります。続けるため、組織へ価値提供するために何ができるか話しました。",
+      "itunes:summary": "過去に「リサーチをする意味あるの？」「やったほうが良いと思うけど難しい」と言われていた時期もありましたが、今はリサーチをするためのノウハウが web や書籍でたくさん手に入るようになりました。そうしたなか、今のリサーチの課題は何でしょうか。「できる」から「続ける」ためにできることは何でしょうか。問いがマンネリを打破する正しさにある多面性デザイナーの定義も価値も変わり続けているどうやってリサーチするの？からリサーチをどう組織に取り込むの？フェイズへ『単発案件』になりやすいリサーチリサーチ結果に求める粒度の差求められている価値を提供することで信頼を得るプロダクトにインパクトがあると考えられるリサーチテーマプロダクトマネージャーにはできないデザイナーの強みを活かす方法#311 使いやすさってどう評価する？ポッドキャストしませんか？: Meety「問いを持つ」自分も含めて疑ってみる。正しいと思ったことも「本当にそうか？」と一度立ち返ってみる。または子どもみたいに「どゆこと？」と素朴に疑問を立てる。正直めんどくさいと思うけど、人って面倒を嫌うからこそ多くの人が避けてるってこともある。知らんけど。 https://t.co/gEQY8WF4lG&amp;mdash; 町田祐一郎@愛媛／Webディレクター (@netacho) January 18, 2022\n\n自分の姿勢を見直すきっかけに。「正しい」と思っていることは押し付けになることもある。だけど、「こう考えてみたらどうですか？」とクライアントでも会社の上司でも提案し続けることは大事（そう簡単には変えられないのでエネルギーを要する）。※現在実践中#automagic https://t.co/kESLZcJbuB&amp;mdash; ひとみ｜編集力鍛える💪 (@ichito0123) January 18, 2022\n\nとても納得人間だからできる問うということデザイナーの存在意義を考える上では、デザイナーだからできる問い、について考えるべきなんだろうなどの職種にも当てはまるんだろうけど#automagic https://t.co/wEUlMoZEtF&amp;mdash; murasho (@murasho_81) January 25, 2022",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#324 デザインの仕事や業界に対して問う力",
+      "link": "https://yasuhisa.com/automagic/324/",
+      "pubDate": "Tue, 18 Jan 2022 09:00:26 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61e57b526f0a64003b4faeec"
+      },
+      "description": "デザインの仕事を取り巻く様々な要素を考えなくて良いなら、あるべき論を語るだけです。結果、デザイン / デザイナーは常に正しいことをしているという偏った視点になることもあります。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic324.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>デザインの仕事を取り巻く様々な要素を考えなくて良いなら、あるべき論を語るだけです。結果、デザイン / デザイナーは常に正しいことをしているという偏った視点になることもあります。最善を尽くして働くなか、あえて「本当にこれで良いのか」と問う力は重要になります。</p><ul><li>テーマ「正しさに対する問い」</li><li><a href=\"https://yasuhisa.com/could/article/why-bad-design/\">なぜダメなデザインが生まれるのか</a></li><li>「デザイン」に閉じ込めてしまうことの問題</li><li>ダークパターンからどうしても抜け出せない状況とは</li><li>『正しいコト』をするのは難しい</li><li>誰も悪いことをしているとは思いたくないし、自分達は正しいことをしていると思いながら働いている</li><li>問いが足りていないかもしれない</li><li>A/B テストにある『闇』</li><li>問うことがデザイナーにとって重要になる理由</li><li><a href=\"https://zyro.com/ai/heatmap\">Zyro</a></li><li>機械化・自動化でが難しい領域</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/15014744/automagic324.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "デザインの仕事を取り巻く様々な要素を考えなくて良いなら、あるべき論を語るだけです。結果、デザイン / デザイナーは常に正しいことをしているという偏った視点になることもあります。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic324.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>デザインの仕事を取り巻く様々な要素を考えなくて良いなら、あるべき論を語るだけです。結果、デザイン / デザイナーは常に正しいことをしているという偏った視点になることもあります。最善を尽くして働くなか、あえて「本当にこれで良いのか」と問う力は重要になります。</p><ul><li>テーマ「正しさに対する問い」</li><li><a href=\"https://yasuhisa.com/could/article/why-bad-design/\">なぜダメなデザインが生まれるのか</a></li><li>「デザイン」に閉じ込めてしまうことの問題</li><li>ダークパターンからどうしても抜け出せない状況とは</li><li>『正しいコト』をするのは難しい</li><li>誰も悪いことをしているとは思いたくないし、自分達は正しいことをしていると思いながら働いている</li><li>問いが足りていないかもしれない</li><li>A/B テストにある『闇』</li><li>問うことがデザイナーにとって重要になる理由</li><li><a href=\"https://zyro.com/ai/heatmap\">Zyro</a></li><li>機械化・自動化でが難しい領域</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#323 一緒にコンテンツ配信してみませんか？（千貫りこさん）",
+      "link": "https://yasuhisa.com/automagic/323/",
+      "pubDate": "Mon, 27 Dec 2021 21:20:47 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61c9af49f84b97004896c115"
+      },
+      "description": "デザイナーの千貫りこさんとお互いコンテンツ作成・配信で気をつけていることを共有。来年からコンテンツ配信したい方向けのヒントが幾つか見つかるはず。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic323.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>年末恒例のゲスト。デザイナーの千貫りこさん（<a href=\"https://twitter.com/henyorico\">@henyorico</a>）とコンテンツ配信の面白さと難しさについて意見交換しました。彼女が 1 年間ポッドキャストをして気付いたことや、お互いコンテンツ作成・配信で気をつけていることを共有。来年からコンテンツ配信したい方向けのヒントが幾つか見つかるはず。</p><ul><li><a href=\"https://yokatta-sagashi.com/\">Podcast番組「よかった探し」</a></li><li>リモート講座で気をつけているコト</li><li>受講者の集中力をどう維持するか</li><li>ハイペースでポッドキャストが続いている理由</li><li>人気欲しい！</li><li>ついつい対価を求めてしまう</li><li>自然な口コミだけでは限界がある</li><li>自分の世代から離れてみる</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li><li><a href=\"https://anchor.fm/\">Anchor - The easiest way to make a podcast</a></li><li>個人でコンテンツ配信する最大のメリット</li><li>質に対する捉え方の変化</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/14975391/automagic323.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "デザイナーの千貫りこさんとお互いコンテンツ作成・配信で気をつけていることを共有。来年からコンテンツ配信したい方向けのヒントが幾つか見つかるはず。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic323.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>年末恒例のゲスト。デザイナーの千貫りこさん（<a href=\"https://twitter.com/henyorico\">@henyorico</a>）とコンテンツ配信の面白さと難しさについて意見交換しました。彼女が 1 年間ポッドキャストをして気付いたことや、お互いコンテンツ作成・配信で気をつけていることを共有。来年からコンテンツ配信したい方向けのヒントが幾つか見つかるはず。</p><ul><li><a href=\"https://yokatta-sagashi.com/\">Podcast番組「よかった探し」</a></li><li>リモート講座で気をつけているコト</li><li>受講者の集中力をどう維持するか</li><li>ハイペースでポッドキャストが続いている理由</li><li>人気欲しい！</li><li>ついつい対価を求めてしまう</li><li>自然な口コミだけでは限界がある</li><li>自分の世代から離れてみる</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li><li><a href=\"https://anchor.fm/\">Anchor - The easiest way to make a podcast</a></li><li>個人でコンテンツ配信する最大のメリット</li><li>質に対する捉え方の変化</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#322 見えていなかったものが見えることで対話が生まれる（川口貴史さん）",
+      "link": "https://yasuhisa.com/automagic/322/",
+      "pubDate": "Thu, 16 Dec 2021 23:31:20 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61bb4d52f84b97004896c0df"
+      },
+      "description": "社会とデザインを結びつけたリサーチ活動についてお伺いしました。Web サービスやアプリの文脈でしかリサーチに関わることがないので、いろいろ学びがありました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic322.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>culture craft company でデザインリサーチをしている川口貴史さん（<a href=\"https://twitter.com/takahitodd\">@takahitodd</a>）がゲスト。社会とデザインを結びつけたリサーチ活動についてお伺いしました。Web サービスやアプリの文脈でしかリサーチに関わることがないので、いろいろ学びがありました。</p><ul><li><a href=\"https://culturecraftcompany.com/\">culture craft company</a></li><li>良いモノを作れば人々に届くのか</li><li>仕組みを知るためのデザインプロセス</li><li><a href=\"https://note.com/fukuitextile2020/\">Fit Lab 事務局｜note</a></li><li>10年, 20年という時間の長さで考える</li><li><a href=\"https://automagic.fm/post/634987232524124160/ank\">#295 デザイナーは決めるパートナー : Automagic Podcast</a></li><li>問いを発見するたえのリサーチ</li><li>対等な関係で会話ができる場作り</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/14956455/automagic322.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "社会とデザインを結びつけたリサーチ活動についてお伺いしました。Web サービスやアプリの文脈でしかリサーチに関わることがないので、いろいろ学びがありました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic322.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>culture craft company でデザインリサーチをしている川口貴史さん（<a href=\"https://twitter.com/takahitodd\">@takahitodd</a>）がゲスト。社会とデザインを結びつけたリサーチ活動についてお伺いしました。Web サービスやアプリの文脈でしかリサーチに関わることがないので、いろいろ学びがありました。</p><ul><li><a href=\"https://culturecraftcompany.com/\">culture craft company</a></li><li>良いモノを作れば人々に届くのか</li><li>仕組みを知るためのデザインプロセス</li><li><a href=\"https://note.com/fukuitextile2020/\">Fit Lab 事務局｜note</a></li><li>10年, 20年という時間の長さで考える</li><li><a href=\"https://automagic.fm/post/634987232524124160/ank\">#295 デザイナーは決めるパートナー : Automagic Podcast</a></li><li>問いを発見するたえのリサーチ</li><li>対等な関係で会話ができる場作り</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#321 デザイナーの声をステークホルダーに届けるためにできること",
+      "link": "https://yasuhisa.com/automagic/321/",
+      "pubDate": "Fri, 19 Nov 2021 13:54:14 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61972d694e0e1a003be0e8ca"
+      },
+      "description": "デザインといっても人によって捉え方が様々。ステークホルダーとの認識を揃えなければいつまでも平行線になります。ギャップを埋めるための確実な一歩を踏むためのヒントについて話しました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic321.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>リスナーからの質問に答えました。デザインといっても人によって捉え方が様々。専門家ではないステークホルダーであれば違うのはなおさらですし、認識を揃えなければいつまでも平行線になります。ギャップを埋めるための確実な一歩を踏むためのヒントについて話しました。</p><ul><li><a href=\"https://amzn.to/3cIcdFz\">一人から始めるユーザーエクスペリエンス</a></li><li><a href=\"https://yasuhisa.com/could/article/tell-some-values/\">デザインの価値を伝えるための発想転換</a></li><li>そもそもステークホルダーはデザインに対して何を期待しているか。\\</li><li>1 年という長めの視点でプランを立てる</li><li>具体的に何が難しいのか</li><li>その難しくしている要因は何か</li><li>自分の中で描いているデザインが実行できた場合、どんな状態なのか</li><li>それがうまくいったことをどう計測するか</li><li>影響範囲が狭いところから始めてみる</li><li>小さなことでも目に見える活動にする</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">ステークホルダーにデザイナーの声を届けるためにはどうすれば良いか。<br>そもそも専門家の意見よりも自分のやり方を試したい人たちも多い。<br>デザイナーの声を届けるための信頼構築方法や自身のマインドなどについて、テーマにしてほしいです。<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a><a href=\"https://t.co/4rGNxIqptq\">https://t.co/4rGNxIqptq</a></p>&mdash; akamotosan (@akamotosan) <a href=\"https://twitter.com/akamotosan/status/1453958806665240577?ref_src=twsrc%5Etfw\">October 29, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/14881675/automagic321.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "デザインといっても人によって捉え方が様々。ステークホルダーとの認識を揃えなければいつまでも平行線になります。ギャップを埋めるための確実な一歩を踏むためのヒントについて話しました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic321.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p>リスナーからの質問に答えました。デザインといっても人によって捉え方が様々。専門家ではないステークホルダーであれば違うのはなおさらですし、認識を揃えなければいつまでも平行線になります。ギャップを埋めるための確実な一歩を踏むためのヒントについて話しました。</p><ul><li><a href=\"https://amzn.to/3cIcdFz\">一人から始めるユーザーエクスペリエンス</a></li><li><a href=\"https://yasuhisa.com/could/article/tell-some-values/\">デザインの価値を伝えるための発想転換</a></li><li>そもそもステークホルダーはデザインに対して何を期待しているか。\\</li><li>1 年という長めの視点でプランを立てる</li><li>具体的に何が難しいのか</li><li>その難しくしている要因は何か</li><li>自分の中で描いているデザインが実行できた場合、どんな状態なのか</li><li>それがうまくいったことをどう計測するか</li><li>影響範囲が狭いところから始めてみる</li><li>小さなことでも目に見える活動にする</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？</a>: Meety</li></ul><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">ステークホルダーにデザイナーの声を届けるためにはどうすれば良いか。<br>そもそも専門家の意見よりも自分のやり方を試したい人たちも多い。<br>デザイナーの声を届けるための信頼構築方法や自身のマインドなどについて、テーマにしてほしいです。<a href=\"https://twitter.com/hashtag/automagic?src=hash&ref_src=twsrc%5Etfw\">#automagic</a><a href=\"https://t.co/4rGNxIqptq\">https://t.co/4rGNxIqptq</a></p>&mdash; akamotosan (@akamotosan) <a href=\"https://twitter.com/akamotosan/status/1453958806665240577?ref_src=twsrc%5Etfw\">October 29, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</figure>",
+      "itunes:explicit": "no"
+    },
+    {
+      "title": "#320 自分たちならではのコンテンツの価値を提供したい（加藤 健路さん）",
+      "link": "https://yasuhisa.com/automagic/320/",
+      "pubDate": "Mon, 08 Nov 2021 11:43:22 +0900",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61888e5f4e0e1a003be0e88b"
+      },
+      "description": "Cocoda は様々な企業のデザインケースを紹介していることもあり、コンテンツ配信の過去・現在・未来をテーマに話しました。",
+      "content:encoded": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic320.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p><a href=\"https://alma-inc.co.jp/\">株式会社alma</a> の創業者でプロダクトマネージャーをしている加藤 健路さん（<a href=\"https://twitter.com/kenjikatooo\">kenjikatooo</a>）がゲスト。Cocoda を通してコンテンツ配信の今昔について意見交換しました。Cocoda ならではの価値提供をしつつ、コンテンツ配信の『次』へ向かうための課題は何でしょうか。</p><ul><li><a href=\"https://cocoda.design/\">Cocoda</a></li><li><a href=\"https://note.com/kenjikatooo/\">kenji｜note</a></li><li>Cocoda で情報発信することの意味</li><li>チームとしてコンテンツ配信するときの注意点</li><li>表面的なアウトプット以外もみせていきたい</li><li>コンテンツを読むという行動の変化</li><li>自己満足で終わっていないか</li><li>プラットフォームやカスタマージャーニーに合わせたパッケージング</li><li>ブログ『だけ』では存在していないのと同じかも</li><li>継続、持続の難しさ</li><li>テンプレート化をどこまで詳細化すべきか</li><li><a href=\"https://editorjs.io/\">Editor.js</a></li><li>今の時代にテキストで配信する意味</li><li>Cocoda が目指す姿</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？: Meety</a></li></ul>",
+      "enclosure": {
+        "@url": "https://feedpress.me/link/5023/14858915/automagic320.mp3",
+        "@length": 0,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Cocoda は様々な企業のデザインケースを紹介していることもあり、コンテンツ配信の過去・現在・未来をテーマに話しました。",
+      "itunes:summary": "<!--kg-card-begin: html--><p><audio controls src=\"https://yhassy.heteml.net/mp3/automagic320.mp3\" style=\"width:100%\"></audio></p><!--kg-card-end: html--><p><a href=\"https://alma-inc.co.jp/\">株式会社alma</a> の創業者でプロダクトマネージャーをしている加藤 健路さん（<a href=\"https://twitter.com/kenjikatooo\">kenjikatooo</a>）がゲスト。Cocoda を通してコンテンツ配信の今昔について意見交換しました。Cocoda ならではの価値提供をしつつ、コンテンツ配信の『次』へ向かうための課題は何でしょうか。</p><ul><li><a href=\"https://cocoda.design/\">Cocoda</a></li><li><a href=\"https://note.com/kenjikatooo/\">kenji｜note</a></li><li>Cocoda で情報発信することの意味</li><li>チームとしてコンテンツ配信するときの注意点</li><li>表面的なアウトプット以外もみせていきたい</li><li>コンテンツを読むという行動の変化</li><li>自己満足で終わっていないか</li><li>プラットフォームやカスタマージャーニーに合わせたパッケージング</li><li>ブログ『だけ』では存在していないのと同じかも</li><li>継続、持続の難しさ</li><li>テンプレート化をどこまで詳細化すべきか</li><li><a href=\"https://editorjs.io/\">Editor.js</a></li><li>今の時代にテキストで配信する意味</li><li>Cocoda が目指す姿</li><li><a href=\"https://meety.net/matches/DwydZhyDwPAF\">ポッドキャストしませんか？: Meety</a></li></ul>",
+      "itunes:explicit": "no"
+    }
+  ]
+}

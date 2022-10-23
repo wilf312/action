@@ -26,6 +26,167 @@
      <!-- publish only podcast posts, not blog-->
      <!-- publish only podcast posts, not references-->
     <item>
+      <title>149. Syako Punch</title>
+      <link>https://researchat.fm/episode/149</link>
+      <pubDate>Tue, 11 Oct 2022 04:00:00 +0900</pubDate>
+      <description>kagayaさんをゲストに迎え、シャコパンチの話題を中心に色々話しました。&lt;h2 id=&quot;shownotes&quot;&gt;Shownotes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/katzkagaya&quot;&gt;Katsushi Kagaya&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://researchat.fm/episode/140&quot;&gt;140. Recurrency (Researchat.fm)&lt;/a&gt; … “kagayaさんをゲストに迎え、アメリカザリガニの自発性行動開始の脳研究における単一ニューロンの膜電位活動の記録とその形態染色技術の話、超高速パンチをするシャコの研究、リカレントニューラルネットワークの機械学習フレームワークであるリザバーコンピューティングについてお話をうかがいました。 (w/ mazさん)”&lt;/li&gt;
+  &lt;li&gt;kagayaさんの(Self-organized criticality 自己組織化臨界)SOC論文　準備電位は自己組織化臨界状態で生じる神経雪崩と呼ばれるスケールのない、冪則に従う神経活動であるという主張の論文　https://doi.org/10.48550/arXiv.2209.09075&lt;/li&gt;
+  &lt;li&gt;リザバー … リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/researchat_fm/status/1519463611374182402&quot;&gt;Researchatfm sticker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;リザバーハンドブック … &lt;a href=&quot;https://iopscience.iop.org/article/10.1088/2634-4386/ac7db7&quot;&gt;Hands-on reservoir computing: a tutorial for practical implementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;リザバーのコード … &lt;a href=&quot;https://mantas.info/code/simple_esn/&quot;&gt;Simple Echo State Network implementations&lt;/a&gt; で、Echo State Network のミニマルな実装が、&lt;a href=&quot;https://www.r-project.org/&quot;&gt;R&lt;/a&gt;、&lt;a href=&quot;https://julialang.org/&quot;&gt;Julia&lt;/a&gt;、&lt;a href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;、&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;MATLAB&lt;/a&gt;のそれぞれの実装が公開されています。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholar.google.de/citations?user=0uztVbMAAAAJ&amp;amp;hl=en&quot;&gt;Herbert Jaeger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;かがやさんの文章 … &lt;a href=&quot;https://researchmap.jp/kagaya/misc/37188150&quot;&gt;超高速運動から個性そして多様性&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=u6gDoawF8pc&amp;amp;feature=youtu.be&amp;amp;ab_channel=%E3%82%86%E3%82%8B%E3%81%B5%E3%82%8F%E7%94%9F%E7%89%A9%E5%AD%A6&quot;&gt;ゆるふわ生物学のシャコパンチ回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;シャコパンチ … 主にパンチして貝殻を割って食べるタイプのスマッシャーシャコの打撃運動のことをシャコパンチと言っているが、突き刺すのが得意なスピアラーシャコもパンチをする。&lt;a href=&quot;https://twitter.com/katzkagaya/status/1275425399015526401&quot;&gt;スピアラーシャコに破られた水槽&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pateklab.biology.duke.edu/&quot;&gt;Sheila Patek&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick&quot;&gt;The shrimp with a kick!&lt;/a&gt; … Sheila Patek先生のTED&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00C9DYZFC/?tag=researchatf04-22&quot;&gt;テラフォーマーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nobunagashinbo/status/1170327005616672768&quot;&gt;海の牙&lt;/a&gt; … 勝手に拝借失礼いたします。星野之宣先生の作品のようです。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%B3%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC&quot;&gt;えびボクサー&lt;/a&gt; … “邦題は『えびボクサー』で公式ポスターにもエビが描かれているが、実際に登場するのはシャコである。”&lt;/li&gt;
+  &lt;li&gt;Mantis shrimp … シャコの英語での一般の呼び方。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ucmp.berkeley.edu/arthropoda/crustacea/malacostraca/eumalacostraca/royslist/&quot;&gt;Roy Caldwell&lt;/a&gt; … シャコ界のゴッドファーザー&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://researchat.fm/episode/133&quot;&gt;133. The longest self-introduction&lt;/a&gt; … “mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%82%AB%E3%83%A1%E3%83%A9&quot;&gt;ハイスピードカメラ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zoo.cam.ac.uk/directory/malcolm-burrows&quot;&gt;Malcolm Burrows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;スピアラー・スマッシャー　…　機能的に主にこのふたつに大別される。中間タイプもいる。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/katzkagaya/status/1275425399015526401&quot;&gt;水槽を割るスピアラー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;自分の指が刺さっている論文 … &lt;a href=&quot;https://link.springer.com/article/10.1007/BF00299261&quot;&gt;The mechanics and neural control of the prey capture strike in the mantid shrimps Squilla and Hemisquilla&lt;/a&gt; &lt;a href=&quot;https://twitter.com/katzkagaya/status/1304795239480045569&quot;&gt;刺されたところ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%A1%8E%E8%84%9A&quot;&gt;顎脚&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Patekさんの最初の論文 … &lt;a href=&quot;https://www.nature.com/articles/428819a&quot;&gt;Deadly strike mechanism of a mantis shrimp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;スピアラーを測った論文 … &lt;a href=&quot;https://doi.org/10.1242/jeb.075317&quot;&gt;Strike mechanics of an ambush predator: the spearing mantis shrimp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;空気中でパンチが遅くなる … &lt;a href=&quot;https://doi.org/10.1242/jeb.208678&quot;&gt;Medium compensation in a spring-actuated system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&quot;&gt;キャビテーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DrAdrianSmith/status/1555615275126403072&quot;&gt;シャコパンチが光る動画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%83%E3%83%9D%E3%82%A6%E3%82%A8%E3%83%93&quot;&gt;テッポウエビ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%82%A8%E3%83%93&quot;&gt;ヨコエビ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;テッポウエビの2000年の論文 … &lt;a href=&quot;https://doi.org/10.1126/science.289.5487.2114&quot;&gt;How Snapping Shrimp Snap: Through Cavitating Bubbles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DrAdrianSmith/status/1554893650252861440&quot;&gt;テッポウエビの動画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kaji-sanの論文 … &lt;a href=&quot;https://doi.org/10.1016/j.cub.2017.11.044&quot;&gt;Parallel Saltational Evolution of Ultrafast Movements in Snapping Shrimp Claws&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;「回転中心乗り越えて」 … 意味不明だったと思います。「作用点がもと回転中心だったところを乗り越えて」に訂正します。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/katzkagaya/status/1358398122150359040&quot;&gt;シャコパンチの4棒リンク機構モデル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;「スピード優先」 … スマッシャーは速いのですが、このリンク機構だけの説明では「フォース優先」としないと間違い。変位が小さくなるとスピード小さくなっちゃうので。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/katzkagaya/status/1205804418282573824&quot;&gt;筋肉の並列構造　カニの筋肉の羽状配置&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980&quot;&gt;Animal Physiology: Adaptation and Environment&lt;/a&gt;	
+(休憩)&lt;/li&gt;
+  &lt;li&gt;ザリガニをサクリファイスしていた話 … &lt;a href=&quot;https://researchat.fm/episode/140&quot;&gt;Researchat.fm ep140&lt;/a&gt;でお聴きになれます。&lt;/li&gt;
+  &lt;li&gt;(Probability of success)(Value)/Time = PV/T&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic&quot;&gt;Kagaya and Patek, J Exp Biol (2016)&lt;/a&gt; … “Feed-forward motor control of ultrafast, ballistic movements”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nhk.jp/p/darwin/ts/8M52YNKXZ4/&quot;&gt;ダーウィンが来た！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;EMG … electromyography 筋電図&lt;/li&gt;
+  &lt;li&gt;混合分布モデル 確率分布を混合した分布 … 「モデルの中では」と言っていますが、データでモデルを学習する段階では5個体分かれているけど、予測のときには(全体の線をひくときには)分かれてないということを言うべきでした。&lt;a href=&quot;https://cran.r-project.org/web/packages/lme4/index.html&quot;&gt;lme4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mc-stan.org/&quot;&gt;Stan&lt;/a&gt; … “Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/katzkagaya/status/1347088187554811907&quot;&gt;シャコのブラッシング、グルーミング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;シャコの眼 … &lt;a href=&quot;https://twitter.com/katzkagaya/status/1213017912325181440&quot;&gt;偏光が見える・感じられる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.natureasia.com/ja-jp/ndigest/v11/n4/%E3%82%B7%E3%83%A3%E3%82%B3%E3%81%AE%E3%80%8C%E9%A9%9A%E7%95%B0%E3%81%AE%E8%89%B2%E8%A6%9A%E3%80%8D%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%9F/52559&quot;&gt;シャコの「驚異の色覚」は幻想だった？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/21493864/&quot;&gt;Kagaya and Takahata, Science (2011)&lt;/a&gt; … “Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openlab.ring.gr.jp/skk/&quot;&gt;SKK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ritualized behavior … &lt;a href=&quot;https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda&quot;&gt;Contests with deadly weapons: Telson sparring in mantis shrimp (Stomatopoda)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;meral spread … &lt;a href=&quot;https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda/figures&quot;&gt;上の論文の図版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/21493864/&quot;&gt;Kagaya and Takahata, Science (2011)&lt;/a&gt; … “Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hakubi.kyoto-u.ac.jp/&quot;&gt;白眉プロジェクト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://researchmap.jp/read0118403/research_projects/24521497&quot;&gt;神経系はなぜ東なのか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://researchmap.jp/read0166424&quot;&gt;下澤楯夫&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;並列構造　… e.g., 神経の束、イオンチャネルなど&lt;/li&gt;
+  &lt;li&gt;コオロギのセンサー　&lt;a href=&quot;https://www.jstage.jst.go.jp/article/jsmbe1987/10/11/10_11_29/_pdf&quot;&gt;コオロギやゴキブリの仲間にある尾葉という気流感覚器&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ハマホト … &lt;a href=&quot;https://www.hamamatsu.com/jp/ja/&quot;&gt;浜松ホトニクス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ザリガニのジャイアントニューロンと逃避行動　2本の腹髄の横断面をみると二対の巨大軸索が見える。外側と内側にそれぞれ lateral giant と　medial giant と言われるニューロンがある。それぞれ後方と前方からの脅威（水流刺激）に一発のスパイク応答を示して脅威から遠ざかる逃避遊泳を「司令」するため、コマンドニューロンとも言われた。コマンドという、ニューロン活動と行動が一対一に対応するという概念は感覚における「おばあさん細胞」のいわば運動版である。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?q=%23%E7%A5%9E%E7%B5%8C%E7%B3%BB%E3%81%AF%E6%9D%B1&amp;amp;src=typed_query&amp;amp;f=top&quot;&gt;「神経系は東」タグ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/mazpodfm?src=hashtag_click&quot;&gt;mazpod.fm&lt;/a&gt;　… mazさんのポッドキャスト&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391&quot;&gt;mazpod.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;editorial-notes&quot;&gt;Editorial Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;こちらこそ楽しく自分のお話させていただいてありがたいです。シャコやカニを食べる時、その筋肉繊維の向きを見て思い出していただければ幸いです。(kagaya)&lt;/li&gt;
+  &lt;li&gt;メチャクチャ楽しく聴けました。シャコ、今度日本に帰ったら食べます（違(tadasu)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid isPermaLink="true">https://researchat.fm/episode/149</guid>
+      
+        <enclosure url="https://traffic.libsyn.com/secure/researchat/149.mp3" length="95423005" type="audio/mp3"/>
+         
+      <itunes:author>researchat</itunes:author>
+      <itunes:subtitle>kagayaさんをゲストに迎え、シャコパンチの話題を中心に色々話しました。</itunes:subtitle>
+      <itunes:duration>02:13:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <media:thumbnail url="https://researchat.fm/images/itunes_artwork_240.jpg"/>
+    </item>
+    
+    
+    
+     <!-- publish only podcast posts, not blog-->
+     <!-- publish only podcast posts, not references-->
+    <item>
+      <title>148. The Mountain is Calling You (ASMR)</title>
+      <link>https://researchat.fm/episode/148</link>
+      <pubDate>Mon, 03 Oct 2022 09:00:00 +0900</pubDate>
+      <description>BC州に広がる大自然の音をお届けします。&lt;h2 id=&quot;shownotes&quot;&gt;Shownotes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Elaho_River&quot;&gt;Elaho River (Wikipedia)&lt;/a&gt; … BC州は険しい山々を擁し、手つかずの大自然が広大に広がっています。Elaho川には2,000m級の山々と夏場でも雪が溶けない氷河から豊かな水が流れ込みます。険しい山道を川沿いに50km以上も北上し、辺り一帯を探索しキャンプしています。もちろん一人の人間もいません。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://photos.app.goo.gl/T876CqrNmptUDPv77&quot;&gt;Exploring Elaho river in BC (Google Photo)&lt;/a&gt; … sohが撮った写真です。雪山、天の川銀河まで見える満点の星空、激しい岩肌がお気に入りです。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/TheStoryTillNow&quot;&gt;TheStoryTillNow (YouTube)&lt;/a&gt; … BCに住むYoutuber。彼の映像を見てBCに広がるバックカントリーの美しさや激しさに引き込まれました。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=COdVhJDbLd0&quot;&gt;The Road To Paradise, Epic Jeep Gladiator and EcoDiesel JL Off-Road Adventure TheStoryTillNow (YouTube)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;editorial-notes&quot;&gt;Editorial Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;途中、なにを料理している音かわかりましたか？好評ならこのシリーズを続けたいです。感想あれば嬉しいです (soh)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid isPermaLink="true">https://researchat.fm/episode/148</guid>
+      
+        <enclosure url="https://traffic.libsyn.com/secure/researchat/148.mp3" length="14314683" type="audio/mp3"/>
+         
+      <itunes:author>researchat</itunes:author>
+      <itunes:subtitle>BC州に広がる大自然の音をお届けします。</itunes:subtitle>
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <media:thumbnail url="https://researchat.fm/images/itunes_artwork_240.jpg"/>
+    </item>
+    
+    
+    
+     <!-- publish only podcast posts, not blog-->
+     <!-- publish only podcast posts, not references-->
+    <item>
+      <title>147. Can't Imagine How Big Is That</title>
+      <link>https://researchat.fm/episode/147</link>
+      <pubDate>Fri, 30 Sep 2022 04:00:00 +0900</pubDate>
+      <description>コロナの終わり、植物や星の名前、アメリカやカナダの捉えきれない広大さ、新しいポッドキャストについての雑談です。&lt;h2 id=&quot;shownotes&quot;&gt;Shownotes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdc.gov/poxvirus/monkeypox/index.html&quot;&gt;Monkeypox Signs and Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://novelgame.jp/games/show/6590&quot;&gt;ぷらんちゅ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%81%86%E3%81%9A%E3%81%BE%E3%81%8D%E7%8C%AB%E3%81%AE%E3%81%BF%E3%81%A4%E3%81%91%E3%81%8B%E3%81%9F-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4103534206&quot;&gt;うずまき猫のみつけかた 村上春樹&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mlb.com/mariners&quot;&gt;Seattle Mariners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetravel.com/facts-about-the-moab-desert/&quot;&gt;10 Fascinating Facts About The Moab Desert&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3&quot;&gt;バーニングマン (Wikipedia)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;editorial-notes&quot;&gt;Editorial Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;編集をながらくさぼってすみませんでした… もうカナダは冬に突入しています (soh)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid isPermaLink="true">https://researchat.fm/episode/147</guid>
+      
+        <enclosure url="https://traffic.libsyn.com/secure/researchat/ep140_trunc.mp3" length="80312110" type="audio/mp3"/>
+         
+      <itunes:author>researchat</itunes:author>
+      <itunes:subtitle>コロナの終わり、植物や星の名前、アメリカやカナダの捉えきれない広大さ、新しいポッドキャストについての雑談です。</itunes:subtitle>
+      <itunes:duration>01:23:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <media:thumbnail url="https://researchat.fm/images/itunes_artwork_240.jpg"/>
+    </item>
+    
+    
+    
+     <!-- publish only podcast posts, not blog-->
+     <!-- publish only podcast posts, not references-->
+    <item>
       <title>146. The Black Triangle</title>
       <link>https://researchat.fm/episode/146</link>
       <pubDate>Wed, 31 Aug 2022 04:48:00 +0900</pubDate>

@@ -15,11 +15,11 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://testradio.fm/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://testradio.fm</link>
 	<description></description>
-	<lastBuildDate>Sun, 04 Sep 2022 23:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Oct 2022 23:00:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.0.2</generator>
+		<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://testradio.fm/wp/wp-content/uploads/2017/08/cropped-スタンプ-32x32.png</url>
@@ -53,6 +53,69 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:location>Tokyo, Japan</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 <site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第219回 テストラジオ 勇者本：ソフトウェアテストをカイゼンする 50のアイデア について</title>
+		<link>https://testradio.fm/testradio-no/1358/</link>
+		<pubDate>Sun, 16 Oct 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1358</guid>
+		<comments>https://testradio.fm/testradio-no/1358/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1358/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description>ソフトウェアテストをカイゼンする50のアイデア</description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/10/N219TestRadio.mp3" length="70969945" type="audio/mpeg" />
+		<itunes:subtitle>ソフトウェアテストをカイゼンする50のアイデア</itunes:subtitle>
+		<itunes:summary>ソフトウェアテストをカイゼンする50のアイデア</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:34</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1358</post-id>		</item>
+	<item>
+		<title>第217回 テストラジオ 見つけたバグの話 と ワークショップやミーティングのファシリテーションについて</title>
+		<link>https://testradio.fm/testradio-no/1350/</link>
+		<pubDate>Sat, 24 Sep 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1350</guid>
+		<comments>https://testradio.fm/testradio-no/1350/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1350/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/09/N217TestRadio.mp3" length="71442207" type="audio/mpeg" />
+		<itunes:subtitle>https://youtu.be/LytaGi5JVzI      https://twitter.com/hiroyuki3gou/status/1573998384255741955?s=20&amp;t=4mXW0U31pqU5OZV_z3Vlag</itunes:subtitle>
+		<itunes:summary>https://youtu.be/LytaGi5JVzI&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://twitter.com/hiroyuki3gou/status/1573998384255741955?s=20&amp;t=4mXW0U31pqU5OZV_z3Vlag</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:46</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1350</post-id>		</item>
+	<item>
+		<title>今週のテストラジオは kz_suzukiさん作成『勝手版 #ソフトウェアバグの7原則 Ver.1.0』の話</title>
+		<link>https://testradio.fm/testradio-no/1343/</link>
+		<pubDate>Sun, 11 Sep 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1343</guid>
+		<comments>https://testradio.fm/testradio-no/1343/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1343/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/09/N215TestRadio.mp3" length="71850099" type="audio/mpeg" />
+		<itunes:subtitle>https://youtu.be/Fcu2NiBEXnI      https://twitter.com/hiroyuki3gou/status/1568925250800480257?s=20&amp;t=Fnsv4WDYBcqmcPZuthV92Q</itunes:subtitle>
+		<itunes:summary>https://youtu.be/Fcu2NiBEXnI&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://twitter.com/hiroyuki3gou/status/1568925250800480257?s=20&amp;t=Fnsv4WDYBcqmcPZuthV92Q</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:56</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1343</post-id>		</item>
+	<item>
 		<title>第215回 テストラジオ Androidの機能の追加がバグをクイズ　このバグの原因なんだ？の話</title>
 		<link>https://testradio.fm/testradio-no/1338/</link>
 		<pubDate>Sun, 04 Sep 2022 23:00:00 +0000</pubDate>
@@ -215,74 +278,5 @@ https://youtu.be/kXrNITofvDM</itunes:summary>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>29:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1301</post-id>		</item>
-	<item>
-		<title>第207回 テストラジオ JaSST Tohokuの話</title>
-		<link>https://testradio.fm/testradio-no/1297/</link>
-		<pubDate>Sun, 05 Jun 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1297</guid>
-		<comments>https://testradio.fm/testradio-no/1297/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1297/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[ゲスト回]]></category>
-		<category><![CDATA[ぱいん回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description></description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/06/N207TestRadio_Podcast.mp3" length="141768963" type="audio/mpeg" />
-		<itunes:subtitle>https://twitter.com/hiroyuki3gou/status/1533393619121770496?s=20&amp;t=MDWSK_XS1jPWnTiZ9ixMCw      https://www.youtube.com/watch?v=-bj6fcA4gLk</itunes:subtitle>
-		<itunes:summary>https://twitter.com/hiroyuki3gou/status/1533393619121770496?s=20&amp;t=MDWSK_XS1jPWnTiZ9ixMCw&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://www.youtube.com/watch?v=-bj6fcA4gLk</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>59:04</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1297</post-id>		</item>
-	<item>
-		<title>第206回 テストラジオ  このURL大丈夫？とJaSST Onlineの話</title>
-		<link>https://testradio.fm/testradio-no/1292/</link>
-		<pubDate>Sun, 29 May 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1292</guid>
-		<comments>https://testradio.fm/testradio-no/1292/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1292/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[Podcast配信]]></category>
-		<category><![CDATA[なそ回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description></description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/05/N206TestRadio.mp3" length="70890777" type="audio/mpeg" />
-		<itunes:subtitle>https://twitter.com/hiroyuki3gou/status/1530874217620983809?s=20&amp;t=KJhJxkhqggz8nPDxhUzTow      https://youtu.be/SeAgFYeYeSg</itunes:subtitle>
-		<itunes:summary>https://twitter.com/hiroyuki3gou/status/1530874217620983809?s=20&amp;t=KJhJxkhqggz8nPDxhUzTow&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://youtu.be/SeAgFYeYeSg</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:32</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1292</post-id>		</item>
-	<item>
-		<title>第205回 テストラジオ プライベートバグとビジネスバグの話￼</title>
-		<link>https://testradio.fm/testradio-no/1287/</link>
-		<pubDate>Sun, 15 May 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1287</guid>
-		<comments>https://testradio.fm/testradio-no/1287/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1287/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[テストラジオ]]></category>
-		<category><![CDATA[なそ回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description>第205回 テストラジオ プライベートバグとビジネスバグの話 &amp;#82 …</description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/05/N205TestRadio.mp3" length="70372797" type="audio/mpeg" />
-		<itunes:subtitle>第205回 テストラジオ プライベートバグとビジネスバグの話 &amp;#82 …</itunes:subtitle>
-		<itunes:summary>第205回 テストラジオ プライベートバグとビジネスバグの話 &amp;#82 …</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:19</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1287</post-id>		</item>
 </channel>
 </rss>
