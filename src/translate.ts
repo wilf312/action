@@ -6,13 +6,19 @@ const output = async (item) => {
   // xmlの読み込み
   const file = await Deno.readTextFile(`rss/${item.hashEncoded}.xml`);
 
-  const cleanedFile = file.replaceAll(/\u2028/gi, "");
+  // XMLパースエラーになるのを防ぐための処理
+  // null文字除去
+  // XSLTの宣言行を除外
+  const cleanedFile = file
+    .replaceAll(/\u2028/gi, "")
+    .split("\n")
+    .filter((line) => !line.includes(`<?xml-stylesheet`))
+    .join("\n");
 
   // xml to json
-  const jsObj = xml.parse(cleanedFile, { debug: false });
+  const jsObj = xml.parse(cleanedFile, { debug: true });
 
   // json の書き出し
-
   let json = jsObj?.rss?.channel || "";
   // airsap の動的な要素を削除する
   if (item.url.includes(`airsap.net`)) {
