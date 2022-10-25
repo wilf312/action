@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 17 Oct 2022 11:00:00 +0000",
+  "lastBuildDate": "Tue, 25 Oct 2022 11:00:14 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -66,6 +66,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第154回 リクエストにお応えと小ネタ3つと青い出血！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1337",
+      "pubDate": "Tue, 25 Oct 2022 20:00:14 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1337"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1337#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1337",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet  【関連記事】 ・Microsoft Authenticator の MFA 疲労攻撃対[...]",
+      "content:encoded": "<div id=\"tweetbutton1337\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1337&text=%E7%AC%AC154%E5%9B%9E%20%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%AB%E3%81%8A%E5%BF%9C%E3%81%88%E3%81%A8%E5%B0%8F%E3%83%8D%E3%82%BF3%E3%81%A4%E3%81%A8%E9%9D%92%E3%81%84%E5%87%BA%E8%A1%80%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1337\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://jpazureid.github.io/blog/azure-active-directory/defend-your-users-from-mfa-fatigue-attacks/\">Microsoft Authenticator の MFA 疲労攻撃対策 | Japan Azure Identity Support Blog</a><br />\n・<a href=\"https://www.microsoft.com/en-us/security/business/security-insider/anatomy-of-an-external-attack-surface/extortion-economics/\">Extortion Economics | Security Insider</a><br />\n・<a href=\"https://spreadprivacy.com/duckduckgo-for-mac-open-beta/\">The wait is over: DuckDuckGo for Mac beta open to the public</a><br />\n・<a href=\"https://www.docomo.ne.jp/info/news_release/2022/10/17_00.html\">報道発表資料 : dアカウントのログインにおける新たな認証手段（Web認証・パスキー）の提供を開始 | お知らせ | NTTドコモ</a><br />\n・<a href=\"https://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html\">Android Developers Blog: Bringing passkeys to Android & Chrome</a><br />\n・<a href=\"https://socradar.io/sensitive-data-of-65000-entities-in-111-countries-leaked-due-to-a-single-misconfigured-data-bucket/\">Sensitive Data of 65,000+ Entities in 111 Countries Leaked due to a Single Misconfigured Data Bucket</a><br />\n・<a href=\"https://socradar.io/details-on-the-largest-b2b-leak-bluebleed/\">Details On The Largest B2B Leak: BlueBleed</a><br />\n・<a href=\"https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/\">Investigation Regarding Misconfigured Microsoft Storage Location – Microsoft Security Response Center</a><br />\n・<a href=\"https://www.youtube.com/channel/UCCTMMUDmBo6PXc7GmVHPrkw\">M-1グランプリ – YouTube</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/art_are.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/art_are-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1338\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/art_are-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/art_are-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/art_are-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/art_are.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>ほりにしのアレな使い方。パキパキをガジガジ。MP3のファイル名。見分けることの是非。確認するにも正しい手順で。マイスターではなく。三人は鼎談。印象的だったキーワードに対して解説とコメントします。情報窃取目的の標的型攻撃とは違う。国家背景かどうかは多くの方は二の次でいいと思う。Yubikeyに触れる頻度増えてきた。半分同意。攻撃者側の全容への理解。侵入前提の前提。何が違って何が違わず共通なのか。脅威から影響が想像しにくい。売り売り買い手。セキュリティをギャンブルにするな。TwitterでMacMacGoを検索！MFAを取り巻く環境。元年！Azureって空色とか紺碧とかって意味もあるんですね。誰でも検索できるようにすることの是非。個人的には脅威インテリジェンスの出し方が脅威になっていると感じました。注意喚起の仕方、在り方。笑いに正解なし。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年10月23日&nbsp;</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_221025_recipe.mp3",
+        "@length": 31332003,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet  【関連記事】 ・Microsoft Authenticator の MFA 疲労攻撃対[...]",
+      "itunes:summary": "Tweet  【関連記事】 ・Microsoft Authenticator の MFA 疲労攻撃対[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:05:04"
+    },
     {
       "title": "第153回 帰ってきたから帰ってきたぜ！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1330",
@@ -335,12 +364,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1271"
       },
-      "comments": "https://www.tsujileaks.com/?p=1271#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1271",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・The State of Stalkerware in 2021 | [...]",
-      "content:encoded": "<div id=\"tweetbutton1271\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271&text=%E7%AC%AC144%E5%9B%9E%20%E6%9D%A1%E4%BE%8B%E6%94%B9%E6%AD%A3%E3%81%A8%E3%83%9E%E3%82%AF%E3%83%AD%E9%81%AE%E6%96%AD%E3%81%A8%E5%85%A8%E9%83%A8%E4%B9%97%E3%81%9B%E6%BC%8F%E6%B4%A9%E3%81%AE%E5%BD%B1%E9%9F%BF%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1271\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://securelist.com/the-state-of-stalkerware-in-2021/106193/\">The State of Stalkerware in 2021 | Securelist</a><br />\n・<a href=\"https://stopstalkerware.org/\">Coalition Against Stalkerware (EN)</a><br />\n・<a href=\"https://www.keishicho.metro.tokyo.lg.jp/about_mpd/keiyaku_horei_kohyo/horei_jorei/meiwaku_jorei.html\">迷惑防止条例（平成30年7月1日施行） 警視庁</a><br />\n・<a href=\"https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world\">How Threat Actors Are Adapting to a Post-Macro World | Proofpoint US</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/microsoft/7-zip-now-supports-windows-mark-of-the-web-security-feature/\">7-zip now supports Windows ‘Mark-of-the-Web’ security feature</a><br />\n・<a href=\"https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/\">911 Proxy Service Implodes After Disclosing Breach – Krebs on Security</a><br />\n・<a href=\"https://techcrunch.com/2022/07/26/justalk-spilled-millions-of-user-messages-and-locations-for-months/\">JusTalk spilled millions of user messages and locations for months – TechCrunch</a><br />\n・<a href=\"https://techcrunch.com/2022/07/22/justalk-unencrypted/\">Messaging app JusTalk is spilling millions of unencrypted messages – TechCrunch</a><br />\n・<a href=\"https://www.family.co.jp/goods/chilleddaily/2111070.html\">昆布の旨味だし醤油冷やっこセット ｜商品情報｜ファミリーマート</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/hamon.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" class=\"alignnone size-medium wp-image-1272\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/hamon-300x200.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hamon-768x512.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/hamon.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>ゆーてますけれども。たまには外出てる。日傘使ってた。閉じたほうがいいときもある。モチベにつながるポッドキャスト。みんなハッピー。新作ステッカーも準備してます。お便り頂戴！みなさんのアクティビティが見える共有ありがとうございます。ボクらだけではリーチできないところのほうが多い。現場依存の話ありがとうございます。ストーカーウェア。TinyCheck試したいけどラズパイかなり値上がりしてるんですよね。見てもらいたいという気持ちは個人の趣味嗜好なので頭ごなしにするなとは言いたくない。マルウェアばらまきの新潮流。1675%増とはいえ元の数字が少ない。7zip検討。911終了のお知らせ。終了のしょうもない理由。ジャストーーク!漏洩全部乗せに加えて真っ赤なライアー。評価はたいてい使う前提でされがち。周りが使っているので仕方なくという側面も。シグナ「リ」。出汁醤油が主役。親愛なる隣人豆腐。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年07月30日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_220801_higayakko.mp3",
         "@length": 34533679,
