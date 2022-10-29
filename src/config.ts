@@ -494,7 +494,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "dex.fm",
     hash: "dexfm",
-    url: "https://dex.fm/rss",
+    url: "https://dexfm.tumblr.com/rss",
   },
 
   {
