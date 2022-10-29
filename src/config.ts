@@ -434,7 +434,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "nextstep.fm",
     hash: "nextstepfm",
-    url: "https://nextstep.fm/feed.xml",
+    url: "https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss",
   },
 
   {
