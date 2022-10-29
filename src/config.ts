@@ -109,7 +109,7 @@ export const urlList: UrlListItem[] = [
 
   {
     name: "ALL STAR SAAS PODCAST",
-    hash: "#allstarsaas",
+    hash: "allstarsaas",
     url: "https://anchor.fm/s/4960aa9c/podcast/rss",
   },
 
