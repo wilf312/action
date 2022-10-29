@@ -116,7 +116,7 @@ jobs:
 
           # ALL STAR SAAS PODCAST
           echo 'https://anchor.fm/s/4960aa9c/podcast/rss'
-          curl https://anchor.fm/s/4960aa9c/podcast/rss --compressed > rss/#allstarsaas.xml
+          curl https://anchor.fm/s/4960aa9c/podcast/rss --compressed > rss/allstarsaas.xml
 
           # Basuke's Tech Talk
           echo 'https://anchor.fm/s/4cf7e15c/podcast/rss'
@@ -327,9 +327,6 @@ jobs:
           echo 'https://hiromaeda.com/feed/podcast/'
           curl https://hiromaeda.com/feed/podcast/ --compressed > rss/%E5%89%8D%E7%94%B0%E3%83%92%E3%83%AD.xml
 
-          # nextstep.fm
-          echo 'https://nextstep.fm/feed.xml'
-          curl https://nextstep.fm/feed.xml --compressed > rss/nextstepfm.xml
 
           # EM . FM #EMFM
           echo 'https://anchor.fm/s/70a2c40/podcast/rss'

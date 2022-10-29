@@ -1,1 +1,1572 @@
-""
+{
+  "atom:link": [
+    {
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss",
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "#text": null
+    },
+    {
+      "@href": "https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379",
+      "@rel": "next",
+      "@type": "application/rss+xml",
+      "#text": null
+    }
+  ],
+  "title": "nextstep.fm",
+  "link": "https://soundcloud.com/nextstepfm",
+  "pubDate": "Thu, 06 Oct 2022 06:41:23 +0000",
+  "lastBuildDate": "Thu, 06 Oct 2022 06:41:23 +0000",
+  "ttl": 60,
+  "language": "ja",
+  "copyright": "All rights reserved",
+  "webMaster": "feeds@soundcloud.com (SoundCloud Feeds)",
+  "description": "k_katsumi, 7gano, sonson_twit がiOSを中心にお話しするポッドキャスト。\nハッシュタグ #nextstepfm でお便り募集しています。",
+  "itunes:subtitle": "k_katsumi, 7gano, sonson_twit がiOSを中心にお話しするポッドキャス…",
+  "itunes:owner": {
+    "itunes:name": "nextstepfm",
+    "itunes:email": "yoshida.yuichi@icloud.com"
+  },
+  "itunes:author": "nextstep.fm",
+  "itunes:explicit": "no",
+  "itunes:image": {
+    "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+    "#text": null
+  },
+  "image": {
+    "url": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+    "title": "nextstepfm",
+    "link": "https://soundcloud.com/nextstepfm"
+  },
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1357733431"
+      },
+      "title": "#60 密林から届いた詫び石",
+      "pubDate": "Thu, 06 Oct 2022 06:41:23 +0000",
+      "link": "https://soundcloud.com/nextstepfm/60a",
+      "itunes:duration": "01:54:28",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nAppleWatch Ultra，リコリコ，ScratchのSNS，macOSでの安全なプロセス間通信とはどうあるべきなのか・・・などについて話しました．\n\n1. iOSDC2022，RubyKaigiで忙しかったかな？\n3. Amazonアカウント事件\n4. Apple Watch ウルトラ！！！\n5. AirPods Pro 第二世代発売\n15. リコリス・リコイル https://lycoris-recoil.com\n16. リコリス・リコイル・小ネタ　https://twitter.com/niw/status/1576425620094873600?s=20&t=LABNOat42qPZB3fP9Q2n_A\n17. https://cdn-ak.f.st-hatena.com/images/fotolife/c/cutxout/20220814/20220814223859.jpg\n18. ソードフィッシュ https://ja.wikipedia.org/wiki/ソードフィッシュ_(映画)\n19. スティーブ・ジョーズ https://dic.pixiv.net/a/スティーブ・ジョーズ\n20. Scratchプログラミング\n21. sonsonの次男氏によるカードゲーム「分子カードゲーム　ブンシ・ウォーズ」 https://scratch.mit.edu/projects/733509063\n22. リスクとリターン https://www.youtube.com/watch?v=cTSMohV3TgQ&t=39s\n23. macOSの上でのHomeKitとSwiftUIの共存を目指して．\n24. アプリ間の暗号通信とどうあるべきか，どこで諦めるべきか\n25. AppleScriptの日本語対応はMac OS 8.5までみたいです。\n26. 暗号技術入門 https://amzn.to/3Ej8wVQ\n27. RSAを支える数論定理\n28. フェルマーの小定理，オイラーの数論定理，中国人の剰余定理\n29. iOS16のLive Captionとは？？\n30. Xcode Cloudに対するAppleによる責任転嫁文書 https://developer.apple.com/documentation/xcode/making-dependencies-available-to-xcode-cloud",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nAppleWatch Ultra，リコリコ，ScratchのSNS，macOSでの安全なプロセス間通信とはどうあるべきなのか・・・などについて話しました．\n\n1. iOSDC2022，RubyKaigiで忙しかったかな？\n3. Amazonアカウント事件\n4. Apple Watch ウルトラ！！！\n5. AirPods Pro 第二世代発売\n15. リコリス・リコイル https://lycoris-recoil.com\n16. リコリス・リコイル・小ネタ　https://twitter.com/niw/status/1576425620094873600?s=20&t=LABNOat42qPZB3fP9Q2n_A\n17. https://cdn-ak.f.st-hatena.com/images/fotolife/c/cutxout/20220814/20220814223859.jpg\n18. ソードフィッシュ https://ja.wikipedia.org/wiki/ソードフィッシュ_(映画)\n19. スティーブ・ジョーズ https://dic.pixiv.net/a/スティーブ・ジョーズ\n20. Scratchプログラミング\n21. sonsonの次男氏によるカードゲーム「分子カードゲーム　ブンシ・ウォーズ」 https://scratch.mit.edu/projects/733509063\n22. リスクとリターン https://www.youtube.com/watch?v=cTSMohV3TgQ&t=39s\n23. macOSの上でのHomeKitとSwiftUIの共存を目指して．\n24. アプリ間の暗号通信とどうあるべきか，どこで諦めるべきか\n25. AppleScriptの日本語対応はMac OS 8.5までみたいです。\n26. 暗号技術入門 https://amzn.to/3Ej8wVQ\n27. RSAを支える数論定理\n28. フェルマーの小定理，オイラーの数論定理，中国人の剰余定理\n29. iOS16のLive Captionとは？？\n30. Xcode Cloudに対するAppleによる責任転嫁文書 https://developer.apple.com/documentation/xcode/making-dependencies-available-to-xcode-cloud",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1357733431-nextstepfm-60a.mp3",
+        "@length": 109889409,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1337494132"
+      },
+      "title": "#59 権利・楽しみ・安全・性能から考えるAI",
+      "pubDate": "Sun, 04 Sep 2022 15:04:07 +0000",
+      "link": "https://soundcloud.com/nextstepfm/59-ai",
+      "itunes:duration": "01:51:13",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nXcode Cloudはアリ？ナシ？，画像に関わるのAIの小話，AIは，創作活動を破壊するか？，人間の創作，楽しみ，AIと人間の知恵について，お話ししました．\n\n1. Apple Event https://www.apple.com/jp/apple-events/\n2. sonson, IQ, 160だった！ほんまかいな，そして，意味あるんかいな\n3. 怪しいIQテスト http://www.iqiq.jp/pc/iqtest/\n4. 怪しいIQテスト https://jp.vonvon.me/quiz/25\n5. 男女差か，個人差か\n6. Xcode Cloud https://developer.apple.com/jp/xcode-cloud/\n7. Xcode Cloudは，App Store向けのCIモジュール？\n8. AIへの攻撃は可能？\n9.  Adversarial Examples/Attacks https://arxiv.org/abs/1412.6572\n10. CNNで得られる特徴と，Visual Transformerで得られる特徴の違い\n11. Adversarial Examples/Attacksで，Stable Diffusionなどの昨今のお絵描きAIへの防御は可能か・・・・・？\n12. Stable Diffusion https://ja.wikipedia.org/wiki/Stable_Diffusion\n13. AIと著作権の話，再燃\n14. AIは，見たものにしか答えられない？\n15. 安全を担保したAI\n16. 結局は，メリットとデメリットの分岐点なんだが\n17. AIお絵描きサービス・・・・・\n18. ベンチャーによるサービス存続の覚悟",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nXcode Cloudはアリ？ナシ？，画像に関わるのAIの小話，AIは，創作活動を破壊するか？，人間の創作，楽しみ，AIと人間の知恵について，お話ししました．\n\n1. Apple Event https://www.apple.com/jp/apple-events/\n2. sonson, IQ, 160だった！ほんまかいな，そして，意味あるんかいな\n3. 怪しいIQテスト http://www.iqiq.jp/pc/iqtest/\n4. 怪しいIQテスト https://jp.vonvon.me/quiz/25\n5. 男女差か，個人差か\n6. Xcode Cloud https://developer.apple.com/jp/xcode-cloud/\n7. Xcode Cloudは，App Store向けのCIモジュール？\n8. AIへの攻撃は可能？\n9.  Adversarial Examples/Attacks https://arxiv.org/abs/1412.6572\n10. CNNで得られる特徴と，Visual Transformerで得られる特徴の違い\n11. Adversarial Examples/Attacksで，Stable Diffusionなどの昨今のお絵描きAIへの防御は可能か・・・・・？\n12. Stable Diffusion https://ja.wikipedia.org/wiki/Stable_Diffusion\n13. AIと著作権の話，再燃\n14. AIは，見たものにしか答えられない？\n15. 安全を担保したAI\n16. 結局は，メリットとデメリットの分岐点なんだが\n17. AIお絵描きサービス・・・・・\n18. ベンチャーによるサービス存続の覚悟",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1337494132-nextstepfm-59-ai.mp3",
+        "@length": 106783972,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1318592797"
+      },
+      "title": "#58 Rubykaigi Keynote Speakerが語るWebAssemblyのひみつ",
+      "pubDate": "Fri, 05 Aug 2022 16:01:10 +0000",
+      "link": "https://soundcloud.com/nextstepfm/58-rubykaigi-keynote-speakerwebassembly",
+      "itunes:duration": "02:01:50",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nAIを使ったプログラミング，絵画，それにまつわる著作権，WebAssemblyの技術について話しました．\n\n1. AI，謎の挙動 https://twitter.com/niw/status/1543114893108203521?s=21&t=Z1KLQcqI_J1Q4asCEGYv6w\n2. Transformer https://ja.wikipedia.org/wiki/Transformer_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB)\n3. 田中圭一と著作権　https://wirelesswire.jp/2016/12/58090/\n4. オリンピックロゴ問題 https://www.itmedia.co.jp/news/articles/1509/01/news146.html\n5. Rubykaigi https://rubykaigi.org/2022/\n6. Keynote Speaker - Katei こと Yuta Saito\n7. https://rubykaigi.org/2022/presentations/kateinoigakukun.html#sep08\n8. WebAssembly https://mixil.mixi.co.jp/people/12242\n9. カテイくんが明かすWebAssemblyのひみつ\n10. Figmaの使い方 https://www.figma.com/ja/blog/webassembly-cut-figmas-load-time-by-3x/\n11. SwiftFiddle https://github.com/SwiftFiddle/swiftregex/pull/16\n12. WebAssemblyにGC必要？ https://zenn.dev/mizchi/articles/wasm-gc-proposal\n13. 懐かしのiOS SDK Hacks https://www.oreilly.co.jp/books/9784873114729/\n14. 本を書く価値\n15. みんな！Rubykaigiに行こう！",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nAIを使ったプログラミング，絵画，それにまつわる著作権，WebAssemblyの技術について話しました．\n\n1. AI，謎の挙動 https://twitter.com/niw/status/1543114893108203521?s=21&t=Z1KLQcqI_J1Q4asCEGYv6w\n2. Transformer https://ja.wikipedia.org/wiki/Transformer_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB)\n3. 田中圭一と著作権　https://wirelesswire.jp/2016/12/58090/\n4. オリンピックロゴ問題 https://www.itmedia.co.jp/news/articles/1509/01/news146.html\n5. Rubykaigi https://rubykaigi.org/2022/\n6. Keynote Speaker - Katei こと Yuta Saito\n7. https://rubykaigi.org/2022/presentations/kateinoigakukun.html#sep08\n8. WebAssembly https://mixil.mixi.co.jp/people/12242\n9. カテイくんが明かすWebAssemblyのひみつ\n10. Figmaの使い方 https://www.figma.com/ja/blog/webassembly-cut-figmas-load-time-by-3x/\n11. SwiftFiddle https://github.com/SwiftFiddle/swiftregex/pull/16\n12. WebAssemblyにGC必要？ https://zenn.dev/mizchi/articles/wasm-gc-proposal\n13. 懐かしのiOS SDK Hacks https://www.oreilly.co.jp/books/9784873114729/\n14. 本を書く価値\n15. みんな！Rubykaigiに行こう！",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1318592797-nextstepfm-58-rubykaigi-keynote-speakerwebassembly.mp3",
+        "@length": 116960861,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1309947394"
+      },
+      "title": "#57 裏写りする紙を再現したUIの10年後，論文は未だTeXだった．",
+      "pubDate": "Fri, 22 Jul 2022 15:31:38 +0000",
+      "link": "https://soundcloud.com/nextstepfm/57-ui10tex",
+      "itunes:duration": "01:50:34",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n都内マンション雑談，Swift Chartsで作るJupyterNotebook，Numbersが実は使える，Stringの勉強会構想について話しました．\n\n1. 冒頭雑談\n   1. https://sekokan-navi.jp/magazine/33418\n   2. Steam Deck https://www.steamdeck.com/ja/\n   3. カプコンの売上 https://automaton-media.com/articles/newsjp/20220630-208715/\n   4. https://www.capcom.co.jp/ir/data/pdf/explanation/2022/full/explanation_2022_full_03.pdf\n   5. DELLのゲーミングノート　https://www.dell.com/ja-jp/shop/gaming-and-games/alienware-x17-r2%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/alienware-x17-r2-laptop\n   6. RAZERのゲーミングノート　https://www.razer.com/gaming-laptops/razer-blade-17\n   7. http://esportscafe.co.jp\n   8. ゼルダ発売から7年　https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド\n   9.  ゲルド族いじり　https://news.denfaminicogamer.jp/kikakuthetower/220715b\n   10. TRIANGLE STERATEGY https://www.jp.square-enix.com/trianglestrategy/\n2.  JupyterNotebookをSwift Playgroundsで\n    1.  try! Swift2017ハッカソン　https://tryswift.devpost.com\n    2.  numsw，賞を総なめだぜ！ https://github.com/sonsongithub/numsw\n    3.  MarkupParser https://github.com/1024jp/MarkupParser\n    4.  macOS用カラーピッカービュー https://github.com/sonsongithub/ColorWheelPanelView/blob/main/ColorWheelPanelView.playground/Contents.swift\n    5.  SwiftUIを画像に https://www.appcoda.com/swiftui-imagerenderer-pdf/\n3.  論文の出版\n    1.  iWork https://www.apple.com/iwork/\n    2.  macOSの価値は，PagesとNumbersとKeynoteにある？\n    3.  TeX https://ja.wikipedia.org/wiki/TeX\n    4.  Overleaf https://www.overleaf.com\n    5.  iPadのページめくりアニメーションは必要だったか？\n    6.  スキューモーフィズムの意味は？\n    7.  みんなが待っていたフラットデザイン\n4.  Stringの会構想\n    1.  UTF-16の文字が数えられない問題\n    2.  ﷽\n    3.  Rustコンパイラがその辺ちょっと頑張ってる https://github.com/rust-lang/rust/issues/86102\n    4.  Don't use emoji in source codes.\n    5.  Stringの会のネタ\n        1.  文字の多様性\n        2.  フォールディング\n        3.  絵文字の判定\n        4.  幅の理論値\n        5.  国旗問題\n        6.  リバース関数？\n    6.  世界の文字と記号の大図鑑　https://amzn.to/3cvVFUc\n    7.  次回はKateiくんのRuby会議の話から",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n都内マンション雑談，Swift Chartsで作るJupyterNotebook，Numbersが実は使える，Stringの勉強会構想について話しました．\n\n1. 冒頭雑談\n   1. https://sekokan-navi.jp/magazine/33418\n   2. Steam Deck https://www.steamdeck.com/ja/\n   3. カプコンの売上 https://automaton-media.com/articles/newsjp/20220630-208715/\n   4. https://www.capcom.co.jp/ir/data/pdf/explanation/2022/full/explanation_2022_full_03.pdf\n   5. DELLのゲーミングノート　https://www.dell.com/ja-jp/shop/gaming-and-games/alienware-x17-r2%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/spd/alienware-x17-r2-laptop\n   6. RAZERのゲーミングノート　https://www.razer.com/gaming-laptops/razer-blade-17\n   7. http://esportscafe.co.jp\n   8. ゼルダ発売から7年　https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド\n   9.  ゲルド族いじり　https://news.denfaminicogamer.jp/kikakuthetower/220715b\n   10. TRIANGLE STERATEGY https://www.jp.square-enix.com/trianglestrategy/\n2.  JupyterNotebookをSwift Playgroundsで\n    1.  try! Swift2017ハッカソン　https://tryswift.devpost.com\n    2.  numsw，賞を総なめだぜ！ https://github.com/sonsongithub/numsw\n    3.  MarkupParser https://github.com/1024jp/MarkupParser\n    4.  macOS用カラーピッカービュー https://github.com/sonsongithub/ColorWheelPanelView/blob/main/ColorWheelPanelView.playground/Contents.swift\n    5.  SwiftUIを画像に https://www.appcoda.com/swiftui-imagerenderer-pdf/\n3.  論文の出版\n    1.  iWork https://www.apple.com/iwork/\n    2.  macOSの価値は，PagesとNumbersとKeynoteにある？\n    3.  TeX https://ja.wikipedia.org/wiki/TeX\n    4.  Overleaf https://www.overleaf.com\n    5.  iPadのページめくりアニメーションは必要だったか？\n    6.  スキューモーフィズムの意味は？\n    7.  みんなが待っていたフラットデザイン\n4.  Stringの会構想\n    1.  UTF-16の文字が数えられない問題\n    2.  ﷽\n    3.  Rustコンパイラがその辺ちょっと頑張ってる https://github.com/rust-lang/rust/issues/86102\n    4.  Don't use emoji in source codes.\n    5.  Stringの会のネタ\n        1.  文字の多様性\n        2.  フォールディング\n        3.  絵文字の判定\n        4.  幅の理論値\n        5.  国旗問題\n        6.  リバース関数？\n    6.  世界の文字と記号の大図鑑　https://amzn.to/3cvVFUc\n    7.  次回はKateiくんのRuby会議の話から",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1309947394-nextstepfm-57-ui10tex.mp3",
+        "@length": 106146585,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1300031764"
+      },
+      "title": "#56 「ここ数年で最高」のWWDC",
+      "pubDate": "Tue, 05 Jul 2022 15:56:21 +0000",
+      "link": "https://soundcloud.com/nextstepfm/56-wwdc",
+      "itunes:duration": "01:49:48",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022ネタをメインにカンファレンスの開催形態，プログラミングについて話をしました．\n\n1. 文字コード\n2. ヌーボーとWWDC\n3. Xcode14はいいぞ\n4. WWDCに限らず，カンファレンスの未来・・・オンラインか，オフラインか\n5. WWDCのラボをちょっと遅らせて，オンラインでやった方がいいのでは？\n6. アメリカはポストコロナ\n7. try Swift 活動再開！！！\n8. Swift Chartsは来る！？\n9. WWDCのサンプルは本当か？信じていいのか？\n10. Swift Chartsに未来はあるのか\n11. いつも出てくるAppleのSherlock問題\n12. MenuExtraは，Mac Catalystで動かない・・・・どうやら仕様\n13. Mac Catalystでできたアプリは・・・・使いにくい問題\n14. Combineは黒歴史になるか\n15. ポストRxCocoa\n16. Sendable is usable?\n17. GitHub Copilotは，フードプロセッサー\n18. あなたは，GitHubからスポンサーを受けました？",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022ネタをメインにカンファレンスの開催形態，プログラミングについて話をしました．\n\n1. 文字コード\n2. ヌーボーとWWDC\n3. Xcode14はいいぞ\n4. WWDCに限らず，カンファレンスの未来・・・オンラインか，オフラインか\n5. WWDCのラボをちょっと遅らせて，オンラインでやった方がいいのでは？\n6. アメリカはポストコロナ\n7. try Swift 活動再開！！！\n8. Swift Chartsは来る！？\n9. WWDCのサンプルは本当か？信じていいのか？\n10. Swift Chartsに未来はあるのか\n11. いつも出てくるAppleのSherlock問題\n12. MenuExtraは，Mac Catalystで動かない・・・・どうやら仕様\n13. Mac Catalystでできたアプリは・・・・使いにくい問題\n14. Combineは黒歴史になるか\n15. ポストRxCocoa\n16. Sendable is usable?\n17. GitHub Copilotは，フードプロセッサー\n18. あなたは，GitHubからスポンサーを受けました？",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1300031764-nextstepfm-56-wwdc.mp3",
+        "@length": 105415992,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1281025984"
+      },
+      "title": "#55 Swift, no time to die.",
+      "pubDate": "Sat, 04 Jun 2022 14:51:23 +0000",
+      "link": "https://soundcloud.com/nextstepfm/55-swift-no-time-to-die",
+      "itunes:duration": "01:44:57",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022の歩き方, iOSDC2022ネタ, プログラミング言語はいつ死ぬのか, Swiftがこの先生きのこるにはどうするか，について話しました．\n\n1. iOSDC2022 @d_date [ネ1１](https://fortee.jp/iosdc-japan-2022/proposal/15c14da6-ab43-4ead-83bd-e423eccbe221)\n2. iOSDC2022 @d_date [ネタ2](https://fortee.jp/iosdc-japan-2022/proposal/a6999c47-0cb0-4f5b-b46c-8eb61141d80b)\n3. iOSDC2022 @d_date [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/b2171bc6-9745-4c11-aa20-adb0b60587f2)\n4. iOSDC2022 @sonson_twit [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/fa1db2d6-2db6-489c-a2cc-cfbc4abeb34c)\n5. iOSDC2022 @k_katsumi [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/517cb156-3905-4dd7-b666-d2200049d822)\n6. SwiftBundler https://github.com/stackotter/swift-bundler\n7. try Swiftどうよ．\n8. おうちハック勉強会楽しかったね\n9. 光コンセントのかっこいい方と悪い方 ![光コンセントのかっこいい方](https://www.ntt-east.co.jp/info/detail/images/img_130308_01_01.jpg)\n10. @k_katsumi は机も椅子も選ばず\n11. マッサージガン https://my-best.com/12539\n12. Swiftは使われるようになるのか問題 https://laiso.hatenablog.com/entry/2022/06/01/webobjects\n13. 言語の「死」とは？\n14. https://laiso.hatenablog.com/entry/2022/06/01/webobjects\n15. どうやったら，Swiftは使われる？\n16. Swiftは難しい？\n17. 機械学習ではそんなに難しい処理はPythonで書かない\n18. https://github.com/pvieito/PythonKit\n19. MATLABのグラフは美しい\n20. [Hate the Windows 11 Start Menu? Here's How to Change or Replace It Image](https://www.pcmag.com/how-to/customize-windows-11-start-menu)\n21. モバイル・パブリックコメント募集の話 https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060220427&Mode=0\n22. サイドローディングはセキュリティに何の貢献もしない\n23. Appleは開発者へのリスペクトを忘れてしまったのか・・・・",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022の歩き方, iOSDC2022ネタ, プログラミング言語はいつ死ぬのか, Swiftがこの先生きのこるにはどうするか，について話しました．\n\n1. iOSDC2022 @d_date [ネ1１](https://fortee.jp/iosdc-japan-2022/proposal/15c14da6-ab43-4ead-83bd-e423eccbe221)\n2. iOSDC2022 @d_date [ネタ2](https://fortee.jp/iosdc-japan-2022/proposal/a6999c47-0cb0-4f5b-b46c-8eb61141d80b)\n3. iOSDC2022 @d_date [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/b2171bc6-9745-4c11-aa20-adb0b60587f2)\n4. iOSDC2022 @sonson_twit [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/fa1db2d6-2db6-489c-a2cc-cfbc4abeb34c)\n5. iOSDC2022 @k_katsumi [ネタ3](https://fortee.jp/iosdc-japan-2022/proposal/517cb156-3905-4dd7-b666-d2200049d822)\n6. SwiftBundler https://github.com/stackotter/swift-bundler\n7. try Swiftどうよ．\n8. おうちハック勉強会楽しかったね\n9. 光コンセントのかっこいい方と悪い方 ![光コンセントのかっこいい方](https://www.ntt-east.co.jp/info/detail/images/img_130308_01_01.jpg)\n10. @k_katsumi は机も椅子も選ばず\n11. マッサージガン https://my-best.com/12539\n12. Swiftは使われるようになるのか問題 https://laiso.hatenablog.com/entry/2022/06/01/webobjects\n13. 言語の「死」とは？\n14. https://laiso.hatenablog.com/entry/2022/06/01/webobjects\n15. どうやったら，Swiftは使われる？\n16. Swiftは難しい？\n17. 機械学習ではそんなに難しい処理はPythonで書かない\n18. https://github.com/pvieito/PythonKit\n19. MATLABのグラフは美しい\n20. [Hate the Windows 11 Start Menu? Here's How to Change or Replace It Image](https://www.pcmag.com/how-to/customize-windows-11-start-menu)\n21. モバイル・パブリックコメント募集の話 https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060220427&Mode=0\n22. サイドローディングはセキュリティに何の貢献もしない\n23. Appleは開発者へのリスペクトを忘れてしまったのか・・・・",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1281025984-nextstepfm-55-swift-no-time-to-die.mp3",
+        "@length": 100766196,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1267474231"
+      },
+      "title": "#54 sea，覚えていますか？",
+      "pubDate": "Fri, 13 May 2022 07:59:58 +0000",
+      "link": "https://soundcloud.com/nextstepfm/54-sea",
+      "itunes:duration": "01:47:05",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n古き良き？自動解凍ファイル，AppleがApp Storeの古いアプリを削除する話，macOS Native，おうちハックイベントについて話しました．\n\n1. WWDC2023のイベントがあるみたい\n2. とりあえず申し込んでる @d_date\n3. Appleのお土産が欲しい\n4. 金継ぎ\n5. Google I/O\n6. AR元年はいつまで続く\n7. Among Us VRはいいはず！\n8. Windows Emotet\n9. 諸悪の根源は添付ファイル\n10. 実行形式になってた自動解凍zipファイル・・・・sea，覚えていますか？\n11. StuffIt Expander\n12. https://en.wikipedia.org/wiki/Self-extracting_archive\n13. App Storeから古いアプリは消すよ from Apple　https://developer.apple.com/news/?id=gi6npkmf\n14. 古いアプリを削除するのはセキュリティの向上に貢献するか？\n15. Legacy Store\n16. App Store Connectはよくなった！\n17. HomeConMenuを公開しました！ @sonson_twit https://apps.apple.com/us/app/homeconmenu/id1615397537\n18. @1024jp によるアプリの言語リソースの添削！\n19. Zoomは相変わらず使いにくい\n20. HomeConMenuのアプリレビュー\n21. Zoomの使い方\n22. macOS Native！！！ https://macos-native.github.io\n23. おうちハックイベント！！！ https://ouchi-hack.connpass.com/event/243780/",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n古き良き？自動解凍ファイル，AppleがApp Storeの古いアプリを削除する話，macOS Native，おうちハックイベントについて話しました．\n\n1. WWDC2023のイベントがあるみたい\n2. とりあえず申し込んでる @d_date\n3. Appleのお土産が欲しい\n4. 金継ぎ\n5. Google I/O\n6. AR元年はいつまで続く\n7. Among Us VRはいいはず！\n8. Windows Emotet\n9. 諸悪の根源は添付ファイル\n10. 実行形式になってた自動解凍zipファイル・・・・sea，覚えていますか？\n11. StuffIt Expander\n12. https://en.wikipedia.org/wiki/Self-extracting_archive\n13. App Storeから古いアプリは消すよ from Apple　https://developer.apple.com/news/?id=gi6npkmf\n14. 古いアプリを削除するのはセキュリティの向上に貢献するか？\n15. Legacy Store\n16. App Store Connectはよくなった！\n17. HomeConMenuを公開しました！ @sonson_twit https://apps.apple.com/us/app/homeconmenu/id1615397537\n18. @1024jp によるアプリの言語リソースの添削！\n19. Zoomは相変わらず使いにくい\n20. HomeConMenuのアプリレビュー\n21. Zoomの使い方\n22. macOS Native！！！ https://macos-native.github.io\n23. おうちハックイベント！！！ https://ouchi-hack.connpass.com/event/243780/",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1267474231-nextstepfm-54-sea.mp3",
+        "@length": 102804583,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1247662939"
+      },
+      "title": "#53 HomeKitアプリの公開デバッグ会場",
+      "pubDate": "Sun, 10 Apr 2022 09:42:56 +0000",
+      "link": "https://soundcloud.com/nextstepfm/53-homekit",
+      "itunes:duration": "01:41:09",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022，HomeKit APIをmacOSから使う方法，sonson拙作のHomeConMenu，ハイパーカードなどプログラミングの話をしました．\n\n1.  MuseScore https://musescore.org/ja\n2.  HomeKitコントロールアプリ https://github.com/sonsongithub/HomeConMenu\n3.  Macアプリの自動起動\n4.  @niw https://speakerdeck.com/niw/getting-started-with-making-macos-utility-app-using-private-apis\n5.  @niw https://github.com/niw/haptickey\n6.  SNは何のprefix? https://developer.apple.com/documentation/servicemanagement/\n7.  自動起動の解説　https://zenn.dev/kyome/articles/9bbc84f4654986\n8.  NSSwitch https://developer.apple.com/documentation/appkit/nsswitch\n9.  MacOS8 on Browser https://blog.persistent.info/2022/03/blog-post.html\n10. PowerPCエミュレータ？ https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html\n11. ハッカー https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/\n12. sonsonの初Mac https://ja.wikipedia.org/wiki/Power_Mac_G4\n13. 実はオープンソースなmacのチェクアプリ https://opensource.apple.com/source/Chess/\n14. ハイパーカードとは？ https://ja.wikipedia.org/wiki/HyperCard\n15. 夏休み・・・ハイパーカードアプリ http://www.linkclub.or.jp/~oshizaka/natsuyasumi/natsuyasumi.html\n16. memex コンピュータの先駆け https://ja.wikipedia.org/wiki/Memex\n17. ダグラス・エンゲルバート，アイヴァン・サザーランド，シーモア・パパート，今のコンピュータを作った人たち．",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nWWDC2022，HomeKit APIをmacOSから使う方法，sonson拙作のHomeConMenu，ハイパーカードなどプログラミングの話をしました．\n\n1.  MuseScore https://musescore.org/ja\n2.  HomeKitコントロールアプリ https://github.com/sonsongithub/HomeConMenu\n3.  Macアプリの自動起動\n4.  @niw https://speakerdeck.com/niw/getting-started-with-making-macos-utility-app-using-private-apis\n5.  @niw https://github.com/niw/haptickey\n6.  SNは何のprefix? https://developer.apple.com/documentation/servicemanagement/\n7.  自動起動の解説　https://zenn.dev/kyome/articles/9bbc84f4654986\n8.  NSSwitch https://developer.apple.com/documentation/appkit/nsswitch\n9.  MacOS8 on Browser https://blog.persistent.info/2022/03/blog-post.html\n10. PowerPCエミュレータ？ https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html\n11. ハッカー https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/\n12. sonsonの初Mac https://ja.wikipedia.org/wiki/Power_Mac_G4\n13. 実はオープンソースなmacのチェクアプリ https://opensource.apple.com/source/Chess/\n14. ハイパーカードとは？ https://ja.wikipedia.org/wiki/HyperCard\n15. 夏休み・・・ハイパーカードアプリ http://www.linkclub.or.jp/~oshizaka/natsuyasumi/natsuyasumi.html\n16. memex コンピュータの先駆け https://ja.wikipedia.org/wiki/Memex\n17. ダグラス・エンゲルバート，アイヴァン・サザーランド，シーモア・パパート，今のコンピュータを作った人たち．",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1247662939-nextstepfm-53-homekit.mp3",
+        "@length": 97110725,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1235030626"
+      },
+      "title": "#52 そして 輝く ウルトラ Mac!!!!",
+      "pubDate": "Sat, 19 Mar 2022 08:42:05 +0000",
+      "link": "https://soundcloud.com/nextstepfm/52-mac",
+      "itunes:duration": "02:07:40",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\ne-tax, Mac Studio, Universal Control, MDM, もはや開発環境ではないmac，おうちハックの小ネタについて話しました．\n\n1. e-tax https://www.e-tax.nta.go.jp\n2. e-taxダウン・・・ https://news.yahoo.co.jp/articles/b6a34ecaec49567fb13a07c1d563de69d71e66de\n3. https://www.apple.com/jp/apple-events/march-2022/\n4. https://www.apple.com/jp/mac-studio/\n5. https://support.apple.com/en-us/HT212757\n6. MDM https://support.apple.com/ja-jp/guide/deployment/dep0f7dd3d8/web\n7. ミニPC https://www.minisforum.jp\n8. 開発するならLinux....という悲しい事実\n9. CUDAを捨てたmacOSは，機械学習の夢を見ない\n10. HomeKitお手軽センター https://homebridge.io\n11. sonson開発中のHomeKitデバイス簡単コントロールアプリ https://github.com/sonsongithub/HomeMenu",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\ne-tax, Mac Studio, Universal Control, MDM, もはや開発環境ではないmac，おうちハックの小ネタについて話しました．\n\n1. e-tax https://www.e-tax.nta.go.jp\n2. e-taxダウン・・・ https://news.yahoo.co.jp/articles/b6a34ecaec49567fb13a07c1d563de69d71e66de\n3. https://www.apple.com/jp/apple-events/march-2022/\n4. https://www.apple.com/jp/mac-studio/\n5. https://support.apple.com/en-us/HT212757\n6. MDM https://support.apple.com/ja-jp/guide/deployment/dep0f7dd3d8/web\n7. ミニPC https://www.minisforum.jp\n8. 開発するならLinux....という悲しい事実\n9. CUDAを捨てたmacOSは，機械学習の夢を見ない\n10. HomeKitお手軽センター https://homebridge.io\n11. sonson開発中のHomeKitデバイス簡単コントロールアプリ https://github.com/sonsongithub/HomeMenu",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1235030626-nextstepfm-52-mac.mp3",
+        "@length": 122570709,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1221723613"
+      },
+      "title": "#51 おうちハック勉強会企画中の告知",
+      "pubDate": "Thu, 24 Feb 2022 14:37:22 +0000",
+      "link": "https://soundcloud.com/nextstepfm/52a",
+      "itunes:duration": "00:05:36",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nnextstep.fmでおうちハック勉強会を企画中です．\n開催の折には，是非ご参加ください．",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nnextstep.fmでおうちハック勉強会を企画中です．\n開催の折には，是非ご参加ください．",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1221723613-nextstepfm-52a.mp3",
+        "@length": 5391672,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1221721828"
+      },
+      "title": "#50 錆びか，ツバメか．それが問題だ．",
+      "pubDate": "Thu, 24 Feb 2022 14:33:07 +0000",
+      "link": "https://soundcloud.com/nextstepfm/50a",
+      "itunes:duration": "01:53:59",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nSwiftがドライバやサーバを書くための言語として広まっていくか・・・・を話しました．\n\n1. SwiftをAppleの手からコミュニティの手に\n   1. https://forums.swift.org/t/core-team-to-form-language-workgroup/55455\n   2. https://github.com/apple/swift-se0270-range-set\n   3. https://github.com/apple/swift-evolution/blob/master/proposals/0270-rangeset-and-collection-operations.md\n2. deno - node.jsの作者が作ったnode.jsの弱点を修正したフレームワーク\n   1. https://deno.land\n3. Vapor - Swiftで書かれたWebフロントエンド・・・ビルドが遅い\n   1. https://vapor.codes\n4. Rust\n   1. https://www.rust-lang.org/ja\n   2. Mozillaの中の人が作り始めた言語．\n   3. モダンで，安全に書けると定評がある\n   4. denoの中身もRustで書かれている\n5. ComputeEdgeでSwiftを動かせば，問題は解決するはず\n   1. https://github.com/AndrewBarba/swift-compute-runtime\n   2. https://www.netlify.com\n6. Swiftで動くおもちゃ\n   1. https://www.irobot-jp.com/root/\n7. influx\n   1. https://portal.influxdata.com/downloads/\n8. Flux\n   1. 関数型でかけるデータ処理用の言語？\n   2. https://docs.influxdata.com/influxdb/cloud/query-data/get-started/\n9. 美しいグラフを書くならGrafana\n   1.  https://grafana.com\n10. PostgreSQL\n    1. https://www.postgresql.org",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nSwiftがドライバやサーバを書くための言語として広まっていくか・・・・を話しました．\n\n1. SwiftをAppleの手からコミュニティの手に\n   1. https://forums.swift.org/t/core-team-to-form-language-workgroup/55455\n   2. https://github.com/apple/swift-se0270-range-set\n   3. https://github.com/apple/swift-evolution/blob/master/proposals/0270-rangeset-and-collection-operations.md\n2. deno - node.jsの作者が作ったnode.jsの弱点を修正したフレームワーク\n   1. https://deno.land\n3. Vapor - Swiftで書かれたWebフロントエンド・・・ビルドが遅い\n   1. https://vapor.codes\n4. Rust\n   1. https://www.rust-lang.org/ja\n   2. Mozillaの中の人が作り始めた言語．\n   3. モダンで，安全に書けると定評がある\n   4. denoの中身もRustで書かれている\n5. ComputeEdgeでSwiftを動かせば，問題は解決するはず\n   1. https://github.com/AndrewBarba/swift-compute-runtime\n   2. https://www.netlify.com\n6. Swiftで動くおもちゃ\n   1. https://www.irobot-jp.com/root/\n7. influx\n   1. https://portal.influxdata.com/downloads/\n8. Flux\n   1. 関数型でかけるデータ処理用の言語？\n   2. https://docs.influxdata.com/influxdb/cloud/query-data/get-started/\n9. 美しいグラフを書くならGrafana\n   1.  https://grafana.com\n10. PostgreSQL\n    1. https://www.postgresql.org",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1221721828-nextstepfm-50a.mp3",
+        "@length": 109435506,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1209698893"
+      },
+      "title": "#49 祝：nextstep.fm，50回記念！！！",
+      "pubDate": "Fri, 04 Feb 2022 12:00:35 +0000",
+      "link": "https://soundcloud.com/nextstepfm/49-memorial_nextstepfm",
+      "itunes:duration": "02:09:13",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n日本酒と発酵，大学受験の情報科目，ローカライズは難しい，お家ハックについて話しました．\n\n日本酒トーク\nくさいはうまい　https://www.amazon.co.jp/dp/4167679949\n発酵の化学　https://www.amazon.co.jp/gp/product/4121009398/\nもやしもん　https://ja.wikipedia.org/wiki/もやしもん\n\n大学受験で情報がはじまる\n情報の教科書　https://ten.tokyo-shoseki.co.jp/text/hs/digi-book-select/A6262_20/html5.html#page=4\n大学なんか行っても意味はない-――教育反対の経済学-ブライアン・カプラン https://www.amazon.co.jp/dp/4622088193/\n\nローカライズトーク\n岸川さんのこれ https://applelocalization.com\n@1024jp 昔書いたローカライズ関係のQiita記事 https://qiita.com/1024jp/items/d85e35ff5d00b3a93d68\nAppleの英語の語彙集。これの各国語版がほしい。 https://help.apple.com/applestyleguide/\nApple桃太郎　https://anond.hatelabo.jp/20210426101419\n機械学習の話 https://ja.wikipedia.org/wiki/Transformer_(機械学習モデル)\nバチスカのキャッチフレーズ　https://bathyscaphe.bitbucket.io\nXcodeの英語はむちゃくちゃ　https://developer.apple.com/design/human-interface-guidelines/macos/menus/menu-anatomy/\nisiOSAppOnMac https://developer.apple.com/documentation/foundation/processinfo/3608556-isiosapponmac\n\nお家ハック\nMacのバックアップどうしてますか？\n電力 https://nature.global/nature-remo-e-lite/\nこのスレ https://twitter.com/sonson_twit/status/1485078688085741570?s=20&t=-DCJnSaXs2gGBWz09V9y8A\n鉄板のNAS https://www.synology.com/ja-jp/products\n買ってはいけないスマートプラグ　https://www.amazon.co.jp/dp/B07BK1GG2Q\n\n最後に\n@d_date 誕生日\nhttps://www.amazon.co.jp/hz/wishlist/ls/11VK2XGV3M00K?ref_=wl_share\n実は，@sonson_twitも実は誕生日\nhttps://www.amazon.co.jp/hz/wishlist/ls/87PXV5950OBZ/ref=nav_wishlist_lists_2\n痔で手術した病院で・・@sonson_twit・・心霊体験・・・・？\n\nsonsonの誕生日とnextstep.fm 50回記念，wishlist\nhttps://www.amazon.co.jp/hz/wishlist/ls/87PXV5950OBZ/ref=nav_wishlist_lists_2",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n日本酒と発酵，大学受験の情報科目，ローカライズは難しい，お家ハックについて話しました．\n\n日本酒トーク\nくさいはうまい　https://www.amazon.co.jp/dp/4167679949\n発酵の化学　https://www.amazon.co.jp/gp/product/4121009398/\nもやしもん　https://ja.wikipedia.org/wiki/もやしもん\n\n大学受験で情報がはじまる\n情報の教科書　https://ten.tokyo-shoseki.co.jp/text/hs/digi-book-select/A6262_20/html5.html#page=4\n大学なんか行っても意味はない-――教育反対の経済学-ブライアン・カプラン https://www.amazon.co.jp/dp/4622088193/\n\nローカライズトーク\n岸川さんのこれ https://applelocalization.com\n@1024jp 昔書いたローカライズ関係のQiita記事 https://qiita.com/1024jp/items/d85e35ff5d00b3a93d68\nAppleの英語の語彙集。これの各国語版がほしい。 https://help.apple.com/applestyleguide/\nApple桃太郎　https://anond.hatelabo.jp/20210426101419\n機械学習の話 https://ja.wikipedia.org/wiki/Transformer_(機械学習モデル)\nバチスカのキャッチフレーズ　https://bathyscaphe.bitbucket.io\nXcodeの英語はむちゃくちゃ　https://developer.apple.com/design/human-interface-guidelines/macos/menus/menu-anatomy/\nisiOSAppOnMac https://developer.apple.com/documentation/foundation/processinfo/3608556-isiosapponmac\n\nお家ハック\nMacのバックアップどうしてますか？\n電力 https://nature.global/nature-remo-e-lite/\nこのスレ https://twitter.com/sonson_twit/status/1485078688085741570?s=20&t=-DCJnSaXs2gGBWz09V9y8A\n鉄板のNAS https://www.synology.com/ja-jp/products\n買ってはいけないスマートプラグ　https://www.amazon.co.jp/dp/B07BK1GG2Q\n\n最後に\n@d_date 誕生日\nhttps://www.amazon.co.jp/hz/wishlist/ls/11VK2XGV3M00K?ref_=wl_share\n実は，@sonson_twitも実は誕生日\nhttps://www.amazon.co.jp/hz/wishlist/ls/87PXV5950OBZ/ref=nav_wishlist_lists_2\n痔で手術した病院で・・@sonson_twit・・心霊体験・・・・？\n\nsonsonの誕生日とnextstep.fm 50回記念，wishlist\nhttps://www.amazon.co.jp/hz/wishlist/ls/87PXV5950OBZ/ref=nav_wishlist_lists_2",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1209698893-nextstepfm-49-memorial_nextstepfm.mp3",
+        "@length": 124059897,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1201897408"
+      },
+      "title": "#48 コードはコピペにある",
+      "pubDate": "Sun, 23 Jan 2022 01:50:58 +0000",
+      "link": "https://soundcloud.com/nextstepfm/48a",
+      "itunes:duration": "01:42:11",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nレギュラーメンバーになりつつある@1024jpも入り，Swift Playgrounds, coinhive事件，ソースコードのコピペ，包丁の話をしました．\n\n1. Swift Playgrounds for iPadは，いいぞ．\n2. やはり，まだしんどいSwiftUI\n3. Objective-Cのブロックはもう書けない\n7. http://fuckingblocksyntax.com/\n4. コピペは人類の財産で成り立っている．\n5. YouTube Premiumに入るかどうか\n6. YouTubeのレコメンドをどうやってハックするか問題\n8. 包丁研ぎトーク\n9. 合羽橋の包丁研ぎ屋さん https://togijin-japan.com\n10. 使ってる砥石： https://www.amazon.co.jp/dp/B000XFHWDA/\n11. どんどんEvilになるAmazon EC・・・・．\n12. @kateinoigakukunはmac.com使い・・？疑惑\n13. mac.comのウィジットを私は忘れない・・！！！ @1024jp\n14. https://www.apple.com/jp/newsroom/2002/07/17Apple-Launches-Mac/\n15. https://twitter.com/1024jp/status/132068488402571264?s=21",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nレギュラーメンバーになりつつある@1024jpも入り，Swift Playgrounds, coinhive事件，ソースコードのコピペ，包丁の話をしました．\n\n1. Swift Playgrounds for iPadは，いいぞ．\n2. やはり，まだしんどいSwiftUI\n3. Objective-Cのブロックはもう書けない\n7. http://fuckingblocksyntax.com/\n4. コピペは人類の財産で成り立っている．\n5. YouTube Premiumに入るかどうか\n6. YouTubeのレコメンドをどうやってハックするか問題\n8. 包丁研ぎトーク\n9. 合羽橋の包丁研ぎ屋さん https://togijin-japan.com\n10. 使ってる砥石： https://www.amazon.co.jp/dp/B000XFHWDA/\n11. どんどんEvilになるAmazon EC・・・・．\n12. @kateinoigakukunはmac.com使い・・？疑惑\n13. mac.comのウィジットを私は忘れない・・！！！ @1024jp\n14. https://www.apple.com/jp/newsroom/2002/07/17Apple-Launches-Mac/\n15. https://twitter.com/1024jp/status/132068488402571264?s=21",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1201897408-nextstepfm-48a.mp3",
+        "@length": 98104214,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1176916399"
+      },
+      "title": "#47 コードもアイコンも書ける人のデザインの哲学",
+      "pubDate": "Mon, 13 Dec 2021 07:12:17 +0000",
+      "link": "https://soundcloud.com/nextstepfm/47a",
+      "itunes:duration": "00:29:33",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，Safariのバグ，アイコンデザイン，1024jpさんがデザインしたものについて話しました．\n\n1. Safariの・・・問題\n   1. Safariのコンパクトモードの検索フィールドがおかしくなる問題\n2. 録画アプリ - retroclip\n   1. macOSの常時録画アプリ・・・バグのevidence作りに最適\n   2. https://apps.apple.com/jp/app/retroclip/id1332064978?mt=12\n3. 1024jpさんのアイコンのデザイン哲学\n4. Sparkle\n   1. https://en.wikipedia.org/wiki/Sparkle_(software)\n   2. https://sparkle-project.org/documentation/",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，Safariのバグ，アイコンデザイン，1024jpさんがデザインしたものについて話しました．\n\n1. Safariの・・・問題\n   1. Safariのコンパクトモードの検索フィールドがおかしくなる問題\n2. 録画アプリ - retroclip\n   1. macOSの常時録画アプリ・・・バグのevidence作りに最適\n   2. https://apps.apple.com/jp/app/retroclip/id1332064978?mt=12\n3. 1024jpさんのアイコンのデザイン哲学\n4. Sparkle\n   1. https://en.wikipedia.org/wiki/Sparkle_(software)\n   2. https://sparkle-project.org/documentation/",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1176916399-nextstepfm-47a.mp3",
+        "@length": 28370650,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1176916288"
+      },
+      "title": "#46 ゲームの世界でご飯を買うとUber Eatsで実際に届く世界",
+      "pubDate": "Mon, 13 Dec 2021 07:11:54 +0000",
+      "link": "https://soundcloud.com/nextstepfm/46-uber-eats",
+      "itunes:duration": "01:01:18",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，これからのカンファレンス，アパレル，インターネットの教育論について話しました．\n\n1. 引き続き・・・カンファレンスの今後\n   1. WWDC202Xは，復活するのか？\n   2. オンラインカンファレンスの今後\n   3. カンファレンスの意味は，飲み会と集中できる時間\n   4. Google DevFest\n   5. ゲームのイベントはどうなるか\n   6. 仮想空間で学会\n      1. https://www.gather.town\n      2. https://ovice.in/ja/\n      3. レトロRPG風コミュニケーションスペース　https://www.youtube.com/watch?v=6Q8EObpdhYY\n2. メタバース\n   1. セカンドライフ！！？？　https://secondlife.com/?lang=ja-JP\n   2. 実世界のことをなぜ仮想空間でやるんや・・・\n   3. 半分肉体を捨てる・・・・ゲーム世界で買ったご飯がUber Eatsで届く世界\n3. アパレルの売上・・・フォートナイトのコスチュームの売り上げが実世界の衣服の売上を抜く世界\n4. AppleWatchは民主化されるべき？\n5. SNSのコミュニティ・・・・実世界でうまくいかないコミュニケーションが仮想世界でうまくいくはずがない\n   1. 酒が人をダメにするのではなく，人のダメなところを酒が暴く・・・\n   2. インターネットが人をダメにするのではなく，人のダメなところをインターネットが暴く・・・\n6. 掛け算の順序問題から教育問題へ・・・・\n7.  嘘を嘘と見抜けない人には（インターネットを使うのは）難しい\n8.  プログラミングスクールの闇\n9.  なぜ，プログラミングだけが１年で１千万稼げると思えるのか・・・・\n10. プログラミングは教えるのがむずかしい・・・？\n   1. 業界が浅い\n   2. １年で変わってしまう\n11. 同業他社は多い方がいい・・・？\n12. 鉄道，車，日本は同業が多いよ？",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，これからのカンファレンス，アパレル，インターネットの教育論について話しました．\n\n1. 引き続き・・・カンファレンスの今後\n   1. WWDC202Xは，復活するのか？\n   2. オンラインカンファレンスの今後\n   3. カンファレンスの意味は，飲み会と集中できる時間\n   4. Google DevFest\n   5. ゲームのイベントはどうなるか\n   6. 仮想空間で学会\n      1. https://www.gather.town\n      2. https://ovice.in/ja/\n      3. レトロRPG風コミュニケーションスペース　https://www.youtube.com/watch?v=6Q8EObpdhYY\n2. メタバース\n   1. セカンドライフ！！？？　https://secondlife.com/?lang=ja-JP\n   2. 実世界のことをなぜ仮想空間でやるんや・・・\n   3. 半分肉体を捨てる・・・・ゲーム世界で買ったご飯がUber Eatsで届く世界\n3. アパレルの売上・・・フォートナイトのコスチュームの売り上げが実世界の衣服の売上を抜く世界\n4. AppleWatchは民主化されるべき？\n5. SNSのコミュニティ・・・・実世界でうまくいかないコミュニケーションが仮想世界でうまくいくはずがない\n   1. 酒が人をダメにするのではなく，人のダメなところを酒が暴く・・・\n   2. インターネットが人をダメにするのではなく，人のダメなところをインターネットが暴く・・・\n6. 掛け算の順序問題から教育問題へ・・・・\n7.  嘘を嘘と見抜けない人には（インターネットを使うのは）難しい\n8.  プログラミングスクールの闇\n9.  なぜ，プログラミングだけが１年で１千万稼げると思えるのか・・・・\n10. プログラミングは教えるのがむずかしい・・・？\n   1. 業界が浅い\n   2. １年で変わってしまう\n11. 同業他社は多い方がいい・・・？\n12. 鉄道，車，日本は同業が多いよ？",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1176916288-nextstepfm-46-uber-eats.mp3",
+        "@length": 58851159,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1176916156"
+      },
+      "title": "#45 SwiftUIでCocoaを飲めるか？",
+      "pubDate": "Mon, 13 Dec 2021 07:11:22 +0000",
+      "link": "https://soundcloud.com/nextstepfm/45-swiftuicocoa",
+      "itunes:duration": "01:05:27",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，SwiftUI，AppKitについて話しました．\n\n1. 今日のゲスト・・・ 1024jpさん\n2. 1024jpさん\n   1. CotEditor - https://coteditor.com\n   2. Bathyscaphe - https://bathyscaphe.bitbucket.io\n   3. Gapllin - https://apps.apple.com/jp/app/gapplin/id768053424?mt=12\n   4. Macのある部屋スレ　https://egg.5ch.net/test/read.cgi/mac/1609555986/l50\n   5. Finderのアスキーアート［ '_ゝ'］\n   6. 映画に出てくるコンピュータの画面の技術考証\n   7. https://macos-native.github.io\n   8. ガンダム08小隊の画面・・・・ https://pbs.twimg.com/media/ChRSdVoUkAEVjWf?format=jpg&name=large\n   9. ちなみにそれは映画版Death Noteだったそうです・・・・．\n3. AppKitとSwiftUI\n   1. ここがまだダメだよ，macOSのSwiftUI\n   2. macOSのヘルプボタンがない\n   3. SwiftUI，難しい\n   4. macOSは，アプリの個性を消す必要がある・・・が，iOSはそうじゃないよね\n   5. NSTextViewでマルチカーソルを実装した傑物1024jp！！！\n   6. 1024jpを雇えよ，Apple",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\nゲストに @1024jpさんをお招きし，SwiftUI，AppKitについて話しました．\n\n1. 今日のゲスト・・・ 1024jpさん\n2. 1024jpさん\n   1. CotEditor - https://coteditor.com\n   2. Bathyscaphe - https://bathyscaphe.bitbucket.io\n   3. Gapllin - https://apps.apple.com/jp/app/gapplin/id768053424?mt=12\n   4. Macのある部屋スレ　https://egg.5ch.net/test/read.cgi/mac/1609555986/l50\n   5. Finderのアスキーアート［ '_ゝ'］\n   6. 映画に出てくるコンピュータの画面の技術考証\n   7. https://macos-native.github.io\n   8. ガンダム08小隊の画面・・・・ https://pbs.twimg.com/media/ChRSdVoUkAEVjWf?format=jpg&name=large\n   9. ちなみにそれは映画版Death Noteだったそうです・・・・．\n3. AppKitとSwiftUI\n   1. ここがまだダメだよ，macOSのSwiftUI\n   2. macOSのヘルプボタンがない\n   3. SwiftUI，難しい\n   4. macOSは，アプリの個性を消す必要がある・・・が，iOSはそうじゃないよね\n   5. NSTextViewでマルチカーソルを実装した傑物1024jp！！！\n   6. 1024jpを雇えよ，Apple",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1176916156-nextstepfm-45-swiftuicocoa.mp3",
+        "@length": 62846431,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1174476811"
+      },
+      "title": "#44 上から読んでも下から読んでもルビービル",
+      "pubDate": "Thu, 09 Dec 2021 03:02:14 +0000",
+      "link": "https://soundcloud.com/nextstepfm/44a",
+      "itunes:duration": "02:14:59",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nmacOSの仮想環境，かなペイ，失くしものを失くす，Twitter API，@a_matsudaのルビービルについて話しました．\n\n1. Mac VMについて\n2. https://github.com/KhaosT/MacVM\nhttps://github.com/s-u/macosvm\n3. かなペイ https://70cp.pref.kanagawa.jp/\n4. はまペイ https://www.boy.co.jp/kojin/hamapay/index.html\n5. AirTag, Tileの話\n6. Tileの買収話 https://japanese.engadget.com/tile-buyer-life360-sell-precise-location-data-031536576.html\n7. Tile https://thetileapp.jp\n8. AirTagの設定　https://support.apple.com/ja-jp/guide/iphone/iph5fe280d90/ios\n9. チポリ https://www.chipolo.jp\n10. Twitter API v2 https://developer.twitter.com/en/docs/twitter-api\n11. 統合チャットアプリ https://texts.com/\n12. ルビービル https://gist.github.com/amatsuda/538cc9b9a566971220c80e9add6fd035",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nmacOSの仮想環境，かなペイ，失くしものを失くす，Twitter API，@a_matsudaのルビービルについて話しました．\n\n1. Mac VMについて\n2. https://github.com/KhaosT/MacVM\nhttps://github.com/s-u/macosvm\n3. かなペイ https://70cp.pref.kanagawa.jp/\n4. はまペイ https://www.boy.co.jp/kojin/hamapay/index.html\n5. AirTag, Tileの話\n6. Tileの買収話 https://japanese.engadget.com/tile-buyer-life360-sell-precise-location-data-031536576.html\n7. Tile https://thetileapp.jp\n8. AirTagの設定　https://support.apple.com/ja-jp/guide/iphone/iph5fe280d90/ios\n9. チポリ https://www.chipolo.jp\n10. Twitter API v2 https://developer.twitter.com/en/docs/twitter-api\n11. 統合チャットアプリ https://texts.com/\n12. ルビービル https://gist.github.com/amatsuda/538cc9b9a566971220c80e9add6fd035",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1174476811-nextstepfm-44a.mp3",
+        "@length": 129591169,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1163468551"
+      },
+      "title": "#43 ドアとバルミューダとIAM",
+      "pubDate": "Sat, 20 Nov 2021 03:43:31 +0000",
+      "link": "https://soundcloud.com/nextstepfm/43-iam",
+      "itunes:duration": "01:47:11",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nバルミューダ，家電の価値，Google Nest DoorbellのAPI，Xcodeのこれから・・・について話しました．\n\n1. バルミューダフォンってどうよ - https://japanese.engadget.com/balmuda-051006776.html?1&guccounter=1\n2. おしゃれな洗濯機 - https://panasonic.jp/wash/products/cuble/design.html\n3. SONOS BEAMS - https://www.sonos.com/ja-jp/shop/beam.html\n4. Google Nest DoorbellのAPI\n   1. REST APIで認証とって・・・・最終的には，P2P, WebRTCでカメラから動画を受ける？\n   2. https://github.com/google/device-access-sample-web-app\n   3. https://github.com/kishikawakatsumi/home-monitor\n5. XCRemoteCache https://github.com/spotify/XCRemoteCache\n6. XCMetrics https://xcmetrics.io\n7. XcodeのSwiftcに統合される・・・・そして，Xcodeの自由がなくなる\n8. AWSのIAMは，なんて読む？\n9. AWS IAMで思い出した2段階認証で起こった事案\n10. Xcodeの出来が悪いのが問題なのか",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nバルミューダ，家電の価値，Google Nest DoorbellのAPI，Xcodeのこれから・・・について話しました．\n\n1. バルミューダフォンってどうよ - https://japanese.engadget.com/balmuda-051006776.html?1&guccounter=1\n2. おしゃれな洗濯機 - https://panasonic.jp/wash/products/cuble/design.html\n3. SONOS BEAMS - https://www.sonos.com/ja-jp/shop/beam.html\n4. Google Nest DoorbellのAPI\n   1. REST APIで認証とって・・・・最終的には，P2P, WebRTCでカメラから動画を受ける？\n   2. https://github.com/google/device-access-sample-web-app\n   3. https://github.com/kishikawakatsumi/home-monitor\n5. XCRemoteCache https://github.com/spotify/XCRemoteCache\n6. XCMetrics https://xcmetrics.io\n7. XcodeのSwiftcに統合される・・・・そして，Xcodeの自由がなくなる\n8. AWSのIAMは，なんて読む？\n9. AWS IAMで思い出した2段階認証で起こった事案\n10. Xcodeの出来が悪いのが問題なのか",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1163468551-nextstepfm-43-iam.mp3",
+        "@length": 102905729,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1154980942"
+      },
+      "title": "#42 Apple Care イビル",
+      "pubDate": "Sat, 06 Nov 2021 14:22:06 +0000",
+      "link": "https://soundcloud.com/nextstepfm/42-apple-care",
+      "itunes:duration": "02:04:54",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新iPad mini，新MacBook Proの良さ，Apple Care高杉，Xcode Cloudのバッドノウハウについて話しました．\n\n1. iPad miniきた\n2. MacBookProきた\n3. evil apple care, 高すぎる\n4. 損保ジャパンのスマホ保険　https://www.mysurance.co.jp/service/sumaho-hoken/\n5. Apple Care https://support.apple.com/en-us/HT212842\n6. M1に慣れてしまった\n7. MacBook Pro M1 Pro 32GBなら，LLVMビルドも360秒！\n8.  Xcode Cloud\n9.  使える人が増えたみたい\n10. 他のCIでビルドして，Xcode Cloudで署名がよい・・・というバッドノウハウ\n11. Xcode Cloudへの過大な期待は禁物\n12. LLVM Buildの話\n13. Safariの検索やっぱバグってる・・・全員で発現・・・タブをたくさん開いたときに，右側のタブでなりやすい．\n14. MontereyのCoreBluetoothのバグ\n15. iTerm2のクラック怖いんですけど\n16. セキュリティの勉強\n17. 図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書 https://www.amazon.jp/dp/429712307X\n18. iOSの脆弱性\n19. URLスキーマの踏み台\n20. WebViewの扱い\n21. セキュリティ https://github.com/coky-t/owasp-mstg-ja\n22. 技術アップロードサイトのあるべき姿とは・・\n23. StackOverflowのアメリカ版は機能している\n24. up vote\n25. down vote\n26. down voteには，reputationが必要\n27. reviewは大変よ\n28. セキュリティの技術の話・・・・数学の話，運用の話",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新iPad mini，新MacBook Proの良さ，Apple Care高杉，Xcode Cloudのバッドノウハウについて話しました．\n\n1. iPad miniきた\n2. MacBookProきた\n3. evil apple care, 高すぎる\n4. 損保ジャパンのスマホ保険　https://www.mysurance.co.jp/service/sumaho-hoken/\n5. Apple Care https://support.apple.com/en-us/HT212842\n6. M1に慣れてしまった\n7. MacBook Pro M1 Pro 32GBなら，LLVMビルドも360秒！\n8.  Xcode Cloud\n9.  使える人が増えたみたい\n10. 他のCIでビルドして，Xcode Cloudで署名がよい・・・というバッドノウハウ\n11. Xcode Cloudへの過大な期待は禁物\n12. LLVM Buildの話\n13. Safariの検索やっぱバグってる・・・全員で発現・・・タブをたくさん開いたときに，右側のタブでなりやすい．\n14. MontereyのCoreBluetoothのバグ\n15. iTerm2のクラック怖いんですけど\n16. セキュリティの勉強\n17. 図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書 https://www.amazon.jp/dp/429712307X\n18. iOSの脆弱性\n19. URLスキーマの踏み台\n20. WebViewの扱い\n21. セキュリティ https://github.com/coky-t/owasp-mstg-ja\n22. 技術アップロードサイトのあるべき姿とは・・\n23. StackOverflowのアメリカ版は機能している\n24. up vote\n25. down vote\n26. down voteには，reputationが必要\n27. reviewは大変よ\n28. セキュリティの技術の話・・・・数学の話，運用の話",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1154980942-nextstepfm-42-apple-care.mp3",
+        "@length": 119916250,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1146155983"
+      },
+      "title": "#41 M1グランプリ再び",
+      "pubDate": "Fri, 22 Oct 2021 14:43:43 +0000",
+      "link": "https://soundcloud.com/nextstepfm/41-m1",
+      "itunes:duration": "01:35:01",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nMacBook Pro Max, Appleの下取りサービスの段取り，Scratchのクラウド変数，TypeScript，M1は開発機としてどうなの？といった議題について話しました．\n\n1. MacBook Pro 祭りだ！\n2. Appleの下取りサービスは・・・（ピー）\n3. Terminalのタブが10個・・・・・？\n4. Terminalがメモリを浪費するらしい\n5. 新しいMacBook Proは，コスパ悪くない，良い\n6. @sonson_twit のiPad miniが来ない・・・\n7. Scratchのクラウド変数がすごい https://ja.scratch-wiki.info/wiki/クラウドデータ\n8. @sonson_twit ついにScratcherになり，初心者脱出しました！\n9. @k_katsumi のTypeScriptを使う理由\n10. Xcodeの出力のフォーマットがわからない・・・・・\n11. M1・・・・開発者には優しくないよね・・・\n12. @kateinoigakukun 授業のためにRisc-V向けのクロスコンパイラgccをM1でビルドできない・・・\n13. 開発機としてのmacOSの良さがM1で失われる・・・．\n14. 最近の開発は，リモートが多いですよね\n15. そうなると・・・普段使いの良さは，macOSに軍配があがる？\n16. 普段使いというなら，macOSのMusic.appの出来の悪さは酷すぎる．\n17. @sonson_twit の最初のデジタル音楽プレーヤは，初代iPodですよ．\n18. NAS vs iTunes Music Match\n19. macOS Montereyより，Xcode Cloudですよ．",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\nMacBook Pro Max, Appleの下取りサービスの段取り，Scratchのクラウド変数，TypeScript，M1は開発機としてどうなの？といった議題について話しました．\n\n1. MacBook Pro 祭りだ！\n2. Appleの下取りサービスは・・・（ピー）\n3. Terminalのタブが10個・・・・・？\n4. Terminalがメモリを浪費するらしい\n5. 新しいMacBook Proは，コスパ悪くない，良い\n6. @sonson_twit のiPad miniが来ない・・・\n7. Scratchのクラウド変数がすごい https://ja.scratch-wiki.info/wiki/クラウドデータ\n8. @sonson_twit ついにScratcherになり，初心者脱出しました！\n9. @k_katsumi のTypeScriptを使う理由\n10. Xcodeの出力のフォーマットがわからない・・・・・\n11. M1・・・・開発者には優しくないよね・・・\n12. @kateinoigakukun 授業のためにRisc-V向けのクロスコンパイラgccをM1でビルドできない・・・\n13. 開発機としてのmacOSの良さがM1で失われる・・・．\n14. 最近の開発は，リモートが多いですよね\n15. そうなると・・・普段使いの良さは，macOSに軍配があがる？\n16. 普段使いというなら，macOSのMusic.appの出来の悪さは酷すぎる．\n17. @sonson_twit の最初のデジタル音楽プレーヤは，初代iPodですよ．\n18. NAS vs iTunes Music Match\n19. macOS Montereyより，Xcode Cloudですよ．",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1146155983-nextstepfm-41-m1.mp3",
+        "@length": 91225860,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1143533437"
+      },
+      "title": "#40 CPUは無駄が大きすぎる時代へ・・・・次の計算機はどうなるか",
+      "pubDate": "Sun, 17 Oct 2021 23:56:39 +0000",
+      "link": "https://soundcloud.com/nextstepfm/40-cpu",
+      "itunes:duration": "01:00:18",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新メンバー @kateinoigakukun を加えて，iPhone13, バッテリ\n\n1. iPhone13のカメラでかすぎ\n2. カメラもういいよ\n3. Apple「iPhone長く使って欲しい」客「バッテリもたねーよ」\n4. Fair Phone，モジュール化されたスマホ\n5. https://www.fairphone.com/en/\n6. スマホのゲームチェンジャーはいつ現れる・・・・？\n7. ARは，どうなるのよ\n8. ARグラスに写すものがない問題\n9. http://www.teamtsukamoto.sakura.ne.jp\n10. ARはキャリブレーションが大変\n11. キャリブレーションとは？\n12. 数ミリが数十メートルの誤差を生む世界\n13. ほかの最近のホットな技術課題ってなんですか？\n14. メニーコア時代\n15. ひとつのCPUは小さいけど・・・同時に並列で処理できる\n16. https://www.graphcore.ai/ja-jp/\n17. 松岡聡先生　https://www.r-ccs.riken.jp/about/leadership/\n18. Apple, Googke, TeslaがSoCを作る意味\n19. SONYは・・・PS2・・・もうちょっとでAppleに慣れたはず・・なのに・・・\n20. ゲーム機といえば・・・・クラウドゲームのxcloudは？\n21. https://www.xbox.com/ja-JP/xbox-game-streaming/project-xcloud\n22. 光が遅すぎる問題・・・ブラジルと対戦ゲームするのは理論上30FPSもでない．\n23. 次週はMacBook Proが出てるのか？！\n24.",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新メンバー @kateinoigakukun を加えて，iPhone13, バッテリ\n\n1. iPhone13のカメラでかすぎ\n2. カメラもういいよ\n3. Apple「iPhone長く使って欲しい」客「バッテリもたねーよ」\n4. Fair Phone，モジュール化されたスマホ\n5. https://www.fairphone.com/en/\n6. スマホのゲームチェンジャーはいつ現れる・・・・？\n7. ARは，どうなるのよ\n8. ARグラスに写すものがない問題\n9. http://www.teamtsukamoto.sakura.ne.jp\n10. ARはキャリブレーションが大変\n11. キャリブレーションとは？\n12. 数ミリが数十メートルの誤差を生む世界\n13. ほかの最近のホットな技術課題ってなんですか？\n14. メニーコア時代\n15. ひとつのCPUは小さいけど・・・同時に並列で処理できる\n16. https://www.graphcore.ai/ja-jp/\n17. 松岡聡先生　https://www.r-ccs.riken.jp/about/leadership/\n18. Apple, Googke, TeslaがSoCを作る意味\n19. SONYは・・・PS2・・・もうちょっとでAppleに慣れたはず・・なのに・・・\n20. ゲーム機といえば・・・・クラウドゲームのxcloudは？\n21. https://www.xbox.com/ja-JP/xbox-game-streaming/project-xcloud\n22. 光が遅すぎる問題・・・ブラジルと対戦ゲームするのは理論上30FPSもでない．\n23. 次週はMacBook Proが出てるのか？！\n24.",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1143533437-nextstepfm-40-cpu.mp3",
+        "@length": 57891525,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1138444846"
+      },
+      "title": "#39 TOTPに加盟したiOSは1PasswordをSherlockする？",
+      "pubDate": "Fri, 08 Oct 2021 16:38:42 +0000",
+      "link": "https://soundcloud.com/nextstepfm/39-totpios1passwordsherlock",
+      "itunes:duration": "01:12:07",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新メンバー @kateinoigakukun を加えて，TOTP，Scratchはすごい，コンパイラ昔話，大坂商人と情報通信について語りました．\n\n1. 新しいiPhone, iOSどうですか\n2. 新しいiOSのキーチェーン\n3. TOTP Time-based One-time Password https://datatracker.ietf.org/doc/html/rfc6238.html\n4. 1Passwordの行方 https://1password.com\n5. SafariのUI・・・・\n6. 破綻するタブブラウザ\n7. kateiくん，Swiftのコミッターになった\n8. AppleとSwift\n9. Scratch\n10. C++, Swift, MATLABができるScratcher https://scratch.mit.edu/\n11. Scratchのconcurrencyはどうなってる・・・？\n12. Scratchはすごいぞ！\n13. どんどんプログラミングネイティブが増える世界\n14. やっぱり始まるインターネット老人会・・・・昔はコンパイラが有料で・・・\n15. MinGW https://ja.wikipedia.org/wiki/MinGW\n16. Cygwin https://www.cygwin.com\n17. Vine Linux https://vinelinux.org\n18. 情報化社会・・・・って，人間社会を持った瞬間からそうだよ\n19. 江戸時代・・・コメの値段を大坂から江戸に伝える方法\n20. 大坂商人と先物取引\n21. 後半へつづく",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n新メンバー @kateinoigakukun を加えて，TOTP，Scratchはすごい，コンパイラ昔話，大坂商人と情報通信について語りました．\n\n1. 新しいiPhone, iOSどうですか\n2. 新しいiOSのキーチェーン\n3. TOTP Time-based One-time Password https://datatracker.ietf.org/doc/html/rfc6238.html\n4. 1Passwordの行方 https://1password.com\n5. SafariのUI・・・・\n6. 破綻するタブブラウザ\n7. kateiくん，Swiftのコミッターになった\n8. AppleとSwift\n9. Scratch\n10. C++, Swift, MATLABができるScratcher https://scratch.mit.edu/\n11. Scratchのconcurrencyはどうなってる・・・？\n12. Scratchはすごいぞ！\n13. どんどんプログラミングネイティブが増える世界\n14. やっぱり始まるインターネット老人会・・・・昔はコンパイラが有料で・・・\n15. MinGW https://ja.wikipedia.org/wiki/MinGW\n16. Cygwin https://www.cygwin.com\n17. Vine Linux https://vinelinux.org\n18. 情報化社会・・・・って，人間社会を持った瞬間からそうだよ\n19. 江戸時代・・・コメの値段を大坂から江戸に伝える方法\n20. 大坂商人と先物取引\n21. 後半へつづく",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1138444846-nextstepfm-39-totpios1passwordsherlock.mp3",
+        "@length": 69244550,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1130170162"
+      },
+      "title": "#38 現代の式年遷宮？XX年前のソースコードのビルドと運用",
+      "pubDate": "Fri, 24 Sep 2021 03:26:42 +0000",
+      "link": "https://soundcloud.com/nextstepfm/37-xx",
+      "itunes:duration": "02:12:39",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n@kateinoigakukunをゲストに，Rubyの型推論，iOSDCでのアンカンファレンス：14年前の2tchのビルド・・・，古いソースコードの運用などについて話しました．\n\n1. iOSDC2021, @d_date, @k_katsumi, @sonson_twit, みんな賞もらいました！！パチパチ・・・　https://iosdc.jp/2021/\n2. 今日のゲスト，Kateiくん自己紹介，最近のActivity\n3. Ruby LSPによる型推論\n4. Rubyの静的型付け\n5. typeprof https://github.com/ruby/typeprof\n6. RBS https://github.com/ruby/rbs\n7. Sorbet https://sorbet.run/\n8.  Rubyにgenerics?\n9.  Pythonと型\n10. Swiftは型をつける方が楽にかけるようになってる？\n11. Pycharmにする？\n12. Jetbrains https://www.jetbrains.com/ja-jp/pycharm/\n13. AppCode https://www.jetbrains.com/ja-jp/objc/\n14. iPhone SDK 1.0時代からのコード　https://github.com/sonsongithub/iOSLegacyCodes\n15. 2tchのコード https://github.com/sonsongithub/museum2tch\n16. @niwさんの神の一手\n17. Objective-CとLISP\n18. Objective-Cの互換性\n19. UIKitがすごいのであって，Objective-Cがすごいわけではない\n20. 都道府県とUI\n21. SwiftUIか，UIKit\n22. AppStore Review s*cks.\n23. 2tchの供養をもう一回やるか？\n24. 会社がアンカンファレンスの受賞を告知するとかｗｗｗ https://twitter.com/densoitlab/status/1440522495329636356?s=20\n25. macOSの仮想環境作成ワークショップ\n26. コンテンツを残すというテーマ\n27. そもそも日本語は残るのか？\n28. 技術が先か，日本の衰退が先か\n29. 失われる技術・・・原発\n30. そして，みずほ銀行の話へ\n31. ブルーオーシャンは水溜り・・・敵はいない・・けど，マーケットもない",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun\n\n@kateinoigakukunをゲストに，Rubyの型推論，iOSDCでのアンカンファレンス：14年前の2tchのビルド・・・，古いソースコードの運用などについて話しました．\n\n1. iOSDC2021, @d_date, @k_katsumi, @sonson_twit, みんな賞もらいました！！パチパチ・・・　https://iosdc.jp/2021/\n2. 今日のゲスト，Kateiくん自己紹介，最近のActivity\n3. Ruby LSPによる型推論\n4. Rubyの静的型付け\n5. typeprof https://github.com/ruby/typeprof\n6. RBS https://github.com/ruby/rbs\n7. Sorbet https://sorbet.run/\n8.  Rubyにgenerics?\n9.  Pythonと型\n10. Swiftは型をつける方が楽にかけるようになってる？\n11. Pycharmにする？\n12. Jetbrains https://www.jetbrains.com/ja-jp/pycharm/\n13. AppCode https://www.jetbrains.com/ja-jp/objc/\n14. iPhone SDK 1.0時代からのコード　https://github.com/sonsongithub/iOSLegacyCodes\n15. 2tchのコード https://github.com/sonsongithub/museum2tch\n16. @niwさんの神の一手\n17. Objective-CとLISP\n18. Objective-Cの互換性\n19. UIKitがすごいのであって，Objective-Cがすごいわけではない\n20. 都道府県とUI\n21. SwiftUIか，UIKit\n22. AppStore Review s*cks.\n23. 2tchの供養をもう一回やるか？\n24. 会社がアンカンファレンスの受賞を告知するとかｗｗｗ https://twitter.com/densoitlab/status/1440522495329636356?s=20\n25. macOSの仮想環境作成ワークショップ\n26. コンテンツを残すというテーマ\n27. そもそも日本語は残るのか？\n28. 技術が先か，日本の衰退が先か\n29. 失われる技術・・・原発\n30. そして，みずほ銀行の話へ\n31. ブルーオーシャンは水溜り・・・敵はいない・・けど，マーケットもない",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1130170162-nextstepfm-37-xx.mp3",
+        "@length": 127355088,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1122411202"
+      },
+      "title": "#37 昔ね，Subversionっていうgitみたいなツールがあってさ",
+      "pubDate": "Fri, 10 Sep 2021 16:30:06 +0000",
+      "link": "https://soundcloud.com/nextstepfm/37-subversiongit",
+      "itunes:duration": "02:09:36",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n※今回，録音に失敗し，多少音質が悪いです．あしからず，ご了承ください・・・・・．\n\n1. デスクライト　https://www.amazon.co.jp/dp/B082PWV4L7\n2. BENQのモニタに置くデスクライト　https://www.amazon.co.jp/dp/B0785D93KD/\n3. 牛タンのねぎし　https://www.negishi.co.jp/onlinestore/index.html\n4. 魁力屋のラーメン　https://www.kairikiya.co.jp/news/takeoutmenu202104/\n5. マクドナルドのアプリ\n6. UberEatsのお問い合わせ　https://help.uber.com/ubereats\n7. Menuのお問い合わせ　https://store.menu.jp/inquiry_biz/\n8. 誤配達されたご飯の処分は誰がやる？\n9. チラシお断りステッカー　https://www.amazon.co.jp/dp/B00RT6LMKA/\n10. AppStoreの価格　https://www.watch.impress.co.jp/docs/news/1346736.html\n11. Google Nest Doorbell https://store.google.com/jp/product/nest_doorbell_battery?hl=ja\n12. 3Dプリンタでホルダ　https://twitter.com/k_katsumi/status/1433029467773943809?s=20\n13. iOSDC2021　https://iosdc.jp/2021/\n14. iOSDCの講演録画システムの出来がすごすぎる\n17. 2tchの歴史・・・2tchミュージアム？\n21. gitみたいなツールsubversion・・・・subversionを知らずに僕らは生まれた世代？\n18. 古すぎて，Subversionで管理されてて・・・・コミットが追えない問題\n19. そして発見された，2007/10のコミット・・・14年前のソースコード\n20. iPhoneOS1.0のときのツールチェインがないとコンパイルできないソース\n22. ファミコン ハットリくんのソースコード　https://github.com/omuanko/nnjhtrkn\n23. アンカンファレンス　https://ja.wikipedia.org/wiki/アンカンファレンス\n24. sonsonのLLVMへのコミットがようやく承認された話\n25. Obj-Cのクラスメソッドがメモリリークする問題\n26. 永野さんを呼ぼうよ，こないよ\n27. できれば，iOSDCで会いましょう！",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n※今回，録音に失…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n※今回，録音に失敗し，多少音質が悪いです．あしからず，ご了承ください・・・・・．\n\n1. デスクライト　https://www.amazon.co.jp/dp/B082PWV4L7\n2. BENQのモニタに置くデスクライト　https://www.amazon.co.jp/dp/B0785D93KD/\n3. 牛タンのねぎし　https://www.negishi.co.jp/onlinestore/index.html\n4. 魁力屋のラーメン　https://www.kairikiya.co.jp/news/takeoutmenu202104/\n5. マクドナルドのアプリ\n6. UberEatsのお問い合わせ　https://help.uber.com/ubereats\n7. Menuのお問い合わせ　https://store.menu.jp/inquiry_biz/\n8. 誤配達されたご飯の処分は誰がやる？\n9. チラシお断りステッカー　https://www.amazon.co.jp/dp/B00RT6LMKA/\n10. AppStoreの価格　https://www.watch.impress.co.jp/docs/news/1346736.html\n11. Google Nest Doorbell https://store.google.com/jp/product/nest_doorbell_battery?hl=ja\n12. 3Dプリンタでホルダ　https://twitter.com/k_katsumi/status/1433029467773943809?s=20\n13. iOSDC2021　https://iosdc.jp/2021/\n14. iOSDCの講演録画システムの出来がすごすぎる\n17. 2tchの歴史・・・2tchミュージアム？\n21. gitみたいなツールsubversion・・・・subversionを知らずに僕らは生まれた世代？\n18. 古すぎて，Subversionで管理されてて・・・・コミットが追えない問題\n19. そして発見された，2007/10のコミット・・・14年前のソースコード\n20. iPhoneOS1.0のときのツールチェインがないとコンパイルできないソース\n22. ファミコン ハットリくんのソースコード　https://github.com/omuanko/nnjhtrkn\n23. アンカンファレンス　https://ja.wikipedia.org/wiki/アンカンファレンス\n24. sonsonのLLVMへのコミットがようやく承認された話\n25. Obj-Cのクラスメソッドがメモリリークする問題\n26. 永野さんを呼ぼうよ，こないよ\n27. できれば，iOSDCで会いましょう！",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1122411202-nextstepfm-37-subversiongit.mp3",
+        "@length": 124430209,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1114360399"
+      },
+      "title": "#36 10年前のアプリでしか見られないコンテンツの意味",
+      "pubDate": "Sat, 28 Aug 2021 02:53:46 +0000",
+      "link": "https://soundcloud.com/nextstepfm/36-10a",
+      "itunes:duration": "02:02:46",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. ひきこもってますか，リモートワークどうですか？\n2. 人買いたちの動きが活発？今も昔もコンサルは人気なの？\n3. コンサルやるくらいなら，自分でやりたい @sonson_twit\n4. 電通国際情報サービス https://www.isid.co.jp https://japan.zdnet.com/article/20347498/\n5. エンジニアとスーツ，スーツ着て欲しいなら，ちゃんといいスーツ着ろよ @k_katsumi\n6. テレワークとカメラ\n7. 次男氏，Scratchのゲームを作って投稿し，ついにフォロワーがつく http://scratch.mit.edu @sonson_twit\n8.  Mac昔話\n9.  Macintosh Plusをみました・・・・ @d_date https://twitter.com/d_date/status/1424597331479986179?s=21\n10. Macintosh Plus, PowerMac G3, PowerBook G4....Appleユーザ老人会\n11. MacOS 9とか知らんやろ・・・・・MacOS Xが出て・・・もう20年なんですね\n12. Sherlock(動詞)の意味\n13. ResEdit https://ja.wikipedia.org/wiki/ResEdit\n14. Apple, Intel, Microsoft, AMD...祇園精舎の鐘の声，諸行無常の響きあり・・・\n15. M1移行とIntel移行\n16. MacBookPro M1X?は出るのか？メモリは32GBになるのか？\n17. AppStore Connectはいつよくなるの・・・・・\n18. 2tch，配信止めました・・・・14年の開発・・・・\n19. 2tchの中身の話\n20. UITableView昔話\n21. UITableViewCellにUIViewをたくさん載っけると遅くなったんですよ，昔は\n22. NSStringのdraw系API\n23. ASCII Art検知正規表現\n24. 岸川さんが作った古いアプリ\n25. @d_date も全然ついていけない，iOS老人会\n26. 古いアプリのメンテナンス\n27. アプリとしてコンテンツを提供してしまうと・・・・コンテンツがdisconになってしまう\n28. いつもの話題，コンテンツとビューアの切り分け\n29. 元素図鑑，歌うくじら・・・色々なコンテンツ系アプリがありました・・・・．\n30. コンテンツのコンプライアンスと，コンテンツのポリティカルコレクトネス\n31. 次回のネタ・・・iOSDC, Quaternion, Google Nest Doorbell",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. ひきこもっ…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. ひきこもってますか，リモートワークどうですか？\n2. 人買いたちの動きが活発？今も昔もコンサルは人気なの？\n3. コンサルやるくらいなら，自分でやりたい @sonson_twit\n4. 電通国際情報サービス https://www.isid.co.jp https://japan.zdnet.com/article/20347498/\n5. エンジニアとスーツ，スーツ着て欲しいなら，ちゃんといいスーツ着ろよ @k_katsumi\n6. テレワークとカメラ\n7. 次男氏，Scratchのゲームを作って投稿し，ついにフォロワーがつく http://scratch.mit.edu @sonson_twit\n8.  Mac昔話\n9.  Macintosh Plusをみました・・・・ @d_date https://twitter.com/d_date/status/1424597331479986179?s=21\n10. Macintosh Plus, PowerMac G3, PowerBook G4....Appleユーザ老人会\n11. MacOS 9とか知らんやろ・・・・・MacOS Xが出て・・・もう20年なんですね\n12. Sherlock(動詞)の意味\n13. ResEdit https://ja.wikipedia.org/wiki/ResEdit\n14. Apple, Intel, Microsoft, AMD...祇園精舎の鐘の声，諸行無常の響きあり・・・\n15. M1移行とIntel移行\n16. MacBookPro M1X?は出るのか？メモリは32GBになるのか？\n17. AppStore Connectはいつよくなるの・・・・・\n18. 2tch，配信止めました・・・・14年の開発・・・・\n19. 2tchの中身の話\n20. UITableView昔話\n21. UITableViewCellにUIViewをたくさん載っけると遅くなったんですよ，昔は\n22. NSStringのdraw系API\n23. ASCII Art検知正規表現\n24. 岸川さんが作った古いアプリ\n25. @d_date も全然ついていけない，iOS老人会\n26. 古いアプリのメンテナンス\n27. アプリとしてコンテンツを提供してしまうと・・・・コンテンツがdisconになってしまう\n28. いつもの話題，コンテンツとビューアの切り分け\n29. 元素図鑑，歌うくじら・・・色々なコンテンツ系アプリがありました・・・・．\n30. コンテンツのコンプライアンスと，コンテンツのポリティカルコレクトネス\n31. 次回のネタ・・・iOSDC, Quaternion, Google Nest Doorbell",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1114360399-nextstepfm-36-10a.mp3",
+        "@length": 117866996,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1105104013"
+      },
+      "title": "#35 レビューのレビュー",
+      "pubDate": "Fri, 13 Aug 2021 03:59:26 +0000",
+      "link": "https://soundcloud.com/nextstepfm/35a",
+      "itunes:duration": "02:12:17",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @k_katsumi 遅刻\n2. 二人でお送りする・・・・nextstep.fm'が・・・・．\n3. github.dev試した？github.comでリポジトリを開いた状態でピリオドキーを押してみよう．\n4. swiftのビルドは，死ぬほどリソースを食う\n5. M1 Macのメモリが足りない\n6. ブラウザでタブ開きすぎ問題\n7. 色味・・・・ってわかる？\n8. ダークモード使ってますか？\n9. ワクチン副反応どうでしたか\n10. 年齢と副反応\n11. これからmRNAは，パッチアップデートように摂取する必要があるのだろうか\n12. ワクチンは，一括パッチできる？\n13. 名前をなぜギリシア文字にしたのか\n14. ワクチンのsemantic version - https://semver.org\n15. 救急時のベッド探索問題\n16. ベッドと医療機器はスケールアウトしても，使える人はスケールアウトできない．\n17. 人はデータ，アルゴリズムによる統治を受け入れられるか？\n18. 信号機はすでにそうだよね．\n19. @d_date 最近気づいたんですが・・・運用を考えない人って多くないですか？\n20. コードか？ドキュメントか？\n21. 両方いるってのは，当たり前なんだけど．\n22. コードだけあってもさ，大人の事情は解決できない\n23. slack, money forwardのビジネスモデル\n24. そもそも銀行がAPIを個人に公開すればいいだけなんだけど\n25. @k_katsumi https://swift-format.com Online swift code formatter\n26. @sonson_twit Three.js - https://threejs.org\n27. OpenGLを生で書くってもうないよね・・・・．\n28. @sonson_twit JSのthisでつまづいた\n29. ネットの情報源\n30. なぞの対話形式のサイト・・・・・・\n31. Python, Ruby, JSのことを調べると・・・ひどいサイトにあたる\n32. @d_date そういう技術まとめサイトにあたらない・・・・・．\n33. 本屋いったら，プログラミングコーナーにPythonしかない・・・・・・・．\n34. UIKit Tutorial https://developer.apple.com/tutorials/app-dev-training/\n35. @d_date 論文読み慣れてたら，Swift evolutionとか読みやすいのでは？\n36. @sonson_twit いや・・・やっぱり分野のコンテキストがわからないとつらいですよ．\n37. 機械学習の学術分野は，急速に拡大しすぎて，すでに査読システムが限界\n39. 学会のdouble blindレビューを揶揄したおもしろ動画　https://twitter.com/docmilanfar/status/1417650565941579777?s=20\n40. 機械学習の分野のジャーナルの査読と，会議の査読の違い\n41. ジャーナルのレビューはやりとりがあるけど・・・・会議のレビューは一発勝負に近い．\n42. ICLRのオープンレビュー https://openreview.net/forum?id=HygnDhEtvr\n43. インターネット時代の査読とは\n44. 査読システムが取れる責任は小さい・・・・数学と自然科学は違う\n45. @sonson_twit の失態\n46. 結局カットせず\n47. 不正使用よくない!\n48. @k_katsumi え，週間でやるんですか",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @k_ka…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @k_katsumi 遅刻\n2. 二人でお送りする・・・・nextstep.fm'が・・・・．\n3. github.dev試した？github.comでリポジトリを開いた状態でピリオドキーを押してみよう．\n4. swiftのビルドは，死ぬほどリソースを食う\n5. M1 Macのメモリが足りない\n6. ブラウザでタブ開きすぎ問題\n7. 色味・・・・ってわかる？\n8. ダークモード使ってますか？\n9. ワクチン副反応どうでしたか\n10. 年齢と副反応\n11. これからmRNAは，パッチアップデートように摂取する必要があるのだろうか\n12. ワクチンは，一括パッチできる？\n13. 名前をなぜギリシア文字にしたのか\n14. ワクチンのsemantic version - https://semver.org\n15. 救急時のベッド探索問題\n16. ベッドと医療機器はスケールアウトしても，使える人はスケールアウトできない．\n17. 人はデータ，アルゴリズムによる統治を受け入れられるか？\n18. 信号機はすでにそうだよね．\n19. @d_date 最近気づいたんですが・・・運用を考えない人って多くないですか？\n20. コードか？ドキュメントか？\n21. 両方いるってのは，当たり前なんだけど．\n22. コードだけあってもさ，大人の事情は解決できない\n23. slack, money forwardのビジネスモデル\n24. そもそも銀行がAPIを個人に公開すればいいだけなんだけど\n25. @k_katsumi https://swift-format.com Online swift code formatter\n26. @sonson_twit Three.js - https://threejs.org\n27. OpenGLを生で書くってもうないよね・・・・．\n28. @sonson_twit JSのthisでつまづいた\n29. ネットの情報源\n30. なぞの対話形式のサイト・・・・・・\n31. Python, Ruby, JSのことを調べると・・・ひどいサイトにあたる\n32. @d_date そういう技術まとめサイトにあたらない・・・・・．\n33. 本屋いったら，プログラミングコーナーにPythonしかない・・・・・・・．\n34. UIKit Tutorial https://developer.apple.com/tutorials/app-dev-training/\n35. @d_date 論文読み慣れてたら，Swift evolutionとか読みやすいのでは？\n36. @sonson_twit いや・・・やっぱり分野のコンテキストがわからないとつらいですよ．\n37. 機械学習の学術分野は，急速に拡大しすぎて，すでに査読システムが限界\n39. 学会のdouble blindレビューを揶揄したおもしろ動画　https://twitter.com/docmilanfar/status/1417650565941579777?s=20\n40. 機械学習の分野のジャーナルの査読と，会議の査読の違い\n41. ジャーナルのレビューはやりとりがあるけど・・・・会議のレビューは一発勝負に近い．\n42. ICLRのオープンレビュー https://openreview.net/forum?id=HygnDhEtvr\n43. インターネット時代の査読とは\n44. 査読システムが取れる責任は小さい・・・・数学と自然科学は違う\n45. @sonson_twit の失態\n46. 結局カットせず\n47. 不正使用よくない!\n48. @k_katsumi え，週間でやるんですか",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1105104013-nextstepfm-35a.mp3",
+        "@length": 127003166,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1096440541"
+      },
+      "title": "#34 エンジニアがデジタル庁，車，道路に求めるもの",
+      "pubDate": "Thu, 29 Jul 2021 17:02:26 +0000",
+      "link": "https://soundcloud.com/nextstepfm/34a",
+      "itunes:duration": "02:02:42",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 仕事と守秘義務\n2. デジタル庁・・・仕組みと法\n3. エンジニアにリーチする広告と，政府としての広告\n4. ロストジェネレーションな@k_katsumiと@sonson_twit\n5. @k_katsumiのhttp://swiftfiddle.com\n6. kubernetesで運用コストを圧縮する - https://github.com/kubernetes/kubernetes\n7. SwiftUIでアプリを作り切れる？\n8. Xcode cloudはどうよ\n9. M1 iMacのプロダクトの完成度\n10. テスラとHardware3　- https://www.youtube.com/watch?v=NSDTZQdo6H8\n11. CPUとGPUとSoC\n12. 電気自動車とガソリン車とハイブリッド車\n13. 自動運転と歩行者と交通事故\n14. ガソリン車がなくなるように，手動運転車はなくなるか？\n15. 車々間通信と先進HMIデバイスで歩行者を操る研究 - https://ci.nii.ac.jp/naid/110006223870\n16. LLVM = https://llvm.org\n17. Phabricator - https://www.phacility.com/phabricator/\n18. でかいオープンソースを管理してる人は大変だよね・・・・\n19. C++難しい・・・・・\n20. Webpack - https://webpack.js.org\n21. そういえばiOSDC - https://iosdc.jp/2021/",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 仕事と守秘…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 仕事と守秘義務\n2. デジタル庁・・・仕組みと法\n3. エンジニアにリーチする広告と，政府としての広告\n4. ロストジェネレーションな@k_katsumiと@sonson_twit\n5. @k_katsumiのhttp://swiftfiddle.com\n6. kubernetesで運用コストを圧縮する - https://github.com/kubernetes/kubernetes\n7. SwiftUIでアプリを作り切れる？\n8. Xcode cloudはどうよ\n9. M1 iMacのプロダクトの完成度\n10. テスラとHardware3　- https://www.youtube.com/watch?v=NSDTZQdo6H8\n11. CPUとGPUとSoC\n12. 電気自動車とガソリン車とハイブリッド車\n13. 自動運転と歩行者と交通事故\n14. ガソリン車がなくなるように，手動運転車はなくなるか？\n15. 車々間通信と先進HMIデバイスで歩行者を操る研究 - https://ci.nii.ac.jp/naid/110006223870\n16. LLVM = https://llvm.org\n17. Phabricator - https://www.phacility.com/phabricator/\n18. でかいオープンソースを管理してる人は大変だよね・・・・\n19. C++難しい・・・・・\n20. Webpack - https://webpack.js.org\n21. そういえばiOSDC - https://iosdc.jp/2021/",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1096440541-nextstepfm-34a.mp3",
+        "@length": 117803048,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1083957922"
+      },
+      "title": "#33 WWD痔2021（文字化けじゃないよ）",
+      "pubDate": "Thu, 08 Jul 2021 15:37:58 +0000",
+      "link": "https://soundcloud.com/nextstepfm/33-wwd2021",
+      "itunes:duration": "01:47:28",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @sonson_twit, 2週間入院しておりました\n2. 文才あるって褒められっちゃった\n    1. https://note.com/sonson/n/n3bbbaa850d6f\n    2. https://note.com/sonson/n/nc518a3dcd9cb\n3. @sonson_twit, はじめてゲームプログラミングで詰まる\n4. WWDC2021\n5. うーん，WWDC2021で紹介されて・・・すぐに今，使える技術はどれですか？\n6. @k_katsumi FaceTimeの多プラットホーム展開・・・・どう化ける？\n7. @sonson_twit Swift Playgroundsに期待\n8. @d_date やっぱasync/waitじゃね？\n9.  @k_katsumi Xcode Cloud\n10. Combineのことも忘れないであげてください\n11. メニーコア時代とアクターモデル\n12. WWDC Slackの結末\n13. 翻訳ボランティアの未来\n14. UIプログラミングの未来はSwiftUI\n15. UIKitは難しい？\n16. Github Copilotどうよ？\n17. Copilotの中身を，機械学習のモデルから考える\n18. 他言語があるから意味，効果があるはず・・・Copilot\n19. 次回「@d_date，公務員になるってよ」",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @sons…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. @sonson_twit, 2週間入院しておりました\n2. 文才あるって褒められっちゃった\n    1. https://note.com/sonson/n/n3bbbaa850d6f\n    2. https://note.com/sonson/n/nc518a3dcd9cb\n3. @sonson_twit, はじめてゲームプログラミングで詰まる\n4. WWDC2021\n5. うーん，WWDC2021で紹介されて・・・すぐに今，使える技術はどれですか？\n6. @k_katsumi FaceTimeの多プラットホーム展開・・・・どう化ける？\n7. @sonson_twit Swift Playgroundsに期待\n8. @d_date やっぱasync/waitじゃね？\n9.  @k_katsumi Xcode Cloud\n10. Combineのことも忘れないであげてください\n11. メニーコア時代とアクターモデル\n12. WWDC Slackの結末\n13. 翻訳ボランティアの未来\n14. UIプログラミングの未来はSwiftUI\n15. UIKitは難しい？\n16. Github Copilotどうよ？\n17. Copilotの中身を，機械学習のモデルから考える\n18. 他言語があるから意味，効果があるはず・・・Copilot\n19. 次回「@d_date，公務員になるってよ」",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1083957922-nextstepfm-33-wwd2021.mp3",
+        "@length": 103182836,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1056622615"
+      },
+      "title": "#32 フルスタックUIエンジニアは夢まぼろしか？〜MFCはFlutterの夢を見るか〜後編",
+      "pubDate": "Thu, 27 May 2021 13:02:26 +0000",
+      "link": "https://soundcloud.com/nextstepfm/32-uimfcflutter",
+      "itunes:duration": "00:47:58",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 教育の話長過ぎ．\n2. そんなことよりFlutterの話をしようぜ\n3. @d_dateの疑問・・・・・．Flutterdだけでアプリが作れてしまう・・・．\n4. 「Androidでも，iOSでも，動くよーーー」「はいはい，また出たね・・・あれ？すごくね？」\n5. 「UIKitを知らずに僕らは生まれた」世代が生まれる\n6. MFCとWin32 API(年寄りにしかわからない・・・・)\n7. Macのアプリとか，もう作れないじゃないですか・・・そこでFlutterですよ\n8. SwiftUIとFlutter\n9. 人を雇うときに・・・・UIKitへの理解をテストする？\n10. @d_dateはAVFoundationが好き\n11. SwiftUIは，AVFoundationをまだうまく使えない？\n12. 数年前から作り方の話になったよね．開発者コミュニティも．\n13. Rxとか自分で作ればいいじゃん．\n14. @Psychsさんの名言\n15. 岸川さんがコードからライブラリを剥がす，剥がす！\n16. 自分でメンテできるに越したことはない\n17. 次回は，Material Youと，AIと，@d_dateさんの就職先の3本でお送ります！",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 教育の話長…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 教育の話長過ぎ．\n2. そんなことよりFlutterの話をしようぜ\n3. @d_dateの疑問・・・・・．Flutterdだけでアプリが作れてしまう・・・．\n4. 「Androidでも，iOSでも，動くよーーー」「はいはい，また出たね・・・あれ？すごくね？」\n5. 「UIKitを知らずに僕らは生まれた」世代が生まれる\n6. MFCとWin32 API(年寄りにしかわからない・・・・)\n7. Macのアプリとか，もう作れないじゃないですか・・・そこでFlutterですよ\n8. SwiftUIとFlutter\n9. 人を雇うときに・・・・UIKitへの理解をテストする？\n10. @d_dateはAVFoundationが好き\n11. SwiftUIは，AVFoundationをまだうまく使えない？\n12. 数年前から作り方の話になったよね．開発者コミュニティも．\n13. Rxとか自分で作ればいいじゃん．\n14. @Psychsさんの名言\n15. 岸川さんがコードからライブラリを剥がす，剥がす！\n16. 自分でメンテできるに越したことはない\n17. 次回は，Material Youと，AIと，@d_dateさんの就職先の3本でお送ります！",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1056622615-nextstepfm-32-uimfcflutter.mp3",
+        "@length": 46058265,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1056622312"
+      },
+      "title": "#31 Chromebookを眠らせるな〜終わらない教育論〜前編",
+      "pubDate": "Thu, 27 May 2021 13:01:38 +0000",
+      "link": "https://soundcloud.com/nextstepfm/31-chromebook",
+      "itunes:duration": "01:25:06",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. Google I/O見た？\n2. Google Lambdaがすごかった\n3. AIの対話能力がすごい・・・もはや英語が流暢すぎてついていけない\n4. AIには，コンテキスト・・・伏線が難しい．\n5. GoogleがDeep Mindを手放す・・・？\n6. Deep Mind・・・・Alpha Goを作った会社\n7. Material You\n8. Flutter/Firebase\n9. Androidとプライバシー\n10. @d_dateが引越し\n11. Blenderと3Dプリンタ\n12. そこから・・・自作キーボード\n13. @d_dateさん，お仕事募集中\n14. AirTag買った？\n15. MacにもうデカいGPUはいらないや\n16. iPad Pro M1は，全てを救う\n17. 教育とコンピュータ\n18. Chromebookと学校\n19. なんで，Chromebookを家に持って帰らせない・・？\n20. もう子供たちは・・・キーボードでチャットしないよ・・・ボイスチャットだよ．\n21. コンピュータと教育論\n22. #32に続く",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. Googl…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. Google I/O見た？\n2. Google Lambdaがすごかった\n3. AIの対話能力がすごい・・・もはや英語が流暢すぎてついていけない\n4. AIには，コンテキスト・・・伏線が難しい．\n5. GoogleがDeep Mindを手放す・・・？\n6. Deep Mind・・・・Alpha Goを作った会社\n7. Material You\n8. Flutter/Firebase\n9. Androidとプライバシー\n10. @d_dateが引越し\n11. Blenderと3Dプリンタ\n12. そこから・・・自作キーボード\n13. @d_dateさん，お仕事募集中\n14. AirTag買った？\n15. MacにもうデカいGPUはいらないや\n16. iPad Pro M1は，全てを救う\n17. 教育とコンピュータ\n18. Chromebookと学校\n19. なんで，Chromebookを家に持って帰らせない・・？\n20. もう子供たちは・・・キーボードでチャットしないよ・・・ボイスチャットだよ．\n21. コンピュータと教育論\n22. #32に続く",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1056622312-nextstepfm-31-chromebook.mp3",
+        "@length": 81709347,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1015920727"
+      },
+      "title": "#030 そのコーヒー，iPhoneで飲めますか？",
+      "pubDate": "Thu, 25 Mar 2021 07:03:15 +0000",
+      "link": "https://soundcloud.com/nextstepfm/030-iphone",
+      "itunes:duration": "01:53:52",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 今日のゲストは， @d_date です．\n2. @sonson_twit のミニスタジオにエレドラとベース\n3. @d_date とピアノ\n4. @d_date を招いて，コーヒートーク？ - \n5. TAILORED CAFE https://tailoredcafe.jp\n6. TAILORED CAFE App Clip開発秘話\n7. App Clipどうっすか - https://book.mynavi.jp/macfan/content/id=121208\n8. 決済システムは難しい\n9. ストックオプション\n10. 働き方\n11. データサイエンティストとしての @sonson_twit\n12. iOS ~ 画像認識 ~ 機械学習 ~ データサイエンティスト\n13. @d_date は，ハタチの頃にiOS SDK Hacksを読んでいた・・・・ - https://www.oreilly.co.jp/books/9784873114729/\n14. 深津さんはやっぱりかっこいい\n15. デザイナーとデベロッパの作り方の違い\n16. try Swift Tokyo2020の残課題\n17. オンラインカンファレンスの今後\n18. ITで解決できない時差問題\n19. WWDC思い出話\n20. 買収されて・・・なんだったんだTestflight\n21. Appleに買収されたAR企業 metaio・・・実はちょっと @sonson_twit に縁がある\n22. metaioは，AppleでARマーケットを切り開いたか？\n23. @d_date さん，またきてください！！",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 今日のゲス…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date\n\n1. 今日のゲストは， @d_date です．\n2. @sonson_twit のミニスタジオにエレドラとベース\n3. @d_date とピアノ\n4. @d_date を招いて，コーヒートーク？ - \n5. TAILORED CAFE https://tailoredcafe.jp\n6. TAILORED CAFE App Clip開発秘話\n7. App Clipどうっすか - https://book.mynavi.jp/macfan/content/id=121208\n8. 決済システムは難しい\n9. ストックオプション\n10. 働き方\n11. データサイエンティストとしての @sonson_twit\n12. iOS ~ 画像認識 ~ 機械学習 ~ データサイエンティスト\n13. @d_date は，ハタチの頃にiOS SDK Hacksを読んでいた・・・・ - https://www.oreilly.co.jp/books/9784873114729/\n14. 深津さんはやっぱりかっこいい\n15. デザイナーとデベロッパの作り方の違い\n16. try Swift Tokyo2020の残課題\n17. オンラインカンファレンスの今後\n18. ITで解決できない時差問題\n19. WWDC思い出話\n20. 買収されて・・・なんだったんだTestflight\n21. Appleに買収されたAR企業 metaio・・・実はちょっと @sonson_twit に縁がある\n22. metaioは，AppleでARマーケットを切り開いたか？\n23. @d_date さん，またきてください！！",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1015920727-nextstepfm-030-iphone.mp3",
+        "@length": 109327672,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/989469034"
+      },
+      "title": "#029 Network ExtensionでAmong usを覗く？",
+      "pubDate": "Sat, 20 Feb 2021 15:29:29 +0000",
+      "link": "https://soundcloud.com/nextstepfm/029-network-extensionamong-us",
+      "itunes:duration": "01:48:59",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n1. テスラ\n2. 暴力的なカーボンフリー\n3. 電気自動車どこで充電すんの？\n4. え，岸川さん，バイカーなんですか？\n5. スプラトゥーン3\n6. コロコロの付録で人狼！\n7. いまだに終わらないゼルダいじり\n8. tarファイルを解析する\n9. FileHandleクラスのメソッドが・・・・deprecatedだらけ\n10. ヘッダをちゃんと読もうね\n11. Network extensionいじり\n12. Among us hacks\n13. 岸川さん，Among usハマりすぎやろｗ\n14. Modってどうやって作るんですかね\n15. 確定申告やりましたか\n16. Swift for Tensorflow....\n18. AppleがnVIDIA GPUを切った理由\n19. Appleが半導体を生産する未来は来るのだろうか\n20. ソフトウェアエンジニア人生\n21. ジビエ\n22. え？鴨自体をヤフオクで買うの？自分で捌くの？\n23. みんな，久々にiOSプログラミングイベントやろうぜ",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n1. テスラ\n2. 暴力的なカー…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n1. テスラ\n2. 暴力的なカーボンフリー\n3. 電気自動車どこで充電すんの？\n4. え，岸川さん，バイカーなんですか？\n5. スプラトゥーン3\n6. コロコロの付録で人狼！\n7. いまだに終わらないゼルダいじり\n8. tarファイルを解析する\n9. FileHandleクラスのメソッドが・・・・deprecatedだらけ\n10. ヘッダをちゃんと読もうね\n11. Network extensionいじり\n12. Among us hacks\n13. 岸川さん，Among usハマりすぎやろｗ\n14. Modってどうやって作るんですかね\n15. 確定申告やりましたか\n16. Swift for Tensorflow....\n18. AppleがnVIDIA GPUを切った理由\n19. Appleが半導体を生産する未来は来るのだろうか\n20. ソフトウェアエンジニア人生\n21. ジビエ\n22. え？鴨自体をヤフオクで買うの？自分で捌くの？\n23. みんな，久々にiOSプログラミングイベントやろうぜ",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/989469034-nextstepfm-029-network-extensionamong-us.mp3",
+        "@length": 104639424,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/978058984"
+      },
+      "title": "#028 転売ヤーが促進するPS5の証券化，PS5のプットオプションは成立するか？",
+      "pubDate": "Wed, 03 Feb 2021 03:10:14 +0000",
+      "link": "https://soundcloud.com/nextstepfm/028-ps5ps5",
+      "itunes:duration": "01:32:12",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n1. Clubhouse流行ってるねー，使ってどうだった？\n2. SwitchBotの可視化アプリを作って公開したよ - https://github.com/sonsongithub/SBMeter\n3. Apple Notarizationはよいものだ\n4. しかし・・・サイレントアップデートは・・・倫理観が問われる\n5. zipファイルを覗き見するextensionを作ったよ - https://github.com/sonsongithub/zipreview\n6. Quick Look\n7. Quick Lookの配布形態が変わりそう\n8. ziprってのを公開してます - https://github.com/sonsongithub/zipr\n9. CatalystとQuick Lookは共存できないっぽい\n10. Tar・・・テープアーカイブだよ・・・・\n11. iRobotのプログラミングロボットRoot - https://www.irobot-jp.com/root/\n12. PS5が買えない\n13. PS5の空売り，PS5のオプション取引，証券化するPS5\n14. 転売ヤーは制限すべきかどうか\n15. ダフ屋や転売ヤーは，市場を破壊する？しない？\n16. チケットの転売をファンクラブ内に閉じさせるシステム\n17. 強すぎる任天堂\n18. 700万円の仏像を送る\n19. @sonson_twitの誕生日なので，nextstep.fmのサポートをお願いしますｗ\n20. Wish list - https://www.amazon.jp/hz/wishlist/ls/3TO4ASHUULM9X?ref_=wl_share",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n1. Clubhouse流行って…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n1. Clubhouse流行ってるねー，使ってどうだった？\n2. SwitchBotの可視化アプリを作って公開したよ - https://github.com/sonsongithub/SBMeter\n3. Apple Notarizationはよいものだ\n4. しかし・・・サイレントアップデートは・・・倫理観が問われる\n5. zipファイルを覗き見するextensionを作ったよ - https://github.com/sonsongithub/zipreview\n6. Quick Look\n7. Quick Lookの配布形態が変わりそう\n8. ziprってのを公開してます - https://github.com/sonsongithub/zipr\n9. CatalystとQuick Lookは共存できないっぽい\n10. Tar・・・テープアーカイブだよ・・・・\n11. iRobotのプログラミングロボットRoot - https://www.irobot-jp.com/root/\n12. PS5が買えない\n13. PS5の空売り，PS5のオプション取引，証券化するPS5\n14. 転売ヤーは制限すべきかどうか\n15. ダフ屋や転売ヤーは，市場を破壊する？しない？\n16. チケットの転売をファンクラブ内に閉じさせるシステム\n17. 強すぎる任天堂\n18. 700万円の仏像を送る\n19. @sonson_twitの誕生日なので，nextstep.fmのサポートをお願いしますｗ\n20. Wish list - https://www.amazon.jp/hz/wishlist/ls/3TO4ASHUULM9X?ref_=wl_share",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/978058984-nextstepfm-028-ps5ps5.mp3",
+        "@length": 88525843,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/968559685"
+      },
+      "title": "#027 インターネットの向こうにあるSNSの負債と新しい音楽の授業のカタチ",
+      "pubDate": "Tue, 19 Jan 2021 16:03:22 +0000",
+      "link": "https://soundcloud.com/nextstepfm/027-sns",
+      "itunes:duration": "01:53:11",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n1. 今年初めてのお買い物サウンドバー．\n2. YOASOBI・・・米津玄師・・・曲の構成が新しいと思うんだ\n3. Scratchでゲームを作り，そのBGMは，Gragebandで作曲する子供たち．\n4. トランプが残したSNSの絶望．\n5. 言論の偏り．\n6. SNSのコントロールは，言論の統制か？\n7. 行き着くところは，教育なんだけど・・・・・．\n8. SNSの功罪，フィルターバブルはそこにあるか？\n9. 技術は，SNSの負債を返せるだろうか？\n10. 薬事法，学会，言論の自由．\n11. プログラミングニュータイプ．\n14. AppleがiMovie, iDVD, Gragebandで伝えたかったもの．\n15. 20年前に友達の結婚式のために・・・DVDを作って気づいたもの．\n16. Scratchの公開サーバとベーマガ．\n17. 音楽の授業とiPad．\n18. SwitchBotのビジュアライザを作ったよ https://github.com/sonsongithub/SBMeter\n19. 電力，二酸化炭素，湿度・・・・\n20. スマートメーターとWi-SUN\n21. 50Aも電気いるか？\n29. おうちハック\n30. 電気工事士の資格はお得か？\n31. コンセントを改造したい・・・・．\n22. Wi-SUNモジュール https://www.tessera.co.jp/rl7023stick-d_ips.html\n23. もう高くなってしまった https://www.amazon.co.jp/dp/B00I3XJ9LM/\n24. ネタトモ 二酸化炭素センサ https://www.amazon.co.jp/dp/B00FFS73GG/\n25. Neture remo E https://nature.global/jp/nature-remo-e-lite\n26. Scratch・・・Hypercardの話をしたかった・・・・．\n27. Haskellから学ぶ関数型言語\n28. Swiftから学ぶ関数型言語",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n1. 今年初めてのお買い物サウン…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n1. 今年初めてのお買い物サウンドバー．\n2. YOASOBI・・・米津玄師・・・曲の構成が新しいと思うんだ\n3. Scratchでゲームを作り，そのBGMは，Gragebandで作曲する子供たち．\n4. トランプが残したSNSの絶望．\n5. 言論の偏り．\n6. SNSのコントロールは，言論の統制か？\n7. 行き着くところは，教育なんだけど・・・・・．\n8. SNSの功罪，フィルターバブルはそこにあるか？\n9. 技術は，SNSの負債を返せるだろうか？\n10. 薬事法，学会，言論の自由．\n11. プログラミングニュータイプ．\n14. AppleがiMovie, iDVD, Gragebandで伝えたかったもの．\n15. 20年前に友達の結婚式のために・・・DVDを作って気づいたもの．\n16. Scratchの公開サーバとベーマガ．\n17. 音楽の授業とiPad．\n18. SwitchBotのビジュアライザを作ったよ https://github.com/sonsongithub/SBMeter\n19. 電力，二酸化炭素，湿度・・・・\n20. スマートメーターとWi-SUN\n21. 50Aも電気いるか？\n29. おうちハック\n30. 電気工事士の資格はお得か？\n31. コンセントを改造したい・・・・．\n22. Wi-SUNモジュール https://www.tessera.co.jp/rl7023stick-d_ips.html\n23. もう高くなってしまった https://www.amazon.co.jp/dp/B00I3XJ9LM/\n24. ネタトモ 二酸化炭素センサ https://www.amazon.co.jp/dp/B00FFS73GG/\n25. Neture remo E https://nature.global/jp/nature-remo-e-lite\n26. Scratch・・・Hypercardの話をしたかった・・・・．\n27. Haskellから学ぶ関数型言語\n28. Swiftから学ぶ関数型言語",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/968559685-nextstepfm-027-sns.mp3",
+        "@length": 108657266,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/957049702"
+      },
+      "title": "#026 ありきたりって言わないで！2020に買ってよかったもの",
+      "pubDate": "Thu, 31 Dec 2020 10:56:41 +0000",
+      "link": "https://soundcloud.com/nextstepfm/026-2020a",
+      "itunes:duration": "02:00:49",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n1. ハマ・オカモト\n2. ゆるキャラとゲーム実況\n3. YouTubeが作った市場と壊した市場\n3. ドリブル岸川\n4. Among Usと桃鉄\n5. 話を振って，あまりモノを買ってない@sonson_twit\n6. 今年買ってよかったもの・・・・Soundbar, M1 mac, EdgeRouterX, PS5, AppleWatch6, iPhone mini\n7. 家庭内LANトーク\n8. 電気を安く？\n9. 洗濯機の価格\n10. ScrathとPythonの間\n11. プログラミングを始める障壁\n12. SoC\n13. SoCに投資する根性\n14. 順当であってもすごいApple M1\n15. Smooz残念・・・・・．\n16. 来年もよろしくお願いします．",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n1. ハマ・オカモト\n2. ゆる…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n1. ハマ・オカモト\n2. ゆるキャラとゲーム実況\n3. YouTubeが作った市場と壊した市場\n3. ドリブル岸川\n4. Among Usと桃鉄\n5. 話を振って，あまりモノを買ってない@sonson_twit\n6. 今年買ってよかったもの・・・・Soundbar, M1 mac, EdgeRouterX, PS5, AppleWatch6, iPhone mini\n7. 家庭内LANトーク\n8. 電気を安く？\n9. 洗濯機の価格\n10. ScrathとPythonの間\n11. プログラミングを始める障壁\n12. SoC\n13. SoCに投資する根性\n14. 順当であってもすごいApple M1\n15. Smooz残念・・・・・．\n16. 来年もよろしくお願いします．",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/957049702-nextstepfm-026-2020a.mp3",
+        "@length": 115996629,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/945477526"
+      },
+      "title": "#025 そのgRPCで、スパゲッティを断ち切れ",
+      "pubDate": "Fri, 11 Dec 2020 07:45:09 +0000",
+      "link": "https://soundcloud.com/nextstepfm/025-grpc",
+      "itunes:duration": "01:32:52",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, novi_\n\n1. sonsonにもMacBook Pro M1がきたよ．\n2. 今日のゲストは，伊藤さん @novi_ です．\n3. クローラをSwiftで．\n3. gRPCとは．\n4. OpenMPI．OpenMPじゃないよ．\n5. 外部とのインタフェースは自動生成するのが当たり前なのか．\n6. 自動生成が使われ出した理由は？技術的なブレイクスルーがあった？\n7. クラウド，Dockerなどのコンテナかな？\n8. オープンソースがもたらす価値\n9. 近年のAI研究もオープンソースが支えている\n10. sonsonのPythonへの恨み節\n11. CSSは難しい\n12. 引っ越しと家づくり\n13. プログラミングと家づくり\n14. Mac Proの将来\n15. @novi_ さんの新製品 オーディオアンプ　https://audio.current.directory\n16. オーディオのエンジニアリング\n17. エンジニアの部屋作り，家庭内LAN理論",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, novi_\n\n1. sonson…",
+      "description": "Starring:k_katsumi, sonson_twit, novi_\n\n1. sonsonにもMacBook Pro M1がきたよ．\n2. 今日のゲストは，伊藤さん @novi_ です．\n3. クローラをSwiftで．\n3. gRPCとは．\n4. OpenMPI．OpenMPじゃないよ．\n5. 外部とのインタフェースは自動生成するのが当たり前なのか．\n6. 自動生成が使われ出した理由は？技術的なブレイクスルーがあった？\n7. クラウド，Dockerなどのコンテナかな？\n8. オープンソースがもたらす価値\n9. 近年のAI研究もオープンソースが支えている\n10. sonsonのPythonへの恨み節\n11. CSSは難しい\n12. 引っ越しと家づくり\n13. プログラミングと家づくり\n14. Mac Proの将来\n15. @novi_ さんの新製品 オーディオアンプ　https://audio.current.directory\n16. オーディオのエンジニアリング\n17. エンジニアの部屋作り，家庭内LAN理論",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/945477526-nextstepfm-025-grpc.mp3",
+        "@length": 89157798,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/936828325"
+      },
+      "title": "#024 M1グランプリ",
+      "pubDate": "Fri, 27 Nov 2020 01:02:45 +0000",
+      "link": "https://soundcloud.com/nextstepfm/024-m1",
+      "itunes:duration": "01:24:32",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n1. @k_katsumi MacBook Pro M1がきたよ\n2. M1，確かにコンパイルが速い，速い，速すぎる\n3. 残る課題はGPUか\n3. Apple OneとiCloudストレージのお粗末な課金システム\n4. HomePod miniはよいものです\n5. Apple インターコム vs Google Home Broadcast\n6. 技術フォーカス録音またやりたいなぁ\n7. Server Side Swift vs 機械学習 vs Swift for Windows vs WebASM",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n1. @k_katsumi Ma…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n1. @k_katsumi MacBook Pro M1がきたよ\n2. M1，確かにコンパイルが速い，速い，速すぎる\n3. 残る課題はGPUか\n3. Apple OneとiCloudストレージのお粗末な課金システム\n4. HomePod miniはよいものです\n5. Apple インターコム vs Google Home Broadcast\n6. 技術フォーカス録音またやりたいなぁ\n7. Server Side Swift vs 機械学習 vs Swift for Windows vs WebASM",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/936828325-nextstepfm-024-m1.mp3",
+        "@length": 81158059,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/928330756"
+      },
+      "title": "#023 VAPORよ，予約文字を食らわば，Cookieまで．",
+      "pubDate": "Fri, 13 Nov 2020 01:19:29 +0000",
+      "link": "https://soundcloud.com/nextstepfm/023-vaporcookie",
+      "itunes:duration": "02:10:20",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, omochimetaru, ar_t_ae\n\n@omochimetaru, @ar_t_ae をゲストにお呼びして，Server Side Swiftについて話しました．\n\n1. @k_katsumiによるSwift Web Playground https://swiftfiddle.com\n2. swifter https://github.com/httpswift/swifter\n3. IBM，Swiftやめるってよ https://forums.swift.org/t/december-12th-2019/31735\n4. VAPOR https://github.com/vapor/vapor\n5. Swift HTTP server Embassy https://github.com/envoy/Embassy\n6. Embassyのラッパー？　Ambassador https://github.com/envoy/Ambassador\n7. SWSGI https://github.com/envoy/Embassy#whats-swsgi-swift-web-server-gateway-interface\n8. VAPORのバグ https://github.com/vapor/vapor/pull/2511\n9. novi_さん https://twitter.com/novi_\n10. 岸川さんはテンプレートエンジンが嫌い\n11. VAPOR Leaf https://docs.vapor.codes/3.0/leaf/overview/",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, omochimetaru, ar…",
+      "description": "Starring:k_katsumi, sonson_twit, omochimetaru, ar_t_ae\n\n@omochimetaru, @ar_t_ae をゲストにお呼びして，Server Side Swiftについて話しました．\n\n1. @k_katsumiによるSwift Web Playground https://swiftfiddle.com\n2. swifter https://github.com/httpswift/swifter\n3. IBM，Swiftやめるってよ https://forums.swift.org/t/december-12th-2019/31735\n4. VAPOR https://github.com/vapor/vapor\n5. Swift HTTP server Embassy https://github.com/envoy/Embassy\n6. Embassyのラッパー？　Ambassador https://github.com/envoy/Ambassador\n7. SWSGI https://github.com/envoy/Embassy#whats-swsgi-swift-web-server-gateway-interface\n8. VAPORのバグ https://github.com/vapor/vapor/pull/2511\n9. novi_さん https://twitter.com/novi_\n10. 岸川さんはテンプレートエンジンが嫌い\n11. VAPOR Leaf https://docs.vapor.codes/3.0/leaf/overview/",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/928330756-nextstepfm-023-vaporcookie.mp3",
+        "@length": 125128201,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/916091567"
+      },
+      "title": "#022 iPhoneの変化点の絶頂はRetina Displayだった？",
+      "pubDate": "Thu, 22 Oct 2020 15:34:06 +0000",
+      "link": "https://soundcloud.com/nextstepfm/iphoneretina-display",
+      "itunes:duration": "01:32:28",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\niPhoneの変化点の絶頂はRetina Displayだった？\n\n@k_katsumiと@sonson_twitがAppleの新製品発表会の内容について，ハンコ廃止はええんか？について議論してみました．\n\n1. オンライン会議\n2. @k_katsumiは会議に出ない\n3. iPhone12\n4. MagSafe必要？\n5. HomePod miniは買いでしょ，買うでしょ\n6. 自転車にiPhoneをマウントする苦労\n7. 政府によるマイクロマネジメント\n8. 携帯電話キャリアのメールは不要でしょ\n9. 国家のデジタルとハンコ廃止のあり方\n10. 次回はServer side Swiftの話をしようよ！\n11. あの人と，あの人と，あの人と・・・・・には出てもらおう！",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\niPhoneの変化点の絶頂はRe…",
+      "description": "Starring:k_katsumi, sonson_twit\n\niPhoneの変化点の絶頂はRetina Displayだった？\n\n@k_katsumiと@sonson_twitがAppleの新製品発表会の内容について，ハンコ廃止はええんか？について議論してみました．\n\n1. オンライン会議\n2. @k_katsumiは会議に出ない\n3. iPhone12\n4. MagSafe必要？\n5. HomePod miniは買いでしょ，買うでしょ\n6. 自転車にiPhoneをマウントする苦労\n7. 政府によるマイクロマネジメント\n8. 携帯電話キャリアのメールは不要でしょ\n9. 国家のデジタルとハンコ廃止のあり方\n10. 次回はServer side Swiftの話をしようよ！\n11. あの人と，あの人と，あの人と・・・・・には出てもらおう！",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/916091567-nextstepfm-iphoneretina-display.mp3",
+        "@length": 88777873,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/907050454"
+      },
+      "title": "#021  コンピュータ教育は明治維新の夢を見るか",
+      "pubDate": "Thu, 08 Oct 2020 12:46:52 +0000",
+      "link": "https://soundcloud.com/nextstepfm/021a",
+      "itunes:duration": "01:50:26",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n@k_katsumiと@sonson_twitで2年ぶりにお送りします．\n\n1. Apple Watch Series6が来た\n2. Apple Trade Inが使えない\n3. 5Gか，Apple Siliconか\n4. Twitterか，2chか．\n5. プログラミング教育という情報商材\n6. 教育とレバレッジ\n7. Scratchか，Pythonか，Swiftか，Unityか\n8. プログラミング教育論\n9. プログラミング言語の選択と生存者バイアス\n10. 若者たちの話を聞いて　https://open.spotify.com/show/34OrhS5on8tTjllttpnVSN?si=VnDHD9KHTlqSRqLbwxpxgA https://twitter.com/crcrpar",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n@k_katsumiと@sons…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n@k_katsumiと@sonson_twitで2年ぶりにお送りします．\n\n1. Apple Watch Series6が来た\n2. Apple Trade Inが使えない\n3. 5Gか，Apple Siliconか\n4. Twitterか，2chか．\n5. プログラミング教育という情報商材\n6. 教育とレバレッジ\n7. Scratchか，Pythonか，Swiftか，Unityか\n8. プログラミング教育論\n9. プログラミング言語の選択と生存者バイアス\n10. 若者たちの話を聞いて　https://open.spotify.com/show/34OrhS5on8tTjllttpnVSN?si=VnDHD9KHTlqSRqLbwxpxgA https://twitter.com/crcrpar",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/907050454-nextstepfm-021a.mp3",
+        "@length": 106027884,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/899425789"
+      },
+      "title": "#020「2年ぶりでも気軽な感じでいいっすよ」",
+      "pubDate": "Fri, 25 Sep 2020 14:09:56 +0000",
+      "link": "https://soundcloud.com/nextstepfm/0202a",
+      "itunes:duration": "01:37:20",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit\n\n帰ってきましたnextstep.fm.\n@k_katsumiと@sonson_twitで2年ぶりにお送りします．\n\n1. iOSDC\n2. 書籍は儲からない\n3. 見直すべきはハンコではない\n4. Web郵便\n5. Apple CPUの歴史\n6. CSと数学\n7. Swift for Windows\n8. iOS14のリリース問題\n9. Apple Watch 6早くこないかな．\n10. カーネルパニック\n\nリソース\nhttps://soundeffect-lab.info/sound/anime/",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit\n\n帰ってきましたnextstep.…",
+      "description": "Starring:k_katsumi, sonson_twit\n\n帰ってきましたnextstep.fm.\n@k_katsumiと@sonson_twitで2年ぶりにお送りします．\n\n1. iOSDC\n2. 書籍は儲からない\n3. 見直すべきはハンコではない\n4. Web郵便\n5. Apple CPUの歴史\n6. CSと数学\n7. Swift for Windows\n8. iOS14のリリース問題\n9. Apple Watch 6早くこないかな．\n10. カーネルパニック\n\nリソース\nhttps://soundeffect-lab.info/sound/anime/",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/899425789-nextstepfm-0202a.mp3",
+        "@length": 48004037,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/450501720"
+      },
+      "title": "#019「オンライン収録も気軽な感じでいいっすよ」",
+      "pubDate": "Mon, 28 May 2018 23:58:48 +0000",
+      "link": "https://soundcloud.com/nextstepfm/019a",
+      "itunes:duration": "00:39:54",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n初のオンライン収録で、FOLIO、最近のPEAKS、サイトブロッキング、近頃の出版、WWDC 2018の予想、などについて話しました。\n\nFOLIO\nhttps://folio-sec.com/\n\n\n「ゼロから創る暗号通貨」\nhttps://peaks.cc/cryptocurrency\n\n\n「Androidテスト全書」\nhttps://peaks.cc/android_testing\n\n\n「iOSアプリ設計パターン入門」\nhttps://peaks.cc/iOS_architecture\n\n\nWWDC 2018\nhttps://developer.apple.com/wwdc/",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n初のオンライン収録…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n初のオンライン収録で、FOLIO、最近のPEAKS、サイトブロッキング、近頃の出版、WWDC 2018の予想、などについて話しました。\n\nFOLIO\nhttps://folio-sec.com/\n\n\n「ゼロから創る暗号通貨」\nhttps://peaks.cc/cryptocurrency\n\n\n「Androidテスト全書」\nhttps://peaks.cc/android_testing\n\n\n「iOSアプリ設計パターン入門」\nhttps://peaks.cc/iOS_architecture\n\n\nWWDC 2018\nhttps://developer.apple.com/wwdc/",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/450501720-nextstepfm-019a.m4a",
+        "@length": 31512007,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/414580944"
+      },
+      "title": "#018「夢の超絶Webアプリをラップしてストアに出す」",
+      "pubDate": "Fri, 16 Mar 2018 13:03:29 +0000",
+      "link": "https://soundcloud.com/nextstepfm/018web",
+      "itunes:duration": "01:32:27",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit, tamadeveloper\n\nスポンサー: 株式会社firstseed \nhttps://firstseed.io/jp/\n\nFirstSeed Calendar Mac版予約販売開始！\nhttps://itunes.apple.com/app/id1348617240\n\niPad版 販売開始\nhttps://itunes.apple.com/jp/app/firstseed-calendar-for-ipad/id1328927234?mt=8\n\niPhone版発売中\nhttps://itunes.apple.com/jp/app/firstseed-calendar/id1321260278?mt=8\n\nゲスト : 株式会社firstseed  @tamadeveloper おおえのきさん\n\n2tch Swift版、iOS 11.3、Service Worker、「ウェブアプリ」か「ネイティブアプリ」か、カレンダーアプリの作り方、try! Swift 2018などについて話しました。\n\nレター\nhttp://lttr.jp/\n\nTOKYO - try! Swift Conference\nhttps://www.tryswift.co/events/2018/tokyo/jp/\n\nAST meta-programming - try! Swift Tokyo 2018\nhttps://www.icloud.com/keynote/0c0LoaS88dV7m-gS48bNiLv3A#AST_meta-programming_-_try!_Swift_Tokyo_2018",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit, tamadevel…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit, tamadeveloper\n\nスポンサー: 株式会社firstseed \nhttps://firstseed.io/jp/\n\nFirstSeed Calendar Mac版予約販売開始！\nhttps://itunes.apple.com/app/id1348617240\n\niPad版 販売開始\nhttps://itunes.apple.com/jp/app/firstseed-calendar-for-ipad/id1328927234?mt=8\n\niPhone版発売中\nhttps://itunes.apple.com/jp/app/firstseed-calendar/id1321260278?mt=8\n\nゲスト : 株式会社firstseed  @tamadeveloper おおえのきさん\n\n2tch Swift版、iOS 11.3、Service Worker、「ウェブアプリ」か「ネイティブアプリ」か、カレンダーアプリの作り方、try! Swift 2018などについて話しました。\n\nレター\nhttp://lttr.jp/\n\nTOKYO - try! Swift Conference\nhttps://www.tryswift.co/events/2018/tokyo/jp/\n\nAST meta-programming - try! Swift Tokyo 2018\nhttps://www.icloud.com/keynote/0c0LoaS88dV7m-gS48bNiLv3A#AST_meta-programming_-_try!_Swift_Tokyo_2018",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/414580944-nextstepfm-018web.m4a",
+        "@length": 100022929,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/399778923"
+      },
+      "title": "#017「吉田さんのGPUでビットコインを掘ってかつみさんに送ろう」",
+      "pubDate": "Thu, 15 Feb 2018 00:09:45 +0000",
+      "link": "https://soundcloud.com/nextstepfm/017gpu",
+      "itunes:duration": "01:27:14",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nスポンサー: 株式会社firstseed \nhttps://firstseed.io/jp/\n\nFirstSeed Calendar for iPhone\nhttps://firstseed.io/jp/calendar.html\nhttps://itunes.apple.com/app/id1321260278\n2月はアプリ内課金 600円 → 480円セール中！\n\n初スポンサーさんの初アプリのご紹介、吉田さんのGPU、Coincheckがアレした話、ブロックチェーン、RSSリーダー・リーダー回の続き、などについて話しました。\n\nThe Five Star Stories\nhttp://automaticflowers.ne.jp/fss/\n\nデジタル・ゴールド－－ビットコイン、その知られざる物語\nhttp://www.nikkeibook.com/book_detail/17601/\n\nひいきびいき 第055回「Tumblr (タンブラー) 」\nhttps://itunes.apple.com/jp/podcast/%E7%AC%AC055%E5%9B%9E-tumblr-%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC/id532841119?i=1000232839722&mt=2",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nスポンサー: 株式…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nスポンサー: 株式会社firstseed \nhttps://firstseed.io/jp/\n\nFirstSeed Calendar for iPhone\nhttps://firstseed.io/jp/calendar.html\nhttps://itunes.apple.com/app/id1321260278\n2月はアプリ内課金 600円 → 480円セール中！\n\n初スポンサーさんの初アプリのご紹介、吉田さんのGPU、Coincheckがアレした話、ブロックチェーン、RSSリーダー・リーダー回の続き、などについて話しました。\n\nThe Five Star Stories\nhttp://automaticflowers.ne.jp/fss/\n\nデジタル・ゴールド－－ビットコイン、その知られざる物語\nhttp://www.nikkeibook.com/book_detail/17601/\n\nひいきびいき 第055回「Tumblr (タンブラー) 」\nhttps://itunes.apple.com/jp/podcast/%E7%AC%AC055%E5%9B%9E-tumblr-%E3%82%BF%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC/id532841119?i=1000232839722&mt=2",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/399778923-nextstepfm-017gpu.m4a",
+        "@length": 94281506,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/370411208"
+      },
+      "title": "#16 ミニ公開録音で年末お便り特集 2017",
+      "pubDate": "Sat, 16 Dec 2017 17:00:28 +0000",
+      "link": "https://soundcloud.com/nextstepfm/16-2017a",
+      "itunes:duration": "01:42:58",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n年末お便り特集！\nミニ公開録音ということで @justin999_ @nolili @watson1978 さんにゲストでお越しいただいてワイワイお便り特集をやりました。\n\niOS/macOSのバグが最近ひどい件、Rubyの今後について、ゼルダ、今時の結婚式、かつみアサート、iOSアプリ開発入門相談、try!Swift 2018 などについて話しました。\n\n\n数年ぶりに開発合宿 – Tech.D-ITlab | Denso IT Laboratory researcher's blog sites\nhttps://tech.d-itlab.co.jp/programming/1002/\n\nGoogle検索、信頼性高い医療情報を上位に　アルゴリズム変更 - ITmedia ビジネスオンライン\nhttp://www.itmedia.co.jp/business/articles/1712/06/news125.html\n\n\n12 月 2 日になると iOS 11.0/11.1 が突然再起動を繰り返すようになった原因 - 株式会社 Zaim\nhttps://blog.zaim.net/?p=3337\n\n\nPEAKS（ピークス）｜iOS 11 Programming 発売開始！\nhttps://peaks.cc/7gano/iOS11\n\nBOOK LAB TOKYO @booklabtokyo さん（渋谷 道玄坂）で\n「iOS 11 Programming」の店舗販売始まりました！製本版を手に取ってみてから買いたい！という方是非お立ち寄りください。\nhttps://twitter.com/peaks_cc/status/940460157036666880\n\n\nかつみアサート | kishikawakatsumi/SwiftPowerAssert\nhttps://github.com/kishikawakatsumi/SwiftPowerAssert\n\n\nお便りまとめ\nhttps://togetter.com/li/1180819",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n年末お便り特集！\n…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n年末お便り特集！\nミニ公開録音ということで @justin999_ @nolili @watson1978 さんにゲストでお越しいただいてワイワイお便り特集をやりました。\n\niOS/macOSのバグが最近ひどい件、Rubyの今後について、ゼルダ、今時の結婚式、かつみアサート、iOSアプリ開発入門相談、try!Swift 2018 などについて話しました。\n\n\n数年ぶりに開発合宿 – Tech.D-ITlab | Denso IT Laboratory researcher's blog sites\nhttps://tech.d-itlab.co.jp/programming/1002/\n\nGoogle検索、信頼性高い医療情報を上位に　アルゴリズム変更 - ITmedia ビジネスオンライン\nhttp://www.itmedia.co.jp/business/articles/1712/06/news125.html\n\n\n12 月 2 日になると iOS 11.0/11.1 が突然再起動を繰り返すようになった原因 - 株式会社 Zaim\nhttps://blog.zaim.net/?p=3337\n\n\nPEAKS（ピークス）｜iOS 11 Programming 発売開始！\nhttps://peaks.cc/7gano/iOS11\n\nBOOK LAB TOKYO @booklabtokyo さん（渋谷 道玄坂）で\n「iOS 11 Programming」の店舗販売始まりました！製本版を手に取ってみてから買いたい！という方是非お立ち寄りください。\nhttps://twitter.com/peaks_cc/status/940460157036666880\n\n\nかつみアサート | kishikawakatsumi/SwiftPowerAssert\nhttps://github.com/kishikawakatsumi/SwiftPowerAssert\n\n\nお便りまとめ\nhttps://togetter.com/li/1180819",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/370411208-nextstepfm-16-2017a.m4a",
+        "@length": 111227994,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/357870191"
+      },
+      "title": "#015 RSSリーダー・リーダー",
+      "pubDate": "Sun, 19 Nov 2017 06:55:45 +0000",
+      "link": "https://soundcloud.com/nextstepfm/015-rss",
+      "itunes:duration": "01:37:43",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n2017/10/05 収録\n\nRSSをテーマに、情報共有の現在とこれから、High Sierraなどについて話しました。\n\nreeder（リーダー）\nhttp://reederapp.com/\n\nLDRが終了することについて - ogijun's blog\nhttp://ogijun.hatenablog.com/entry/on-ldr\n\n\nN+Note for NICOLA （かつみさんの親指シフトキーボードアプリ）\nhttps://itunes.apple.com/jp/app/n-note-for-nicola/id730256438?mt=8\n\n\nはてな大チェッカー\nhttps://daichkr.hatelabo.jp/\n\n\n長澤くん\nhttps://www.youtube.com/user/azenith1130\n\n珈琲専門 猫廼舎 （ねこのや）（荻野さんのコーヒーショップ）\nhttp://cafenekonoya.com/",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n2017/10/0…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n2017/10/05 収録\n\nRSSをテーマに、情報共有の現在とこれから、High Sierraなどについて話しました。\n\nreeder（リーダー）\nhttp://reederapp.com/\n\nLDRが終了することについて - ogijun's blog\nhttp://ogijun.hatenablog.com/entry/on-ldr\n\n\nN+Note for NICOLA （かつみさんの親指シフトキーボードアプリ）\nhttps://itunes.apple.com/jp/app/n-note-for-nicola/id730256438?mt=8\n\n\nはてな大チェッカー\nhttps://daichkr.hatelabo.jp/\n\n\n長澤くん\nhttps://www.youtube.com/user/azenith1130\n\n珈琲専門 猫廼舎 （ねこのや）（荻野さんのコーヒーショップ）\nhttp://cafenekonoya.com/",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/357870191-nextstepfm-015-rss.m4a",
+        "@length": 105574221,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/343672740"
+      },
+      "title": "#014 投票で作る世界",
+      "pubDate": "Sat, 23 Sep 2017 12:27:15 +0000",
+      "link": "https://soundcloud.com/nextstepfm/014a-1",
+      "itunes:duration": "01:41:34",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\niOSDC 2017 振り返り特集\n久々のお便りコーナー\n\niPhone X, Apple Watch 3, ハンズラボの発表、HEIFのライセンス問題、MetalとUIImageView、ABテスト、iOS 11 Programmingプレビュートークなどについて話しました。\n\nかつみさんの発表\nhttp://blog.kishikawakatsumi.com/entry/2017/09/18/175208\n\nソンソンさんの発表\nhttp://sonson.jp/blog/2017/09/18/iOSDC/\n\niOSDCにて「HandsPOS」についてお話ししました | ハンズラボ\nhttps://www.wantedly.com/companies/hands-lab/post_articles/33603",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\niOSDC 201…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\niOSDC 2017 振り返り特集\n久々のお便りコーナー\n\niPhone X, Apple Watch 3, ハンズラボの発表、HEIFのライセンス問題、MetalとUIImageView、ABテスト、iOS 11 Programmingプレビュートークなどについて話しました。\n\nかつみさんの発表\nhttp://blog.kishikawakatsumi.com/entry/2017/09/18/175208\n\nソンソンさんの発表\nhttp://sonson.jp/blog/2017/09/18/iOSDC/\n\niOSDCにて「HandsPOS」についてお話ししました | ハンズラボ\nhttps://www.wantedly.com/companies/hands-lab/post_articles/33603",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/343672740-nextstepfm-014a-1.m4a",
+        "@length": 98663775,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/340660590"
+      },
+      "title": "#013 投げ込みで肩を壊す",
+      "pubDate": "Sun, 03 Sep 2017 00:43:18 +0000",
+      "link": "https://soundcloud.com/nextstepfm/013a",
+      "itunes:duration": "01:24:35",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n特集: iOSDC JAPAN 2017 / 2012年のiOS\n\nスプラトゥーン2、iOSDC、パフォーマンス・チューニング、サロゲートペア、AlphaGo、iOS 11、Google Maps、ソフトウェアを内製すべき論、などについて話しました。\n\niOSDC JAPAN 2017\nhttps://iosdc.jp/2017/timetable.html\n\nパレートの法則 - Wikipedia\nhttps://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E6%B3%95%E5%89%87",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n特集: iOSDC…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n特集: iOSDC JAPAN 2017 / 2012年のiOS\n\nスプラトゥーン2、iOSDC、パフォーマンス・チューニング、サロゲートペア、AlphaGo、iOS 11、Google Maps、ソフトウェアを内製すべき論、などについて話しました。\n\niOSDC JAPAN 2017\nhttps://iosdc.jp/2017/timetable.html\n\nパレートの法則 - Wikipedia\nhttps://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E6%B3%95%E5%89%87",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/340660590-nextstepfm-013a.m4a",
+        "@length": 82180049,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/333425314"
+      },
+      "title": "#012 \"ある\" のに \"ない\" やつ",
+      "pubDate": "Sun, 16 Jul 2017 13:19:53 +0000",
+      "link": "https://soundcloud.com/nextstepfm/012e",
+      "itunes:duration": "01:24:31",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n特集 WWDC 2017 後編\n\n転職、Amazonプライムデー、水素水、神社のビジネスモデル、PEAKS、iOS 11（PDFKit, Core NFC, Core ML, ARKit）Xcode 9 などについて話しました。\n次回からまたiOSの歴史振り返りに戻ります。\n\niOS 11 Programming\nhttps://peaks.cc/iOS11\n\n\nAndroid アプリ設計パターン入門\nhttps://peaks.cc/archtecture_patterns\n\n\nかつみさんのPDFKitサンプル\nhttps://twitter.com/k_katsumi/status/882209552745111552\n\n\nPTAM\nhttp://www.robots.ox.ac.uk/~gk/PTAM/",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n特集 WWDC 2…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n特集 WWDC 2017 後編\n\n転職、Amazonプライムデー、水素水、神社のビジネスモデル、PEAKS、iOS 11（PDFKit, Core NFC, Core ML, ARKit）Xcode 9 などについて話しました。\n次回からまたiOSの歴史振り返りに戻ります。\n\niOS 11 Programming\nhttps://peaks.cc/iOS11\n\n\nAndroid アプリ設計パターン入門\nhttps://peaks.cc/archtecture_patterns\n\n\nかつみさんのPDFKitサンプル\nhttps://twitter.com/k_katsumi/status/882209552745111552\n\n\nPTAM\nhttp://www.robots.ox.ac.uk/~gk/PTAM/",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/333425314-nextstepfm-012e.m4a",
+        "@length": 82110501,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/330890203"
+      },
+      "title": "#011「70万円のGPUカードはプラグアントプレイに対応していない」",
+      "pubDate": "Fri, 30 Jun 2017 12:06:09 +0000",
+      "link": "https://soundcloud.com/nextstepfm/01170gpu",
+      "itunes:duration": "01:13:12",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は WWDC 2017特集 1回目。\n外付けGPUボックス、iMac Pro, iPad対応, 教育とプログラミング, HomePod,  iOS(iPad) のmacOS化、Core ML などについて話しました。\n\nAppleがWorkflowを買収し、アプリを700円→無料に - ITmedia NEWS\nhttp://www.itmedia.co.jp/news/articles/1703/23/news091.html\n\nOverwatch\nhttps://playoverwatch.com/en-us/\n\nクリス・ラトナー、テスラやめたってよ\nhttps://twitter.com/clattner_llvm/status/877341760812232704",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は WWDC …",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は WWDC 2017特集 1回目。\n外付けGPUボックス、iMac Pro, iPad対応, 教育とプログラミング, HomePod,  iOS(iPad) のmacOS化、Core ML などについて話しました。\n\nAppleがWorkflowを買収し、アプリを700円→無料に - ITmedia NEWS\nhttp://www.itmedia.co.jp/news/articles/1703/23/news091.html\n\nOverwatch\nhttps://playoverwatch.com/en-us/\n\nクリス・ラトナー、テスラやめたってよ\nhttps://twitter.com/clattner_llvm/status/877341760812232704",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/330890203-nextstepfm-01170gpu.m4a",
+        "@length": 79011360,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/327990402"
+      },
+      "title": "#010 俺、この戦争が終わったらAndroidやるんだ。コトリンで",
+      "pubDate": "Wed, 14 Jun 2017 08:59:58 +0000",
+      "link": "https://soundcloud.com/nextstepfm/010-android",
+      "itunes:duration": "01:26:50",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nAlphaGo、Amazonプライム・ビデオ、Google IO 2017、iOSのUnit Test、人材の流動性などについて話しました。\n今回はいつも開始前にやっている雑談を少し収録しました。iOSの歴史振り返りはありませんが、今までの振り返りを少しやっています。\n\n最強棋士・柯潔、囲碁AI「AlphaGo」に敗れる。\nhttp://wired.jp/2017/05/23/future-of-go-summit-day1/\n\n5五将棋\nhttps://ja.wikipedia.org/wiki/5%E4%BA%94%E5%B0%86%E6%A3%8B\n\n中村隆文『不合理性の哲学』 - みすず書房\nhttp://www.msz.co.jp/topics/07962/\n\nナンバーズ 天才数学者の事件ファイル | NUMBERS\nhttp://paramount.nbcuni.co.jp/numb3rs/\n\n東京女子図鑑シーズン１をAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%9B%B3%E9%91%91%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%EF%BC%91/dp/B01MRVSJ77\n\nスポンジ・ボブ1をAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%9C%E3%83%961/dp/B015AG85FK\n\n海賊戦隊ゴーカイジャーをAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E6%B5%B7%E8%B3%8A%E6%88%A6%E9%9A%8A%E3%82%B4%E3%83%BC%E3%82%AB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC/dp/B01LXUSDY6\n\nGoogle IO 2017\nhttps://techbooster.org/android/17834/\n\nかつみライブラリ\nhttps://twitter.com/k_katsumi/status/862595903793885188",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nAlphaGo、A…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nAlphaGo、Amazonプライム・ビデオ、Google IO 2017、iOSのUnit Test、人材の流動性などについて話しました。\n今回はいつも開始前にやっている雑談を少し収録しました。iOSの歴史振り返りはありませんが、今までの振り返りを少しやっています。\n\n最強棋士・柯潔、囲碁AI「AlphaGo」に敗れる。\nhttp://wired.jp/2017/05/23/future-of-go-summit-day1/\n\n5五将棋\nhttps://ja.wikipedia.org/wiki/5%E4%BA%94%E5%B0%86%E6%A3%8B\n\n中村隆文『不合理性の哲学』 - みすず書房\nhttp://www.msz.co.jp/topics/07962/\n\nナンバーズ 天才数学者の事件ファイル | NUMBERS\nhttp://paramount.nbcuni.co.jp/numb3rs/\n\n東京女子図鑑シーズン１をAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%9B%B3%E9%91%91%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%EF%BC%91/dp/B01MRVSJ77\n\nスポンジ・ボブ1をAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%9C%E3%83%961/dp/B015AG85FK\n\n海賊戦隊ゴーカイジャーをAmazonビデオ-プライム・ビデオで\nhttps://www.amazon.co.jp/%E6%B5%B7%E8%B3%8A%E6%88%A6%E9%9A%8A%E3%82%B4%E3%83%BC%E3%82%AB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC/dp/B01LXUSDY6\n\nGoogle IO 2017\nhttps://techbooster.org/android/17834/\n\nかつみライブラリ\nhttps://twitter.com/k_katsumi/status/862595903793885188",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/327990402-nextstepfm-010-android.m4a",
+        "@length": 85727529,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/322408026"
+      },
+      "title": "#009 アドリブのないポッドキャストはジャズではない",
+      "pubDate": "Sat, 13 May 2017 11:24:41 +0000",
+      "link": "https://soundcloud.com/nextstepfm/009a",
+      "itunes:duration": "01:35:08",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nSwiftの型推論問題、子供にプログラミングを教える、水草水槽で IoT 入門、現時点でのApple Watchとこれから、楽譜などについて話しました。\n今回はiOSの歴史振り返り特集はありません。\n\nグリードアイランド\nhttps://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89\n\nScratch\nhttps://scratch.mit.edu/\n\n『ルビィのぼうけん』特設サイト\nhttp://www.shoeisha.co.jp/book/rubynobouken/\n\nLOGO\nhttp://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html\n\nSqueak\nhttp://squeak.org/\n\nBREW\nhttps://ja.wikipedia.org/wiki/BREW\n\nCoderDojo Japan - 子どものためのプログラミング道場\nhttps://www.coderdojo.jp/\n\nMinecraft\nhttps://minecraft.net/ja-jp/\n\n水草水槽 / ADA - ネイチャーアクアリウムとは\nhttp://www.adana.co.jp/jp/contents/nature_aquarium/index.html\n\nArduino\nhttps://www.arduino.cc/\n\nESP8266\nhttps://en.wikipedia.org/wiki/ESP8266\n\nBluemix\nhttps://www.ibm.com/cloud-computing/bluemix\n\nXperia Touch\nhttp://www.sonymobile.co.jp/product/smartproducts/g1109/\n\n[今回の気になったアプリ]\nNotion\nhttps://itunes.apple.com/us/app/notion/id475820434?mt=8",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nSwiftの型推論…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nSwiftの型推論問題、子供にプログラミングを教える、水草水槽で IoT 入門、現時点でのApple Watchとこれから、楽譜などについて話しました。\n今回はiOSの歴史振り返り特集はありません。\n\nグリードアイランド\nhttps://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89\n\nScratch\nhttps://scratch.mit.edu/\n\n『ルビィのぼうけん』特設サイト\nhttp://www.shoeisha.co.jp/book/rubynobouken/\n\nLOGO\nhttp://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html\n\nSqueak\nhttp://squeak.org/\n\nBREW\nhttps://ja.wikipedia.org/wiki/BREW\n\nCoderDojo Japan - 子どものためのプログラミング道場\nhttps://www.coderdojo.jp/\n\nMinecraft\nhttps://minecraft.net/ja-jp/\n\n水草水槽 / ADA - ネイチャーアクアリウムとは\nhttp://www.adana.co.jp/jp/contents/nature_aquarium/index.html\n\nArduino\nhttps://www.arduino.cc/\n\nESP8266\nhttps://en.wikipedia.org/wiki/ESP8266\n\nBluemix\nhttps://www.ibm.com/cloud-computing/bluemix\n\nXperia Touch\nhttp://www.sonymobile.co.jp/product/smartproducts/g1109/\n\n[今回の気になったアプリ]\nNotion\nhttps://itunes.apple.com/us/app/notion/id475820434?mt=8",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/322408026-nextstepfm-009a.m4a",
+        "@length": 93920598,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/319078953"
+      },
+      "title": "#008 10年後、ゼルダをやる暇がある働き方ができるか",
+      "pubDate": "Sun, 23 Apr 2017 13:15:42 +0000",
+      "link": "https://soundcloud.com/nextstepfm/008-10a",
+      "itunes:duration": "01:27:02",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n働き方について、Mastodon、ZOZOTOWNのフルスクラッチ40人採用、2011年のiOS、iCloud/Dropbox、ソフトウェア特許、SNS 3.0 などについて話しました。\n\n羊をめぐる冒険\nhttps://ja.wikipedia.org/wiki/%E7%BE%8A%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E5%86%92%E9%99%BA\n\nサロゲートペア\nhttps://ja.wikipedia.org/wiki/Unicode#.E3.82.B5.E3.83.AD.E3.82.B2.E3.83.BC.E3.83.88.E3.83.9A.E3.82.A2\n\nDropbox新サービス『Infinite』の動作原理にユーザーから懸念の声。「カーネル拡張がシステムを不安定にする」 - Engadget 日本版\nhttp://japanese.engadget.com/2016/05/30/dropbox-infinite/\n\nOpenFeint\nhttps://en.wikipedia.org/wiki/OpenFeint",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n働き方について、M…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n働き方について、Mastodon、ZOZOTOWNのフルスクラッチ40人採用、2011年のiOS、iCloud/Dropbox、ソフトウェア特許、SNS 3.0 などについて話しました。\n\n羊をめぐる冒険\nhttps://ja.wikipedia.org/wiki/%E7%BE%8A%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E5%86%92%E9%99%BA\n\nサロゲートペア\nhttps://ja.wikipedia.org/wiki/Unicode#.E3.82.B5.E3.83.AD.E3.82.B2.E3.83.BC.E3.83.88.E3.83.9A.E3.82.A2\n\nDropbox新サービス『Infinite』の動作原理にユーザーから懸念の声。「カーネル拡張がシステムを不安定にする」 - Engadget 日本版\nhttp://japanese.engadget.com/2016/05/30/dropbox-infinite/\n\nOpenFeint\nhttps://en.wikipedia.org/wiki/OpenFeint",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/319078953-nextstepfm-008-10a.m4a",
+        "@length": 170652180,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/316689279"
+      },
+      "title": "#007 彼氏と別れてiPhoneの同期ができなくなった 〜母艦フリーへ",
+      "pubDate": "Sat, 08 Apr 2017 08:14:42 +0000",
+      "link": "https://soundcloud.com/nextstepfm/007-iphone",
+      "itunes:duration": "00:58:56",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nWWDC 2017、iOS 10.3、東日本大震災、2011年のiOSなどについて話しました。\n\nWWDC 2017\nhttps://developer.apple.com/wwdc/\n\nWWDC 2005 で Intel Mac発表\nhttp://pc.watch.impress.co.jp/docs/2005/0607/apple2.htm\n\nAMD Ryzen™ | AMD\nhttps://www.amd.com/en/ryzen\n\n東日本大震災での短縮URLによるサーバ負荷分散とアクセス分析\nhttp://ci.nii.ac.jp/naid/110008800356\nhttps://www-erato.ist.hokudai.ac.jp/html/php/workshop_2011_summer/inoue.pdf\n\n「Ustream」ひっそりと終了 - ITmedia ビジネスオンライン\nhttp://www.itmedia.co.jp/business/articles/1704/05/news092.html\n\nトンネル効果\nhttp://ascii.jp/elem/000/000/878/878914/index-3.html\n\n松岡聡 (計算機科学者) - Wikipedia\nhttps://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E8%81%A1_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6%E8%80%85)\n\n岩田聡氏を悼んで | 東工大ニュース | 東京工業大学\nhttp://www.titech.ac.jp/news/2015/031926.html",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nWWDC 2017…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nWWDC 2017、iOS 10.3、東日本大震災、2011年のiOSなどについて話しました。\n\nWWDC 2017\nhttps://developer.apple.com/wwdc/\n\nWWDC 2005 で Intel Mac発表\nhttp://pc.watch.impress.co.jp/docs/2005/0607/apple2.htm\n\nAMD Ryzen™ | AMD\nhttps://www.amd.com/en/ryzen\n\n東日本大震災での短縮URLによるサーバ負荷分散とアクセス分析\nhttp://ci.nii.ac.jp/naid/110008800356\nhttps://www-erato.ist.hokudai.ac.jp/html/php/workshop_2011_summer/inoue.pdf\n\n「Ustream」ひっそりと終了 - ITmedia ビジネスオンライン\nhttp://www.itmedia.co.jp/business/articles/1704/05/news092.html\n\nトンネル効果\nhttp://ascii.jp/elem/000/000/878/878914/index-3.html\n\n松岡聡 (計算機科学者) - Wikipedia\nhttps://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E8%81%A1_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6%E8%80%85)\n\n岩田聡氏を悼んで | 東工大ニュース | 東京工業大学\nhttp://www.titech.ac.jp/news/2015/031926.html",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/316689279-nextstepfm-007-iphone.m4a",
+        "@length": 58222530,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/314348274"
+      },
+      "title": "#006 そろそろiOS Hack文化最後の年",
+      "pubDate": "Sat, 25 Mar 2017 01:17:16 +0000",
+      "link": "https://soundcloud.com/nextstepfm/006-ios-hack",
+      "itunes:duration": "01:28:53",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nゼルダの伝説、Realm・SQLite・Core Data、New iPad、2010年のiOS、iOS SDK Hacks、技術書の編集、Mac App Storeのローンチ、Push通知などについて話しました。\nゲスト: @sonson_twit\n\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo\nhttps://www.nintendo.co.jp/zelda/\n\nワンダと巨像\nhttp://www.jp.playstation.com/scej/title/wander/\n\n軽量・高速モバイルデータベースRealm入門 | 菅原 祐, Realm 岸川 克己\nhttps://www.amazon.co.jp/dp/4774188484\n\nAplos\nhttp://aplos.picospec.co.jp/\n\niOS SDK Hacks\nhttps://www.oreilly.co.jp/books/9784873114729/\n\nSwift 実践入門\nhttp://gihyo.jp/book/2017/978-4-7741-8730-3\n\nBumpはGoolgeに買収されました。\nhttp://wired.jp/2013/09/17/google-buys-bump-the-smartphone-file-sharing-company/\n\n【全210個】アップルの2010年ベスト「無料」アプリランキング！\nhttp://www.appbank.net/2010/12/11/iphone-news/198523.php\n\n【全210個】アップル、2010年ベスト有料アプリランキングを発表\nhttp://www.appbank.net/2010/12/10/iphone-news/198448.php\n\nクックパッド純正iPhoneアプリがリリース ｜ softel blog 2009/11/26\nhttps://www.softel.co.jp/blogs/staff/archives/54",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nゼルダの伝説、Re…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nゼルダの伝説、Realm・SQLite・Core Data、New iPad、2010年のiOS、iOS SDK Hacks、技術書の編集、Mac App Storeのローンチ、Push通知などについて話しました。\nゲスト: @sonson_twit\n\nゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo\nhttps://www.nintendo.co.jp/zelda/\n\nワンダと巨像\nhttp://www.jp.playstation.com/scej/title/wander/\n\n軽量・高速モバイルデータベースRealm入門 | 菅原 祐, Realm 岸川 克己\nhttps://www.amazon.co.jp/dp/4774188484\n\nAplos\nhttp://aplos.picospec.co.jp/\n\niOS SDK Hacks\nhttps://www.oreilly.co.jp/books/9784873114729/\n\nSwift 実践入門\nhttp://gihyo.jp/book/2017/978-4-7741-8730-3\n\nBumpはGoolgeに買収されました。\nhttp://wired.jp/2013/09/17/google-buys-bump-the-smartphone-file-sharing-company/\n\n【全210個】アップルの2010年ベスト「無料」アプリランキング！\nhttp://www.appbank.net/2010/12/11/iphone-news/198523.php\n\n【全210個】アップル、2010年ベスト有料アプリランキングを発表\nhttp://www.appbank.net/2010/12/10/iphone-news/198448.php\n\nクックパッド純正iPhoneアプリがリリース ｜ softel blog 2009/11/26\nhttps://www.softel.co.jp/blogs/staff/archives/54",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/314348274-nextstepfm-006-ios-hack.m4a",
+        "@length": 174914867,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/311808220"
+      },
+      "title": "#005「クリス・ラトナー呼んでよ」「来ないよ」",
+      "pubDate": "Sat, 11 Mar 2017 03:54:00 +0000",
+      "link": "https://soundcloud.com/nextstepfm/005a",
+      "itunes:duration": "01:34:52",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は try! Swift 2017 特集号。\niOS 10.3b その後、try! Swiftの運営話、ハッカソン、numswなどについて話しました。ゲスト: @sonson_twit\n\nMedium\nhttps://medium.com/\n\n\n練馬 /ネリウム\nhttps://twitter.com/7gano/status/109198865219063808\n\n\nQrio Smart Lock\nhttps://qrio.me/smartlock/\n\n\nPXL（ピクセル） - モザイクアートに写真を加工しよう\nhttps://itunes.apple.com/jp/app/id1191180935?mt=8 \n\n\nTranscribe! - software to help transcribe recorded music\nhttps://www.seventhstring.com/xscribe/overview.html\n\n\nTaxnote - 白色申告/青色申告のための会計アプリ\nhttp://taxnoteapp.com/\n\n\nうめもとさん\nhttp://umenon.com/about/\n\n\n\ntry! Swiftに参加して来ました（12年ぶり一度目） – 7gano’s Weblog\nhttps://7gano.wordpress.com/2017/03/07/try-swift%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%8812%E5%B9%B4%E3%81%B6%E3%82%8A%E4%B8%80%E5%BA%A6%E7%9B%AE%EF%BC%89/\n\n\n通訳レシーバーを返してください（残り2個）\n\n\nWWDC Scholarships - Apple Developer\nhttps://developer.apple.com/wwdc/scholarships/\n\n\nsonsongithub/numsw: Swift library like numpy, playgrounds notebook like jupyter.\nhttps://github.com/sonsongithub/numsw\n\n\nBLAS\nhttps://github.com/xianyi/OpenBLAS\n\nテンソル\nhttps://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は try! …",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\n今回は try! Swift 2017 特集号。\niOS 10.3b その後、try! Swiftの運営話、ハッカソン、numswなどについて話しました。ゲスト: @sonson_twit\n\nMedium\nhttps://medium.com/\n\n\n練馬 /ネリウム\nhttps://twitter.com/7gano/status/109198865219063808\n\n\nQrio Smart Lock\nhttps://qrio.me/smartlock/\n\n\nPXL（ピクセル） - モザイクアートに写真を加工しよう\nhttps://itunes.apple.com/jp/app/id1191180935?mt=8 \n\n\nTranscribe! - software to help transcribe recorded music\nhttps://www.seventhstring.com/xscribe/overview.html\n\n\nTaxnote - 白色申告/青色申告のための会計アプリ\nhttp://taxnoteapp.com/\n\n\nうめもとさん\nhttp://umenon.com/about/\n\n\n\ntry! Swiftに参加して来ました（12年ぶり一度目） – 7gano’s Weblog\nhttps://7gano.wordpress.com/2017/03/07/try-swift%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%8812%E5%B9%B4%E3%81%B6%E3%82%8A%E4%B8%80%E5%BA%A6%E7%9B%AE%EF%BC%89/\n\n\n通訳レシーバーを返してください（残り2個）\n\n\nWWDC Scholarships - Apple Developer\nhttps://developer.apple.com/wwdc/scholarships/\n\n\nsonsongithub/numsw: Swift library like numpy, playgrounds notebook like jupyter.\nhttps://github.com/sonsongithub/numsw\n\n\nBLAS\nhttps://github.com/xianyi/OpenBLAS\n\nテンソル\nhttps://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/311808220-nextstepfm-005a.m4a",
+        "@length": 63865010,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/309459951"
+      },
+      "title": "#004 なぜKindleで買ってしまうのか",
+      "pubDate": "Sat, 25 Feb 2017 07:16:47 +0000",
+      "link": "https://soundcloud.com/nextstepfm/004-kindle",
+      "itunes:duration": "01:25:14",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\ntry! Swift のLT、iOS 10.3、サービスの作り方、2010年のiPhone、 iPad、KindleとiBookstoreなどについて話しました。\n\ntry! Swift\nhttps://www.tryswift.co/tokyo/jp\n\ntry! Swift Tokyo 2017 RejectCon 2月28日　20:00〜22:30\nhttps://rmp-quipper.connpass.com/event/49316/\n\nHandling rich text in Swift\nhttps://speakerdeck.com/kishikawakatsumi/handling-rich-text-in-swift\n\nkishikawakatsumi/KeychainAccess: Simple Swift wrapper for Keychain that works on iOS and OS X\nhttps://github.com/kishikawakatsumi/KeychainAccess\n\nレター\nhttp://lttr.jp/\n\nAngry Birds\nhttps://www.angrybirds.com/\n\nnest\nhttps://nest.com/\n\n2010年の出来事\n* Phone Core Audioプログラミング 永野 哲久 2009/11/12\n    * https://www.amazon.co.jp/dp/4797355158/\n* OpenGLで作るiPhone SDKゲームプログラミング 横江 宗太(株式会社パンカク) (著) – 2009/12/18\n    * https://www.amazon.co.jp/dp/4844328085\n* iPhoneプログラミングUIKit詳解リファレンス 所 友太 – 2010/1/12 \n    * https://www.amazon.co.jp/dp/4897978440\n* iPad が 1/27、サンフランシスコで開かれた製品発表会で発表された\n* 4/3 iPad米国で販売開始\n* 6/7のWWDCで iPhone 4 発表。6/24発売\n* 10月 Mac App Storeがアナウンス。2011/01/06 ローンチ\n* 10月 iOS SDK Hacks 発売\n    * https://www.oreilly.co.jp/books/9784873114729/\n* その他\n    * Google Buzzが出た\n        * https://en.wikipedia.org/wiki/Google_Buzz\n    * ゲゲゲの〜が流行語大賞\n\n歌うクジラ\nhttp://www.ryumurakami.com/utaukujira/\n\nPat Metheny/ブライト・サイズ・ライフ【SACDハイブリッド】\nhttp://tower.jp/item/4443539/",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\ntry! Swif…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\ntry! Swift のLT、iOS 10.3、サービスの作り方、2010年のiPhone、 iPad、KindleとiBookstoreなどについて話しました。\n\ntry! Swift\nhttps://www.tryswift.co/tokyo/jp\n\ntry! Swift Tokyo 2017 RejectCon 2月28日　20:00〜22:30\nhttps://rmp-quipper.connpass.com/event/49316/\n\nHandling rich text in Swift\nhttps://speakerdeck.com/kishikawakatsumi/handling-rich-text-in-swift\n\nkishikawakatsumi/KeychainAccess: Simple Swift wrapper for Keychain that works on iOS and OS X\nhttps://github.com/kishikawakatsumi/KeychainAccess\n\nレター\nhttp://lttr.jp/\n\nAngry Birds\nhttps://www.angrybirds.com/\n\nnest\nhttps://nest.com/\n\n2010年の出来事\n* Phone Core Audioプログラミング 永野 哲久 2009/11/12\n    * https://www.amazon.co.jp/dp/4797355158/\n* OpenGLで作るiPhone SDKゲームプログラミング 横江 宗太(株式会社パンカク) (著) – 2009/12/18\n    * https://www.amazon.co.jp/dp/4844328085\n* iPhoneプログラミングUIKit詳解リファレンス 所 友太 – 2010/1/12 \n    * https://www.amazon.co.jp/dp/4897978440\n* iPad が 1/27、サンフランシスコで開かれた製品発表会で発表された\n* 4/3 iPad米国で販売開始\n* 6/7のWWDCで iPhone 4 発表。6/24発売\n* 10月 Mac App Storeがアナウンス。2011/01/06 ローンチ\n* 10月 iOS SDK Hacks 発売\n    * https://www.oreilly.co.jp/books/9784873114729/\n* その他\n    * Google Buzzが出た\n        * https://en.wikipedia.org/wiki/Google_Buzz\n    * ゲゲゲの〜が流行語大賞\n\n歌うクジラ\nhttp://www.ryumurakami.com/utaukujira/\n\nPat Metheny/ブライト・サイズ・ライフ【SACDハイブリッド】\nhttp://tower.jp/item/4443539/",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/309459951-nextstepfm-004-kindle.m4a",
+        "@length": 57354106,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/308137777"
+      },
+      "title": "#003 かつて有料アプリでビルが建つ時代があった",
+      "pubDate": "Fri, 17 Feb 2017 01:31:08 +0000",
+      "link": "https://soundcloud.com/nextstepfm/003a",
+      "itunes:duration": "01:13:12",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nsonson_twit さんをゲストにお迎えして、2009年のiPhoneアプリ、iPhone OS 3.0、App Storeでやっていけるのかなどについて話しました。\n\nhttps://twitter.com/sonson_twit\n\n2tch\nhttps://itunes.apple.com/jp/app/2tch/id305982914?l=en&mt=8\n\nXcode 4がついにリリース。Mac App Storeで有料販売へ。\nhttps://wayohoo.com/ios/news/xcode-4-mac-app-store-pay-release.html\n\nO'Reilly Japan - iOS SDK Hacks\nhttps://www.oreilly.co.jp/books/9784873114729/\n\nMach\nhttps://ja.wikipedia.org/wiki/Mach\n\n速報レビュー iPhone OS 3.0はバージョンアップでこうなった\nhttp://k-tai.watch.impress.co.jp/cda/article/review/45830.html\n\n発表！　2009年ベストiPhoneアプリ、全30（ゲーム15）種類一挙紹介 | TechCrunch Japan\nhttp://jp.techcrunch.com/2009/12/28/20091227best-iphone-apps-2009-appvee/\n\niPhoneアプリ2008年トップテンをAppleが発表 | TechCrunch Japan\nhttp://jp.techcrunch.com/2008/12/04/20081202apple-announces-top-10-iphone-app-downloads-of-2008/\n\n2009年ベストiPhoneアプリのまとめ93個！ | AppBank – iPhone, スマホのたのしみを見つけよう\nhttp://www.appbank.net/2009/11/20/iphone-application/67216.php\n\nぐんまのやぼう\nhttps://itunes.apple.com/jp/app/gunmanoyabou/id517048771?mt=8\n\nIt’s almost time to say goodbye\nhttp://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye\n\nMicrosoft HoloLens | Official Site\nhttps://www.microsoft.com/microsoft-hololens/en-us\n\nPS VRのバイオハザード\nhttp://www.capcom.co.jp/biohazard7/",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nsonson_tw…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nsonson_twit さんをゲストにお迎えして、2009年のiPhoneアプリ、iPhone OS 3.0、App Storeでやっていけるのかなどについて話しました。\n\nhttps://twitter.com/sonson_twit\n\n2tch\nhttps://itunes.apple.com/jp/app/2tch/id305982914?l=en&mt=8\n\nXcode 4がついにリリース。Mac App Storeで有料販売へ。\nhttps://wayohoo.com/ios/news/xcode-4-mac-app-store-pay-release.html\n\nO'Reilly Japan - iOS SDK Hacks\nhttps://www.oreilly.co.jp/books/9784873114729/\n\nMach\nhttps://ja.wikipedia.org/wiki/Mach\n\n速報レビュー iPhone OS 3.0はバージョンアップでこうなった\nhttp://k-tai.watch.impress.co.jp/cda/article/review/45830.html\n\n発表！　2009年ベストiPhoneアプリ、全30（ゲーム15）種類一挙紹介 | TechCrunch Japan\nhttp://jp.techcrunch.com/2009/12/28/20091227best-iphone-apps-2009-appvee/\n\niPhoneアプリ2008年トップテンをAppleが発表 | TechCrunch Japan\nhttp://jp.techcrunch.com/2008/12/04/20081202apple-announces-top-10-iphone-app-downloads-of-2008/\n\n2009年ベストiPhoneアプリのまとめ93個！ | AppBank – iPhone, スマホのたのしみを見つけよう\nhttp://www.appbank.net/2009/11/20/iphone-application/67216.php\n\nぐんまのやぼう\nhttps://itunes.apple.com/jp/app/gunmanoyabou/id517048771?mt=8\n\nIt’s almost time to say goodbye\nhttp://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye\n\nMicrosoft HoloLens | Official Site\nhttps://www.microsoft.com/microsoft-hololens/en-us\n\nPS VRのバイオハザード\nhttp://www.capcom.co.jp/biohazard7/",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/308137777-nextstepfm-003a.m4a",
+        "@length": 49235484,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/306968570"
+      },
+      "title": "#002 ロードバイクで箱根を目指す",
+      "pubDate": "Thu, 09 Feb 2017 23:24:52 +0000",
+      "link": "https://soundcloud.com/nextstepfm/002a",
+      "itunes:duration": "00:56:16",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi, sonson_twit\n\nロードバイク、2008年のiPhone アプリ、仕事観などについて話しました。\n\n（レコーダーの問題で謎のノイズが乗ってしまったので、ひどい部分半分ぐらいカットになってしまいました + 音質が少し悪くなっています）\n\nhttps://www.strava.com/\n\nhttp://www.cyclemeter.com/\n\npotatotips\nhttps://potatotips.connpass.com/\n\nhttps://7gano.wordpress.com/2014/02/20/potatotips%E3%81%A8%E3%81%84%E3%81%86iosandroid%E3%81%AEtips%E3%82%92%E8%A9%B1%E3%81%99%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/\n\n@sonson_twit\nhttps://twitter.com/sonson_twit\n\n2tch\nhttps://itunes.apple.com/jp/app/2tch/id305982914?l=ja&ign-mpt=uo%3D8\n\nPocketGuitar\nhttps://itunes.apple.com/jp/app/pocketguitar-pokettogita/id287965124?mt=8\n\nFingerPiano Plus\nhttps://itunes.apple.com/jp/app/fingerpiano-plus/id423578878?l=en&mt=8\n\n大辞林\nhttps://itunes.apple.com/jp/app/da-ci-lin/id299029654?mt=8\n\nLCD Clock\nhttps://itunes.apple.com/jp/app/lcd-clock/id295737235?mt=8",
+      "itunes:subtitle": "Starring:7gano, k_katsumi, sonson_twit\n\nロードバイク、20…",
+      "description": "Starring:7gano, k_katsumi, sonson_twit\n\nロードバイク、2008年のiPhone アプリ、仕事観などについて話しました。\n\n（レコーダーの問題で謎のノイズが乗ってしまったので、ひどい部分半分ぐらいカットになってしまいました + 音質が少し悪くなっています）\n\nhttps://www.strava.com/\n\nhttp://www.cyclemeter.com/\n\npotatotips\nhttps://potatotips.connpass.com/\n\nhttps://7gano.wordpress.com/2014/02/20/potatotips%E3%81%A8%E3%81%84%E3%81%86iosandroid%E3%81%AEtips%E3%82%92%E8%A9%B1%E3%81%99%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/\n\n@sonson_twit\nhttps://twitter.com/sonson_twit\n\n2tch\nhttps://itunes.apple.com/jp/app/2tch/id305982914?l=ja&ign-mpt=uo%3D8\n\nPocketGuitar\nhttps://itunes.apple.com/jp/app/pocketguitar-pokettogita/id287965124?mt=8\n\nFingerPiano Plus\nhttps://itunes.apple.com/jp/app/fingerpiano-plus/id423578878?l=en&mt=8\n\n大辞林\nhttps://itunes.apple.com/jp/app/da-ci-lin/id299029654?mt=8\n\nLCD Clock\nhttps://itunes.apple.com/jp/app/lcd-clock/id295737235?mt=8",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/306968570-nextstepfm-002a.m4a",
+        "@length": 36864014,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/304428693"
+      },
+      "title": "#001 ゲームは1日30分までにしてギターを練習しよう",
+      "pubDate": "Wed, 25 Jan 2017 10:58:41 +0000",
+      "link": "https://soundcloud.com/nextstepfm/001-130a",
+      "itunes:duration": "00:49:03",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi\n\ntry! Swift、スーパーマリオラン、現代ジャズ、iOSデバイスとギターなどについて話しました。\n[特集] iPhoneの歴史 2007年〜\n初代iPhone、初代iPod Touch、iPhone OS 2.0, 3.0 について\n\ntry! Swift Tokyo 2017\nhttps://www.tryswift.co/tokyo/jp\n\nミニオンズ パラダイス\nhttps://itunes.apple.com/jp/app/minionzu-paradaisu/id922318156?mt=8\n\nBlack Radio/Robert Glasper\nhttps://itunes.apple.com/jp/album/black-radio/id715688849#\n\nMike Moreno & Jon Cowherd Duo\nhttps://www.youtube.com/watch?v=zjROFw_cneA&t=534s\n\nベイ・シュー \nhttps://itunes.apple.com/jp/artist/bei-shu/id262506451#\n\n武蔵野スイングホール\nhttp://www.musashino-culture.or.jp/sisetu/swing/top.html\n\nギターをiPhoneに繋ぐ APOGEE JAM 96k\nhttp://www.apogeedigital.jp/product/jam-96k\n\nレーテンシー\nhttp://yamaha.custhelp.com/app/answers/detail/a_id/2642/~/%E3%80%90steinberg%E5%85%B1%E9%80%9A%E3%80%91%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F\n\nObjective-Audio\nhttp://objective-audio.jp/\n\niTunesのPodcast登録しました。\nhttps://itunes.apple.com/jp/podcast/nextstep.fm/id1195728207?l=en&mt=2\n\nスコットさんのシュレッダー\nhttps://www.youtube.com/watch?v=K-HJy4zqgLQ&feature=youtu.be&t=61\n\nIAMAS\nhttp://www.iamas.ac.jp/\n\nProgramming with Quartz\nhttps://www.amazon.co.jp/dp/B005Q9C8HI/\n\nジェイルブレイク\nhttps://ja.wikipedia.org/wiki/Jailbreak\n\nMac OS X v10.5 Leopard から Core Animationが搭載（2007年10月26日 リリース）\nhttps://ja.wikipedia.org/wiki/Mac_OS_X_v10.5",
+      "itunes:subtitle": "Starring:7gano, k_katsumi\n\ntry! Swift、スーパーマリオラン、現…",
+      "description": "Starring:7gano, k_katsumi\n\ntry! Swift、スーパーマリオラン、現代ジャズ、iOSデバイスとギターなどについて話しました。\n[特集] iPhoneの歴史 2007年〜\n初代iPhone、初代iPod Touch、iPhone OS 2.0, 3.0 について\n\ntry! Swift Tokyo 2017\nhttps://www.tryswift.co/tokyo/jp\n\nミニオンズ パラダイス\nhttps://itunes.apple.com/jp/app/minionzu-paradaisu/id922318156?mt=8\n\nBlack Radio/Robert Glasper\nhttps://itunes.apple.com/jp/album/black-radio/id715688849#\n\nMike Moreno & Jon Cowherd Duo\nhttps://www.youtube.com/watch?v=zjROFw_cneA&t=534s\n\nベイ・シュー \nhttps://itunes.apple.com/jp/artist/bei-shu/id262506451#\n\n武蔵野スイングホール\nhttp://www.musashino-culture.or.jp/sisetu/swing/top.html\n\nギターをiPhoneに繋ぐ APOGEE JAM 96k\nhttp://www.apogeedigital.jp/product/jam-96k\n\nレーテンシー\nhttp://yamaha.custhelp.com/app/answers/detail/a_id/2642/~/%E3%80%90steinberg%E5%85%B1%E9%80%9A%E3%80%91%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F\n\nObjective-Audio\nhttp://objective-audio.jp/\n\niTunesのPodcast登録しました。\nhttps://itunes.apple.com/jp/podcast/nextstep.fm/id1195728207?l=en&mt=2\n\nスコットさんのシュレッダー\nhttps://www.youtube.com/watch?v=K-HJy4zqgLQ&feature=youtu.be&t=61\n\nIAMAS\nhttp://www.iamas.ac.jp/\n\nProgramming with Quartz\nhttps://www.amazon.co.jp/dp/B005Q9C8HI/\n\nジェイルブレイク\nhttps://ja.wikipedia.org/wiki/Jailbreak\n\nMac OS X v10.5 Leopard から Core Animationが搭載（2007年10月26日 リリース）\nhttps://ja.wikipedia.org/wiki/Mac_OS_X_v10.5",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/304428693-nextstepfm-001-130a.m4a",
+        "@length": 48440177,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/302957379"
+      },
+      "title": "#000 アリエールとエリエール",
+      "pubDate": "Mon, 16 Jan 2017 11:49:26 +0000",
+      "link": "https://soundcloud.com/nextstepfm/nextstepfm-000",
+      "itunes:duration": "00:28:35",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:7gano, k_katsumi\n\n自己紹介して、Amazon Dash、iPhoneの2007年〜2008年のApp Storeローンチの時に何をやっていたか、などについて話しました。\n\nhttps://realm.io/\n\nはてなキーワード一覧ファイル\nhttp://developer.hatena.ne.jp/ja/documents/keyword/misc/catalog\n\niPhone Core Audio プログラミング\nhttps://www.amazon.co.jp/dp/4797355158/\n\nkishikawakatsumi/KeychainAccess\nhttps://github.com/kishikawakatsumi/KeychainAccess\n\nはてな専用iPhoneアプリ、「はてな touch」をリリースしました。\nhttp://blog.kishikawakatsumi.com/entry/20080914/1221382821",
+      "itunes:subtitle": "Starring:7gano, k_katsumi\n\n自己紹介して、Amazon Dash、iPh…",
+      "description": "Starring:7gano, k_katsumi\n\n自己紹介して、Amazon Dash、iPhoneの2007年〜2008年のApp Storeローンチの時に何をやっていたか、などについて話しました。\n\nhttps://realm.io/\n\nはてなキーワード一覧ファイル\nhttp://developer.hatena.ne.jp/ja/documents/keyword/misc/catalog\n\niPhone Core Audio プログラミング\nhttps://www.amazon.co.jp/dp/4797355158/\n\nkishikawakatsumi/KeychainAccess\nhttps://github.com/kishikawakatsumi/KeychainAccess\n\nはてな専用iPhoneアプリ、「はてな touch」をリリースしました。\nhttp://blog.kishikawakatsumi.com/entry/20080914/1221382821",
+      "enclosure": {
+        "@type": "audio/x-m4a",
+        "@url": "https://feeds.soundcloud.com/stream/302957379-nextstepfm-nextstepfm-000.m4a",
+        "@length": 56102937,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    }
+  ]
+}
