@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 19 Oct 2022 23:33:21 +0000",
+  "lastBuildDate": "Fri, 28 Oct 2022 11:14:37 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#102: Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow",
+      "link": "https://misreading.chat/2022/10/26/102-do-developers-really-know-how-to-use-git-commands-a-large-scale-study-using-stack-overflow/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Thu, 27 Oct 2022 00:27:29 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=797"
+      },
+      "description": "向井が Git の難しさに見識を深めました。",
+      "content:encoded": "<p><a href=\"https://twitter.com/jmuk\">向井</a>が Git の難しさに見識を深めました。感想などはハッシュタグ&nbsp;<a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>&nbsp;や&nbsp;<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>&nbsp;にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/10/ep102.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://scholar.google.com/scholar?cluster=3447358015313179100&hl=en&as_sdt=0,5\">Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow</a> (Paper)</li>\n\n\n\n<li><a href=\"https://neverworkintheory.org/2022/09/19/developer-git-knowledge.html\">Do Developers Really Know How to Use Git Commands? · It Will Never Work in Theory</a></li>\n</ul>\n\n\n\n<p></p>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/10/ep102.mp3",
+        "@length": 33111453,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2759,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "向井が Git の難しさに見識を深めました。",
+      "googleplay:description": "向井が Git の難しさに見識を深めました。",
+      "itunes:subtitle": "向井が Git の難しさに見識を深めました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#101: Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics",
       "link": "https://misreading.chat/2022/10/19/101-lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics/",

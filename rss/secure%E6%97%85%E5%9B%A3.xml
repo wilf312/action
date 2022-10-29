@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/secure-fm</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 18 Oct 2022 15:39:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Oct 2022 23:33:58 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/2607ca1c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Secure旅団]]></author>
 		<copyright><![CDATA[Secure旅団]]></copyright>
@@ -25,6 +25,72 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+		<item>
+			<title><![CDATA[NW機器の管理インターフェースの公開の何がまずいかとか、マルチクラウドと脆弱性の話とか]]></title>
+			<description><![CDATA[<p>(収録日: 2022/10/18)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>雑談</li>
+ <li>Fortinetの脆弱性</li>
+ <li>ネットワークの管理IFはなぜ気をつけたいのか（どういう場合に）z</li>
+ <li>パッチマネジメント</li>
+  <li>脆弱性とCloud misconfigurationとマルチクラウド</li>
+  <li>ノーコードの利用者の幅がひろがりつつ、そのリスクをケアできているか</li>
+  <li>今週の積ん読</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li>https://www.jpcert.or.jp/at/2022/at220025.html</li>
+  <li>https://jpn.nec.com/cybersecurity/blog/220826/index.html</li>
+</ul>
+<p>#積ん読</p>
+<ul>
+  <li>詳解Go言語Webアプリケーション開発: https://www.amazon.co.jp/dp/B0B62K55SL</li>
+  <li>APIを作りながら進むGo中級者への道: https://techbookfest.org/product/jXDAEU1dR53kbZkgtDm9zx</li>
+  <li>事業をエンジニアリングする技術者たち ― フルサイクル開発者がつくるCARTAの現場: https://www.amazon.co.jp/dp/4908686157</li>
+</ul>
+<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>
+<p># &nbsp;ジングル: @hajipion</p>
+]]></description>
+			<link>https://anchor.fm/secure-fm/episodes/NW-e1pnqa1</link>
+			<guid isPermaLink="false">76678111-e6b1-4082-a955-3b423474620e</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Tue, 25 Oct 2022 23:30:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/59549441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-25%2Fb1812ca5-d72f-e554-197f-bc3a1bae849b.mp3" length="57732098" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2022/10/18)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団 &amp;nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;雑談&lt;/li&gt;
+ &lt;li&gt;Fortinetの脆弱性&lt;/li&gt;
+ &lt;li&gt;ネットワークの管理IFはなぜ気をつけたいのか（どういう場合に）z&lt;/li&gt;
+ &lt;li&gt;パッチマネジメント&lt;/li&gt;
+  &lt;li&gt;脆弱性とCloud misconfigurationとマルチクラウド&lt;/li&gt;
+  &lt;li&gt;ノーコードの利用者の幅がひろがりつつ、そのリスクをケアできているか&lt;/li&gt;
+  &lt;li&gt;今週の積ん読&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://www.jpcert.or.jp/at/2022/at220025.html&lt;/li&gt;
+  &lt;li&gt;https://jpn.nec.com/cybersecurity/blog/220826/index.html&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;詳解Go言語Webアプリケーション開発: https://www.amazon.co.jp/dp/B0B62K55SL&lt;/li&gt;
+  &lt;li&gt;APIを作りながら進むGo中級者への道: https://techbookfest.org/product/jXDAEU1dR53kbZkgtDm9zx&lt;/li&gt;
+  &lt;li&gt;事業をエンジニアリングする技術者たち ― フルサイクル開発者がつくるCARTAの現場: https://www.amazon.co.jp/dp/4908686157&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;# &amp;nbsp;ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[MINI Hardening meets BSIDES SINGAPORE]]></title>
 			<description><![CDATA[<p>(収録日: 2022/09/05)</p>

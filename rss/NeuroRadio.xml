@@ -11,7 +11,7 @@
 			<link>https://neuroradio.tokyo</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 23 Oct 2022 05:24:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Oct 2022 02:16:37 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/4ddf5488/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[NeuroRadio]]></author>
 		<copyright><![CDATA[NeuroRadio]]></copyright>
@@ -31,6 +31,96 @@
 			<itunes:category text="Life Sciences"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+		<item>
+			<title><![CDATA[#49 Memento Mori]]></title>
+			<description><![CDATA[<p>ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)</p>
+<p>Show Notes:</p>
+<ul>
+ <li>Eve Marderの新作<a href="https://elifesciences.org/articles/82928"><u> The Complement Sandwich</u></a></li>
+ <li><a href="https://doi.org/10.1016/j.cell.2022.09.032"><u>感染した場合は180日後くらいの方が抗体価上がる</u></a></li>
+ <li><a href="https://asconacircuits.org/">ASCONA meeting</a></li>
+ <li><a href="https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/"><u>アメリカ政権のオープンアクセスMandatory</u></a></li>
+ <li><a href="https://www.science.org/doi/10.1126/science.ade8028"><u>AAASのプレプリントに対するポリシー&nbsp;</u></a></li>
+ <li><a href="https://www.science.org/doi/10.1126/science.abh4340"><u>DIANA論文</u></a></li>
+  <li><a href="https://www.youtube.com/watch?v=WY8z35p1C1M"><u>Abema Primeのひろゆき全推し回、YouTube</u></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627308010957"><u>Mさん（Henry Molaison）について、ラリースクアイアによる追悼記事</u></a></li>
+  <li><a href="https://www.nature.com/articles/ncomms4122"><u>Henry Molaisonは海馬じゃなくてエントライナルが飛んでた</u></a></li>
+  <li><a href="https://www.youtube.com/watch?v=4CV41hoyS8A"><u>メメント</u></a></li>
+  <li>論文１・Samborska et al.,<a href="https://www.nature.com/articles/s41593-022-01149-8"> <u>Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems</u></a></li>
+  <li>論文２・CellREADR論文：<a href="https://www.nature.com/articles/s41586-022-05280-1"><u>Programmable RNA sensing for cell monitoring and manipulation</u></a></li>
+  <li><a href="https://www.nature.com/articles/nature24041"><u>内在性ADARの発現</u></a>：HEKは1を多く発現して2,3を発現しないらしい。 組織ごとにEditを受ける場所が違うんだとか。</li>
+  <li><a href="https://www.nobelprize.org/prizes/medicine/2022/press-release/"><u>ペーボ取りましたね、ノーベル賞</u></a></li>
+  <li>RADAR論文(RNA sensors using ADAR)：<a href="https://www.nature.com/articles/s41587-022-01493-x"><u>Modular, programmable RNA sensing using ADAR editing in living cells</u></a></li>
+  <li>RADARS論文(Reprogrammable ADAR Sensors)：<a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477951v1"><u>Programmable eukaryotic protein expression with RNA sensors</u></a></li>
+  <li>論文３・<a href="https://www.science.org/doi/10.1126/sciadv.abn0954"><u>Orientation pinwheels in primary visual cortex of a highly visual marsupial</u></a></li>
+  <li>数年前に書いた<a href="https://www.frontiersin.org/articles/10.3389/fnsys.2020.00010/full"><u>レビュー</u></a></li>
+  <li>論文４・<a href="https://www.nature.com/articles/s41592-022-01547-7"><u>Directed evolution of adeno-associated virus for efficient gene delivery to microglia</u></a></li>
+  <li><a href="https://www.addgene.org/browse/article/28225108/"><u>Addgeneでカプシドをコードしているプラスミドが入手可能</u></a></li>
+  <li>論文５・<a href="https://doi.org/10.1016/j.neuron.2022.09.033"><u>Next-generation brain observatories</u></a></li>
+  <li><a href="https://www.nature.com/articles/483397a"><u>Observatory of the mind</u></a></li>
+  <li><a href="https://www.nature.com/articles/s41593-019-0550-9"><u>Saskia de Vries et al.</u></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-020-03171-x"><u>Joshua H. Siegle et al.</u></a></li>
+  <li><a href="https://www.nwb.org/"><u>Neural Data Without Borders</u></a></li>
+  <li><a href="https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/"><u>Mindscope</u></a></li>
+  <li>論文６・<a href="https://www.science.org/doi/10.1126/science.abo7651"><u>Real-time dynamic single-molecule protein sequencing on an integrated semiconductor device</u></a></li>
+  <li><a href="https://www.science.org/doi/full/10.1126/science.abl4381"><u>DNAとヘリケースを使ってre-readしてfidelityを上げる</u></a></li>
+</ul>
+<p>Editorial notes:</p>
+<ul>
+  <li>CellREADR/RADAR/RADARS、延びる棒、のアイデアがラボ間でどうshareされていったのか（あるいはされていないのか）、ご存知の方はコッソリ教えてください笑（脇）</li>
+  <li>収録中に論文のタイトルコールしてないの不親切で悪い癖ですね...以後気をつけます。(萩)</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/49-Memento-Mori-e1pjc93</link>
+			<guid isPermaLink="false">4f985ace-a50d-483d-8862-ebdaf25022a1</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Mon, 24 Oct 2022 02:13:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/59404003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-23%2F94f85c86-f646-4fdd-1c6b-f415bbdc7464.mp3" length="218877113" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Eve Marderの新作&lt;a href=&quot;https://elifesciences.org/articles/82928&quot;&gt;&lt;u&gt; The Complement Sandwich&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2022.09.032&quot;&gt;&lt;u&gt;感染した場合は180日後くらいの方が抗体価上がる&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://asconacircuits.org/&quot;&gt;ASCONA meeting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/&quot;&gt;&lt;u&gt;アメリカ政権のオープンアクセスMandatory&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.ade8028&quot;&gt;&lt;u&gt;AAASのプレプリントに対するポリシー&amp;nbsp;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abh4340&quot;&gt;&lt;u&gt;DIANA論文&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=WY8z35p1C1M&quot;&gt;&lt;u&gt;Abema Primeのひろゆき全推し回、YouTube&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627308010957&quot;&gt;&lt;u&gt;Mさん（Henry Molaison）について、ラリースクアイアによる追悼記事&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/ncomms4122&quot;&gt;&lt;u&gt;Henry Molaisonは海馬じゃなくてエントライナルが飛んでた&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4CV41hoyS8A&quot;&gt;&lt;u&gt;メメント&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文１・Samborska et al.,&lt;a href=&quot;https://www.nature.com/articles/s41593-022-01149-8&quot;&gt; &lt;u&gt;Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文２・CellREADR論文：&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05280-1&quot;&gt;&lt;u&gt;Programmable RNA sensing for cell monitoring and manipulation&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature24041&quot;&gt;&lt;u&gt;内在性ADARの発現&lt;/u&gt;&lt;/a&gt;：HEKは1を多く発現して2,3を発現しないらしい。 組織ごとにEditを受ける場所が違うんだとか。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2022/press-release/&quot;&gt;&lt;u&gt;ペーボ取りましたね、ノーベル賞&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RADAR論文(RNA sensors using ADAR)：&lt;a href=&quot;https://www.nature.com/articles/s41587-022-01493-x&quot;&gt;&lt;u&gt;Modular, programmable RNA sensing using ADAR editing in living cells&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RADARS論文(Reprogrammable ADAR Sensors)：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2022.01.26.477951v1&quot;&gt;&lt;u&gt;Programmable eukaryotic protein expression with RNA sensors&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文３・&lt;a href=&quot;https://www.science.org/doi/10.1126/sciadv.abn0954&quot;&gt;&lt;u&gt;Orientation pinwheels in primary visual cortex of a highly visual marsupial&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;数年前に書いた&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fnsys.2020.00010/full&quot;&gt;&lt;u&gt;レビュー&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文４・&lt;a href=&quot;https://www.nature.com/articles/s41592-022-01547-7&quot;&gt;&lt;u&gt;Directed evolution of adeno-associated virus for efficient gene delivery to microglia&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.addgene.org/browse/article/28225108/&quot;&gt;&lt;u&gt;Addgeneでカプシドをコードしているプラスミドが入手可能&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文５・&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2022.09.033&quot;&gt;&lt;u&gt;Next-generation brain observatories&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/483397a&quot;&gt;&lt;u&gt;Observatory of the mind&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-019-0550-9&quot;&gt;&lt;u&gt;Saskia de Vries et al.&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-020-03171-x&quot;&gt;&lt;u&gt;Joshua H. Siegle et al.&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nwb.org/&quot;&gt;&lt;u&gt;Neural Data Without Borders&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/&quot;&gt;&lt;u&gt;Mindscope&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文６・&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abo7651&quot;&gt;&lt;u&gt;Real-time dynamic single-molecule protein sequencing on an integrated semiconductor device&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/full/10.1126/science.abl4381&quot;&gt;&lt;u&gt;DNAとヘリケースを使ってre-readしてfidelityを上げる&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CellREADR/RADAR/RADARS、延びる棒、のアイデアがラボ間でどうshareされていったのか（あるいはされていないのか）、ご存知の方はコッソリ教えてください笑（脇）&lt;/li&gt;
+  &lt;li&gt;収録中に論文のタイトルコールしてないの不親切で悪い癖ですね...以後気をつけます。(萩)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>03:02:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#48 In search of thalamo-cortical computational principles]]></title>
 			<description><![CDATA[<p>We sat down with Lukas Ian Schmitt (<a href="https://twitter.com/lucidians">@lucidianS)</a>, a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)</p>

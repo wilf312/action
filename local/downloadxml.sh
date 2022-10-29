@@ -316,8 +316,8 @@
           curl https://mosa.fm/feed.xml --compressed > rss/mosafm.xml
 
           # dex.fm
-          echo 'https://dex.fm/rss'
-          curl https://dex.fm/rss --compressed > rss/dexfm.xml
+          echo 'https://dexfm.tumblr.com/rss'
+          curl https://dexfm.tumblr.com/rss --compressed > rss/dexfm.xml
 
           # #strobofm
           echo 'https://feeds.feedburner.com/strobofm'

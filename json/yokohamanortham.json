@@ -1,6 +1,6 @@
 {
   "title": "Yokohama North AM",
-  "description": "IT Tech Talk \nTwitch Live https://www.twitch.tv/hanhan1978 every Thursday at 21:00 (JST)",
+  "description": "IT Tech Talk \nTwitch Live https://www.youtube.com/channel/UCYsoCLlENgV6YjvvGDRiVJg every Thursday at 21:00 (JST)",
   "link": "https://blog.hanhans.net",
   "image": {
     "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4996564/4996564-1588838510766-1b144b8f8f861.jpg",
@@ -25,7 +25,7 @@
   "copyright": "Ryo Tomidokoro",
   "language": "ja",
   "itunes:author": "Ryo Tomidokoro",
-  "itunes:summary": "IT Tech Talk \nTwitch Live https://www.twitch.tv/hanhan1978 every Thursday at 21:00 (JST)",
+  "itunes:summary": "IT Tech Talk \nTwitch Live https://www.youtube.com/channel/UCYsoCLlENgV6YjvvGDRiVJg every Thursday at 21:00 (JST)",
   "itunes:type": "episodic",
   "itunes:owner": {
     "itunes:name": "Ryo Tomidokoro",
@@ -44,6 +44,33 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "ep 80 @akase244 @blue_goheimochiと転職、ごぼう茶、キャンプについて",
+      "description": "<p>ゲスト @akase244, @blue_goheimochi</p>\n<p>転職活動の話</p>\n<p><a href=\"https://blue-goheimochi.hatenablog.com/entry/202210_joined_linkage\" target=\"_blank\">株式会社リンケージに入社しました</a> 🏢 - 終電23時11分って早くね？&nbsp;</p>\n<p><br></p>\n<p>リモート勤務における「銀の弾丸」</p>\n<p><a href=\"https://www.ahjikan-shop.com/okage/\">あじかん焙煎ごぼう茶プレミアムブレンド ごぼうのおかげ - あじかん美食生活 公式通販サイト</a>&nbsp;</p>\n<p><br></p>\n<p>道具は無いがキャンプに行きたい</p>\n<p><a href=\"https://www.snowpeak.co.jp/sp/teburacamp/\">手ぶらキャンプ by Snow Peak | スノーピーク ＊ Snow Peak</a>&nbsp;</p>",
+      "link": "https://anchor.fm/yokohama-north-am/episodes/ep-80-akase244-blue_goheimochi-e1prc1j",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8ec06888-37bf-485d-a8dc-89020edc7dbe"
+      },
+      "dc:creator": "Ryo Tomidokoro",
+      "pubDate": "Thu, 27 Oct 2022 15:00:53 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/1e60bd50/podcast/play/59665907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2F0a94263a-18ec-fddf-5c54-44d56a65f5cf.mp3",
+        "@length": 58969089,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ゲスト @akase244, @blue_goheimochi</p>\n<p>転職活動の話</p>\n<p><a href=\"https://blue-goheimochi.hatenablog.com/entry/202210_joined_linkage\" target=\"_blank\">株式会社リンケージに入社しました</a> 🏢 - 終電23時11分って早くね？&nbsp;</p>\n<p><br></p>\n<p>リモート勤務における「銀の弾丸」</p>\n<p><a href=\"https://www.ahjikan-shop.com/okage/\">あじかん焙煎ごぼう茶プレミアムブレンド ごぼうのおかげ - あじかん美食生活 公式通販サイト</a>&nbsp;</p>\n<p><br></p>\n<p>道具は無いがキャンプに行きたい</p>\n<p><a href=\"https://www.snowpeak.co.jp/sp/teburacamp/\">手ぶらキャンプ by Snow Peak | スノーピーク ＊ Snow Peak</a>&nbsp;</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:04:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/4996564/4996564-1666882836409-2a2ec69b51fc5.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 80,
+      "itunes:episodeType": "full"
+    },
     {
       "title": "ep 79 @kentaroと社会人大学院、Elixir について",
       "description": "<ul>\n <li><a href=\"https://www.jaist.ac.jp/index.html\" target=\"_blank\">JAIST 北陸先端科学技術大学院大学</a>&nbsp;</li>\n <li><a href=\"https://elixir-lang.jp/\" target=\"_blank\">Elixir</a>&nbsp;</li>\n <li><a href=\"https://podcasts.apple.com/us/podcast/antipop-fm/id1616592596\" target=\"_blank\">antipop.fm on Apple Podcasts</a>&nbsp;</li>\n <li><a href=\"https://www.itmedia.co.jp/news/articles/2206/24/news128.html\" target=\"_blank\">世界中のIT技術者から愛されているプログラミング言語　3位は「Clojure」、2位は「Elixir」　1位は？　Stack Overflow調べ</a> &nbsp;</li>\n</ul>",

@@ -16,7 +16,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 	<atom:link href="https://misreading.chat/category/episodes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://misreading.chat</link>
 	<description>会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。</description>
-	<lastBuildDate>Wed, 19 Oct 2022 23:33:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 11:14:37 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,6 +37,58 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:image href='https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?fit=3000%2C3000' />
 <itunes:category text='Technology' />
 	<item>
+		<title>#102: Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow</title>
+		<link>https://misreading.chat/2022/10/26/102-do-developers-really-know-how-to-use-git-commands-a-large-scale-study-using-stack-overflow/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:27:29 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=797</guid>
+
+					<description><![CDATA[向井が Git の難しさに見識を深めました。]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://twitter.com/jmuk">向井</a>が Git の難しさに見識を深めました。感想などはハッシュタグ&nbsp;<a href="https://twitter.com/search?q=%23misreading%20lang%3Aja">#misreading</a>&nbsp;や&nbsp;<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>&nbsp;にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2022/10/ep102.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://scholar.google.com/scholar?cluster=3447358015313179100&amp;hl=en&amp;as_sdt=0,5">Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow</a> (Paper)</li>
+
+
+
+<li><a href="https://neverworkintheory.org/2022/09/19/developer-git-knowledge.html">Do Developers Really Know How to Use Git Commands? · It Will Never Work in Theory</a></li>
+</ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2022/10/ep102.mp3" length="33111453" type="audio/mpeg" />
+<itunes:duration>2759</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>向井が Git の難しさに見識を深めました。</itunes:summary>
+<googleplay:description>向井が Git の難しさに見識を深めました。</googleplay:description>
+<itunes:subtitle>向井が Git の難しさに見識を深めました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>#101: Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics</title>
 		<link>https://misreading.chat/2022/10/19/101-lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics/</link>
 		
