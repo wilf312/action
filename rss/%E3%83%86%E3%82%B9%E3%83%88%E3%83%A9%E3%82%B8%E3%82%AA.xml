@@ -15,7 +15,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://testradio.fm/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://testradio.fm</link>
 	<description></description>
-	<lastBuildDate>Sun, 16 Oct 2022 23:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Oct 2022 23:00:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -53,6 +53,29 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:location>Tokyo, Japan</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 <site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第220回 テストラジオ ホテルで体験した不具合の話について語ります！</title>
+		<link>https://testradio.fm/testradio-no/1363/</link>
+		<pubDate>Sun, 30 Oct 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1363</guid>
+		<comments>https://testradio.fm/testradio-no/1363/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1363/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/10/N220TestRadio.mp3" length="71736027" type="audio/mpeg" />
+		<itunes:subtitle>https://twitter.com/hiroyuki3gou/status/1586681972155305986?s=20&amp;t=Y2D6EycKDmcZxIPKhQ504w      https://youtu.be/s1BC247fEyA</itunes:subtitle>
+		<itunes:summary>https://twitter.com/hiroyuki3gou/status/1586681972155305986?s=20&amp;t=Y2D6EycKDmcZxIPKhQ504w&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://youtu.be/s1BC247fEyA</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:53</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1363</post-id>		</item>
+	<item>
 		<title>第219回 テストラジオ 勇者本：ソフトウェアテストをカイゼンする 50のアイデア について</title>
 		<link>https://testradio.fm/testradio-no/1358/</link>
 		<pubDate>Sun, 16 Oct 2022 23:00:00 +0000</pubDate>
@@ -253,30 +276,5 @@ https://twitter.com/hiroyuki3gou/status/1548631150901735425?s=20&amp;t=JyzN1rtr-
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>30:56</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1304</post-id>		</item>
-	<item>
-		<title>第208回 テストラジオ デイリーデプロイしたら色々気がついた話</title>
-		<link>https://testradio.fm/testradio-no/1301/</link>
-		<pubDate>Sun, 19 Jun 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1301</guid>
-		<comments>https://testradio.fm/testradio-no/1301/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1301/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[テストラジオ]]></category>
-		<category><![CDATA[なそ回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description></description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/06/N208TestRadio.mp3" length="70463539" type="audio/mpeg" />
-		<itunes:subtitle>https://twitter.com/hiroyuki3gou/status/1538482930367860736?s=20&amp;t=-TKSVlOT16ekZJ3KkMiIuQ      https://youtu.be/kXrNITofvDM</itunes:subtitle>
-		<itunes:summary>https://twitter.com/hiroyuki3gou/status/1538482930367860736?s=20&amp;t=-TKSVlOT16ekZJ3KkMiIuQ&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://youtu.be/kXrNITofvDM</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:21</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1301</post-id>		</item>
 </channel>
 </rss>

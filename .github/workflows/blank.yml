@@ -381,6 +381,10 @@ jobs:
           echo 'https://feeds.libsyn.com/46528/rss'
           curl https://feeds.libsyn.com/46528/rss --compressed > rss/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.xml
 
+          # MEDIA TALK メディアトーク
+          echo 'https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/07a1de49-67cf-4714-8581-ac1000059302/podcast.rss'
+          curl https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/07a1de49-67cf-4714-8581-ac1000059302/podcast.rss --compressed > rss/MEDIATALK.xml
+
 
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts
