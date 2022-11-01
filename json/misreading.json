@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Fri, 28 Oct 2022 11:14:37 +0000",
+  "lastBuildDate": "Tue, 01 Nov 2022 21:54:20 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#103: GPU-Accelerated Path Rendering",
+      "link": "https://misreading.chat/2022/11/01/103-gpu-accelerated-path-rendering/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 01 Nov 2022 21:54:20 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=805"
+      },
+      "description": "森田が NVIDIA の GPU で二次元お絵描きする話を調べました。",
+      "content:encoded": "<p><a href=\"https://twitter.com/omo2009\">森田</a>が NVIDIA の GPU で二次元お絵描きする話を調べました。感想などはハッシュタグ&nbsp;<a href=\"https://twitter.com/search?q=%23misreading%20lang%3Aja\">#misreading</a>&nbsp;や&nbsp;<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>&nbsp;にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/11/ep103.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://developer.nvidia.com/gpu-accelerated-path-rendering\">GPU Accelerated Path Rendering | NVIDIA Developer</a></li>\n\n\n\n<li><a href=\"https://www.microsoft.com/en-us/research/publication/resolution-independent-curve-rendering-using-programmable-graphics-hardware/\">Resolution Independent Curve Rendering using Programmable Graphics Hardware – Microsoft Research</a></li>\n\n\n\n<li><a href=\"https://www.shadertoy.com/view/flG3Rt\">Bezier quadratic (Loop/Blinn)</a> – WebGL demo</li>\n\n\n\n<li><a href=\"https://dl.acm.org/doi/10.1145/2766968\">Accelerating vector graphics rendering using the graphics hardware pipeline | ACM Transactions on Graphics</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/11/ep103.mp3",
+        "@length": 27062573,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2255,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "森田が NVIDIA の GPU で二次元お絵描きする話を調べました。",
+      "googleplay:description": "森田が NVIDIA の GPU で二次元お絵描きする話を調べました。",
+      "itunes:subtitle": "森田が NVIDIA の GPU で二次元お絵描きする話を調べました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#102: Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow",
       "link": "https://misreading.chat/2022/10/26/102-do-developers-really-know-how-to-use-git-commands-a-large-scale-study-using-stack-overflow/",
