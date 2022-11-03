@@ -39,6 +39,37 @@
   "language": "ja",
   "item": [
     {
+      "title": "346: Architecture Astronaut (naoya)",
+      "description": "<p>Naoya Ito さんをゲストに迎えて、Rust, 関数型、プログラミングなどについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)</p>\n\n<p>スポンサー: <a href=\"https://www.gmo.jp/\">GMOインターネットグループ株式会社 </a></p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://twitter.com/t_wada\">Takuto Wada (@t_wada) / Twitter</a></li>\n<li><a href=\"https://github.com/power-assert-js/power-assert\">power-assert</a></li>\n<li><a href=\"https://news.ycombinator.com/\">Hacker News</a></li>\n<li><a href=\"https://github.com/ogham/exa\">exa: A modern replacement for ‘ls’.</a></li>\n<li><a href=\"https://github.com/sharkdp/fd\">fd: A simple, fast and user-friendly alternative to 'find'</a></li>\n<li><a href=\"https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75b3dab7-90a8-4169-a4dc-d1e7410b9dbd\">TypeScript による GraphQL バックエンド開発</a></li>\n<li><a href=\"https://pragprog.com/titles/swdddf/domain-modeling-made-functional/\">Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by Scott Wlaschin</a></li>\n<li><a href=\"https://rebuild.fm/328/\">Rebuild: 328: Therapeutic Podcasting (naan)</a></li>\n<li><a href=\"https://parceljs.org/\">Parcel</a></li>\n<li><a href=\"https://qwik.builder.io/\">Qwik</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Midlife_crisis\">Midlife crisis</a></li>\n<li><a href=\"https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/\">Don’t Let Architecture Astronauts Scare You – Joel on Software</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=gnWeCXESKXo\">Studio Display 徹底比較してみた！🔥Nano Textureありなし, XDR, iMac 24\"</a></li>\n</ul>",
+      "pubDate": "Thu, 03 Nov 2022 01:00:00 -0700",
+      "link": "https://rebuild.fm/346/",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://rebuild.fm/346/"
+      },
+      "itunes:author": "Tatsuhiko Miyagawa",
+      "dc:creator": "Tatsuhiko Miyagawa",
+      "atom:contributor": [
+        {
+          "atom:name": "naoya",
+          "atom:uri": "https://rebuild.fm/people/naoya/"
+        },
+        {
+          "atom:name": "miyagawa",
+          "atom:uri": "https://rebuild.fm/people/miyagawa/"
+        }
+      ],
+      "itunes:explicit": "no",
+      "itunes:subtitle": "Naoya Ito さんをゲストに迎えて、Rust, 関数型、プログラミングなどについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)",
+      "itunes:duration": "45:56",
+      "enclosure": {
+        "@url": "https://cache.rebuild.fm/podcast-ep346.mp3",
+        "@type": "audio/mpeg",
+        "@length": 33520501,
+        "#text": null
+      }
+    },
+    {
       "title": "345: You Don't Need Permission (yuka)",
       "description": "<p>Yuka Ohishi さんをゲストに迎えて、帰国、Apple, iPad などについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)</p>\n\n<p>スポンサー: <a href=\"https://www.gmo.jp/\">GMOインターネットグループ株式会社 </a></p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://ti.to/rebuildfm/meetup-2022/\">Rebuild Meetup 2022</a></li>\n<li><a href=\"https://anchor.fm/stillrendering\">STILL RENDERING // スティレン</a></li>\n<li><a href=\"https://www.npr.org/2022/09/08/1121706249/new-york-subway-mask-policy-you-do-you\">New York subway's new 'you do you' mask policy angers health experts</a></li>\n<li><a href=\"https://blog.youtube/news-and-events/introducing-handles-a-new-way-to-identify-your-youtube-channel/\">Introducing handles: A new way to identify your YouTube channel</a></li>\n<li><a href=\"https://9to5google.com/2022/10/20/youtube-premium-price-hike/\">YouTube Premium gets a price hike</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=ZZrVBi0SQ2E\">FaceTime with Craig Federighi of Apple! Asking about self care, productivity, and creativity</a></li>\n<li><a href=\"https://9to5mac.com/2014/10/01/former-apple-managers-talk-of-the-247-work-culture-these-people-are-nuts/\">Former Apple managers talk of the 24/7 work culture: \"these people are nuts\"</a></li>\n<li><a href=\"https://www.blackmagicdesign.com/media/release/20221020-02\">Blackmagic Design</a></li>\n</ul>",
       "pubDate": "Fri, 28 Oct 2022 22:00:00 -0700",
