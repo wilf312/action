@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.133 「UIT Meetup vol.17 『もっと好きになる Vue.js』 Aftershow」",
+      "link": "https://uit-inside.linecorp.com/episode/133",
+      "pubDate": "Fri, 04 Nov 2022 09:00:00 GMT",
+      "description": "<p>@sunecosuri が UIT Meetup vol.17 「もっと好きになるVue.js」のAfter Show として、登壇者の @T28tatsuya @kazupon @ota-meshi @kiaking58 の4人に話を聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/133"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit_inside_134.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "kazuya kawaguchi(kazupon),T28_tatsuya(T28_tatsuya),sunecosuri(sunecosuri),Kia King Ishii(kiaking),ota-meshi(ota-meshi)",
+      "itunes:subtitle": "ep.133 「UIT Meetup vol.17 『もっと好きになる Vue.js』 Aftershow」",
+      "itunes:duration": "39:19",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode133.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.132『Changesetsではじめる継続的なmonorepoリリース』",
       "link": "https://uit-inside.linecorp.com/episode/132",
       "pubDate": "Fri, 07 Oct 2022 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode034.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり",
-      "link": "https://uit-inside.linecorp.com/episode/33",
-      "pubDate": "Fri, 14 Feb 2020 03:00:00 GMT",
-      "description": "<p>@potato4d が極北の TypeScripter @uhyo_ に、 LINE 証券における TypeScript の実践状況について聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/33"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-033.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),uhyo(uhyo_)",
-      "itunes:subtitle": "ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり",
-      "itunes:duration": "35:19",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode033.png",
         "#text": null
       }
     }
