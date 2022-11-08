@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 31 Oct 2022 12:17:33 +0000",
+  "lastBuildDate": "Tue, 08 Nov 2022 03:30:33 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -66,6 +66,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第156回 好きなものから食べよう！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1347",
+      "pubDate": "Tue, 08 Nov 2022 12:30:33 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1347"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1347#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1347",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet  【関連記事】 ・Emotet botnet starts blasting malwa[...]",
+      "content:encoded": "<div id=\"tweetbutton1347\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1347&text=%E7%AC%AC156%E5%9B%9E%20%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8B%E3%82%89%E9%A3%9F%E3%81%B9%E3%82%88%E3%81%86%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1347\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/\">Emotet botnet starts blasting malware again after 4 month break</a><br />\n・<a href=\"https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox\">How we handled a recent phishing incident that targeted Dropbox – Dropbox</a><br />\n・<a href=\"https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/\">Security alert: new phishing campaign targets GitHub users | The GitHub Blog</a><br />\n・<a href=\"https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-the-second-international-counter-ransomware-initiative-summit/\">FACT SHEET: The Second International Counter Ransomware Initiative Summit | The White House</a><br />\n・<a href=\"https://ke-la.com/resource/ransomware-victims-and-network-access-sales-in-q3-2022/\">RANSOMWARE VICTIMS AND NETWORK ACCESS SALES IN Q3 2022 – Kela</a><br />\n・<a href=\"https://www.youtube.com/c/BBOY%25E9%259D%25A9%25E5%2591%25BD%25E5%2589%258D%25E5%25A4%259C\">BBOY革命前夜 / ブレイクダンス世界大会までの道 – YouTube</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/temotojouhouwariai.png\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/temotojouhouwariai-300x202.png\" alt=\"\" width=\"300\" height=\"202\" class=\"alignnone size-medium wp-image-1348\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/temotojouhouwariai-300x202.png 300w, https://www.tsujileaks.com/wp-content/uploads/temotojouhouwariai.png 589w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>語り口から深い話かどうか判断してはいけない。予想するのも楽しみなわけです。伸弘辻のオチの見える話。誰が言ったっけ？何をするにも組織としてするならを意識しないと。Emotet再開。休止期間って回収時期なんですかね。手口は大きくは変わっていない。マクロ遮断以後。再点検の機会。様子見なのか裏をかいてきたのか。公的なところからの迅速な情報提供はありがたいですよね。Emotetだけじゃないという見方大事。Dropbox「へ」のフィッシング。MFA対応のアレ。実は注意喚起出てた。他にも来てるはず。自分たちでは気づけなかったが連絡を受けて動ける体制はあった。フィッシングとして検知できたものもあった。できてるできてないの違いが気になる。ID,PASSよりもセキュリティレベルを上げることの注意喚起の難しさ。なんかあったらApple。呼ばれてない。ビアンリアンなのかビエンリエンなのか。薄利多売型になって支払う被害者が増えたらリークと被害の実態に大きな乖離が生まれそう。IABの販売金額の増加。ニーズが高まったのか。価値のあるものがたまたま多かったのか。長く見て、記録をつけておくと比較できていい。読み方わかないの地味に困る。我々も変なおっさん。マギー司郎さんだったかも。見せ方勉強になる。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年11月06日&nbsp;</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_221107_nBefore.mp3",
+        "@length": 30511380,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet  【関連記事】 ・Emotet botnet starts blasting malwa[...]",
+      "itunes:summary": "Tweet  【関連記事】 ・Emotet botnet starts blasting malwa[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:03:21"
+    },
     {
       "title": "第155回 ダブルソムリエと情報耐性！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1342",
@@ -335,12 +364,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1287"
       },
-      "comments": "https://www.tsujileaks.com/?p=1287#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1287",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・Ransomware Now Threatens the Global[...]",
-      "content:encoded": "<div id=\"tweetbutton1287\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1287&text=%E7%AC%AC146%E5%9B%9E%20%E3%81%8A%E7%9B%86%E6%98%8E%E3%81%91%EF%BC%81%E3%81%84%E3%81%8B%E3%81%8C%E3%81%8A%E9%81%8E%E3%81%94%E3%81%97%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1287\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://rusi.org/explore-our-research/publications/commentary/ransomware-now-threatens-global-south/\">Ransomware Now Threatens the Global South | Royal United Services Institute</a><br />\n・<a href=\"https://piyolog.hatenadiary.jp/entry/2022/08/13/023034\">従業員を標的にした認証サービスに対するスミッシングについてまとめてみた – piyolog</a><br />\n・<a href=\"https://support.signal.org/hc/en-us/articles/4850133017242\">Twilio Incident: What Signal Users Need to Know – Signal Support</a><br />\n・<a href=\"https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts\">How a Third-Party SMS Service Was Used to Take Over Signal Accounts</a><br />\n・<a href=\"https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html\">Cisco Talos Intelligence Group – Comprehensive Threat Intelligence: Cisco Talos shares insights related to recent cyber attack on Cisco</a><br />\n・<a href=\"https://attack.mitre.org/techniques/T1546/008/\">Event Triggered Execution: Accessibility Features, Sub-technique T1546.008 – Enterprise | MITRE ATT&CK®</a><br />\n・<a href=\"https://products.suntory.co.jp/d/4901777381094/\">サントリー果茶 芳醇な白桃 商品情報（カロリー・原材料） サントリー</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/famikara01.jpg\"><img loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/famikara01-300x170.jpg\" alt=\"\" width=\"300\" height=\"170\" class=\"alignnone size-medium wp-image-1288\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/famikara01-300x170.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/famikara01-1024x580.jpg 1024w, https://www.tsujileaks.com/wp-content/uploads/famikara01-768x435.jpg 768w, https://www.tsujileaks.com/wp-content/uploads/famikara01.jpg 1324w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>お盆いかがお過ごしでしたか。ファミマの人に言いました。情報収集の仕方のアップデート。昔はやれると思ってたけど限界を知ることは大事。色々な人が色々な方法をしているけれど最後は自分の型作り。分からないことを分からないと言えること。ハードウェアキー使ってたから大丈夫だぜ！我らがSignal。急に親近感。影響は限定的。3つの電話番号。乗っ取ったアカウントを使って入ってくる情報を見たかったのかな。その先にある攻撃の目的は。7日間ロックですね。利用しているサービスが利用しているサービスで事故が起きると関係あるかが見えにくい。皆さんが使っている安全なメッセージングサービスや利用シーン教えてください。ランサムの名前ってどうやって決めてるんだろう。最近は特にリークサイトに掲載された = ランサウェア感染とは言えないんですよね。めちゃくちゃ連絡された許可！ってしちゃうものなのかな。個人アカウントがどう侵害されたのかが一番気になる。ボットかな。レポート内容はやはりさすが。そういうことを聞きたいんじゃないんだよ。いっぱいのしっぱい。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年08月20日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_220822_signalnowa.mp3",
         "@length": 32387092,
