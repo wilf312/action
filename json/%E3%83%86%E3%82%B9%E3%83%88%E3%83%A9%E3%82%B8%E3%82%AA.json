@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 30 Oct 2022 23:00:00 +0000",
+  "lastBuildDate": "Sun, 13 Nov 2022 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,35 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "テストラジオ テストの基本がなに？って話について語ります！",
+      "link": "https://testradio.fm/testradio-no/1368/",
+      "pubDate": "Sun, 13 Nov 2022 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1368"
+      },
+      "comments": "https://testradio.fm/testradio-no/1368/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1368/feed/",
+      "slash:comments": 0,
+      "category": "テストラジオ",
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/11/N221TestRadio.mp3",
+        "@length": 70879704,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://twitter.com/hiroyuki3gou/status/1591755406161780736?s=20&t=7lyCHS9tTAWXGE20M4KVGg      https://youtu.be/Izbbprnhlgg",
+      "itunes:summary": "https://twitter.com/hiroyuki3gou/status/1591755406161780736?s=20&t=7lyCHS9tTAWXGE20M4KVGg<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://youtu.be/Izbbprnhlgg",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:32",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1368
+      }
+    },
     {
       "title": "第220回 テストラジオ ホテルで体験した不具合の話について語ります！",
       "link": "https://testradio.fm/testradio-no/1363/",
@@ -330,40 +359,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1309
-      }
-    },
-    {
-      "title": "第209回 テストラジオ お部屋の自動化の話 と デザイナーと一緒の話",
-      "link": "https://testradio.fm/testradio-no/1304/",
-      "pubDate": "Sun, 26 Jun 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1304"
-      },
-      "comments": "https://testradio.fm/testradio-no/1304/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1304/feed/",
-      "slash:comments": 0,
-      "category": [
-        "Podcast配信",
-        "テストラジオ",
-        "なそ回",
-        "よしたけ回"
-      ],
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/06/N209TestRadio.mp3",
-        "@length": 74234907,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://youtu.be/zcLHdBJ-OhY",
-      "itunes:summary": "https://youtu.be/zcLHdBJ-OhY",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "30:56",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1304
       }
     }
   ]
