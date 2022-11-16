@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.134 『質問者代表が語る！ Tech-Verse 2022 フロントエンドセッションの見どころ』",
+      "link": "https://uit-inside.linecorp.com/episode/134",
+      "pubDate": "Wed, 16 Nov 2022 03:15:00 GMT",
+      "description": "<p>@potato4d が Tech-Verse のセッション質問者代表の @jaycompsci, @naoto.ikuno, @yukishiba, @showkittie に、各セッションのみどころを聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/134"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode134.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),jaycompsci(jaycompsci),Ikuno Naoto(naoto.ikuno),yukishiba(yukishiba),showkittie(showkittie)",
+      "itunes:subtitle": "ep.134 『質問者代表が語る！ Tech-Verse 2022 フロントエンドセッションの見どころ』",
+      "itunes:duration": "15:16",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode134.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.133 「UIT Meetup vol.17 『もっと好きになる Vue.js』 Aftershow」",
       "link": "https://uit-inside.linecorp.com/episode/133",
       "pubDate": "Fri, 04 Nov 2022 08:30:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode035.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」",
-      "link": "https://uit-inside.linecorp.com/episode/34",
-      "pubDate": "Fri, 21 Feb 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining が @nozomuikuta, @potato4d と共に、 Vue 3 の named export 事情、Tree Shaking の仕組み、Podcastでの抜き打ちバンドルアナライズ結果などについて話しました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/34"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-034-02.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)",
-      "itunes:subtitle": "ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」",
-      "itunes:duration": "24:31",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode034.png",
         "#text": null
       }
     }
