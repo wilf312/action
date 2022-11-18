@@ -42,31 +42,6 @@
   },
   "item": [
     {
-      "title": "一度切り出したマイクロサービスをマザーRails に戻した話 w/ @gedorinku",
-      "description": "<ul>\n <li><a href=\"https://anchor.fm/pod-de-engineer/episodes/with-gedorinku-ei1nj0\">入社前最大の成果はダジャレです with @gedorinku by Pod de Engineer</a></li>\n <li><a href=\"https://twitter.com/gedorinku\">https://twitter.com/gedorinku</a></li>\n  <li><a href=\"https://www.wantedly.com/id/gedorinku\">https://www.wantedly.com/id/gedorinku</a></li>\n</ul>",
-      "link": "https://anchor.fm/wantedly-dev/episodes/Rails--w-gedorinku-e1qv3rd",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "e22263b6-3315-4fb5-a6ff-1a0920c5c02b"
-      },
-      "dc:creator": "Wantedly Engineering",
-      "pubDate": "Fri, 18 Nov 2022 06:10:01 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/64205bfc/podcast/play/60837165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-18%2F82677da3-2dae-ddc4-c8fe-b27bbb0a6688.m4a",
-        "@length": 103384813,
-        "@type": "audio/x-m4a",
-        "#text": null
-      },
-      "itunes:summary": "<ul>\n <li><a href=\"https://anchor.fm/pod-de-engineer/episodes/with-gedorinku-ei1nj0\">入社前最大の成果はダジャレです with @gedorinku by Pod de Engineer</a></li>\n <li><a href=\"https://twitter.com/gedorinku\">https://twitter.com/gedorinku</a></li>\n  <li><a href=\"https://www.wantedly.com/id/gedorinku\">https://www.wantedly.com/id/gedorinku</a></li>\n</ul>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:56:17",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg",
-        "#text": null
-      },
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "Native ESM に移行するまでに直面した全問題と解決策 w/ @qnighy",
       "description": "<ul>\n <li><a href=\"https://anchor.fm/wantedly-dev/episodes/Node-js-ESM--ESM---w-qnighy-e1p6ilu\">あなたの Node.js ESM は本当に ESM ですか? w/ @qnighy</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/410531\">実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/19603f11d5f264\">Native ESM + TypeScript 拡張子問題: 歯にものが挟まったようなスッキリしない書き流し</a></li>\n <li><a href=\"https://zenn.dev/qnighy/articles/6267716578c76d\">Node.jsのネイティブES Modulesサポートが抱える問題を解決するBabelプラグインを書いた</a></li>\n <li><a href=\"https://www.wantedly.com/companies/wantedly/post_articles/421107\">Storyshotsを止めてスナップショットテストの仕組みを自作した話 | Wantedly Engineer Blog</a></li>\n <li><a href=\"https://github.com/nodejs/node/pull/40902\">esm: add pjson.importInterop to support __esModule by qnighy · Pull Request #40902 · nodejs/node</a></li>\n  <li><a href=\"https://github.com/nodejs/node/pull/40892\">esm: add option to interpret __esModule like Babel by qnighy · Pull Request #40892 · nodejs/node</a></li>\n</ul>",
       "link": "https://anchor.fm/wantedly-dev/episodes/Native-ESM--w-qnighy-e1ph4ib",
