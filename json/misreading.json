@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 01 Nov 2022 21:54:20 +0000",
+  "lastBuildDate": "Sat, 19 Nov 2022 13:30:56 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#104: It’s Time to Replace TCP in the Datacenter",
+      "link": "https://misreading.chat/2022/11/19/104-its-time-to-replace-tcp-in-the-datacenter/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Sat, 19 Nov 2022 13:30:56 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=814"
+      },
+      "description": "TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。",
+      "content:encoded": "<p>TCP をやっつけたいメッセージ志向プロトコルの提案を<a href=\"https://mastodon.cloud/@jmuk\">向井</a>が拝聴しました。感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/11/ep104.mp3\"></audio></figure>\n\n\n\n<ul>\n<li><a href=\"https://arxiv.org/abs/2210.00714\">[2210.00714] It’s Time to Replace TCP in the Datacenter</a>\n<ul>\n<li><a href=\"https://netdevconf.info/0x16/session.html?keynote-ousterhout\">Netdev | Netdev 0x16 – Sessions</a></li>\n\n\n\n<li><a href=\"https://github.com/PlatformLab/Homa\">GitHub – PlatformLab/Homa: Low-Latency Data Center Network Transport</a></li>\n</ul>\n</li>\n\n\n\n<li><a href=\"https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/\">A Philosophy of Software Design, 2nd Edition</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/11/ep104.mp3",
+        "@length": 21832471,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 1819,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。",
+      "googleplay:description": "TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。",
+      "itunes:subtitle": "TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#103: GPU-Accelerated Path Rendering",
       "link": "https://misreading.chat/2022/11/01/103-gpu-accelerated-path-rendering/",
