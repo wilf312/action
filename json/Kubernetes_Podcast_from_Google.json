@@ -23,8 +23,8 @@
     "@href": "https://kubernetespodcast.com/feeds/audio.xml",
     "#text": null
   },
-  "lastBuildDate": "Tue, 15 Nov 2022 12:55:09 +0100",
-  "pubDate": "Tue, 15 Nov 2022 12:55:09 +0100",
+  "lastBuildDate": "Thu, 24 Nov 2022 11:01:38 +0100",
+  "pubDate": "Thu, 24 Nov 2022 11:01:38 +0100",
   "ttl": 720,
   "itunes:type": "episodic",
   "itunes:author": "Abdel Sghiouar and Kaslin fields",
@@ -55,6 +55,34 @@
     ]
   },
   "item": [
+    {
+      "title": "Kubernetes on Vessels, with Louis Bailleul",
+      "link": "https://kubernetespodcast.com/episode/194-kubernetes-on-vessels/",
+      "pubDate": "Thu, 24 Nov 2022 10:52:06 +0100",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://kubernetespodcast.com/episodes/KPfGep194.mp3"
+      },
+      "enclosure": {
+        "@url": "https://kubernetespodcast.com/episodes/KPfGep194.mp3",
+        "@length": 51524274,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png",
+        "#text": null
+      },
+      "itunes:episodeType": "full",
+      "itunes:episode": 194,
+      "itunes:duration": "00:42:55",
+      "description": "<p><a href=\"https://www.linkedin.com/in/louisbailleul/\">Louis Bailleul</a> is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!</p>\n<p>Do you have something cool to share? Some questions? Let us know:</p>\n<ul>\n<li>web: <a href=\"https://kubernetespodcast.com\">kubernetespodcast.com</a></li>\n<li>mail: <a href=\"mailto:kubernetespodcast@google.com\">kubernetespodcast@google.com</a></li>\n<li>twitter: <a href=\"https://twitter.com/kubernetespod\">@kubernetespod</a></li>\n</ul>\n<h3 id=\"chatter-of-the-week\">Chatter of the week</h3>\n<ul>\n<li><a href=\"https://kubernetespodcast.com/episode/193-kubecon-na-2022/\">Listen to the KubeCon NA 2022 recap episode</a></li>\n</ul>\n<h3 id=\"news-of-the-week\">News of the week</h3>\n<ul>\n<li><a href=\"https://docs.docker.com/desktop/wasm/\">Docker + Wasm</a></li>\n<li><a href=\"https://istio.io/latest/news/security/istio-security-2022-007/\">Istio control plane vulnerability CVE-2022-39278</a></li>\n<li><a href=\"https://opensource.googleblog.com/2022/10/kubeflow-applies-to-become-a-cncf-incubating-project.html\">KubeFlow joins CNCF as an Incubating Project</a></li>\n<li><a href=\"https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142x/\">CNCF Backstage course</a></li>\n<li><a href=\"https://www.linuxfoundation.org/press/new-free-course-introduces-learners-to-the-popular-open-source-service-mesh-platform-istio\">CNCF Istio intro course</a></li>\n</ul>\n<h3 id=\"links-from-the-interview\">Links from the interview</h3>\n<ul>\n<li><a href=\"https://www.pgs.com/\">PGS</a></li>\n<li><a href=\"https://www.pgs.com/globalassets/fleet/ramform/pgs_ramformtitan_pgs02166_rgb_860x484px.jpg\">A picture of a PGS vessel</a></li>\n<li><a href=\"https://www.pgs.com/company/newsroom/news/global-rankings-confirm-pgs-lead-in-hpc/\">PGS post from 2021 about their supercomputing rankings and transition to Google Cloud</a></li>\n<li><a href=\"https://www.top500.org/\">Top500 List</a></li>\n<li><a href=\"https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/\">Kubernetes Custom Resources (CRDs)</a></li>\n<li><a href=\"https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/\">Scaling Kubernetes to Thousands of CRDs</a></li>\n<li><a href=\"https://cloud.google.com/spot-vms\">Google Cloud Spot Instances</a></li>\n<li><a href=\"https://cloud.google.com/compute/docs/instances/preemptible\">Google Cloud Preemptible VM Instances</a></li>\n<li><a href=\"https://cloud.google.com/architecture/framework/operational-excellence/manage-capacity-and-quota\">Google Cloud - Manage capacity and quota</a></li>\n<li><a href=\"https://youtu.be/YjZ4AZ7hRM0\">KubeCon NA 2019: How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan</a></li>\n<li><a href=\"https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541\">Bare Metal K8s Clustering at Chick-fil-A Scale by Brian Chambers, Caleb Hurd, and Alex Crane</a></li>\n</ul>",
+      "itunes:summary": "Louis Bailleul is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!",
+      "itunes:subtitle": "Louis Bailleul is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!",
+      "content:encoded": "<p><a href=\"https://www.linkedin.com/in/louisbailleul/\">Louis Bailleul</a> is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!</p>\n<p>Do you have something cool to share? Some questions? Let us know:</p>\n<ul>\n<li>web: <a href=\"https://kubernetespodcast.com\">kubernetespodcast.com</a></li>\n<li>mail: <a href=\"mailto:kubernetespodcast@google.com\">kubernetespodcast@google.com</a></li>\n<li>twitter: <a href=\"https://twitter.com/kubernetespod\">@kubernetespod</a></li>\n</ul>\n<h3 id=\"chatter-of-the-week\">Chatter of the week</h3>\n<ul>\n<li><a href=\"https://kubernetespodcast.com/episode/193-kubecon-na-2022/\">Listen to the KubeCon NA 2022 recap episode</a></li>\n</ul>\n<h3 id=\"news-of-the-week\">News of the week</h3>\n<ul>\n<li><a href=\"https://docs.docker.com/desktop/wasm/\">Docker + Wasm</a></li>\n<li><a href=\"https://istio.io/latest/news/security/istio-security-2022-007/\">Istio control plane vulnerability CVE-2022-39278</a></li>\n<li><a href=\"https://opensource.googleblog.com/2022/10/kubeflow-applies-to-become-a-cncf-incubating-project.html\">KubeFlow joins CNCF as an Incubating Project</a></li>\n<li><a href=\"https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142x/\">CNCF Backstage course</a></li>\n<li><a href=\"https://www.linuxfoundation.org/press/new-free-course-introduces-learners-to-the-popular-open-source-service-mesh-platform-istio\">CNCF Istio intro course</a></li>\n</ul>\n<h3 id=\"links-from-the-interview\">Links from the interview</h3>\n<ul>\n<li><a href=\"https://www.pgs.com/\">PGS</a></li>\n<li><a href=\"https://www.pgs.com/globalassets/fleet/ramform/pgs_ramformtitan_pgs02166_rgb_860x484px.jpg\">A picture of a PGS vessel</a></li>\n<li><a href=\"https://www.pgs.com/company/newsroom/news/global-rankings-confirm-pgs-lead-in-hpc/\">PGS post from 2021 about their supercomputing rankings and transition to Google Cloud</a></li>\n<li><a href=\"https://www.top500.org/\">Top500 List</a></li>\n<li><a href=\"https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/\">Kubernetes Custom Resources (CRDs)</a></li>\n<li><a href=\"https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/\">Scaling Kubernetes to Thousands of CRDs</a></li>\n<li><a href=\"https://cloud.google.com/spot-vms\">Google Cloud Spot Instances</a></li>\n<li><a href=\"https://cloud.google.com/compute/docs/instances/preemptible\">Google Cloud Preemptible VM Instances</a></li>\n<li><a href=\"https://cloud.google.com/architecture/framework/operational-excellence/manage-capacity-and-quota\">Google Cloud - Manage capacity and quota</a></li>\n<li><a href=\"https://youtu.be/YjZ4AZ7hRM0\">KubeCon NA 2019: How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan</a></li>\n<li><a href=\"https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541\">Bare Metal K8s Clustering at Chick-fil-A Scale by Brian Chambers, Caleb Hurd, and Alex Crane</a></li>\n</ul>",
+      "itunes:explicit": "no",
+      "itunes:keywords": "Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management"
+    },
     {
       "title": "KubeCon NA 2022",
       "link": "https://kubernetespodcast.com/episode/193-kubecon-na-2022/",
