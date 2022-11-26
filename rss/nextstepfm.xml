@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379" rel="next" type="application/rss+xml"/>
         <title>nextstep.fm</title>
         <link>https://soundcloud.com/nextstepfm</link>
-        <pubDate>Thu, 06 Oct 2022 06:41:23 +0000</pubDate>
-        <lastBuildDate>Thu, 06 Oct 2022 06:41:23 +0000</lastBuildDate>
+        <pubDate>Sun, 06 Nov 2022 03:21:32 +0000</pubDate>
+        <lastBuildDate>Sun, 06 Nov 2022 03:21:32 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -28,6 +28,55 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1377358195</guid>
+      <title>#61 Venturaにおべんちゃら</title>
+      <pubDate>Sun, 06 Nov 2022 03:21:32 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/61-ventura</link>
+      <itunes:duration>01:46:06</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+自宅回線の冗長化，iMacのリサイクル，Venturaのシステム環境設定のUIの酷さについて話しました．
+
+1. NUROが死んでいた
+2. 5G インターネットルータ - https://www.docomo.ne.jp/home_5g/router/
+3. バックアップ回線をどうするのか問題
+4. iMacのリサイクル問題
+5. Appleのリサイクルサービス https://kc-pcrecycle-household.jp/home/jsp/pc_recycle_05.jsp
+6. iMacも入る巨大ダンボールはここから - https://www3.roymall.jp/shop/g/grhc2-013535/
+7. Venturaについて語ろう
+8. Ventura被告の弁護士 k_katsumi vs 検察 1024jp
+9. システム環境設定に端を発するVenturaいい加減にしろ問題
+10. macOSとiOSの画面上の情報密度の違い
+11. SwiftUIとmacOS
+12. macOSの@AppStorageがイケてない問題
+13. ファイル上，あるいは，メモリ上で同期を管理するか？
+14. iOSは，macOSと比べてファイルの読み書きが速い？
+15. 次回，SwiftPM, SwiftUI MenuBarExtra, YouTube化計画・・・・！？</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, d_date, kateinoi…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+自宅回線の冗長化，iMacのリサイクル，Venturaのシステム環境設定のUIの酷さについて話しました．
+
+1. NUROが死んでいた
+2. 5G インターネットルータ - https://www.docomo.ne.jp/home_5g/router/
+3. バックアップ回線をどうするのか問題
+4. iMacのリサイクル問題
+5. Appleのリサイクルサービス https://kc-pcrecycle-household.jp/home/jsp/pc_recycle_05.jsp
+6. iMacも入る巨大ダンボールはここから - https://www3.roymall.jp/shop/g/grhc2-013535/
+7. Venturaについて語ろう
+8. Ventura被告の弁護士 k_katsumi vs 検察 1024jp
+9. システム環境設定に端を発するVenturaいい加減にしろ問題
+10. macOSとiOSの画面上の情報密度の違い
+11. SwiftUIとmacOS
+12. macOSの@AppStorageがイケてない問題
+13. ファイル上，あるいは，メモリ上で同期を管理するか？
+14. iOSは，macOSと比べてファイルの読み書きが速い？
+15. 次回，SwiftPM, SwiftUI MenuBarExtra, YouTube化計画・・・・！？</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1377358195-nextstepfm-61-ventura.mp3" length="101862503"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1357733431</guid>
       <title>#60 密林から届いた詫び石</title>
       <pubDate>Thu, 06 Oct 2022 06:41:23 +0000</pubDate>

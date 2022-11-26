@@ -16,7 +16,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 	<atom:link href="https://misreading.chat/category/episodes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://misreading.chat</link>
 	<description>会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。</description>
-	<lastBuildDate>Fri, 28 Oct 2022 11:14:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Nov 2022 13:30:56 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,6 +37,130 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:image href='https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?fit=3000%2C3000' />
 <itunes:category text='Technology' />
 	<item>
+		<title>#104: It&#8217;s Time to Replace TCP in the Datacenter</title>
+		<link>https://misreading.chat/2022/11/19/104-its-time-to-replace-tcp-in-the-datacenter/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 13:30:56 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=814</guid>
+
+					<description><![CDATA[TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。]]></description>
+										<content:encoded><![CDATA[
+<p>TCP をやっつけたいメッセージ志向プロトコルの提案を<a href="https://mastodon.cloud/@jmuk">向井</a>が拝聴しました。感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2022/11/ep104.mp3"></audio></figure>
+
+
+
+<ul>
+<li><a href="https://arxiv.org/abs/2210.00714">[2210.00714] It&#8217;s Time to Replace TCP in the Datacenter</a>
+<ul>
+<li><a href="https://netdevconf.info/0x16/session.html?keynote-ousterhout">Netdev | Netdev 0x16 &#8211; Sessions</a></li>
+
+
+
+<li><a href="https://github.com/PlatformLab/Homa">GitHub &#8211; PlatformLab/Homa: Low-Latency Data Center Network Transport</a></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/">A Philosophy of Software Design, 2nd Edition</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2022/11/ep104.mp3" length="21832471" type="audio/mpeg" />
+<itunes:duration>1819</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。</itunes:summary>
+<googleplay:description>TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。</googleplay:description>
+<itunes:subtitle>TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#103: GPU-Accelerated Path Rendering</title>
+		<link>https://misreading.chat/2022/11/01/103-gpu-accelerated-path-rendering/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 21:54:20 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=805</guid>
+
+					<description><![CDATA[森田が NVIDIA の GPU で二次元お絵描きする話を調べました。]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://twitter.com/omo2009">森田</a>が NVIDIA の GPU で二次元お絵描きする話を調べました。感想などはハッシュタグ&nbsp;<a href="https://twitter.com/search?q=%23misreading%20lang%3Aja">#misreading</a>&nbsp;や&nbsp;<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>&nbsp;にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2022/11/ep103.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://developer.nvidia.com/gpu-accelerated-path-rendering">GPU Accelerated Path Rendering | NVIDIA Developer</a></li>
+
+
+
+<li><a href="https://www.microsoft.com/en-us/research/publication/resolution-independent-curve-rendering-using-programmable-graphics-hardware/">Resolution Independent Curve Rendering using Programmable Graphics Hardware &#8211; Microsoft Research</a></li>
+
+
+
+<li><a href="https://www.shadertoy.com/view/flG3Rt">Bezier quadratic (Loop/Blinn)</a> &#8211; WebGL demo</li>
+
+
+
+<li><a href="https://dl.acm.org/doi/10.1145/2766968">Accelerating vector graphics rendering using the graphics hardware pipeline | ACM Transactions on Graphics</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2022/11/ep103.mp3" length="27062573" type="audio/mpeg" />
+<itunes:duration>2255</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>森田が NVIDIA の GPU で二次元お絵描きする話を調べました。</itunes:summary>
+<googleplay:description>森田が NVIDIA の GPU で二次元お絵描きする話を調べました。</googleplay:description>
+<itunes:subtitle>森田が NVIDIA の GPU で二次元お絵描きする話を調べました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>#102: Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow</title>
 		<link>https://misreading.chat/2022/10/26/102-do-developers-really-know-how-to-use-git-commands-a-large-scale-study-using-stack-overflow/</link>
 		

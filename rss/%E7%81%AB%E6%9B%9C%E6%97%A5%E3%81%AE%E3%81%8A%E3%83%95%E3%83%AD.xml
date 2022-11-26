@@ -11,7 +11,7 @@ https://tue-ofuro.vercel.app/]]></description>
 			<link>https://anchor.fm/tue-ofuro</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sat, 29 Oct 2022 05:08:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Nov 2022 05:21:14 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/2b3dd74c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[igtm, tmr, ymdarake]]></author>
 		<copyright><![CDATA[igtm, tmr, ymdarake]]></copyright>
@@ -31,6 +31,438 @@ https://tue-ofuro.vercel.app/</itunes:summary>
 			<itunes:category text="How To"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg"/>
+		<item>
+			<title><![CDATA[Typescript4.9 (satisfies), Nextjs13, Twitter backend architecture]]></title>
+			<description><![CDATA[<p id="883f8b51-2812-4226-937f-0345e0a1b09e" class=""><a
+					href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/">Announcing TypeScript
+					4.9 - TypeScript</a></p>
+			<p id="d95222b4-3b91-45f9-9ee6-b735f1e26373" class=""><a
+					href="https://github.com/microsoft/TypeScript/issues/47920">&quot;satisfies&quot; operator to ensure
+					an expression matches some type (feedback reset) · Issue #47920 · microsoft/TypeScript · GitHub</a>
+			</p>
+			<pre id="8fc6691f-c5e9-4434-baa4-feb776255825" class="code"><code>type Colors = &quot;red&quot; | &quot;green&quot; | &quot;blue&quot;;
+type RGB = [red: number, green: number, blue: number];
+
+type Palette = Record&lt;Colors, unknown&gt; &amp; {
+ red: RGB;
+ green: string;
+ blue: RGB;
+};
+
+const palette: Palette = {
+ red: [255, 0, 0],
+ green: &quot;#0f0&quot;,
+ blue: [0, 0, 255],
+};</code></pre>
+			<p id="47841107-e3fe-467b-8f02-f35a20a1bae5" class=""><a
+					href="https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Symbol">Symbol
+					(シンボル) - JavaScript | MDN</a></p>
+			<p id="26007096-9c1b-4677-83ea-9743c8e37dc5" class=""><a
+					href="https://github.com/microsoft/TypeScript/issues/51362">TypeScript 5.0 Iteration Plan · Issue
+					#51362 · microsoft/TypeScript · GitHub</a></p>
+			<p id="a2b757d9-0156-49e3-9f25-0ae3bc0bf655" class=""><a
+					href="https://zenn.dev/sumiren/articles/f39a151e7320d5">Next.js 13のServer Componentsは書き方が便利になるだけ</a>
+			</p>
+			<p id="34c63d07-2238-4e6e-b14d-9f8cce33dbe5" class=""><a
+					href="https://survey.devographics.com/survey/state-of-js/2022">State of JavaScript 2022</a></p>
+			<p id="6705cc26-8ca3-4cc3-94ed-0e20fb6ffb1c" class=""><a
+					href="https://www.itmedia.co.jp/news/articles/2211/21/news040.html">MacBook
+					Proの“ノッチ”でマウス操作が遅くなる問題を改善、その方法は？　明治大が実証：Innovative Tech - ITmedia NEWS</a></p>
+			<p id="5266aba3-9ccc-4d07-ac94-0cf929a0e0fa" class=""><a
+					href="https://coliss.com/articles/book-review/isbn-9784802512374.html">ついに初の解説書！
+					フォント制作の王道ソフト「Glyphs（グリフス）」執筆陣も非常に豪華で、フォントの作り方がよく分かります -Glyphsではじめるフォント制作 | コリス</a></p>
+			<p id="8ba79b25-eb8c-43d2-95a3-cfccc2a00c13" class=""><a href="https://togetter.com/li/1977218">Twitter
+					を作るのはなぜ難しいのか - Togetter</a></p>
+			<p id="9d72f87a-98d0-4950-9c5f-7031b67c18d3" class=""><a
+					href="https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale">Manhattan,
+					our real-time, multi-tenant distributed database for Twitter scale</a></p>
+			<p id="c1bbb2ef-602b-44de-a4e9-fd5a308a4849" class=""><a
+					href="https://techgenix.com/elasticsearch-alternatives/">Elasticsearch alternatives: 8 to consider
+					after the license change</a></p>
+			<p id="8b2bcf11-20c3-46da-b59d-ca35572d387f" class=""><a href="https://github.com/pola-rs/polars">GitHub -
+					pola-rs/polars: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python |
+					Node.js</a></p>
+			<p id="b862c114-f5c3-450b-bd62-d8113b1a4cfc" class=""><a
+					href="https://tech.legalforce.co.jp/entry/2022/02/24/140316">高速な文字列探索：Daachorseの技術解説 - LegalForce
+					Engineering Blog</a></p>
+]]></description>
+			<link>https://anchor.fm/tue-ofuro/episodes/Typescript4-9-satisfies--Nextjs13--Twitter-backend-architecture-e1rato2</link>
+			<guid isPermaLink="false">4290430b-cd51-4d82-8417-9ceff280c62a</guid>
+			<dc:creator><![CDATA[igtm, tmr, ymdarake]]></dc:creator>
+			<pubDate>Sat, 26 Nov 2022 05:15:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2b3dd74c/podcast/play/61224130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-26%2F579a8362-1486-39c2-3164-d388a7e2990c.mp3" length="177546353" type="audio/mpeg"/>
+			<itunes:summary>&lt;p id=&quot;883f8b51-2812-4226-937f-0345e0a1b09e&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/&quot;&gt;Announcing TypeScript
+					4.9 - TypeScript&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;d95222b4-3b91-45f9-9ee6-b735f1e26373&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://github.com/microsoft/TypeScript/issues/47920&quot;&gt;&amp;quot;satisfies&amp;quot; operator to ensure
+					an expression matches some type (feedback reset) · Issue #47920 · microsoft/TypeScript · GitHub&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;pre id=&quot;8fc6691f-c5e9-4434-baa4-feb776255825&quot; class=&quot;code&quot;&gt;&lt;code&gt;type Colors = &amp;quot;red&amp;quot; | &amp;quot;green&amp;quot; | &amp;quot;blue&amp;quot;;
+type RGB = [red: number, green: number, blue: number];
+
+type Palette = Record&amp;lt;Colors, unknown&amp;gt; &amp;amp; {
+ red: RGB;
+ green: string;
+ blue: RGB;
+};
+
+const palette: Palette = {
+ red: [255, 0, 0],
+ green: &amp;quot;#0f0&amp;quot;,
+ blue: [0, 0, 255],
+};&lt;/code&gt;&lt;/pre&gt;
+			&lt;p id=&quot;47841107-e3fe-467b-8f02-f35a20a1bae5&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Symbol&quot;&gt;Symbol
+					(シンボル) - JavaScript | MDN&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;26007096-9c1b-4677-83ea-9743c8e37dc5&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://github.com/microsoft/TypeScript/issues/51362&quot;&gt;TypeScript 5.0 Iteration Plan · Issue
+					#51362 · microsoft/TypeScript · GitHub&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a2b757d9-0156-49e3-9f25-0ae3bc0bf655&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://zenn.dev/sumiren/articles/f39a151e7320d5&quot;&gt;Next.js 13のServer Componentsは書き方が便利になるだけ&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;34c63d07-2238-4e6e-b14d-9f8cce33dbe5&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://survey.devographics.com/survey/state-of-js/2022&quot;&gt;State of JavaScript 2022&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;6705cc26-8ca3-4cc3-94ed-0e20fb6ffb1c&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://www.itmedia.co.jp/news/articles/2211/21/news040.html&quot;&gt;MacBook
+					Proの“ノッチ”でマウス操作が遅くなる問題を改善、その方法は？　明治大が実証：Innovative Tech - ITmedia NEWS&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;5266aba3-9ccc-4d07-ac94-0cf929a0e0fa&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://coliss.com/articles/book-review/isbn-9784802512374.html&quot;&gt;ついに初の解説書！
+					フォント制作の王道ソフト「Glyphs（グリフス）」執筆陣も非常に豪華で、フォントの作り方がよく分かります -Glyphsではじめるフォント制作 | コリス&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;8ba79b25-eb8c-43d2-95a3-cfccc2a00c13&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://togetter.com/li/1977218&quot;&gt;Twitter
+					を作るのはなぜ難しいのか - Togetter&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;9d72f87a-98d0-4950-9c5f-7031b67c18d3&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale&quot;&gt;Manhattan,
+					our real-time, multi-tenant distributed database for Twitter scale&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;c1bbb2ef-602b-44de-a4e9-fd5a308a4849&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://techgenix.com/elasticsearch-alternatives/&quot;&gt;Elasticsearch alternatives: 8 to consider
+					after the license change&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;8b2bcf11-20c3-46da-b59d-ca35572d387f&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/pola-rs/polars&quot;&gt;GitHub -
+					pola-rs/polars: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python |
+					Node.js&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;b862c114-f5c3-450b-bd62-d8113b1a4cfc&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://tech.legalforce.co.jp/entry/2022/02/24/140316&quot;&gt;高速な文字列探索：Daachorseの技術解説 - LegalForce
+					Engineering Blog&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:09:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Twitter alternative, Sapling (Git alternative written in Rust), HSTS Preload, OpenSSL 3.x.x, Structural Subtyping]]></title>
+			<description><![CDATA[<p id="5ed2e99a-f6d0-4a61-b4ac-b5fa92b57271" class=""><a href="https://cohost.org/rc/welcome">cohost!</a>
+			</p>
+			<p id="f495eeba-2896-4bc5-ba4c-443789c8bc1d" class=""><a
+					href="https://cohost.org/staff/post/168924-october-2022-financi">cohost! - &quot;October 2022
+					Financial Update&quot;</a></p>
+			<p id="4760b65f-9351-4ee6-8a72-8180bcadab0e" class=""><a href="https://www.minds.com/">Minds</a></p>
+			<p id="871d1260-e85f-48b9-8c08-4f1e989bd731" class=""><a href="https://tweetdeck.twitter.com/">TweetDeck</a>
+			</p>
+			<p id="dbca1a3a-7494-45ee-8cdf-c3186bc01e17" class=""><a href="https://kizie.co/">Kizie - A better Twitter
+					app for Web</a></p>
+			<p id="b4fa4a91-c409-4283-a84a-aca6b8324673" class=""><a href="https://social.vivaldi.net/explore">エクスプローラー
+					- Vivaldi Social</a></p>
+			<p id="6a12f702-9646-4d2e-a9d8-175660dd70f0" class=""><a href="https://nitter.net/">nitter</a></p>
+			<p id="d1a19f16-6334-494b-84e6-2c95ad97ed98" class=""><a href="https://feedly.com/">Welcome to Feedly</a>
+			</p>
+			<p id="6e1f15f1-f572-441a-8787-c91b18563d12" class=""><a
+					href="https://www.inoreader.com/language/japanese">Inoreader - ニュースフィードを自由に操ろう</a></p>
+			<p id="d844fbe7-2e5f-425f-abe5-66946421c0ce" class=""><a href="https://fi.google.com/about/?pli=1">Google Fi
+					- A Simple, Wireless Phone Plan With Unlimited Data</a></p>
+			<p id="5974ec62-9095-4a5a-bd7d-ce927738449f" class=""><a
+					href="https://alternativeto.net/software/mastodon/">Mastodon Alternatives: 25+ Social Networks and
+					Microblogs | AlternativeTo</a></p>
+			<p id="9c2c75b6-3555-4e6f-bbab-ed5acf3375f7" class=""><a
+					href="https://social.vivaldi.net/@Vivaldi/109359048926498316">Vivaldi: &quot;The reception to
+					Vivaldi Socia…&quot; - Vivaldi Social</a></p>
+			<p id="80362663-7794-455b-abef-cc8745dfd860" class=""><a
+					href="https://gigazine.net/news/20221116-meta-sapling/">Metaの大規模ソースコード管理システム「Sapling」がオープンソース化 -
+					GIGAZINE</a></p>
+			<p id="6407ef8d-7ebf-4d2e-a754-3e7769b87e8f" class=""><a
+					href="https://github.com/facebook/sapling">facebook/sapling: A Scalable, User-Friendly Source
+					Control System.</a></p>
+			<p id="58f091df-6213-45e1-9fe4-d83a9f02d854" class=""><a
+					href="https://ja.reactjs.org/docs/hooks-reference.html#usereducer">フック API リファレンス – React</a></p>
+			<p id="53b997de-6e42-4402-98ad-5f7fed4c5d8e" class=""><a
+					href="https://zenn.dev/spacemarket/articles/9eb80496fa5fe6">【React】1度だけ変更されるstateにはuseStateよりuseReducerを使う方が最適</a>
+			</p>
+			<p id="acb2a1b6-c0c0-45da-85a7-fff7770a7b42" class=""><a
+					href="https://zenn.dev/yuta28/articles/ssl-check-test">SSL脆弱性診断テストでA評価をとってみよう</a></p>
+			<p id="5fccc3ba-9434-4456-b74b-bb673573f351" class=""><a
+					href="https://ssl.sakura.ad.jp/column/ssl_tls/">SSLとTLSの違いとは | さくらのSSL</a></p>
+			<p id="194d89f3-a330-407f-b87a-d4aa4c4c8263" class=""><a
+					href="https://tex2e.github.io/rfc-translater/html/rfc8446.html">RFC 8446 - The Transport Layer
+					Security (TLS) Protocol Version 1.3 日本語訳</a></p>
+			<p id="63a49567-7091-4211-9af8-0860cad849e0" class=""><a
+					href="https://ja.wikipedia.org/wiki/Transport_Layer_Security">Transport Layer Security -
+					Wikipedia</a></p>
+			<p id="4dc50a04-9828-4f2c-951f-323d890bb3be" class=""><a
+					href="https://www.ipa.go.jp/security/ciadr/vul/alert20221102.html">OpenSSL
+					の脆弱性対策について(CVE-2022-3602、CVE-2022-3786)：IPA 独立行政法人 情報処理推進機構</a></p>
+			<p id="07ca9bbd-4a8c-457d-9e09-cb6fb8c1f8fd" class=""><a
+					href="https://codezine.jp/article/detail/16854">米国家安全保障局、CやC＋＋からメモリ安全なプログラミング言語への移行を推奨する文書を公開|CodeZine（コードジン）</a>
+			</p>
+			<p id="1168d7e4-15e8-49c7-9f10-12d88c770277" class=""><a
+					href="https://doc.rust-lang.org/reference/inline-assembly.html">Inline assembly - The Rust
+					Reference</a></p>
+			<p id="94638a94-4714-4bce-9242-455097c643f7" class=""><a
+					href="https://scrapbox.io/nyaagoo/Structural_Subtyping_vs_Nominal_Subtyping_%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B">Structural
+					Subtyping 
+]]></description>
+			<link>https://anchor.fm/tue-ofuro/episodes/Twitter-alternative--Sapling-Git-alternative-written-in-Rust--HSTS-Preload--OpenSSL-3-x-x--Structural-Subtyping-e1r0iej</link>
+			<guid isPermaLink="false">a6c2e62e-302a-4273-a916-5c8c4a6d7db5</guid>
+			<dc:creator><![CDATA[igtm, tmr, ymdarake]]></dc:creator>
+			<pubDate>Sat, 19 Nov 2022 04:50:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2b3dd74c/podcast/play/60884883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-19%2F627bdf96-f049-0133-0cdc-c49817bc6c7b.mp3" length="191176630" type="audio/mpeg"/>
+			<itunes:summary>&lt;p id=&quot;5ed2e99a-f6d0-4a61-b4ac-b5fa92b57271&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://cohost.org/rc/welcome&quot;&gt;cohost!&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;f495eeba-2896-4bc5-ba4c-443789c8bc1d&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://cohost.org/staff/post/168924-october-2022-financi&quot;&gt;cohost! - &amp;quot;October 2022
+					Financial Update&amp;quot;&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;4760b65f-9351-4ee6-8a72-8180bcadab0e&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://www.minds.com/&quot;&gt;Minds&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;871d1260-e85f-48b9-8c08-4f1e989bd731&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://tweetdeck.twitter.com/&quot;&gt;TweetDeck&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;dbca1a3a-7494-45ee-8cdf-c3186bc01e17&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://kizie.co/&quot;&gt;Kizie - A better Twitter
+					app for Web&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;b4fa4a91-c409-4283-a84a-aca6b8324673&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://social.vivaldi.net/explore&quot;&gt;エクスプローラー
+					- Vivaldi Social&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;6a12f702-9646-4d2e-a9d8-175660dd70f0&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://nitter.net/&quot;&gt;nitter&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;d1a19f16-6334-494b-84e6-2c95ad97ed98&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://feedly.com/&quot;&gt;Welcome to Feedly&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;6e1f15f1-f572-441a-8787-c91b18563d12&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://www.inoreader.com/language/japanese&quot;&gt;Inoreader - ニュースフィードを自由に操ろう&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;d844fbe7-2e5f-425f-abe5-66946421c0ce&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://fi.google.com/about/?pli=1&quot;&gt;Google Fi
+					- A Simple, Wireless Phone Plan With Unlimited Data&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;5974ec62-9095-4a5a-bd7d-ce927738449f&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://alternativeto.net/software/mastodon/&quot;&gt;Mastodon Alternatives: 25+ Social Networks and
+					Microblogs | AlternativeTo&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;9c2c75b6-3555-4e6f-bbab-ed5acf3375f7&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://social.vivaldi.net/@Vivaldi/109359048926498316&quot;&gt;Vivaldi: &amp;quot;The reception to
+					Vivaldi Socia…&amp;quot; - Vivaldi Social&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;80362663-7794-455b-abef-cc8745dfd860&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://gigazine.net/news/20221116-meta-sapling/&quot;&gt;Metaの大規模ソースコード管理システム「Sapling」がオープンソース化 -
+					GIGAZINE&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;6407ef8d-7ebf-4d2e-a754-3e7769b87e8f&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://github.com/facebook/sapling&quot;&gt;facebook/sapling: A Scalable, User-Friendly Source
+					Control System.&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;58f091df-6213-45e1-9fe4-d83a9f02d854&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://ja.reactjs.org/docs/hooks-reference.html#usereducer&quot;&gt;フック API リファレンス – React&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;53b997de-6e42-4402-98ad-5f7fed4c5d8e&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://zenn.dev/spacemarket/articles/9eb80496fa5fe6&quot;&gt;【React】1度だけ変更されるstateにはuseStateよりuseReducerを使う方が最適&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;acb2a1b6-c0c0-45da-85a7-fff7770a7b42&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://zenn.dev/yuta28/articles/ssl-check-test&quot;&gt;SSL脆弱性診断テストでA評価をとってみよう&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;5fccc3ba-9434-4456-b74b-bb673573f351&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://ssl.sakura.ad.jp/column/ssl_tls/&quot;&gt;SSLとTLSの違いとは | さくらのSSL&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;194d89f3-a330-407f-b87a-d4aa4c4c8263&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://tex2e.github.io/rfc-translater/html/rfc8446.html&quot;&gt;RFC 8446 - The Transport Layer
+					Security (TLS) Protocol Version 1.3 日本語訳&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;63a49567-7091-4211-9af8-0860cad849e0&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://ja.wikipedia.org/wiki/Transport_Layer_Security&quot;&gt;Transport Layer Security -
+					Wikipedia&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;4dc50a04-9828-4f2c-951f-323d890bb3be&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://www.ipa.go.jp/security/ciadr/vul/alert20221102.html&quot;&gt;OpenSSL
+					の脆弱性対策について(CVE-2022-3602、CVE-2022-3786)：IPA 独立行政法人 情報処理推進機構&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;07ca9bbd-4a8c-457d-9e09-cb6fb8c1f8fd&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://codezine.jp/article/detail/16854&quot;&gt;米国家安全保障局、CやC＋＋からメモリ安全なプログラミング言語への移行を推奨する文書を公開|CodeZine（コードジン）&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p id=&quot;1168d7e4-15e8-49c7-9f10-12d88c770277&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://doc.rust-lang.org/reference/inline-assembly.html&quot;&gt;Inline assembly - The Rust
+					Reference&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;94638a94-4714-4bce-9242-455097c643f7&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://scrapbox.io/nyaagoo/Structural_Subtyping_vs_Nominal_Subtyping_%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B&quot;&gt;Structural
+					Subtyping 
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:21:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Chrome 108, Viewport on Android, SVG sprite]]></title>
+			<description><![CDATA[<p id="1f796245-112e-4956-aec5-70c4bb5bb7e3" class=""><a
+					href="https://www.youtube.com/watch?app=desktop&amp;v=wquNdWx1dW4">Browser hacking: Let&#x27;s
+					finally log into Discord! - YouTube</a></p>
+			<p id="a1eb3d29-8a5e-4a11-9e76-af152e40a239" class=""><a
+					href="https://developer.chrome.com/blog/viewport-resize-behavior/">Prepare for viewport resize
+					behavior changes coming to Chrome on Android - Chrome Developers</a></p>
+			<p id="7a27aba0-3fda-4269-bcbc-298b40ed48c9" class=""><a
+					href="https://developer.chrome.com/blog/overflow-replaced-elements/">A change to overflow on
+					replaced elements in CSS - Chrome Developers</a></p>
+			<p id="7c391a98-e715-4c11-9fb3-9035ea4389e3" class=""><a
+					href="https://developers-jp.googleblog.com/2022/11/chrome-108-beta.html">Google Developers Japan:
+					Chrome 108 ベータ版 : CSS の新しいビューポートの単位、Federated Credential Management API、可変 COLRv1 フォントなど</a></p>
+			<p id="245abe62-e9dc-484b-87f2-216c72a818ec" class=""><a
+					href="https://groups.google.com/a/chromium.org/g/blink-dev/c/MuTeW_AFgxA/m/IlT4QVEfAgAJ">Intent to
+					Ship: CSS Overflow for replaced elements</a></p>
+			<p id="351e286e-df59-4156-b69d-c0e54b8c795e" class=""><a
+					href="https://pepelsbey.dev/articles/svg-sprites/">SVG sprites: old-school, modern, unknown, and
+					forgotten — Vadim Makeev</a></p>
+			<p id="f261c849-f68a-49d4-9d69-8d7a3656a42a" class=""><a
+					href="https://www.digital.go.jp/policies/servicedesign/designsystem/">デザインシステム｜デジタル庁</a></p>
+			<p id="c74cbd50-63b8-4b60-83e6-1a32dd4d0a12" class=""><a
+					href="https://twitter.com/kamo_kamos/status/1590952806139457537?s=20&amp;t=uoh51Df7_HhTfJQX8WROUg">COCOA機能停止版アプリ
+					/ Twitter</a></p>
+]]></description>
+			<link>https://anchor.fm/tue-ofuro/episodes/Chrome-108--Viewport-on-Android--SVG-sprite-e1qkpeu</link>
+			<guid isPermaLink="false">691aa02c-4114-45d1-82bd-b0746c2cedd3</guid>
+			<dc:creator><![CDATA[igtm, tmr, ymdarake]]></dc:creator>
+			<pubDate>Sat, 12 Nov 2022 03:51:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2b3dd74c/podcast/play/60498846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-12%2F08147c06-5315-a45b-6af3-85d88ae946bd.mp3" length="126765976" type="audio/mpeg"/>
+			<itunes:summary>&lt;p id=&quot;1f796245-112e-4956-aec5-70c4bb5bb7e3&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://www.youtube.com/watch?app=desktop&amp;amp;v=wquNdWx1dW4&quot;&gt;Browser hacking: Let&amp;#x27;s
+					finally log into Discord! - YouTube&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a1eb3d29-8a5e-4a11-9e76-af152e40a239&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://developer.chrome.com/blog/viewport-resize-behavior/&quot;&gt;Prepare for viewport resize
+					behavior changes coming to Chrome on Android - Chrome Developers&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;7a27aba0-3fda-4269-bcbc-298b40ed48c9&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://developer.chrome.com/blog/overflow-replaced-elements/&quot;&gt;A change to overflow on
+					replaced elements in CSS - Chrome Developers&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;7c391a98-e715-4c11-9fb3-9035ea4389e3&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://developers-jp.googleblog.com/2022/11/chrome-108-beta.html&quot;&gt;Google Developers Japan:
+					Chrome 108 ベータ版 : CSS の新しいビューポートの単位、Federated Credential Management API、可変 COLRv1 フォントなど&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;245abe62-e9dc-484b-87f2-216c72a818ec&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://groups.google.com/a/chromium.org/g/blink-dev/c/MuTeW_AFgxA/m/IlT4QVEfAgAJ&quot;&gt;Intent to
+					Ship: CSS Overflow for replaced elements&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;351e286e-df59-4156-b69d-c0e54b8c795e&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://pepelsbey.dev/articles/svg-sprites/&quot;&gt;SVG sprites: old-school, modern, unknown, and
+					forgotten — Vadim Makeev&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;f261c849-f68a-49d4-9d69-8d7a3656a42a&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://www.digital.go.jp/policies/servicedesign/designsystem/&quot;&gt;デザインシステム｜デジタル庁&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;c74cbd50-63b8-4b60-83e6-1a32dd4d0a12&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://twitter.com/kamo_kamos/status/1590952806139457537?s=20&amp;amp;t=uoh51Df7_HhTfJQX8WROUg&quot;&gt;COCOA機能停止版アプリ
+					/ Twitter&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:34:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>83</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[RUST, JSONC, TOML, openapi-yup-generator, ri-calculator, TUI, Nextjs 13, Turbopack]]></title>
+			<description><![CDATA[<p id="cc5ddbf1-33f3-4cf1-b0c2-762989c3e04f" class=""><a
+					href="https://news.mynavi.jp/techplus/article/zerojavascript-18/">ゼロからはじめるJavaScript(18)
+					可読性と表現力の高いデータ形式「JSONC」を活用しよう | TECH+（テックプラス）</a></p>
+			<p id="2f2234ac-8fc5-468c-a2f6-b2109aa0e849" class=""><a
+					href="https://zenn.dev/mirko_san/articles/293f32950ba6c2">TOML っていいな</a></p>
+			<p id="32cb47f1-9864-4336-8925-f38e0e401b5e" class=""><a
+					href="http://var.blog.jp/archives/80715049.html">やっぱり YAML は無いと思う</a></p>
+			<p id="a07032df-7f39-4546-b72f-867ec091299b" class=""><a
+					href="https://github.com/igtm/openapi-yup-generator">GitHub - igtm/openapi-yup-generator: CLI tool
+					for generating yup definitions from openapi3.yaml</a></p>
+			<p id="9679aa02-14fa-4c53-8d14-40b111fb72dc" class=""><a
+					href="https://zenn.dev/igtm/articles/1c216e593524dc">OpenAPI 定義からyup定義を生成するRust製CLIを作ってみた</a></p>
+			<p id="fbf0156a-127a-45e8-bdd9-a5544c6074dc" class=""><a
+					href="https://doc.rust-lang.org/book/ch17-02-trait-objects.html#defining-a-trait-for-common-behavior">Using
+					Trait Objects That Allow for Values of Different Types - The Rust Programming Language</a></p>
+			<p id="236e1fb1-0e3b-4468-803c-75403c85c9b2" class=""><a href="https://github.com/igtm/ri-calculator">GitHub
+					- igtm/ri-calculator </a></p>
+			<p id="0df972f5-bf09-44ad-9e88-213c9a3673c4" class=""><a href="https://github.com/fdehau/tui-rs">GitHub -
+					fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust</a></p>
+			<p id="52097e3e-f333-45f3-8191-14e0f60c0290" class=""><a
+					href="https://thinkit.co.jp/article/19772">Kubernetesを操作するターミナル用ツール、K9sとKDashを紹介 | Think
+					IT（シンクイット）</a></p>
+			<p id="a9c15236-bc45-4447-91d5-4b2935582569" class=""><a href="https://github.com/Geal/nom">GitHub -
+					Geal/nom: Rust parser combinator framework</a></p>
+			<p id="3fde93ff-d75f-4a6b-9b72-0f5f88ce3cb0" class=""><a
+					href="https://docs.rs/tui/latest/tui/#get-started">tui - Rust</a></p>
+			<p id="bd82db50-e7d9-42d6-966d-6a07f8395ab2" class=""><a
+					href="https://tomoyuki-nakabayashi.github.io/book/c-tips/index.html">組込みC開発者へのヒント - The Embedded
+					Rust Book</a></p>
+			<p id="2d64e70f-f690-40a7-9fdf-1defaf9c244f" class=""><a
+					href="https://doc.rust-jp.rs/book-ja/ch07-02-defining-modules-to-control-scope-and-privacy.html">モジュールを定義して、スコープとプライバシーを制御する
+					- The Rust Programming Language 日本語版</a></p>
+			<p id="bc91b981-d605-4242-ab18-4ac654d963bc" class=""><a
+					href="https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html">Defining
+					Modules to Control Scope and Privacy - The Rust Programming Language</a></p>
+			<p id="acb57ee0-9548-4c5f-84eb-ff174f0a71b3" class=""><a
+					href="https://github.com/rust-build/rust-build.action/issues/4">Add more support for targets · Issue
+					#4 · rust-build/rust-build.action · GitHub</a></p>
+			<p id="a4e99ee7-9658-482c-a888-9f1aebc8fce3" class=""><a href="https://nextjs.org/blog/next-13">Blog -
+					Next.js 13 | Next.js</a></p>
+			<p id="a293a54c-b429-41c2-8dd7-0d1e8bef34bb" class=""><a
+					href="https://vercel.com/blog/turbopack">Introducing Turbopack: Rust-based successor to Webpack –
+					Vercel</a></p>
+			<p id="de796a6f-aaf3-42e7-a8c4-4fcc1324efce" class=""><a href="https://github.com/vercel/turbo">GitHub -
+					vercel/turbo: Incremental bundler and build system optimized for JavaScript and TypeScript, written
+					in Rust – including Turborepo and Turbopack.</a></p>
+			<p id="1d215af4-ba2a-4340-988b-698a3a6f0475" class=""><a href="https://www.nushell.sh/ja/">Nushell</a></p>
+			<p id="4d3e11f3-fbc5-40dd-a957-6bd9ed804e58" class=""><a href="https://github.com/ogham/exa">GitHub -
+					ogham/exa: A modern replacement for ‘ls’.</a></p>
+			<p id="d282c96b-8b93-4ea0-974e-bdfad2f5349d" class=""><a href="https://github.com/ogham/dog">GitHub -
+					ogham/dog: A command-line DNS client.</a></p>
+			<p id="ee884dca-8a20-4ce9-b1f5-3525e840fdec" class=""><a href="https://github.com/sharkdp/bat">GitHub -
+					s
+]]></description>
+			<link>https://anchor.fm/tue-ofuro/episodes/RUST--JSONC--TOML--openapi-yup-generator--ri-calculator--TUI--Nextjs-13--Turbopack-e1q970v</link>
+			<guid isPermaLink="false">47cf4e39-499b-4548-abbe-36c42a627795</guid>
+			<dc:creator><![CDATA[igtm, tmr, ymdarake]]></dc:creator>
+			<pubDate>Sat, 05 Nov 2022 04:54:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2b3dd74c/podcast/play/60119519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-5%2F588b26d3-3d03-80eb-93af-1edfbb8fa857.mp3" length="249437178" type="audio/mpeg"/>
+			<itunes:summary>&lt;p id=&quot;cc5ddbf1-33f3-4cf1-b0c2-762989c3e04f&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://news.mynavi.jp/techplus/article/zerojavascript-18/&quot;&gt;ゼロからはじめるJavaScript(18)
+					可読性と表現力の高いデータ形式「JSONC」を活用しよう | TECH+（テックプラス）&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;2f2234ac-8fc5-468c-a2f6-b2109aa0e849&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://zenn.dev/mirko_san/articles/293f32950ba6c2&quot;&gt;TOML っていいな&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;32cb47f1-9864-4336-8925-f38e0e401b5e&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;http://var.blog.jp/archives/80715049.html&quot;&gt;やっぱり YAML は無いと思う&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a07032df-7f39-4546-b72f-867ec091299b&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://github.com/igtm/openapi-yup-generator&quot;&gt;GitHub - igtm/openapi-yup-generator: CLI tool
+					for generating yup definitions from openapi3.yaml&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;9679aa02-14fa-4c53-8d14-40b111fb72dc&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://zenn.dev/igtm/articles/1c216e593524dc&quot;&gt;OpenAPI 定義からyup定義を生成するRust製CLIを作ってみた&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;fbf0156a-127a-45e8-bdd9-a5544c6074dc&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://doc.rust-lang.org/book/ch17-02-trait-objects.html#defining-a-trait-for-common-behavior&quot;&gt;Using
+					Trait Objects That Allow for Values of Different Types - The Rust Programming Language&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;236e1fb1-0e3b-4468-803c-75403c85c9b2&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/igtm/ri-calculator&quot;&gt;GitHub
+					- igtm/ri-calculator &lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;0df972f5-bf09-44ad-9e88-213c9a3673c4&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/fdehau/tui-rs&quot;&gt;GitHub -
+					fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;52097e3e-f333-45f3-8191-14e0f60c0290&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://thinkit.co.jp/article/19772&quot;&gt;Kubernetesを操作するターミナル用ツール、K9sとKDashを紹介 | Think
+					IT（シンクイット）&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a9c15236-bc45-4447-91d5-4b2935582569&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/Geal/nom&quot;&gt;GitHub -
+					Geal/nom: Rust parser combinator framework&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;3fde93ff-d75f-4a6b-9b72-0f5f88ce3cb0&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://docs.rs/tui/latest/tui/#get-started&quot;&gt;tui - Rust&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;bd82db50-e7d9-42d6-966d-6a07f8395ab2&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://tomoyuki-nakabayashi.github.io/book/c-tips/index.html&quot;&gt;組込みC開発者へのヒント - The Embedded
+					Rust Book&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;2d64e70f-f690-40a7-9fdf-1defaf9c244f&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://doc.rust-jp.rs/book-ja/ch07-02-defining-modules-to-control-scope-and-privacy.html&quot;&gt;モジュールを定義して、スコープとプライバシーを制御する
+					- The Rust Programming Language 日本語版&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;bc91b981-d605-4242-ab18-4ac654d963bc&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html&quot;&gt;Defining
+					Modules to Control Scope and Privacy - The Rust Programming Language&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;acb57ee0-9548-4c5f-84eb-ff174f0a71b3&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://github.com/rust-build/rust-build.action/issues/4&quot;&gt;Add more support for targets · Issue
+					#4 · rust-build/rust-build.action · GitHub&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a4e99ee7-9658-482c-a888-9f1aebc8fce3&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://nextjs.org/blog/next-13&quot;&gt;Blog -
+					Next.js 13 | Next.js&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;a293a54c-b429-41c2-8dd7-0d1e8bef34bb&quot; class=&quot;&quot;&gt;&lt;a
+					href=&quot;https://vercel.com/blog/turbopack&quot;&gt;Introducing Turbopack: Rust-based successor to Webpack –
+					Vercel&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;de796a6f-aaf3-42e7-a8c4-4fcc1324efce&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/vercel/turbo&quot;&gt;GitHub -
+					vercel/turbo: Incremental bundler and build system optimized for JavaScript and TypeScript, written
+					in Rust – including Turborepo and Turbopack.&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;1d215af4-ba2a-4340-988b-698a3a6f0475&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://www.nushell.sh/ja/&quot;&gt;Nushell&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;4d3e11f3-fbc5-40dd-a957-6bd9ed804e58&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/ogham/exa&quot;&gt;GitHub -
+					ogham/exa: A modern replacement for ‘ls’.&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;d282c96b-8b93-4ea0-974e-bdfad2f5349d&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/ogham/dog&quot;&gt;GitHub -
+					ogham/dog: A command-line DNS client.&lt;/a&gt;&lt;/p&gt;
+			&lt;p id=&quot;ee884dca-8a20-4ce9-b1f5-3525e840fdec&quot; class=&quot;&quot;&gt;&lt;a href=&quot;https://github.com/sharkdp/bat&quot;&gt;GitHub -
+					s
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:34:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/7154731/7154731-1595051214182-f0cd9b8360871.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>82</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Design System, Font-Family, .well-known/change-password]]></title>
 			<description><![CDATA[<p id="30f2ce22-3a0f-42d9-836c-4cbf333c7f68" class=""><a

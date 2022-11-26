@@ -12,7 +12,7 @@
 			<link>https://anchor.fm/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 26 Oct 2022 06:29:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Nov 2022 10:36:36 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,38 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[49: HTTPSのRFCが更新されてCN検証が禁止になった話]]></title>
+			<description><![CDATA[<p>ご無沙汰しております！休暇中の設備で録音したためひとけーだけ音がよくないです、すみません。IIJ Engineers Blogで2022年6月に発行されたRFC9110(HTTP Semantics)でHTTPSでの証明書検証においてサーバのアイデンティティの確認にCommon Name(CN)項目は使えません(CN-ID MUST NOT be used by clients)と決められた話をしています。すでにChromeでは2017年くらいからSubject Alt Name(SAN)を使うような動作になっています。</p>
+<p>雑談ではゆりかさんが素数ゼミの本を読んだ話、ひとけーが家の窓にできた蜂の巣を観察している話をしました。</p>
+<ul>
+ <li>HTTPS 証明書の Common Name の検証がしれっと禁止されていた件について<br>
+<a href="https://eng-blog.iij.ad.jp/archives/14820" rel="noreferrer noopener" target="_blank">https://eng-blog.iij.ad.jp/archives/14820</a></li>
+ <li>素数ゼミの謎<br>
+<a href="https://www.amazon.co.jp/dp/B0855L5QZ9" rel="noreferrer noopener" target="_blank">https://www.amazon.co.jp/dp/B0855L5QZ9</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/49-HTTPSRFCCN-e1r4r2b</link>
+			<guid isPermaLink="false">42da80e9-12c6-4942-a78c-6d1a0fc45583</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 22 Nov 2022 10:34:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/61024779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F14f6249f-27c0-eafc-0417-807a611d5f1e.mp3" length="18325128" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ご無沙汰しております！休暇中の設備で録音したためひとけーだけ音がよくないです、すみません。IIJ Engineers Blogで2022年6月に発行されたRFC9110(HTTP Semantics)でHTTPSでの証明書検証においてサーバのアイデンティティの確認にCommon Name(CN)項目は使えません(CN-ID MUST NOT be used by clients)と決められた話をしています。すでにChromeでは2017年くらいからSubject Alt Name(SAN)を使うような動作になっています。&lt;/p&gt;
+&lt;p&gt;雑談ではゆりかさんが素数ゼミの本を読んだ話、ひとけーが家の窓にできた蜂の巣を観察している話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;HTTPS 証明書の Common Name の検証がしれっと禁止されていた件について&lt;br&gt;
+&lt;a href=&quot;https://eng-blog.iij.ad.jp/archives/14820&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://eng-blog.iij.ad.jp/archives/14820&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;素数ゼミの謎&lt;br&gt;
+&lt;a href=&quot;https://www.amazon.co.jp/dp/B0855L5QZ9&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://www.amazon.co.jp/dp/B0855L5QZ9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[48: BIMIの利用拡大とLet's EncryptがCRL発行を始める話、技術書典13に本を出した話
 ]]></title>

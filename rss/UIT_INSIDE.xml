@@ -20,6 +20,36 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.134 『質問者代表が語る！ Tech-Verse 2022 フロントエンドセッションの見どころ』</title>
+    <link>https://uit-inside.linecorp.com/episode/134</link>
+    <pubDate>Wed, 16 Nov 2022 03:15:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が Tech-Verse のセッション質問者代表の @jaycompsci, @naoto.ikuno, @yukishiba, @showkittie に、各セッションのみどころを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/134</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode134.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),jaycompsci(jaycompsci),Ikuno Naoto(naoto.ikuno),yukishiba(yukishiba),showkittie(showkittie)</itunes:author>
+    <itunes:subtitle>ep.134 『質問者代表が語る！ Tech-Verse 2022 フロントエンドセッションの見どころ』</itunes:subtitle>
+    <itunes:duration>15:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode134.png"/>
+  </item>
+  <item>
+    <title>ep.133 「UIT Meetup vol.17 『もっと好きになる Vue.js』 Aftershow」</title>
+    <link>https://uit-inside.linecorp.com/episode/133</link>
+    <pubDate>Fri, 04 Nov 2022 08:30:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@sunecosuri が UIT Meetup vol.17 「もっと好きになるVue.js」のAfter Show として、登壇者の @T28tatsuya @kazupon @ota-meshi @kiaking58 の4人に話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/133</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit_inside_134.mp3" type="audio/mp3"/>
+    <itunes:author>kazuya kawaguchi(kazupon),T28_tatsuya(T28_tatsuya),sunecosuri(sunecosuri),Kia King Ishii(kiaking),ota-meshi(ota-meshi)</itunes:author>
+    <itunes:subtitle>ep.133 「UIT Meetup vol.17 『もっと好きになる Vue.js』 Aftershow」</itunes:subtitle>
+    <itunes:duration>39:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode133.png"/>
+  </item>
+  <item>
     <title>ep.132『Changesetsではじめる 継続的なmonorepoリリース』</title>
     <link>https://uit-inside.linecorp.com/episode/132</link>
     <pubDate>Fri, 07 Oct 2022 09:00:00 GMT</pubDate>
@@ -1488,36 +1518,6 @@
     <itunes:duration>28:17</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode035.png"/>
-  </item>
-  <item>
-    <title>ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」</title>
-    <link>https://uit-inside.linecorp.com/episode/34</link>
-    <pubDate>Fri, 21 Feb 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining が @nozomuikuta, @potato4d と共に、 Vue 3 の named export 事情、Tree Shaking の仕組み、Podcastでの抜き打ちバンドルアナライズ結果などについて話しました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/34</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-034-02.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
-    <itunes:subtitle>ep.34 Vue 3 Study「バンドルサイズを減らすTree Shakingとその方法」</itunes:subtitle>
-    <itunes:duration>24:31</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode034.png"/>
-  </item>
-  <item>
-    <title>ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり</title>
-    <link>https://uit-inside.linecorp.com/episode/33</link>
-    <pubDate>Fri, 14 Feb 2020 03:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d が極北の TypeScripter @uhyo_ に、 LINE 証券における TypeScript の実践状況について聞いてみました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/33</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-033.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),uhyo(uhyo_)</itunes:author>
-    <itunes:subtitle>ep.33 TypeScript による品質へのこだわり - 極北から現場までの道のり</itunes:subtitle>
-    <itunes:duration>35:19</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode033.png"/>
   </item>
   </channel>
 </rss>

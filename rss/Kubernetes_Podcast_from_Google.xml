@@ -8,20 +8,20 @@
             <link>https://kubernetespodcast.com</link>
         </image>
         <description>
-            A weekly podcast focused on what's happening in the Kubernetes community. We cover Kubernetes, cloud-native applications, and other developments in the ecosystem. Host Craig Box can be reached on Twitter at @KubernetesPod or by email at kubernetespodcast@google.com.
+            A weekly podcast focused on what's happening in the Kubernetes community. We cover Kubernetes, cloud-native applications, and other developments in the ecosystem. Hosts Abdel Sghiouar and Kaslin fields can be reached on Twitter at @KubernetesPod or by email at kubernetespodcast@google.com.
         </description>
         <language>en-us</language>
         <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
         <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
         <atom:link href="https://kubernetespodcast.com/feeds/audio.xml" rel="self" type="application/rss+xml"/>
         <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://kubernetespodcast.com/feeds/audio.xml" />
-        <lastBuildDate>Fri, 28 Oct 2022 11:57:33 +0200</lastBuildDate>
-        <pubDate>Fri, 28 Oct 2022 11:57:33 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:01:38 +0100</lastBuildDate>
+        <pubDate>Thu, 24 Nov 2022 11:01:38 +0100</pubDate>
         <ttl>720</ttl>
         <itunes:type>episodic</itunes:type>
-        <itunes:author>Craig Box</itunes:author>
+        <itunes:author>Abdel Sghiouar and Kaslin fields</itunes:author>
         <itunes:summary>
-            A weekly podcast focused on what's happening in the Kubernetes community. We cover Kubernetes, cloud-native applications, and other developments in the ecosystem. Host Craig Box can be reached on Twitter at @KubernetesPod or by email at kubernetespodcast@google.com.
+            A weekly podcast focused on what's happening in the Kubernetes community. We cover Kubernetes, cloud-native applications, and other developments in the ecosystem. Hosts Abdel Sghiouar and Kaslin fields can be reached on Twitter at @KubernetesPod or by email at kubernetespodcast@google.com.
         </itunes:summary>
         <itunes:subtitle>A weekly podcast focused on what's happening in the Kubernetes community</itunes:subtitle>
         <itunes:owner>
@@ -39,6 +39,262 @@
         <itunes:category text="Technology" />
         </itunes:category>
 
+        
+        <item>
+            <title>Kubernetes on Vessels, with Louis Bailleul</title>
+            <link>https://kubernetespodcast.com/episode/194-kubernetes-on-vessels/</link>
+            <pubDate>Thu, 24 Nov 2022 10:52:06 +0100</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep194.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep194.mp3" length="51524274" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>194</itunes:episode>
+            <itunes:duration>00:42:55</itunes:duration>
+            <description><![CDATA[<p><a href="https://www.linkedin.com/in/louisbailleul/">Louis Bailleul</a> is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/193-kubecon-na-2022/">Listen to the KubeCon NA 2022 recap episode</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://docs.docker.com/desktop/wasm/">Docker + Wasm</a></li>
+<li><a href="https://istio.io/latest/news/security/istio-security-2022-007/">Istio control plane vulnerability CVE-2022-39278</a></li>
+<li><a href="https://opensource.googleblog.com/2022/10/kubeflow-applies-to-become-a-cncf-incubating-project.html">KubeFlow joins CNCF as an Incubating Project</a></li>
+<li><a href="https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142x/">CNCF Backstage course</a></li>
+<li><a href="https://www.linuxfoundation.org/press/new-free-course-introduces-learners-to-the-popular-open-source-service-mesh-platform-istio">CNCF Istio intro course</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://www.pgs.com/">PGS</a></li>
+<li><a href="https://www.pgs.com/globalassets/fleet/ramform/pgs_ramformtitan_pgs02166_rgb_860x484px.jpg">A picture of a PGS vessel</a></li>
+<li><a href="https://www.pgs.com/company/newsroom/news/global-rankings-confirm-pgs-lead-in-hpc/">PGS post from 2021 about their supercomputing rankings and transition to Google Cloud</a></li>
+<li><a href="https://www.top500.org/">Top500 List</a></li>
+<li><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/">Kubernetes Custom Resources (CRDs)</a></li>
+<li><a href="https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/">Scaling Kubernetes to Thousands of CRDs</a></li>
+<li><a href="https://cloud.google.com/spot-vms">Google Cloud Spot Instances</a></li>
+<li><a href="https://cloud.google.com/compute/docs/instances/preemptible">Google Cloud Preemptible VM Instances</a></li>
+<li><a href="https://cloud.google.com/architecture/framework/operational-excellence/manage-capacity-and-quota">Google Cloud - Manage capacity and quota</a></li>
+<li><a href="https://youtu.be/YjZ4AZ7hRM0">KubeCon NA 2019: How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan</a></li>
+<li><a href="https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541">Bare Metal K8s Clustering at Chick-fil-A Scale by Brian Chambers, Caleb Hurd, and Alex Crane</a></li>
+</ul>]]></description>
+            <itunes:summary>Louis Bailleul is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!
+</itunes:summary>
+            
+            <itunes:subtitle>Louis Bailleul is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p><a href="https://www.linkedin.com/in/louisbailleul/">Louis Bailleul</a> is a Chief Enterprise Architect at PGS. After years of running highly-ranked super computers to process PGS’ seismic data, Louis’s team at PGS has lead a transition to Google Cloud. Listen in to learn about HPC in Google Cloud with GKE, and to explore using Kubernetes to do processing on vessels at sea!</p>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="chatter-of-the-week">Chatter of the week</h3>
+<ul>
+<li><a href="https://kubernetespodcast.com/episode/193-kubecon-na-2022/">Listen to the KubeCon NA 2022 recap episode</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://docs.docker.com/desktop/wasm/">Docker + Wasm</a></li>
+<li><a href="https://istio.io/latest/news/security/istio-security-2022-007/">Istio control plane vulnerability CVE-2022-39278</a></li>
+<li><a href="https://opensource.googleblog.com/2022/10/kubeflow-applies-to-become-a-cncf-incubating-project.html">KubeFlow joins CNCF as an Incubating Project</a></li>
+<li><a href="https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142x/">CNCF Backstage course</a></li>
+<li><a href="https://www.linuxfoundation.org/press/new-free-course-introduces-learners-to-the-popular-open-source-service-mesh-platform-istio">CNCF Istio intro course</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://www.pgs.com/">PGS</a></li>
+<li><a href="https://www.pgs.com/globalassets/fleet/ramform/pgs_ramformtitan_pgs02166_rgb_860x484px.jpg">A picture of a PGS vessel</a></li>
+<li><a href="https://www.pgs.com/company/newsroom/news/global-rankings-confirm-pgs-lead-in-hpc/">PGS post from 2021 about their supercomputing rankings and transition to Google Cloud</a></li>
+<li><a href="https://www.top500.org/">Top500 List</a></li>
+<li><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/">Kubernetes Custom Resources (CRDs)</a></li>
+<li><a href="https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/">Scaling Kubernetes to Thousands of CRDs</a></li>
+<li><a href="https://cloud.google.com/spot-vms">Google Cloud Spot Instances</a></li>
+<li><a href="https://cloud.google.com/compute/docs/instances/preemptible">Google Cloud Preemptible VM Instances</a></li>
+<li><a href="https://cloud.google.com/architecture/framework/operational-excellence/manage-capacity-and-quota">Google Cloud - Manage capacity and quota</a></li>
+<li><a href="https://youtu.be/YjZ4AZ7hRM0">KubeCon NA 2019: How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan</a></li>
+<li><a href="https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541">Bare Metal K8s Clustering at Chick-fil-A Scale by Brian Chambers, Caleb Hurd, and Alex Crane</a></li>
+</ul>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
+        
+        <item>
+            <title>KubeCon NA 2022</title>
+            <link>https://kubernetespodcast.com/episode/193-kubecon-na-2022/</link>
+            <pubDate>Thu, 10 Nov 2022 20:16:34 +0100</pubDate>
+            <guid isPermaLink="false">https://kubernetespodcast.com/episodes/KPfGep193.mp3</guid>
+            <enclosure url="https://kubernetespodcast.com/episodes/KPfGep193.mp3" length="65022014" type="audio/mpeg"/>
+            <itunes:image href="https://kubernetespodcast.com/_assets/images/Kubernetes-Podcast-Logo_1400x1400.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>193</itunes:episode>
+            <itunes:duration>00:45:08</itunes:duration>
+            <description><![CDATA[<p>In this episode we bring you with us to KubeCon NA 2022 in Detroit, Michigan. We interviewed 15 attendees from various backgrounds and learned some cool insights.</p>
+<p>Featuring:</p>
+<ul>
+<li><a href="https://github.com/enj">Mo Khan</a>, Software Engineer, Microsoft.</li>
+<li><a href="https://www.linkedin.com/in/knverey/">Katrina Verey</a>, Senior Staff Production Engineer, Shopify.</li>
+<li><a href="https://www.linkedin.com/in/aishwaryaharpale/?originalSubdomain=in">Aishwarya Harpale</a>, Student, Rutgers University.</li>
+<li><a href="https://www.linkedin.com/in/jeefy">Jeffery Sica</a>, Principal Developer Experience Engineer, CNCF.</li>
+<li><a href="https://www.linkedin.com/in/kirstenschumy">Kirsten Schumy</a>, Software Engineer, AWS.</li>
+<li><a href="https://www.linkedin.com/in/jprorama">John-Paul Robinson</a>, HPC Architect, University of Alabama at Birmingham.</li>
+<li><a href="https://twitter.com/madhavjivrajani">Madhav Jivrajani</a>, Software Engineer, Vmware.</li>
+<li><a href="https://www.linkedin.com/in/leighcs">Leigh Capili</a>, Developer Advocate, Vmware Tanzu.</li>
+<li><a href="https://ca.linkedin.com/in/nimesha-nim-jayawardena-3b4a1396">Nim Jayawardena</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://ca.linkedin.com/in/charlieyu1996">Charlie Yu</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://ca.linkedin.com/in/ahrarmonsur">Ahrar Monsur</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://www.linkedin.com/in/mickeyboxell">Mickey Boxell</a>, Product Manager, Oracle.</li>
+<li><a href="https://www.linkedin.com/in/eddiezane/">Eddie Zaneski</a>, Software Engineer, Chainuard.</li>
+<li><a href="https://www.linkedin.com/in/andypiggott/">Andy Piggott</a>, Chief Product Officer, Section.</li>
+<li><a href="https://www.linkedin.com/in/logan-smith-86513291">Logan Smith</a>, Director of Business Development, GrafanaLabs.</li>
+<li><a href="https://twitter.com/briandorsey?lang=en">Brian Dorsey</a>, Developer Advocate, Google - Shoutout for recommending the microphones for interviews.</li>
+</ul>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.crowdstrike.com/blog/new-kiss-a-dog-cryptojacking-campaign-targets-docker-and-kubernetes/">CrowdStrike cryptojacking finding</a></li>
+<li><a href="https://cloud.google.com/blog/products/application-development/skaffold-v2-is-generally-available">Skaffold v2 Generally Available</a></li>
+<li>GKE Security Posture Dashboard
+<ul>
+<li><a href="https://cloud.google.com/blog/products/identity-security/introducing-new-gke-interface-for-streamlined-security-management">Blog</a></li>
+<li><a href="https://youtu.be/Qe1nS3H1nvo">Video</a></li>
+</ul>
+</li>
+<li>Cdk8s+ from AWS
+<ul>
+<li><a href="https://aws.amazon.com/blogs/containers/announcing-general-availability-of-cdk8s-plus-and-support-for-manifest-validation/">Blog</a></li>
+<li><a href="https://www.cncf.io/projects/cdk-for-kubernetes-cdk8s/">Project page</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/cncf/sandbox">CNCF Sandbox project application information</a></li>
+<li><a href="https://www.cncf.io/blog/2022/09/28/istio-sails-into-the-cloud-native-computing-foundation/">Istio becomes a CNCF Incubating project</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/19/cert-manager-becomes-a-cncf-incubating-project/">Cert-manager becomes a CNCF Incubating project</a></li>
+<li><a href="https://blogs.cisco.com/developer/functionclarity01">Cisco OpenClarity</a></li>
+<li><a href="https://thenewstack.io/kubernetes-networking-bug-uncovered-and-fixed/">Kube-router bug</a></li>
+<li><a href="https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next22-wrap-up">Google Cloud Next Wrap-Up</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2022/10/12/microsoft-ignite-a-showcase-of-products-to-help-customers-be-more-efficient-and-productive/">Microsoft Ignite highlights blog</a></li>
+<li><a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/">Cloud Native SecurityCon</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/26/linux-foundation-and-cncf-partner-with-razom-for-ukraine/">Linux Foundation partnership with Razom for Ukraine</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://github.com/kubernetes/community/blob/master/sig-auth/README.md">Kubernetes SIG Auth</a></li>
+<li><a href="https://github.com/kubernetes/community/tree/master/sig-api-machinery">Kubernetes SIG API Machinery</a></li>
+<li><a href="https://fluxcd.io/">FluxCD</a></li>
+<li><a href="https://github.com/GoogleCloudPlatform/microservices-demo">Online Boutique Sample App</a></li>
+<li><a href="https://github.com/kubernetes/community/blob/master/sig-cli/README.md">Kubernetes SIG-CLI</a></li>
+<li><a href="https://sched.co/182M2">Cloud Native 101: Motor City Edition by Bob Killen and Jeffrey Sica</a></li>
+<li><a href="https://sched.co/182Dr">Consumers to Contributors by Brendan O’Leary</a></li>
+<li><a href="https://sched.co/182DK">Kubernet-Bees: How Bees Solve the Problems of Distributed Systems</a></li>
+<li><a href="https://www.schedmd.com/">SchedMD Slurm</a></li>
+<li><a href="https://github.com/kube-bind/kube-bind">Kube-bind</a></li>
+<li><a href="https://github.com/etcd-io/etcd/blob/main/CONTRIBUTING.md">Contribute to etcd!</a></li>
+<li><a href="https://events.linuxfoundation.org/cloud-native-wasm-day-north-america/">Cloud Native WASM Day</a></li>
+<li><a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/">Cloud Native SecurityCon</a></li>
+<li><a href="https://backstage.io/">Backstage (Incubating CNCF Project)</a></li>
+<li><a href="https://ebpf.io/">eBPF</a></li>
+<li><a href="https://cilium.io/">Cilium (Incubating CNCF Project)</a></li>
+<li><a href="https://acorn.io/">Acorn Labs</a></li>
+<li><a href="https://www.startrek.com/database_article/mind-meld-vulcan">Vulcan Mind-Meld (Star Trek)</a></li>
+<li><a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/kids-day/">Kids’ Day at KubeCon NA 2022</a></li>
+</ul>
+
+]]></description>
+            <itunes:summary>In this episode we bring you with us to KubeCon NA 2022 in Detroit, Michigan. We interviewed 15 attendees from various backgrounds and learned some cool insights.
+</itunes:summary>
+            
+            <itunes:subtitle>In this episode we bring you with us to KubeCon NA 2022 in Detroit, Michigan. We interviewed 15 attendees from various backgrounds and learned some cool insights.</itunes:subtitle>
+            
+            <content:encoded><![CDATA[<p>In this episode we bring you with us to KubeCon NA 2022 in Detroit, Michigan. We interviewed 15 attendees from various backgrounds and learned some cool insights.</p>
+<p>Featuring:</p>
+<ul>
+<li><a href="https://github.com/enj">Mo Khan</a>, Software Engineer, Microsoft.</li>
+<li><a href="https://www.linkedin.com/in/knverey/">Katrina Verey</a>, Senior Staff Production Engineer, Shopify.</li>
+<li><a href="https://www.linkedin.com/in/aishwaryaharpale/?originalSubdomain=in">Aishwarya Harpale</a>, Student, Rutgers University.</li>
+<li><a href="https://www.linkedin.com/in/jeefy">Jeffery Sica</a>, Principal Developer Experience Engineer, CNCF.</li>
+<li><a href="https://www.linkedin.com/in/kirstenschumy">Kirsten Schumy</a>, Software Engineer, AWS.</li>
+<li><a href="https://www.linkedin.com/in/jprorama">John-Paul Robinson</a>, HPC Architect, University of Alabama at Birmingham.</li>
+<li><a href="https://twitter.com/madhavjivrajani">Madhav Jivrajani</a>, Software Engineer, Vmware.</li>
+<li><a href="https://www.linkedin.com/in/leighcs">Leigh Capili</a>, Developer Advocate, Vmware Tanzu.</li>
+<li><a href="https://ca.linkedin.com/in/nimesha-nim-jayawardena-3b4a1396">Nim Jayawardena</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://ca.linkedin.com/in/charlieyu1996">Charlie Yu</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://ca.linkedin.com/in/ahrarmonsur">Ahrar Monsur</a>, Developer Programs Engineer, Google.</li>
+<li><a href="https://www.linkedin.com/in/mickeyboxell">Mickey Boxell</a>, Product Manager, Oracle.</li>
+<li><a href="https://www.linkedin.com/in/eddiezane/">Eddie Zaneski</a>, Software Engineer, Chainuard.</li>
+<li><a href="https://www.linkedin.com/in/andypiggott/">Andy Piggott</a>, Chief Product Officer, Section.</li>
+<li><a href="https://www.linkedin.com/in/logan-smith-86513291">Logan Smith</a>, Director of Business Development, GrafanaLabs.</li>
+<li><a href="https://twitter.com/briandorsey?lang=en">Brian Dorsey</a>, Developer Advocate, Google - Shoutout for recommending the microphones for interviews.</li>
+</ul>
+<p>Do you have something cool to share? Some questions? Let us know:</p>
+<ul>
+<li>web: <a href="https://kubernetespodcast.com">kubernetespodcast.com</a></li>
+<li>mail: <a href="mailto:kubernetespodcast@google.com">kubernetespodcast@google.com</a></li>
+<li>twitter: <a href="https://twitter.com/kubernetespod">@kubernetespod</a></li>
+</ul>
+<h3 id="news-of-the-week">News of the week</h3>
+<ul>
+<li><a href="https://www.crowdstrike.com/blog/new-kiss-a-dog-cryptojacking-campaign-targets-docker-and-kubernetes/">CrowdStrike cryptojacking finding</a></li>
+<li><a href="https://cloud.google.com/blog/products/application-development/skaffold-v2-is-generally-available">Skaffold v2 Generally Available</a></li>
+<li>GKE Security Posture Dashboard
+<ul>
+<li><a href="https://cloud.google.com/blog/products/identity-security/introducing-new-gke-interface-for-streamlined-security-management">Blog</a></li>
+<li><a href="https://youtu.be/Qe1nS3H1nvo">Video</a></li>
+</ul>
+</li>
+<li>Cdk8s+ from AWS
+<ul>
+<li><a href="https://aws.amazon.com/blogs/containers/announcing-general-availability-of-cdk8s-plus-and-support-for-manifest-validation/">Blog</a></li>
+<li><a href="https://www.cncf.io/projects/cdk-for-kubernetes-cdk8s/">Project page</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/cncf/sandbox">CNCF Sandbox project application information</a></li>
+<li><a href="https://www.cncf.io/blog/2022/09/28/istio-sails-into-the-cloud-native-computing-foundation/">Istio becomes a CNCF Incubating project</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/19/cert-manager-becomes-a-cncf-incubating-project/">Cert-manager becomes a CNCF Incubating project</a></li>
+<li><a href="https://blogs.cisco.com/developer/functionclarity01">Cisco OpenClarity</a></li>
+<li><a href="https://thenewstack.io/kubernetes-networking-bug-uncovered-and-fixed/">Kube-router bug</a></li>
+<li><a href="https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next22-wrap-up">Google Cloud Next Wrap-Up</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2022/10/12/microsoft-ignite-a-showcase-of-products-to-help-customers-be-more-efficient-and-productive/">Microsoft Ignite highlights blog</a></li>
+<li><a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/">Cloud Native SecurityCon</a></li>
+<li><a href="https://www.cncf.io/blog/2022/10/26/linux-foundation-and-cncf-partner-with-razom-for-ukraine/">Linux Foundation partnership with Razom for Ukraine</a></li>
+</ul>
+<h3 id="links-from-the-interview">Links from the interview</h3>
+<ul>
+<li><a href="https://github.com/kubernetes/community/blob/master/sig-auth/README.md">Kubernetes SIG Auth</a></li>
+<li><a href="https://github.com/kubernetes/community/tree/master/sig-api-machinery">Kubernetes SIG API Machinery</a></li>
+<li><a href="https://fluxcd.io/">FluxCD</a></li>
+<li><a href="https://github.com/GoogleCloudPlatform/microservices-demo">Online Boutique Sample App</a></li>
+<li><a href="https://github.com/kubernetes/community/blob/master/sig-cli/README.md">Kubernetes SIG-CLI</a></li>
+<li><a href="https://sched.co/182M2">Cloud Native 101: Motor City Edition by Bob Killen and Jeffrey Sica</a></li>
+<li><a href="https://sched.co/182Dr">Consumers to Contributors by Brendan O’Leary</a></li>
+<li><a href="https://sched.co/182DK">Kubernet-Bees: How Bees Solve the Problems of Distributed Systems</a></li>
+<li><a href="https://www.schedmd.com/">SchedMD Slurm</a></li>
+<li><a href="https://github.com/kube-bind/kube-bind">Kube-bind</a></li>
+<li><a href="https://github.com/etcd-io/etcd/blob/main/CONTRIBUTING.md">Contribute to etcd!</a></li>
+<li><a href="https://events.linuxfoundation.org/cloud-native-wasm-day-north-america/">Cloud Native WASM Day</a></li>
+<li><a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/">Cloud Native SecurityCon</a></li>
+<li><a href="https://backstage.io/">Backstage (Incubating CNCF Project)</a></li>
+<li><a href="https://ebpf.io/">eBPF</a></li>
+<li><a href="https://cilium.io/">Cilium (Incubating CNCF Project)</a></li>
+<li><a href="https://acorn.io/">Acorn Labs</a></li>
+<li><a href="https://www.startrek.com/database_article/mind-meld-vulcan">Vulcan Mind-Meld (Star Trek)</a></li>
+<li><a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/kids-day/">Kids’ Day at KubeCon NA 2022</a></li>
+</ul>
+
+]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>Google, Kubernetes, containers, cloud native, cloud-native, k8s, service mesh, Istio, community management</itunes:keywords>
+        </item>
         
         <item>
             <title>Looking Forward and Back, with Adam Glick</title>
