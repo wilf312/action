@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.135 『@vercel/og で OG 画像生成の Satori を開く』",
+      "link": "https://uit-inside.linecorp.com/episode/135",
+      "pubDate": "Fri, 02 Dec 2022 09:00:00 GMT",
+      "description": "<p>Vercelがリリースした新しいOG画像生成ライブラリ @vercel/og (Satori) の実装について、@potato4dと@spring-rainingが話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/135"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-vercel-og.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.135 『@vercel/og で OG 画像生成の Satori を開く』",
+      "itunes:duration": "21:28",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode135.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.134 『質問者代表が語る！ Tech-Verse 2022 フロントエンドセッションの見どころ』",
       "link": "https://uit-inside.linecorp.com/episode/134",
       "pubDate": "Wed, 16 Nov 2022 03:15:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode036.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.35 UIT 自由研究 居残り編 - Live2Dを使ってCSSとSVGの限界を試してみた話",
-      "link": "https://uit-inside.linecorp.com/episode/35",
-      "pubDate": "Thu, 12 Mar 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining が Live2D をモデルを CSS で再現してみた実験結果について、 @potato4d が色々と聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/35"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-035.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.35 UIT 自由研究 居残り編 - Live2Dを使ってCSSとSVGの限界を試してみた話",
-      "itunes:duration": "28:17",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode035.png",
         "#text": null
       }
     }
