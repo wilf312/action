@@ -15,7 +15,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://testradio.fm/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://testradio.fm</link>
 	<description></description>
-	<lastBuildDate>Sun, 13 Nov 2022 23:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Dec 2022 23:00:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -53,6 +53,29 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:location>Tokyo, Japan</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 <site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第222回 テストラジオ クイズこのバグの原因わかる？について語ります！</title>
+		<link>https://testradio.fm/testradio-no/1375/</link>
+		<pubDate>Sun, 04 Dec 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1375</guid>
+		<comments>https://testradio.fm/testradio-no/1375/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1375/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/12/N222TestRadio.mp3" length="71748161" type="audio/mpeg" />
+		<itunes:subtitle>https://youtu.be/OgsiV_nxiT0      https://twitter.com/hiroyuki3gou/status/1599365432309600258?s=20&amp;t=rTwaGdyPRx1DT4GAtNkb_Q</itunes:subtitle>
+		<itunes:summary>https://youtu.be/OgsiV_nxiT0&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://twitter.com/hiroyuki3gou/status/1599365432309600258?s=20&amp;t=rTwaGdyPRx1DT4GAtNkb_Q</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:53</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1375</post-id>		</item>
+	<item>
 		<title>テストラジオ テストの基本がなに？って話について語ります！</title>
 		<link>https://testradio.fm/testradio-no/1368/</link>
 		<pubDate>Sun, 13 Nov 2022 23:00:00 +0000</pubDate>
@@ -260,24 +283,5 @@ https://twitter.com/hiroyuki3gou/status/1548631150901735425?s=20&amp;t=JyzN1rtr-
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>52:27</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1317</post-id>		</item>
-	<item>
-		<title>第210回 テストラジオ このバグなんだ？どんなこと起きた？の話</title>
-		<link>https://testradio.fm/testradio-no/1309/</link>
-		<pubDate>Sun, 03 Jul 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1309</guid>
-		<comments>https://testradio.fm/testradio-no/1309/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1309/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[テストラジオ]]></category>
-		<category><![CDATA[なそ回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description>https://youtu.be/b_mVuqHY7tw</description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/07/N210TestRadio-1.mp3" length="71699303" type="audio/mpeg" />
-		<itunes:subtitle>https://youtu.be/b_mVuqHY7tw</itunes:subtitle>
-		<itunes:summary>https://youtu.be/b_mVuqHY7tw</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:52</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1309</post-id>		</item>
 </channel>
 </rss>

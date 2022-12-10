@@ -532,9 +532,18 @@ export const urlList: UrlListItem[] = [
     hash: "resizefm",
     url: "https://anchor.fm/s/416f2048/podcast/rss",
   },
-  
-  
-  
+
+  {
+    name: "もう一度読むSRE",
+    hash: "もう一度読むSRE",
+    url: "https://anchor.fm/s/6233432c/podcast/rss",
+  },
+
+  {
+    name: "乃木坂46のイイトコ！〜乃木坂46広報ラジオ～",
+    hash: "乃木坂46のイイトコ",
+    url: "https://anchor.fm/s/a4263848/podcast/rss",
+  },
 ];
 
 /**

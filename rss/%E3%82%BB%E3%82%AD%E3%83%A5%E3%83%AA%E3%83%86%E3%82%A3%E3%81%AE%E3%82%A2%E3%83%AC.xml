@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Tue, 22 Nov 2022 12:20:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Dec 2022 11:00:03 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,6 +45,70 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<itunes:category text="Business" />
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
+	<item>
+		<title>第159回 脆弱性マラソン！最後にしたいが、もうちっとだけ続くんじゃ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1364</link>
+		<pubDate>Mon, 05 Dec 2022 20:00:03 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1364</guid>
+		<comments>https://www.tsujileaks.com/?p=1364#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1364</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・Tenable Research Finds 72% of Organ[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1364" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1364&amp;text=%E7%AC%AC159%E5%9B%9E...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1364" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.tenable.com/press-releases/tenable-research-finds-72-of-organizations-remain-vulnerable-to-nightmare-log4j">Tenable Research Finds 72% of Organizations Remain Vulnerable to “Nightmare” Log4j Vulnerability &#8211; Press Release | Tenable®</a><br />
+・<a href="https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/">Notice of Recent Security Incident &#8211; The LastPass Blog</a><br />
+・<a href="https://www.coveware.com/blog/2022/10/26/q3-2022-quarterly-report">Uber Verdict Raises New Risks for Ransom Payments</a><br />
+・<a href="https://www.haagen-dazs.co.jp/products/special/akuma-sasayaki-2022/">悪魔のささやき｜商品情報｜ハーゲンダッツ Häagen-Dazs</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/1669800645275.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/1669800645275-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1365" srcset="https://www.tsujileaks.com/wp-content/uploads/1669800645275-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1669800645275-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1669800645275-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1669800645275.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>慣れない挨拶。クリスマスですね。ゆっくりのほうのポケモンやってる。内容を拾ってくれるツイートありがとうございます。プレゼントのいいお話。「どうみゃくそう」ではなく「どうみゃくりゅう」でした。「信頼できる」の難しさ。ねうしとらぶりゅう。一年を感じさせない脆弱性。マラソンだ。一年対応されていない理由の考察。なくなったのに戻ってきたように見れる理由。何回目かのLast。顧客に関する情報の一部とは。どれもこれも不正確な報道。とは言え受け手によって解釈が変わる発信だし情報が少なく曖昧。Qごとのいつものレポート。イントネーション気をつけないと。NetWalkerなんて止りましたね。一回の攻撃で二経路からの脅迫。1から100ではなく、1000です！経路不明のまずさ。手探り対応。小粒化の影響かもというのは鋭い！ランサムウォッチもうちょっと続けるか。ささやいていくぅ！</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年12月03日&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_221205_akusasa.mp3" length="28853310" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・Tenable Research Finds 72% of Organ[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・Tenable Research Finds 72% of Organ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>59:54</itunes:duration>
+		</item>
+	<item>
+		<title>第158回 備えよ常に！OEMでSDK問題にブルルンパンダ！スペシャル</title>
+		<link>https://www.tsujileaks.com/?p=1358</link>
+		<pubDate>Mon, 28 Nov 2022 20:00:54 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1358</guid>
+		<comments>https://www.tsujileaks.com/?p=1358#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1358</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet  【関連記事】 ・MISSING – Official Trailer (H[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1358" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1358&amp;text=%E7%AC%AC158%E5%9B%9E%20%E5%82%99%E3%81%88%E3%82%88%E5%B8%B8%E3%81%AB%EF%BC%81OEM%E3%81%A7SDK%E5%95%8F%E9%A1%8C%E3%81%AB%E3%83%96%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%91%E3%83%B3%E3%83%80%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1358" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
+<p>【関連記事】</p>
+<p>・<a href="https://www.youtube.com/watch?v=seBixtcx19E">MISSING &#8211; Official Trailer (HD) &#8211; YouTube</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2022/11/22/vulnerable-sdk-components-lead-to-supply-chain-risks-in-iot-and-ot-environments/">Vulnerable SDK components lead to supply chain risks in IoT and OT environments &#8211; Microsoft Security Blog</a><br />
+・<a href="https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets">Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group</a><br />
+・<a href="https://www.lac.co.jp/lacwatch/report/20221117_003189.html">中国圏拠点のMustang Pandaがマルウェア「Claimloader」で標的型攻撃、日本にも影響か | LAC WATCH</a><br />
+・<a href="https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html">Earth Preta Spear-Phishing Governments Worldwide</a><br />
+・<a href="https://blog.talosintelligence.com/mustang-panda-targets-europe/">Mustang Panda deploys a new wave of malware targeting Europe</a><br />
+・<a href="https://jvoad.jp/knowhow/">ノウハウ集｜全国災害ボランティア支援団体ネットワーク（JVOAD）</a><br />
+・<a href="https://www.nazotoki.com/">超常現象の謎解き | 奇妙な「伝説」を紹介し、その「謎解き」を行っていくサイト</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/aremanju.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/aremanju-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1359" srcset="https://www.tsujileaks.com/wp-content/uploads/aremanju-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aremanju-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aremanju-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aremanju.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>クレジットカードの不正利用疑惑の真相。アノ映画の続編。アカウントを守ることはあなたを守ること。BOAサーバ100万台問題。OEMでSDK。ファームが最新でも安全とは限らないことがある。アクセス制御をまず確認だ。SBOMでここまで分かるんだろうか。対処をしても残るものはある。買い換え待ちも。マスタングなのかムスタングなのか。2回目のチョッパー。マルウェア開発者よりメッセージ。関係ないと思っちゃうかもしれない。変わらないから目立たない。でも粛々と攻撃に使われている手法。とりとりってなんやろ？色々活用できそうなガイド・ノウハウ集。クラウドなのか雲なのか。とりあえずココは大丈夫という無批判な信じ込みは避けたほうがいい。色々揃えて判断は自分。いざというときに焦らないようにする平時の準備が要。そろそろ出てくる？脅威予測。今読もう！過去事例のある炎上はある周期で繰り返される説。一番古い記事は2016年とありますが移転でタイムスタンプが更新されていますね。実際はもっと古いエントリです。</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2022年11月26日&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_221127_esetogiji.mp3" length="30474193" type="audio/mpeg" />
+		<itunes:subtitle>Tweet  【関連記事】 ・MISSING – Official Trailer (H[...]</itunes:subtitle>
+		<itunes:summary>Tweet  【関連記事】 ・MISSING – Official Trailer (H[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="anchor_thumb.png" />
+		<itunes:duration>1:03:17</itunes:duration>
+		</item>
 	<item>
 		<title>第157回 アレ焼き配る会をする日を夢見て！スペシャル</title>
 		<link>https://www.tsujileaks.com/?p=1352</link>
@@ -312,25 +376,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1308</link>
 		<pubDate>Mon, 12 Sep 2022 20:00:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1308</guid>
-		<comments>https://www.tsujileaks.com/?p=1308#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1308</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet  【関連記事】 ・Albanian Government Council of Mini[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1308" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1308&amp;text=%E7%AC%AC149%E5%9B%9E%20%E4%BB%8A%E5%9B%9E%E3%82%82%E7%9C%9F%E9%9D%A2%E7%9B%AE%E3%81%A7%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1308" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
-<p>【関連記事】</p>
-<p>・<a href="https://www.kryeministria.al/en/newsroom/videomesazh-i-kryeministrit-edi-rama/">Albanian Government Council of Ministers</a><br />
-・<a href="https://www.microsoft.com/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/">Microsoft investigates Iranian attacks against the Albanian government &#8211; Microsoft Security Blog</a><br />
-・<a href="https://www.mandiant.com/resources/blog/likely-iranian-threat-actor-conducts-politically-motivated-disruptive-activity-against">Likely Iranian Threat Actor Conducts Politically Motivated Disruptive Activity Against Albanian Government Organizations | Mandiant</a><br />
-・<a href="https://www.akamai.com/blog/security/ddos-in-financial-services">DDoS in Financial Services: What to Know and What to Do</a><br />
-・<a href="https://www.youtube.com/results?search_query=%E7%AD%8B%E8%86%9C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%AC%E3%83%B3">筋膜リリースガン &#8211; YouTube</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/pt.png"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/pt-300x230.png" alt="" width="300" height="230" class="alignnone size-medium wp-image-1309" srcset="https://www.tsujileaks.com/wp-content/uploads/pt-300x230.png 300w, https://www.tsujileaks.com/wp-content/uploads/pt.png 483w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>通知が目玉。タッチバーの教訓。形から入ることの是非。ね。ランダムウェア。誰が見てるのかと思うものはきっと見てる人はいる。どこを14しているのか。診断してた人が診断受ける側に回ったときの話。カバレッジ。経路。柔軟な対応。報告と対応を意識した報告書・報告会。ホンチャンって通じるのかな。実施する側とされる側の持ってる情報のギャップ。珍しくちょっとまじめでいい話。サイバー攻撃が引き金になって国交断絶って初かも。色々なところから報告。統制が取れている。初手の脆弱性が気になる。何をもって高度なのか。最近見なくなった文言。DDoS界隈の変化。コストもかかるが見分けるのも難儀。L3からL7に変えてくるパターン。カモフラージュ目的、陽動目的ってほんとにあるの？効果あるのかな？下調べのあるなし。2022年BestBuy候補。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年09月10日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_20220912_juicy.mp3" length="35936677" type="audio/mpeg" />
 		<itunes:subtitle>Tweet  【関連記事】 ・Albanian Government Council of Mini[...]</itunes:subtitle>
 		<itunes:summary>Tweet  【関連記事】 ・Albanian Government Council of Mini[...]</itunes:summary>
@@ -343,26 +389,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1303</link>
 		<pubDate>Tue, 06 Sep 2022 20:00:28 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1303</guid>
-		<comments>https://www.tsujileaks.com/?p=1303#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1303</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet  【関連記事】 ・自分の行っているセキュリティ関連の情報収集 – ドキュメン[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1303" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1303&amp;text=%E7%AC%AC148%E5%9B%9E%20%E5%85%B1%E5%AD%98%E3%83%BB%E5%85%B1%E6%A0%84%E3%83%BB%E5%85%B1%E6%9C%89%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1303" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>&nbsp;</p>
-<p>【関連記事】</p>
-<p>・<a href="https://benevolent0505.hatenablog.com/entry/2022/08/29/170000">自分の行っているセキュリティ関連の情報収集 &#8211; ドキュメントを見たほうが早い</a><br />
-・<a href="https://blog.netlab.360.com/some_details_of_the_ddos_attacks_targeting_ukraine_and_russia_in_recent_days/">Some details of the DDoS attacks targeting Ukraine and Russia in recent days</a><br />
-・<a href="https://plaid.co.jp/news/20220829/">「Slack」における当社関係者のメールアドレス等漏えいに関するお知らせ</a><br />
-・<a href="https://slack.com/intl/ja-jp/enterprise-key-management">Slack のエンタープライズ向け暗号化キー管理 | Slack EKM | Slack</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/">LockBit ransomware blames Entrust for DDoS attacks on leak sites</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-gets-aggressive-with-triple-extortion-tactic/">LockBit ransomware gang gets aggressive with triple-extortion tactic</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/shared-folder.png"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/shared-folder.png" alt="" width="64" height="64" class="alignnone size-full wp-image-1306" /></a></p>
-<p>&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>スーツ欲しかってん。三人でスーツもいいかも。適正な夏。ランニングのお供にも。情報収集方法の共有ありがとうございます。名前はまだない。山のような亜種をすべて見られないことが前提。Booter, Stresserとは。その裏側にはIoTボットへのC2がいるってことがよくある。やばいやつほど深く調べないと分からない状況。ユニークな攻撃手法で広がるので見つかりにくい。今までと異なる傾向。稼働率100%のDDoS基盤。インフラとその利用者は別。持ってる情報へのアプローチの共有。可視化から入るのもいいのでは。そこが情報漏洩したのかと思いきや。事実発覚ではなくある程度動いてから。タイムライン的にはちょっと間空いてるのかな。組織外のメアドも追加ででてきたのでしょうか。連絡手段はメールだけなのか。寝耳に水感。空白は避けたい。ハックバック。繋がらないというか不安定なのは観測されていました。ミラーも軒並み。UserAgentにメッセージがあるパターン。アクティブなのか奥ゆかしいのか分からんDDoS。LockBitの掲げた再発防止策。根岸さんなんでも知ってるなぁ。効果のあるハックバックもある。こないだ高橋名人がテレビに出てました。ニヤニヤ止まりは見えない。「とっとと寝ろよ」いただきました。</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2022年09月04日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_220906_meijin.mp3" length="33889557" type="audio/mpeg" />
 		<itunes:subtitle>Tweet  【関連記事】 ・自分の行っているセキュリティ関連の情報収集 – ドキュメン[...]</itunes:subtitle>
 		<itunes:summary>Tweet  【関連記事】 ・自分の行っているセキュリティ関連の情報収集 – ドキュメン[...]</itunes:summary>

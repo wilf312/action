@@ -1,0 +1,1538 @@
+{
+  "title": "もう一度読むSRE",
+  "description": "「もう一度読むSRE」は、株式会社Topotal（トポタル）の高村と菱田がディスカッション形式で「SRE サイトリライアビリティエンジニアリング」を読み進めるポッドキャストです。\n\nSRE を今から知りたい方はもちろん、SRE の基礎を改めて学びたい方もぜひ視聴ください。Twitter のハッシュタグは #もう一度読むSRE です。",
+  "link": "https://twitter.com/Read_SRE_Again",
+  "image": {
+    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+    "title": "もう一度読むSRE",
+    "link": "https://twitter.com/Read_SRE_Again"
+  },
+  "generator": "Anchor Podcasts",
+  "atom:link": [
+    {
+      "@href": "https://anchor.fm/s/6233432c/podcast/rss",
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "#text": null
+    },
+    {
+      "@rel": "hub",
+      "@href": "https://pubsubhubbub.appspot.com/",
+      "#text": null
+    }
+  ],
+  "author": "Topotal",
+  "copyright": "Topotal",
+  "language": "ja",
+  "itunes:author": "Topotal",
+  "itunes:summary": "「もう一度読むSRE」は、株式会社Topotal（トポタル）の高村と菱田がディスカッション形式で「SRE サイトリライアビリティエンジニアリング」を読み進めるポッドキャストです。\n\nSRE を今から知りたい方はもちろん、SRE の基礎を改めて学びたい方もぜひ視聴ください。Twitter のハッシュタグは #もう一度読むSRE です。",
+  "itunes:type": "episodic",
+  "itunes:owner": {
+    "itunes:name": "Topotal",
+    "itunes:email": "read-sre-again@topotal.com"
+  },
+  "itunes:explicit": "No",
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:image": {
+    "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+    "#text": null
+  },
+  "item": [
+    {
+      "title": "もう一度読むSRE #59",
+      "description": "<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-59-e1rsi1l",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f826e142-1020-4b55-8272-6bd24110cbee"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 07 Dec 2022 03:00:21 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/61801973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F43c4fbc8-07c1-2885-918d-59fe9014d7d6.m4a",
+        "@length": 53163333,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:45",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #58",
+      "description": "<p>17.3.7 プロダクション環境におけるプローブ から 17.4 まとめ まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-58-e1rilds",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2386994a-e72b-44dc-ae23-0035f686da8c"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 01 Dec 2022 01:00:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/61477756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-1%2F88f8328c-93bd-dbad-04b8-bb4f9a265b5f.m4a",
+        "@length": 39064625,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3.7 プロダクション環境におけるプローブ から 17.4 まとめ まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #57",
+      "description": "<p>17.3.6 結合 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-57-e1qr3c8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a789f916-4cd5-4555-ae86-79cd426c5871"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 16 Nov 2022 03:00:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/60705608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-16%2Fcaecaaa2-e2d9-5715-181f-b0b38ecf031c.m4a",
+        "@length": 61348349,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3.6 結合 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:51",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #56",
+      "description": "<p>17.3.5 予想されるテストの失敗 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-56-e1q7vud",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6e3b7321-2882-4a38-a0c7-c68bfea4717f"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sun, 06 Nov 2022 23:00:05 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/60079501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-4%2Fdd7ba20f-1ca0-4cbd-a4d9-0a9c7877fa84.m4a",
+        "@length": 52758098,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3.5 予想されるテストの失敗 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:22",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #55",
+      "description": "<p>17.3.4 プロダクションへのプッシュ</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-55-e1prdpn",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "cf64c032-6b9a-40b3-a8dc-05a4c25289ff"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 27 Oct 2022 23:00:50 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/59667703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2F4b800941-50e1-1799-2054-6322eedd9986.m4a",
+        "@length": 36520023,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3.4 プロダクションへのプッシュ</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #54",
+      "description": "<p>17.3.2 ディザスタのテスト から 17.3.3 速度の重要性 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-54-e1pfg1u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "591243ba-b10c-42cc-b849-0d26c8c1edbf"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 19 Oct 2022 03:03:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/59276798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-19%2F8c86d865-0d8c-6422-e28f-8401df80ca40.m4a",
+        "@length": 44549961,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3.2 ディザスタのテスト から 17.3.3 速度の重要性 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:14",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #53",
+      "description": "<p>17.3 大規模なテスト から 17.3.1 スケーラブルなツールのテスト まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-53-e1ofrfn",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d3948cab-6b67-4594-9003-fb20566e2891"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 11 Oct 2022 03:00:42 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/58239927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-28%2F18952ee4-27b9-e7ca-a9df-c31abab2e92e.m4a",
+        "@length": 54999766,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.3 大規模なテスト から 17.3.1 スケーラブルなツールのテスト まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:37:19",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #52",
+      "description": "<p>17.2 テストの作成と環境の構築 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-52-e1onaa0",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "157e0404-b940-491c-96ee-ef89ea4b90f8"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 04 Oct 2022 03:00:38 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/58484480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-3%2F418c96f2-8dcb-b74b-8897-db7b00e8e737.m4a",
+        "@length": 38478836,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.2 テストの作成と環境の構築 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:07",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #51",
+      "description": "<p>17.1.2.2 ストレステスト から 17.1.2.3 カナリアテスト まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-51-e1nqba6",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6699e080-c566-4e4a-9df2-2728459f44ce"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 14 Sep 2022 01:28:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/57535238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-14%2F0392f6f0-ef51-c854-3135-b9b603163723.m4a",
+        "@length": 44056643,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.1.2.2 ストレステスト から 17.1.2.3 カナリアテスト まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #50",
+      "description": "<p>17.1.2 プロダクションテスト から 17.1.2.1 設定テスト まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-50-e1n6lgr",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "12b0b0fd-e25f-4a6c-a237-debeb76f51a1"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 31 Aug 2022 09:00:22 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/56890331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-31%2F3c0ef3a6-914d-1844-f4c4-fcc8e60a83bc.m4a",
+        "@length": 33151937,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17.1.2 プロダクションテスト から 17.1.2.1 設定テスト まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:22:30",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #49",
+      "description": "<p>17 信頼性のためのテスト から 17.1 ソフトウェアテストの種類 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-49-e1mt7o6",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e5cf3df2-ff7e-41cc-881e-59b580d53a65"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 24 Aug 2022 09:08:29 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/56581318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-24%2F9e46540a-336d-68a6-1499-290c5ca9957a.m4a",
+        "@length": 61516405,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>17 信頼性のためのテスト から 17.1 ソフトウェアテストの種類 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:41:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #48",
+      "description": "<p>16章 サービス障害の追跡 から 16.2.4 予想外のメリット まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-48-e1ml5o4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "43ff3ba3-0824-4521-82dc-6a21b27559d9"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 18 Aug 2022 01:31:07 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/56317124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-18%2Fc97534f1-8b92-4c06-bc00-a0798674807b.m4a",
+        "@length": 56429790,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>16章 サービス障害の追跡 から 16.2.4 予想外のメリット まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:17",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #47",
+      "description": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.4 まとめと改善の継続 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-47-e1lvt4s",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "67dbfd01-3b44-4cdc-899e-9d6f93cef6f0"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 03 Aug 2022 00:30:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/55620188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2Ff5bd55cc-81ce-ac1f-94dd-e26f3b6ba188.m4a",
+        "@length": 49079856,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.4 まとめと改善の継続 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:20",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #46",
+      "description": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.1 Google におけるポストモーテムの哲学</p>\n<p>本編は3分35秒からです。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-46-e1lngpn",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8f98ab2d-a398-4bc2-b98c-5539e947376e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 26 Jul 2022 23:00:44 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/55345399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2Fe466d97b-9787-606c-def5-8732f8d590b1.m4a",
+        "@length": 54675552,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.1 Google におけるポストモーテムの哲学</p>\n<p>本編は3分35秒からです。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:37:07",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #45",
+      "description": "<p>14.3 インシデント管理のプロセスの構成要素 から 14.5 インシデントと宣言すべき場合 まで</p>\n<p>本編は11分00秒からです。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-45-e1ldual",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f5f6c99a-bf4c-4627-baf8-bf92249b8f88"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 19 Jul 2022 12:53:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/55031573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-19%2F0af65e9b-e33b-7eb8-9f71-4a382908ade1.m4a",
+        "@length": 66648552,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>14.3 インシデント管理のプロセスの構成要素 から 14.5 インシデントと宣言すべき場合 まで</p>\n<p>本編は11分00秒からです。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:45:14",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #44",
+      "description": "<p>13.6 過去から学び、繰り返さない から 14.3.4 はっきりとした引き継ぎ まで</p>\n<p>本編は6分22秒からです。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-44-e1kj93u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "eea91b1f-e818-4e5d-99d9-a026d84e9ea6"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 29 Jun 2022 10:26:27 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/54157886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-29%2F2f3be452-31b9-542f-44c0-e0f45b3d64b5.m4a",
+        "@length": 53638793,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>13.6 過去から学び、繰り返さない から 14.3.4 はっきりとした引き継ぎ まで</p>\n<p>本編は6分22秒からです。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:36",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #43",
+      "description": "<p>13.4 &nbsp;プロセスが引き起こした緊急事態 から 13.5 解決できない問題は存在しない まで</p>\n<p>本編は3分10秒からです。</p>\n<p><br></p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-43-e1k9fq5",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "739b26a2-974b-4016-92cd-edd48594f804"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 22 Jun 2022 07:10:19 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/53837061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-22%2F6c734056-0c16-9f2c-dce0-612c78735d7f.m4a",
+        "@length": 37135450,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>13.4 &nbsp;プロセスが引き起こした緊急事態 から 13.5 解決できない問題は存在しない まで</p>\n<p>本編は3分10秒からです。</p>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:13",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #42",
+      "description": "<p>13.3 変更が引き起こした緊急事態 から 13.3.3.2 学んだこと まで</p>\n<p>本編は4分10秒からになります。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-42-e1jts6f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2343784a-b8cd-449c-a822-e3f8c29f6520"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 14 Jun 2022 05:00:06 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/53456527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-14%2F55823817-38cd-dd79-9c3b-a3243e21698f.m4a",
+        "@length": 38271534,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>13.3 変更が引き起こした緊急事態 から 13.3.3.2 学んだこと まで</p>\n<p>本編は4分10秒からになります。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:59",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #41",
+      "description": "<p>13章 緊急対応 から 13.2.3.2 学んだこと まで</p>\n<p>本編は5分50秒からになります。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-41-e1j8dsu",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "94507e8c-f42d-4cfc-9a95-eec310243838"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 06 Jun 2022 03:00:09 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/52753758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-30%2F12cc2da4-9850-f532-2aec-2a823cbbddb2.m4a",
+        "@length": 44117997,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>13章 緊急対応 から 13.2.3.2 学んだこと まで</p>\n<p>本編は5分50秒からになります。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:57",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #40",
+      "description": "<p>12.4 ケーススタディ から 12.6 まとめ まで</p>\n<p>今回雑談はありません。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-40-e1j8dmn",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ea1e7a81-507f-4629-ac3d-2f484c0910ac"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 30 May 2022 04:30:43 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/52753559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-30%2Fa9b63e93-d4fa-4f5e-5f5c-f218167c5d7f.m4a",
+        "@length": 50179716,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>12.4 ケーススタディ から 12.6 まとめ まで</p>\n<p>今回雑談はありません。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:04",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #39",
+      "description": "<p>12.2.5 テストと対応 から 12.3 否定的な結果の素晴らしさ まで</p>\n<p>今回雑談はありません。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-39-e1ifabl",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8a18fe1c-b75b-4e1a-b190-e5d5f6ee107a"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Fri, 13 May 2022 03:00:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/51930933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2F3e912810-2955-18a5-4fee-ccc44089d89a.m4a",
+        "@length": 44382513,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>12.2.5 テストと対応 から 12.3 否定的な結果の素晴らしさ まで</p>\n<p>今回雑談はありません。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:10",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #38",
+      "description": "<p>12.2.4 診断から 12.2.4.4 特定の診断 まで</p>\n<p>本編は4分03秒からです。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-38-e1hslib",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "88f9f253-c257-4697-bc8d-09c7d22bde30"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 02 May 2022 03:00:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/51319819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-30%2Fc532dcd8-fcee-c11b-738e-b6a81320d49d.m4a",
+        "@length": 35799863,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>12.2.4 診断から 12.2.4.4 特定の診断 まで</p>\n<p>本編は4分03秒からです。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #37",
+      "description": "<p>12.2 実践 から 12.2.3 検証 まで</p>\n<p>雑談はありません。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-37-e1hlsl8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "dc7c25fb-b7d0-474f-bc99-2a1cea300bc7"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 26 Apr 2022 00:51:59 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/51097704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-26%2F00121217-f045-bdef-6705-92ed2316c7bb.m4a",
+        "@length": 44605866,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>12.2 実践 から 12.2.3 検証 まで</p>\n<p>雑談はありません。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:17",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #36",
+      "description": "<p>12章 効果的なトラブルシューティング から 12.1 理論 まで</p>\n<p>本編 : 03:10〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-36-e1hajin",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1c656b8e-f0b6-43be-a4cd-ce47aa975c92"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 18 Apr 2022 06:10:25 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/50727959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-18%2F4240b754-9c44-fa7e-8501-96ee51a98ac2.m4a",
+        "@length": 56908221,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>12章 効果的なトラブルシューティング から 12.1 理論 まで</p>\n<p>本編 : 03:10〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #35",
+      "description": "<p>11.5 不適切な負荷の回避 から 11.6まとめ まで</p>\n<p>本編 : 03:45〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-35-e1gq6ko",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "28e3fe19-14af-4f82-96bb-46dc9d1ee70c"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 06 Apr 2022 09:48:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/50190424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-6%2F7667126b-ba19-c4bd-5081-d4f79ca09857.m4a",
+        "@length": 45856792,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>11.5 不適切な負荷の回避 から 11.6まとめ まで</p>\n<p>本編 : 03:45〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:02",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #34",
+      "description": "<p>11.3 バランスの取れたオンコール から 11.4 安心感 まで</p>\n<p>本編 : 00:00〜</p>\n<p>※今回雑談はありません。</p>\n<p><br></p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-34-e1gf8ah",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c5a3868e-029f-470e-b527-31444b717e4b"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 30 Mar 2022 06:56:55 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/49831697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-30%2F33708e9b-90a1-e26a-7a6b-fd098d263b60.m4a",
+        "@length": 52212459,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>11.3 バランスの取れたオンコール から 11.4 安心感 まで</p>\n<p>本編 : 00:00〜</p>\n<p>※今回雑談はありません。</p>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:35:27",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #33",
+      "description": "<p>11章 オンコール対応 から 11.2 オンコールエンジニアの日常生活 まで</p>\n<p>雑談 : 00:00〜04:02</p>\n<p>本編 : 04:03〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-33-e1g5pkq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "845c2896-cf30-488b-b96d-b0222c97e9be"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 24 Mar 2022 02:00:58 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/49521754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-24%2Fda896e12-f921-15f6-be50-f9eba90a9267.m4a",
+        "@length": 55700036,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>11章 オンコール対応 から 11.2 オンコールエンジニアの日常生活 まで</p>\n<p>雑談 : 00:00〜04:02</p>\n<p>本編 : 04:03〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:37:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #32",
+      "description": "<p>10.4 &nbsp;時系列のアリーナにおけるストレージ から 10.10 &nbsp;10 年が経過して まで</p>\n<p>雑談 : 00:00〜07:05</p>\n<p>本編 : 07:05〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-32-e1fr5qr",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f1216e4a-b575-4850-b6bf-8bbd8188c6fc"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 17 Mar 2022 03:08:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/49173787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-17%2F86fe683f-351a-0a92-8836-4b1cdd67fed7.m4a",
+        "@length": 42826316,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>10.4 &nbsp;時系列のアリーナにおけるストレージ から 10.10 &nbsp;10 年が経過して まで</p>\n<p>雑談 : 00:00〜07:05</p>\n<p>本編 : 07:05〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:05",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #31",
+      "description": "<p><strong>10章 時系列データからの実践的なアラート から 10.3 エクスポートされたデータの収集</strong></p>\n<p>雑談 : 00:00〜02:09</p>\n<p>本編 : 02:10〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-31-e1f9v4f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "596b8911-3920-45b1-ac69-9373ffa67d43"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sun, 06 Mar 2022 02:27:30 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/48609871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-6%2Fe03809d8-c6f2-86f8-7ec8-8b9e90cbfdef.m4a",
+        "@length": 38297078,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p><strong>10章 時系列データからの実践的なアラート から 10.3 エクスポートされたデータの収集</strong></p>\n<p>雑談 : 00:00〜02:09</p>\n<p>本編 : 02:10〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:01",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #30",
+      "description": "<p>第III部 実践</p>\n<p>雑談 : 00:00〜03:07</p>\n<p>本編 : 03:08〜</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-30-e1efgsr",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8cabcc76-18c9-46ce-82c7-7ad51bdb4a46"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 16 Feb 2022 12:48:52 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/47743323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F9f40c9e4-13d2-20b0-ef6d-39812ed63ac4.m4a",
+        "@length": 40920199,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>第III部 実践</p>\n<p>雑談 : 00:00〜03:07</p>\n<p>本編 : 03:08〜</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #29",
+      "description": "<p>9.5 最小限のAPI から 9.8 単純な結論 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-29-e1e07js",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c2a75ee1-2bff-45d8-85e0-bcd057e91ccb"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sun, 06 Feb 2022 02:56:24 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/47242300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-6%2F3192180b-4144-56f6-900a-7d09739d4dc5.m4a",
+        "@length": 45481679,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>9.5 最小限のAPI から 9.8 単純な結論 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #28",
+      "description": "<p>9章 単純さのまとめ から 9.4 削除した行の計測 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-28-e1d26ja",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6cff56de-bbaa-472a-9864-4ae7fab04d7f"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 17 Jan 2022 08:19:49 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/46258218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-17%2Fe03f7086-1a45-83c9-f825-ed1c041f8a44.m4a",
+        "@length": 52204633,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>9章 単純さのまとめ から 9.4 削除した行の計測 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:51",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #27",
+      "description": "<p>8.4 設定管理 から 8.5 まとめ まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-27-e1cq695",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1f9cd073-7bf5-489b-9988-2d8ed70c1969"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 11 Jan 2022 12:52:50 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/45995749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-11%2F7c6fe704-8a88-ead6-6d7f-bd39a912b9de.m4a",
+        "@length": 52047122,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>8.4 設定管理 から 8.5 まとめ まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #26",
+      "description": "<p>8.3.5 Rapid から 8.3.6 デプロイメント まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-26-e1cg79l",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f9e53607-57ac-42af-b45e-b20b3c596d97"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 04 Jan 2022 08:47:17 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/45669109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-4%2Ff82461f7-1e2f-2845-44d8-d079daaf34d8.m4a",
+        "@length": 54892589,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>8.3.5 Rapid から 8.3.6 デプロイメント まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:38",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #25",
+      "description": "<p>8.3 継続的ビルドとデプロイメントから 8.3.4 パッケージ化まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-25-e1c1lsg",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b6d8f8d7-81d1-4c2a-a7be-27d1f3b863ff"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 22 Dec 2021 06:31:30 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/45192528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-22%2F63f6a4d9-c400-fcb5-684e-66d9d5cdb0ff.m4a",
+        "@length": 49778218,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>8.3 継続的ビルドとデプロイメントから 8.3.4 パッケージ化まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #24",
+      "description": "<h3>8章 リリースエンジニアリング から 8.2.4 ポリシーと手順の強制 まで</h3>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-24-e1bporh",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "42b69a4a-e1e7-4366-b5ef-34837d86d923"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 16 Dec 2021 07:44:58 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/44933425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-16%2Fd4d65752-780e-43e3-cea5-49b414fabdf8.m4a",
+        "@length": 53236402,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<h3>8章 リリースエンジニアリング から 8.2.4 ポリシーと手順の強制 まで</h3>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:29",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #23",
+      "description": "<p>7.7 基本的機能としての信頼性 から 7.8 自動化のすすめ まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-23-e1b6d28",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "fa13e208-897c-4bf2-96e3-1c58f7b2f104"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Fri, 03 Dec 2021 09:34:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/44298760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-3%2F97489a4d-86df-8639-ce89-794c2666c74a.m4a",
+        "@length": 46899941,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7.7 基本的機能としての信頼性 から 7.8 自動化のすすめ まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:10",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #22",
+      "description": "<p>7.5.4 サービス指向のクラスタのターンアップ から 7.6 Borg：ウェアハウススケールコンピュータの誕生まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-22-e1b1aja",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5b60187c-8e00-4e4b-af60-262582c6846e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 30 Nov 2021 12:33:58 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/44132394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2Fdbf066fa-f43b-13c5-a1e7-a23fd6784809.m4a",
+        "@length": 44856718,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7.5.4 サービス指向のクラスタのターンアップ から 7.6 Borg：ウェアハウススケールコンピュータの誕生まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #21",
+      "description": "<p>7.5 苦痛の緩和：クラスタのターンアップへの自動化の適用 から 7.5.3 特化する傾向 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-21-e1aps7g",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ccafd0b1-1e98-49fb-8dfe-cbeee7196e07"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 25 Nov 2021 07:57:08 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/43888304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F4c24867c-8a31-ab7e-6ba7-a7f43df97d98.m4a",
+        "@length": 56536898,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7.5 苦痛の緩和：クラスタのターンアップへの自動化の適用 から 7.5.3 特化する傾向 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:35:57",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #20",
+      "description": "<p>7.3.2 自動化のクラスの階層 から 7.4 自分の仕事の自動化：何もかも自動化する まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-20-e1aijc9",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a10c45a5-81fb-4020-945c-850a209d787f"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sat, 20 Nov 2021 13:11:12 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/43649865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-20%2Fe9c63a60-97d4-c9b5-d00d-b586b4c42e3d.m4a",
+        "@length": 49342841,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7.3.2 自動化のクラスの階層 から 7.4 自分の仕事の自動化：何もかも自動化する まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:03",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #19",
+      "description": "<p>7.2 Google SREにとっての価値 から 7.3.1 Google SREによる自動化のユースケース まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-19-e19jvtd",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "34202167-0b41-4fb7-8464-28811b183f04"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 01 Nov 2021 13:48:07 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/42646893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F22e5f62a-0f28-f8d7-828c-404eea83f215.m4a",
+        "@length": 46261580,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7.2 Google SREにとっての価値 から 7.3.1 Google SREによる自動化のユースケース まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:13",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #18",
+      "description": "<p>7章 Googleにおける自動化の進化 から 7.1.5 時間の節約 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-18-e198pq0",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "be3cf541-babd-4499-852f-f539b3125139"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 25 Oct 2021 01:38:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/42280192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F3bf8b660-aaf3-1c99-5ef7-7d9b85e63a3d.m4a",
+        "@length": 51625700,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>7章 Googleにおける自動化の進化 から 7.1.5 時間の節約 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:38",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #17",
+      "description": "<p>読む範囲 : SRE 本&nbsp;6.10 原則のとりまとめ から 6.12 まとめまで。</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-17-e190acl",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0d3172c4-f176-41a2-aab4-9a2ec8b96878"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 19 Oct 2021 10:04:51 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/42002261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-19%2F2857ede1-119d-033e-4b0e-179065f23a87.m4a",
+        "@length": 39033927,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.10 原則のとりまとめ から 6.12 まとめまで。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #16",
+      "description": "<p>読む範囲 : SRE 本&nbsp;6.7 テイルレイテンシに関する懸念 から 6.9 可能な限りシンプルに、ただしやり過ぎないこと まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-16-e18lv2u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ad0cd007-5b58-4bd5-885e-8d8ee72d086f"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 12 Oct 2021 11:02:09 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/41663006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-12%2Fff920836-54f9-5559-9be5-60ffc13a1c28.m4a",
+        "@length": 45650091,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.7 テイルレイテンシに関する懸念 から 6.9 可能な限りシンプルに、ただしやり過ぎないこと まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:20",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #15",
+      "description": "<p>読む範囲 : SRE 本&nbsp;6.5 ブラックボックスとホワイトボックス から 6.6 4大シグナル まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-15-e189cnq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b58b373e-f930-4925-b516-1bdfc977de72"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 04 Oct 2021 04:55:03 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/41251002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-4%2F20db5166-38b3-51aa-9250-bfe396b00ac7.m4a",
+        "@length": 44555317,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.5 ブラックボックスとホワイトボックス から 6.6 4大シグナル まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #14",
+      "description": "<p>読む範囲 : SRE 本&nbsp;6.3 モニタリングにおける妥当な期待値の設定 から 6.4 症状と原因 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-14-e17u9sf",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b2df677d-cf83-44c4-86de-51927409bea5"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 27 Sep 2021 00:39:24 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/40887631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-27%2F8816505d-5f36-c839-366d-0db2ee240ba7.m4a",
+        "@length": 52067726,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.3 モニタリングにおける妥当な期待値の設定 から 6.4 症状と原因 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:24",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #13",
+      "description": "<p>読む範囲 : SRE 本&nbsp;6章 分散システムのモニタリングから 6.2 モニタリングの必要性 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-13-e17nm81",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "bf0eef3a-501f-44ab-8bfb-f0d00ce5d761"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 22 Sep 2021 11:46:14 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/40670913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-22%2F4befeca2-255a-ecad-43ed-c14234483477.m4a",
+        "@length": 47976329,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6章 分散システムのモニタリングから 6.2 モニタリングの必要性 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:09",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #12",
+      "description": "<p>読む範囲 : SRE 本&nbsp;5.2 トイルは少ない方が良い理由から5.5 まとめまで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-12-e172njl",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "cb7dc79e-0c64-4c59-bf81-d8018405a1bf"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 08 Sep 2021 10:53:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/39984181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-8%2Fb44e18e7-3eae-c2c4-a083-b187f5a8a16b.m4a",
+        "@length": 40687414,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;5.2 トイルは少ない方が良い理由から5.5 まとめまで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:23:55",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #11",
+      "description": "<p>読む範囲 : SRE 本&nbsp;5章 トイルの撲滅から5.1 トイルの定義まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-11-e16mrc3",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a7522ee6-7848-41d0-bab8-ddfba3ad6329"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 31 Aug 2021 08:51:44 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/39594819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-31%2Fbd7fd2d7-da11-2391-d092-a853e94aff2d.m4a",
+        "@length": 46677538,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;5章 トイルの撲滅から5.1 トイルの定義まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #10",
+      "description": "<p>読む範囲 : SRE 本&nbsp;4.3.3 計測値のコントロールから4.4 アグリーメントの実際まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-10-e16afuo",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "89b6b997-8624-4a89-a894-9b90be919ce5"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 23 Aug 2021 03:44:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/39189912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-23%2Fe612c115-53d2-e246-2a31-32d6b98f16a4.m4a",
+        "@length": 40258849,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4.3.3 計測値のコントロールから4.4 アグリーメントの実際まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:23:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #9",
+      "description": "<p><strong>読む範囲 : SRE 本&nbsp;4.2.4 指標の標準化から4.3.2 ターゲットの選択まで</strong></p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-9-e15rqif",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a1c6e026-310f-4cec-a0b7-bd3e0ddb95d0"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Fri, 13 Aug 2021 03:26:26 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/38709263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2F002adfa7-6756-19a2-6f06-94a2d4c7139f.m4a",
+        "@length": 46409546,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p><strong>読む範囲 : SRE 本&nbsp;4.2.4 指標の標準化から4.3.2 ターゲットの選択まで</strong></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:38",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 9,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #8",
+      "description": "<p>読む範囲 : SRE 本&nbsp;4.2 指標の実際から4.2.3 集計まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-8-e15n96u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "fb954319-5074-4762-892c-5a7a137b6649"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 10 Aug 2021 10:44:47 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/38560414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-10%2Fb8826dee-0465-1cc1-1325-6bb7db271858.m4a",
+        "@length": 21380579,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4.2 指標の実際から4.2.3 集計まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 8,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #7",
+      "description": "<p>読む範囲 : SRE 本&nbsp;4章 サービスレベル目標 から、4.1.3 アグリーメントまで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-7-e15bho7",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "29191d21-4708-49d7-bded-c8ef63858503"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 02 Aug 2021 09:26:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/38175943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-2%2F35c53a1f-72fa-3f06-703b-15372fbbca6c.m4a",
+        "@length": 23387274,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4章 サービスレベル目標 から、4.1.3 アグリーメントまで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:45",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 4,
+      "itunes:episode": 1,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #6",
+      "description": "<p><strong>読む範囲: SRE 本 3.4章 エラーバジェットの活用</strong></p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-6-e151e3a",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a0b8731d-d568-45fe-9f8f-fb0c5bca4622"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 26 Jul 2021 13:32:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/37844522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-26%2F55a3bb14-b691-9d7f-1fb0-16569a767e83.m4a",
+        "@length": 23096530,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p><strong>読む範囲: SRE 本 3.4章 エラーバジェットの活用</strong></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:04",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 6,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #5",
+      "description": "<p>読む範囲: SRE 本 3.1〜3.3章</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-5-e14jo3m",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d86e6f76-49c3-485f-8144-9990044b72c2"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sat, 17 Jul 2021 16:17:03 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/37396022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-17%2F343d4b7d-ee03-4d1f-3e6d-caf12c9e083d.m4a",
+        "@length": 31074926,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲: SRE 本 3.1〜3.3章</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:19",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 5,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #4",
+      "description": "<p>読む範囲: SRE 本 2章、3章 3.1 リスクの管理まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-4-e143vid",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "aa4b6e71-d1dc-4d95-a94d-30961757a2cb"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 08 Jul 2021 03:55:29 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/36879373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-8%2Fb0d9fdbf-6ee9-1a45-522d-bd8f470a6b07.m4a",
+        "@length": 24108197,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲: SRE 本 2章、3章 3.1 リスクの管理まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:40",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 4,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #3",
+      "description": "<p>読む範囲: SRE 本 コラム〜1.4</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-3-e140g30",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "84a0d82a-3951-409b-b50b-94ef61b9187a"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Tue, 06 Jul 2021 07:33:24 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/36765216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-6%2F0864dee5-0793-a557-5028-dd0e0f344cd6.m4a",
+        "@length": 42389703,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲: SRE 本 コラム〜1.4</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:52:01",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 3,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #2",
+      "description": "<p>読む範囲: SRE 本 1.2</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-2-e13qfs2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "44bab52e-14c6-4a5a-82e7-caa43b749b97"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Fri, 02 Jul 2021 09:47:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/36568386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F2892df30-c612-8b2a-0d68-a274aa9cc773.m4a",
+        "@length": 13185037,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲: SRE 本 1.2</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:25",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 2,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "もう一度読むSRE #1",
+      "description": "<p>読む範囲: SRE 本 1.1〜1.2の途中まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-1-e13mmv4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "16d456b8-f38b-4f26-95d0-d90f26513728"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 30 Jun 2021 10:48:26 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/36444580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-30%2Fee819384-2a1a-0438-9d20-042f2550f5c6.m4a",
+        "@length": 33456492,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>読む範囲: SRE 本 1.1〜1.2の途中まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:39:29",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 1,
+      "itunes:episodeType": "full"
+    }
+  ]
+}

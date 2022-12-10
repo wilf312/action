@@ -389,6 +389,14 @@ jobs:
           echo 'https://anchor.fm/s/416f2048/podcast/rss'
           curl https://anchor.fm/s/416f2048/podcast/rss --compressed > rss/resizefm.xml
 
+          # もう一度読むSRE
+          echo 'https://anchor.fm/s/6233432c/podcast/rss'
+          curl https://anchor.fm/s/6233432c/podcast/rss --compressed > rss/%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E8%AA%AD%E3%82%80SRE.xml
+
+          # 乃木坂46のイイトコ！〜乃木坂46広報ラジオ～
+          echo 'https://anchor.fm/s/a4263848/podcast/rss'
+          curl https://anchor.fm/s/a4263848/podcast/rss --compressed > rss/%E4%B9%83%E6%9C%A8%E5%9D%8246%E3%81%AE%E3%82%A4%E3%82%A4%E3%83%88%E3%82%B3.xml
+
 
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts

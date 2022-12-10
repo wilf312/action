@@ -12,7 +12,7 @@
 			<link>https://anchor.fm/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 22 Nov 2022 10:36:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 06 Dec 2022 08:22:22 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,42 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[50: Chrome Root Programがついにローンチされた話(Chrome105から)]]></title>
+			<description><![CDATA[<p>2022年9月下旬(収録当時)、ついにChrome Root Programがローンチされた話、ルートプログラムだけでなく証明書検証のプロセス自体もChrome Cert Verifierという独自のものを使うようになる話、証明書のパス構築と証明書検証において歴史的な変化となりそうですよね…という話をしています。雑談では、技術書典13の本にも登場したゆりかさんのピーマンの話のその後、万願寺とうがらしはテキサスのとうがらし(正確にはニューメキシコで採れてテキサスでも流通しているHatch Chile)にそっくり、お気に入りの梨(新甘泉・荒尾梨)などの話をしました。※ひとけーがモバイル環境で収録したためひとけーだけ音がよくないです、すみません！</p>
+<ul>
+ <li>Announcing the Launch of the Chrome Root Program<br>
+<a href="https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html" rel="noreferrer noopener" target="_blank">https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html</a></li>
+ <li>CA/B Forumで紹介された資料<br>
+<a href="https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view" rel="noreferrer noopener" target="_blank">https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view</a></li>
+  <li>Frequently Asked Questions<br>
+<a href="https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md" rel="noreferrer noopener" target="_blank">https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md</a></li>
+  <li>Adam Langleyさんのブログ ImperialViolet<br>
+<a href="https://www.imperialviolet.org/" rel="noreferrer noopener" target="_blank">https://www.imperialviolet.org/</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/50-Chrome-Root-ProgramChrome105-e1rqpi7</link>
+			<guid isPermaLink="false">603fb7ae-ce7d-423d-b71d-eb59a4909072</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 06 Dec 2022 08:20:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/61744135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F7d618148-beee-5887-e4a7-d28d8175feb1.mp3" length="22957632" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;2022年9月下旬(収録当時)、ついにChrome Root Programがローンチされた話、ルートプログラムだけでなく証明書検証のプロセス自体もChrome Cert Verifierという独自のものを使うようになる話、証明書のパス構築と証明書検証において歴史的な変化となりそうですよね…という話をしています。雑談では、技術書典13の本にも登場したゆりかさんのピーマンの話のその後、万願寺とうがらしはテキサスのとうがらし(正確にはニューメキシコで採れてテキサスでも流通しているHatch Chile)にそっくり、お気に入りの梨(新甘泉・荒尾梨)などの話をしました。※ひとけーがモバイル環境で収録したためひとけーだけ音がよくないです、すみません！&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Announcing the Launch of the Chrome Root Program&lt;br&gt;
+&lt;a href=&quot;https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;CA/B Forumで紹介された資料&lt;br&gt;
+&lt;a href=&quot;https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Frequently Asked Questions&lt;br&gt;
+&lt;a href=&quot;https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Adam Langleyさんのブログ ImperialViolet&lt;br&gt;
+&lt;a href=&quot;https://www.imperialviolet.org/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://www.imperialviolet.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[49: HTTPSのRFCが更新されてCN検証が禁止になった話]]></title>
 			<description><![CDATA[<p>ご無沙汰しております！休暇中の設備で録音したためひとけーだけ音がよくないです、すみません。IIJ Engineers Blogで2022年6月に発行されたRFC9110(HTTP Semantics)でHTTPSでの証明書検証においてサーバのアイデンティティの確認にCommon Name(CN)項目は使えません(CN-ID MUST NOT be used by clients)と決められた話をしています。すでにChromeでは2017年くらいからSubject Alt Name(SAN)を使うような動作になっています。</p>
