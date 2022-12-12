@@ -397,6 +397,10 @@ jobs:
           echo 'https://anchor.fm/s/a4263848/podcast/rss'
           curl https://anchor.fm/s/a4263848/podcast/rss --compressed > rss/%E4%B9%83%E6%9C%A8%E5%9D%8246%E3%81%AE%E3%82%A4%E3%82%A4%E3%83%88%E3%82%B3.xml
 
+          # 世界のねじを巻くラジオ
+          echo 'https://nejimaki-radio.com/feed/podcast/'
+          curl https://nejimaki-radio.com/feed/podcast/ --compressed > rss/%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E3%83%A9%E3%82%B8%E3%82%AA.xml
+
 
           # 書き出したxmlをJSONに変換
           deno run --allow-write --allow-read src/translate.ts
