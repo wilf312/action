@@ -544,6 +544,14 @@ export const urlList: UrlListItem[] = [
     hash: "乃木坂46のイイトコ",
     url: "https://anchor.fm/s/a4263848/podcast/rss",
   },
+
+
+  {
+    name: "世界のねじを巻くラジオ",
+    hash: "ねじまきラジオ",
+    url: "https://nejimaki-radio.com/feed/podcast/",
+  },
+
 ];
 
 /**
