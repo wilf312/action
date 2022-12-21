@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 13 Dec 2022 23:26:00 +0000",
+  "lastBuildDate": "Wed, 21 Dec 2022 13:33:49 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#107: Simple Ideas That Changed Printing and Publishing",
+      "link": "https://misreading.chat/2022/12/21/107-simple-ideas-that-changed-printing-and-publishing/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 21 Dec 2022 13:33:49 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=844"
+      },
+      "description": "Adobe と PostScript の歴史を森田が読みました。",
+      "content:encoded": "<p>Adobe と PostScript の歴史を森田が読みました。感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2022/12/ep107-3.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://computerhistory.org/blog/postscript-a-digital-printing-press/\">PostScript: A Digital Printing Press – CHM</a></li>\n\n\n\n<li><a href=\"https://www.computer.org/csdl/magazine/an/2019/03/08740874/1aZqadLWByM\">Founding and Growing Adobe Systems, Inc.</a> (paywall)</li>\n\n\n\n<li><a href=\"https://www.jstor.org/stable/23558230\">Simple Ideas That Changed Printing and Publishing on JSTOR</a> (paywall)</li>\n\n\n\n<li><a href=\"https://www.computer.org/csdl/magazine/an/2018/03/man2018030068/14Fq0YG2xuH\">The Origins of PostScript</a> (paywall)</li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/LaserWriter\">LaserWriter – Wikipedia</a></li>\n\n\n\n<li><a href=\"https://learn.microsoft.com/en-us/typography/truetype/hinting\">TrueType hinting – Typography | Microsoft Learn</a></li>\n\n\n\n<li><a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM03/Chap3.html\">Instructing Fonts – TrueType Reference Manual – Apple Developer</a></li>\n\n\n\n<li><a href=\"https://computerhistory.org/blog/adobe-photoshop-source-code/\">Adobe Photoshop Source Code – CHM</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2022/12/ep107-3.mp3",
+        "@length": 32665929,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2722,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "Adobe と PostScript の歴史を森田が読みました。",
+      "googleplay:description": "Adobe と PostScript の歴史を森田が読みました。",
+      "itunes:subtitle": "Adobe と PostScript の歴史を森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#106: Human-level play in the game of Diplomacy by combining language models with strategic reasoning",
       "link": "https://misreading.chat/2022/12/13/106-human-level-play-in-the-game-of-diplomacy-by-combining-language-models-with-strategic-reasoning/",
