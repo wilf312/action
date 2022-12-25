@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 25 Dec 2022 22:30:00 +0000",
+  "lastBuildDate": "Sun, 25 Dec 2022 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,35 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第224回 テストラジオ 今年も最後のテストラジオ！！",
+      "link": "https://testradio.fm/testradio-no/1379/",
+      "pubDate": "Sun, 25 Dec 2022 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1379"
+      },
+      "comments": "https://testradio.fm/testradio-no/1379/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1379/feed/",
+      "slash:comments": 0,
+      "category": "テストラジオ",
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/12/N224TestRadio.mp3",
+        "@length": 71518618,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/CbhifX-CMqQ          https://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&t=C-LtseThCXmWd7gIKfg64Q",
+      "itunes:summary": "https://youtu.be/CbhifX-CMqQ<br />\n<br />\n<br />\n<br />\n<br />\n<p></p><br />\n<br />\n<br />\n<br />\n<br />\nhttps://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&t=C-LtseThCXmWd7gIKfg64Q",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:48",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1379
+      }
+    },
     {
       "title": "第223回 テストラジオ",
       "link": "https://testradio.fm/testradio-no/1378/",
@@ -320,35 +349,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1333
-      }
-    },
-    {
-      "title": "第212回 テストラジオ『じゃんけんで決めよう』というフレーズの話",
-      "link": "https://testradio.fm/testradio-no/1335/",
-      "pubDate": "Sun, 07 Aug 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1335"
-      },
-      "comments": "https://testradio.fm/testradio-no/1335/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1335/feed/",
-      "slash:comments": 0,
-      "category": "テストラジオ",
-      "description": "追記Podcastのファイルの更新ができなかったので作成し直しです",
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/08/N212TestRadio.mp3",
-        "@length": 70804088,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "追記Podcastのファイルの更新ができなかったので作成し直しです",
-      "itunes:summary": "追記Podcastのファイルの更新ができなかったので作成し直しです",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "29:30",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1335
       }
     }
   ]
