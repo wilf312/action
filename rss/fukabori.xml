@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>PitPaStudio</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Dec 2022 01:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2022 14:00:27 +0000</lastBuildDate>
     <itunes:author>iwashi</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png"/>
@@ -20,6 +20,116 @@
     </itunes:owner>
     <itunes:summary>技術・組織・マネジメントなどを深掘りして楽しむPodcastです。</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>85. サーバーレス w/ Keisuke69</title>
+      <description>&lt;p&gt;Keisuke69さんをゲストに、サーバーレス、サーバーレスやFaaSの使い所、コミュニティの盛り上げ方、AWS re:invent 2022 などについて語っていただいたエピソードです。&lt;/p&gt;
+&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;サーバーレスとは何か？&lt;/li&gt;
+&lt;li&gt;AWS サーバーレススペシャリスト 第1号&lt;/li&gt;
+&lt;li&gt;西谷さんがサーバーレスに感銘を受けたポイント&lt;/li&gt;
+&lt;li&gt;Function as a Service&lt;/li&gt;
+&lt;li&gt;IaaS、CaaS、FaaS の違い&lt;/li&gt;
+&lt;li&gt;AWS Lambda の裏側の実装&lt;/li&gt;
+&lt;li&gt;Edgeで動作するサーバーレスコンピューティング&lt;/li&gt;
+&lt;li&gt;Aurora Serverless と OpenSearch Serverless&lt;/li&gt;
+&lt;li&gt;サーバーレスが有効なパターン、アーキテクチャ&lt;/li&gt;
+&lt;li&gt;イベントドリブンなシステム&lt;/li&gt;
+&lt;li&gt;サービス間をつなぐGlue Code&lt;/li&gt;
+&lt;li&gt;関数的に使うのがわかりやすい&lt;/li&gt;
+&lt;li&gt;ピタゴラスイッチでのメタファー&lt;/li&gt;
+&lt;li&gt;ピタゴラ装置153番のマーチ&lt;/li&gt;
+&lt;li&gt;サーバーレスで実装しないほうが良いものは？&lt;/li&gt;
+&lt;li&gt;日本でサーバーレス(FaaS)を扱えるエンジニアの数は多い？&lt;/li&gt;
+&lt;li&gt;情報量は技術選定の要素となる&lt;/li&gt;
+&lt;li&gt;コミュニテイを盛り上げる方法は？&lt;/li&gt;
+&lt;li&gt;AWS re:Invent 2022&lt;/li&gt;
+&lt;li&gt;AWS Lambda SnapStart と AWS Application Composer&lt;/li&gt;
+&lt;li&gt;サーバーレス(FaaS)での開発を取り巻く課題&lt;/li&gt;
+&lt;li&gt;Serverless Framework や AWS Chalice&lt;/li&gt;
+&lt;li&gt;FaaSのCI/CDやテスト周りはどうしている？&lt;/li&gt;
+&lt;li&gt;サーバーレスに残るミッシングピースとは？&lt;/li&gt;
+&lt;li&gt;今後のサーバーレスはどのように進化していく？&lt;/li&gt;
+&lt;li&gt;サーバーレスとSaaSとの境界&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/086_ebZYb.mp3</guid>
+      <enclosure url="https://r.pitpa.jp/episodes/01gm6rp100st1snes74e3tfbzz.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Dec 2022 07:11:30 +0900</pubDate>
+      <media:content url="https://r.pitpa.jp/episodes/01gm6rp100st1snes74e3tfbzz.mp3" type="audio/mpeg">
+        <media:player url="https://pitpa.jp/player/fukabori/episodes/14341/embedded"/>
+      </media:content>
+      <media:content url="https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png" type="image/png"/>
+      <itunes:author>iwashi</itunes:author>
+      <itunes:image href="https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/image/logo.png"/>
+      <itunes:duration>00:50:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>&lt;p&gt;Keisuke69さんをゲストに、サーバーレス、サーバーレスやFaaSの使い所、コミュニティの盛り上げ方、AWS re:invent 2022 などについて語っていただいたエピソードです。&lt;/p&gt;
+&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;サーバーレスとは何か？&lt;/li&gt;
+&lt;li&gt;AWS サーバーレススペシャリスト 第1号&lt;/li&gt;
+&lt;li&gt;西谷さんがサーバーレスに感銘を受けたポイント&lt;/li&gt;
+&lt;li&gt;Function as a Service&lt;/li&gt;
+&lt;li&gt;IaaS、CaaS、FaaS の違い&lt;/li&gt;
+&lt;li&gt;AWS Lambda の裏側の実装&lt;/li&gt;
+&lt;li&gt;Edgeで動作するサーバーレスコンピューティング&lt;/li&gt;
+&lt;li&gt;Aurora Serverless と OpenSearch Serverless&lt;/li&gt;
+&lt;li&gt;サーバーレスが有効なパターン、アーキテクチャ&lt;/li&gt;
+&lt;li&gt;イベントドリブンなシステム&lt;/li&gt;
+&lt;li&gt;サービス間をつなぐGlue Code&lt;/li&gt;
+&lt;li&gt;関数的に使うのがわかりやすい&lt;/li&gt;
+&lt;li&gt;ピタゴラスイッチでのメタファー&lt;/li&gt;
+&lt;li&gt;ピタゴラ装置153番のマーチ&lt;/li&gt;
+&lt;li&gt;サーバーレスで実装しないほうが良いものは？&lt;/li&gt;
+&lt;li&gt;日本でサーバーレス(FaaS)を扱えるエンジニアの数は多い？&lt;/li&gt;
+&lt;li&gt;情報量は技術選定の要素となる&lt;/li&gt;
+&lt;li&gt;コミュニテイを盛り上げる方法は？&lt;/li&gt;
+&lt;li&gt;AWS re:Invent 2022&lt;/li&gt;
+&lt;li&gt;AWS Lambda SnapStart と AWS Application Composer&lt;/li&gt;
+&lt;li&gt;サーバーレス(FaaS)での開発を取り巻く課題&lt;/li&gt;
+&lt;li&gt;Serverless Framework や AWS Chalice&lt;/li&gt;
+&lt;li&gt;FaaSのCI/CDやテスト周りはどうしている？&lt;/li&gt;
+&lt;li&gt;サーバーレスに残るミッシングピースとは？&lt;/li&gt;
+&lt;li&gt;今後のサーバーレスはどのように進化していく？&lt;/li&gt;
+&lt;li&gt;サーバーレスとSaaSとの境界&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Keisuke69さんをゲストに、サーバーレス、サーバーレスやFaaSの使い所、コミュニティの盛り上げ方、AWS re:invent 2022 などについて語っていただいたエピソードです。&lt;/p&gt;
+&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;サーバーレスとは何か？&lt;/li&gt;
+&lt;li&gt;AWS サーバーレススペシャリスト 第1号&lt;/li&gt;
+&lt;li&gt;西谷さんがサーバーレスに感銘を受けたポイント&lt;/li&gt;
+&lt;li&gt;Function as a Service&lt;/li&gt;
+&lt;li&gt;IaaS、CaaS、FaaS の違い&lt;/li&gt;
+&lt;li&gt;AWS Lambda の裏側の実装&lt;/li&gt;
+&lt;li&gt;Edgeで動作するサーバーレスコンピューティング&lt;/li&gt;
+&lt;li&gt;Aurora Serverless と OpenSearch Serverless&lt;/li&gt;
+&lt;li&gt;サーバーレスが有効なパターン、アーキテクチャ&lt;/li&gt;
+&lt;li&gt;イベントドリブンなシステム&lt;/li&gt;
+&lt;li&gt;サービス間をつなぐGlue Code&lt;/li&gt;
+&lt;li&gt;関数的に使うのがわかりやすい&lt;/li&gt;
+&lt;li&gt;ピタゴラスイッチでのメタファー&lt;/li&gt;
+&lt;li&gt;ピタゴラ装置153番のマーチ&lt;/li&gt;
+&lt;li&gt;サーバーレスで実装しないほうが良いものは？&lt;/li&gt;
+&lt;li&gt;日本でサーバーレス(FaaS)を扱えるエンジニアの数は多い？&lt;/li&gt;
+&lt;li&gt;情報量は技術選定の要素となる&lt;/li&gt;
+&lt;li&gt;コミュニテイを盛り上げる方法は？&lt;/li&gt;
+&lt;li&gt;AWS re:Invent 2022&lt;/li&gt;
+&lt;li&gt;AWS Lambda SnapStart と AWS Application Composer&lt;/li&gt;
+&lt;li&gt;サーバーレス(FaaS)での開発を取り巻く課題&lt;/li&gt;
+&lt;li&gt;Serverless Framework や AWS Chalice&lt;/li&gt;
+&lt;li&gt;FaaSのCI/CDやテスト周りはどうしている？&lt;/li&gt;
+&lt;li&gt;サーバーレスに残るミッシングピースとは？&lt;/li&gt;
+&lt;li&gt;今後のサーバーレスはどのように進化していく？&lt;/li&gt;
+&lt;li&gt;サーバーレスとSaaSとの境界&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:title>85. サーバーレス w/ Keisuke69</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode>86</podcast:episode>
+    </item>
     <item>
       <title>84. 技術の教え方・技術研修 w/ kakakakakku</title>
       <description>&lt;p&gt;kakakakakkuさんをゲストに、技術研修、成人教育、研修中の場・雰囲気作り、研修コンテンツの設計などについて語っていただいたエピソードです。&lt;/p&gt;
@@ -51,7 +161,7 @@
 &lt;li&gt;4年間、ブログを毎週かかさずに書き続けられた要因は？&lt;/li&gt;
 &lt;li&gt;新しい技術の種をどうやって見つけている？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/085_vQPHx.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01ghvzzkk1f9k5v6dtx4tzw4rv.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 15 Nov 2022 06:16:02 +0900</pubDate>
@@ -92,7 +202,7 @@
 &lt;li&gt;4年間、ブログを毎週かかさずに書き続けられた要因は？&lt;/li&gt;
 &lt;li&gt;新しい技術の種をどうやって見つけている？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;kakakakakkuさんをゲストに、技術研修、成人教育、研修中の場・雰囲気作り、研修コンテンツの設計などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -122,7 +232,7 @@
 &lt;li&gt;4年間、ブログを毎週かかさずに書き続けられた要因は？&lt;/li&gt;
 &lt;li&gt;新しい技術の種をどうやって見つけている？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>84. 技術の教え方・技術研修 w/ kakakakakku</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>85</podcast:episode>
@@ -148,7 +258,7 @@
 &lt;li&gt;採用: &lt;a href="https://recruit.nijibox.jp/"&gt;NIJIBOX&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://www.recruit.co.jp/employment/"&gt;リクルート&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/084_UpQdY.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gfj1sfmsdp7yp53901fn0sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 Oct 2022 18:00:00 +0900</pubDate>
@@ -179,7 +289,7 @@
 &lt;li&gt;採用: &lt;a href="https://recruit.nijibox.jp/"&gt;NIJIBOX&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://www.recruit.co.jp/employment/"&gt;リクルート&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;yosuke_furukawaさんをゲストに、Bunの狙い、Bunのパフォーマンス比較、Node.jsとBunとのIO実装の違いなどについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -199,7 +309,7 @@
 &lt;li&gt;採用: &lt;a href="https://recruit.nijibox.jp/"&gt;NIJIBOX&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://www.recruit.co.jp/employment/"&gt;リクルート&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>83. Node.js、Deno、Bun（後編） w/ yosuke_furukawa</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>84</podcast:episode>
@@ -234,7 +344,7 @@
 &lt;ul&gt;
 &lt;li&gt;冒頭で第81回と話しておりますが、82回の誤りです。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/083_LaKUD.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gezvyem1hpxge9p2bvtyc17t.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 Oct 2022 11:35:22 +0900</pubDate>
@@ -274,7 +384,7 @@
 &lt;ul&gt;
 &lt;li&gt;冒頭で第81回と話しておりますが、82回の誤りです。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://speakerdeck.com/yosuke_furukawa/denofalsehua"&gt;denoの話&lt;/a&gt;&lt;/li&gt;
@@ -303,7 +413,7 @@
 &lt;ul&gt;
 &lt;li&gt;冒頭で第81回と話しておりますが、82回の誤りです。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>82. Node.js、Deno、Bun （前編） w/ yosuke_furukawa</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>83</podcast:episode>
@@ -343,7 +453,7 @@
 &lt;li&gt;&lt;a href="https://fukabori.fm/episode/43"&gt;43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;中途採用募集中: &lt;a href="https://hrmos.co/pages/nttcom0033/jobs/1692897"&gt;低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/082_KJAZI.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01ge48m4tw7farv44tcz91b8jy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Sep 2022 18:18:11 +0900</pubDate>
@@ -388,7 +498,7 @@
 &lt;li&gt;&lt;a href="https://fukabori.fm/episode/43"&gt;43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;中途採用募集中: &lt;a href="https://hrmos.co/pages/nttcom0033/jobs/1692897"&gt;低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;mmasakiさんをゲストに、HLSやRTMPなどの配信技術、WebRTCを利用した配信技術とアーキテクチャ、そのスケーラビリティとトレードオフなどについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -422,7 +532,7 @@
 &lt;li&gt;&lt;a href="https://fukabori.fm/episode/43"&gt;43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;中途採用募集中: &lt;a href="https://hrmos.co/pages/nttcom0033/jobs/1692897"&gt;低遅延ライブ配信サービス「Smart vLive」や、これに続く新たなプラットフォームを開発するソフトウェアエンジニア&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>81. 低遅延ライブ配信を支える技術 w/ mmasaki</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>82</podcast:episode>
@@ -456,7 +566,7 @@
 &lt;li&gt;&lt;a href="https://twitter.com/yaiyai_radio"&gt;やいやいラジオ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://10x.co.jp/recruit/"&gt;RECRUIT | 株式会社10X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/081_XazAQ.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gcs13h574ydj40fx4xcdnebc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Sep 2022 23:19:27 +0900</pubDate>
@@ -495,7 +605,7 @@
 &lt;li&gt;&lt;a href="https://twitter.com/yaiyai_radio"&gt;やいやいラジオ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://10x.co.jp/recruit/"&gt;RECRUIT | 株式会社10X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;r1cchaさんをゲストに、PR・広報の定義、公聴の役割、ストーリーの重要性、PRとプロダクト開発との関連、エンジニア採用過熱問題、採用広報などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -523,7 +633,7 @@
 &lt;li&gt;&lt;a href="https://twitter.com/yaiyai_radio"&gt;やいやいラジオ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://10x.co.jp/recruit/"&gt;RECRUIT | 株式会社10X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>80. PRと広報、エンジニア向け採用広報 w/ r1ccha</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>81</podcast:episode>
@@ -561,7 +671,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.dnode.cloud/join"&gt;デロイト トーマツ ノード合同会社(D.Node)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/080_qEHby.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gc5ek16gxtk98sq4w00dx7zs.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Sep 2022 08:50:18 +0900</pubDate>
@@ -604,7 +714,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.dnode.cloud/join"&gt;デロイト トーマツ ノード合同会社(D.Node)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;D.Nodeのsuzutatsuさんをゲストに、BigQueryの基本、BigQueryの内部、最近のアップデート、D.Nodeなどについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -636,7 +746,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.dnode.cloud/join"&gt;デロイト トーマツ ノード合同会社(D.Node)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>79. BigQuery と D.Node w/ g_suzutatsu</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>80</podcast:episode>
@@ -680,7 +790,7 @@
 &lt;li&gt;&lt;a href="https://supergoodmeetings.com/"&gt;SuperGoodMeetings&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://uniba.jp/join.html"&gt;採用 ユニバ株式会社&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/079_YNwya.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gbh8ybes4zkn8jt27z838d7g.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Aug 2022 13:00:00 +0900</pubDate>
@@ -729,7 +839,7 @@
 &lt;li&gt;&lt;a href="https://supergoodmeetings.com/"&gt;SuperGoodMeetings&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://uniba.jp/join.html"&gt;採用 ユニバ株式会社&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;プロジェクトスプリント、ホラクラシー、定例会議の進め方、「お尻が痛い」からつながる改善などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.projectsprint.org/"&gt;プロジェクトスプリント&lt;/a&gt;とは？&lt;/li&gt;
@@ -767,7 +877,7 @@
 &lt;li&gt;&lt;a href="https://supergoodmeetings.com/"&gt;SuperGoodMeetings&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://uniba.jp/join.html"&gt;採用 ユニバ株式会社&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>78. プロジェクトスプリント（後編）w/ motoi, kedamatti</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>79</podcast:episode>
@@ -819,7 +929,7 @@
 &lt;li&gt;&lt;a href="https://copilot.jp/recruit/"&gt;採用 | 株式会社コパイロツト&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://blog.copilot.jp/"&gt;COPILOT BLOG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/078_SgumA.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01gaw9vqkhqs87g7vafkkj77zx.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 20 Aug 2022 09:18:47 +0900</pubDate>
@@ -876,7 +986,7 @@
 &lt;li&gt;&lt;a href="https://copilot.jp/recruit/"&gt;採用 | 株式会社コパイロツト&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://blog.copilot.jp/"&gt;COPILOT BLOG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;リモートワークにおけるファシリテーションの難しさ・上手くやる方法（合意形成・人数・頻度・目的の設定のコツ）などを語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -922,7 +1032,7 @@
 &lt;li&gt;&lt;a href="https://copilot.jp/recruit/"&gt;採用 | 株式会社コパイロツト&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://blog.copilot.jp/"&gt;COPILOT BLOG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>77. リモートワークにおけるファシリテーション（前編）</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>78</podcast:episode>
@@ -964,7 +1074,7 @@
 &lt;li&gt;今Webアプリを作るならどんな構成にするか？&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://meety.net/matches/IqkoOYweMjDq"&gt;Meety&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/077_sPtgl.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g77jtb3fey1x2j7g0p9yxm62.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jul 2022 01:24:11 +0900</pubDate>
@@ -1011,7 +1121,7 @@
 &lt;li&gt;今Webアプリを作るならどんな構成にするか？&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://meety.net/matches/IqkoOYweMjDq"&gt;Meety&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;2022年のモダンウェブフロントエンドまでに至る歴史、SPA、CSR、SSR、SSR Streaming、React Server Component などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1047,7 +1157,7 @@
 &lt;li&gt;今Webアプリを作るならどんな構成にするか？&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://meety.net/matches/IqkoOYweMjDq"&gt;Meety&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>76. モダンウェブフロントエンド(2022)に至る歴史 - React Server Component、SSR Streaming w/ morishin127</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>77</podcast:episode>
@@ -1086,7 +1196,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;訂正&lt;/h2&gt;
 &lt;p&gt;冒頭で &amp;quot;fukabori.fm の76回です&amp;quot; と言っていますが &amp;quot;75回&amp;quot; の間違いです。&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/076_uKSat.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g6btfqvyvh4cv43xzzmrat9q.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 25 Jun 2022 06:39:28 +0900</pubDate>
@@ -1130,7 +1240,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;訂正&lt;/h2&gt;
 &lt;p&gt;冒頭で &amp;quot;fukabori.fm の76回です&amp;quot; と言っていますが &amp;quot;75回&amp;quot; の間違いです。&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;GitHub Copilotの裏側、GPT、GPT-3、Scaling Law、Multi-head Attention、難解なトピックをわかりやすくする説明する方法などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1163,7 +1273,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;訂正&lt;/h2&gt;
 &lt;p&gt;冒頭で &amp;quot;fukabori.fm の76回です&amp;quot; と言っていますが &amp;quot;75回&amp;quot; の間違いです。&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>75. GitHub Copilotの裏側 と 難解なテーマをわかりやすく説明する方法 w/ AIcia_Solid</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>76</podcast:episode>
@@ -1203,7 +1313,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://timee.co.jp/"&gt;株式会社タイミー&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/075_eFUfv.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g5hhyqdzhmgty68g4t0dgpsc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Jun 2022 01:50:06 +0900</pubDate>
@@ -1247,7 +1357,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://timee.co.jp/"&gt;株式会社タイミー&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;タイミーCTOのkameike さんをゲストに、PMFしているスタートアップがスケールする上での組織課題と解法、プロダクトHR、エンジニアの目標・評価設計、コミュニケーション設計などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1280,7 +1390,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://timee.co.jp/"&gt;株式会社タイミー&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>74. PMFしているスタートアップがスケールする上での組織課題と解法 w/ kameike</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>75</podcast:episode>
@@ -1310,7 +1420,7 @@
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/38uNc1Y"&gt;CODE COMPLETE 第2版 上 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/3wspQlu"&gt;CODE COMPLETE 第2版 下 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/074_joNbx.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g348akn5e7as01tjqj3jc6yp.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 May 2022 01:20:19 +0900</pubDate>
@@ -1344,7 +1454,7 @@
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/38uNc1Y"&gt;CODE COMPLETE 第2版 上 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/3wspQlu"&gt;CODE COMPLETE 第2版 下 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;kumagi さんをゲストに、Value Object について語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1367,7 +1477,7 @@
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/38uNc1Y"&gt;CODE COMPLETE 第2版 上 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/3wspQlu"&gt;CODE COMPLETE 第2版 下 完全なプログラミングを目指して&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>73. Value Object w/ kumagi</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>74</podcast:episode>
@@ -1413,7 +1523,7 @@
 &lt;li&gt;&lt;a href="https://github.com/w3c/css-houdini-drafts/blob/main/css-layout-api/EXPLAINER.md"&gt;Layout API&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://herp.careers/v1/stockmark"&gt;ストックマーク社 エンジニア募集中&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/073_aysdL.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g22m71nygyj0x1nqpm5qwvy4.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 02 May 2022 23:53:54 +0900</pubDate>
@@ -1464,7 +1574,7 @@
 &lt;li&gt;&lt;a href="https://github.com/w3c/css-houdini-drafts/blob/main/css-layout-api/EXPLAINER.md"&gt;Layout API&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://herp.careers/v1/stockmark"&gt;ストックマーク社 エンジニア募集中&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;tsukkee さんをゲストに、CSS Grid、Custom Properties、CSS Transitionなどについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1504,7 +1614,7 @@
 &lt;li&gt;&lt;a href="https://github.com/w3c/css-houdini-drafts/blob/main/css-layout-api/EXPLAINER.md"&gt;Layout API&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;採用: &lt;a href="https://herp.careers/v1/stockmark"&gt;ストックマーク社 エンジニア募集中&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>72. 2022年のフロントエンド開発、特にCSS事情 w/ tsukkee</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>73</podcast:episode>
@@ -1543,7 +1653,7 @@
 &lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%BD%E3%83%B3%E5%AE%9F%E9%A8%93"&gt;ホーソン実験&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;魅了的品質をどう高めていくか？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/072_XpTik.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01g0v7hn4hm9fgxtb1h0j8jt7w.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Apr 2022 17:00:00 +0900</pubDate>
@@ -1586,7 +1696,7 @@
 &lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%BD%E3%83%B3%E5%AE%9F%E9%A8%93"&gt;ホーソン実験&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;魅了的品質をどう高めていくか？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;sakata_akinori さんに &amp;quot;アジャイル開発は品質が悪い&amp;quot; という言説、統計的品質管理、ウォーターフォールで利用されるバグ密度などの指標の有効性、代用特性などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.slideshare.net/sakataakinori/jasst-tokyo-2022"&gt;JaSST Tokyo 2022 アジャイルソフトウェア開発への統計的品質管理の応用&lt;/a&gt;&lt;/li&gt;
@@ -1618,7 +1728,7 @@
 &lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%BD%E3%83%B3%E5%AE%9F%E9%A8%93"&gt;ホーソン実験&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;魅了的品質をどう高めていくか？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>71. アジャイルソフトウェア開発と統計的品質管理 w/ sakata_akinori</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>72</podcast:episode>
@@ -1649,7 +1759,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/071_XlkUu.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fy91hzxje6pmfybhb77yyrrp.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Mar 2022 18:39:44 +0900</pubDate>
@@ -1684,7 +1794,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;書籍&amp;quot;チームトポロジー&amp;quot; 訳者の miholovesq さんに、3つのインタラクションモード(コラボレーションモード、XaaSモード、ファシリテーションモード)、認知負荷などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1708,7 +1818,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>70. チームトポロジー(後編) w/ miholovesq</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>71</podcast:episode>
@@ -1740,7 +1850,7 @@
 &lt;li&gt;Agile PBL祭り での最大のアンラーニングとは？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/070_piSrY.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fxhbx2521ymxdyy9qt0n5vv4.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Mar 2022 17:00:00 +0900</pubDate>
@@ -1776,7 +1886,7 @@
 &lt;li&gt;Agile PBL祭り での最大のアンラーニングとは？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;p&gt;書籍 &amp;quot;チームトポロジー&amp;quot; 訳者の miholovesq さんに、チームトポロジー、4つのチームタイプ、アジャイル開発との関連、Agile PBL祭り などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1801,7 +1911,7 @@
 &lt;li&gt;Agile PBL祭り での最大のアンラーニングとは？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;リスナーの皆様へのお願い&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！ぜひ回答お願いします！&lt;/a&gt; (2022/3/31 まで)&lt;/p&gt;</itunes:summary>
       <itunes:title>69. チームトポロジー(前編) w/ miholovesq</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>70</podcast:episode>
@@ -1837,7 +1947,7 @@
 &lt;li&gt;エンジニアリングの成果 と 経営 を接続する&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://corporate.m3.com/recruit/"&gt;m3 採用情報ページ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/069_gAVbY.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fx3ykazqdc801pzygcn2k6sh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Mar 2022 09:00:00 +0900</pubDate>
@@ -1877,7 +1987,7 @@
 &lt;li&gt;エンジニアリングの成果 と 経営 を接続する&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://corporate.m3.com/recruit/"&gt;m3 採用情報ページ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;p&gt;エムスリー VPoEの山崎さんに、エンジニア組織におけるHRBPの役割（採用、リテンション、チャレンジマネジメント）や、エンジニアマネジメントなどについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -1906,7 +2016,7 @@
 &lt;li&gt;エンジニアリングの成果 と 経営 を接続する&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://corporate.m3.com/recruit/"&gt;m3 採用情報ページ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3pfSweB"&gt;fukabori.fm リスナーアンケートを実施中です！&lt;/a&gt;&lt;/p&gt;</itunes:summary>
       <itunes:title>68. エンジニアリング組織に溶け込むHRBP w/ yamamuteking</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>69</podcast:episode>
@@ -1954,7 +2064,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;エピソード提供スポンサー&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.hey.jp/company"&gt;ヘイ株式会社&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/068_fZPbk.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01ftm6mdzbpm6ykzbvk1whn7p9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 31 Jan 2022 06:00:00 +0900</pubDate>
@@ -2006,7 +2116,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;エピソード提供スポンサー&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.hey.jp/company"&gt;ヘイ株式会社&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;hey CTOの藤村さんに、プログラミングにおける命名規則、heyのエンジニア組織設計・戦略などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -2047,7 +2157,7 @@
 &lt;/ul&gt;
 &lt;h2 id="-"&gt;エピソード提供スポンサー&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.hey.jp/company"&gt;ヘイ株式会社&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>67. 命名規則 と heyのエンジニア組織 w/ ffu_</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>68</podcast:episode>
@@ -2077,7 +2187,7 @@
 &lt;li&gt;組織の創造性を引き出すエンジニアリングとは&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/067_HVpBI.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fseqen7wbxn7778066ry8f22.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 Jan 2022 06:00:00 +0900</pubDate>
@@ -2111,7 +2221,7 @@
 &lt;li&gt;組織の創造性を引き出すエンジニアリングとは&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;p&gt;MIMIGURI Co-CEO のYukiAnzaiさんをゲストに、問いを引き出す基本定石、良い質問の角度の探し方、アイデアの収束方法などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -2134,7 +2244,7 @@
 &lt;li&gt;組織の創造性を引き出すエンジニアリングとは&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>66. 問いかけの作法(後編) w/ YukiAnzai</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>67</podcast:episode>
@@ -2177,7 +2287,7 @@
 &lt;li&gt;評価制度と連動させるのが重要&lt;/li&gt;
 &lt;li&gt;MIMIGURIにおける制度での連動例&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/066_TlYxi.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fs28mw8cyv2kh4bvrnar79wg.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 11 Jan 2022 06:21:38 +0900</pubDate>
@@ -2224,7 +2334,7 @@
 &lt;li&gt;評価制度と連動させるのが重要&lt;/li&gt;
 &lt;li&gt;MIMIGURIにおける制度での連動例&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;p&gt;MIMIGURI Co-CEO のYukiAnzaiさんをゲストに、&amp;quot;問いかけの作法&amp;quot;の概要、オンラインファシリテーション、４つの現代病、知の探索と深化、などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
@@ -2260,7 +2370,7 @@
 &lt;li&gt;評価制度と連動させるのが重要&lt;/li&gt;
 &lt;li&gt;MIMIGURIにおける制度での連動例&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/mimiguri/projects"&gt;MIMIGURI 採用・求人&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>65. 問いかけの作法(前編) w/ YukiAnzai</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>66</podcast:episode>
@@ -2291,7 +2401,7 @@
 &lt;li&gt;プロフェッショナル集団&lt;/li&gt;
 &lt;li&gt;攻殻機動隊 - Stand Alone Complex&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener"&gt;第3回 JAPAN PODCAST AWARDS「リスナーズ・チョイス」の投票フォーム&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/065_KPHCL.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01frgwwv9p48pwhqa8q70cb7aw.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 04 Jan 2022 06:00:00 +0900</pubDate>
@@ -2326,7 +2436,7 @@
 &lt;li&gt;プロフェッショナル集団&lt;/li&gt;
 &lt;li&gt;攻殻機動隊 - Stand Alone Complex&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener"&gt;第3回 JAPAN PODCAST AWARDS「リスナーズ・チョイス」の投票フォーム&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;p&gt;前回に続きnakakuraさんとkmatさんをゲストに、ROS(Robot Operating System)、ロボット x スキル、ロボットに対するプログラミングの課題、テストフィードバックサイクル、などについて語っていただいたエピソードです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ROSとは何か？&lt;/li&gt;
@@ -2350,7 +2460,7 @@
 &lt;li&gt;プロフェッショナル集団&lt;/li&gt;
 &lt;li&gt;攻殻機動隊 - Stand Alone Complex&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener"&gt;第3回 JAPAN PODCAST AWARDS「リスナーズ・チョイス」の投票フォーム&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>64. ロボット x スキル w/ nakakura, kmat</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>65</podcast:episode>
@@ -2391,7 +2501,7 @@
 &lt;li&gt;&lt;a href="https://drive.google.com/file/d/13Fxy8v8ngMk69-CJ7wEH25fj4t2VVDfh/view?usp=sharing"&gt;遠隔地での力覚転送という技術を紹介するために作成した、エイプリルフール動画の映像(サービス化はネタだが技術的には実装されており、実機で撮影)&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/064_reshT.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fqw8ptggfc4rhwhp3k1jhe0q.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Dec 2021 10:01:24 +0900</pubDate>
@@ -2436,7 +2546,7 @@
 &lt;li&gt;&lt;a href="https://drive.google.com/file/d/13Fxy8v8ngMk69-CJ7wEH25fj4t2VVDfh/view?usp=sharing"&gt;遠隔地での力覚転送という技術を紹介するために作成した、エイプリルフール動画の映像(サービス化はネタだが技術的には実装されており、実機で撮影)&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;ul&gt;
 &lt;li&gt;テレプレゼンスとは？&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://drive.google.com/file/d/1eUBXLT9ZX08NWFskBJqOEeyUIhU5scSJ/view"&gt;参考: テレプレゼンスのイメージがわかる動画&lt;/a&gt;&lt;/li&gt;
@@ -2470,7 +2580,7 @@
 &lt;li&gt;&lt;a href="https://drive.google.com/file/d/13Fxy8v8ngMk69-CJ7wEH25fj4t2VVDfh/view?usp=sharing"&gt;遠隔地での力覚転送という技術を紹介するために作成した、エイプリルフール動画の映像(サービス化はネタだが技術的には実装されており、実機で撮影)&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>63. テレプレゼンス・ロボット・最後にRust w/ nakakura, kmat</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>64</podcast:episode>
@@ -2496,7 +2606,7 @@
 &lt;li&gt;&amp;quot;プロダクトマネージャーは、おそらく組織内の他のどの役割よりも、自分自身の仕事の功績だけではなく、他の人に影響を与え、モチベーションを高める能力によって成功するか失敗するかが決まる。&amp;quot;&lt;/li&gt;
 &lt;li&gt;ykmc09さんにとって、良いプロダクトマネージャとは何か？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/063_GqKBR.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fqa53jnxcc9twq6sw7hz3svy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 20 Dec 2021 05:11:06 +0900</pubDate>
@@ -2526,7 +2636,7 @@
 &lt;li&gt;&amp;quot;プロダクトマネージャーは、おそらく組織内の他のどの役割よりも、自分自身の仕事の功績だけではなく、他の人に影響を与え、モチベーションを高める能力によって成功するか失敗するかが決まる。&amp;quot;&lt;/li&gt;
 &lt;li&gt;ykmc09さんにとって、良いプロダクトマネージャとは何か？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;書籍: &lt;a href="https://amzn.to/3yF5juO"&gt;プロダクト・レッド・オーガニゼーション 顧客と組織と成長をつなぐプロダクト主導型の構築&lt;/a&gt;&lt;/li&gt;
@@ -2545,7 +2655,7 @@
 &lt;li&gt;&amp;quot;プロダクトマネージャーは、おそらく組織内の他のどの役割よりも、自分自身の仕事の功績だけではなく、他の人に影響を与え、モチベーションを高める能力によって成功するか失敗するかが決まる。&amp;quot;&lt;/li&gt;
 &lt;li&gt;ykmc09さんにとって、良いプロダクトマネージャとは何か？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title> 62. プロダクト・レッド・オーガニゼーション w/ ykmc09</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>63</podcast:episode>
@@ -2582,7 +2692,7 @@
   &lt;li&gt;今後のプロダクトの方向性をどうしていく？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;エピソード提供スポンサー&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/062_IAino.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fpr5xp61a7jwv8b3ch1fgjbv.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Dec 2021 12:30:00 +0900</pubDate>
@@ -2623,7 +2733,7 @@
   &lt;li&gt;今後のプロダクトの方向性をどうしていく？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;エピソード提供スポンサー&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;LUUPのプロダクトって？&lt;/li&gt;
@@ -2653,7 +2763,7 @@
   &lt;li&gt;今後のプロダクトの方向性をどうしていく？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;エピソード提供スポンサー&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;&lt;a href="https://pitpa.cc/3ozy7RI"&gt;株式会社Luup&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</itunes:summary>
       <itunes:title>61. 電動マイクロモビリティのプロダクト開発 w/ 7omich, t-kurimura</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>62</podcast:episode>
@@ -2687,7 +2797,7 @@
 &lt;li&gt;&lt;a href="https://www.m3tech.blog/"&gt;M3 Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UC_DkAOcwgmtQnJLDctci4rQ"&gt;エムスリー公式テックチャンネル 【M3 Tech Channel】&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/062_yvfSc.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fmb8w4sjqekgfg86aqq1x6qf.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Nov 2021 08:00:00 +0900</pubDate>
@@ -2725,7 +2835,7 @@
 &lt;li&gt;&lt;a href="https://www.m3tech.blog/"&gt;M3 Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UC_DkAOcwgmtQnJLDctci4rQ"&gt;エムスリー公式テックチャンネル 【M3 Tech Channel】&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+</itunes:subtitle>
       <itunes:summary>&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.m3tech.blog/entry/vpoe-retrospective-2020"&gt;VPoEとしてこの3年間を振り返って  - エムスリーテックブログ&lt;/a&gt;&lt;/li&gt;
@@ -2752,7 +2862,7 @@
 &lt;li&gt;&lt;a href="https://www.m3tech.blog/"&gt;M3 Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UC_DkAOcwgmtQnJLDctci4rQ"&gt;エムスリー公式テックチャンネル 【M3 Tech Channel】&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+</itunes:summary>
       <itunes:title>60. エムスリーにおけるエンジニアリングマネジメント・リーダーの役割・1on1 w/ yamamuteking</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>61</podcast:episode>
@@ -2789,7 +2899,7 @@
 &lt;h2 id="-"&gt;エピソードスポンサー&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://podcast-pitpa-enginner.cdn.pitpa.jp/fukabori/episodes/060_gTMto.mp3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fkysw27a44ypphhw90ecdtx4.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Nov 2021 18:00:00 +0900</pubDate>
@@ -2831,7 +2941,7 @@
 &lt;h2 id="-"&gt;エピソードスポンサー&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="-"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.m3tech.blog/entry/vpoe-retrospective-2020"&gt;VPoEとしてこの3年間を振り返って  - エムスリーテックブログ&lt;/a&gt;&lt;/li&gt;
@@ -2862,7 +2972,7 @@
 &lt;h2 id="-"&gt;エピソードスポンサー&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>59. エムスリーにおけるVPoEの役割・エンジニア採用について w/ yamamuteking</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>60</podcast:episode>
@@ -2906,7 +3016,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/58</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nrwmg5scxx2py1nm6n.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 07 Oct 2021 17:00:00 +0900</pubDate>
@@ -2954,7 +3064,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -2991,7 +3101,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://forkwell.com/"&gt;Forkwell&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>58. プロダクトマネージャーカンファレンス 2021 w/ Nunerm</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>59</podcast:episode>
@@ -3033,7 +3143,7 @@
   &lt;li&gt;オンボーディング用のテンプレート&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.creationline.com/recruit"&gt;採用情報 - クリエーションライン&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3CyTBCB"&gt;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/57</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nr6g492xrh73rzdr3z.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Sep 2021 23:00:00 +0900</pubDate>
@@ -3079,7 +3189,7 @@
   &lt;li&gt;オンボーディング用のテンプレート&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.creationline.com/recruit"&gt;採用情報 - クリエーションライン&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3CyTBCB"&gt;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3114,7 +3224,7 @@
   &lt;li&gt;オンボーディング用のテンプレート&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.creationline.com/recruit"&gt;採用情報 - クリエーションライン&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3CyTBCB"&gt;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>57. クリエーションライン社の軌跡 w/ yasudatadahiro</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>58</podcast:episode>
@@ -3158,7 +3268,7 @@
   &lt;li&gt;自然言語処理界隈はどのように進化していくのか？&lt;/li&gt;
   &lt;li&gt;GitHub Copilot&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://stockmark.co.jp/recruit"&gt;Recruit、ストックマーク株式会社&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/56</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqqj5pe2007e2emd62.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 08 Sep 2021 23:00:00 +0900</pubDate>
@@ -3206,7 +3316,7 @@
   &lt;li&gt;自然言語処理界隈はどのように進化していくのか？&lt;/li&gt;
   &lt;li&gt;GitHub Copilot&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://stockmark.co.jp/recruit"&gt;Recruit、ストックマーク株式会社&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3243,7 +3353,7 @@
   &lt;li&gt;自然言語処理界隈はどのように進化していくのか？&lt;/li&gt;
   &lt;li&gt;GitHub Copilot&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://stockmark.co.jp/recruit"&gt;Recruit、ストックマーク株式会社&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>56. 自然言語処理(NLP)の歴史、BERT w/ Takahiro Omi</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>57</podcast:episode>
@@ -3297,7 +3407,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/55</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqdqraq4x18c446yjt.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0900</pubDate>
@@ -3355,7 +3465,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3402,7 +3512,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>55. コンテナランタイム(後編) w/ TokunagaKohei</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>56</podcast:episode>
@@ -3454,7 +3564,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/54</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqtvafe14ez5a9cz8z.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 Aug 2021 14:30:00 +0900</pubDate>
@@ -3510,7 +3620,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3555,7 +3665,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>54. コンテナランタイム(前編) w/ TokunagaKohei</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>55</podcast:episode>
@@ -3604,7 +3714,7 @@
 
 &lt;h2 id="宣伝"&gt;宣伝&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/53</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqyypqr64baaggdt6c.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jul 2021 13:00:00 +0900</pubDate>
@@ -3657,7 +3767,7 @@
 
 &lt;h2 id="宣伝"&gt;宣伝&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3699,7 +3809,7 @@
 
 &lt;h2 id="宣伝"&gt;宣伝&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;&lt;a href="https://www.patreon.com/fukabori"&gt;fukabori.fm の個人スポンサー募集中&lt;/a&gt;&lt;/p&gt;</itunes:summary>
       <itunes:title>53. 時系列データベースエンジン w/ nakabonne</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>54</podcast:episode>
@@ -3736,7 +3846,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/52</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqfatca9a03fp53cds.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Jun 2021 20:00:00 +0900</pubDate>
@@ -3777,7 +3887,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3807,7 +3917,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>52. ISUCON w/ 941</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>53</podcast:episode>
@@ -3861,7 +3971,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/51</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nq7hrmvrmemztn7bks.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Jun 2021 23:00:00 +0900</pubDate>
@@ -3919,7 +4029,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -3966,7 +4076,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://route06.co.jp/"&gt;株式会社 ROUTE06&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>51. 組織学習、心理的契約、エンゲージメント w/ tomomiminabe</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>52</podcast:episode>
@@ -4009,7 +4119,7 @@
   &lt;li&gt;社内的になぜCUEを採用するのか？&lt;/li&gt;
   &lt;li&gt;社内に基盤の良さを伝えるのは大変では？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/nttcom0033/jobs/0000019"&gt;採用募集中: ソフトウェア基盤開発・運用エンジニア向けポスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/50</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqmhxffk4bm7vbk9ar.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 25 May 2021 23:00:00 +0900</pubDate>
@@ -4056,7 +4166,7 @@
   &lt;li&gt;社内的になぜCUEを採用するのか？&lt;/li&gt;
   &lt;li&gt;社内に基盤の良さを伝えるのは大変では？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/nttcom0033/jobs/0000019"&gt;採用募集中: ソフトウェア基盤開発・運用エンジニア向けポスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4092,7 +4202,7 @@
   &lt;li&gt;社内的になぜCUEを採用するのか？&lt;/li&gt;
   &lt;li&gt;社内に基盤の良さを伝えるのは大変では？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/nttcom0033/jobs/0000019"&gt;採用募集中: ソフトウェア基盤開発・運用エンジニア向けポスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>50. 社内DevOps基盤、Tekton、Cuelang w/ JunMakishi</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>51</podcast:episode>
@@ -4142,7 +4252,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/49</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nqfrn3f1qfwdjtezxq.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 May 2021 11:00:00 +0900</pubDate>
@@ -4196,7 +4306,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4239,7 +4349,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>49. GoFデザインパターンとDI + リファクタリング (後編) w/ twada</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>50</podcast:episode>
@@ -4290,7 +4400,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/48</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nq95390v8ghmk4md1p.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 May 2021 23:00:00 +0900</pubDate>
@@ -4345,7 +4455,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4389,7 +4499,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.yumemi.co.jp/"&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>48. GoFデザインパターンとDI (前編) w/ twada</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>49</podcast:episode>
@@ -4424,7 +4534,7 @@
   &lt;li&gt;プロダクトマネージャの本当の成長の多くは、OJTである&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://productmanagement-criteria.com/"&gt;プロダクトマネジメントクライテリア&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tably/n/nce04f2446a86"&gt;プロダクトをつくる力をアセスメントするDIA for PMのご案内&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/47</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nq8q92dzce2ggepztw.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Apr 2021 11:30:00 +0900</pubDate>
@@ -4463,7 +4573,7 @@
   &lt;li&gt;プロダクトマネージャの本当の成長の多くは、OJTである&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://productmanagement-criteria.com/"&gt;プロダクトマネジメントクライテリア&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tably/n/nce04f2446a86"&gt;プロダクトをつくる力をアセスメントするDIA for PMのご案内&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4491,7 +4601,7 @@
   &lt;li&gt;プロダクトマネージャの本当の成長の多くは、OJTである&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://productmanagement-criteria.com/"&gt;プロダクトマネジメントクライテリア&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tably/n/nce04f2446a86"&gt;プロダクトをつくる力をアセスメントするDIA for PMのご案内&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>47. プロダクトマネジメントのすべて w/ takoratta</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>48</podcast:episode>
@@ -4543,7 +4653,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/46</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7np07yj9k1jnhr49ssv.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Mar 2021 15:00:00 +0900</pubDate>
@@ -4599,7 +4709,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4644,7 +4754,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>46. アジャイルコーチとは？ w/ yohhatu</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>47</podcast:episode>
@@ -4687,7 +4797,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/45</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nphgw17ydk9b076hsd.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 10 Mar 2021 21:00:00 +0900</pubDate>
@@ -4734,7 +4844,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4770,7 +4880,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>45. 組織の心理的安全性をどうやって高めるか？ w/ raykataoka</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>46</podcast:episode>
@@ -4815,7 +4925,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/44</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7npjh0n9y0crndagz1x.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Mar 2021 03:30:00 +0900</pubDate>
@@ -4864,7 +4974,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -4902,7 +5012,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>44. Spotify型およびゆめみにおける組織モデルの変遷 w/ raykataoka</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>45</podcast:episode>
@@ -4957,7 +5067,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/43</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7np3gysmchrzrrzvhb3.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Feb 2021 19:00:00 +0900</pubDate>
@@ -5016,7 +5126,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5064,7 +5174,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>43. WebTransport、HTTP/3、WebCodecs w/ yuki_wtz</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>44</podcast:episode>
@@ -5123,7 +5233,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/42</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7npatz9z73xhdw0410d.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Jan 2021 03:00:00 +0900</pubDate>
@@ -5186,7 +5296,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5238,7 +5348,7 @@
       &lt;li&gt;運営会社: &lt;a href="https://overflow.co.jp/"&gt;株式会社overflow&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>42. 良いマネジメントとは？良いミーティングとは？ w/ konifar</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>43</podcast:episode>
@@ -5267,7 +5377,7 @@
   &lt;li&gt;エンジニアの人事評価はどうしている？&lt;/li&gt;
   &lt;li&gt;「期待」を満たしたのか・満たしていのかをみる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/wantedly/projects"&gt;Wantedly, Inc.の採用/求人一覧&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/41</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7npantr11wy38pezq0f.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Dec 2020 15:00:00 +0900</pubDate>
@@ -5300,7 +5410,7 @@
   &lt;li&gt;エンジニアの人事評価はどうしている？&lt;/li&gt;
   &lt;li&gt;「期待」を満たしたのか・満たしていのかをみる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/wantedly/projects"&gt;Wantedly, Inc.の採用/求人一覧&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5322,7 +5432,7 @@
   &lt;li&gt;エンジニアの人事評価はどうしている？&lt;/li&gt;
   &lt;li&gt;「期待」を満たしたのか・満たしていのかをみる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/wantedly/projects"&gt;Wantedly, Inc.の採用/求人一覧&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>41. Wantedlyの開発組織 w/ kawasy</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>42</podcast:episode>
@@ -5352,7 +5462,7 @@
   &lt;li&gt;どうやって品質を担保していたのか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3qdLx53"&gt;LeanとDevOpsの科学&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;コードレビューをもらうのが難しい問題とその対策&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/40</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7np80ze1hg6sv7w9byc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 01 Dec 2020 15:00:00 +0900</pubDate>
@@ -5386,7 +5496,7 @@
   &lt;li&gt;どうやって品質を担保していたのか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3qdLx53"&gt;LeanとDevOpsの科学&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;コードレビューをもらうのが難しい問題とその対策&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5409,7 +5519,7 @@
   &lt;li&gt;どうやって品質を担保していたのか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://amzn.to/3qdLx53"&gt;LeanとDevOpsの科学&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;コードレビューをもらうのが難しい問題とその対策&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>40. 外資証券会社における独自言語および独自オブジェクト指向データベース w/ kawasy</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>41</podcast:episode>
@@ -5437,7 +5547,7 @@
   &lt;li&gt;Just calling without urgent matter&lt;/li&gt;
   &lt;li&gt;Over communiacation is definitely recommended&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://fukabori.fm/materials/JapaneseSupercardsSampler.pdf"&gt;Japanese Super Cards&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/39</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7np80mbsmxn3sspaz29.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 05 Sep 2020 15:00:00 +0900</pubDate>
@@ -5469,7 +5579,7 @@
   &lt;li&gt;Just calling without urgent matter&lt;/li&gt;
   &lt;li&gt;Over communiacation is definitely recommended&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://fukabori.fm/materials/JapaneseSupercardsSampler.pdf"&gt;Japanese Super Cards&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5490,7 +5600,7 @@
   &lt;li&gt;Just calling without urgent matter&lt;/li&gt;
   &lt;li&gt;Over communiacation is definitely recommended&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://fukabori.fm/materials/JapaneseSupercardsSampler.pdf"&gt;Japanese Super Cards&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>39. Work Together Anywhere w/ Lisette Sutherland</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>40</podcast:episode>
@@ -5538,7 +5648,7 @@
   &lt;li&gt;オンライン勉強会は参加が簡単、出席率も変わる&lt;/li&gt;
   &lt;li&gt;https://game.aktsk.jp/&lt;/li&gt;
   &lt;li&gt;https://voice.aktsk.jp/&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/38</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nn589vwh449ccqe6d4.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 22 Aug 2020 14:30:00 +0900</pubDate>
@@ -5590,7 +5700,7 @@
   &lt;li&gt;オンライン勉強会は参加が簡単、出席率も変わる&lt;/li&gt;
   &lt;li&gt;https://game.aktsk.jp/&lt;/li&gt;
   &lt;li&gt;https://voice.aktsk.jp/&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;p&gt;(収録環境都合により、途中で音質が変わります)&lt;/p&gt;
@@ -5631,7 +5741,7 @@
   &lt;li&gt;オンライン勉強会は参加が簡単、出席率も変わる&lt;/li&gt;
   &lt;li&gt;https://game.aktsk.jp/&lt;/li&gt;
   &lt;li&gt;https://voice.aktsk.jp/&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>38. 良い組織を作るために w/ yunon_phys</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>39</podcast:episode>
@@ -5668,7 +5778,7 @@
   &lt;li&gt;&lt;a href="https://aws.amazon.com/jp/builders-flash/202007/bokete-2/"&gt;電笑戦 ~ AIは人を笑わせられるのか 第 2 回　 電笑戦の背景と挑戦者&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://tech.stockmark.co.jp/"&gt;Stockmark Tech Blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/stockmark"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/37</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nndq0kvnhb0s26260w.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 Aug 2020 09:00:00 +0900</pubDate>
@@ -5709,7 +5819,7 @@
   &lt;li&gt;&lt;a href="https://aws.amazon.com/jp/builders-flash/202007/bokete-2/"&gt;電笑戦 ~ AIは人を笑わせられるのか 第 2 回　 電笑戦の背景と挑戦者&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://tech.stockmark.co.jp/"&gt;Stockmark Tech Blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/stockmark"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5739,7 +5849,7 @@
   &lt;li&gt;&lt;a href="https://aws.amazon.com/jp/builders-flash/202007/bokete-2/"&gt;電笑戦 ~ AIは人を笑わせられるのか 第 2 回　 電笑戦の背景と挑戦者&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://tech.stockmark.co.jp/"&gt;Stockmark Tech Blog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/stockmark"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>37. MLOpsとは？どのようにMLOpsを実装しているか？ w/ kenta_sato3</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>38</podcast:episode>
@@ -5784,7 +5894,7 @@
   &lt;li&gt;&lt;a href="https://nature.global/jp/nature-remo-3"&gt;Nature Remo 3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nature.global/jp/careers"&gt;Nature株式会社 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://leanpub.com/ghq-handbook"&gt;ghq handbook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/36</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nnwf4j9q2dp22pm48q.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 31 Jul 2020 13:20:00 +0900</pubDate>
@@ -5833,7 +5943,7 @@
   &lt;li&gt;&lt;a href="https://nature.global/jp/nature-remo-3"&gt;Nature Remo 3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nature.global/jp/careers"&gt;Nature株式会社 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://leanpub.com/ghq-handbook"&gt;ghq handbook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -5871,7 +5981,7 @@
   &lt;li&gt;&lt;a href="https://nature.global/jp/nature-remo-3"&gt;Nature Remo 3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nature.global/jp/careers"&gt;Nature株式会社 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://leanpub.com/ghq-handbook"&gt;ghq handbook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>36. [後編] You have commit bit! w/ songmu</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>37</podcast:episode>
@@ -5915,7 +6025,7 @@
   &lt;li&gt;&lt;a href="https://www.zenhub.com/"&gt;ZenHub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;オフィス移転とリモートワーク&lt;/li&gt;
   &lt;li&gt;どうやって見積もりする？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/35</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nn4hrntnxgt20b06e1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2020 16:00:00 +0900</pubDate>
@@ -5963,7 +6073,7 @@
   &lt;li&gt;&lt;a href="https://www.zenhub.com/"&gt;ZenHub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;オフィス移転とリモートワーク&lt;/li&gt;
   &lt;li&gt;どうやって見積もりする？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6000,7 +6110,7 @@
   &lt;li&gt;&lt;a href="https://www.zenhub.com/"&gt;ZenHub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;オフィス移転とリモートワーク&lt;/li&gt;
   &lt;li&gt;どうやって見積もりする？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>35. [前編] Nature Remoから学ぶシステムアーキテクチャと開発プロセス w/ songmu</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>36</podcast:episode>
@@ -6057,7 +6167,7 @@
   &lt;li&gt;どうやってDBについて学習するか？&lt;/li&gt;
   &lt;li&gt;CAPの定理をあえて使う必要はない&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://databaseinternals.connpass.com/"&gt;Database Internals 輪読会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/34</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nnqcgjheh0hnepz99b.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2020 18:00:00 +0900</pubDate>
@@ -6118,7 +6228,7 @@
   &lt;li&gt;どうやってDBについて学習するか？&lt;/li&gt;
   &lt;li&gt;CAPの定理をあえて使う必要はない&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://databaseinternals.connpass.com/"&gt;Database Internals 輪読会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6168,7 +6278,7 @@
   &lt;li&gt;どうやってDBについて学習するか？&lt;/li&gt;
   &lt;li&gt;CAPの定理をあえて使う必要はない&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://databaseinternals.connpass.com/"&gt;Database Internals 輪読会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>34. NewSQLとは w/ tzkb</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>35</podcast:episode>
@@ -6204,7 +6314,7 @@
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/track/"&gt;track&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/athletics/"&gt;athletics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hatenacorp.jp/intern2020"&gt;はてなインターン2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/33</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nmb6zbhyf2ykgspbks.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Jun 2020 15:00:00 +0900</pubDate>
@@ -6244,7 +6354,7 @@
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/track/"&gt;track&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/athletics/"&gt;athletics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hatenacorp.jp/intern2020"&gt;はてなインターン2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6273,7 +6383,7 @@
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/track/"&gt;track&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://givery.co.jp/services/athletics/"&gt;athletics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hatenacorp.jp/intern2020"&gt;はてなインターン2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>33. エンジニアの新卒採用事情 w/ tomoaki_mura</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>34</podcast:episode>
@@ -6332,7 +6442,7 @@
   &lt;li&gt;組織変革の熱狂は長くても6ヶ月しか持たない&lt;/li&gt;
   &lt;li&gt;ryuzeeさんが訳していて、書籍の一番好きなところは何か？&lt;/li&gt;
   &lt;li&gt;アジャイル系開発手法は応用範囲が広い&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/32</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nkeddectd93mnajwg0.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2020 13:00:00 +0900</pubDate>
@@ -6395,7 +6505,7 @@
   &lt;li&gt;組織変革の熱狂は長くても6ヶ月しか持たない&lt;/li&gt;
   &lt;li&gt;ryuzeeさんが訳していて、書籍の一番好きなところは何か？&lt;/li&gt;
   &lt;li&gt;アジャイル系開発手法は応用範囲が広い&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6447,7 +6557,7 @@
   &lt;li&gt;組織変革の熱狂は長くても6ヶ月しか持たない&lt;/li&gt;
   &lt;li&gt;ryuzeeさんが訳していて、書籍の一番好きなところは何か？&lt;/li&gt;
   &lt;li&gt;アジャイル系開発手法は応用範囲が広い&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>32. みんなでアジャイル w/ ryuzee</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>33</podcast:episode>
@@ -6488,7 +6598,7 @@
   &lt;li&gt;オススメ書籍名: 7日間でマスターする 配色基礎講座&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: ロゴデザインの現場 事例で学ぶデザイン技法としてのブランディング&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: 欧文書体 その背景と使い方&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/31</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nk01xvg23pwdpnbxfq.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Apr 2020 21:50:00 +0900</pubDate>
@@ -6533,7 +6643,7 @@
   &lt;li&gt;オススメ書籍名: 7日間でマスターする 配色基礎講座&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: ロゴデザインの現場 事例で学ぶデザイン技法としてのブランディング&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: 欧文書体 その背景と使い方&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6567,7 +6677,7 @@
   &lt;li&gt;オススメ書籍名: 7日間でマスターする 配色基礎講座&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: ロゴデザインの現場 事例で学ぶデザイン技法としてのブランディング&lt;/li&gt;
   &lt;li&gt;オススメ書籍名: 欧文書体 その背景と使い方&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>31. fukabori.fmのロゴ作成から学ぶデザイナーの業務プロセス w/ hiromisugie</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>32</podcast:episode>
@@ -6608,7 +6718,7 @@
   &lt;li&gt;運用上で大変なところは何か？これからどうしていきたいか？&lt;/li&gt;
   &lt;li&gt;リンクの自動化試験、LLDP(Link Layer Discovery Protocol)&lt;/li&gt;
   &lt;li&gt;ソフトウェアのやり方でネットワークを変えていきたい人を募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/30</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nk886hr8cvg0zm43z8.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2020 08:30:00 +0900</pubDate>
@@ -6653,7 +6763,7 @@
   &lt;li&gt;運用上で大変なところは何か？これからどうしていきたいか？&lt;/li&gt;
   &lt;li&gt;リンクの自動化試験、LLDP(Link Layer Discovery Protocol)&lt;/li&gt;
   &lt;li&gt;ソフトウェアのやり方でネットワークを変えていきたい人を募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6687,7 +6797,7 @@
   &lt;li&gt;運用上で大変なところは何か？これからどうしていきたいか？&lt;/li&gt;
   &lt;li&gt;リンクの自動化試験、LLDP(Link Layer Discovery Protocol)&lt;/li&gt;
   &lt;li&gt;ソフトウェアのやり方でネットワークを変えていきたい人を募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>30. Cloud Native Data Center Networking w/ toby</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>31</podcast:episode>
@@ -6739,7 +6849,7 @@
   &lt;li&gt;動的型付けから静的型付けへ&lt;/li&gt;
   &lt;li&gt;サーバ主導でのAPI定義から、クライアント主導でのAPI定義へ&lt;/li&gt;
   &lt;li&gt;Cloud Nativeとサーバレスコンピューティング&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/29</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nk21h7w8nqyctne3v9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2020 14:00:00 +0900</pubDate>
@@ -6795,7 +6905,7 @@
   &lt;li&gt;動的型付けから静的型付けへ&lt;/li&gt;
   &lt;li&gt;サーバ主導でのAPI定義から、クライアント主導でのAPI定義へ&lt;/li&gt;
   &lt;li&gt;Cloud Nativeとサーバレスコンピューティング&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6840,7 +6950,7 @@
   &lt;li&gt;動的型付けから静的型付けへ&lt;/li&gt;
   &lt;li&gt;サーバ主導でのAPI定義から、クライアント主導でのAPI定義へ&lt;/li&gt;
   &lt;li&gt;Cloud Nativeとサーバレスコンピューティング&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>29. 技術選定の審美眼(2) w/ twada</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>30</podcast:episode>
@@ -6877,7 +6987,7 @@
   &lt;li&gt;コミュニケーションコストにを下げるという寄与&lt;/li&gt;
   &lt;li&gt;系が閉じることによる強さ&lt;/li&gt;
   &lt;li&gt;閉包性とは？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/28</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nk3y83vqdss7a5pyx9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2020 15:00:00 +0900</pubDate>
@@ -6918,7 +7028,7 @@
   &lt;li&gt;コミュニケーションコストにを下げるという寄与&lt;/li&gt;
   &lt;li&gt;系が閉じることによる強さ&lt;/li&gt;
   &lt;li&gt;閉包性とは？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -6948,7 +7058,7 @@
   &lt;li&gt;コミュニケーションコストにを下げるという寄与&lt;/li&gt;
   &lt;li&gt;系が閉じることによる強さ&lt;/li&gt;
   &lt;li&gt;閉包性とは？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>28. 技術選定の審美眼(1) w/ twada</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>29</podcast:episode>
@@ -6998,7 +7108,7 @@
   &lt;li&gt;誤った操作をなかったことにしたい、という課題はまだ解けていない&lt;/li&gt;
   &lt;li&gt;教科書的なのは間違えにくいUI/画面設計を作る&lt;/li&gt;
   &lt;li&gt;遅延レプリケーションという解法&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/27</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nkegvy1bq8c150wm8b.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Mar 2020 15:00:00 +0900</pubDate>
@@ -7052,7 +7162,7 @@
   &lt;li&gt;誤った操作をなかったことにしたい、という課題はまだ解けていない&lt;/li&gt;
   &lt;li&gt;教科書的なのは間違えにくいUI/画面設計を作る&lt;/li&gt;
   &lt;li&gt;遅延レプリケーションという解法&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7095,7 +7205,7 @@
   &lt;li&gt;誤った操作をなかったことにしたい、という課題はまだ解けていない&lt;/li&gt;
   &lt;li&gt;教科書的なのは間違えにくいUI/画面設計を作る&lt;/li&gt;
   &lt;li&gt;遅延レプリケーションという解法&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>27. 論理削除とは何か？どのような解法があるのか？ w/ twada</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>28</podcast:episode>
@@ -7137,7 +7247,7 @@
   &lt;li&gt;&lt;a href="https://github.com/kubernetes-sigs/kustomize"&gt;kustomize&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://github.com/helm/helm"&gt;Helm&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nttcom.connpass.com/event/163460/"&gt;学生向け N-ISUCON - Webアプリケーションのパフォーマンスチューニングコンテスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/26</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nj32fjt4f27j607d3z.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 05 Feb 2020 14:45:00 +0900</pubDate>
@@ -7183,7 +7293,7 @@
   &lt;li&gt;&lt;a href="https://github.com/kubernetes-sigs/kustomize"&gt;kustomize&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://github.com/helm/helm"&gt;Helm&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nttcom.connpass.com/event/163460/"&gt;学生向け N-ISUCON - Webアプリケーションのパフォーマンスチューニングコンテスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7218,7 +7328,7 @@
   &lt;li&gt;&lt;a href="https://github.com/kubernetes-sigs/kustomize"&gt;kustomize&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://github.com/helm/helm"&gt;Helm&lt;/a&gt;とは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://nttcom.connpass.com/event/163460/"&gt;学生向け N-ISUCON - Webアプリケーションのパフォーマンスチューニングコンテスト&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>26. Spinnakerとは w/ k_mrgk</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>27</podcast:episode>
@@ -7274,7 +7384,7 @@
   &lt;li&gt;英語が分からなかったときの対応スキルが伸びる&lt;/li&gt;
   &lt;li&gt;海外で働いてみてよかった点は、英語の勉強から離れられたこと&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tatsuya_nanjo/n/n8edb2d4eb60b"&gt;東京のサラリーマンが、仕事をやめてアメリカで働くために悩んだこと、行動したこと&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/25</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7njd6pq8ztmbfxbztkg.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 17 Jan 2020 23:30:00 +0900</pubDate>
@@ -7334,7 +7444,7 @@
   &lt;li&gt;英語が分からなかったときの対応スキルが伸びる&lt;/li&gt;
   &lt;li&gt;海外で働いてみてよかった点は、英語の勉強から離れられたこと&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tatsuya_nanjo/n/n8edb2d4eb60b"&gt;東京のサラリーマンが、仕事をやめてアメリカで働くために悩んだこと、行動したこと&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7383,7 +7493,7 @@
   &lt;li&gt;英語が分からなかったときの対応スキルが伸びる&lt;/li&gt;
   &lt;li&gt;海外で働いてみてよかった点は、英語の勉強から離れられたこと&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.com/tatsuya_nanjo/n/n8edb2d4eb60b"&gt;東京のサラリーマンが、仕事をやめてアメリカで働くために悩んだこと、行動したこと&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>25. 日本企業を辞めてカーネギーメロン大学へ入学し、Nianticで働くまで  w/ noralife</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>26</podcast:episode>
@@ -7434,7 +7544,7 @@
   &lt;li&gt;開発ツールとしてのコード管理は何を使っている？&lt;/li&gt;
   &lt;li&gt;徐々にGitHub Enterpriseから、GitHub.comの利用へ&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2020.scrumgatheringtokyo.org/index.html"&gt;RSGT2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/24</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nj3kn98vsbq3z86xzy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Dec 2019 15:00:00 +0900</pubDate>
@@ -7489,7 +7599,7 @@
   &lt;li&gt;開発ツールとしてのコード管理は何を使っている？&lt;/li&gt;
   &lt;li&gt;徐々にGitHub Enterpriseから、GitHub.comの利用へ&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2020.scrumgatheringtokyo.org/index.html"&gt;RSGT2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7533,7 +7643,7 @@
   &lt;li&gt;開発ツールとしてのコード管理は何を使っている？&lt;/li&gt;
   &lt;li&gt;徐々にGitHub Enterpriseから、GitHub.comの利用へ&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2020.scrumgatheringtokyo.org/index.html"&gt;RSGT2020&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>24. 開発組織から部長がいなくなるまでの経緯 w/ teppeis</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>25</podcast:episode>
@@ -7583,7 +7693,7 @@
   &lt;li&gt;現代システムアーキテクチャとの乖離について&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://recruit-tech.co.jp/recruitment/"&gt;リクルートテクノロジーズ 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://jsconf.jp/2019/"&gt;JSConf JP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/23</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7njpm3cnm85q8p9rezq.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Oct 2019 04:00:00 +0900</pubDate>
@@ -7637,7 +7747,7 @@
   &lt;li&gt;現代システムアーキテクチャとの乖離について&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://recruit-tech.co.jp/recruitment/"&gt;リクルートテクノロジーズ 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://jsconf.jp/2019/"&gt;JSConf JP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7680,7 +7790,7 @@
   &lt;li&gt;現代システムアーキテクチャとの乖離について&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://recruit-tech.co.jp/recruitment/"&gt;リクルートテクノロジーズ 採用情報&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://jsconf.jp/2019/"&gt;JSConf JP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>23. 社内ISUCON w/ yosuke_furukawa</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>24</podcast:episode>
@@ -7742,7 +7852,7 @@
   &lt;li&gt;3万字を捨てる決断&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2019.pmconf.jp"&gt;プロダクトマネージャーカンファレンス 2019&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;プロダクトマネージャーカンファレンスを始めたきっかけ&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/22</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7njmh5n8fyehbwwf97h.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Oct 2019 10:00:00 +0900</pubDate>
@@ -7808,7 +7918,7 @@
   &lt;li&gt;3万字を捨てる決断&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2019.pmconf.jp"&gt;プロダクトマネージャーカンファレンス 2019&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;プロダクトマネージャーカンファレンスを始めたきっかけ&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7863,7 +7973,7 @@
   &lt;li&gt;3万字を捨てる決断&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://2019.pmconf.jp"&gt;プロダクトマネージャーカンファレンス 2019&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;プロダクトマネージャーカンファレンスを始めたきっかけ&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>22. ソフトウェア・ファースト w/ takoratta</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>23</podcast:episode>
@@ -7907,7 +8017,7 @@
   &lt;li&gt;SRv6の課題は？&lt;/li&gt;
   &lt;li&gt;ソフトウェアルータの課題は？&lt;/li&gt;
   &lt;li&gt;Segment Routingは自由研究のネタになる&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/21</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7njf1c2rnm73w4q2sq5.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 Sep 2019 14:30:00 +0900</pubDate>
@@ -7955,7 +8065,7 @@
   &lt;li&gt;SRv6の課題は？&lt;/li&gt;
   &lt;li&gt;ソフトウェアルータの課題は？&lt;/li&gt;
   &lt;li&gt;Segment Routingは自由研究のネタになる&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -7992,7 +8102,7 @@
   &lt;li&gt;SRv6の課題は？&lt;/li&gt;
   &lt;li&gt;ソフトウェアルータの課題は？&lt;/li&gt;
   &lt;li&gt;Segment Routingは自由研究のネタになる&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>21. Segment Routing v6 とは何か？ w/ slankdev</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>22</podcast:episode>
@@ -8048,7 +8158,7 @@
   &lt;li&gt;講義をしっかりすることで学生に訴求した&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/voyagegroup/jobs?category=1260098130969743360"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;2019/8/31 builderscon のランチセッションで &lt;a href="https://fukabori.fm/ajito.fm"&gt;ajito.fm&lt;/a&gt; の公開収録！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/20</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7njm82xrcy3fszed86t.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jul 2019 15:50:00 +0900</pubDate>
@@ -8108,7 +8218,7 @@
   &lt;li&gt;講義をしっかりすることで学生に訴求した&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/voyagegroup/jobs?category=1260098130969743360"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;2019/8/31 builderscon のランチセッションで &lt;a href="https://fukabori.fm/ajito.fm"&gt;ajito.fm&lt;/a&gt; の公開収録！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -8157,7 +8267,7 @@
   &lt;li&gt;講義をしっかりすることで学生に訴求した&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://hrmos.co/pages/voyagegroup/jobs?category=1260098130969743360"&gt;エンジニア募集中&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;2019/8/31 builderscon のランチセッションで &lt;a href="https://fukabori.fm/ajito.fm"&gt;ajito.fm&lt;/a&gt; の公開収録！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>20. 技術力をいかに評価するか？インターンシップにおける採用・戦略とは？ w/ makoga</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>21</podcast:episode>
@@ -8211,7 +8321,7 @@
   &lt;li&gt;リスペクトっていう概念が理解されていない問題&lt;/li&gt;
   &lt;li&gt;尊敬しているというのは、その人に興味を持ち、理解する過程である&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://rector.co.jp/"&gt;rector&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/19</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nhdmjfswjxfqs0cb3v.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Jul 2019 16:10:00 +0900</pubDate>
@@ -8269,7 +8379,7 @@
   &lt;li&gt;リスペクトっていう概念が理解されていない問題&lt;/li&gt;
   &lt;li&gt;尊敬しているというのは、その人に興味を持ち、理解する過程である&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://rector.co.jp/"&gt;rector&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -8316,7 +8426,7 @@
   &lt;li&gt;リスペクトっていう概念が理解されていない問題&lt;/li&gt;
   &lt;li&gt;尊敬しているというのは、その人に興味を持ち、理解する過程である&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://rector.co.jp/"&gt;rector&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>19. エンジニアリング組織を取り巻く変化とは？ w/ hiroki_daichi</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>20</podcast:episode>
@@ -8364,7 +8474,7 @@
   &lt;li&gt;KDDI DIGITAL GATEでエンジニア募集中&lt;/li&gt;
   &lt;li&gt;どんなエンジニアに来て欲しいか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://codebase.connpass.com/event/134947/"&gt;アジャイル開発体験会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/18</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nhb67r8vgkh8172v6c.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Jun 2019 14:00:00 +0900</pubDate>
@@ -8416,7 +8526,7 @@
   &lt;li&gt;KDDI DIGITAL GATEでエンジニア募集中&lt;/li&gt;
   &lt;li&gt;どんなエンジニアに来て欲しいか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://codebase.connpass.com/event/134947/"&gt;アジャイル開発体験会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -8457,7 +8567,7 @@
   &lt;li&gt;KDDI DIGITAL GATEでエンジニア募集中&lt;/li&gt;
   &lt;li&gt;どんなエンジニアに来て欲しいか？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://codebase.connpass.com/event/134947/"&gt;アジャイル開発体験会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>18. どのようにDX支援・アジャイル開発・スクラムを進めているのか？ w/ sorano_tarou</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>19</podcast:episode>
@@ -8548,7 +8658,7 @@
   &lt;li&gt;「いやー僕はいいんだけど、こいつは誘えないな」というときの理由&lt;/li&gt;
   &lt;li&gt;大企業が変わらないと、日本は変わらない&lt;/li&gt;
   &lt;li&gt;エンタープライズから日本を変えていけると楽しいのではないか&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/17</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nh3f2qdnzd02rs9b5d.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 Jun 2019 13:00:00 +0900</pubDate>
@@ -8643,7 +8753,7 @@
   &lt;li&gt;「いやー僕はいいんだけど、こいつは誘えないな」というときの理由&lt;/li&gt;
   &lt;li&gt;大企業が変わらないと、日本は変わらない&lt;/li&gt;
   &lt;li&gt;エンタープライズから日本を変えていけると楽しいのではないか&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -8727,7 +8837,7 @@
   &lt;li&gt;「いやー僕はいいんだけど、こいつは誘えないな」というときの理由&lt;/li&gt;
   &lt;li&gt;大企業が変わらないと、日本は変わらない&lt;/li&gt;
   &lt;li&gt;エンタープライズから日本を変えていけると楽しいのではないか&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>17. 本当にやれることを全部やってますか？ w/ takoratta</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>18</podcast:episode>
@@ -8795,7 +8905,7 @@
   &lt;li&gt;一定額の給与で裁量をもたせて、やらせてほしい&lt;/li&gt;
   &lt;li&gt;古くからある企業で、変わり始めてる事例を紹介するエピソード&lt;/li&gt;
   &lt;li&gt;（出演者全員）中途採用してます！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/16</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nhb0ecg3z07jpvav08.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 May 2019 12:55:00 +0900</pubDate>
@@ -8867,7 +8977,7 @@
   &lt;li&gt;一定額の給与で裁量をもたせて、やらせてほしい&lt;/li&gt;
   &lt;li&gt;古くからある企業で、変わり始めてる事例を紹介するエピソード&lt;/li&gt;
   &lt;li&gt;（出演者全員）中途採用してます！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -8928,7 +9038,7 @@
   &lt;li&gt;一定額の給与で裁量をもたせて、やらせてほしい&lt;/li&gt;
   &lt;li&gt;古くからある企業で、変わり始めてる事例を紹介するエピソード&lt;/li&gt;
   &lt;li&gt;（出演者全員）中途採用してます！&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>16. [番外編] NTTComでメンバーシップ雇用を抜けてスペシャリスト雇用に転向した話とか w/ yuyarin、shinji_abe</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>17</podcast:episode>
@@ -9010,7 +9120,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;(一部のPodcastクライアント用に再掲)
-320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/15</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nhvara8hg33tmx2mhv.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 May 2019 12:30:00 +0900</pubDate>
@@ -9096,7 +9206,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;(一部のPodcastクライアント用に再掲)
-320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -9171,7 +9281,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;(一部のPodcastクライアント用に再掲)
-320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+320KZCDさんをゲストに、組織にまつわるネタ(ジョブ理論・OKR・SEDA理論・No Rating・ティールなど)について語っていただいたエピソードです。&lt;/p&gt;</itunes:summary>
       <itunes:title>15. 良い組織とは何か？どのように良い組織を作っていくのか？</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>16</podcast:episode>
@@ -9272,7 +9382,7 @@
   &lt;li&gt;取締役からのメッセージも重要&lt;/li&gt;
   &lt;li&gt;バリューを出せる人は、どうやってもバリューを出せる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.asf.esm.co.jp/"&gt;アジャイルスタジオ福井&lt;/a&gt;で見学募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/14</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nh4qss24a2e2scw5s3.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Mar 2019 12:00:00 +0900</pubDate>
@@ -9377,7 +9487,7 @@
   &lt;li&gt;取締役からのメッセージも重要&lt;/li&gt;
   &lt;li&gt;バリューを出せる人は、どうやってもバリューを出せる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.asf.esm.co.jp/"&gt;アジャイルスタジオ福井&lt;/a&gt;で見学募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -9471,7 +9581,7 @@
   &lt;li&gt;取締役からのメッセージも重要&lt;/li&gt;
   &lt;li&gt;バリューを出せる人は、どうやってもバリューを出せる&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.asf.esm.co.jp/"&gt;アジャイルスタジオ福井&lt;/a&gt;で見学募集中&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>14. なぜ、エンタープライズ業界でアジャイル・リーンは普及しないのか？</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>15</podcast:episode>
@@ -9544,7 +9654,7 @@
   &lt;li&gt;誤っていたこと、失敗は良いチャレンジとして評価されるように&lt;/li&gt;
   &lt;li&gt;社内でアンチパターンを共有できる組織は強い&lt;/li&gt;
   &lt;li&gt;社内FailCon&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/13</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nhaam36r2w7tmjcj6n.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Feb 2019 14:45:00 +0900</pubDate>
@@ -9621,7 +9731,7 @@
   &lt;li&gt;誤っていたこと、失敗は良いチャレンジとして評価されるように&lt;/li&gt;
   &lt;li&gt;社内でアンチパターンを共有できる組織は強い&lt;/li&gt;
   &lt;li&gt;社内FailCon&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -9687,7 +9797,7 @@
   &lt;li&gt;誤っていたこと、失敗は良いチャレンジとして評価されるように&lt;/li&gt;
   &lt;li&gt;社内でアンチパターンを共有できる組織は強い&lt;/li&gt;
   &lt;li&gt;社内FailCon&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>13. ペアプロやテストの疑問とか、ソフトウェアエンジニアの育成とか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>14</podcast:episode>
@@ -9758,7 +9868,7 @@
   &lt;li&gt;新サービスを出したばっかりのPOはどう評価するか？&lt;/li&gt;
   &lt;li&gt;人事部とエンジニアの採用プロセスの関わり？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.attractor.co.jp/contact/"&gt;アトラクタでお仕事募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/12</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nh5ca2cwnsqf3pxw70.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Jan 2019 14:00:00 +0900</pubDate>
@@ -9833,7 +9943,7 @@
   &lt;li&gt;新サービスを出したばっかりのPOはどう評価するか？&lt;/li&gt;
   &lt;li&gt;人事部とエンジニアの採用プロセスの関わり？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.attractor.co.jp/contact/"&gt;アトラクタでお仕事募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -9897,7 +10007,7 @@
   &lt;li&gt;新サービスを出したばっかりのPOはどう評価するか？&lt;/li&gt;
   &lt;li&gt;人事部とエンジニアの採用プロセスの関わり？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.attractor.co.jp/contact/"&gt;アトラクタでお仕事募集中&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>12. エンプラ向けの組織改革とか、スクラムでのチーム作り・人事評価とか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>13</podcast:episode>
@@ -9957,7 +10067,7 @@
   &lt;li&gt;OpenStackのネットワークと、k8sのネットワークの下回りは同じ&lt;/li&gt;
   &lt;li&gt;Linux namespacesとは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://containerdays.jp/"&gt;JapanContainerDays v18.12&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/11</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nh2bfa2cpv108z4hvq.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 01 Dec 2018 15:00:00 +0900</pubDate>
@@ -10021,7 +10131,7 @@
   &lt;li&gt;OpenStackのネットワークと、k8sのネットワークの下回りは同じ&lt;/li&gt;
   &lt;li&gt;Linux namespacesとは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://containerdays.jp/"&gt;JapanContainerDays v18.12&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -10074,7 +10184,7 @@
   &lt;li&gt;OpenStackのネットワークと、k8sのネットワークの下回りは同じ&lt;/li&gt;
   &lt;li&gt;Linux namespacesとは？&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://containerdays.jp/"&gt;JapanContainerDays v18.12&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>11. dockerネットワーキングとか、kubernetesネットワーキングとか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>12</podcast:episode>
@@ -10144,7 +10254,7 @@
   &lt;li&gt;R&amp;amp;Dと事業部門のいいとこ取りの組織を作る&lt;/li&gt;
   &lt;li&gt;失敗するのが苦手、認めない文化&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.mu/rotsuya"&gt;note.mu&lt;/a&gt;での記事&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/10</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nh207mffnqacreaxrj.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Nov 2018 15:00:00 +0900</pubDate>
@@ -10218,7 +10328,7 @@
   &lt;li&gt;R&amp;amp;Dと事業部門のいいとこ取りの組織を作る&lt;/li&gt;
   &lt;li&gt;失敗するのが苦手、認めない文化&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.mu/rotsuya"&gt;note.mu&lt;/a&gt;での記事&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -10281,7 +10391,7 @@
   &lt;li&gt;R&amp;amp;Dと事業部門のいいとこ取りの組織を作る&lt;/li&gt;
   &lt;li&gt;失敗するのが苦手、認めない文化&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://note.mu/rotsuya"&gt;note.mu&lt;/a&gt;での記事&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>10. 大企業HACKS! - 大企業で実現するイマドキのサービス開発</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>11</podcast:episode>
@@ -10356,7 +10466,7 @@
   &lt;li&gt;メンバーシップ型社員とスペシャリスト型社員の評価制度は同じで良いのか？&lt;/li&gt;
   &lt;li&gt;お客様に価値を届けられる人間が対価を得るべき&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://techplay.jp/event/699906"&gt;2018/11/12 Tech-on Meet Up #03&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/9</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngkhpx0fdxzvga8e85.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Nov 2018 15:00:00 +0900</pubDate>
@@ -10435,7 +10545,7 @@
   &lt;li&gt;メンバーシップ型社員とスペシャリスト型社員の評価制度は同じで良いのか？&lt;/li&gt;
   &lt;li&gt;お客様に価値を届けられる人間が対価を得るべき&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://techplay.jp/event/699906"&gt;2018/11/12 Tech-on Meet Up #03&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -10503,7 +10613,7 @@
   &lt;li&gt;メンバーシップ型社員とスペシャリスト型社員の評価制度は同じで良いのか？&lt;/li&gt;
   &lt;li&gt;お客様に価値を届けられる人間が対価を得るべき&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://techplay.jp/event/699906"&gt;2018/11/12 Tech-on Meet Up #03&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>9. エンプラ業界でアジャイルになるためのプラクティスとか、社内/社外勉強会とか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>10</podcast:episode>
@@ -10553,7 +10663,7 @@
   &lt;li&gt;クラウドのDBはOracleの牙城を崩しに行く&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/8</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngjz8t3kp1zcaya7gy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 Oct 2018 15:00:00 +0900</pubDate>
@@ -10607,7 +10717,7 @@
   &lt;li&gt;クラウドのDBはOracleの牙城を崩しに行く&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -10650,7 +10760,7 @@
   &lt;li&gt;クラウドのDBはOracleの牙城を崩しに行く&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;</itunes:summary>
       <itunes:title>8. AWS Aurora、GCP Spannerへ辿り着くまでのDBの進化</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>9</podcast:episode>
@@ -10720,7 +10830,7 @@
   &lt;li&gt;CircleCIにおけるチームビルディング、All Hands&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/circlecijapan"&gt;Twitter CircleCIJapan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/circleci"&gt;We’re hiring at CircleCI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/7</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngfsfwrm39d4pj3zw5.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Oct 2018 15:00:00 +0900</pubDate>
@@ -10794,7 +10904,7 @@
   &lt;li&gt;CircleCIにおけるチームビルディング、All Hands&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/circlecijapan"&gt;Twitter CircleCIJapan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/circleci"&gt;We’re hiring at CircleCI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;継続的インテグレーション(CI)とは何か？&lt;/li&gt;
@@ -10857,7 +10967,7 @@
   &lt;li&gt;CircleCIにおけるチームビルディング、All Hands&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/circlecijapan"&gt;Twitter CircleCIJapan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.wantedly.com/companies/circleci"&gt;We’re hiring at CircleCI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>7. CI/CDとか、CircleCI自体の設計・開発プロセスとか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>8</podcast:episode>
@@ -10934,7 +11044,7 @@
   &lt;li&gt;双方向メンタリング&lt;/li&gt;
   &lt;li&gt;よっぱらったときに書いたコードやばい問題、深夜に書いたポエムやばい問題への対応&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://speakerdeck.com/takaking22/mob-programming-startup-manual-number-mobprogramming-number-mobupuro"&gt;モブプログラミング スタートアップマニュアル&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/6</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngfvqg5q2sjpqdhszj.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 25 Sep 2018 15:00:00 +0900</pubDate>
@@ -11015,7 +11125,7 @@
   &lt;li&gt;双方向メンタリング&lt;/li&gt;
   &lt;li&gt;よっぱらったときに書いたコードやばい問題、深夜に書いたポエムやばい問題への対応&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://speakerdeck.com/takaking22/mob-programming-startup-manual-number-mobprogramming-number-mobupuro"&gt;モブプログラミング スタートアップマニュアル&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://www.agileteam.jp/"&gt;一般社団法人 アジャイルチームを支える会&lt;/a&gt;&lt;/li&gt;
@@ -11085,7 +11195,7 @@
   &lt;li&gt;双方向メンタリング&lt;/li&gt;
   &lt;li&gt;よっぱらったときに書いたコードやばい問題、深夜に書いたポエムやばい問題への対応&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://speakerdeck.com/takaking22/mob-programming-startup-manual-number-mobprogramming-number-mobupuro"&gt;モブプログラミング スタートアップマニュアル&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>6. モブプログラミング 60分間1本勝負</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>7</podcast:episode>
@@ -11117,7 +11227,7 @@
   &lt;li&gt;いつかSIerに戻ってみたい理由&lt;/li&gt;
   &lt;li&gt;生涯でやり遂げたいことはある？&lt;/li&gt;
   &lt;li&gt;アジャイル、モブプロにおける人事評価&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/5</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngrz79b9qynh0xn5vm.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Aug 2018 15:00:00 +0900</pubDate>
@@ -11153,7 +11263,7 @@
   &lt;li&gt;いつかSIerに戻ってみたい理由&lt;/li&gt;
   &lt;li&gt;生涯でやり遂げたいことはある？&lt;/li&gt;
   &lt;li&gt;アジャイル、モブプロにおける人事評価&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://lean-agile.fm/"&gt;omoiyari.fm&lt;/a&gt;&lt;/li&gt;
@@ -11178,7 +11288,7 @@
   &lt;li&gt;いつかSIerに戻ってみたい理由&lt;/li&gt;
   &lt;li&gt;生涯でやり遂げたいことはある？&lt;/li&gt;
   &lt;li&gt;アジャイル、モブプロにおける人事評価&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>5. アジャイルコーチ、リーン・アジャイルの考え方、心理的安全性とか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>6</podcast:episode>
@@ -11207,7 +11317,7 @@
   &lt;li&gt;未踏とは？&lt;/li&gt;
   &lt;li&gt;DPDKを使うのは大変&lt;/li&gt;
   &lt;li&gt;未踏2017テーマ&lt;a href="https://github.com/susanow"&gt;環境に対して自動最適化する高性能通信基盤の開発&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/4</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngpxp7s2gahmh2cc25.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 14 Aug 2018 15:00:00 +0900</pubDate>
@@ -11240,7 +11350,7 @@
   &lt;li&gt;未踏とは？&lt;/li&gt;
   &lt;li&gt;DPDKを使うのは大変&lt;/li&gt;
   &lt;li&gt;未踏2017テーマ&lt;a href="https://github.com/susanow"&gt;環境に対して自動最適化する高性能通信基盤の開発&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://www.ntt.com/about-us/press-releases/news/article/2018/0611.html"&gt;Kamuee&lt;/a&gt;とは&lt;/li&gt;
@@ -11262,7 +11372,7 @@
   &lt;li&gt;未踏とは？&lt;/li&gt;
   &lt;li&gt;DPDKを使うのは大変&lt;/li&gt;
   &lt;li&gt;未踏2017テーマ&lt;a href="https://github.com/susanow"&gt;環境に対して自動最適化する高性能通信基盤の開発&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>4. Kamueeとか、Cuisharkとか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>5</podcast:episode>
@@ -11286,7 +11396,7 @@
   &lt;li&gt;CTFとは？&lt;/li&gt;
   &lt;li&gt;CTFtime (エピソード中のCTFTimesは誤りです)&lt;/li&gt;
   &lt;li&gt;通信事業者ってbotnet対策に何かしているの？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/3</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7ngyfgz3m3g5wj0jd1m.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 21 Jul 2018 15:00:00 +0900</pubDate>
@@ -11314,7 +11424,7 @@
   &lt;li&gt;CTFとは？&lt;/li&gt;
   &lt;li&gt;CTFtime (エピソード中のCTFTimesは誤りです)&lt;/li&gt;
   &lt;li&gt;通信事業者ってbotnet対策に何かしているの？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -11331,7 +11441,7 @@
   &lt;li&gt;CTFとは？&lt;/li&gt;
   &lt;li&gt;CTFtime (エピソード中のCTFTimesは誤りです)&lt;/li&gt;
   &lt;li&gt;通信事業者ってbotnet対策に何かしているの？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>3. botnetとか、CTFとか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>4</podcast:episode>
@@ -11364,7 +11474,7 @@
   &lt;li&gt;ブログも自分の子供&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/2</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nfmvca2jhmbz2nejkj.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Jul 2018 15:00:00 +0900</pubDate>
@@ -11401,7 +11511,7 @@
   &lt;li&gt;ブログも自分の子供&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -11427,7 +11537,7 @@
   &lt;li&gt;ブログも自分の子供&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;</itunes:summary>
       <itunes:title>2. 仕事よりブログが大事、ブログは自分の子供</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>3</podcast:episode>
@@ -11456,7 +11566,7 @@
   &lt;li&gt;QUICの折り合いの付け所&lt;/li&gt;
   &lt;li&gt;QUICの将来の展望&lt;/li&gt;
   &lt;li&gt;QUICを追っかけるにはどうすればいい？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/1</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nftzp7cxjvxs5ex73w.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 May 2018 15:00:00 +0900</pubDate>
@@ -11489,7 +11599,7 @@
   &lt;li&gt;QUICの折り合いの付け所&lt;/li&gt;
   &lt;li&gt;QUICの将来の展望&lt;/li&gt;
   &lt;li&gt;QUICを追っかけるにはどうすればいい？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -11511,7 +11621,7 @@
   &lt;li&gt;QUICの折り合いの付け所&lt;/li&gt;
   &lt;li&gt;QUICの将来の展望&lt;/li&gt;
   &lt;li&gt;QUICを追っかけるにはどうすればいい？&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>1. IETFとか、QUICとか</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>2</podcast:episode>
@@ -11524,7 +11634,7 @@
 &lt;ul&gt;
   &lt;li&gt;自己紹介&lt;/li&gt;
   &lt;li&gt;Podcastで今後話していくコンテンツについて&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+&lt;/ul&gt;</description>
       <guid isPermaLink="false">https://fukabori.fm/episode/0</guid>
       <enclosure url="https://r.pitpa.jp/episodes/01fhj2t7nfkw0k83446hwrna70.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 May 2018 15:00:00 +0900</pubDate>
@@ -11541,13 +11651,13 @@
 &lt;ul&gt;
   &lt;li&gt;自己紹介&lt;/li&gt;
   &lt;li&gt;Podcastで今後話していくコンテンツについて&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:subtitle>
+&lt;/ul&gt;</itunes:subtitle>
       <itunes:summary>&lt;h2 id="話したネタ"&gt;話したネタ&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;自己紹介&lt;/li&gt;
   &lt;li&gt;Podcastで今後話していくコンテンツについて&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;番組のスポンサー&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=https://pitpa.cc/3TQjBT5&gt;転職するなら【Green】 - IT/インターネット業界に強い転職サイト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+&lt;/ul&gt;</itunes:summary>
       <itunes:title>0. Fukabori.fmについて</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode>1</podcast:episode>

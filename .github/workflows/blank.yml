@@ -372,9 +372,6 @@ jobs:
           echo 'https://feeds.feedburner.com/strobofm'
           curl https://feeds.feedburner.com/strobofm --compressed > rss/strobofm.xml
 
-          # engineer meeting podcast
-          echo 'https://engineer-meeting.tumblr.com/rss'
-          curl https://engineer-meeting.tumblr.com/rss --compressed > rss/engineermeetingpodcast.xml
 
 
           # バイリンガルニュース (Bilingual News)

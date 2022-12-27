@@ -10,7 +10,7 @@ Twitch Live https://www.youtube.com/channel/UCYsoCLlENgV6YjvvGDRiVJg every Thurs
 			<link>https://blog.hanhans.net</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 07 Dec 2022 00:20:10 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Dec 2022 14:36:47 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e60bd50/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ryo Tomidokoro]]></author>
 		<copyright><![CDATA[Ryo Tomidokoro]]></copyright>
@@ -29,6 +29,32 @@ Twitch Live https://www.youtube.com/channel/UCYsoCLlENgV6YjvvGDRiVJg every Thurs
 			<itunes:category text="Tech News"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4996564/4996564-1588838510766-1b144b8f8f861.jpg"/>
+		<item>
+			<title><![CDATA[ep 81 @sji @zeriyoshiと PHP 8.2 リリース記念スペシャル	]]></title>
+			<description><![CDATA[<p>ゲストのお二人が PHP 8.2 に機能追加を行った RFC</p>
+<ul>
+ <li><a href="https://wiki.php.net/rfc/rng_extension">PHP: rfc:rng_extension</a> PHP の Random 拡張追加 @zeriyoshi さんの RFC</li>
+ <li><a href="https://wiki.php.net/rfc/constants_in_traits" target="_blank">PHP: rfc:constants_in_traits</a> Trait で Constants を使えるようにする機能追加 @sji さんの RFC</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/yokohama-north-am/episodes/ep-81-sji-zeriyoshi-PHP-8-2-e1smvjg</link>
+			<guid isPermaLink="false">b4870fe4-65d8-4b88-88b3-c9cd6b57229d</guid>
+			<dc:creator><![CDATA[Ryo Tomidokoro]]></dc:creator>
+			<pubDate>Sun, 25 Dec 2022 14:34:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e60bd50/podcast/play/62667824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-25%2Faf142b89-c833-2dfd-5c22-d1d13da99edc.mp3" length="65342289" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ゲストのお二人が PHP 8.2 に機能追加を行った RFC&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://wiki.php.net/rfc/rng_extension&quot;&gt;PHP: rfc:rng_extension&lt;/a&gt; PHP の Random 拡張追加 @zeriyoshi さんの RFC&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://wiki.php.net/rfc/constants_in_traits&quot; target=&quot;_blank&quot;&gt;PHP: rfc:constants_in_traits&lt;/a&gt; Trait で Constants を使えるようにする機能追加 @sji さんの RFC&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:16:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/4996564/4996564-1671978459342-00688bdf6b1e1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>81</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[ep 80 @akase244 @blue_goheimochiと転職、ごぼう茶、キャンプについて]]></title>
 			<description><![CDATA[<p>ゲスト @akase244, @blue_goheimochi</p>

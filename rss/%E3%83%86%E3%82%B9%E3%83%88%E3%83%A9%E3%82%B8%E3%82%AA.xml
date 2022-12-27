@@ -15,7 +15,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://testradio.fm/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://testradio.fm</link>
 	<description></description>
-	<lastBuildDate>Sun, 04 Dec 2022 23:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Dec 2022 23:00:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -53,6 +53,50 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:location>Tokyo, Japan</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 <site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第224回 テストラジオ 今年も最後のテストラジオ！！</title>
+		<link>https://testradio.fm/testradio-no/1379/</link>
+		<pubDate>Sun, 25 Dec 2022 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1379</guid>
+		<comments>https://testradio.fm/testradio-no/1379/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1379/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/12/N224TestRadio.mp3" length="71518618" type="audio/mpeg" />
+		<itunes:subtitle>https://youtu.be/CbhifX-CMqQ          https://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&amp;t=C-LtseThCXmWd7gIKfg64Q</itunes:subtitle>
+		<itunes:summary>https://youtu.be/CbhifX-CMqQ&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&amp;t=C-LtseThCXmWd7gIKfg64Q</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:48</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1379</post-id>		</item>
+	<item>
+		<title>第223回 テストラジオ</title>
+		<link>https://testradio.fm/testradio-no/1378/</link>
+		<pubDate>Sun, 25 Dec 2022 22:30:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1378</guid>
+		<comments>https://testradio.fm/testradio-no/1378/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1378/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<description>今回はツイキャスおやすみです！</description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/12/N223TestRadio.mp3" length="70637940" type="audio/mpeg" />
+		<itunes:subtitle>今回はツイキャスおやすみです！</itunes:subtitle>
+		<itunes:summary>今回はツイキャスおやすみです！</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:26</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1378</post-id>		</item>
+	<item>
 		<title>第222回 テストラジオ クイズこのバグの原因わかる？について語ります！</title>
 		<link>https://testradio.fm/testradio-no/1375/</link>
 		<pubDate>Sun, 04 Dec 2022 23:00:00 +0000</pubDate>
@@ -234,54 +278,5 @@ https://twitter.com/hiroyuki3gou/status/1563851407068766213?s=20&amp;t=2qBKceuF6
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>29:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1333</post-id>		</item>
-	<item>
-		<title>第212回 テストラジオ『じゃんけんで決めよう』というフレーズの話</title>
-		<link>https://testradio.fm/testradio-no/1335/</link>
-		<pubDate>Sun, 07 Aug 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1335</guid>
-		<comments>https://testradio.fm/testradio-no/1335/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1335/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[テストラジオ]]></category>
-		<description>追記Podcastのファイルの更新ができなかったので作成し直しです</description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/08/N212TestRadio.mp3" length="70804088" type="audio/mpeg" />
-		<itunes:subtitle>追記Podcastのファイルの更新ができなかったので作成し直しです</itunes:subtitle>
-		<itunes:summary>追記Podcastのファイルの更新ができなかったので作成し直しです</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:30</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1335</post-id>		</item>
-	<item>
-		<title>第211回 テストラジオ オムそばさんと一緒にボードゲーム『この言葉、なんですか？』を語ります。それでは、お楽しみください♪</title>
-		<link>https://testradio.fm/testradio-no/1317/</link>
-		<pubDate>Sun, 17 Jul 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1317</guid>
-		<comments>https://testradio.fm/testradio-no/1317/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1317/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[Podcast配信]]></category>
-		<category><![CDATA[ゲスト回]]></category>
-		<category><![CDATA[テストラジオ]]></category>
-		<category><![CDATA[なそ回]]></category>
-		<category><![CDATA[よしたけ回]]></category>
-		<description></description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/07/N211TestRadio_Podcast.mp3" length="125897857" type="audio/mpeg" />
-		<itunes:subtitle>https://twitter.com/hiroyuki3gou/status/1548609416597209089?s=20&amp;t=VhtxE9jcuMyy3Yp4c5yx1A      https://twitter.com/hiroyuki3gou/status/1548631150901735425?s=20&amp;t=JyzN1rtr-bJGVzAUmicfzQ</itunes:subtitle>
-		<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://twitter.com/hiroyuki3gou/status/1548609416597209089?s=20&amp;t=VhtxE9jcuMyy3Yp4c5yx1A&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://twitter.com/hiroyuki3gou/status/1548631150901735425?s=20&amp;t=JyzN1rtr-bJGVzAUmicfzQ</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>52:27</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1317</post-id>		</item>
 </channel>
 </rss>
