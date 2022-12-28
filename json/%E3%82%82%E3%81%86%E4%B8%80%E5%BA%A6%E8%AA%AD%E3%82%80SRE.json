@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #60",
+      "description": "<ul>\n <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>\n</ul>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-60-e1sq0hm",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "974591f6-b849-43ee-817e-60ded0568265"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 28 Dec 2022 05:14:29 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/62767094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-28%2F4e100661-6d9e-f7fb-7f59-5c0015b51383.m4a",
+        "@length": 41336625,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<ul>\n <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:30",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #59",
       "description": "<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-59-e1rsi1l",
