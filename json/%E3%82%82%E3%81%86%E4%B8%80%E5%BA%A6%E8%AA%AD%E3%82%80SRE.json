@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #61",
+      "description": "<p>18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-61-e1t2agg",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "23475912-49e8-42c8-a3e1-bfaf867037c0"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 04 Jan 2023 02:56:33 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/63039440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-4%2F3bfb68ed-5412-da61-acf1-8f23f82f4969.m4a",
+        "@length": 45242623,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:11",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #60",
       "description": "<ul>\n <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>\n</ul>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-60-e1sq0hm",
