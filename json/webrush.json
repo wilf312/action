@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 15 Dec 2022 11:00:00 +0000",
-  "lastBuildDate": "Thu, 15 Dec 2022 11:00:13 +0000",
+  "pubDate": "Thu, 5 Jan 2023 11:00:00 +0000",
+  "lastBuildDate": "Thu, 5 Jan 2023 11:00:12 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "64691938-7192-494e-b277-da94ebb083f2"
+      },
+      "title": "Episode 215: How I Doubled by Lighthouse Performance with Astro.js with Corbin Crutchley",
+      "description": "<p>Recording date: 12/08/2022</p><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Corbin Crutchley <a href=\"https://twitter.com/crutchcorn\">@Crutchcorn</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://developer.chrome.com/docs/lighthouse/overview/\">Google Lighthouse</a></li><li><a href=\"https://pagespeed.web.dev/\">PageSpeed Insights</a></li><li><a href=\"https://www.gatsbyjs.com/\">Gatsby</a></li><li><a href=\"https://astro.build/\">Astro</a></li><li><a href=\"https://nextjs.org/\">NextJS</a></li><li><a href=\"https://unicorn-utterances.com/\">Unicorn Utterances</a></li><li><a href=\"https://framework.guide\">Framework Field Guide</a></li><li><a href=\"https://gitshark.dev/\">GitShark</a></li><li><a href=\"https://www.patterns.dev/posts/islands-architecture/\">Islands Architecture</a></li><li><a href=\"https://docs.astro.build/en/concepts/islands/\">Astro Islands</a></li><li><a href=\"https://remark.js.org/\">Remark.js</a></li><li><a href=\"https://qwik.builder.io/\">Qwik</a></li><li><a href=\"https://dev.to/brandontroberts\">Brandon Roberts, Developer Extraordinaire</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:38</a></strong> Caviar dreams</li><li><strong><a>01:53</a></strong> Guest introduction</li><li><strong><a>04:01</a></strong> Starting out in Lighthouse</li><li><strong><a>06:47</a></strong> Why Astro?</li><li><strong><a>08:25</a></strong> Sponsor: Nrwl</li><li><strong><a>09:01</a></strong> What have you added on to Astro?</li><li><strong><a>12:43</a></strong> What about islands architecture?</li><li><strong><a>16:46</a></strong> What about Angular support?</li><li><strong><a>17:49</a></strong> Sponsor: Ag Grid</li><li><strong><a>18:54</a></strong> What changes did you make to improve Lighthouse score?</li><li><strong><a>23:08</a></strong> How is Markdown supported?</li><li><strong><a>25:15</a></strong> What was it like switching from Gatsby to Astro?</li><li><strong><a>27:09</a></strong> What sort of incremental improvements can I do?</li><li><strong><a>35:15</a></strong> What was the hardest part of the process?</li><li><strong><a>37:27</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 5 Jan 2023 11:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Recording date: 12/08/2022</p><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Corbin Crutchley <a href=\"https://twitter.com/crutchcorn\">@Crutchcorn</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://developer.chrome.com/docs/lighthouse/overview/\">Google Lighthouse</a></li><li><a href=\"https://pagespeed.web.dev/\">PageSpeed Insights</a></li><li><a href=\"https://www.gatsbyjs.com/\">Gatsby</a></li><li><a href=\"https://astro.build/\">Astro</a></li><li><a href=\"https://nextjs.org/\">NextJS</a></li><li><a href=\"https://unicorn-utterances.com/\">Unicorn Utterances</a></li><li><a href=\"https://framework.guide\">Framework Field Guide</a></li><li><a href=\"https://gitshark.dev/\">GitShark</a></li><li><a href=\"https://www.patterns.dev/posts/islands-architecture/\">Islands Architecture</a></li><li><a href=\"https://docs.astro.build/en/concepts/islands/\">Astro Islands</a></li><li><a href=\"https://remark.js.org/\">Remark.js</a></li><li><a href=\"https://qwik.builder.io/\">Qwik</a></li><li><a href=\"https://dev.to/brandontroberts\">Brandon Roberts, Developer Extraordinaire</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:38</a></strong> Caviar dreams</li><li><strong><a>01:53</a></strong> Guest introduction</li><li><strong><a>04:01</a></strong> Starting out in Lighthouse</li><li><strong><a>06:47</a></strong> Why Astro?</li><li><strong><a>08:25</a></strong> Sponsor: Nrwl</li><li><strong><a>09:01</a></strong> What have you added on to Astro?</li><li><strong><a>12:43</a></strong> What about islands architecture?</li><li><strong><a>16:46</a></strong> What about Angular support?</li><li><strong><a>17:49</a></strong> Sponsor: Ag Grid</li><li><strong><a>18:54</a></strong> What changes did you make to improve Lighthouse score?</li><li><strong><a>23:08</a></strong> How is Markdown supported?</li><li><strong><a>25:15</a></strong> What was it like switching from Gatsby to Astro?</li><li><strong><a>27:09</a></strong> What sort of incremental improvements can I do?</li><li><strong><a>35:15</a></strong> What was the hardest part of the process?</li><li><strong><a>37:27</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 29899393,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/cca62408-6e08-4bf3-b7d6-e4bea70c35a0/audio/ccd49c25-e4c6-4227-bf59-7f89a3a4120a/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 215: How I Doubled by Lighthouse Performance with Astro.js with Corbin Crutchley",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:41:02",
+      "itunes:summary": "Corbin Crutchley talks with us about what he did to improve his Lighthouse score, and how Astro played a part in improving his website's experience.",
+      "itunes:subtitle": "Corbin Crutchley talks with us about what he did to improve his Lighthouse score, and how Astro played a part in improving his website's experience.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 215
+    },
     {
       "guid": {
         "@isPermaLink": false,
