@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "メジャーでインターネット活動のコアになるサービスのインシデントについて",
+      "description": "<p>(収録日: 2022/01/04)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>Lastpass</li>\n <li>PyTorchとSupply Chain</li>\n  <li>EmbeddedなSupply ChainとPipelinelessなSupply Chain</li>\n  <li>今週の積ん読</li>\n</ul>\n<p># 参照</p>\n<ul>\n  <li>https://www.arnica.io/blog/what-is-pipelineless-security</li>\n  <li>https://pytorch.org/blog/compromised-nightly-dependency/</li>\n</ul>\n<p>#積ん読</p>\n<ul>\n  <li>なし</li>\n</ul>\n<p># 参加者: 針金細工さん（元名無しさん）、 ken5scal</p>\n<p># &nbsp;ジングル: @hajipion</p>",
+      "link": "https://anchor.fm/secure-fm/episodes/ep-e1t6fvv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "f35b71fd-9139-467a-bbe6-d540551861d2"
+      },
+      "dc:creator": "Secure旅団",
+      "pubDate": "Sun, 08 Jan 2023 23:00:24 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/2607ca1c/podcast/play/63176127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-7%2Ff69aa503-6415-48dc-643a-106c0f0f0fa9.mp3",
+        "@length": 58076317,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>(収録日: 2022/01/04)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>Lastpass</li>\n <li>PyTorchとSupply Chain</li>\n  <li>EmbeddedなSupply ChainとPipelinelessなSupply Chain</li>\n  <li>今週の積ん読</li>\n</ul>\n<p># 参照</p>\n<ul>\n  <li>https://www.arnica.io/blog/what-is-pipelineless-security</li>\n  <li>https://pytorch.org/blog/compromised-nightly-dependency/</li>\n</ul>\n<p>#積ん読</p>\n<ul>\n  <li>なし</li>\n</ul>\n<p># 参加者: 針金細工さん（元名無しさん）、 ken5scal</p>\n<p># &nbsp;ジングル: @hajipion</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:56:25",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "NW機器の管理インターフェースの公開の何がまずいかとか、マルチクラウドと脆弱性の話とか",
       "description": "<p>(収録日: 2022/10/18)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団 &nbsp;#secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>雑談</li>\n <li>Fortinetの脆弱性</li>\n <li>ネットワークの管理IFはなぜ気をつけたいのか（どういう場合に）z</li>\n <li>パッチマネジメント</li>\n  <li>脆弱性とCloud misconfigurationとマルチクラウド</li>\n  <li>ノーコードの利用者の幅がひろがりつつ、そのリスクをケアできているか</li>\n  <li>今週の積ん読</li>\n</ul>\n<p># 参照</p>\n<ul>\n  <li>https://www.jpcert.or.jp/at/2022/at220025.html</li>\n  <li>https://jpn.nec.com/cybersecurity/blog/220826/index.html</li>\n</ul>\n<p>#積ん読</p>\n<ul>\n  <li>詳解Go言語Webアプリケーション開発: https://www.amazon.co.jp/dp/B0B62K55SL</li>\n  <li>APIを作りながら進むGo中級者への道: https://techbookfest.org/product/jXDAEU1dR53kbZkgtDm9zx</li>\n  <li>事業をエンジニアリングする技術者たち ― フルサイクル開発者がつくるCARTAの現場: https://www.amazon.co.jp/dp/4908686157</li>\n</ul>\n<p># 参加者: 針金細工さん（元名無しさん）、 松本さん(@ym405nm)、ken5scal</p>\n<p># &nbsp;ジングル: @hajipion</p>",
       "link": "https://anchor.fm/secure-fm/episodes/NW-e1pnqa1",
