@@ -6,8 +6,8 @@
     "#text": null
   },
   "title": "バイリンガルニュース (Bilingual News)",
-  "pubDate": "Thu, 29 Dec 2022 07:00:25 +0000",
-  "lastBuildDate": "Thu, 05 Jan 2023 07:33:59 +0000",
+  "pubDate": "Thu, 12 Jan 2023 05:21:00 +0000",
+  "lastBuildDate": "Thu, 12 Jan 2023 05:30:47 +0000",
   "generator": "Libsyn WebEngine 2.0",
   "link": "https://bilingualnews.jp",
   "language": "ja",
@@ -21,7 +21,7 @@
     "link": "https://bilingualnews.jp"
   },
   "itunes:author": "Michael & Mami",
-  "itunes:keywords": "Japan,Japanese,Podcast,Script,Transcript,app,bilingualnews,english,free,news,toeic",
+  "itunes:keywords": "Japan,Japanese,Script,Transcript,app,bilingualnews,english,free,news,podcast,toeic",
   "itunes:category": [
     {
       "@text": "Education",
@@ -48,13 +48,45 @@
     "itunes:email": "emtiph@gmail.com"
   },
   "description": "新しいウェブサイト：bilingualnews.jp\r\n\r\nバイリンガルニュースでは、世界で話題のニュースを、独自のバイリンガル会話形式でゆるーく無料配信しています！収録は台本なしの一発本番なので、リアルな英会話をお楽しみいただけます。\r\n\r\n会話のテキストは、バイリンガルニュース公式アプリをチェック！\r\nitunes.com/bilingualnews\r\n\r\n楽しく英語を聴いて、英語力アップを目指してみませんか？\r\n\r\nBilingual News is a free English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics! Transcriptions for each episode are available via the Bilingual News: Transcripts app at itunes.com/bilingualnews. \r\n\r\nJoin us and improve your Japanese language ability!",
-  "itunes:subtitle": "(English-Japanese 日英)",
   "itunes:type": "episodic",
   "podcast:locked": {
     "@owner": "emtiph@gmail.com",
     "#text": "no"
   },
   "item": [
+    {
+      "title": "544. バイリンガルニュース 01.12.23",
+      "pubDate": "Thu, 12 Jan 2023 05:21:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "597ae1da-b72e-4bee-9c72-116dc87a7606"
+      },
+      "link": "https://bilingualnews.libsyn.com/544-011223",
+      "itunes:image": {
+        "@href": "https://ssl-static.libsyn.com/p/assets/4/7/9/a/479a65afb595c826/Bilingual_News.jpg",
+        "#text": null
+      },
+      "description": "<p>寝起き具合、AI感情表現、CES2023、マスク美男美女、など</p>",
+      "content:encoded": "<p>寝起き具合、AI感情表現、CES2023、マスク美男美女、など</p>",
+      "enclosure": {
+        "@length": 63057379,
+        "@type": "audio/mpeg",
+        "@url": "https://traffic.libsyn.com/secure/bilingualnews/011223.mp3?dest-id=154797",
+        "#text": null
+      },
+      "itunes:duration": "02:10:31",
+      "itunes:explicit": false,
+      "itunes:keywords": null,
+      "itunes:subtitle": "寝起き具合、AI感情表現、CES2023、マスク美男美女、など",
+      "itunes:episodeType": "full",
+      "#comment": [
+        "START ITEM EXTRA TAGS",
+        "CLOSE ITEM EXTRA TAGS"
+      ],
+      "itunes:totalTopic": 4,
+      "itunes:topicDuration": "00:00:16 , 00:40:23 , 00:51:19 , 00:59:07",
+      "itunes:topicNames": "寝起き具合 , AI感情表現 , CES2023 , マスク美男美女"
+    },
     {
       "title": "543. 特別編 年末雑談 12.29.22",
       "pubDate": "Thu, 29 Dec 2022 07:00:25 +0000",
