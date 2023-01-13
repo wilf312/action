@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』",
+      "link": "https://uit-inside.linecorp.com/episode/136",
+      "pubDate": "Fri, 13 Jan 2023 09:00:00 GMT",
+      "description": "<p>LINEが公開した日本語コーポレートフォント「LINE Seed JP」について、@springrainingがプロジェクトチーム (@kota.yaginuma, @yangkyungjin, @momo.yagihashi) に聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/136"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-line-seed-jp.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),kota.yaginuma(kota.yaginuma),yang_kyungjin(yang_kyungjin),momo.yagihashi(momo.yagihashi)",
+      "itunes:subtitle": "ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』",
+      "itunes:duration": "42:48",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode136.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.135 『@vercel/og で OG 画像生成の Satori を開く』",
       "link": "https://uit-inside.linecorp.com/episode/135",
       "pubDate": "Fri, 02 Dec 2022 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode037.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.36 Vue 3 Study 「何が変わる？ Composition API」",
-      "link": "https://uit-inside.linecorp.com/episode/36",
-      "pubDate": "Thu, 26 Mar 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining が @rChaser53 とともに、 Vue 3  Composition API の概要、実際にコードを書いて触ってみた所感、使うべきか？ などをテーマに話しました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/36"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-036.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "spring-raining(spring_raining),rChaser53(rChaser53)",
-      "itunes:subtitle": "ep.36 Vue 3 Study 「何が変わる？ Composition API」",
-      "itunes:duration": "33:42",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode036.png",
         "#text": null
       }
     }
