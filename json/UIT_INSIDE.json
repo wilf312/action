@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.137『動画出力もWeb技術で！ASIS-TOBE Maker を開発してみた』",
+      "link": "https://uit-inside.linecorp.com/episode/137",
+      "pubDate": "Mon, 30 Jan 2023 06:00:00 GMT",
+      "description": "<p>@potato4d が@tomoaki.hirabayashi に2つのキャプチャ画像を比較する社内ツール『ASIS-TOBE Maker』について、開発の経緯、利用している技術、Webで動画編集を行うモチベーションなどを聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/137"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode137.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),hirabayashi(hirabayashi)",
+      "itunes:subtitle": "ep.137『動画出力もWeb技術で！ASIS-TOBE Maker を開発してみた』",
+      "itunes:duration": "13:57",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode137.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』",
       "link": "https://uit-inside.linecorp.com/episode/136",
       "pubDate": "Fri, 13 Jan 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode038.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.37 「コントリビュートして学ぶ Prettier のしくみ」",
-      "link": "https://uit-inside.linecorp.com/episode/37",
-      "pubDate": "Fri, 03 Apr 2020 09:00:00 GMT",
-      "description": "<p>@potato4d が @cola119 と @__sosukesuzuki に Prettier への貢献や、最近気になる OSS について話しました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/37"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-037.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),__sosukesuzuki(__sosukesuzuki),cola119(cola119)",
-      "itunes:subtitle": "ep.37 「コントリビュートして学ぶ Prettier のしくみ」",
-      "itunes:duration": "26:25",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode037.png",
         "#text": null
       }
     }
