@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #63",
+      "description": "<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-63-e1ublbi",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "532e482a-0ff4-4f7c-918f-313dcb8c5d35"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 02 Feb 2023 08:05:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/64394034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-2%2Fed05cce9-aaf6-1fe3-6e33-e02ecdf82a44.m4a",
+        "@length": 65025417,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:44:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #62",
       "description": "<p>18.3.4 認知の向上と採用の推進 から 18.3.4.4 適切なレベルでの設計 まで</p>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-62-e1tvcun",
