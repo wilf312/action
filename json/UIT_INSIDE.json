@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.138『State of JS 2022を振り返る』",
+      "link": "https://uit-inside.linecorp.com/episode/138",
+      "pubDate": "Fri, 03 Feb 2023 09:00:00 GMT",
+      "description": "<p>昨年の終わりに公開された毎年恒例「State of JS」の結果について、@spring-raining と @AlanGDavalos が振り返りました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/138"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-state-of-js-2022.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Davalos Alan(AlanGDavalos),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.138『State of JS 2022を振り返る』",
+      "itunes:duration": "60:51",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode138.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.137『動画出力もWeb技術で！ASIS-TOBE Maker を開発してみた』",
       "link": "https://uit-inside.linecorp.com/episode/137",
       "pubDate": "Mon, 30 Jan 2023 06:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode039.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.38 Chromeでも廃止？サードパーティクッキーのない世界",
-      "link": "https://uit-inside.linecorp.com/episode/38",
-      "pubDate": "Fri, 10 Apr 2020 09:00:00 GMT",
-      "description": "<p>@potato4d が @kawasako3 に、ITP の最新状況、Chrome でのサードパーティ Cookie の廃止、広告のこれからについて聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/38"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-038.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),Kawasaki Kohei(kawasako3)",
-      "itunes:subtitle": "ep.38 Chromeでも廃止？サードパーティクッキーのない世界",
-      "itunes:duration": "30:15",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode038.png",
         "#text": null
       }
     }
