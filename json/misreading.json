@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 21 Dec 2022 13:33:49 +0000",
+  "lastBuildDate": "Thu, 02 Feb 2023 23:52:36 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -48,6 +48,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#108: The Verse Calculus",
+      "link": "https://misreading.chat/2023/02/02/108-the-verse-calculus/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Thu, 02 Feb 2023 23:52:35 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=860"
+      },
+      "description": "Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。",
+      "content:encoded": "<p>Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/02/ep108.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://simon.peytonjones.org/verse-calculus/\">The Verse Calculus: a core calculus for functional logic programming – Simon Peyton Jones</a></li>\n\n\n\n<li><a href=\"https://www.youtube.com/watch?v=832JF1o7Ck8\">Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones) – YouTube</a></li>\n</ul>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/02/ep108.mp3",
+        "@length": 59748525,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2489,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。",
+      "googleplay:description": "Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。",
+      "itunes:subtitle": "Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#107: Simple Ideas That Changed Printing and Publishing",
       "link": "https://misreading.chat/2022/12/21/107-simple-ideas-that-changed-printing-and-publishing/",
