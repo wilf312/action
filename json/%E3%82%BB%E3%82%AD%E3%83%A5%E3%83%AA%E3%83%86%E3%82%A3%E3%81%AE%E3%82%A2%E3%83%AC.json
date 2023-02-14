@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Tue, 07 Feb 2023 11:46:09 +0000",
+  "lastBuildDate": "Tue, 14 Feb 2023 11:00:12 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -66,6 +66,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第168回 ロマンスカルテ集計！愛に気付いてください！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1427",
+      "pubDate": "Tue, 14 Feb 2023 11:00:12 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1427"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1427#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1427",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet【関連記事】 ・2023年サイバーセキュリティ月間 – NISC ・Romance sc[...]",
+      "content:encoded": "<div id=\"tweetbutton1427\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1427&text=%E7%AC%AC168%E5%9B%9E%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%86%E9%9B%86%E8%A8%88%EF%BC%81%E6%84%9B%E3%81%AB%E6%B0%97%E4%BB%98%E3%81%84%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1427\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://security-portal.nisc.go.jp/cybersecuritymonth/2023/\">2023年サイバーセキュリティ月間 – NISC</a><br />\n・<a href=\"https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed\">Romance scammers’ favorite lies exposed | Federal Trade Commission</a><br />\n・<a href=\"https://www.hospital.or.jp/pdf/06_20230202_01.pdf\">「電子カルテシステム等のセキュリティ対策状況について」報告</a><br />\n・<a href=\"https://www.daj.jp/security_reports/30/\">[2023年1月公開]過去3年分の国内セキュリティインシデント集計 | Digital Arts Security Reports｜デジタルアーツ株式会社</a><br />\n・<a href=\"https://www.ipa.go.jp/files/000108005.pdf\">コンピュータウイルス・ 不正アクセスの届出状況 ［2022 年（1 月～12 月）］</a><br />\n・<a href=\"https://blog.talosintelligence.com/talos-year-in-review-2022/\">Talos Year in Review 2022</a><br />\n・<a href=\"https://gaga.ne.jp/manhole/\">映画『#マンホール』公式サイト</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/vd2023.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/vd2023-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1429\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/vd2023-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/vd2023-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/vd2023-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/vd2023.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>サイバーセキュリティ月間でした。広尾にお店を出すなら。大分無理しているのかもしれない。LINEスタンプの反響。それぞれの口癖。頭良さそうな言い回しを使おうとする頭悪そうなコメント。素敵やん。愛に気付いてください詐欺。7万人報告。よくつく嘘。一番遭遇する経路。相手を選ぶ送金手段。信じ込んでいるという心理状態にどうアプローチするのがいいのだろう。見抜くのも難しい。ほとんどがリモートメンテしてる。把握したは最近把握したのかもしれない。Forti以外ににも触れてほしい。PulseSecureのとかProxyLogonとかのここ数年の脆弱性とか。パッチ適用ではなく脆弱性対処、管理をスコープにしたほうがいいですね。情報提供内容の分かりやすさは主観が入るので実例がもう少しあるいいですね。いい例。それによってどういうアクションに役立ったかもあるともっといいかも。双方の言い分、双方の視点を合わせると有意義ですね。継続してほしい。答えているところは答えられるところ？他にも同じようなことはあるので横展開されてるといいですね。地道な集計とまとめいいですね。界王拳。単純に感染が増えたのか。報告しやすくなったのか。結果的外圧も増えたのかも。うちじゃない証明も？関係あるかい。Info Stealer系はどうなんだろう。出てきにくいかな。コモディティローダーはもっと伝わらないだろうな。オンライン試写便利。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年02月12日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_230213_OnTheOtherHand.mp3",
+        "@length": 30931622,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet【関連記事】 ・2023年サイバーセキュリティ月間 – NISC ・Romance sc[...]",
+      "itunes:summary": "Tweet【関連記事】 ・2023年サイバーセキュリティ月間 – NISC ・Romance sc[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:04:14"
+    },
     {
       "title": "第167回 LINEスタンプ3回のリジェクト乗り越え販売開始だ！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1420",
@@ -335,12 +364,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1358"
       },
-      "comments": "https://www.tsujileaks.com/?p=1358#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1358",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・MISSING – Official Trailer (H[...]",
-      "content:encoded": "<div id=\"tweetbutton1358\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1358&text=%E7%AC%AC158%E5%9B%9E%20%E5%82%99%E3%81%88%E3%82%88%E5%B8%B8%E3%81%AB%EF%BC%81OEM%E3%81%A7SDK%E5%95%8F%E9%A1%8C%E3%81%AB%E3%83%96%E3%83%AB%E3%83%AB%E3%83%B3%E3%83%91%E3%83%B3%E3%83%80%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1358\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://www.youtube.com/watch?v=seBixtcx19E\">MISSING – Official Trailer (HD) – YouTube</a><br />\n・<a href=\"https://www.microsoft.com/en-us/security/blog/2022/11/22/vulnerable-sdk-components-lead-to-supply-chain-risks-in-iot-and-ot-environments/\">Vulnerable SDK components lead to supply chain risks in IoT and OT environments – Microsoft Security Blog</a><br />\n・<a href=\"https://www.recordedfuture.com/continued-targeting-of-indian-power-grid-assets\">Continued Targeting of Indian Power Grid Assets by Chinese State-Sponsored Activity Group</a><br />\n・<a href=\"https://www.lac.co.jp/lacwatch/report/20221117_003189.html\">中国圏拠点のMustang Pandaがマルウェア「Claimloader」で標的型攻撃、日本にも影響か | LAC WATCH</a><br />\n・<a href=\"https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html\">Earth Preta Spear-Phishing Governments Worldwide</a><br />\n・<a href=\"https://blog.talosintelligence.com/mustang-panda-targets-europe/\">Mustang Panda deploys a new wave of malware targeting Europe</a><br />\n・<a href=\"https://jvoad.jp/knowhow/\">ノウハウ集｜全国災害ボランティア支援団体ネットワーク（JVOAD）</a><br />\n・<a href=\"https://www.nazotoki.com/\">超常現象の謎解き | 奇妙な「伝説」を紹介し、その「謎解き」を行っていくサイト</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/aremanju.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/aremanju-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1359\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/aremanju-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/aremanju-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/aremanju-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/aremanju.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>クレジットカードの不正利用疑惑の真相。アノ映画の続編。アカウントを守ることはあなたを守ること。BOAサーバ100万台問題。OEMでSDK。ファームが最新でも安全とは限らないことがある。アクセス制御をまず確認だ。SBOMでここまで分かるんだろうか。対処をしても残るものはある。買い換え待ちも。マスタングなのかムスタングなのか。2回目のチョッパー。マルウェア開発者よりメッセージ。関係ないと思っちゃうかもしれない。変わらないから目立たない。でも粛々と攻撃に使われている手法。とりとりってなんやろ？色々活用できそうなガイド・ノウハウ集。クラウドなのか雲なのか。とりあえずココは大丈夫という無批判な信じ込みは避けたほうがいい。色々揃えて判断は自分。いざというときに焦らないようにする平時の準備が要。そろそろ出てくる？脅威予測。今読もう！過去事例のある炎上はある周期で繰り返される説。一番古い記事は2016年とありますが移転でタイムスタンプが更新されていますね。実際はもっと古いエントリです。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年11月26日&nbsp;</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_221127_esetogiji.mp3",
         "@length": 30474193,
