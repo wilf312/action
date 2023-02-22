@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "52: ISRGのAnual Reportの話(Let's Encryptとプライバシーとメモリセーフ移行)",
+      "description": "<p>2022年12月に収録したものをやっと配信できました！Let's Encryptの運営元として知られるINTERNET SECURITY RESEARCH GROUP(ISRG)の2022年のアニュアルレポートについて話しました。Let's Encryptについはもちろん、データ収集時のプライバシーの尊重を勧める「Divvi Up」、インターネットの基幹システムをメモリセーフティなコードにしていこうというイニシアチブである「Prossimo」について紹介されていました。雑談では焼き栗にしたらうまくいった話、手打ちうどん・そばの話をしました。</p>\n<ul>\n <li>Let’s build a better Internet<br>\n<a href=\"https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf</a></li>\n <li>Divvi Up<br>\n<a href=\"https://divviup.org/\" rel=\"noreferrer noopener\" target=\"_blank\">https://divviup.org/</a></li>\n  <li>Prossimo<br>\n<a href=\"https://www.memorysafety.org/about/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.memorysafety.org/about/</a></li>\n</ul>",
+      "link": "https://anchor.fm/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "89493af8-aed2-489c-ae2f-55babff5b49c"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 22 Feb 2023 07:58:22 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/65444668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F8f6e68d0-b210-e567-bf7c-9236ef3a2c62.mp3",
+        "@length": 34752696,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2022年12月に収録したものをやっと配信できました！Let's Encryptの運営元として知られるINTERNET SECURITY RESEARCH GROUP(ISRG)の2022年のアニュアルレポートについて話しました。Let's Encryptについはもちろん、データ収集時のプライバシーの尊重を勧める「Divvi Up」、インターネットの基幹システムをメモリセーフティなコードにしていこうというイニシアチブである「Prossimo」について紹介されていました。雑談では焼き栗にしたらうまくいった話、手打ちうどん・そばの話をしました。</p>\n<ul>\n <li>Let’s build a better Internet<br>\n<a href=\"https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf</a></li>\n <li>Divvi Up<br>\n<a href=\"https://divviup.org/\" rel=\"noreferrer noopener\" target=\"_blank\">https://divviup.org/</a></li>\n  <li>Prossimo<br>\n<a href=\"https://www.memorysafety.org/about/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.memorysafety.org/about/</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:57:58",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 52,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "51: Twitter.comのドメイン登録と証明書有効期限切れが心配されていた時の話",
       "description": "<p>2022年11月に収録した回をようやく配信できました！お待たせいたしました。</p>\n<p>Twitter.comの証明書の有効期限が切れそうでハラハラした話、ブラジルの国が運営しているWebPKIのCA(SERPRO's CA)を新しくルートプログラムに登録したいという議題が6週間のオープンディスカッション期間に入っていた話(のちに2023年3月まで議論がサスペンドされました)、PKI関連の書籍が新しく出ていた話をしました。雑談でははてしない物語、揺り戻しの少ない休暇の取り方について話しました。</p>\n<ul>\n <li>Twitter.com</li>\n <li>Public Discussion of SERPRO's CA Inclusion Request<br>\n<a href=\"https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ\" rel=\"noreferrer noopener\" target=\"_blank\">https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ</a></li>\n  <li>ネットワークセキュリティ詳説 PKI/TLSプロトコル<br>\n<a href=\"https://www.amazon.co.jp/dp/4339029297\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.amazon.co.jp/dp/4339029297</a></li>\n</ul>",
       "link": "https://anchor.fm/hitokuchipki/episodes/51-Twitter-com-e1v9uc7",
