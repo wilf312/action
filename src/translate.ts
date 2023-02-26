@@ -38,6 +38,7 @@ const output = async (item) => {
 
 const main = async () => {
   const urlList = getEncodedUrl();
+  console.log(urlList.length);
 
   const writePromiseList = [];
   for (var i = urlList.length - 1; i >= 0; i--) {
@@ -46,6 +47,8 @@ const main = async () => {
   }
 
   await Promise.allSettled(writePromiseList);
+
+  console.log(`completed!`);
 };
 
 main();
