@@ -551,7 +551,13 @@ export const urlList: UrlListItem[] = [
     hash: "ねじまきラジオ",
     url: "https://nejimaki-radio.com/feed/podcast/",
   },
-
+  
+  {
+    name: "新聞1面じゃなくても大事なこと -SDGsを話そう-",
+    hash: "新聞1面じゃなくても大事なこと",
+    url: "https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/693cfdd6-f5a9-4308-9025-adb10164b5b1/podcast.rss",
+  },
+  
 ];
 
 /**
