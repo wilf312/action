@@ -9,7 +9,7 @@
 			<link>https://wantedly.dev/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 26 Dec 2022 09:20:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Feb 2023 10:16:10 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/64205bfc/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Wantedly Engineering]]></author>
 		<copyright><![CDATA[Wantedly Engineering]]></copyright>
@@ -25,6 +25,34 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+		<item>
+			<title><![CDATA[テックリードの頭の中 - モバイルと推薦のリードに話を聞いてみた by @Altech_2015 w/ @swiz_ard @jy_msc]]></title>
+			<description><![CDATA[<ul>
+ <li><a href="https://www.wantedly.com/id/altech">竹野 創平のプロフィール - Wantedly</a></li>
+ <li><a href="https://www.wantedly.com/id/kubode">久保出 雅俊のプロフィール - Wantedly</a></li>
+  <li><a href="https://www.wantedly.com/id/hakubishin3">合田 周平のプロフィール - Wantedly</a></li>
+  <li><a href="// @swiz_ard">Kotlin Multiplatform Mobile w/ &nbsp;@swiz_ard</a></li>
+  <li><a href="https://spotifyanchor-web.app.link/e/nfXO90SRRwb">"Kaggle" に集中できる推薦基盤改善 w/ @jy_msc</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/wantedly-dev/episodes/---by-Altech_2015-w-swiz_ard-jy_msc-e1sr8a2</link>
+			<guid isPermaLink="false">530a326b-ad8f-473b-a15e-b5285349764a</guid>
+			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
+			<pubDate>Wed, 25 Jan 2023 09:05:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/64205bfc/podcast/play/62807810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-25%2Fd20fdb06-7f16-a99a-8753-193a2cf40cec.m4a" length="81995068" type="audio/x-m4a"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/altech&quot;&gt;竹野 創平のプロフィール - Wantedly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/kubode&quot;&gt;久保出 雅俊のプロフィール - Wantedly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/hakubishin3&quot;&gt;合田 周平のプロフィール - Wantedly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;// @swiz_ard&quot;&gt;Kotlin Multiplatform Mobile w/ &amp;nbsp;@swiz_ard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spotifyanchor-web.app.link/e/nfXO90SRRwb&quot;&gt;&quot;Kaggle&quot; に集中できる推薦基盤改善 w/ @jy_msc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:24:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16698423/16698423-1626322043391-293537bfd1c14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[不確実性を減らすってどういうこと w/ @chloe463]]></title>
 			<description><![CDATA[<p>@chloe463 が全社ミーティング(Demoday) で発表した<a href="https://docs.google.com/presentation/d/1_HhcYu6vRqA_6dXl135x_B7Eu4AkTjNQ7hB7PxbGM2A">不確実性を減らすってどういうこと(internal)</a> の内容を詳しく解説してもらいました。</p>
@@ -692,19 +720,19 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech]]></title>
+			<title><![CDATA[技術を的に当てる技術について - GraphQL を入れ直した話 w/ @Altech_2015]]></title>
 			<description><![CDATA[<p>アーキテクトの <a href="https://twitter.com/altech_2015">@Altech_2015</a> を呼んで 吉祥寺.pm28 で話した技術を的に当てる技術について聞きました</p>
 <ul>
  <li><a href="https://kichijojipm.connpass.com/event/236031/">吉祥寺.pm28【オンライン】</a></li>
  <li><a href="https://speakerdeck.com/altech/re-introduce-graphql">技術を的に当てる技術について - GraphQL を入れ直した話 / Re-Introduce GraphQL</a></li>
  <li><a href="https://www.wantedly.com/id/altech">https://www.wantedly.com/id/altech</a></li>
  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/183567">フロントエンドに型の秩序を与えるGraphQLとTypeScript</a></li>
-  <li><a href="https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri">Protocol Buffers の書き方と管理方法 w/ @izumin5210</a></li>
-  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/377009">速度と安全性を極めた先に見える最高の Developer eXperience</a></li>
+ <li><a href="https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri">Protocol Buffers の書き方と管理方法 w/ @izumin5210</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/377009">速度と安全性を極めた先に見える最高の Developer eXperience</a></li>
   <li><a href="https://gihyo.jp/book/2020/978-4-297-11351-3">オブジェクト指向UIデザイン ――使いやすいソフトウェアの原理</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech-e1edkrv</link>
+			<link>https://anchor.fm/wantedly-dev/episodes/--GraphQL--w-Altech_2015-e1edkrv</link>
 			<guid isPermaLink="false">18cd7049-1694-4ce5-ad85-eafa5cf2ae1f</guid>
 			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
 			<pubDate>Tue, 15 Feb 2022 08:10:11 GMT</pubDate>
@@ -715,8 +743,8 @@
  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/altech/re-introduce-graphql&quot;&gt;技術を的に当てる技術について - GraphQL を入れ直した話 / Re-Introduce GraphQL&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/id/altech&quot;&gt;https://www.wantedly.com/id/altech&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/183567&quot;&gt;フロントエンドに型の秩序を与えるGraphQLとTypeScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri&quot;&gt;Protocol Buffers の書き方と管理方法 w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/377009&quot;&gt;速度と安全性を極めた先に見える最高の Developer eXperience&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://anchor.fm/wantedly-dev/episodes/Protocol-Buffers--w-izumin5210-e15hjri&quot;&gt;Protocol Buffers の書き方と管理方法 w/ @izumin5210&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/377009&quot;&gt;速度と安全性を極めた先に見える最高の Developer eXperience&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gihyo.jp/book/2020/978-4-297-11351-3&quot;&gt;オブジェクト指向UIデザイン ――使いやすいソフトウェアの原理&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
@@ -920,18 +948,18 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[Architect の仕事]]></title>
+			<title><![CDATA[Architect の仕事 w/ @Altech_2015]]></title>
 			<description><![CDATA[<p><a href="https://www.wantedly.com/id/altech">@Altech</a> をゲストに呼んで Architect のしごとについて聞きました。</p>
 <p>トピック</p>
 <ul>
  <li>設計の階層</li>
  <li>Architecture Style</li>
-  <li>コミュニケーション設計</li>
-  <li>不確定性のある意思決定をどうやって行くか</li>
+ <li>コミュニケーション設計</li>
+ <li>不確定性のある意思決定をどうやって行くか</li>
   <li>設計のコツ</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/wantedly-dev/episodes/Architect-e19ecpf</link>
+			<link>https://anchor.fm/wantedly-dev/episodes/Architect--w-Altech_2015-e19ecpf</link>
 			<guid isPermaLink="false">0a0c92be-27e5-4344-9e19-9da845413ebf</guid>
 			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
 			<pubDate>Thu, 28 Oct 2021 10:26:33 GMT</pubDate>
@@ -941,8 +969,8 @@
 &lt;ul&gt;
  &lt;li&gt;設計の階層&lt;/li&gt;
  &lt;li&gt;Architecture Style&lt;/li&gt;
-  &lt;li&gt;コミュニケーション設計&lt;/li&gt;
-  &lt;li&gt;不確定性のある意思決定をどうやって行くか&lt;/li&gt;
+ &lt;li&gt;コミュニケーション設計&lt;/li&gt;
+ &lt;li&gt;不確定性のある意思決定をどうやって行くか&lt;/li&gt;
   &lt;li&gt;設計のコツ&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
@@ -1140,17 +1168,17 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[Kotlin Multiplatform Mobile w/ @kubode]]></title>
+			<title><![CDATA[Kotlin Multiplatform Mobile w/ @swiz_ard]]></title>
 			<description><![CDATA[<p><a href="https://www.wantedly.com/id/kubode">@kubode</a> をゲストに呼んで <a href="https://kotlinlang.org/lp/mobile/">Kotlin Multiplatform Mobile</a> の導入経緯と Pros/Cons について聞きました。</p>
 <p><br></p>
 <ul>
  <li><a href="https://kotlinlang.org/docs/multiplatform.html">Kotlin Multiplatform</a></li>
  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/282562">React Nativeをやめる話とKotlin Multiplatform</a></li>
-  <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/300999">Wantedly VisitにおけるKotlin Multiplatformの導入と実装</a></li>
-  <li><a href="https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits">KMMの導入と得られるもの</a></li>
+ <li><a href="https://www.wantedly.com/companies/wantedly/post_articles/300999">Wantedly VisitにおけるKotlin Multiplatformの導入と実装</a></li>
+ <li><a href="https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits">KMMの導入と得られるもの</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/wantedly-dev/episodes/Kotlin-Multiplatform-Mobile-w-kubode-e14pmft</link>
+			<link>https://anchor.fm/wantedly-dev/episodes/Kotlin-Multiplatform-Mobile-w-swiz_ard-e14pmft</link>
 			<guid isPermaLink="false">4569d0a6-156e-478c-9e43-4cb54cdfebd3</guid>
 			<dc:creator><![CDATA[Wantedly Engineering]]></dc:creator>
 			<pubDate>Thu, 22 Jul 2021 11:00:00 GMT</pubDate>
@@ -1160,8 +1188,8 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href=&quot;https://kotlinlang.org/docs/multiplatform.html&quot;&gt;Kotlin Multiplatform&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/282562&quot;&gt;React Nativeをやめる話とKotlin Multiplatform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/300999&quot;&gt;Wantedly VisitにおけるKotlin Multiplatformの導入と実装&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits&quot;&gt;KMMの導入と得られるもの&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/wantedly/post_articles/300999&quot;&gt;Wantedly VisitにおけるKotlin Multiplatformの導入と実装&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kubode/introduction-of-kmm-and-its-benefits&quot;&gt;KMMの導入と得られるもの&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>

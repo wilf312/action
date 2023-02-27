@@ -32,7 +32,7 @@ jobs:
       # https://github.com/denoland/setup-deno
       - uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.30.3
+          deno-version: v1.x
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -397,6 +397,10 @@ jobs:
           # 世界のねじを巻くラジオ
           echo 'https://nejimaki-radio.com/feed/podcast/'
           curl https://nejimaki-radio.com/feed/podcast/ --compressed > rss/%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E3%83%A9%E3%82%B8%E3%82%AA.xml
+
+          # 新聞1面じゃなくても大事なこと -SDGsを話そう-
+          echo 'https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/693cfdd6-f5a9-4308-9025-adb10164b5b1/podcast.rss'
+          curl https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/693cfdd6-f5a9-4308-9025-adb10164b5b1/podcast.rss --compressed > rss/%E6%96%B0%E8%81%9E1%E9%9D%A2%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%A4%A7%E4%BA%8B%E3%81%AA%E3%81%93%E3%81%A8.xml
 
 
           # 書き出したxmlをJSONに変換

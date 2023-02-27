@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<title><![CDATA[STILL RENDERING // スティレン]]></title>
-		<description><![CDATA[ブルックリン在住の夫婦が、色んなことを話し合うポッドキャストです。 #スティレン で感想など教えてね✨]]></description>
+		<description><![CDATA[ブルックリン在住の夫婦が、色んなことを話し合うポッドキャストです。ハッシュタグ #スティレン で感想など教えてね✨]]></description>
 		<link>https://anchor.fm/stillrendering</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg</url>
@@ -9,7 +9,7 @@
 			<link>https://anchor.fm/stillrendering</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 21 Dec 2022 12:51:29 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Feb 2023 04:29:13 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/40a74b4/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Yuka & Takeshi]]></author>
 		<copyright><![CDATA[Yuka & Takeshi]]></copyright>
@@ -18,7 +18,7 @@
 		<anchor:support>https://anchor.fm/stillrendering/support</anchor:support>
 		<anchor:station>40a74b4</anchor:station>
 		<itunes:author>Yuka &amp; Takeshi</itunes:author>
-		<itunes:summary>ブルックリン在住の夫婦が、色んなことを話し合うポッドキャストです。 #スティレン で感想など教えてね✨</itunes:summary>
+		<itunes:summary>ブルックリン在住の夫婦が、色んなことを話し合うポッドキャストです。ハッシュタグ #スティレン で感想など教えてね✨</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>Yuka &amp; Takeshi</itunes:name>
@@ -27,6 +27,312 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Society &amp; Culture"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+		<item>
+			<title><![CDATA[36: アルファリリースに向けてラストスパート！Notomo開発アップデート💻]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、Notomo開発の進捗についてデプロイ環境、ドメイン取得、そしてアルファリリース後の新機能開発について話してみました。</p>
+<p>今回紹介されたリンク先</p>
+<ul>
+ <li><a href="https://perk.shop/bff/aws-activate-portfolio-credits">AWS Activate Portfolio Credits by BFF</a></li>
+ <li><a href="https://render.com/">Cloud Application Hosting for Developers | Render</a></li>
+  <li><a href="https://fly.io/">Deploy app servers close to your users · Fly</a></li>
+  <li><a href="https://www.heroku.com/">Cloud Application Platform | Heroku</a></li>
+  <li><a href="https://zenn.dev/imah/articles/a41e889dbf54da">サヨナラHeroku 〜アプリケーションの知識だけで本番稼働を実現できる無料のプラットフォームを追い求めて〜</a></li>
+  <li><a href="https://popsy.co/_nuxt/geometric-shapes.3600f132.svg">Popsy - No-code website builder that works like Notion</a></li>
+  <li><a href="https://mailchimp.com/">Marketing, Automation &amp; Email Platform | Mailchimp</a></li>
+</ul>
+<p>Twitter</p>
+<ul>
+  <li>Yuka: <a href="https://twitter.com/yukaohishi">@yukaohishi</a></li>
+  <li>Takeshi: <a href="https://twitter.com/tksohishi">@tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/36-Notomo-e1vd99h</link>
+			<guid isPermaLink="false">3c3fec47-e84a-4505-9eb9-6db3abb23f60</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Thu, 23 Feb 2023 04:26:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/65495793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F9da2d4d2-97c4-4d61-83d2-8f0fc0645ce2.mp3" length="17578976" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、Notomo開発の進捗についてデプロイ環境、ドメイン取得、そしてアルファリリース後の新機能開発について話してみました。&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://perk.shop/bff/aws-activate-portfolio-credits&quot;&gt;AWS Activate Portfolio Credits by BFF&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://render.com/&quot;&gt;Cloud Application Hosting for Developers | Render&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fly.io/&quot;&gt;Deploy app servers close to your users · Fly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heroku.com/&quot;&gt;Cloud Application Platform | Heroku&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenn.dev/imah/articles/a41e889dbf54da&quot;&gt;サヨナラHeroku 〜アプリケーションの知識だけで本番稼働を実現できる無料のプラットフォームを追い求めて〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://popsy.co/_nuxt/geometric-shapes.3600f132.svg&quot;&gt;Popsy - No-code website builder that works like Notion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mailchimp.com/&quot;&gt;Marketing, Automation &amp;amp; Email Platform | Mailchimp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[35: 単語暗記をハックしたい！最も効率的な勉強方法を探る]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、Yukaが韓国語テストに合格するための単語の勉強法について悩んでいたので、記憶方法などについて色々調べた結果をもとにあれこれ議論してみました。前々回のエピソードのQ&amp;A機能へのコメントの紹介もしました！</p>
+<p>今回紹介されたリンク先</p>
+<ul>
+ <li><a href="https://open.spotify.com/episode/4DFUHSzMeBI8AUuJ9Caeji">33: 我々に足りないのは彷徨い？脳の豊かな使い方を考える</a> (Spotifyリンク)</li>
+ <li><a href="https://studyhacker.net/night-morning-5minutes-study">最強の復習法「夜の5分で書き出して→朝の5分で確認する」。記憶定着・理解促進に効果あり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習</a></li>
+  <li><a href="https://the-owner.jp/archives/6006">エビングハウスの忘却曲線とは？　本来の意味やビジネスへの賢い活用法を解説 | THE OWNER</a></li>
+  <li><a href="https://ja.duolingo.com/efficacy">Duolingoは効果があるの？最新の研究をご覧ください。 - Duolingo</a></li>
+  <li><a href="https://anchor.fm/stillrendering/episodes/17-e4nqco">17: 筋肉バカはバカじゃない！奥深い、筋トレと栄養の世界。 by STILL RENDERING // スティレン</a></li>
+  <li><a href="https://quizlet.com/ja">学習ツール、単語カード、そしてテキストブックの解決策 | Quizlet</a></li>
+</ul>
+<p>Twitter</p>
+<ul>
+  <li>Yuka: <a href="https://twitter.com/yukaohishi">@yukaohishi</a></li>
+  <li>Takeshi: <a href="https://twitter.com/tksohishi">@tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/35-e1v09ku</link>
+			<guid isPermaLink="false">27708821-0f0b-4824-83d4-7bb48de80599</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Wed, 15 Feb 2023 11:27:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/65070174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-15%2F272098de-c831-805a-0891-262efc333a92.mp3" length="30319626" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、Yukaが韓国語テストに合格するための単語の勉強法について悩んでいたので、記憶方法などについて色々調べた結果をもとにあれこれ議論してみました。前々回のエピソードのQ&amp;amp;A機能へのコメントの紹介もしました！&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/4DFUHSzMeBI8AUuJ9Caeji&quot;&gt;33: 我々に足りないのは彷徨い？脳の豊かな使い方を考える&lt;/a&gt; (Spotifyリンク)&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://studyhacker.net/night-morning-5minutes-study&quot;&gt;最強の復習法「夜の5分で書き出して→朝の5分で確認する」。記憶定着・理解促進に効果あり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://the-owner.jp/archives/6006&quot;&gt;エビングハウスの忘却曲線とは？　本来の意味やビジネスへの賢い活用法を解説 | THE OWNER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.duolingo.com/efficacy&quot;&gt;Duolingoは効果があるの？最新の研究をご覧ください。 - Duolingo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/stillrendering/episodes/17-e4nqco&quot;&gt;17: 筋肉バカはバカじゃない！奥深い、筋トレと栄養の世界。 by STILL RENDERING // スティレン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/ja&quot;&gt;学習ツール、単語カード、そしてテキストブックの解決策 | Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:42:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[34: アルファリリースまでもう少し！ Notomo開発日誌💻]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、プレリリースを通じてさらに進化したNotomoの次の展開について話してみました。</p>
+<p>今回紹介されたリンク先</p>
+<ul>
+ <li><a href="https://blossomlink.me/">☆ Notomoの紹介ページ</a></li>
+ <li><a href="https://www.youtube.com/watch?v=lQgPB-7WSYw">M2 Pro/Max MacBook Pro がやってきた！🔥 - YouTube</a></li>
+ <li><a href="https://help.dropbox.com/ja-jp/view-edit/presentation-mode">プレゼンテーション モード - Dropbox ヘルプ</a></li>
+ <li><a href="https://assets.website-files.com/60de2701a7b28f308f619d3d/62f5b144e7a1c59c8af20604_Left%2520Side-p-800.png">Gamma</a>（簡単にスライドが作れるサービス）</li>
+  <li><a href="https://www.notion.so/product/ai">Notion AI</a></li>
+  <li><a href="https://zapier.com/apps/google-sheets/integrations/notion">Connect your Google Sheets to Notion integration in 2 minutes | Zapier</a></li>
+</ul>
+<p>Twitter</p>
+<ul>
+  <li>Yuka: <a href="https://twitter.com/yukaohishi">@yukaohishi</a></li>
+  <li>Takeshi: <a href="https://twitter.com/tksohishi">@tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/34--Notomo-e1ukl0l</link>
+			<guid isPermaLink="false">d22b827f-d659-48eb-9c1d-7e0e16037660</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Wed, 08 Feb 2023 01:41:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/64688597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-8%2F7bf37ce7-0be3-ce20-9a13-647070678cde.mp3" length="18783639" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、プレリリースを通じてさらに進化したNotomoの次の展開について話してみました。&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blossomlink.me/&quot;&gt;☆ Notomoの紹介ページ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lQgPB-7WSYw&quot;&gt;M2 Pro/Max MacBook Pro がやってきた！🔥 - YouTube&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://help.dropbox.com/ja-jp/view-edit/presentation-mode&quot;&gt;プレゼンテーション モード - Dropbox ヘルプ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://assets.website-files.com/60de2701a7b28f308f619d3d/62f5b144e7a1c59c8af20604_Left%2520Side-p-800.png&quot;&gt;Gamma&lt;/a&gt;（簡単にスライドが作れるサービス）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/product/ai&quot;&gt;Notion AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zapier.com/apps/google-sheets/integrations/notion&quot;&gt;Connect your Google Sheets to Notion integration in 2 minutes | Zapier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[33: 我々に足りないのは彷徨い？脳の豊かな使い方を考える]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、Yukaが最近Audibleで聴いている「Stolen Focus」という本を題材に、私たちが気をつけていること、気をつけていくべきことなどについて話しました。</p>
+<p>今回紹介されたリンク先</p>
+<p>☆ <a href="https://stolenfocusbook.com/">Stolen Focus : Why You Can't Pay Attention - and How to Think Deeply Again</a></p>
+<p>Twitter</p>
+<ul>
+ <li>Yuka: <a href="https://twitter.com/yukaohishi">@yukaohishi</a></li>
+ <li>Takeshi: <a href="https://twitter.com/tksohishi">@tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/33-e1u8ct2</link>
+			<guid isPermaLink="false">9ddc9f3e-5b59-4ca1-823f-21be49de69fe</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Tue, 31 Jan 2023 04:13:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/64287074/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-31%2F94a3000a-e87e-edd8-52be-0a9aa14b2c7b.mp3" length="24348661" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、Yukaが最近Audibleで聴いている「Stolen Focus」という本を題材に、私たちが気をつけていること、気をつけていくべきことなどについて話しました。&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;p&gt;☆ &lt;a href=&quot;https://stolenfocusbook.com/&quot;&gt;Stolen Focus : Why You Can&apos;t Pay Attention - and How to Think Deeply Again&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[32: 超速開発！Notomoプレリリースまでの軌跡]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、プレリリースが完了したNotomoの開発スタイル、学び、今後の流れなどについて話してみました。</p>
+<p>今回紹介されたリンク先</p>
+<ul>
+ <li><a href="https://blossomlink.me/">☆ Notomoの紹介ページ</a></li>
+ <li><a href="https://material.io/blog/material-3-figma-design-kit">Introducing the M3 design kit for Figma - Material Design</a></li>
+  <li><a href="https://developers.notion.com/">Notion API</a></li>
+</ul>
+<p>Twitter</p>
+<ul>
+  <li>Yuka: <a href="https://twitter.com/yukaohishi">@yukaohishi</a></li>
+  <li>Takeshi: <a href="https://twitter.com/tksohishi">@tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/32-Notomo-e1ttveb</link>
+			<guid isPermaLink="false">cbaf429d-de96-44d8-a024-7de0276517f4</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Tue, 24 Jan 2023 04:26:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/63945611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F955c112e-1e66-0f4b-2d34-48a28d67d423.mp3" length="20337176" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、プレリリースが完了したNotomoの開発スタイル、学び、今後の流れなどについて話してみました。&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blossomlink.me/&quot;&gt;☆ Notomoの紹介ページ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://material.io/blog/material-3-figma-design-kit&quot;&gt;Introducing the M3 design kit for Figma - Material Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.notion.com/&quot;&gt;Notion API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>32</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[31. ついに2人でビジネス立ち上げ!? Notionプロダクト日誌始めます。]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、改めてNotionの魅力について語ってみた後、Notionのデータベースを活用したアプリNotomoについて赤裸々に話してみました。</p>
+<p><strong>今回紹介されたリンク先</strong></p>
+<ul>
+ <li><a href="https://blossomlink.me/notomo" target="_blank">☆ Notomoの紹介ページ</a></li>
+ <li><a href="https://weekly.ascii.jp/elem/000/004/113/4113068/" target="_blank">Notion創業者、再び京都へ　オフライン開催となった全国ミートアップに潜入 - 週刊アスキー</a></li>
+ <li><a href="https://www.youtube.com/hashtag/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1notion" target="_blank">#まいにちnotion - YouTube</a></li>
+</ul>
+<p><strong>Twitter</strong></p>
+<p>Yuka: <a href="https://twitter.com/yukaohishi" target="_blank">@yukaohishi</a><br>
+Takeshi: <a href="https://twitter.com/tksohishi" target="_blank">@tksohishi</a></p>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/31--2---Notion-e1thfi2</link>
+			<guid isPermaLink="false">da7fb6b0-7540-4ffd-80e5-5eb9afebe7a9</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Sun, 15 Jan 2023 23:27:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/63536130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-15%2F625e1228-8a2a-334e-1908-b0c98b2315fb.mp3" length="21441546" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、改めてNotionの魅力について語ってみた後、Notionのデータベースを活用したアプリNotomoについて赤裸々に話してみました。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今回紹介されたリンク先&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://blossomlink.me/notomo&quot; target=&quot;_blank&quot;&gt;☆ Notomoの紹介ページ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://weekly.ascii.jp/elem/000/004/113/4113068/&quot; target=&quot;_blank&quot;&gt;Notion創業者、再び京都へ　オフライン開催となった全国ミートアップに潜入 - 週刊アスキー&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/hashtag/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1notion&quot; target=&quot;_blank&quot;&gt;#まいにちnotion - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot; target=&quot;_blank&quot;&gt;@yukaohishi&lt;/a&gt;&lt;br&gt;
+Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot; target=&quot;_blank&quot;&gt;@tksohishi&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[30: 2023年に夢をかなえる大石家の抱負]]></title>
+			<description><![CDATA[<p>今回のエピソードでは、新年を迎えた大石家の今年の目標・抱負についてその管理の仕方も含めて、赤裸々に語ってみるという回です。</p>
+<p>今回紹介されたリンク先</p>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=vmz1icvPm-Q" target="_blank">【🎉2023年】夢を叶える人のNotion✨ テンプレあり #まいにちNotion - YouTube</a></li>
+</ul>
+<p>Twitter</p>
+<ul>
+ <li>Yuka: <a href="https://twitter.com/yukaohishi" target="_blank">@yukaohishi</a></li>
+  <li>Takeshi: <a href="https://twitter.com/tksohishi">@</a><a href="https://twitter.com/tksohishi" target="_blank">tksohishi</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/30-2023-e1t881s</link>
+			<guid isPermaLink="false">6c9cb1dc-df11-4064-81de-42660fb5e363</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Mon, 09 Jan 2023 03:02:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/63233532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-9%2Fab7292d1-1b3c-2fd7-348c-a64e443b6982.mp3" length="20337490" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;今回のエピソードでは、新年を迎えた大石家の今年の目標・抱負についてその管理の仕方も含めて、赤裸々に語ってみるという回です。&lt;/p&gt;
+&lt;p&gt;今回紹介されたリンク先&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vmz1icvPm-Q&quot; target=&quot;_blank&quot;&gt;【🎉2023年】夢を叶える人のNotion✨ テンプレあり #まいにちNotion - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitter&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot; target=&quot;_blank&quot;&gt;@yukaohishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot;&gt;@&lt;/a&gt;&lt;a href=&quot;https://twitter.com/tksohishi&quot; target=&quot;_blank&quot;&gt;tksohishi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[29: 2022年、まさかの最初で最後のエピソード！今年の人生とエンタメを振り返る]]></title>
+			<description><![CDATA[<p>またまた久々のエピソードとなり、2022年初めてのエピソードが今年の振り返りになってしまいました！今年の2人のそれぞれの人生の振り返り、観たドラマや漫画の話を中心にゆるーくお届けしています。</p>
+<p>感想やフィードバックは <a href="https://twitter.com/intent/tweet?hashtags=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AC%E3%83%B3" target="_blank">#スティレン</a> にお願いします！</p>
+<p>Yuka: <a href="https://twitter.com/yukaohishi" rel="ugc noopener noreferrer" target="_blank">@yukaohishi</a><br>
+Takeshi: <a href="https://twitter.com/tksohishi" rel="ugc noopener noreferrer" target="_blank">@tksohishi</a></p>
+]]></description>
+			<link>https://anchor.fm/stillrendering/episodes/29-2022-e1ssbmt</link>
+			<guid isPermaLink="false">afde208f-0246-4c58-82b3-c3fad137c29b</guid>
+			<dc:creator><![CDATA[Yuka & Takeshi]]></dc:creator>
+			<pubDate>Fri, 30 Dec 2022 00:41:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/40a74b4/podcast/play/62844061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2Fe8687e1d-b54f-a59b-dc22-d9fc82b59f7b.mp3" length="45069911" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;またまた久々のエピソードとなり、2022年初めてのエピソードが今年の振り返りになってしまいました！今年の2人のそれぞれの人生の振り返り、観たドラマや漫画の話を中心にゆるーくお届けしています。&lt;/p&gt;
+&lt;p&gt;感想やフィードバックは &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AC%E3%83%B3&quot; target=&quot;_blank&quot;&gt;#スティレン&lt;/a&gt; にお願いします！&lt;/p&gt;
+&lt;p&gt;Yuka: &lt;a href=&quot;https://twitter.com/yukaohishi&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;@yukaohishi&lt;/a&gt;&lt;br&gt;
+Takeshi: &lt;a href=&quot;https://twitter.com/tksohishi&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;@tksohishi&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:02:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/0/0-1526111192438-2a57ecf011de8.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[28: ポッドキャスターの憂鬱 (ゲスト miyagawa)]]></title>
 			<description><![CDATA[<p><a href="https://rebuild.fm/" target="_blank">Rebuild</a>の<a href="https://twitter.com/miyagawa">miyagawa</a>さんが、NY旅行中に私たちの新居のスタジオに遊びに来ていたので、勢いでコラボ収録しました！初のオフラインマイク3本録りで、ポッドキャスト収録、iOS vs. Android、SF vs. NYについてゆるく話しました。Rebuildのサポーター限定回収録もしたので、そちらもぜひチェックしてみてください → <a href="https://rebuild.fm/portal/" target="_blank">https://rebuild.fm/portal/</a></p>

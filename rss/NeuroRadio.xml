@@ -11,7 +11,7 @@
 			<link>https://neuroradio.tokyo</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Fri, 23 Dec 2022 02:32:49 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Feb 2023 02:16:33 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/4ddf5488/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[NeuroRadio]]></author>
 		<copyright><![CDATA[NeuroRadio]]></copyright>
@@ -31,6 +31,314 @@
 			<itunes:category text="Life Sciences"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+		<item>
+			<title><![CDATA[#53 Understanding by creating is all you need]]></title>
+			<description><![CDATA[<p>シンガポール、南洋理工大学の牧野さん(<a href="https://twitter.com/hiroshi_makino_">@Hiroshi_Makino_</a>)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）</p>
+<p>Show Notes</p>
+<ul>
+ <li><a href="https://www3.ntu.edu.sg/home/hmakino/index.html">牧野ラボ</a></li>
+ <li><a href="https://gage.salk.edu/">(Fred) Gage ラボ＠Salk</a></li>
+ <li>Rusty: Fred Gageのこと</li>
+ <li><a href="https://www.ntu.edu.sg/sbs/research/research-directory/ayumu-tashiro">田代ラボ</a></li>
+  <li><a href="http://www.webaxon.com/">Roberto Malinowラボ</a></li>
+  <li><a href="https://engineering.stanford.edu/magazine/krishna-shenoy-engineer-who-reimagined-how-brain-makes-body-move-dies-54">Krishna Shenoy</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627309006758">PhD時代の仕事１</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627311009937">PhD時代の仕事２</a></li>
+  <li><a href="https://komiyamalab.biosci.ucsd.edu/home/">Komiyamaラボ</a></li>
+  <li><a href="http://mcb.berkeley.edu/faculty/NEU/dany.html">Yang Danラボ</a></li>
+  <li><a href="https://www.nature.com/articles/nn.4061">小宮山さんラボでの１報目</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1254126">Top-downコントロール from Yang Danラボ</a></li>
+  <li><a href="https://www.nature.com/articles/nature08897">小宮山さんが始めたAwakeでの記録</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627317303410">小宮山さんのとこでの２報目の仕事</a></li>
+  <li><a href="https://nielllab.uoregon.edu/">Chris Niellラボ</a></li>
+  <li><a href="https://doi.org/10.1152/jn.01056.2015">が始めた仕事</a></li>
+  <li>DeepMindが出した<a href="https://www.nature.com/articles/nature14236">DQN論文</a></li>
+  <li><a href="https://twitter.com/demishassabis">Demis Hassabis</a></li>
+  <li><a href="https://inst.eecs.berkeley.edu/~cs182/sp23/">UC Berkeley のコース</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A">YouTubeで見れる</a></li>
+  <li><a href="https://www.nature.com/articles/s41593-022-01211-5">単著論文（直近の方）</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/sciadv.abn0984">前の論文（独立後一報め）</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627320308990s">人間でDQNとfMRIのシグナルを比べた論文＠Neuron</a></li>
+  <li><a href="https://arxiv.org/abs/1801.01290">Soft Actor Critic</a></li>
+  <li><a href="https://arxiv.org/abs/1602.01783">A2CとPPO</a></li>
+  <li><a href="https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax?hl=ja">Softmax解説</a></li>
+  <li><a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/ml-quantifying-uncertainty/temp-scaling.html">Temperature解説</a></li>
+  <li><a href="https://qiita.com/triwave33/items/cae48e492769852aa9f1">強化学習におけるランダムネスの導入方法についての解説</a>（ε-greedy, SARSA, Q-learning）</li>
+  <li><a href="http://www.incompleteideas.net/book/the-book.html">Sutton &amp; Barto本</a></li>
+  <li><a href="https://arxiv.org/abs/1706.03762">Transformer 論文</a></li>
+  <li><a href="https://zenn.dev/zenkigen/articles/2023-01-shimizu">30分で完全理解するTransformerの世界</a></li>
+  <li><a href="https://arxiv.org/abs/2112.04035">Transformerの表現学習と海馬における外界表象を比較した論文</a></li>
+  <li><a href="https://www.ndcn.ox.ac.uk/team/timothy-behrens">Timothy Behrens</a></li>
+  <li>マーの三段階：<a href="https://mitpress.mit.edu/9780262514620/vision/">Marr, D. (1982). Vision: A computational approach.</a></li>
+  <li><a href="https://bsd.neuroinf.jp/wiki/%E3%83%9E%E3%83%BC%E3%81%AE%E8%A6%96%E8%A6%9A%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96">日本語解説</a></li>
+</ul>
+<p>Editorial Notes</p>
+<ul>
+  <li>収録ではこちらもいろいろ学ぶこともあり、こういう機会を設けていただいた二人にはとても感謝しています。優秀な人達と議論するのは楽しいことだと改めて思いました。拙い日本語の説明で申し訳ありませんが、なんとなくでも自分達が目指している方向性などが共有できたのであれば幸いです。日本の大学や研究所ともっと連携していけたらと思っているので、気軽にメッセージ下さい。大学生や大学院生も大歓迎です。（牧野）</li>
+  <li>(リスクとって)新しいことをやり続けて行きたいなー、もっと勉強せんとなーと思わされる収録でした。最近はexploitationの比重が高くなってしまっていてよくないっす。<br>
+ゴルフ、ちなみにベストはパープレイ(72)で、シングル手前まで行きました。（萩原）</li>
+  <li>AI研究の主体は大学院生だから…のくだりに励まされました（宮脇）</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/53-Understanding-by-creating-is-all-you-need-e1veral</link>
+			<guid isPermaLink="false">4a3bf56b-0f98-48f7-a1f9-f2cb6f8093c7</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Sat, 25 Feb 2023 02:13:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/65547029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-24%2Fad57d7c2-ef4e-6200-58fd-e8713dda0e85.mp3" length="204119582" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;シンガポール、南洋理工大学の牧野さん(&lt;a href=&quot;https://twitter.com/hiroshi_makino_&quot;&gt;@Hiroshi_Makino_&lt;/a&gt;)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）&lt;/p&gt;
+&lt;p&gt;Show Notes&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www3.ntu.edu.sg/home/hmakino/index.html&quot;&gt;牧野ラボ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://gage.salk.edu/&quot;&gt;(Fred) Gage ラボ＠Salk&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Rusty: Fred Gageのこと&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.ntu.edu.sg/sbs/research/research-directory/ayumu-tashiro&quot;&gt;田代ラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.webaxon.com/&quot;&gt;Roberto Malinowラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.stanford.edu/magazine/krishna-shenoy-engineer-who-reimagined-how-brain-makes-body-move-dies-54&quot;&gt;Krishna Shenoy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627309006758&quot;&gt;PhD時代の仕事１&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627311009937&quot;&gt;PhD時代の仕事２&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://komiyamalab.biosci.ucsd.edu/home/&quot;&gt;Komiyamaラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mcb.berkeley.edu/faculty/NEU/dany.html&quot;&gt;Yang Danラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.4061&quot;&gt;小宮山さんラボでの１報目&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1254126&quot;&gt;Top-downコントロール from Yang Danラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature08897&quot;&gt;小宮山さんが始めたAwakeでの記録&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627317303410&quot;&gt;小宮山さんのとこでの２報目の仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nielllab.uoregon.edu/&quot;&gt;Chris Niellラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1152/jn.01056.2015&quot;&gt;が始めた仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DeepMindが出した&lt;a href=&quot;https://www.nature.com/articles/nature14236&quot;&gt;DQN論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/demishassabis&quot;&gt;Demis Hassabis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://inst.eecs.berkeley.edu/~cs182/sp23/&quot;&gt;UC Berkeley のコース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&quot;&gt;YouTubeで見れる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-022-01211-5&quot;&gt;単著論文（直近の方）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/sciadv.abn0984&quot;&gt;前の論文（独立後一報め）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627320308990s&quot;&gt;人間でDQNとfMRIのシグナルを比べた論文＠Neuron&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1801.01290&quot;&gt;Soft Actor Critic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1602.01783&quot;&gt;A2CとPPO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax?hl=ja&quot;&gt;Softmax解説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/prescriptive-guidance/latest/ml-quantifying-uncertainty/temp-scaling.html&quot;&gt;Temperature解説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/triwave33/items/cae48e492769852aa9f1&quot;&gt;強化学習におけるランダムネスの導入方法についての解説&lt;/a&gt;（ε-greedy, SARSA, Q-learning）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.incompleteideas.net/book/the-book.html&quot;&gt;Sutton &amp;amp; Barto本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1706.03762&quot;&gt;Transformer 論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenn.dev/zenkigen/articles/2023-01-shimizu&quot;&gt;30分で完全理解するTransformerの世界&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2112.04035&quot;&gt;Transformerの表現学習と海馬における外界表象を比較した論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ndcn.ox.ac.uk/team/timothy-behrens&quot;&gt;Timothy Behrens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;マーの三段階：&lt;a href=&quot;https://mitpress.mit.edu/9780262514620/vision/&quot;&gt;Marr, D. (1982). Vision: A computational approach.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bsd.neuroinf.jp/wiki/%E3%83%9E%E3%83%BC%E3%81%AE%E8%A6%96%E8%A6%9A%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96&quot;&gt;日本語解説&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;収録ではこちらもいろいろ学ぶこともあり、こういう機会を設けていただいた二人にはとても感謝しています。優秀な人達と議論するのは楽しいことだと改めて思いました。拙い日本語の説明で申し訳ありませんが、なんとなくでも自分達が目指している方向性などが共有できたのであれば幸いです。日本の大学や研究所ともっと連携していけたらと思っているので、気軽にメッセージ下さい。大学生や大学院生も大歓迎です。（牧野）&lt;/li&gt;
+  &lt;li&gt;(リスクとって)新しいことをやり続けて行きたいなー、もっと勉強せんとなーと思わされる収録でした。最近はexploitationの比重が高くなってしまっていてよくないっす。&lt;br&gt;
+ゴルフ、ちなみにベストはパープレイ(72)で、シングル手前まで行きました。（萩原）&lt;/li&gt;
+  &lt;li&gt;AI研究の主体は大学院生だから…のくだりに励まされました（宮脇）&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:50:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>53</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#52 My Favorite Things]]></title>
+			<description><![CDATA[<p>新年のんびり雑談回。一時帰国の時に行きたい店、アメリカ来てから買ってよかったもの紹介、グリーンカード申請の様子、タックスリターンの混乱など。(1/20収録)</p>
+<p>Show Notes:</p>
+<ul>
+ <li>Rebuildの<a href="https://rebuild.fm/351/">缶の音の回</a> (引き続き<a href="https://youtu.be/YiCEdJZIgcE">ここ</a>で詳細が議論されている笑)</li>
+ <li><a href="https://brainmind.jnns.org/">ルスツ学会</a></li>
+ <li><a href="https://www.i-med.ac.at/pharmakologie/forschung/research_ferraguti.html.en">Francesco Ferraguti Lab</a></li>
+ <li><a href="https://ist.ac.at/en/research/csicsvari-group/">Csicsvari</a> オーストリアだけどクロスターノイブルクでした</li>
+  <li><a href="https://avsarjapan.org/">雪崩講習会</a>(日本雪崩捜索救助協議会)</li>
+  <li><a href="http://www.ebisoba.com/">えびそば一幻</a></li>
+  <li><a href="https://www.kitakaro.com/">北菓楼【きたかろう】</a></li>
+  <li><a href="https://tabelog.com/chiba/A1204/A120401/12004604/">だし茶漬け えん 成田店 (臨時休業中)&nbsp;</a></li>
+  <li><a href="https://tabelog.com/hokkaido/A0101/A010102/1002105/">ミンガスコーヒー</a> (札幌・大通り) 混んでる時は6Fにある系列店のローチロースターに行くといいです。なぜか混んでなく、こちらは豆売りもしてる</li>
+  <li><a href="https://www.grill-kawamura.com/">La Cuisine de KAWAMURA (旧グリル・カワムラ)</a> (福岡・薬院) 季節ごとにメニューが変わるので福岡に住んでたら年4回行きたいお店。基本なんでも大変美味しく、冬の厚岸の牡蠣、夏にデザートで出る桃とクローブのスープ等、忘れられない皿が幾つも。スペシャリテの山芋フォアグラ・マデイラソースも絶品なので是非</li>
+  <li><a href="https://tabelog.com/tokyo/A1310/A131004/13030099/">田奈部</a> にしん蕎麦と焼き味噌をよく頂きました</li>
+  <li><a href="http://kamachiku.com/">釜竹</a> うどん、酒肴、日本酒ぜんぶ美味しい</li>
+  <li><a href="https://tabelog.com/tokyo/A1310/A131004/13240246/">旧こくわがた</a> 鶏天HG</li>
+  <li><a href="https://tabelog.com/tokyo/A1317/A131706/13027085/">臥龍</a> 肉麺が好物ですが鶏だけの麺も美味しい</li>
+  <li><a href="https://athleticbrewing.com/collections/beer">Athletic Brewing</a> 定番ラインでおすすめはRun Wild、スッキリ系IPA。ご飯食べてる時はUpside Downが合わせやすくてよいです</li>
+  <li><a href="https://trilliumbrewing.com/">Trillium Brewing</a> ボストンの道の名前がついてるIPAがオススメ</li>
+  <li><a href="https://treehousebrew.com/">Tree House Brewing</a> Julius, Green, Hazeなど</li>
+  <li><a href="https://note.com/nonalcoholicgirl">ノンアルビールレビューのnote</a></li>
+  <li><a href="https://www.amazon.com/dp/B01MXBZ3NV/ref=sns_myd_detail_page?th=1">BNSのプロテインバー</a> Amazonで3ヶ月毎に定期購入してます</li>
+  <li><a href="https://www.instanthome.com/">Instant Pot</a></li>
+  <li><a href="https://www.instanthome.com/product/instant-appliances/vortex/6-quart-air-fryer">Instant Vortex</a></li>
+  <li><a href="https://yamahack.com/4955">Polartec図鑑</a> アークテリクスのカイアナイトを一番よく着てます</li>
+  <li><a href="https://www.thenorthface.com/en-ca/about-us/technology-innovation/technology/futurelight">Futurelight</a> Goldwin製のFL Drizzleを着てます</li>
+  <li>Goretex vs Futurelightの<a href="https://www.youtube.com/watch?v=YqK3Sv9hWE0&amp;ab_channel=NuffersGear">比較実験動画</a></li>
+  <li><a href="https://www.woolrich.com/us/en/mountain-gore-tex-waterproof-parka-with-hood-CFWOOU0474MRUT1180_3989.html">Goretex + ダウン</a></li>
+  <li>ニトリの<a href="https://www.nitori-net.jp/ec/product/8909634s/">カル:エクレの丼</a></li>
+  <li><a href="https://www.amazon.com/Mastering-American-Accent-Lisa-Mojsin/dp/1438008104">Mastering the American Accent</a></li>
+  <li>ニトリの<a href="https://www.nitori-net.jp/ec/product/8958115s/">セラミックコートタンブラー</a> ただし食洗機不可。その点、<a href="https://kyocera-kitchen.com/collections/tumbler">京セラのCERAMUG</a>が上位互換そうなので次はそちらを狙ってます。</li>
+  <li><a href="https://www.sayweee.com/en/onboarding">Weee!</a></li>
+  <li><a href="https://www.amazon.com/gp/product/B000BUPSEC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;psc=1">風呂のふた</a></li>
+  <li><a href="https://www.amazon.com/dp/B0BG9HP16P/?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=AwEAAAAAAAAAASl_&amp;th=1">Tuft and Needle のマットレス</a> 1000ドルじゃなくて750ドルでした笑</li>
+  <li>つかった<a href="https://www.wegreened.com/">移民弁護士</a></li>
+  <li><a href="https://emmalanglab.com/us-greencard-application/">グリーンカード申請の流れ</a></li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>アフィリエイトとかやっちゃうと収入発生しちゃってTRがより面倒になるんでは...というのが懸念。。。アルコール(特にワイン)はスイス時代に比べると全然飲まなくなったのですが、OR・WAのピノ探索はいずれしたいなと思ってます 萩</li>
+  <li>海外生活便利アイテムある方ぜひ教えてください！ 脇</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/52-My-Favorite-Things-e1tsnil</link>
+			<guid isPermaLink="false">dd28c722-d3ad-453f-8bd5-ed0d7d57626b</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Wed, 25 Jan 2023 02:03:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/63904789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-23%2F27a077c2-6022-8011-37ce-cdc6f63b76df.mp3" length="172892258" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;新年のんびり雑談回。一時帰国の時に行きたい店、アメリカ来てから買ってよかったもの紹介、グリーンカード申請の様子、タックスリターンの混乱など。(1/20収録)&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Rebuildの&lt;a href=&quot;https://rebuild.fm/351/&quot;&gt;缶の音の回&lt;/a&gt; (引き続き&lt;a href=&quot;https://youtu.be/YiCEdJZIgcE&quot;&gt;ここ&lt;/a&gt;で詳細が議論されている笑)&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://brainmind.jnns.org/&quot;&gt;ルスツ学会&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.i-med.ac.at/pharmakologie/forschung/research_ferraguti.html.en&quot;&gt;Francesco Ferraguti Lab&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://ist.ac.at/en/research/csicsvari-group/&quot;&gt;Csicsvari&lt;/a&gt; オーストリアだけどクロスターノイブルクでした&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://avsarjapan.org/&quot;&gt;雪崩講習会&lt;/a&gt;(日本雪崩捜索救助協議会)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ebisoba.com/&quot;&gt;えびそば一幻&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kitakaro.com/&quot;&gt;北菓楼【きたかろう】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tabelog.com/chiba/A1204/A120401/12004604/&quot;&gt;だし茶漬け えん 成田店 (臨時休業中)&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tabelog.com/hokkaido/A0101/A010102/1002105/&quot;&gt;ミンガスコーヒー&lt;/a&gt; (札幌・大通り) 混んでる時は6Fにある系列店のローチロースターに行くといいです。なぜか混んでなく、こちらは豆売りもしてる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.grill-kawamura.com/&quot;&gt;La Cuisine de KAWAMURA (旧グリル・カワムラ)&lt;/a&gt; (福岡・薬院) 季節ごとにメニューが変わるので福岡に住んでたら年4回行きたいお店。基本なんでも大変美味しく、冬の厚岸の牡蠣、夏にデザートで出る桃とクローブのスープ等、忘れられない皿が幾つも。スペシャリテの山芋フォアグラ・マデイラソースも絶品なので是非&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tabelog.com/tokyo/A1310/A131004/13030099/&quot;&gt;田奈部&lt;/a&gt; にしん蕎麦と焼き味噌をよく頂きました&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kamachiku.com/&quot;&gt;釜竹&lt;/a&gt; うどん、酒肴、日本酒ぜんぶ美味しい&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tabelog.com/tokyo/A1310/A131004/13240246/&quot;&gt;旧こくわがた&lt;/a&gt; 鶏天HG&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tabelog.com/tokyo/A1317/A131706/13027085/&quot;&gt;臥龍&lt;/a&gt; 肉麺が好物ですが鶏だけの麺も美味しい&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://athleticbrewing.com/collections/beer&quot;&gt;Athletic Brewing&lt;/a&gt; 定番ラインでおすすめはRun Wild、スッキリ系IPA。ご飯食べてる時はUpside Downが合わせやすくてよいです&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trilliumbrewing.com/&quot;&gt;Trillium Brewing&lt;/a&gt; ボストンの道の名前がついてるIPAがオススメ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://treehousebrew.com/&quot;&gt;Tree House Brewing&lt;/a&gt; Julius, Green, Hazeなど&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/nonalcoholicgirl&quot;&gt;ノンアルビールレビューのnote&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/dp/B01MXBZ3NV/ref=sns_myd_detail_page?th=1&quot;&gt;BNSのプロテインバー&lt;/a&gt; Amazonで3ヶ月毎に定期購入してます&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instanthome.com/&quot;&gt;Instant Pot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instanthome.com/product/instant-appliances/vortex/6-quart-air-fryer&quot;&gt;Instant Vortex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yamahack.com/4955&quot;&gt;Polartec図鑑&lt;/a&gt; アークテリクスのカイアナイトを一番よく着てます&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thenorthface.com/en-ca/about-us/technology-innovation/technology/futurelight&quot;&gt;Futurelight&lt;/a&gt; Goldwin製のFL Drizzleを着てます&lt;/li&gt;
+  &lt;li&gt;Goretex vs Futurelightの&lt;a href=&quot;https://www.youtube.com/watch?v=YqK3Sv9hWE0&amp;amp;ab_channel=NuffersGear&quot;&gt;比較実験動画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.woolrich.com/us/en/mountain-gore-tex-waterproof-parka-with-hood-CFWOOU0474MRUT1180_3989.html&quot;&gt;Goretex + ダウン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ニトリの&lt;a href=&quot;https://www.nitori-net.jp/ec/product/8909634s/&quot;&gt;カル:エクレの丼&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Mastering-American-Accent-Lisa-Mojsin/dp/1438008104&quot;&gt;Mastering the American Accent&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ニトリの&lt;a href=&quot;https://www.nitori-net.jp/ec/product/8958115s/&quot;&gt;セラミックコートタンブラー&lt;/a&gt; ただし食洗機不可。その点、&lt;a href=&quot;https://kyocera-kitchen.com/collections/tumbler&quot;&gt;京セラのCERAMUG&lt;/a&gt;が上位互換そうなので次はそちらを狙ってます。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sayweee.com/en/onboarding&quot;&gt;Weee!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B000BUPSEC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;風呂のふた&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/dp/B0BG9HP16P/?tag=thewire06-20&amp;amp;linkCode=xm2&amp;amp;ascsubtag=AwEAAAAAAAAAASl_&amp;amp;th=1&quot;&gt;Tuft and Needle のマットレス&lt;/a&gt; 1000ドルじゃなくて750ドルでした笑&lt;/li&gt;
+  &lt;li&gt;つかった&lt;a href=&quot;https://www.wegreened.com/&quot;&gt;移民弁護士&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emmalanglab.com/us-greencard-application/&quot;&gt;グリーンカード申請の流れ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;アフィリエイトとかやっちゃうと収入発生しちゃってTRがより面倒になるんでは...というのが懸念。。。アルコール(特にワイン)はスイス時代に比べると全然飲まなくなったのですが、OR・WAのピノ探索はいずれしたいなと思ってます 萩&lt;/li&gt;
+  &lt;li&gt;海外生活便利アイテムある方ぜひ教えてください！ 脇&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:24:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>52</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#51 A precise tagging of active neurons]]></title>
+			<description><![CDATA[<p>Hyungbae Kwonラボの長濱健一郎さん(<a href="https://twitter.com/k_hammer_1001">@k_hammer_1001</a>)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal-Light論文（光受容とCa2+活動による細胞の遺伝学的ラベリング手法のアップデート版）について伺いました。</p>
+<p>Show Notes:</p>
+<ul>
+ <li><a href="https://researchmap.jp/k-nagahama1001?lang=ja">長濱さん</a></li>
+ <li>最近の<a href="https://www.nature.com/articles/s41467-022-35406-y">ST-Cal Light論文</a></li>
+ <li>光とCaのアンドゲートロジックによるラベリングその１<a href="https://www.nature.com/articles/nbt.3902">Cal-Light from Kwonラボ</a></li>
+ <li>その２ <a href="https://www.nature.com/articles/nbt.3909">FLARE from Alice Tingラボ</a></li>
+  <li><a href="https://sites.google.com/view/kwon-lab?pli=1">Hyungbae KwonラボHP</a></li>
+  <li><a href="https://plaza.umin.ac.jp/~neurophy/">狩野ラボHP</a></li>
+  <li>この論文＝狩野研時代の<a href="https://doi.org/10.1016/j.celrep.2020.108126">Setd1a論文</a>（注：収録時にはmentionできなかったのですが、ChIP-seqの実験・解析、RNA-seqの解析では東大薬・分子生物学・後藤研にいらした岸先生（<a href="https://researchmap.jp/yu_kisi">岸 雄介 (Yusuke Kishi) - マイポータル - researchmap</a>）に大変お世話になりました。あと、ChR2-tdTomato→ChR2-mOrangeでした。by 長濱さん）</li>
+  <li><a href="https://www.science.org/doi/abs/10.1126/science.1252514">上阪さんのretrograde semaphorinのScience論文</a></li>
+  <li>ニューロランチ：東大医学部の神経系のラボが集まって、金曜日の昼飯時に行う背筋も凍りつくような名物セミナー</li>
+  <li><a href="https://www.nature.com/articles/nn.4267">2016年のSingh et al.,論文</a></li>
+  <li>2014年の<a href="https://doi.org/10.1016/j.neuron.2014.04.043">高田さんの論文</a></li>
+  <li><a href="https://mppd-takatalab.com/">高田ラボ</a></li>
+  <li><a href="https://www.columbiapsychiatry.org/profile/maria-karayiorgou-md">Maria Karayiorgou</a></li>
+  <li><a href="https://www.physiology.columbia.edu/JosephAGogos.html">Joseph Gogos</a></li>
+  <li><a href="https://doi.org/10.1016/j.neuron.2019.09.014">CompetitorのSetd1a論文&nbsp;</a></li>
+  <li><a href="https://www.nature.com/articles/nmeth.4234">iTango論文</a></li>
+  <li><a href="http://www.tinglab.org/">Alice Tingラボ</a></li>
+  <li>オーフスの<a href="https://yoneharalab.org/">米原さんラボ</a>（遺伝研に移行中）</li>
+  <li><a href="https://twitter.com/hyun_neuron_10">Jung Ho Hyun</a></li>
+  <li><a href="https://leedongmin77.wixsite.com/dongminlab/home">Dongmin Leeラボ</a>（注：”Nat. Biotechnol.のCal-Light論文でvalidationを全部行った”と行ってしまったのですが、正しいcontributionはCal-Lightの設計・in vitroのvalidsation→Dongmin、in vivoのvalidation→Jung Hoでした。by 長濱さん）</li>
+  <li><a href="https://www.pnas.org/doi/10.1073/pnas.2118712119">Guopingが使った例</a></li>
+  <li>Josh Gordonが<a href="https://www.nature.com/articles/s41586-021-03272-1">使った例</a></li>
+  <li>Matthew Larkumが<a href="https://www.frontiersin.org/articles/10.3389/fnsyn.2019.00016/full">CAMPARIと比較したFrontier論文</a></li>
+  <li><a href="https://www.tinakimlab.org/team">Tina Kim</a></li>
+  <li><a href="https://doi.org/10.1016/j.cell.2020.11.015">FLiCRE（フリッカー）論文</a></li>
+  <li><a href="https://www.nature.com/articles/s41593-017-0018-8">SoCoChR論文</a></li>
+  <li>StCoChR論文についての<a href="https://twitter.com/OferYizhar/status/1397567655603810306">Oferと萩原の見解</a></li>
+  <li>Liqunのところの<a href="https://doi.org/10.1016/j.neuron.2013.03.025">TRAP</a> <a href="https://www.science.org/doi/10.1126/science.aan6747">その２</a></li>
+  <li><a href="https://www.science.org/doi/abs/10.1126/science.1260922">CAMPARI</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-018-06935-2">CAMPARI2</a></li>
+  <li><a href="https://elifesciences.org/articles/57249">rsCAMPARI</a></li>
+  <li>Photoactivatable Cre 例えば<a href="https://www.nature.com/articles/s41592-020-0774-3">コレ</a></li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>いちリスナーの自分がまさかゲスト出演することになるとは思っていませんでした。お二人との議論とっても楽しかったです！色々とbackgroundの前置きが長くなってしまいましたが、これから海外でポスドクしようとしている大学院生やポスドクの方に、こんな人もいるんだなぁ、と思って頂けるといいなと思います。またメインプロジェクトの論文出たら、ぜひ呼んでください！（長濱）</li>
+  <li>最初期遺伝子では神経活動を捉えられない、という見方と、遺伝子発現変化に繋がらない神経活動はエングラムではない、という立場があるのかな…何がノイズで何がシグナルなのか、とかの検証が色々できそう（宮脇）</li>
+  <li>出だしの導入で記録と操作が...とか言って始めていますが、「おい、(形態)観察は？」というツッコミが解剖寄りの人から来るのは想定済みです汗 (萩原)</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/neuroradio/episodes/51-A-precise-tagging-of-active-neurons-e1thtd3</link>
+			<guid isPermaLink="false">e814a882-7d3c-4846-b965-2d698723af85</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Tue, 17 Jan 2023 02:29:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/63550307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-16%2F97685b25-5e65-6b87-19d8-ae39e2af4e72.mp3" length="211687232" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Hyungbae Kwonラボの長濱健一郎さん(&lt;a href=&quot;https://twitter.com/k_hammer_1001&quot;&gt;@k_hammer_1001&lt;/a&gt;)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal-Light論文（光受容とCa2+活動による細胞の遺伝学的ラベリング手法のアップデート版）について伺いました。&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://researchmap.jp/k-nagahama1001?lang=ja&quot;&gt;長濱さん&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;最近の&lt;a href=&quot;https://www.nature.com/articles/s41467-022-35406-y&quot;&gt;ST-Cal Light論文&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;光とCaのアンドゲートロジックによるラベリングその１&lt;a href=&quot;https://www.nature.com/articles/nbt.3902&quot;&gt;Cal-Light from Kwonラボ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;その２ &lt;a href=&quot;https://www.nature.com/articles/nbt.3909&quot;&gt;FLARE from Alice Tingラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/kwon-lab?pli=1&quot;&gt;Hyungbae KwonラボHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plaza.umin.ac.jp/~neurophy/&quot;&gt;狩野ラボHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;この論文＝狩野研時代の&lt;a href=&quot;https://doi.org/10.1016/j.celrep.2020.108126&quot;&gt;Setd1a論文&lt;/a&gt;（注：収録時にはmentionできなかったのですが、ChIP-seqの実験・解析、RNA-seqの解析では東大薬・分子生物学・後藤研にいらした岸先生（&lt;a href=&quot;https://researchmap.jp/yu_kisi&quot;&gt;岸 雄介 (Yusuke Kishi) - マイポータル - researchmap&lt;/a&gt;）に大変お世話になりました。あと、ChR2-tdTomato→ChR2-mOrangeでした。by 長濱さん）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.1252514&quot;&gt;上阪さんのretrograde semaphorinのScience論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ニューロランチ：東大医学部の神経系のラボが集まって、金曜日の昼飯時に行う背筋も凍りつくような名物セミナー&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.4267&quot;&gt;2016年のSingh et al.,論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2014年の&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2014.04.043&quot;&gt;高田さんの論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mppd-takatalab.com/&quot;&gt;高田ラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.columbiapsychiatry.org/profile/maria-karayiorgou-md&quot;&gt;Maria Karayiorgou&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.physiology.columbia.edu/JosephAGogos.html&quot;&gt;Joseph Gogos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2019.09.014&quot;&gt;CompetitorのSetd1a論文&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nmeth.4234&quot;&gt;iTango論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tinglab.org/&quot;&gt;Alice Tingラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;オーフスの&lt;a href=&quot;https://yoneharalab.org/&quot;&gt;米原さんラボ&lt;/a&gt;（遺伝研に移行中）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyun_neuron_10&quot;&gt;Jung Ho Hyun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leedongmin77.wixsite.com/dongminlab/home&quot;&gt;Dongmin Leeラボ&lt;/a&gt;（注：”Nat. Biotechnol.のCal-Light論文でvalidationを全部行った”と行ってしまったのですが、正しいcontributionはCal-Lightの設計・in vitroのvalidsation→Dongmin、in vivoのvalidation→Jung Hoでした。by 長濱さん）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.2118712119&quot;&gt;Guopingが使った例&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Josh Gordonが&lt;a href=&quot;https://www.nature.com/articles/s41586-021-03272-1&quot;&gt;使った例&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Matthew Larkumが&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fnsyn.2019.00016/full&quot;&gt;CAMPARIと比較したFrontier論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tinakimlab.org/team&quot;&gt;Tina Kim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2020.11.015&quot;&gt;FLiCRE（フリッカー）論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-017-0018-8&quot;&gt;SoCoChR論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;StCoChR論文についての&lt;a href=&quot;https://twitter.com/OferYizhar/status/1397567655603810306&quot;&gt;Oferと萩原の見解&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Liqunのところの&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2013.03.025&quot;&gt;TRAP&lt;/a&gt; &lt;a href=&quot;https://www.science.org/doi/10.1126/science.aan6747&quot;&gt;その２&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.1260922&quot;&gt;CAMPARI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-018-06935-2&quot;&gt;CAMPARI2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elifesciences.org/articles/57249&quot;&gt;rsCAMPARI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photoactivatable Cre 例えば&lt;a href=&quot;https://www.nature.com/articles/s41592-020-0774-3&quot;&gt;コレ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;いちリスナーの自分がまさかゲスト出演することになるとは思っていませんでした。お二人との議論とっても楽しかったです！色々とbackgroundの前置きが長くなってしまいましたが、これから海外でポスドクしようとしている大学院生やポスドクの方に、こんな人もいるんだなぁ、と思って頂けるといいなと思います。またメインプロジェクトの論文出たら、ぜひ呼んでください！（長濱）&lt;/li&gt;
+  &lt;li&gt;最初期遺伝子では神経活動を捉えられない、という見方と、遺伝子発現変化に繋がらない神経活動はエングラムではない、という立場があるのかな…何がノイズで何がシグナルなのか、とかの検証が色々できそう（宮脇）&lt;/li&gt;
+  &lt;li&gt;出だしの導入で記録と操作が...とか言って始めていますが、「おい、(形態)観察は？」というツッコミが解剖寄りの人から来るのは想定済みです汗 (萩原)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:56:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>51</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#50 Gestalt principles]]></title>
 			<description><![CDATA[<p>久々のSfN参加、初Thanksgiving、Twitterからの移行に関する雑談。論文紹介は、カリウム選択的チャネルロドプシンの構造、魚の脳発達は氏か育ちか、プルダウンアッセイと機械学習によるAAVの指向進化、など (11/26収録)</p>

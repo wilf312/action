@@ -20,6 +20,66 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.139『フレームワークの潮流は？状態管理はどうなった？UIフレームワークまで！UIT Survey 2022』</title>
+    <link>https://uit-inside.linecorp.com/episode/139</link>
+    <pubDate>Fri, 10 Feb 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @kazushikonosu に、 UIT Survey 2022 について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/139</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-139.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),kazushikonosu(kazushikonosu)</itunes:author>
+    <itunes:subtitle>ep.139『フレームワークの潮流は？状態管理はどうなった？UIフレームワークまで！UIT Survey 2022』</itunes:subtitle>
+    <itunes:duration>31:32</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode139.png"/>
+  </item>
+  <item>
+    <title>ep.138『State of JS 2022を振り返る』</title>
+    <link>https://uit-inside.linecorp.com/episode/138</link>
+    <pubDate>Fri, 03 Feb 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;昨年の終わりに公開された毎年恒例「State of JS」の結果について、@spring-raining と @AlanGDavalos が振り返りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/138</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-state-of-js-2022.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.138『State of JS 2022を振り返る』</itunes:subtitle>
+    <itunes:duration>60:51</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode138.png"/>
+  </item>
+  <item>
+    <title>ep.137『動画出力もWeb技術で！ASIS-TOBE Maker を開発してみた』</title>
+    <link>https://uit-inside.linecorp.com/episode/137</link>
+    <pubDate>Mon, 30 Jan 2023 06:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が@tomoaki.hirabayashi に2つのキャプチャ画像を比較する社内ツール『ASIS-TOBE Maker』について、開発の経緯、利用している技術、Webで動画編集を行うモチベーションなどを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/137</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode137.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),tomoaki-hirabayashi(tomoaki-hirabayashi)</itunes:author>
+    <itunes:subtitle>ep.137『動画出力もWeb技術で！ASIS-TOBE Maker を開発してみた』</itunes:subtitle>
+    <itunes:duration>13:57</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode137.png"/>
+  </item>
+  <item>
+    <title>ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』</title>
+    <link>https://uit-inside.linecorp.com/episode/136</link>
+    <pubDate>Fri, 13 Jan 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINEが公開した日本語コーポレートフォント「LINE Seed JP」について、@springrainingがプロジェクトチーム (@kota.yaginuma, @yangkyungjin, @momo.yagihashi) に聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/136</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-line-seed-jp.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),kota.yaginuma(kota.yaginuma),yang_kyungjin(yang_kyungjin),momo.yagihashi(momo.yagihashi)</itunes:author>
+    <itunes:subtitle>ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』</itunes:subtitle>
+    <itunes:duration>42:48</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode136.png"/>
+  </item>
+  <item>
     <title>ep.135 『@vercel/og で OG 画像生成の Satori を開く』</title>
     <link>https://uit-inside.linecorp.com/episode/135</link>
     <pubDate>Fri, 02 Dec 2022 09:00:00 GMT</pubDate>
@@ -1458,66 +1518,6 @@
     <itunes:duration>21:59</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode040.png"/>
-  </item>
-  <item>
-    <title>ep.39 Vue 3 Study 『Render function で React の世界を覗いてみる』</title>
-    <link>https://uit-inside.linecorp.com/episode/39</link>
-    <pubDate>Fri, 17 Apr 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining と @potato4d が、 Vue 3 の render function についてのアップデート、TypeScript と TSX、Babelに依存しない Vue.js 開発について語りました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/39</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-039%20.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.39 Vue 3 Study 『Render function で React の世界を覗いてみる』</itunes:subtitle>
-    <itunes:duration>24:13</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode039.png"/>
-  </item>
-  <item>
-    <title>ep.38 Chromeでも廃止？サードパーティクッキーのない世界</title>
-    <link>https://uit-inside.linecorp.com/episode/38</link>
-    <pubDate>Fri, 10 Apr 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d が @kawasako3 に、ITP の最新状況、Chrome でのサードパーティ Cookie の廃止、広告のこれからについて聞いてみました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/38</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-038.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Kawasaki Kohei(kawasako3)</itunes:author>
-    <itunes:subtitle>ep.38 Chromeでも廃止？サードパーティクッキーのない世界</itunes:subtitle>
-    <itunes:duration>30:15</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode038.png"/>
-  </item>
-  <item>
-    <title>ep.37 「コントリビュートして学ぶ Prettier のしくみ」</title>
-    <link>https://uit-inside.linecorp.com/episode/37</link>
-    <pubDate>Fri, 03 Apr 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d が @cola119 と @__sosukesuzuki に Prettier への貢献や、最近気になる OSS について話しました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/37</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-037.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),__sosukesuzuki(__sosukesuzuki),cola119(cola119)</itunes:author>
-    <itunes:subtitle>ep.37 「コントリビュートして学ぶ Prettier のしくみ」</itunes:subtitle>
-    <itunes:duration>26:25</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode037.png"/>
-  </item>
-  <item>
-    <title>ep.36 Vue 3 Study 「何が変わる？ Composition API」</title>
-    <link>https://uit-inside.linecorp.com/episode/36</link>
-    <pubDate>Thu, 26 Mar 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining が @rChaser53 とともに、 Vue 3  Composition API の概要、実際にコードを書いて触ってみた所感、使うべきか？ などをテーマに話しました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/36</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-036.mp3" type="audio/mp3"/>
-    <itunes:author>spring-raining(spring_raining),rChaser53(rChaser53)</itunes:author>
-    <itunes:subtitle>ep.36 Vue 3 Study 「何が変わる？ Composition API」</itunes:subtitle>
-    <itunes:duration>33:42</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode036.png"/>
   </item>
   </channel>
 </rss>

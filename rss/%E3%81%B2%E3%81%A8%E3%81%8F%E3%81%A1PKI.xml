@@ -12,7 +12,7 @@
 			<link>https://anchor.fm/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 27 Dec 2022 08:29:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Feb 2023 00:42:13 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,104 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[53: CA/B Forumに新しく加入するときの手続きの話 ]]></title>
+			<description><![CDATA[<p>ZT Browser が CA/B Forum の Server Cert WG に参加申請を出していて、Ballot が行われたけど否決されてしまった様子の話をしました。雑談では、手続きのためにヒューストンに行ったけど珍道中になってしまった話、学士の学位がない人は学位授与機構から学位をもらおう！という話をしました。</p>
+<ul>
+ <li><a href="https://lists.cabforum.org/pipermail/servercert-wg/2023-January/003485.html" rel="noreferrer noopener" target="_blank">[Servercert-wg] Discussion period begins: Ballot SC60: Membership of ZT Browser (cabforum.org)</a></li>
+ <li><a href="https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html" rel="noreferrer noopener" target="_blank">https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html</a></li>
+  <li>単位積み上げ型の学士の学位授与制度(大学改革支援・学位授与機構)<br>
+https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub</link>
+			<guid isPermaLink="false">bd1acf23-6eff-4433-92db-98d062be36e8</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Thu, 23 Feb 2023 00:39:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/65488267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F21598551-7f07-9a8e-017b-60fe076951ce.mp3" length="32353032" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ZT Browser が CA/B Forum の Server Cert WG に参加申請を出していて、Ballot が行われたけど否決されてしまった様子の話をしました。雑談では、手続きのためにヒューストンに行ったけど珍道中になってしまった話、学士の学位がない人は学位授与機構から学位をもらおう！という話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://lists.cabforum.org/pipermail/servercert-wg/2023-January/003485.html&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;[Servercert-wg] Discussion period begins: Ballot SC60: Membership of ZT Browser (cabforum.org)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;単位積み上げ型の学士の学位授与制度(大学改革支援・学位授与機構)&lt;br&gt;
+https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>53</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[52: ISRGのAnual Reportの話(Let's Encryptとプライバシーとメモリセーフ移行) ]]></title>
+			<description><![CDATA[<p>2022年12月に収録したものをやっと配信できました！Let's Encryptの運営元として知られるINTERNET SECURITY RESEARCH GROUP(ISRG)の2022年のアニュアルレポートについて話しました。Let's Encryptについはもちろん、データ収集時のプライバシーの尊重を勧める「Divvi Up」、インターネットの基幹システムをメモリセーフティなコードにしていこうというイニシアチブである「Prossimo」について紹介されていました。雑談では焼き栗にしたらうまくいった話、手打ちうどん・そばの話をしました。</p>
+<ul>
+ <li>Let’s build a better Internet<br>
+<a href="https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf" rel="noreferrer noopener" target="_blank">https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf</a></li>
+ <li>Divvi Up<br>
+<a href="https://divviup.org/" rel="noreferrer noopener" target="_blank">https://divviup.org/</a></li>
+  <li>Prossimo<br>
+<a href="https://www.memorysafety.org/about/" rel="noreferrer noopener" target="_blank">https://www.memorysafety.org/about/</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs</link>
+			<guid isPermaLink="false">89493af8-aed2-489c-ae2f-55babff5b49c</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Wed, 22 Feb 2023 07:58:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/65444668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F8f6e68d0-b210-e567-bf7c-9236ef3a2c62.mp3" length="34752696" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;2022年12月に収録したものをやっと配信できました！Let&apos;s Encryptの運営元として知られるINTERNET SECURITY RESEARCH GROUP(ISRG)の2022年のアニュアルレポートについて話しました。Let&apos;s Encryptについはもちろん、データ収集時のプライバシーの尊重を勧める「Divvi Up」、インターネットの基幹システムをメモリセーフティなコードにしていこうというイニシアチブである「Prossimo」について紹介されていました。雑談では焼き栗にしたらうまくいった話、手打ちうどん・そばの話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Let’s build a better Internet&lt;br&gt;
+&lt;a href=&quot;https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Divvi Up&lt;br&gt;
+&lt;a href=&quot;https://divviup.org/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://divviup.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Prossimo&lt;br&gt;
+&lt;a href=&quot;https://www.memorysafety.org/about/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://www.memorysafety.org/about/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:57:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>52</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[51: Twitter.comのドメイン登録と証明書有効期限切れが心配されていた時の話 ]]></title>
+			<description><![CDATA[<p>2022年11月に収録した回をようやく配信できました！お待たせいたしました。</p>
+<p>Twitter.comの証明書の有効期限が切れそうでハラハラした話、ブラジルの国が運営しているWebPKIのCA(SERPRO's CA)を新しくルートプログラムに登録したいという議題が6週間のオープンディスカッション期間に入っていた話(のちに2023年3月まで議論がサスペンドされました)、PKI関連の書籍が新しく出ていた話をしました。雑談でははてしない物語、揺り戻しの少ない休暇の取り方について話しました。</p>
+<ul>
+ <li>Twitter.com</li>
+ <li>Public Discussion of SERPRO's CA Inclusion Request<br>
+<a href="https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ" rel="noreferrer noopener" target="_blank">https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ</a></li>
+  <li>ネットワークセキュリティ詳説 PKI/TLSプロトコル<br>
+<a href="https://www.amazon.co.jp/dp/4339029297" rel="noreferrer noopener" target="_blank">https://www.amazon.co.jp/dp/4339029297</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/hitokuchipki/episodes/51-Twitter-com-e1v9uc7</link>
+			<guid isPermaLink="false">61f4a7a5-9a95-40aa-bee4-ae92be59134d</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 21 Feb 2023 06:29:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/65386311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-21%2Fcfee18b8-dd6a-b7fc-6cf9-d322f0f3c635.mp3" length="30311016" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;2022年11月に収録した回をようやく配信できました！お待たせいたしました。&lt;/p&gt;
+&lt;p&gt;Twitter.comの証明書の有効期限が切れそうでハラハラした話、ブラジルの国が運営しているWebPKIのCA(SERPRO&apos;s CA)を新しくルートプログラムに登録したいという議題が6週間のオープンディスカッション期間に入っていた話(のちに2023年3月まで議論がサスペンドされました)、PKI関連の書籍が新しく出ていた話をしました。雑談でははてしない物語、揺り戻しの少ない休暇の取り方について話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter.com&lt;/li&gt;
+ &lt;li&gt;Public Discussion of SERPRO&apos;s CA Inclusion Request&lt;br&gt;
+&lt;a href=&quot;https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ネットワークセキュリティ詳説 PKI/TLSプロトコル&lt;br&gt;
+&lt;a href=&quot;https://www.amazon.co.jp/dp/4339029297&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://www.amazon.co.jp/dp/4339029297&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:46:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>51</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[50: Chrome Root Programがついにローンチされた話(Chrome105から)]]></title>
 			<description><![CDATA[<p>2022年9月下旬(収録当時)、ついにChrome Root Programがローンチされた話、ルートプログラムだけでなく証明書検証のプロセス自体もChrome Cert Verifierという独自のものを使うようになる話、証明書のパス構築と証明書検証において歴史的な変化となりそうですよね…という話をしています。雑談では、技術書典13の本にも登場したゆりかさんのピーマンの話のその後、万願寺とうがらしはテキサスのとうがらし(正確にはニューメキシコで採れてテキサスでも流通しているHatch Chile)にそっくり、お気に入りの梨(新甘泉・荒尾梨)などの話をしました。※ひとけーがモバイル環境で収録したためひとけーだけ音がよくないです、すみません！</p>

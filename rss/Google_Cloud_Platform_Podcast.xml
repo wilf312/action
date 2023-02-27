@@ -4,7 +4,7 @@
 		<atom:link href="https://googlecloudpodcast.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Google Cloud Platform Podcast</title>
 		<pubDate>Wed, 21 Dec 2022 17:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 21 Dec 2022 17:12:18 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 22 Feb 2023 23:34:26 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.gcppodcast.com</link>
 		<language>en-us</language>
@@ -18,7 +18,8 @@
 			<link><![CDATA[https://www.gcppodcast.com]]></link>
 		</image>
 		<itunes:author>Google Cloud Platform</itunes:author>
-		<itunes:category text="Technology"/>
+		<itunes:category text="Technology">
+		</itunes:category>
 		<itunes:category text="News">
 			<itunes:category text="Tech News"/>
 		</itunes:category>
@@ -29,7 +30,6 @@
 			<itunes:email>hello@gcppodcast.com</itunes:email>
 		</itunes:owner>
 		<description><![CDATA[The Google Cloud Platform Podcast, coming to you every week. Discussing everything on Google Cloud Platform from App Engine to BigQuery.]]></description>
-		<itunes:subtitle><![CDATA[Weekly News and Commentary]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<!-- START CHANNEL EXTRA TAGS -->
 <itunes:new-feed-url>https://googlecloudpodcast.libsyn.com/rss</itunes:new-feed-url><!-- CLOSE CHANNEL EXTRA TAGS -->

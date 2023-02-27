@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379" rel="next" type="application/rss+xml"/>
         <title>nextstep.fm</title>
         <link>https://soundcloud.com/nextstepfm</link>
-        <pubDate>Sat, 10 Dec 2022 15:41:02 +0000</pubDate>
-        <lastBuildDate>Sat, 10 Dec 2022 15:41:02 +0000</lastBuildDate>
+        <pubDate>Sat, 11 Feb 2023 13:43:14 +0000</pubDate>
+        <lastBuildDate>Sat, 11 Feb 2023 13:43:14 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -28,6 +28,138 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1444718830</guid>
+      <title>#64 Matter，買う日まで</title>
+      <pubDate>Sat, 11 Feb 2023 13:43:14 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/64-matter</link>
+      <itunes:duration>01:38:27</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+try! Swiftのトーク，HomePodの使い方，Matterってどうなんだろう，カテイくんの気になるSwift Revolutionは？について話しました．
+@sonson_twitの誕生日＆nextstep.fm #64記念のお祝いはこちらへ - https://www.amazon.jp/hz/wishlist/ls/87PXV5950OBZ?ref_=wl_share
+
+1. try! Swift
+   1. 中継動画 https://www.youtube.com/watch?v=ILWnstd-XOY
+   2. Swift Macroは難しい・・・・
+   3. try! Swift 2024，開催決定
+2. M2 MacBook Pro/Mac mini
+   1. MacBook Airはおすすめ
+3. HomePod
+   1. HomePod mini
+   2. HomePod + AppleTV 4K 2ndで，テレビのスピーカーをHomePodにできる話 - https://support.apple.com/ja-jp/HT207117
+   3. HomePodを買い溜めしている人もいるという事実
+   4. Appleの音楽体験はどんどん悪くなっている・・・・・
+   5. iTunesはどんどん酷くなっていったよね・・・・．
+4. Matter/HomeKit
+   1. https://ja.wikipedia.org/wiki/Matter_(規格)
+   2. なんか全然先が見えないが．
+   3. SwitchBotなんか動き出している・・・・ちょっと期待
+5. 今日のカテイ
+   1. 卒論を提出し，スケジュール的に炎上
+   2. カテイ，try! Swiftのせいで卒論に締め切りが炎上
+   3. Swift Revolutionのカテイトーク
+      1. 次回，Destination Bundles
+      2. https://forums.swift.org/t/pitch-cross-compilation-destination-bundles/61777
+6. お誕生日
+   1.  @sonson_twit - https://www.amazon.jp/hz/wishlist/ls/87PXV5950OBZ?ref_=wl_share
+   2.  @d_date</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date, …</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+try! Swiftのトーク，HomePodの使い方，Matterってどうなんだろう，カテイくんの気になるSwift Revolutionは？について話しました．
+@sonson_twitの誕生日＆nextstep.fm #64記念のお祝いはこちらへ - https://www.amazon.jp/hz/wishlist/ls/87PXV5950OBZ?ref_=wl_share
+
+1. try! Swift
+   1. 中継動画 https://www.youtube.com/watch?v=ILWnstd-XOY
+   2. Swift Macroは難しい・・・・
+   3. try! Swift 2024，開催決定
+2. M2 MacBook Pro/Mac mini
+   1. MacBook Airはおすすめ
+3. HomePod
+   1. HomePod mini
+   2. HomePod + AppleTV 4K 2ndで，テレビのスピーカーをHomePodにできる話 - https://support.apple.com/ja-jp/HT207117
+   3. HomePodを買い溜めしている人もいるという事実
+   4. Appleの音楽体験はどんどん悪くなっている・・・・・
+   5. iTunesはどんどん酷くなっていったよね・・・・．
+4. Matter/HomeKit
+   1. https://ja.wikipedia.org/wiki/Matter_(規格)
+   2. なんか全然先が見えないが．
+   3. SwitchBotなんか動き出している・・・・ちょっと期待
+5. 今日のカテイ
+   1. 卒論を提出し，スケジュール的に炎上
+   2. カテイ，try! Swiftのせいで卒論に締め切りが炎上
+   3. Swift Revolutionのカテイトーク
+      1. 次回，Destination Bundles
+      2. https://forums.swift.org/t/pitch-cross-compilation-destination-bundles/61777
+6. お誕生日
+   1.  @sonson_twit - https://www.amazon.jp/hz/wishlist/ls/87PXV5950OBZ?ref_=wl_share
+   2.  @d_date</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1444718830-nextstepfm-64-matter.mp3" length="94514363"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1423602868</guid>
+      <title>#63 AIは「わからない」がわからない</title>
+      <pubDate>Sat, 14 Jan 2023 03:33:22 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/63a</link>
+      <itunes:duration>01:55:05</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+あけましておめでとうございます．楽器の演奏，アプリ内マーケティング，自動演奏ロボット，ChatGPTの中身，Copilotで本を書く・・・などのテーマで話しました．
+
+1. あけましておめでとうございます．
+2. 小樽旅 - https://twitter.com/1024jp/status/1608050673840685057
+3. AppStoreとマーケティング
+4. アプリ内でマーケティングするのやめてほしい問題
+5. 無料範囲内でユーザに提供する機能の範囲・・・
+6. Moisesは，最高によくできてる - https://moises.ai/ja/
+7. Moises・・・音楽データの速度調整，キー変更，パート分離などができる音楽練習サポートアプリ・・・月額課金タイプ
+8. 人が演奏することの意義
+9. 熊本大学上瀧先生の自動演奏ロボットの研究 - https://makezine.jp/event/makers-mft2022/m0152/
+10. ご存じ明和電機 - https://www.maywadenki.com/products/tsukuba/guitar-la-now-naming/
+11. try Swift復活するらしいよ - https://tryswift.jp
+12. try Swiftでk_katsumi, kateiは，なんの話すんの？
+13. 「世界一受けたい授業」デジタル庁の @d_date - https://www.ntv.co.jp/topics/articles/19ffgpczgv0xt3oqbb.html
+14. ChatGPTは「知らない」という回答はできる？
+15. sonsonによる今の対話AIの仕組みの解説
+16. ロジックとパターン認識の狭間
+17. mocopiすごそうじゃない？ - https://av.watch.impress.co.jp/docs/news/1459331.html
+18. k_katsumi, 本書いたらしいよ - https://twitter.com/mhidaka/status/1607128867084603392
+19. GitHub Copilotが本執筆を助けてくれる
+20. Matter matters?</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+あけましておめでとうございます．楽器の演奏，アプリ内マーケティング，自動演奏ロボット，ChatGPTの中身，Copilotで本を書く・・・などのテーマで話しました．
+
+1. あけましておめでとうございます．
+2. 小樽旅 - https://twitter.com/1024jp/status/1608050673840685057
+3. AppStoreとマーケティング
+4. アプリ内でマーケティングするのやめてほしい問題
+5. 無料範囲内でユーザに提供する機能の範囲・・・
+6. Moisesは，最高によくできてる - https://moises.ai/ja/
+7. Moises・・・音楽データの速度調整，キー変更，パート分離などができる音楽練習サポートアプリ・・・月額課金タイプ
+8. 人が演奏することの意義
+9. 熊本大学上瀧先生の自動演奏ロボットの研究 - https://makezine.jp/event/makers-mft2022/m0152/
+10. ご存じ明和電機 - https://www.maywadenki.com/products/tsukuba/guitar-la-now-naming/
+11. try Swift復活するらしいよ - https://tryswift.jp
+12. try Swiftでk_katsumi, kateiは，なんの話すんの？
+13. 「世界一受けたい授業」デジタル庁の @d_date - https://www.ntv.co.jp/topics/articles/19ffgpczgv0xt3oqbb.html
+14. ChatGPTは「知らない」という回答はできる？
+15. sonsonによる今の対話AIの仕組みの解説
+16. ロジックとパターン認識の狭間
+17. mocopiすごそうじゃない？ - https://av.watch.impress.co.jp/docs/news/1459331.html
+18. k_katsumi, 本書いたらしいよ - https://twitter.com/mhidaka/status/1607128867084603392
+19. GitHub Copilotが本執筆を助けてくれる
+20. Matter matters?</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1423602868-nextstepfm-63a.mp3" length="110480821"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1400008300</guid>
       <title>#62 RubyPrize winnerの話が聞けるPodCast</title>
       <pubDate>Sat, 10 Dec 2022 15:41:02 +0000</pubDate>

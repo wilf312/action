@@ -11,7 +11,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<link>https://twitter.com/Read_SRE_Again</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 21 Dec 2022 03:16:45 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Feb 2023 03:05:12 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/6233432c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Topotal]]></author>
 		<copyright><![CDATA[Topotal]]></copyright>
@@ -29,6 +29,90 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+		<item>
+			<title><![CDATA[もう一度読むSRE #64]]></title>
+			<description><![CDATA[<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>
+]]></description>
+			<link>https://anchor.fm/read-sre-again/episodes/SRE-64-e1viih2</link>
+			<guid isPermaLink="false">0d914871-4788-4876-bf82-bdc87a2b233c</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Mon, 27 Feb 2023 03:00:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/65669090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F5e3635ac-31fe-9799-4a5d-458d7e22d35b.m4a" length="59178257" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #63]]></title>
+			<description><![CDATA[<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>
+]]></description>
+			<link>https://anchor.fm/read-sre-again/episodes/SRE-63-e1ublbi</link>
+			<guid isPermaLink="false">532e482a-0ff4-4f7c-918f-313dcb8c5d35</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 02 Feb 2023 08:05:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/64394034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-2%2Fed05cce9-aaf6-1fe3-6e33-e02ecdf82a44.m4a" length="65025417" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;18.3.5 チームの力学 から 18.5 まとめ まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #62]]></title>
+			<description><![CDATA[<p>18.3.4 認知の向上と採用の推進 から 18.3.4.4 適切なレベルでの設計 まで</p>
+]]></description>
+			<link>https://anchor.fm/read-sre-again/episodes/SRE-62-e1tvcun</link>
+			<guid isPermaLink="false">a2d1a612-a378-47b7-847a-5563d31a9833</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 25 Jan 2023 03:00:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/63992215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-25%2F77feabe1-5126-2a1c-8d7d-c9b0c9485fea.m4a" length="29769490" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;18.3.4 認知の向上と採用の推進 から 18.3.4.4 適切なレベルでの設計 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #61]]></title>
+			<description><![CDATA[<p>18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで</p>
+]]></description>
+			<link>https://anchor.fm/read-sre-again/episodes/SRE-61-e1t2agg</link>
+			<guid isPermaLink="false">23475912-49e8-42c8-a3e1-bfaf867037c0</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 04 Jan 2023 02:56:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/63039440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-4%2F3bfb68ed-5412-da61-acf1-8f23f82f4969.m4a" length="45242623" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #60]]></title>
+			<description><![CDATA[<ul>
+ <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/read-sre-again/episodes/SRE-60-e1sq0hm</link>
+			<guid isPermaLink="false">974591f6-b849-43ee-817e-60ded0568265</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 28 Dec 2022 05:14:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/62767094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-28%2F4e100661-6d9e-f7fb-7f59-5c0015b51383.m4a" length="41336625" type="audio/x-m4a"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[もう一度読むSRE #59]]></title>
 			<description><![CDATA[<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>
