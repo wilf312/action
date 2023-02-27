@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #64",
+      "description": "<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-64-e1viih2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0d914871-4788-4876-bf82-bdc87a2b233c"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 27 Feb 2023 03:00:19 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/65669090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F5e3635ac-31fe-9799-4a5d-458d7e22d35b.m4a",
+        "@length": 59178257,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #63",
       "description": "<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-63-e1ublbi",
