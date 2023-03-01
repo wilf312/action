@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 02 Feb 2023 23:52:36 +0000",
+  "lastBuildDate": "Wed, 01 Mar 2023 13:43:41 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#109: A Measure of Transaction Processing Power",
+      "link": "https://misreading.chat/2023/03/01/109-a-measure-of-transaction-processing-power/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 01 Mar 2023 13:43:41 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=871"
+      },
+      "description": "データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。",
+      "content:encoded": "<p>データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/03/ep109.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.cockroachlabs.com/blog/performance-part-two/\">CockroachDB is 10x more scalable than Amazon Aurora for OLTP workloads</a></li>\n\n\n\n<li><a href=\"https://www.tpc.org/\">TPC-Homepage</a> (TLS の証明書が切れてますよ…)</li>\n\n\n\n<li><a href=\"https://jimgray.azurewebsites.net/BenchmarkHandbook/chapter2.pdf\">The History of DebitCredit and the TPC</a></li>\n\n\n\n<li><a href=\"https://www.hpl.hp.com/techreports/tandem/TR-85.2.pdf\">A Measure of Transaction Processing Power</a></li>\n\n\n\n<li><a href=\"https://www.hpl.hp.com/techreports/tandem/TR-93.1.pdf\">The Evolution of TPC Benchmarks: Why TPC-A and TPC-B are Obsolete</a></li>\n\n\n\n<li><a href=\"https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf\">tpc-c_v5.11.0.pdf</a></li>\n\n\n\n<li><a href=\"https://scholar.google.com/scholar?cluster=16102802884226953001&hl=en&as_sdt=0,5\">Cooper: Benchmarking cloud serving systems with YCSB – Google Scholar</a></li>\n\n\n\n<li><a href=\"https://github.com/brianfrankcooper/YCSB/\">brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark</a></li>\n\n\n\n<li><a href=\"http://muratbuffalo.blogspot.com/2023/01/tpc-e-vs-tpc-c-characterizing-new-tpc-e.html\">TPC-E vs. TPC-C: Characterizing the New TPC-E Benchmark via an I/O Comparison Study</a></li>\n\n\n\n<li><a href=\"https://web.cse.ohio-state.edu/~wang.7564/papers/p1439-wang.pdf\">A Study of Database Performance Sensitivity to Experiment Settings</a></li>\n\n\n\n<li><a href=\"https://records.dodgson.org/2023/02/16/in-2020s-dont-listen-to-java-haters/\">In 2020s, Don’t Listen to Java Haters – Spinach Forest</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/03/ep109.mp3",
+        "@length": 27434451,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2286,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。",
+      "googleplay:description": "データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。",
+      "itunes:subtitle": "データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#108: The Verse Calculus",
       "link": "https://misreading.chat/2023/02/02/108-the-verse-calculus/",
