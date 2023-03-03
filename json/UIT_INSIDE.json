@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.140『自動テストからMonorepoまで - UIT新春Tech blog 2023のご紹介』",
+      "link": "https://uit-inside.linecorp.com/episode/140",
+      "pubDate": "Fri, 03 Mar 2023 09:00:00 GMT",
+      "description": "<p>2023年2月に開催された企画「UIT新春Tech blog 2023」の記事について、記事の執筆者である@spring-rainingと@naoto.ikunoが話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/140"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-tech-blog-2023.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),Ikuno Naoto(naoto.ikuno)",
+      "itunes:subtitle": "ep.140『自動テストからMonorepoまで - UIT新春Tech blog 2023のご紹介』",
+      "itunes:duration": "21:13",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode140.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.139『フレームワークの潮流は？状態管理はどうなった？UIフレームワークまで！UIT Survey 2022』",
       "link": "https://uit-inside.linecorp.com/episode/139",
       "pubDate": "Fri, 10 Feb 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode041.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション",
-      "link": "https://uit-inside.linecorp.com/episode/40",
-      "pubDate": "Fri, 24 Apr 2020 09:00:00 GMT",
-      "description": "<p>@potato4d と @spring_raining の二人で、 Lottie について語りました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/40"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-040.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション",
-      "itunes:duration": "21:59",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode040.png",
         "#text": null
       }
     }
