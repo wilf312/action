@@ -45,6 +45,31 @@
   },
   "item": [
     {
+      "title": "#090 シンプルなプロトコル「Nostr」とTwitterの代替として注目される「Damus」をふわっと語る",
+      "description": "<p><strong>Chapters:</strong></p>\n<ul>\n <li>00:00 Nostr って聞いたことありますか？</li>\n <li>09:25 分散型 Twitter は創業者も夢見ていた？</li>\n  <li>13:30 Lightning Network 投げ銭文化</li>\n</ul>\n<p><br></p>\n<p><strong>エピソードメモ</strong></p>\n<ul>\n  <li><a href=\"https://nostr.com/\">Nostr, a simple protocol for decentralizing social media that has a chance of working</a></li>\n  <li><a href=\"https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286\">Nostrプロトコル(damus)を触ってみた - Qiita</a></li>\n  <li><a href=\"https://e-words.jp/w/IRC.html\">IRCとは - 意味をわかりやすく - IT用語辞典 e-Words</a></li>\n  <li><a href=\"https://damus.io/\">damus</a></li>\n</ul>\n<p><br></p>",
+      "link": "https://anchor.fm/hottotech/episodes/090-NostrTwitterDamus-e1vtevj",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9030a324-198b-4a4e-aec6-4280ef0b7172"
+      },
+      "dc:creator": "ほっとテック",
+      "pubDate": "Sun, 05 Mar 2023 23:29:52 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/86693634/podcast/play/66025907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-5%2Fa6749232-fc10-8a8b-c054-768657ac4d0e.mp3",
+        "@length": 27219979,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p><strong>Chapters:</strong></p>\n<ul>\n <li>00:00 Nostr って聞いたことありますか？</li>\n <li>09:25 分散型 Twitter は創業者も夢見ていた？</li>\n  <li>13:30 Lightning Network 投げ銭文化</li>\n</ul>\n<p><br></p>\n<p><strong>エピソードメモ</strong></p>\n<ul>\n  <li><a href=\"https://nostr.com/\">Nostr, a simple protocol for decentralizing social media that has a chance of working</a></li>\n  <li><a href=\"https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286\">Nostrプロトコル(damus)を触ってみた - Qiita</a></li>\n  <li><a href=\"https://e-words.jp/w/IRC.html\">IRCとは - 意味をわかりやすく - IT用語辞典 e-Words</a></li>\n  <li><a href=\"https://damus.io/\">damus</a></li>\n</ul>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:18:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1646821127531-22c03d7595cbc.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "#089 重い腰をあげて1Passwordファミリーアカウントを導入したらSECURE×FAMILYになった(気がする)",
       "description": "<p><strong>Chapters:</strong></p>\n<ul>\n <li>00:00 941さんとソースネクストの関係</li>\n <li>03:50 1Password Families を導入</li>\n  <li>09:12 家族で使うのは本当におすすめ</li>\n  <li>19:12 SECURE×FAMILY</li>\n</ul>\n<p><br></p>\n<p><strong>エピソードメモ</strong></p>\n<ul>\n  <li><a href=\"https://www.sourcenext.com/product/dropbox/\">Dropbox Plus 3年版 - 最安ご購入保証(ドロップボックス)｜ソースネクスト</a></li>\n  <li><a href=\"https://www.sourcenext.com/product/pc/use/pc_use_002678/?gpc=0000013784\">1Password 3年版 - パスワード管理サービス｜ソースネクスト</a></li>\n  <li><a href=\"https://www.digital.go.jp/policies/account_registration/\">公金受取口座登録制度</a></li>\n  <li><a href=\"https://efcl.info/2023/01/31/remove-secret-from-local/\">1Passwordを使って、ローカルにファイル(~/.configや.env)として置かれてる生のパスワードなどを削除した | Web Scratch</a></li>\n</ul>\n<p><br></p>",
       "link": "https://anchor.fm/hottotech/episodes/089-1PasswordSECUREFAMILY-e1vnecu",
