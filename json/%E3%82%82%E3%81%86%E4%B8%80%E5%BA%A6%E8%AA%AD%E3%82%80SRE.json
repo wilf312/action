@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #65",
+      "description": "<p>19.3 仮想 IP アドレスでのロードバランシング まで</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-65-e20h1ka",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "825ebee5-f771-4027-823e-031ee795f42e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 16 Mar 2023 03:31:41 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/66667594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-16%2Fad26fa8f-cfae-0b93-707f-aca0523b703f.m4a",
+        "@length": 48540088,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>19.3 仮想 IP アドレスでのロードバランシング まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:28",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #64",
       "description": "<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-64-e1viih2",
