@@ -160,6 +160,10 @@
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
+    "publish only podcast posts, not references",
+    "publish only podcast posts, not blog",
+    "publish only podcast posts, not references",
+    "publish only podcast posts, not blog",
     "publish only podcast posts, not blog",
     "publish only podcast posts, not references",
     "publish only podcast posts, not blog",
@@ -363,6 +367,54 @@
     "publish only podcast posts, not references"
   ],
   "item": [
+    {
+      "title": "161. Cell Transformation (CX)",
+      "link": "https://researchat.fm/episode/161",
+      "pubDate": "Tue, 21 Mar 2023 05:10:00 +0900",
+      "description": "ChatGPTの使い方、研究者の異名・二つ名クイズ、細胞農業にかわるキラキラネームについて話し合いました。<h2 id=\"shownotes\">Shownotes</h2>\n<ul>\n  <li><a href=\"https://openai.com/blog/chatgpt\">ChatGPT</a> … 今回の話はGPT4が出る前の話です。どれぐらい変わったのだろうか。</li>\n  <li><a href=\"https://www.grammarly.com/\">Grammarly</a></li>\n  <li>ChatGPTによるレビュー … 話の元になったツイートは、実際に使ってレビューしたのか、つかってみようという趣旨だったのか忘れました。私は使っていません。</li>\n  <li><a href=\"https://twitter.com/DonIngber/status/1636184027274027012\">AIによるレビュー</a> … ただ最近はレビューワー不足も如実ですので、人2+AI1ぐらいの補助レビューワーとして導入されていく例は増えていくと予想します。</li>\n  <li>nature, scienceによるChatGPTによる規約 … 流れていった… どこかに書いてある。</li>\n  <li><a href=\"https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/01/Christian-Terwiesch-Chat-GTP-1.24.pdf\">ChatGPTはMBAの入試問題が解けるか</a></li>\n  <li><a href=\"https://twitter.com/nhinshirhi/status/1635919444164902912\">ChatGPTは存在しない論文を出してくる</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E9%83%A8%E5%B1%8B\">中国語の部屋</a></li>\n  <li><a href=\"https://alphafold.ebi.ac.uk/\">AlphaFold</a> … なんとかFoldはもうちょっと抑えたい。そしていいネーミングだよね。</li>\n  <li>研究者の異名・二つ名 … 面白いものがあればぜひ教えてください。</li>\n  <li><a href=\"https://researchat.fm/episode/44\">44. Tabasheer (Researchat.fm)</a> … “1800年代後半、Natureに投稿した日本人研究者(杉浦重剛、小藤文次郎、関谷清景、伊藤篤太郎、南方熊楠)について話しました。”</li>\n  <li><a href=\"https://researchat.fm/episode/60\">60. Lab meating (Researchat.fm)</a> … “動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。”</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E8%BE%B2%E6%A5%AD\">細胞農業</a> … 細胞農業をプッシュされている皆様、乱暴な言葉遣いをしてしまい、申し訳ありませんでした。なお官僚の方々がこの言葉を推しているという論拠はございません。大変申し訳ございません。ただ、かっこいい名前がいいなぁ、とおもっただけ、それだけなんです。</li>\n  <li><a href=\"https://new-harvest.org/what-is-cellular-agriculture/\">cellular agriculture</a></li>\n  <li>in vitro … 試験管で、、みたいな意味</li>\n  <li>meatX</li>\n  <li>alpha meat</li>\n  <li>細胞SDGs … 結構好き</li>\n  <li>バイオSDGs … これも好き</li>\n  <li>Meat-DX … 何がないやら。以下羅列。</li>\n  <li>DX … Digital Transformation 誰がつけたか知らないがぶっ飛びすぎてる。英語圏でもつかわれているっぽい。</li>\n  <li>BX … Bio Transformation / Biological Transformation</li>\n  <li>CX … Cell Transformation / Cellular Transformation</li>\n  <li>AX … Agriculture Transformation / Agicultural Transformation</li>\n  <li>Ex … Energy Transformation / Energetic Transformation</li>\n  <li>Fx … Foreign Exchange</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6\">Systems Biology</a> … 北野先生が提唱したのかと思っていたけれどもどうなんでしょうか（もちろん概念的には昔からあったとは思いますが)</li>\n  <li>Mx … Meat Experience</li>\n  <li>トランスフォーメーション … 形質転換じゃないか… CXは紛らわしいかな？笑</li>\n  <li>Omega Meat … もうなんでもあり</li>\n  <li>New (µ) Meat</li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial Notes</h2>\n<ul>\n  <li>GPT-4試したい (soh)</li>\n  <li>ChatGPT超便利ですね！！カスタマーエクスペリエンス(CX）さんには申し訳ない。(coela)</li>\n  <li>CXは正直強すぎる。meat plantsとかもちょっと考えた。言葉遣いを綺麗にしていく！(tadasu)</li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://researchat.fm/episode/161"
+      },
+      "enclosure": {
+        "@url": "https://traffic.libsyn.com/secure/researchat/161.mp3",
+        "@length": 65176042,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "researchat",
+      "itunes:subtitle": "ChatGPTの使い方、研究者の異名・二つ名クイズ、細胞農業にかわるキラキラネームについて話し合いました。",
+      "itunes:duration": "00:59:45",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://researchat.fm/images/itunes_artwork_240.jpg",
+        "#text": null
+      }
+    },
+    {
+      "title": "160. 600 tabs in your mobile web browser",
+      "link": "https://researchat.fm/episode/160",
+      "pubDate": "Tue, 21 Mar 2023 05:02:00 +0900",
+      "description": "ポッドキャストを初めてからの4年間、現在のモチベーション、ポッドキャストのセルフリメイク、ポッドキャん想文、飽き性について話しました。<h2 id=\"shownotes\">Shownotes</h2>\n<ul>\n  <li>ポッドキャん想文を書いてくださった方は以下のフォームに投稿していただけると助かります(リンクが見えない方はResearchat.fmのサイトのforrmからご投稿ください)。もしくはresearchatのメールアドレス宛でも構いません。</li>\n  <li><a href=\"https://researchat.fm/form.html\">Researchat.fmへのお便りフォーム</a></li>\n  <li>iTunesU … 昔あった古のプラットフォーム。MITの授業やUri Alonの授業をみていた記憶。</li>\n  <li><a href=\"https://podcasters.apple.com/support/3684-video-podcasts\">video podcast</a> … おそらく歴史はふるい。</li>\n  <li>新宿ロフトプラスワン …　トークライブの聖地</li>\n  <li><a href=\"https://super-nice.net/%E6%9D%B1%E4%BA%AC%E9%83%BD/3264/#:~:text=%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%83%86%E3%82%A3%E3%81%AF%E6%A4%85%E5%AD%90%E3%83%BB%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB,%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7300%E4%BA%BA%E3%80%82\">キャパシティは椅子・テーブル設置時150人、椅子のみ設置時200人、オールスタンディングで300人。</a></li>\n  <li><a href=\"https://researchat.fm/episode/1\">1. 600 tabs in your browser (Researchat.fm)</a> … “tadasu、soh、coelaの3人でアメリカで見つかった珍しいザリガニ、染色体数や生物個体のサイズ、ハッカソン、強迫的ホーディングと片付け、ドラゴンボール、la la landなどについて話しました。”</li>\n  <li>ポッドキャストのリメイク … 流行るか？（むり</li>\n  <li>ディスカッソン(discuthon) … 名前だけです。</li>\n  <li>4年間を圧縮すれば30min … もちろん、ゲスト回はのぞきます。</li>\n  <li>ボルダリング … 楽しい。というかなぜボルダリングにハマっているかはそのうちすでに収録済みの音源が出るはず…</li>\n  <li>rope climbing -&gt; rock climbing</li>\n  <li><a href=\"https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw\">雷獣</a> … かしこい人たちの話を聞く番組。”灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)”</li>\n  <li><a href=\"https://www.youtube.com/watch?v=UlGSINz8p_M&amp;ab_channel=%E9%9B%B7%E7%8D%A3\">雷獣 w/ 令和ロマン</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=uCBbCb-wUG4&amp;t=1s&amp;ab_channel=%E9%9B%B7%E7%8D%A3\">【morgenコラボ】第一回•雷獣たばこ感想文コンクール✏️</a> … 感想文回。すごいよかった。</li>\n  <li><a href=\"https://www.youtube.com/watch?v=XwNveevIlng&amp;ab_channel=%E9%9B%B7%E7%8D%A3\">【神童】かべ、灘中合格への軌跡を全て語ります【英才教育】</a>　… 雷獣メンバーかべさんの中学受験紀。親御さんの教育法が興味深かった、と同時に中学受験エグすぎるやろ…って思いました。<a href=\"https://www.youtube.com/watch?v=6Ao8Snq9GSM&amp;ab_channel=%E9%9B%B7%E7%8D%A3\">ベテランちさんのやつ</a>ももちろんよかった。</li>\n  <li><a href=\"https://twitter.com/search?q=%23%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%93%E6%83%B3%E6%96%87&amp;src=typed_query\">#ポッドキャん想文</a> … どしどしよろしくお願いします。</li>\n  <li>researchat.book … まぼろしの作品。出なすぎて<a href=\"https://twitter.com/sai_enlightened/status/1578698896770879489\">0g.さんの同人誌 ポ画ZINE</a>に寄稿しました。</li>\n  <li><a href=\"https://www.tv-tokyo.co.jp/gaia/program/\">ガイアの夜明け</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/4062763478?tag=researchatf04-22\">限りなく透明に近いブルー</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/4344410009?tag=researchatf04-22\">半島を出よ</a></li>\n  <li><a href=\"https://www.amazon.co.jp/dp/4877284443?tag=researchatf04-22\">五分後の世界</a></li>\n</ul>\n\n<h2 id=\"editorial-notes\">Editorial Notes</h2>\n<ul>\n  <li>fugafugafuga(soh)</li>\n  <li>hogehogehoge(coela)</li>\n  <li>ボルダリング、お笑い、ヒップホップ、研究、ゆっくりの動画レコメンドが基本。聴き直すと最近日本語が汚くなっていて問題…不快に思われた方は申し訳ないです。ちょっとずつ修正していきます。 (tadasu)</li>\n</ul>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://researchat.fm/episode/160"
+      },
+      "enclosure": {
+        "@url": "https://traffic.libsyn.com/secure/researchat/160.mp3",
+        "@length": 66824992,
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "researchat",
+      "itunes:subtitle": "ポッドキャストを初めてからの4年間、現在のモチベーション、ポッドキャストのセルフリメイク、ポッドキャん想文、飽き性について話しました。",
+      "itunes:duration": "01:01:15",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://researchat.fm/images/itunes_artwork_240.jpg",
+        "#text": null
+      }
+    },
     {
       "title": "159. Gordian Knot",
       "link": "https://researchat.fm/episode/159",
