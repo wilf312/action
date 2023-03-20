@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Tue, 14 Mar 2023 11:51:31 +0000",
+  "lastBuildDate": "Mon, 20 Mar 2023 11:00:17 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -65,6 +65,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第172回 今日は2人なのか？抜け漏れブレずに分かり易く！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1453",
+      "pubDate": "Mon, 20 Mar 2023 11:00:17 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1453"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1453#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1453",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet【関連記事】 ・河川カメラ338台が稼働停止、初期パスワード変更せずサイバー被害 | 日経クロステッ[...]",
+      "content:encoded": "<div id=\"tweetbutton1453\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1453&text=%E7%AC%AC172%E5%9B%9E%20%E4%BB%8A%E6%97%A5%E3%81%AF2%E4%BA%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E6%8A%9C%E3%81%91%E6%BC%8F%E3%82%8C%E3%83%96%E3%83%AC%E3%81%9A%E3%81%AB%E5%88%86%E3%81%8B%E3%82%8A%E6%98%93%E3%81%8F%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1453\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://xtech.nikkei.com/atcl/nxt/column/18/00142/01554/\">河川カメラ338台が稼働停止、初期パスワード変更せずサイバー被害 | 日経クロステック（xTECH）</a><br />\n・<a href=\"https://www.jpcert.or.jp/at/2022/at220006.html\">マルウェアEmotetの感染再拡大に関する注意喚起</a><br />\n・<a href=\"https://help.twitter.com/ja/managing-your-account/two-factor-authentication\">Twitterの2要素認証（2FA）を使用する方法</a><br />\n・<a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24880\">CVE-2023-24880 – Security Update Guide – Microsoft – Windows SmartScreen Security Feature Bypass Vulnerability</a><br />\n・<a href=\"https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass/\">Magniber ransomware actors used a variant of Microsoft SmartScreen bypass</a><br />\n・<a href=\"https://www.microsoft.com/en-us/security/blog/2023/03/17/killnet-and-affiliate-hacktivist-groups-targeting-healthcare-with-ddos-attacks/\">KillNet and affiliate hacktivist groups targeting healthcare with DDoS attacks – Microsoft Security Blog</a><br />\n・<a href=\"https://www.microsoft.com/en-us/security/blog/2023/03/13/dev-1101-enables-high-volume-aitm-campaigns-with-open-source-phishing-kit/\">DEV-1101 enables high-volume AiTM campaigns with open-source phishing kit – Microsoft Security Blog</a><br />\n・<a href=\"https://www.slideshare.net/nobuhirotsuji/ss-256631894\">スミッシング対策技術勉強会で辻がお話したときの資料</a><br />\n・<a href=\"https://www.youtube.com/watch?v=hMKf5mE3sdo\">サトシ（CV:松本梨香）- めざせポケモンマスター -with my friends- / THE FIRST TAKE – YouTube</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/hanadan.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/hanadan-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1457\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/hanadan.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/hanadan-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/hanadan-144x144.jpg 144w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>言葉探した結果「あかんやつ」。知っているものごとのカバレッジを知る。我慢してた。「はじまってます」が言いにくい。SMS認証のその後の行方。追加のアプリのハードル。実はチャプターあるんですよ。基本見る専用なので特にないんですよね。ランサムに使われていた気になる脆弱性。修正に漏れ。抜け漏れが発生することも考慮しておく必要。回避系はCVSS基本値低くなりがちなので注意。とにかく当てるだけではなく、どういった情報なのかを見るという癖を付けると感度が上がるかも。情報発信元の立場別に見てみるのもいいかも。づいてはなかった。回数とは。DoSと言っても色々なものが混ざっている。順番気になるなぁ。一括りにしていては足下すくわれるかもしれませんね。回線は大丈夫でもサーバが貧弱で落ちたみたいなこともありますよね。あとは攻撃対象になったときの事業へのインパクトも考慮しないとですね。勉強会でしゃべってきました。自分が話すことが一番勉強になるかも。なんでタイトルでわろとんねん！我々しか言ってないけれども。どんどん新しい言葉が出てくる。分かり易さと厳密性のバランス。たぶんアホじゃないんですけど賢くもないんですよね。</p>\n<p>【チャプター】<br />\n| いつもの雑談から                                                    | 00:00 |<br />\n| お便りのコーナー                                                    | 03:00 |<br />\n| (P) Windows SmartScreen のセキュリティ機能のバイパスの脆弱性 (CVE-2023-24880) | 14:47 |<br />\n| (N) Killnet によるヘルスケア業界への DDoS 攻撃の状況                         | 28:42 |<br />\n| (T) 勉強会で伝えたかったこと                                            | 44:02 |<br />\n| オススメのアレ                                                     | 63:01 |</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年03月18日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_230320_iutetawa.mp3",
+        "@length": 33213548,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet【関連記事】 ・河川カメラ338台が稼働停止、初期パスワード変更せずサイバー被害 | 日経クロステッ[...]",
+      "itunes:summary": "Tweet【関連記事】 ・河川カメラ338台が稼働停止、初期パスワード変更せずサイバー被害 | 日経クロステッ[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:08:59"
+    },
     {
       "title": "第171回 でかエモとカバー範囲のアレタイムズ！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1448",
@@ -334,12 +363,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1381"
       },
-      "comments": "https://www.tsujileaks.com/?p=1381#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1381",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【関連記事】 ・最近の無差別型サイバー攻撃の動向と対策（NICT） ・NOTICE｜サ[...]",
-      "content:encoded": "<div id=\"tweetbutton1381\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1381&text=%E7%AC%AC162%E5%9B%9E%20%E5%AE%A4%E9%95%B7%E3%81%AF%E3%83%8D%E3%82%AF%E9%95%B7%E3%81%A7%E3%83%8D%E3%82%AF%E9%95%B7%E3%81%AF%E5%AE%A4%E9%95%B7%E3%81%AA%E3%81%AE%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1381\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://www.soumu.go.jp/main_content/000854031.pdf\">最近の無差別型サイバー攻撃の動向と対策（NICT）</a><br />\n・<a href=\"https://notice.go.jp/\">NOTICE｜サイバー攻撃に悪用されるおそれのあるIoT機器の調査、注意喚起を行うプロジェクト</a><br />\n・<a href=\"https://www.nict.go.jp/cynex/\">サイバーセキュリティネクサス | NICT-情報通信研究機構</a><br />\n・<a href=\"https://www.amazon.co.jp/dp/B01JS86SNW/\">Amazon | フィリップス 鼻毛/耳毛カッター 本体丸洗い可 NT1152/10 | Philips(フィリップス) | 鼻・耳毛カッター 通販</a><br />\n・<a href=\"https://www2.nict.go.jp/employment/researcher/index.html\">研究職・研究技術職採用サイト｜情報通信研究機構（NICT）</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1382\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/Co-Nexus_D.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>1年長かった。クリスマスイブ収録。キリストが先なのかボーナスが先なのか。来年に繋がる抑揚のある1年でした。今回は特別回。ワールドカップ1周室長。まぁまぁお腹痛い。原因俵飯。4年目のプロジェクト。ようやくのHTTP(S)。ウェブカメラ的なものも注意が必要。Basic認証とDigest認証が対象。NOTICE由来の腹痛は減った。時限立法ですが今後は。認知度と透明性の大切さ。今後のスコープに期待しています。答えの言えないネク長クイズ。自給率ってどのくらい？そこで結節点ですよ。営業職の方とかいらっしゃるんですね。空気読んでない解析チーム。きちんと仕事してはる。「貪欲に」を応援してます。中向きの課題と外向きの課題。攻撃魔力世界一？おすすめのアレスペシャルエディション。あるところに潜むボスキャラ。楽しそうだとしてもおすすめかどうかは分からない。良いお年を。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2022年12月24日&nbsp;</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_221226_tawara.mp3",
         "@length": 31877287,
