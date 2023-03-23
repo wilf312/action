@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #66",
+      "description": "<p>20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで\n</p>",
+      "link": "https://anchor.fm/read-sre-again/episodes/SRE-66-e20v0f7",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "52ca3e7d-84ec-49a7-a155-faff23d96a6b"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 23 Mar 2023 03:09:10 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/67125159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F3fadeff5-63dc-0707-3811-689b10145f87.m4a",
+        "@length": 46412831,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #65",
       "description": "<p>19.3 仮想 IP アドレスでのロードバランシング まで</p>",
       "link": "https://anchor.fm/read-sre-again/episodes/SRE-65-e20h1ka",
