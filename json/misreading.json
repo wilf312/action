@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 21 Mar 2023 12:07:08 +0000",
+  "lastBuildDate": "Fri, 24 Mar 2023 12:35:06 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,44 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#110.5",
+      "link": "https://misreading.chat/2023/03/24/110-5/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Fri, 24 Mar 2023 12:35:06 +0000",
+      "category": [
+        "announcement",
+        "episodes"
+      ],
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=899"
+      },
+      "description": "最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/",
+      "content:encoded": "<p>最近 Reddit をはじめたよ、きてね、というお知らせです。<a href=\"https://www.reddit.com/r/MisreadingChat/\">https://www.reddit.com/r/MisreadingChat/</a></p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/03/announcement_20230321.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/03/announcement_20230321.mp3",
+        "@length": 2808576,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 234,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/",
+      "googleplay:description": "最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/",
+      "itunes:subtitle": "最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "110: Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems",
       "link": "https://misreading.chat/2023/03/21/110-perseus-a-fail-slow-detection-framework-for-cloud-storage-systems/",
