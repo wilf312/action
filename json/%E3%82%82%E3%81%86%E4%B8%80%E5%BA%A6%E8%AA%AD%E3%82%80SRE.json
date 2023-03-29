@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #67",
+      "description": "<p>20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-67-e218o83",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "3bbb4e5f-524e-49ab-8f9a-bf0fd1eb7f13"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 29 Mar 2023 03:00:01 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/67444419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-29%2Fb69db73f-5e21-fdce-dafb-cc90c4bed42e.m4a",
+        "@length": 42061804,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:00",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #66",
       "description": "<p>20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-66-e20v0f7",
