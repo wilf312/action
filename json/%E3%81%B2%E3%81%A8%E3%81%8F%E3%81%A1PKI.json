@@ -1,11 +1,11 @@
 {
   "title": "ひとくちPKI",
   "description": "PKIと雑談\n\n@EurekaBerry and @hitok_",
-  "link": "https://podcasters.spotify.com/pod/show/hitokuchipki",
+  "link": "https://anchor.fm/hitokuchipki",
   "image": {
     "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
     "title": "ひとくちPKI",
-    "link": "https://podcasters.spotify.com/pod/show/hitokuchipki"
+    "link": "https://anchor.fm/hitokuchipki"
   },
   "generator": "Anchor Podcasts",
   "atom:link": [
@@ -44,7 +44,7 @@
     {
       "title": "53: CA/B Forumに新しく加入するときの手続きの話",
       "description": "<p>ZT Browser が CA/B Forum の Server Cert WG に参加申請を出していて、Ballot が行われたけど否決されてしまった様子の話をしました。雑談では、手続きのためにヒューストンに行ったけど珍道中になってしまった話、学士の学位がない人は学位授与機構から学位をもらおう！という話をしました。</p>\n<ul>\n <li><a href=\"https://lists.cabforum.org/pipermail/servercert-wg/2023-January/003485.html\" rel=\"noreferrer noopener\" target=\"_blank\">[Servercert-wg] Discussion period begins: Ballot SC60: Membership of ZT Browser (cabforum.org)</a></li>\n <li><a href=\"https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html</a></li>\n  <li>単位積み上げ型の学士の学位授与制度(大学改革支援・学位授与機構)<br>\nhttps://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/</li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub",
+      "link": "https://anchor.fm/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub",
       "guid": {
         "@isPermaLink": false,
         "#text": "bd1acf23-6eff-4433-92db-98d062be36e8"
@@ -71,7 +71,7 @@
     {
       "title": "52: ISRGのAnual Reportの話(Let's Encryptとプライバシーとメモリセーフ移行)",
       "description": "<p>2022年12月に収録したものをやっと配信できました！Let's Encryptの運営元として知られるINTERNET SECURITY RESEARCH GROUP(ISRG)の2022年のアニュアルレポートについて話しました。Let's Encryptについはもちろん、データ収集時のプライバシーの尊重を勧める「Divvi Up」、インターネットの基幹システムをメモリセーフティなコードにしていこうというイニシアチブである「Prossimo」について紹介されていました。雑談では焼き栗にしたらうまくいった話、手打ちうどん・そばの話をしました。</p>\n<ul>\n <li>Let’s build a better Internet<br>\n<a href=\"https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf</a></li>\n <li>Divvi Up<br>\n<a href=\"https://divviup.org/\" rel=\"noreferrer noopener\" target=\"_blank\">https://divviup.org/</a></li>\n  <li>Prossimo<br>\n<a href=\"https://www.memorysafety.org/about/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.memorysafety.org/about/</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs",
+      "link": "https://anchor.fm/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs",
       "guid": {
         "@isPermaLink": false,
         "#text": "89493af8-aed2-489c-ae2f-55babff5b49c"
@@ -98,7 +98,7 @@
     {
       "title": "51: Twitter.comのドメイン登録と証明書有効期限切れが心配されていた時の話",
       "description": "<p>2022年11月に収録した回をようやく配信できました！お待たせいたしました。</p>\n<p>Twitter.comの証明書の有効期限が切れそうでハラハラした話、ブラジルの国が運営しているWebPKIのCA(SERPRO's CA)を新しくルートプログラムに登録したいという議題が6週間のオープンディスカッション期間に入っていた話(のちに2023年3月まで議論がサスペンドされました)、PKI関連の書籍が新しく出ていた話をしました。雑談でははてしない物語、揺り戻しの少ない休暇の取り方について話しました。</p>\n<ul>\n <li>Twitter.com</li>\n <li>Public Discussion of SERPRO's CA Inclusion Request<br>\n<a href=\"https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ\" rel=\"noreferrer noopener\" target=\"_blank\">https://groups.google.com/a/ccadb.org/g/public/c/Mux855BsRg4/m/MhxJXipVAwAJ</a></li>\n  <li>ネットワークセキュリティ詳説 PKI/TLSプロトコル<br>\n<a href=\"https://www.amazon.co.jp/dp/4339029297\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.amazon.co.jp/dp/4339029297</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/51-Twitter-com-e1v9uc7",
+      "link": "https://anchor.fm/hitokuchipki/episodes/51-Twitter-com-e1v9uc7",
       "guid": {
         "@isPermaLink": false,
         "#text": "61f4a7a5-9a95-40aa-bee4-ae92be59134d"
@@ -125,7 +125,7 @@
     {
       "title": "50: Chrome Root Programがついにローンチされた話(Chrome105から)",
       "description": "<p>2022年9月下旬(収録当時)、ついにChrome Root Programがローンチされた話、ルートプログラムだけでなく証明書検証のプロセス自体もChrome Cert Verifierという独自のものを使うようになる話、証明書のパス構築と証明書検証において歴史的な変化となりそうですよね…という話をしています。雑談では、技術書典13の本にも登場したゆりかさんのピーマンの話のその後、万願寺とうがらしはテキサスのとうがらし(正確にはニューメキシコで採れてテキサスでも流通しているHatch Chile)にそっくり、お気に入りの梨(新甘泉・荒尾梨)などの話をしました。※ひとけーがモバイル環境で収録したためひとけーだけ音がよくないです、すみません！</p>\n<ul>\n <li>Announcing the Launch of the Chrome Root Program<br>\n<a href=\"https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html</a></li>\n <li>CA/B Forumで紹介された資料<br>\n<a href=\"https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view\" rel=\"noreferrer noopener\" target=\"_blank\">https://drive.google.com/file/d/1BksDjW0yCcgWiEZ5A5R_a_GHdUYPnCVc/view</a></li>\n  <li>Frequently Asked Questions<br>\n<a href=\"https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md\" rel=\"noreferrer noopener\" target=\"_blank\">https://chromium.googlesource.com/chromium/src/+/main/net/data/ssl/chrome_root_store/faq.md</a></li>\n  <li>Adam Langleyさんのブログ ImperialViolet<br>\n<a href=\"https://www.imperialviolet.org/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.imperialviolet.org/</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/50-Chrome-Root-ProgramChrome105-e1rqpi7",
+      "link": "https://anchor.fm/hitokuchipki/episodes/50-Chrome-Root-ProgramChrome105-e1rqpi7",
       "guid": {
         "@isPermaLink": false,
         "#text": "603fb7ae-ce7d-423d-b71d-eb59a4909072"
@@ -150,7 +150,7 @@
     {
       "title": "49: HTTPSのRFCが更新されてCN検証が禁止になった話",
       "description": "<p>ご無沙汰しております！休暇中の設備で録音したためひとけーだけ音がよくないです、すみません。IIJ Engineers Blogで2022年6月に発行されたRFC9110(HTTP Semantics)でHTTPSでの証明書検証においてサーバのアイデンティティの確認にCommon Name(CN)項目は使えません(CN-ID MUST NOT be used by clients)と決められた話をしています。すでにChromeでは2017年くらいからSubject Alt Name(SAN)を使うような動作になっています。</p>\n<p>雑談ではゆりかさんが素数ゼミの本を読んだ話、ひとけーが家の窓にできた蜂の巣を観察している話をしました。</p>\n<ul>\n <li>HTTPS 証明書の Common Name の検証がしれっと禁止されていた件について<br>\n<a href=\"https://eng-blog.iij.ad.jp/archives/14820\" rel=\"noreferrer noopener\" target=\"_blank\">https://eng-blog.iij.ad.jp/archives/14820</a></li>\n <li>素数ゼミの謎<br>\n<a href=\"https://www.amazon.co.jp/dp/B0855L5QZ9\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.amazon.co.jp/dp/B0855L5QZ9</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/49-HTTPSRFCCN-e1r4r2b",
+      "link": "https://anchor.fm/hitokuchipki/episodes/49-HTTPSRFCCN-e1r4r2b",
       "guid": {
         "@isPermaLink": false,
         "#text": "42da80e9-12c6-4942-a78c-6d1a0fc45583"
@@ -177,7 +177,7 @@
     {
       "title": "48: BIMIの利用拡大とLet's EncryptがCRL発行を始める話、技術書典13に本を出した話",
       "description": "BIMIの利用が広がっているようです。Yahoo! Japanが送信メールでBIMIに対応したとのニュースがありました。Tech blogにはBIMIの説明やトラブルシュートの様子が記載されており参考になりました。またLet's Encryptではいくつかのルートプログラムの要請により今まで発行していなかったCRLの発行を始めるとのこと。WebPKIの失効検証が大きく変化していますねという話をしました。\r\n\r\nまた、技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました。\r\n技術書典13 オンラインマーケット開催期間の2022/09/10～2022/09/25に、以下のURLから無料で入手できます。PKIの話と雑談という構成でかなりポッドキャストを再現できたと思います。頻出単語の用語集や図を使った脆弱性の解説、園芸や音楽の話を書きました。ぜひ見てみてください。今回の雑談でちょっと紹介しています。\r\n「ひとくちPKI Journal 1」\r\nhttps://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi\r\n\r\n\r\nYahoo! JAPAN がBIMIを導入\r\n\t• フィッシングメール対策として、Yahoo! JAPANから配信するメールにアイコンが表示される規格「BIMI」を導入 - ニュース - ヤフー株式会社\r\n\t• Yahoo! JAPAN がメールセキュリティ「BIMI」を導入するまでのお話 - Yahoo! JAPAN Tech Blog\r\n\r\nA New Life for Certificate Revocation Lists\r\n\t• https://letsencrypt.org/2022/09/07/new-life-for-crls.html\r\n\r\n技術書典13でひとくちPKIの初めての本「ひとくちPKI Journal 1」を発行しました！\r\n\t• https://techbookfest.org/product/igGG2Qv12G2Hm98aWQAKxi",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c",
+      "link": "https://anchor.fm/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c",
       "guid": {
         "@isPermaLink": false,
         "#text": "84848ac5-600c-42b0-9ecf-ecba376adf67"
@@ -204,7 +204,7 @@
     {
       "title": "47: ChromeでEV証明書の失効検証もOCSPで確認しなくなる話",
       "description": "OCSPが持つプライバシーへの懸念を理由の一つとして、Chrome106からはDVやOV証明書がすでにそうなっているようにEV証明書でもOSCPでの証明書失効検証を行わなくなるのとのこと。Webサーバー管理者から見るとOCSP staplingをやったほうがいいケースがありそうという話をしました。\r\nほか、OCSPのRFCって史上最悪級に読みにくいらしい、湖でカメを助けた、夏野菜の育成に失敗したことなどを話しました。\r\n\r\n• Revocation checking for EV server certificates in Chrome (google.com)\r\nhttps://groups.google.com/a/mozilla.org/g/dev-security-policy/c/S6A14e_X-T0/m/T4WxWgajAAAJ\r\n\r\n• 自分の行っているセキュリティ関連の情報収集 - ドキュメントを見たほうが早い (hatenablog.com)\r\nhttps://benevolent0505.hatenablog.com/entry/2022/08/29/170000\r\nひとくちPKIをご紹介いただきましてありがとうございます！",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve",
+      "link": "https://anchor.fm/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve",
       "guid": {
         "@isPermaLink": false,
         "#text": "69d906dc-ab0d-4284-bde8-1ff84c002a4f"
@@ -231,7 +231,7 @@
     {
       "title": "46: PKI成熟度モデルというものが議論されています",
       "description": "<p>PKIコンソーシアムにPKI Maturity Model Working Groupというものができ、PKIを運用している組織の成熟度を評価するモデルを整えようという活動が行われているようです。使いやすいモデルを使って自分たちの組織の成熟度評価ができるようになるといいですねという話をしています。</p>\n<p>雑談では日本のナスがおいしいアメリカの大きい唐辛子がおいしいなど夏野菜の話、フジロックの話からコロナ時代がもたらした音楽ライブの楽しみ方の変化などについて話しました。</p>\n<ul>\n <li>What is the PKI Maturity Model (PKIMM) and how can you contribute?</li>\n <li><a href=\"https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/\" rel=\"noreferrer noopener\" target=\"_blank\">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/46-PKI-e1ngal4",
+      "link": "https://anchor.fm/hitokuchipki/episodes/46-PKI-e1ngal4",
       "guid": {
         "@isPermaLink": false,
         "#text": "eb375990-4e63-4ec1-bde5-7fbeeadae8c4"
@@ -258,7 +258,7 @@
     {
       "title": "45: CTを使って脆弱なRSA鍵を調べる話と、夏と青春18きっぷの話",
       "description": "<p>Certificate Transparencyのデータを使って大量の証明書からRSA鍵を取り出して調べたら因数が重複しているものが見つかったという研究について話しました。2022年5月の時点で1.59億個の鍵を調査することができ、問題があった鍵は8個見つかったのだとか。案外少ないなと思ったし、以前より良くなっている気がする…というような話をしています。</p>\n<p>雑談では夏は暑い、JRの青春18きっぷで東京から博多まで行くときのお気に入りのルーティーン、九州列車旅の話をしました。</p>\n<ul>\n <li>Finding shared RSA factors in the Certificate Transparency logs<br>\n<a href=\"https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3001128/Masters_thesis__for_University_of_Bergen.pdf</a></li>\n <li>青春18きっぷ<br>\n<a href=\"https://railway.jr-central.co.jp/tickets/youth18-ticket/\" rel=\"noreferrer noopener\" target=\"_blank\">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/45-CTRSA18-e1n5d7d",
+      "link": "https://anchor.fm/hitokuchipki/episodes/45-CTRSA18-e1n5d7d",
       "guid": {
         "@isPermaLink": false,
         "#text": "d5b5bd11-eb99-4989-a486-10c8aa6f45d7"
@@ -285,7 +285,7 @@
     {
       "title": "44: AppleがBIMIのサポートを始める話と、夏の活動限界、古墳の話など",
       "description": "IPhoneとMacOSのメールクライアントでBIMIのサポートが始まるようです。また実際BIMI対応するにあたってなかなか大変だったお話がJANOG49であったようでした！\r\n雑談では塩味の食べ物、バイク、夏の活動限界、歴史勉強したけど覚えてない、大阪の古墳群世界遺産になったけどそんな雰囲気全然ないなどの話をしました。\r\n\r\n• VMC Adoption is Growing with Apple Support | DigiCert : iPhones (iOS 16) (MacOS Ventura) This fall\r\n\t• https://www.digicert.com/blog/vmc-adoption-growing-with-apple-support\r\n• Email Client Market Share and Popularity – Litmus\r\n\t• https://www.litmus.com/email-client-market-share/\r\n• これから始めるBIMI ～メールにロゴを表示させるまでの長い道のり(継続中) 平野 善隆さん(株式会社クオリティア)\r\n\t• https://www.janog.gr.jp/meeting/janog49/wp-content/uploads/2021/12/bimi-pre_hirano_20220126.pdf",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/44-AppleBIMI-e1mku0h",
+      "link": "https://anchor.fm/hitokuchipki/episodes/44-AppleBIMI-e1mku0h",
       "guid": {
         "@isPermaLink": false,
         "#text": "0bb1466a-b4ab-4e12-907e-649dd1ec4938"
@@ -312,7 +312,7 @@
     {
       "title": "43: TLS接続エラーのトラブルシュートが大変な話（えっAIA見てないの？編）",
       "description": "<p>Sysadminの立場からTLS接続エラーのトラブルシュートをして面倒だった話をChris Siebenmannさんがブログに書かれており、結果的にWebサーバが中間CA証明書を送っていなかったという結末だったのですが、その話の中でFirefoxは中間CA証明書をプリロードしていたり、ChromeやEdgeは中間CA証明書をキャッシュしたりするんだって～えっ証明書の中に入っている機関情報アクセス(AIA)は見られないの！？知らなかった～！というような話をしました。</p>\n<p>雑談ではずっと車の話をしています。旅先でCivic Del Solという珍しい車を見たがRecognizeできず焦った(経験だけで足りるということはなく、体系的な学習が必要なのだ)話やそのシビックデルソルの屋根の開き方がやばい話(絶対映像見てほしい)、昔乗ってた古い車の話、次買う車ガソリン車かな～というような話などをしています。</p>\n<p>そして話の中でS600と言っているのはS660が正しく、MRSと言っているのはMR2が正しく、キャデラックエスカレードの全長が4mくらいと言っているのは5.4mが正しいです！大変失礼いたしました。</p>\n<ul>\n <li>Missing TLS intermediate certificates can create mysterious browser problems<br>\n<a href=\"https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell\" rel=\"noreferrer noopener\" target=\"_blank\">https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell<br>\n</a>URLおもしろい。依存関係のトラブルをDLL HELLと言うのと似てますね。</li>\n <li>Preloading Intermediate CA Certificates into Firefox<br>\n<a href=\"https://blog.mozilla.org/security/2020/11/13/preloading-intermediate-ca-certificates-into-firefox/\" rel=\"noreferrer noopener\" target=\"_blank\">https://blog.mozilla.org/security/2020/11/13/preloading-intermediate-ca-certificates-into-firefox/</a></li>\n <li>Civic Del Solのオープン屋根の開き方がやばい<br>\n<a href=\"https://youtu.be/SSt5y-WUEiI\" rel=\"noreferrer noopener\" target=\"_blank\">CR-Xデルソル　電動オープン</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/43-TLSAIA-e1lc4d5",
+      "link": "https://anchor.fm/hitokuchipki/episodes/43-TLSAIA-e1lc4d5",
       "guid": {
         "@isPermaLink": false,
         "#text": "37efdb7d-6ac6-47e9-a320-4aa27f34a65e"
@@ -339,7 +339,7 @@
     {
       "title": "42: GoogleのCTログサーバのリタイアで一部のTLS接続がエラーになるケースがあった話とずっと乗り物の話",
       "description": "先日、計画作業として実施されたはずのGoogleのCTログサーバのリタイアの影響で、そのCTログサーバを参照するサーバ証明書がまだ生きていてCTログの検証が行えずTLS接続がエラーになる事象が起きていました。証明書にはCTログサーバ参照先が2つ以上書かれているはずですが、もうひとつのほうも落ちており、結局のところGoogle頼みだったんだね…というような話をしています。\r\n\r\n雑談ではずっと乗り物(CB400SFのサンセット、トップガンマーベリック見た、Ninja H2かっこいい、SOAのキリトのバイク納得いかない、高速鉄道の世界最速のレギュレーション納得いかないなど)の話をしました。\r\n\r\n• Google の CTログの撤去が、CTエラーになっていた件　\r\n\t• Temporary rollback of recent Google log retirements\r\n\t\t• https://groups.google.com/a/chromium.org/g/ct-policy/c/P3_hj9QmsLc/m/S9xohdAHAQAJ?pli=1\r\n\t• Turning down non temporal Google CT Logs\r\n\t\t• https://groups.google.com/a/chromium.org/g/ct-policy/c/8mZ2ljdbQJo",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/42-GoogleCTTLS-e1kenmq",
+      "link": "https://anchor.fm/hitokuchipki/episodes/42-GoogleCTTLS-e1kenmq",
       "guid": {
         "@isPermaLink": false,
         "#text": "ae67cbee-ab72-447e-891e-50010eb7eb10"
@@ -366,7 +366,7 @@
     {
       "title": "41: Chrome Root Programがアナウンスされました",
       "description": "<p>以前からやるよと言われていたChrome Root Programのポリシーが公開されました。CA証明書を5年ごとにリプレースしてほしいというところが目玉なのかな、といった話をしました。雑談では枝豆、マスターキートンの電子版の配信が始まった、推しって単純に好きっていう状態とは違うのか？それともほとんど同じなのか？とにかく飛行機乗りたいなどの話をしました。</p>\n<ul>\n <li>Chrome Root Program (chromium.org)<br>\n<a href=\"https://www.chromium.org/Home/chromium-security/root-ca-policy/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.chromium.org/Home/chromium-security/root-ca-policy/<br>\n</a><a href=\"https://twitter.com/estark37/status/1533923475491958784\" rel=\"noreferrer noopener\" target=\"_blank\">https://twitter.com/estark37/status/1533923475491958784</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/41-Chrome-Root-Program-e1kcgn2",
+      "link": "https://anchor.fm/hitokuchipki/episodes/41-Chrome-Root-Program-e1kcgn2",
       "guid": {
         "@isPermaLink": false,
         "#text": "c999c955-c58e-4fe6-ad39-d715d05e6cae"
@@ -393,7 +393,7 @@
     {
       "title": "40: Black hat USAでRPKIについてのセッションがあるみたい",
       "description": "Black hat USAでRPKIについてのセッションがあるみたいです。RPKIについてはJPNICの方が説明してくださっているワークショップのビデオが公開されています。あとはPKI用語についての小話、CD買った話、ヘッドホン買った話などをしました。\r\n\r\n ○ Black hat USA 2022 - Stalloris: RPKI Downgrade Attack\r\n\t▪ https://www.blackhat.com/us-22/briefings/schedule/index.html#stalloris-rpki-downgrade-attack-27348\r\n○ JPNIC RPKIワークショップ\r\n\t▪ RPKIワークショップ\r\n\t▪ \r\n\t\r\n\t\r\n○ Sectigoのポッドキャスト：PKI 用語の話\r\n\t▪ Root Causes 218: PKI Nomenclature Oddities | Sectigo® Official\r\n○ ヘッドホン買った\r\n\t▪ SONY ステレオヘッドホン MDR-7506 https://www.amazon.co.jp/dp/B000AJIF4E",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/40-Black-hat-USARPKI-e1k45n6",
+      "link": "https://anchor.fm/hitokuchipki/episodes/40-Black-hat-USARPKI-e1k45n6",
       "guid": {
         "@isPermaLink": false,
         "#text": "c1a68719-d648-4103-8a06-bc5ac453a7ff"
@@ -420,7 +420,7 @@
     {
       "title": "39: Mozillaがサーバ証明書のCRLは失効理由入りで出してほしいって、あと私たちなまってますよねの話",
       "description": "<p>Mozillaのルート証明書ストアポリシーが、サーバ証明書のCRLにはRFC 5280で決められている失効理由を表すReason Codeを入れることを求める内容に変更された話と、そのほか失効検証にまつわるあれこれを話しました。雑談では、私たちなまってますよね、技術書典で本を出すつもり、記念のマグカップを作ろうの話をしました。</p>\n<ul>\n <li>Revocation Reason Codes for TLS Server Certificates - Mozilla Security Blog<br>\n<a href=\"https://blog.mozilla.org/security/2022/05/16/revocation-reason-codes-for-tls-server-certificates/\" rel=\"noreferrer noopener\" target=\"_blank\">https://blog.mozilla.org/security/2022/05/16/revocation-reason-codes-for-tls-server-certificates/</a></li>\n <li>MozillaのRevocation についてのWiki<br>\n<a href=\"https://wiki.mozilla.org/CA/Revocation_Checking_in_Firefox#Long-range_Vision\" rel=\"noreferrer noopener\" target=\"_blank\">CA/Revocation Checking in Firefox - MozillaWiki</a></li>\n  <li>失効検証のFailure Rate<br>\n<a href=\"https://telemetry.mozilla.org/new-pipeline/evo.html#!aggregates=0%2520bucket%2520percentage&cumulative=0&end_date=2019-12-02&include_spill=0&keys=!__none__!__none__&max_channel_version=beta%252F71&measure=CERT_VALIDATION_HTTP_REQUEST_RESULT&min_channel_version=beta%252F50&processType=*&product=Firefox&sanitize=1&sort_keys=submissions&start_date=2019-10-21&trim=1&use_submission_date=0\" rel=\"noreferrer noopener\" target=\"_blank\">https://telemetry.mozilla.org/new-pipeline/evo.html#!aggregates=0%2520bucket%2520percentage&cumulative=0&end_date=2019-12-02&include_spill=0&keys=!__none__!__none__&max_channel_version=beta%252F71&measure=CERT_VALIDATION_HTTP_REQUEST_RESULT&min_channel_version=beta%252F50&processType=*&product=Firefox&sanitize=1&sort_keys=submissions&start_date=2019-10-21&trim=1&use_submission_date=0</a></li>\n  <li>Mozilla CRLite<br>\n<a href=\"https://blog.mozilla.org/security/2020/01/09/crlite-part-1-all-web-pki-revocations-compressed/\" rel=\"noreferrer noopener\" target=\"_blank\">Introducing CRLite: All of the Web PKI’s revocations, compressed - Mozilla Security Blog</a></li>\n  <li>藤井風さん</li>\n  <li>さよならべいべ： <a href=\"https://youtu.be/JB_bLPp3wCs\" rel=\"noreferrer noopener\" target=\"_blank\">Fujii Kaze - SAYONARA Baby at Okayama Civic Hall</a></li>\n  <li>何なんw： <a href=\"https://youtu.be/fAuh0gBjjDI\" rel=\"noreferrer noopener\" target=\"_blank\">藤井 風(Fujii Kaze) - “何なんw”(Nan-Nan) at 日本武道館(Nippon Budokan)</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/39-MozillaCRL-e1jp51o",
+      "link": "https://anchor.fm/hitokuchipki/episodes/39-MozillaCRL-e1jp51o",
       "guid": {
         "@isPermaLink": false,
         "#text": "af64706b-bb83-4bf9-bbbe-87c0138b1adb"
@@ -445,7 +445,7 @@
     {
       "title": "38: Alexa.comのリタイアとCTを監視して攻撃してくる手法の話",
       "description": "<p>Alexa Top Millionを提供していたalexa.comが2022/5/1にリタイアした話、CTを監視して作りたてのWordPressを狙って攻撃してくる手法があるみたいという話をしました。雑談ではピザの話（続き）、家庭菜園何植える？、期待に応えるための接待サボテン、テキサスは2番目(アラスカの次)に大きくて日本の2倍、デラウェア州、本州一周6000kmの旅の話などをしました。</p>\n<ul>\n <li>Alexa.com</li>\n <li>Mirror, Mirror, on the Wall, Who’s the Fairest (website) of Them all?<br>\n<a href=\"https://www.domaintools.com/resources/blog/mirror-mirror-on-the-wall-whos-the-fairest-website-of-them-all\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.domaintools.com/resources/blog/mirror-mirror-on-the-wall-whos-the-fairest-website-of-them-all</a></li>\n  <li>CTからの攻撃について@matsuuさんのツイートスレッド<br>\n<a href=\"https://twitter.com/matsuu/status/1522751803242455043?s=20&t=yRyJ5_doufEWESpXecld9Q\" rel=\"noreferrer noopener\" target=\"_blank\">https://twitter.com/matsuu/status/1522751803242455043?s=20&t=yRyJ5_doufEWESpXecld9Q</a></li>\n  <li>WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued<br>\n<a href=\"https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued\" rel=\"noreferrer noopener\" target=\"_blank\">https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/38-Alexa-comCT-e1ij1fk",
+      "link": "https://anchor.fm/hitokuchipki/episodes/38-Alexa-comCT-e1ij1fk",
       "guid": {
         "@isPermaLink": false,
         "#text": "b029f90f-616f-4265-812a-631a6d412422"
@@ -472,7 +472,7 @@
     {
       "title": "37: SHA1のSunsetの話",
       "description": "<p>SHA1のリタイアが進んでいます。2022/6/1からはOCSPレスポンスの署名にSHA1を利用できなくなる話、CABFのS/MIME WGでは証明書の項目を詰める議論がされてるみたいという話をしました。雑談では「令和の時代に○○を見るとは思わなかった～」を英語で表現する方法、カフェオレ作るとき氷・牛乳・コーヒーどの順番で入れる？の話などをしました。</p>\n<ul>\n <li>Sunset for SHA1<br>\n<a href=\"https://cabforum.org/2022/01/26/ballot-sc53-sunset-for-sha-1-ocsp-signing/\" rel=\"noreferrer noopener\" target=\"_blank\">Ballot SC53: Sunset for SHA-1 OCSP Signing | CAB Forum</a></li>\n</ul>\n<p><br></p>\n<ul>\n <li>CABF S/MIME WG&nbsp; Meeting Minutes<br>\n<a href=\"https://cabforum.org/2022/04/13/2022-04-13-minutes-of-the-s-mime-certificate-working-group/\" rel=\"noreferrer noopener\" target=\"_blank\">https://cabforum.org/2022/04/13/2022-04-13-minutes-of-the-s-mime-certificate-working-group/</a></li>\n</ul>\n<p><a href=\"https://cabforum.org/2022/03/30/2022-03-30-minutes-of-the-s-mime-certificate-working-group/\" rel=\"noreferrer noopener\" target=\"_blank\">https://cabforum.org/2022/03/30/2022-03-30-minutes-of-the-s-mime-certificate-working-group/</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/37-SHA1Sunset-e1i5be3",
+      "link": "https://anchor.fm/hitokuchipki/episodes/37-SHA1Sunset-e1i5be3",
       "guid": {
         "@isPermaLink": false,
         "#text": "4aaf100c-6e97-4f26-b50e-56e467bb3997"
@@ -499,7 +499,7 @@
     {
       "title": "36: EUの適格Webサイト証明書導入とそれにまつわる懸念の話",
       "description": "<p>EUで適格Webサイト証明書というものの導入が議論されており、有用性や適格証明書を発行する認証局の認定を巡ってラウザベンダーからはレターが出されるなど懸念が表明されている状況らしい…という話をしました。雑談パートでは庭に咲いた花、テキサスの夏、日本のコンビニ、アメリカのお菓子の話をしました。</p>\n<p>適格Webサイト証明書 Qualified Website Authentication Certificates (QWACs)</p>\n<ul>\n <li>参考サイト</li>\n <li><a href=\"https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers\" rel=\"noreferrer noopener\" target=\"_blank\">EU plans to mandate less secure certificates in browsers | Bulletproof TLS Newsletter | Feisty Duck</a></li>\n  <li><a href=\"https://scotthelme.co.uk/looks-like-a-duck-swims-like-a-duck-qwacs-like-a-duck-probably-an-ev-certifiacate/\" rel=\"noreferrer noopener\" target=\"_blank\">If it looks like a duck, swims like a duck, and QWACs like a duck, then it's probably an EV Certificate (scotthelme.co.uk)</a></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Qualified_website_authentication_certificate\" rel=\"noreferrer noopener\" target=\"_blank\">Qualified website authentication certificate - Wikipedia</a></li>\n  <li><a href=\"https://blog.mozilla.org/en/security/mozilla-eff-cybersecurity-experts-publish-letter-on-dangers-of-article-452-eidas-regulation/\" rel=\"noreferrer noopener\" target=\"_blank\">Mozilla and the EFF publish letter about the danger of Article 45.2</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/36-EUWeb-e1hki1e",
+      "link": "https://anchor.fm/hitokuchipki/episodes/36-EUWeb-e1hki1e",
       "guid": {
         "@isPermaLink": false,
         "#text": "4651d052-0afa-4f6e-8c72-e677993dd4b8"
@@ -526,7 +526,7 @@
     {
       "title": "35: 予備の証明書を発行しておく話、S/MIME証明書を個人で取るのが難しい話、土いじりの話",
       "description": "<p>Cloudflareでは何らかの理由で現在利用中の鍵や証明書が使えなくなった場合に備えて、予備の鍵と証明書を発行しておく取り組みを始めるらしいという話、個人でS/MIME証明書を取得するには苦難が伴う話、ベジフル大百科というポッドキャストが面白い話、雑草絶対抜く器具や虫絶対殺すやつの話をしました。</p>\n<ul>\n <li>Cloudflare<br>\n<a href=\"https://blog.cloudflare.com/introducing-backup-certificates/\" rel=\"noreferrer noopener\" target=\"_blank\">Introducing: Backup Certificates (cloudflare.com)</a></li>\n <li>Ryan HurstさんのS/MIMEについてのツイート<br>\n<a href=\"https://twitter.com/rmhrisk/status/1501635511097577472\" rel=\"noreferrer noopener\" target=\"_blank\">https://twitter.com/rmhrisk/status/1501635511097577472</a></li>\n  <li>雑草絶対抜くやつ<br>\n<a href=\"https://www.gizmodo.jp/2022/01/248663-machi-ya-skidger-start.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.gizmodo.jp/2022/01/248663-machi-ya-skidger-start.html</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/35-SMIME-e1haj37",
+      "link": "https://anchor.fm/hitokuchipki/episodes/35-SMIME-e1haj37",
       "guid": {
         "@isPermaLink": false,
         "#text": "dfdb1016-ca04-40d4-859a-350a8684d4de"
@@ -553,7 +553,7 @@
     {
       "title": "34: Amazon.co.jpと楽天がBIMI対応した話",
       "description": "<p>Amazon.co.jpと楽天が送信するメールにBIMIでブランドロゴが表示される</p>\n<p>ようになってるという話と、ひとくちPKIが1周年を迎えましたという話をしました。</p>\n<ul>\n <li><a href=\"https://corp.rakuten.co.jp/security/anti-fraud/\" rel=\"noreferrer noopener\" target=\"_blank\">楽天サービスに対する不正対策-なりすまし・フィッシングメール対策- (rakuten.co.jp)</a></li>\n <li><a href=\"https://bimigroup.org/bimi-generator/\" rel=\"noreferrer noopener\" target=\"_blank\">BIMI Inspector - BIMI Group</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/34-Amazon-co-jpBIMI-e1fbhf0",
+      "link": "https://anchor.fm/hitokuchipki/episodes/34-Amazon-co-jpBIMI-e1fbhf0",
       "guid": {
         "@isPermaLink": false,
         "#text": "8924f574-76f3-4b11-afc4-91cadf0bfcf6"
@@ -580,7 +580,7 @@
     {
       "title": "33: HPKP廃止の話、WebPKI(EV,OV)でのOUフィールド廃止の話と、冬眠とアニメ令和リファインの話",
       "description": "<ul>\n <li>HTTP Public Key pinning(HPKP)廃止のタイムラインにつて<br>\n<a href=\"https://chromestatus.com/feature/5903385005916160#details\" rel=\"noreferrer noopener\" target=\"_blank\">Remove HTTP-Based Public Key Pinning - Chrome Platform Status (chromestatus.com)<br>\n</a><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/he9tr7p3rZ8/m/eNMwKPmUBAAJ\" rel=\"noreferrer noopener\" target=\"_blank\">https://groups.google.com/a/chromium.org/g/blink-dev/c/he9tr7p3rZ8/m/eNMwKPmUBAAJ <br>\n</a>> Finally, remove support for built-in PKP (“static pins”) at a point in the future when Chrome requires Certificate Transparency for all publicly-trusted certificates (not just newly-issued publicly-trusted certificates). (We don’t yet know when this will be.) <br>\n→Preloaded(Static/Built-in) Public Key pinnning は今も廃止されていない？<br>\n67で廃止予定だった(2017年10月に発表、2018年5月に安定版配信)が開発者コンソールにメッセージが出るようになり、72(2019年1月)で完全に廃止になったように見られる<br>\n<a href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=779166\" rel=\"noreferrer noopener\" target=\"_blank\">779166 - Deprecate And Remove header-based HTTP Public Key Pinning (HPKP) - chromium</a></li>\n <li>OUフィールドが廃止される話<br>\n<a href=\"https://cabforum.org/2021/06/30/ballot-sc47v2-sunset-subjectorganizationalunitname/\" rel=\"noreferrer noopener\" target=\"_blank\">Ballot SC47v2: Sunset subject:organizationalUnitName | CAB Forum<br>\n</a><a href=\"https://sectigo.com/resource-library/oufield\" rel=\"noreferrer noopener\" target=\"_blank\">Due to New Rule, OU Field to Be Deprecated in Sectigo Issued Certificates Starting July 1st 2022 | Sectigo® Official</a></li>\n <li>アニメの令和リファイン<br>\nダイの大冒険狂おしいほどいい<br>\n<a href=\"https://dq-dai.com/\" rel=\"noreferrer noopener\" target=\"_blank\">https://dq-dai.com/<br>\n</a>うる星やつら楽しみ<br>\n<a href=\"https://uy-allstars.com/\" rel=\"noreferrer noopener\" target=\"_blank\">https://uy-allstars.com/</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/33-HPKPWebPKIEV-OVOU-e1ebnaf",
+      "link": "https://anchor.fm/hitokuchipki/episodes/33-HPKPWebPKIEV-OVOU-e1ebnaf",
       "guid": {
         "@isPermaLink": false,
         "#text": "703031eb-70c1-4fc1-842e-68765da236df"
@@ -607,7 +607,7 @@
     {
       "title": "32: HTTP Public Key pinnning、OCSP Staplingの話とお正月の話",
       "description": "<p>HTTP Public Key pinnning、OCSP Staplingの話、WebPKIの証明書のブラウザでの失効検証の話と、おもちとうどんの話、御座候の話、たこあげの話をしました。</p>\n<ul>\n <li>HTTP Public Key Pinning<br>\n<a href=\"https://caniuse.com/?search=HPKP\" rel=\"noreferrer noopener\" target=\"_blank\">\"HPKP\" | Can I use... Support tables for HTML5, CSS3, etc<br>\n</a><a href=\"https://chromestatus.com/feature/5903385005916160\" rel=\"noreferrer noopener\" target=\"_blank\">Remove HTTP-Based Public Key Pinning - Chrome Platform Status (chromestatus.com)</a>→話の中でぼんやりしたことを申し上げておりましたが、HPKPはChromeでは2019年1月に、Firefoxでは2020年1月にRemoveされていました。<br>\n<a href=\"http://blog.livedoor.jp/k_urushima/archives/1811745.html\" rel=\"noreferrer noopener\" target=\"_blank\">自堕落な技術者の日記 : HPKP(HTTP Public Key Pinning)公開鍵ピニングについて考える - livedoor Blog（ブログ）</a></li>\n <li>OCSP Stapling の話<br>\n<a href=\"https://phabricator.services.mozilla.com/D133706\" rel=\"noreferrer noopener\" target=\"_blank\">⚙ D133706 Bug 966856 - mozilla::pkix: support SHA-2 hashes in CertIDs in OCSP responses r?jschanck!,djackson!<br>\n</a><a href=\"https://forest.watch.impress.co.jp/docs/news/1374991.html\" rel=\"noreferrer noopener\" target=\"_blank\">MicrosoftのWebサイトを開けない不具合を修正した「Firefox 95.0.1」が公開 - 窓の杜 (impress.co.jp)<br>\n</a></li>\n  <li>Bullet proof TLS and PKI v2<br>\n<a href=\"https://www.feistyduck.com/books/bulletproof-tls-and-pki/\" rel=\"noreferrer noopener\" target=\"_blank\">Bulletproof SSL and TLS | Feisty Duck</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/32-HTTP-Public-Key-pinnningOCSP-Stapling-e1d3pmk",
+      "link": "https://anchor.fm/hitokuchipki/episodes/32-HTTP-Public-Key-pinnningOCSP-Stapling-e1d3pmk",
       "guid": {
         "@isPermaLink": false,
         "#text": "a8e10fc6-4d3b-4d3d-8b9a-5c5bb6a6005e"
@@ -634,7 +634,7 @@
     {
       "title": "31: 「リストオブトラストリスト」と健康の話",
       "description": "<p>PKIコンソーシアムがトラストリストのリスト(リストオブトラストリスト)を作っていますよ、の話と、健康のためにどのようにして運動習慣を獲得するかについて話しました。 &nbsp;&nbsp;</p>\n<p>・Creating a global List of Trust Lists | PKI Consortium &nbsp;<a href=\"https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/\">https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/31-e1btod3",
+      "link": "https://anchor.fm/hitokuchipki/episodes/31-e1btod3",
       "guid": {
         "@isPermaLink": false,
         "#text": "9533e6b9-7a13-4567-a44d-0066287da04c"
@@ -661,7 +661,7 @@
     {
       "title": "30: Internet Weekの話と、とにかく旅の話",
       "description": "開催中のInternet WeekでPKI関連トピックもいくつかあるよという紹介と、関東平野が平べったい、動物のお医者さん、新幹線と飛行機の思い出、温泉、まだ行ったことない行ってみたいところの話などをしました。 \n\n・プログラム - IW2021 (nic.ad.jp) \n　・C9 インターネットルーティングの新常識 RPKIをはじめよう！ \n　・C19 電子契約、公開鍵基盤（PKI）、証明書、リーガルテックの基盤技術 \n　・C24 きみが思うより側にある国際標準",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/30-Internet-Week-e1afcdt",
+      "link": "https://anchor.fm/hitokuchipki/episodes/30-Internet-Week-e1afcdt",
       "guid": {
         "@isPermaLink": false,
         "#text": "d2b7f674-131e-4206-89f6-c281ae0f54f3"
@@ -688,7 +688,7 @@
     {
       "title": "29: セミナー感想・反省会とCTとmeta.comの話、タイムゾーンよもやま話",
       "description": "<p>フィッシング対策セミナーで聞いた話の話と反省会、あとCT(Certificate Transparency)と新しく発表する物事の相性があんまり良くないなという話、サマータイムが終わった話とOutlookのカレンダーにタイムゾーンが3つ出せるようになった話などをしました。 &nbsp;&nbsp;&nbsp;</p>\n<ul>\n <li>フィッシング対策協議会 フィッシング対策セミナー 2021（オンライン）開催のご案内 (antiphishing.jp) &nbsp;<a href=\"https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html\">https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html</a> &nbsp;&nbsp;</li>\n <li>商標とCT：Meta.com &nbsp;<a href=\"https://crt.sh/?q=meta.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://crt.sh/?q=meta.com\">https://crt.sh/?q=meta.com</a> &nbsp;Meta.comの証明書について、発表のタイミングではSubject DNに「CN = meta.com」しか書かれていないDV証明書が発行されていたが、しばらくしてから「O = Facebook, Inc.」も書いてあるEV証明書も発行されていた。意図的にコントロールしていたのかは不明ですが～。</li>\n  <li>Time Zone Converter</li>\n</ul>\n<p><a href=\"https://www.timeanddate.com/worldclock/converter.html\">Time Zone Converter – Time Difference Calculator (timeanddate.com)</a></p>\n<p>TimeZonesのメニューにある International Meeting Plannerは複数タイムゾーンでmeeting時間の話し合いをするとき便利</p>\n<ul>\n  <li>Microsoft Outlook タイムゾーンを追加する</li>\n</ul>\n<p><a href=\"https://support.microsoft.com/ja-jp/office/%E3%82%BF%E3%82%A4%E3%83%A0-%E3%82%BE%E3%83%BC%E3%83%B3%E3%82%92%E8%BF%BD%E5%8A%A0-%E5%89%8A%E9%99%A4-%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-5ab3e10e-5a6c-46af-ab48-156fedf70c04\">タイム ゾーンを追加、削除、または変更する (microsoft.com)</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/29-CTmeta-com-e1a23rq",
+      "link": "https://anchor.fm/hitokuchipki/episodes/29-CTmeta-com-e1a23rq",
       "guid": {
         "@isPermaLink": false,
         "#text": "fb50d350-5b61-44c5-8838-7f97cfacf5b7"
@@ -715,7 +715,7 @@
     {
       "title": "28: 金曜日にセミナー出る話、迷惑メール対策カンファレンスの話、PKI JobsとPKI Jokeの話",
       "description": "<p>11/5(金)にフィッシング対策セミナーでお話しします。PKIとフィッシングの関りについて、昔の話も掘り起こしつつ今までの話と、WebPKI、S/MIME、BIMIなどについて今やこれからのお話をします。お時間合いましたらぜひご参加ください！ &nbsp;&nbsp;ほか、11/11(木)～12(金)で開催される「IAjapan 第21回 迷惑メール対策カンファレンス」がおもしろそうという話、Bulletproof TLS Newsletter に載ってるPKI Jobsが面白い話や、PKIやテクノロジーにまつわる冗談の話をちょっとだけしました。 &nbsp;&nbsp;</p>\n<p><br></p>\n<ul>\n <li>フィッシング対策セミナー 2021（お申し込みもこちらから） &nbsp;<a href=\"https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html\">https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html</a></li>\n <li>IAjapan 第21回 迷惑メール対策カンファレンス &nbsp;<a href=\"https://www.iajapan.org/anti_spam/event/2021/conf_21st/index.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.iajapan.org/anti_spam/event/2021/conf_21st/index.html\">https://www.iajapan.org/anti_spam/event/2021/conf_21st/index.html</a> &nbsp;&nbsp;</li>\n  <li>Expiration of DST Root CA causes problems with Let’s Encrypt certificates | Bulletproof TLS Newsletter | Feisty Duck &nbsp;<a href=\"https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates\">https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/28-PKI-JobsPKI-Joke-e19mrk9",
+      "link": "https://anchor.fm/hitokuchipki/episodes/28-PKI-JobsPKI-Joke-e19mrk9",
       "guid": {
         "@isPermaLink": false,
         "#text": "cbf34312-9d5c-45c5-95c7-4701b6ff71d5"
@@ -742,7 +742,7 @@
     {
       "title": "27: デバイスの信頼性検証(attestation)の話、ECDSAやっぱり速いんだの話、CA/Browserフォーラム勉強会に参加した話と、言葉の寿命の話",
       "description": "<p>デバイスの信頼性検証(attestation)のための証明書の有効期限切れで一部のモバイル端末が利用できなくなった話、LEの翻訳ちょっとずつやってる話、証明書をECDSAにするとやっぱり速いんだの話、CA/Browserフォーラム勉強会に参加してすごくよかった話と、京極夏彦先生の本が分厚い話、まだ写メって言う？という話などをしました。</p>\n<p>SafetyNet Attestationで障害が発生していた話</p>\n<ul>\n <li><a href=\"https://piyolog.hatenadiary.jp/entry/2021/10/21/093029\" rel=\"noreferrer noopener\" target=\"_blank\">MDMで管理された3万台超の端末で意図せず発生した強制ロックについてまとめてみた - piyolog (hatenadiary.jp)</a></li>\n <li><a href=\"https://groups.google.com/g/safetynet-api-clients/c/SGmfPoLH2dA/m/QvVEJ4U_AgAJ?pli=1\" rel=\"noreferrer noopener\" target=\"_blank\">Outage: The SafetyNet Attestation API certificate expired (google.com)</a></li>\n  <li><a href=\"https://developer.android.com/training/safetynet/attestation?hl=ja\" rel=\"noreferrer noopener\" target=\"_blank\">SafetyNet Attestation API&nbsp; |&nbsp; Android デベロッパー&nbsp; |&nbsp; Android Developers</a></li>\n  <li><a href=\"https://ken5scal.hatenablog.com/entry/2018/11/25/FIDO/WebAuthN%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BAndroid_SafetyNet_Attestation%E3%81%A8Key_Attestation%E3%81%AE%E9%81%95%E3%81%84\" rel=\"noreferrer noopener\" target=\"_blank\">FIDO/WebAuthNにおけるAndroid SafetyNet AttestationとKey Attestationの違い - Got Some \\W+ech? (hatenablog.com)</a></li>\n  <li><a href=\"https://developers-jp.googleblog.com/2017/10/keystore-key-attestation.html\" rel=\"noreferrer noopener\" target=\"_blank\">Google Developers Japan: キーストアの鍵の構成証明 (googleblog.com)</a></li>\n  <li><a href=\"https://speakerdeck.com/akihiroshiota/yan-sikunatutasafetynet-attestationniyoruduan-mo-tietuku\" rel=\"noreferrer noopener\" target=\"_blank\">厳しくなったSafetyNet Attestationによる端末チェック - Speaker Deck</a></li>\n  <li><a href=\"https://www.soumu.go.jp/main_content/000721284.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">000721284.pdf (soumu.go.jp)</a></li>\n  <li><a href=\"https://www.jnsa.org/seminar/2021/std/data/3_isobe.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">PowerPoint プレゼンテーション (jnsa.org)</a></li>\n  <li><a href=\"https://tech.griphone.co.jp/2020/06/30/php-safetynet-api/\" rel=\"noreferrer noopener\" target=\"_blank\">phpでSafetyNet APIのレスポンスの証明書を検証する | GRIPHONE ENGINEER'S BLOG</a></li>\n  <li><a href=\"https://developer.android.com/training/safetynet/attestation\" rel=\"noreferrer noopener\" target=\"_blank\">SafetyNet Attestation API&nbsp; |&nbsp; Android デベロッパー&nbsp; |&nbsp; Android Developers</a></li>\n</ul>\n<p>翻訳をちまちまと始めました<br>\n<a href=\"https://crowdin.com/project/lets-encrypt-website\" rel=\"noreferrer noopener\" target=\"_blank\">https://crowdin.com/project/lets-encrypt-website</a></p>\n<p>数百万件残っていたHTTPのはてなブログを4年越しにすべてHTTPS化させた話<br>\n<a href=\"https://developer.hatenastaff.com/entry/2021/10/25/093000\" rel=\"noreferrer noopener\" target=\"_blank\">https://developer.hatenastaff.com/entry/2021/10/25/093000</a></p>\n<p>WebのPKIに関するガイドラインを策定しているCA/Browserフォーラムにおける最新動向と国際的なトラストに関する勉強会開催のご案内<br>\n<a href=\"https://www.nic.ad.jp/ja/topics/2021/20211014-01.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.nic.ad.jp/ja/topics/2021/20211014-01.html</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/27-attestationECDSACABrowser-e19jhut",
+      "link": "https://anchor.fm/hitokuchipki/episodes/27-attestationECDSACABrowser-e19jhut",
       "guid": {
         "@isPermaLink": false,
         "#text": "30b3e61b-82ce-401f-bcab-483d7d72dd61"
@@ -769,7 +769,7 @@
     {
       "title": "26: LEの古いルート認証局が鍵破壊してなかった話、AppleとNetflixの話と、木村さんが通ったあとは何も残ってない話",
       "description": "<p>LEの古いルート認証局の自己署名証明書満了後、新しいCRLが発行されていたので鍵は破壊されていなそうだという話、JPNIC主催のCA/Browserフォーラム勉強会の話、Appleのルート証明書プログラムの話、NetflixがTLSのテストスイート「BetterTLS」をアップグレードした話をしました。</p>\n<p>また、何かをやったあとに良いレガシーを残す難しさ(木村さんが通ったあとには何も残ってないですね)の話や、栗の渋皮をむくのが難しい話などもしました。 &nbsp;</p>\n<p>&nbsp;・@kjurさんのツイート &nbsp;<a href=\"https://twitter.com/kjur/status/1448552494489997314\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://twitter.com/kjur/status/1448552494489997314\">https://twitter.com/kjur/status/1448552494489997314</a> &nbsp;&nbsp;</p>\n<p>・WebのPKIに関するガイドラインを策定しているCA/Browserフォーラムに おける最新動向と国際的なトラストに関する勉強会 - JPNIC &nbsp;2021年10月22日(金) 16:00～18:00 (申し込み10/21まで) <a href=\"https://www.nic.ad.jp/ja/topics/2021/20211014-01.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.nic.ad.jp/ja/topics/2021/20211014-01.html\">https://www.nic.ad.jp/ja/topics/2021/20211014-01.html</a> &nbsp;&nbsp;</p>\n<p>・Root Certificate Program - Apple &nbsp;<a href=\"https://www.apple.com/certificateauthority/ca_program.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.apple.com/certificateauthority/ca_program.html\">https://www.apple.com/certificateauthority/ca_program.html</a> &nbsp;&nbsp;</p>\n<p>・Revisiting BetterTLS: Certificate Path Building &nbsp;<a href=\"https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f\">https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f</a> (edited)</p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/26-LEAppleNetflix-e19089t",
+      "link": "https://anchor.fm/hitokuchipki/episodes/26-LEAppleNetflix-e19089t",
       "guid": {
         "@isPermaLink": false,
         "#text": "bd2d105d-84a6-4614-abc0-720a3229faa0"
@@ -796,7 +796,7 @@
     {
       "title": "25: 古いOpenSSLのパス構築が突き抜ける話、BIMIの話と、新潟県よくばりセットの話",
       "description": "<p>古いOpenSSL(1.0系)のパス構築が突き抜けて有効期限切れのルートにつながってしまいExpireのエラーになってしまう事象は以前にも確認されていたという話、SmartHRの方が書かれたBIMIはじめましたブログがすばらしかった話、通販で新潟県のあれこれを楽しんだ話、秋の味覚の話などをしました。</p>\n<p><br>\n・Node-v0.10.34がはまったクロスルート証明書とOpenSSLの落とし穴 &nbsp;<a href=\"https://jovi0608.hatenablog.com/entry/20141222/1419265270\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://jovi0608.hatenablog.com/entry/20141222/1419265270\">https://jovi0608.hatenablog.com/entry/20141222/1419265270</a> &nbsp;&nbsp;&nbsp;</p>\n<p>・BIMI SmartHR &nbsp;SmartHR、BIMIはじめました - SmartHR Tech Blog &nbsp;<a href=\"https://tech.smarthr.jp/entry/2021/09/14/144409\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://tech.smarthr.jp/entry/2021/09/14/144409\">https://tech.smarthr.jp/entry/2021/09/14/144409</a><br>\n・新潟県おたのしみ通販 &nbsp;</p>\n<p>【楽天市場】ヤスダヨーグルト 900ml：新潟の地酒・特産　日本酒の長田屋 (rakuten.co.jp) &nbsp;<a href=\"https://item.rakuten.co.jp/nagataya/105107/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://item.rakuten.co.jp/nagataya/105107/\">https://item.rakuten.co.jp/nagataya/105107/</a></p>\n<p>【楽天市場】人参ジュース 雪下にんじんジュース 1L×6本 津南高原 新潟 魚沼 雪中にんじん 雪下人参 御歳暮 本州送料無料：新潟名物専門店 小竹食品 (rakuten.co.jp) &nbsp;<a href=\"https://item.rakuten.co.jp/odakesyokuhin/yukishita1/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://item.rakuten.co.jp/odakesyokuhin/yukishita1/\">https://item.rakuten.co.jp/odakesyokuhin/yukishita1/</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/25-OpenSSLBIMI-e18otkl",
+      "link": "https://anchor.fm/hitokuchipki/episodes/25-OpenSSLBIMI-e18otkl",
       "guid": {
         "@isPermaLink": false,
         "#text": "8a0d9290-52a0-46a9-8275-953176b3b145"
@@ -823,7 +823,7 @@
     {
       "title": "24: 9/30にいよいよLet's Encryptの古いルートCA証明書と中間CA証明書が有効期間の満了を迎えた話",
       "description": "9/30にいよいよ切れましたね、どれが切れたんだっけ？、いろいろ影響があったみたい、という話、スライサーで指を切った話、歯列矯正の話、運動習慣やスポーツジムの話などをしました。 \n \n ・Let's EncryptのルートCA証明書期限切れ、多数のサイトで問題発生 - ZDNet Japan \nhttps://japan.zdnet.com/article/35177496/",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/24-930Lets-EncryptCACA-e18b5d2",
+      "link": "https://anchor.fm/hitokuchipki/episodes/24-930Lets-EncryptCACA-e18b5d2",
       "guid": {
         "@isPermaLink": false,
         "#text": "5f132d9f-e384-4523-b2c4-5f9807b2e0cd"
@@ -850,7 +850,7 @@
     {
       "title": "23: ひとくちPKI 出張版のお知らせとLet's Encryptの古いルートCA証明書が有効期限の満了を迎える話",
       "description": "<p>出張版のお知らせと、Let's Encryptの古いルートCA証明書が9月30日に有効期限を迎える話、ゲームが好きな話、庭いじりの話、芝刈りゲームの話などをしました。</p>\n<p><br></p>\n<p>[お知らせ] ひとくちPKI の出張版が予定されています。興味のある方はぜひご登録ください。</p>\n<p>・情報セキュリティワークショップ in&nbsp; 越後湯沢 車座(オンライン)</p>\n<p>10月8日（金）18:00～20:00</p>\n<p><a href=\"http://www.anisec.jp/yuzawa/?page_id=1280\" rel=\"noreferrer noopener\" target=\"_blank\">プログラム | 情報セキュリティワークショップin越後湯沢2021 (anisec.jp)</a></p>\n<p>————————————————————————</p>\n<p>ひとくちPKI ～越後湯沢WS 車座出張回～</p>\n<p>————————————————————————</p>\n<p>Public Key Infrastructure という名の通り社会基盤として活用され、時には記憶に残るシステム障害の原因にもなるPKIですが、暗号技術を使った暗号化・認証・署名の仕組みは実際に難解でありとっつきづらかったり、(専門家|スペシャリスト|エキスパート)でなければ話題に触れることにも気後れしてしまったり、そんな風に感じる方もおられるかもしれません。何せ私たち自身もちょっとそう感じているのです。PKIそれそのもののお話もしながら、難解だが重要なことがらについて、興味度や理解度に応じてどのように関わっていくことができるのか、観測者としての役割や、それぞれの立場からどのように貢献していけるのか、次世代のプレイヤーは育っているのかなどなど、車座ならではのお話しをみなさんと一緒にできたらよいかと思っております。</p>\n<p>————————————————————————</p>\n<p><br></p>\n<p>・フィッシング対策セミナー 2021（オンライン）</p>\n<p>2021年11月5日（金）13:00 ～ 13:40</p>\n<p><a href=\"https://www.antiphishing.jp/news/event/antiphishing_seminar2021.html\" rel=\"noreferrer noopener\" target=\"_blank\">フィッシング対策協議会　Council of Anti-Phishing Japan | ニュース | イベント | フィッシング対策セミナー 2021（オンライン）開催のご案内 (antiphishing.jp)</a></p>\n<p>・Let's Encryptの古いルートCA証明書が9月30日に有効期限を迎える話</p>\n<ul>\n <li><a href=\"https://scotthelme.co.uk/lets-encrypt-old-root-expiration/\" rel=\"noreferrer noopener\" target=\"_blank\">Let's Encrypt's Root Certificate is expiring! (scotthelme.co.uk)</a></li>\n <li><a href=\"https://letsencrypt.org/docs/certificate-compatibility/\" rel=\"noreferrer noopener\" target=\"_blank\">Certificate Compatibility - Let's Encrypt (letsencrypt.org)</a></li>\n  <li><a href=\"https://event.ospn.jp/slides/OSC2021-OnlineHokkaido/Lets-Encrypt-%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%E8%AA%8D%E8%A8%BC%E5%B1%80%E7%A7%BB%E8%A1%8C%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A7%A3%E8%AA%AC.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">Lets-Encrypt-のルート認証局移行問題の解説.pdf (ospn.jp)</a></li>\n</ul>\n<p>・ゲームの話</p>\n<p><a href=\"https://www.microsoft.com/ja-jp/p/lawn-mowing-simulator/9npfjtm4hbh9?activetab=pivot:overviewtab\" rel=\"noreferrer noopener\" target=\"_blank\">Lawn Mowing Simulator を購入 - Microsoft Store ja-JP</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/23-PKI-Lets-EncryptCA-e180cab",
+      "link": "https://anchor.fm/hitokuchipki/episodes/23-PKI-Lets-EncryptCA-e180cab",
       "guid": {
         "@isPermaLink": false,
         "#text": "caa3d12a-ddfa-4c4f-b779-558aab95a885"
@@ -877,7 +877,7 @@
     {
       "title": "22: Lやめたい話の落穂ひろい、BIMIがモバイルにも来た話、PKI Consortiumができた話",
       "description": "<p>Lをやめたいと思っても、一意性が保てなくなって案外難しいかもな話、EV証明書のフレンドリ名って昔日本語で出てた気がする話、EVコードサイニング証明書の話、BIMIがひとけーのGmailモバイルアプリにも来た話、BIMIロゴがGoogleアカウントのプロファイルに設定しているアイコンと同じように見えることがちょっと不安な話、CA Security Council (CASC)がPKI Consortiumになった話、クライド型署名の話などをしました。</p>\n<p>雑談ではクラウド型署名を体験した話、紙にペンでサインするやつをウェットサインと呼ぶ話、印刷することハードコピーと呼ぶ話、棚を増やすと物が増える話などをしました。</p>\n<ul>\n <li>日本語と証明書<br>\n<a href=\"https://www.cybertrust.co.jp/sureserver/productinfo/dnjp.html\" rel=\"noreferrer noopener\" target=\"_blank\">証明書情報の日本語表記｜SSL/TLS サーバー証明書 SureServer｜サイバートラスト (cybertrust.co.jp)</a></li>\n <li>EVコード署名<br>\n<a href=\"https://www.digicert.com/jp/code-signing/ev-code-signing/\" rel=\"noreferrer noopener\" target=\"_blank\">EV コードサイニング証明書 | DigiCert.com</a></li>\n  <li><br></li>\n  <li>BIMI モバイルにも来た！<br>\nCNNもBIMIに対応している：　<a href=\"https://www.digicert.com/jp/news/press-releases-jp/pr_20191010/\" rel=\"noreferrer noopener\" target=\"_blank\">デジサート、CNNにVerified Mark証明書を発行、BIMIメール規格の重要基盤を構築 - DigiCert</a></li>\n  <li>PKI関連の団体<br>\n<a href=\"https://pkic.org/2021/07/12/from-casc-to-the-public-key-infrastructure-consortium/\" rel=\"noreferrer noopener\" target=\"_blank\">From CASC to the Public Key Infrastructure Consortium | PKI Consortium<br>\n</a><a href=\"https://internet.watch.impress.co.jp/docs/news/1344121.html\" rel=\"noreferrer noopener\" target=\"_blank\">「クラウド型電子署名サービス協議会」設立。アドビ、freeeなど7社が参加 - INTERNET Watch (impress.co.jp)<br>\n</a><a href=\"http://www.jt2a.org/\" rel=\"noreferrer noopener\" target=\"_blank\">JT2A: 日本トラストテクノロジー協議会<br>\n</a>電子署名QA　<a href=\"https://www.jnsa.org/result/e-signature/e-signature-qa/index.html\" rel=\"noreferrer noopener\" target=\"_blank\">JNSA電子署名WG　電子署名Q&A</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/22-LBIMIPKI-Consortium-e17649f",
+      "link": "https://anchor.fm/hitokuchipki/episodes/22-LBIMIPKI-Consortium-e17649f",
       "guid": {
         "@isPermaLink": false,
         "#text": "8a3ec8a6-0592-4000-8c14-a09c21972491"
@@ -904,7 +904,7 @@
     {
       "title": "21: オランダ政府のCAがWebPKIの証明書を出すのをやめる話、BIMI始まった話、あとエヴァンゲリオンの話",
       "description": "<p>オランダ政府のCAがWebサイト向けにEV証明書を出していたのをやめる話、GmailのWebブラウザ版でひとけーのアカウントでもBIMIが始まった話、あとエヴァンゲリオンの話をしました。</p>\n<ul>\n <li>Dutch government to stop issuing TLS certs because of ever-complicated standards</li>\n</ul>\n<p><a href=\"https://therecord.media/dutch-government-to-stop-issuing-tls-certs-because-of-ever-complicated-standards/\" rel=\"noreferrer noopener\" target=\"_blank\">https://therecord.media/dutch-government-to-stop-issuing-tls-certs-because-of-ever-complicated-standards/</a></p>\n<p><br></p>\n<ul>\n <li>Advancing email security for Gmail and beyond with BIMI</li>\n</ul>\n<p><a href=\"https://cloud.google.com/blog/products/identity-security/bringing-bimi-to-gmail-in-google-workspace\" rel=\"noreferrer noopener\" target=\"_blank\">https://cloud.google.com/blog/products/identity-security/bringing-bimi-to-gmail-in-google-workspace</a></p>\n<p><br></p>\n<ul>\n  <li>シンエヴァ、海外でAmazon Prime Video独占配信。8月13日から</li>\n</ul>\n<p><a href=\"https://av.watch.impress.co.jp/docs/news/1335533.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://av.watch.impress.co.jp/docs/news/1335533.html</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/21-CAWebPKIBIMI-e16de64",
+      "link": "https://anchor.fm/hitokuchipki/episodes/21-CAWebPKIBIMI-e16de64",
       "guid": {
         "@isPermaLink": false,
         "#text": "930b8c7d-c5a5-4fe8-b9eb-b65fae9160b6"
@@ -931,7 +931,7 @@
     {
       "title": "20: WebPKIってそういえば何でしたっけ(Sigstore関連)？あとLもやめたい話",
       "description": "<p>Sigstoreで利用する証明書を発行する認証局をMozillaのルート証明書登録プログラムに乗せたいという話から、WebPKIってそういえば何？という話と、SectigoがSubject DNの項目にLocality(L=)を入れるのをやめたいと考えていることについて話しました。また、英会話バッドノウハウ、虫刺されについても話しました。</p>\n<ul>\n <li>WebPKIってそういえば何： <a href=\"https://twitter.com/sleevi_/status/1420805874180837383\" rel=\"noreferrer noopener\" target=\"_blank\">https://twitter.com/sleevi_/status/1420805874180837383</a>\n   <ul>\n      <li>Web PKI とは：</li>\n    </ul>\n  </li>\n  <li>Web PKI OPS (wpkops) - (ietf.org)<br>\n<a href=\"https://datatracker.ietf.org/wg/wpkops/about/\" rel=\"noreferrer noopener\" target=\"_blank\">https://datatracker.ietf.org/wg/wpkops/about/</a></li>\n  <li>Sigstore<br>\n<a href=\"https://www.sigstore.dev/\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.sigstore.dev/</a></li>\n  <li>sigstore/fulcio: Sigstore WebPKI - GitHub<br>\n<a href=\"https://github.com/sigstore/fulcio\" rel=\"noreferrer noopener\" target=\"_blank\">https://github.com/sigstore/fulcio<br>\n</a>\"fulcio is a free Root-CA for code signing certs - issuing certificates based on an OIDC email address.\"</li>\n</ul>\n<p><br></p>\n<ul>\n  <li>Sectigo が Locality を取りやめようとしている話<br>\nEV SSL Certificate Guidelines | CAB Forum<br>\n<a href=\"https://cabforum.org/extended-validation/\" rel=\"noreferrer noopener\" target=\"_blank\">https://cabforum.org/extended-validation/</a></li>\n</ul>\n<p><br></p>\n<ul>\n  <li>雑談<br>\n英語ミーティングを乗り切るために身につけたバッドノウハウ - knqyf263's blog<br>\n<a href=\"https://knqyf263.hatenablog.com/entry/2021/08/04/211903\" rel=\"noreferrer noopener\" target=\"_blank\">https://knqyf263.hatenablog.com/entry/2021/08/04/211903</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/20-WebPKISigstoreL-e15viht",
+      "link": "https://anchor.fm/hitokuchipki/episodes/20-WebPKISigstoreL-e15viht",
       "guid": {
         "@isPermaLink": false,
         "#text": "3e9f7c56-7cea-4681-9f44-7b66c4651189"
@@ -958,7 +958,7 @@
     {
       "title": "19: IETF111やってた話、TLS証明書チェッカーの話、行ってみたいところの話",
       "description": "<p>IETFでドキュメントサイニングのExtended Key Usageを作ろうという議論が行われている話、IETFって議決を取るときハミングで決めるらしい話、TLS証明書チェッカーの紹介について話しました。 &nbsp;&nbsp;ほか、自由に外出できるようになったら行ってみたいところなどについて話しました。</p>\n<p><br>\n &nbsp;&nbsp;・IETF111 - LAMPS &nbsp;<a href=\"https://datatracker.ietf.org/meeting/111/materials/slides-111-lamps-chair-slides-02.pdf?fbclid=IwAR2Y8dkBj9_ZMGL2fUFcJ76cH9DgCja_vDEXxv6mKLxU9akZL88fYBq1GZE\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://datatracker.ietf.org/meeting/111/materials/slides-111-lamps-chair-slides-02.pdf?fbclid=IwAR2Y8dkBj9_ZMGL2fUFcJ76cH9DgCja_vDEXxv6mKLxU9akZL88fYBq1GZE\">https://datatracker.ietf.org/meeting/111/materials/slides-111-lamps-chair-slides-02.pdf?fbclid=IwAR2Y8dkBj9_ZMGL2fUFcJ76cH9DgCja_vDEXxv6mKLxU9akZL88fYBq1GZE</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>・General Purpose Extended Key Usage (EKU) for Document Signing X.509 Certificates &nbsp;<a href=\"https://datatracker.ietf.org/doc/html/draft-ito-documentsigning-eku-00\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://datatracker.ietf.org/doc/html/draft-ito-documentsigning-eku-00\">https://datatracker.ietf.org/doc/html/draft-ito-documentsigning-eku-00</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>・TLS証明書チェッカーcheck-tls-certの公開 - インフラエンジニアway - Powered by HEARTBEATS &nbsp;<a href=\"https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html\">https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>・GitHub - heartbeatsjp/check-tls-cert: Check-tls-cert is a TLS certificate checker. &nbsp;<a href=\"https://github.com/heartbeatsjp/check-tls-cert\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://github.com/heartbeatsjp/check-tls-cert\">https://github.com/heartbeatsjp/check-tls-cert</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/19-IETF111TLS-e15d1b8",
+      "link": "https://anchor.fm/hitokuchipki/episodes/19-IETF111TLS-e15d1b8",
       "guid": {
         "@isPermaLink": false,
         "#text": "5fc80936-f089-4fce-9ed0-aff442cd8fc7"
@@ -985,7 +985,7 @@
     {
       "title": "18: さらにBIMIとVMC証明書の話",
       "description": "<p>BIMIについて、大手メールサービスプロバイダのローンチ状況やVMC証明書の中身の話、送信元ドメイン認証のニルヴァーナにたどり着けるか？という話をしました。 &nbsp;&nbsp;ほか、蚊取り線香、蝉、ゲームで運動、怖い映画の話などもしました。</p>\n<p><a href=\"https://bimigroup.org/bimi-generator/\">BIMI Inspector | BIMI Group</a></p>\n<p><a href=\"https://bimigroup.org/supporting-documents/\">Supporting Documents | BIMI Group</a></p>\n<p><a href=\"https://bimigroup.org/verified-mark-certificates-vmc-and-bimi/?fbclid=IwAR3989b5I5-OY44ukenFZFX2AsOUFocbvr-QaLft_WcQ2m2i_UNdSF5DJFM\">Verified Mark Certificates (VMC) and BIMI | BIMI Group</a></p>\n<p><a href=\"https://announcemail.yahoo.co.jp/brandicon_corp/index.html\">ブランドアイコンで安心安全なメール - Yahoo!メール</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/18-BIMIVMC-e14u17r",
+      "link": "https://anchor.fm/hitokuchipki/episodes/18-BIMIVMC-e14u17r",
       "guid": {
         "@isPermaLink": false,
         "#text": "7383b58d-2219-47e2-bda1-b297ee085434"
@@ -1012,7 +1012,7 @@
     {
       "title": "17: Let's Encryptの90日と1秒の証明書の対策のその後の議論の話、なりすましメール対策のBIMIとVMCの話",
       "description": "<p>前回のLet's Encryptの90日と1秒の証明書の対策のその後の議論の話と、</p>\n<p>なりすましメールを視覚的に対策するための機能（BIMI)の話をしました。</p>\n<p>鍵長が科技庁に変換される話、おくりがなが難しい話、アメリカ英語とイギリス英語の話、仮定法過去完了は後半が省略される話などもしました。</p>\n<p>BIMI <a href=\"https://bimigroup.org/\" rel=\"noreferrer noopener\" target=\"_blank\">Home | BIMI Group</a></p>\n<p>Google <a href=\"https://cloud.google.com/blog/products/identity-security/bringing-bimi-to-gmail-in-google-workspace\" rel=\"noreferrer noopener\" target=\"_blank\">Bringing BIMI to Gmail in Google Workspace | Google Cloud Blog</a></p>\n<p>DigiCert <a href=\"https://www.digicert.com/tls-ssl/verified-mark-certificates\" rel=\"noreferrer noopener\" target=\"_blank\">DigiCert Verified Mark Certificates</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/17-Lets-Encrypt901BIMIVMC-e14hcni",
+      "link": "https://anchor.fm/hitokuchipki/episodes/17-Lets-Encrypt901BIMIVMC-e14hcni",
       "guid": {
         "@isPermaLink": false,
         "#text": "ccc7fee1-8278-4675-9119-0a777985f5ea"
@@ -1039,7 +1039,7 @@
     {
       "title": "16: Let's Encryptが90日と1秒の証明書を発行していた話、宇宙線でビット反転したかもしれない話と漢字は難しい話",
       "description": "<p>Let's Encryptが証明書の有効期間終了を示す Not Afterの解釈違いにより 90日と1秒の証明書を発行していた話、CTログに不整合が発生した原因が宇宙線でビット反転したからかもしれない話、そして漢字は難しい話をしました。</p>\n<p>Let's Encryptの有効期間問題</p>\n<ul>\n <li><a href=\"https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident-valid-for-an-extra-one-second/153426\" rel=\"noreferrer noopener\" target=\"_blank\">2021.06.08 Certificate Lifetime Incident (valid for an extra one second) - Incidents - Let's Encrypt Community Support (letsencrypt.org)</a></li>\n <li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1715455\" rel=\"noreferrer noopener\" target=\"_blank\">1715455 - Let's Encrypt: certificate lifetimes 90 days plus one second (mozilla.org)</a></li>\n  <li><a href=\"https://github.com/letsencrypt/boulder/issues/5473\" rel=\"noreferrer noopener\" target=\"_blank\">Measure certificate validity periods inclusive of their endpoints · Issue #5473 · letsencrypt/boulder · GitHub</a></li>\n</ul>\n<p>・うるしまさんによるLet's Encryptのルート認証局移行の解説</p>\n<p><a href=\"https://twitter.com/kjur/status/1409876500090961921\" rel=\"noreferrer noopener\" target=\"_blank\">(6) kjur セキュリティ IT 開発の私的情報収集用＋少しつぶやきさんはTwitterを使っています 「オープンソースカンファレンス2021北海道で Let's Encryptのルート認証局移行問題について解説させてもらいました。 https://t.co/HgEqYDL7Hg 初心者の方にもわかりやすくと思いましたが無理でした、、、、」 / Twitter</a></p>\n<p>・宇宙線ビット反転(？)でマークルツリーが壊れた（原題：Yeti 2022 not furnishing entries for STH 65569149</p>\n<p><a href=\"https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/?pli=1\" rel=\"noreferrer noopener\" target=\"_blank\">https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/?pli=1</a></p>\n<p>ハッカーニュースにめちゃくちゃレス付いてる(原題：<a href=\"https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/\" rel=\"noreferrer noopener\" target=\"_blank\">Single random bit flip causes error in certificate transparency log</a>)</p>\n<p><a href=\"https://news.ycombinator.com/item?id=27728287\" rel=\"noreferrer noopener\" target=\"_blank\">https://news.ycombinator.com/item?id=27728287</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/16-Lets-Encrypt901-e142aq0",
+      "link": "https://anchor.fm/hitokuchipki/episodes/16-Lets-Encrypt901-e142aq0",
       "guid": {
         "@isPermaLink": false,
         "#text": "afd11968-2587-4613-8fff-8b0407202775"
@@ -1066,7 +1066,7 @@
     {
       "title": "15: 証明書のリントツール、英語が難しい話(仮定法過去の仮定のところを省略する頻出表現の話とか)",
       "description": "<p>Web PKIにおいて証明書をチェックするリントツール、英語が難しい話(仮定法過去の仮定のところを省略する頻出表現の話と仮定法過去完了)、そしてサングラスを買うだけで大変だった話の結末を話しました。</p>\n<p>Web PKIのための証明書のリントツール</p>\n<p><a href=\"https://wiki.allizom.org/CA/Required_or_Recommended_Practices#Pre-Issuance_Linting\" rel=\"noreferrer noopener\" target=\"_blank\">CA/Required or Recommended Practices - MozillaWiki (allizom.org)</a></p>\n<ul>\n <li><a href=\"https://github.com/zmap/zlint\" rel=\"noreferrer noopener\" target=\"_blank\">zmap/zlint: X.509 Certificate Linter focused on Web PKI standards and requirements. (github.com)<br>\n</a></li>\n <li><a href=\"https://github.com/amazon-archives/certlint\" rel=\"noreferrer noopener\" target=\"_blank\">amazon-archives/certlint: X.509 certificate linter (github.com)<br>\n</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/15-e13ogoc",
+      "link": "https://anchor.fm/hitokuchipki/episodes/15-e13ogoc",
       "guid": {
         "@isPermaLink": false,
         "#text": "b0d77aea-04e3-495a-96ef-2c3e9160e02e"
@@ -1093,7 +1093,7 @@
     {
       "title": "14: WebPKIを知るためのお勧めリンクの紹介と信頼されるルートCA登録プロセスの話、そしてサングラスを買うだけで大変だった話のその後",
       "description": "<p>WebPKIの今を知るためのお勧めリンク集やトレーニング、ポッドキャスト紹介と、信頼されるルートCAとして登録されるための審査について話しました<br>\n</p>\n<p><br></p>\n<ul>\n <li>Let's encryptのお勧めリーディングリスト<br>\n<a href=\"https://github.com/letsencrypt/boulder/wiki/Recommended-Reading\" rel=\"noreferrer noopener\" target=\"_blank\">Recommended Reading · letsencrypt/boulder Wiki (github.com)<br>\n</a></li>\n <li>JPNICで「いまさら聞けないPKI～基本から最新動向まで～」<br>\n<a href=\"https://www.nic.ad.jp/ja/tech/seminar/pki.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.nic.ad.jp/ja/tech/seminar/pki.html<br>\n</a></li>\n  <li>Mozaic.FM<br>\nep23 Let's Encrypt&nbsp; <a href=\"https://mozaic.fm/episodes/23/lets-encrypt.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://mozaic.fm/episodes/23/lets-encrypt.html<br>\n</a></li>\n  <li>Mozillaの信頼されるルートCA登録プロセス<br>\n<a href=\"https://wiki.mozilla.org/CA/Application_Process\" rel=\"noreferrer noopener\" target=\"_blank\">CA/Application Process - MozillaWiki<br>\n</a><a href=\"https://wiki.mozilla.org/CA/Quantifying_Value\" rel=\"noreferrer noopener\" target=\"_blank\">CA/Quantifying Value - MozillaWiki<br>\n</a></li>\n  <li>昨今のCA登録パブリックディスカッション<br>\n<a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/UAmBtcVvBKw\" rel=\"noreferrer noopener\" target=\"_blank\">Public Discussion of HARICA's Root CA Inclusion Requests (google.com)<br>\n</a><a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/dTTp4ZfUW34\" rel=\"noreferrer noopener\" target=\"_blank\">Public Discussion re: Inclusion of the TunTrust Root CA (google.com)<br>\n</a><a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/4bWqkOwhzCc\" rel=\"noreferrer noopener\" target=\"_blank\">Public Discussion re: Inclusion of the iTrusChina Root CAs (google.com)<br>\n</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/14-WebPKICA-e13bc8n",
+      "link": "https://anchor.fm/hitokuchipki/episodes/14-WebPKICA-e13bc8n",
       "guid": {
         "@isPermaLink": false,
         "#text": "051021f8-7508-4a59-a5dc-a03550b401c4"
@@ -1120,7 +1120,7 @@
     {
       "title": "13: TLS証明書のOUの話と、マウスの話と、サングラスを買うだけで大変だった話",
       "description": "<p>CA Browser Forumで、CAが発行する証明書のサブジェクトに、 subject:organizationalUnitName (OID: 2.5.4.11) を含めないように、Baseline Requirementを改定する議論が始まっている話と、マウスとパームレスト探しをしている話、サングラスを買うだけで大変だった話をしました。<br>\n</p>\n<ul>\n <li>CA Browser Forum の議論</li>\n <li><a href=\"https://lists.cabforum.org/pipermail/servercert-wg/2021-June/002806.html\" rel=\"noreferrer noopener\" target=\"_blank\">[Servercert-wg] Discussion Period Begins on Ballot SC47v2: Sunset subject:organizationalUnitName (cabforum.org)</a></li>\n  <li><a href=\"https://github.com/cabforum/servercert/compare/cf4e17a43977dcf7cb9c9e41efd2df4be4707e13...160f860dc1eccaa273bc8001dadaf07c4bba9dbd\" rel=\"noreferrer noopener\" target=\"_blank\">Comparing cf4e17a43977dcf7cb9c9e41efd2df4be4707e13...160f860dc1eccaa273bc8001dadaf07c4bba9dbd · cabforum/servercert (github.com)</a></li>\n  <li>マウス</li>\n  <li><a href=\"https://www.logicool.co.jp/ja-jp/products/mice/mx-master-3.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.logicool.co.jp/ja-jp/products/mice/mx-master-3.html<br>\n<br>\n</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/13-TLSOU-e12s1ib",
+      "link": "https://anchor.fm/hitokuchipki/episodes/13-TLSOU-e12s1ib",
       "guid": {
         "@isPermaLink": false,
         "#text": "bf5c7314-0a0f-49b8-84d3-633a1bae8014"
@@ -1145,7 +1145,7 @@
     {
       "title": "12: S/MIME とギターの話 (ゲスト：うるしまさん）",
       "description": "<p>ゲストに、うるしまさんをお迎えし、S/MIME とギターについて話しました。</p>\n<p>o うるしまさんのブログ　<a href=\"http://blog.livedoor.jp/k_urushima/\" target=\"_blank\">自堕落な技術者の日記 - livedoor Blog（ブログ）</a></p>\n<ul>\n <li>&nbsp;<a href=\"http://blog.livedoor.jp/k_urushima/tag/SMIME\">S/MIME関連の古い記事(O365, iOSの設定等)&nbsp;</a></li>\n <li><a href=\"http://blog.livedoor.jp/k_urushima/archives/872604.html\">今更ながらNIST PKITS (PKIのテストデータセット)</a>&nbsp;</li>\n</ul>\n<p>o S/MIME の利用を促進する動き</p>\n<ul>\n  <li>&nbsp;<a href=\"https://ideabox.cio.go.jp/ja/idea/04344/\" target=\"_blank\">政府主導によるS/MIME化で、PPAP問題やなりすましメールの撲滅を推進 by 諸角昌宏さん | デジタル改革アイデアボックス (cio.go.jp)</a></li>\n  <li><a href=\"https://note.com/ipsj/n/n6a9184201938#l8uhN\" target=\"_blank\">座談会 「社会からPPAP をなくすには？」Part2　～PPAP に代わる安全な方式 その1～｜情報処理学会・学会誌「情報処理」｜note</a></li>\n  <li>JNSA S/MIME検討WG <a href=\"https://www.jnsa.org/jnsapress/vol12/12_14.pdf?fbclid=IwAR3I92fy4yTfuKTDYwaigAnNrGoTlDJZndjBxKGJpOwoPGT5aFLyx5N8gr0\" target=\"_blank\">https://www.jnsa.org/jnsapress/vol12/12_14.pdf</a></li>\n  <li><a href=\"https://www.jnsa.org/houkoku2004/20050613/312-6.pdf\">JNSA S/MIME検討WG 2004年度報告 S/MIMEクライアントの機能検証結果報告</a>&nbsp;</li>\n</ul>\n<p>o CAB Forum</p>\n<ul>\n  <li>&nbsp;<a href=\"https://cabforum.org/working-groups/smime-certificate-wg/\" target=\"_blank\">S/MIME Certificate Working Group - CAB Forum</a></li>\n</ul>\n<p>o 無料証明書</p>\n<ul>\n  <li>イタリアの無料S/MIME証明書 　Actalis <a href=\"https://www.actalis.it/en/certificates-for-secure-electronic-mail.aspx?fbclid=IwAR3tnJxQY5V8AaC6ScKRa5rXxKZZqoh_25D0YQffhXcskfTzfqZ2Q7wBrac\" target=\"_blank\">https://www.actalis.it/en/certificates-for-secure-electronic-mail.aspx</a></li>\n  <li>·Comodo社の無料S/MIME証明書 <a href=\"https://www.comodo.com/home/email-security/free-email-certificate.php?fbclid=IwAR0qKaEblBAfXs5Wz0dc8r1cldCa1GtUCCciy7h7M7WMHyGvs43jhNPFWk0\" target=\"_blank\">https://www.comodo.com/home/email-security/free-email-certificate.php</a></li>\n</ul>\n<p>o <a href=\"https://csrc.nist.gov/projects/pki-testing\">NIST Public Key Infrastructure Testing (PKITS)</a>&nbsp;</p>\n<p>o Microsoft IRM</p>\n<p>· <a href=\"https://docs.microsoft.com/ja-jp/azure/information-protection/how-does-it-work?fbclid=IwAR0y9Tp0L95oRf9baGtAmpL6ZPjuOlthjSADyA6tzE6gP7cL8BTaA5b8L9g\" target=\"_blank\">Azure RMS のしくみ - Azure Information Protection | Microsoft Docs</a></p>\n<p>· <a href=\"https://docs.microsoft.com/ja-jp/azure/information-protection/\" target=\"_blank\">Azure Information Protection のドキュメント | Microsoft Docs</a></p>\n<p>o ギター</p>\n<p>· &nbsp;ギター通販Reverb <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Freverb.com%2F%3Ffbclid%3DIwAR2ydl7ih4-lJ2qdvOkSINzlyxzTthfmyPrWpgj9Fz8cPQ3syCXhroA0NG0&h=AT0QMShdIZejQ_FLNSW0MJj_azmoLUPnsopYkSc-tfVGt3GaTTFADHCaUWEJFFgjlNE5h4Yhg0D7JLNwgc1FBeLFhPgX8JXFkaJbV1prXrrTHTRHs42Bw99fjeuJCwqov9-y9tqpP8QyFZ5U1QAFKA\" target=\"_blank\">https://reverb.com/</a></p>\n<p>· YAMAHA サイレントギター <a href=\"https://jp.yamaha.com/products/musical_instruments/guitars_basses/silent_guitar/index.html?fbclid=IwAR2Nun3rGBBvRd4RCo4xaitMomkpW2v0xl-ed1S_YryPeGWNxE8Nq3rw9XE\" target=\"_blank\">https://jp.yamaha.com/products/musical_instruments/guitars_basses/silent_guitar/index.html</a></p>\n<p>· Fender PLAY (オンライン教室) <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Ftry.fender.com%2Fplay%2Fplay-now-2021%2F%3Ffbclid%3DIwAR1vx0xGeJGntSLU6FgVH2N6a_tky-OuhjkWWQHEKdKkdJIUjCt5N7VXKrQ&h=AT0QMShdIZejQ_FLNSW0MJj_azmoLUPnsopYkSc-tfVGt3GaTTFADHCaUWEJFFgjlNE5h4Yhg0D7JLNwgc1FBeLFhPgX8JXFkaJbV1prXrrTHTRHs42Bw99fjeuJCwqov9-y9tqpP8QyFZ5U1QAFKA\" target=\"_blank\">https://try.fender.com/play/play-now-2021/</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/12-SMIME-e11v4fk",
+      "link": "https://anchor.fm/hitokuchipki/episodes/12-SMIME-e11v4fk",
       "guid": {
         "@isPermaLink": false,
         "#text": "7f8b8314-cf04-4f74-8e89-a5e9d28818be"
@@ -1172,7 +1172,7 @@
     {
       "title": "11: IEの緑のアドレスバーがリタイアする話",
       "description": "<p>EV 証明書を利用するウェブサイトをブラウザで閲覧する時に、アドレスバーが緑で表示される機能について話しました。</p>\n<p>What are the different types of SSL Certificates?</p>\n<p><a href=\"https://cabforum.org/info-for-consumers/\">Information for the Public - CAB Forum</a></p>\n<p><br></p>\n<p>[更新] 各ブラウザによる SSL / TLS サーバ証明書の表示の違い (2019/10/21)</p>\n<p><a href=\"https://www.antiphishing.jp/news/info/_ssl_20191021.html\">フィッシング対策協議会　Council of Anti-Phishing Japan | ニュース | 協議会からのお知らせ | [更新] 各ブラウザによる SSL / TLS サーバ証明書の表示の違い (2019/10/21) (antiphishing.jp)</a></p>\n<p><br></p>\n<p>Google Chrome EV表示の終焉</p>\n<p><a href=\"https://jovi0608.hatenablog.com/entry/2019/08/12/095854\" rel=\"noreferrer noopener\" target=\"_blank\">https://jovi0608.hatenablog.com/entry/2019/08/12/095854</a></p>\n<p>TLSとWebブラウザの表示のいまとこれから～URLバーの表示はどうなるのか～</p>\n<p><a href=\"https://www.nic.ad.jp/sc-sendai/program/iwsc-sendai-d2-5.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.nic.ad.jp/sc-sendai/program/iwsc-sendai-d2-5.pdf</a></p>\n<p>Internet Explorer 11 サポート終了</p>\n<p><a href=\"https://blogs.windows.com/japan/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\" rel=\"noreferrer noopener\" target=\"_blank\">Internet Explorer は Microsoft Edge へ – Windows 10 の Internet Explorer 11 デスクトップアプリは 2022 年 6 月 15 日にサポート終了 - Windows Blog for Japan</a></p>\n<p><br></p>\n<p>＜補足＞　Apple Safariでは、EV証明書を利用するサイトの場合、アドレスバー自体は緑にはなりませんが、ドメイン名を緑字で表示しています。（ただし、組織名表示は取りやめ、ドメイン表示に変えています</p>\n<p><a href=\"https://japan.zdnet.com/article/35141280/\">「Chrome」と「Firefox」のアドレスバーでEV証明書の情報表示を変更へ - ZDNet Japan</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/11-IE-e11hnmq",
+      "link": "https://anchor.fm/hitokuchipki/episodes/11-IE-e11hnmq",
       "guid": {
         "@isPermaLink": false,
         "#text": "aa61847b-8517-45e9-b88e-4efd481f4835"
@@ -1199,7 +1199,7 @@
     {
       "title": "10: モーリシャス政府のTLS傍受の計画と信頼されるルートストアの話、次世代Webカンファレンス2019 の話",
       "description": "<p>昨今発表されたモーリシャス政府のTLS傍受の計画と過去にあったカザフスタン政府の傍受とそれに伴うルートストアの対応の話、信頼ストアは利用目的が決まっている話、そして、次世代Webカンファレンス2019 の話をしました。</p>\n<ul>\n <li>モーリシャス政府のTLS傍受の計画<br>\n<a href=\"https://www.icta.mu/docs/2021/Social_Media_Public_Consultation.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">Social Media Public Consultation (icta.mu)</a></li>\n <li>カザフスタン政府の傍受</li>\n  <li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1567114\" rel=\"noreferrer noopener\" target=\"_blank\">1567114 - MITM on all HTTPS traffic in Kazakhstan (mozilla.org)<br>\n</a><a href=\"https://censoredplanet.org/kazakhstan\" rel=\"noreferrer noopener\" target=\"_blank\">Kazakhstan’s HTTPS Interception (censoredplanet.org)<br>\n</a><a href=\"https://blog.mozilla.org/blog/2019/08/21/mozilla-takes-action-to-protect-users-in-kazakhstan/\" rel=\"noreferrer noopener\" target=\"_blank\">Mozilla takes action to protect users in Kazakhstan - The Mozilla Blog<br>\n</a><a href=\"https://gigazine.net/news/20190719-mitm-https-traffic-kazakhstan/\" rel=\"noreferrer noopener\" target=\"_blank\">独裁国家が政府認証のルート証明書導入を国民に強制、ISPによる中間者攻撃も確認される - GIGAZINE</a></li>\n  <li>信頼されるルートストアは、目的に沿った利用を</li>\n  <li><a href=\"https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/?fbclid=IwAR3nImNemTvohZ9dpHfL8cPWqcD29uGFdNUosIgDCO4neJURfumcUOvxhj8\" rel=\"noreferrer noopener\" target=\"_blank\">Beware of Applications Misusing Root Stores - Mozilla Security Blog</a></li>\n  <li>次世代Webカンファレンス2019 <a href=\"https://gigazine.net/news/20190719-mitm-https-traffic-kazakhstan/\" rel=\"noreferrer noopener\" target=\"_blank\"><br>\n</a><a href=\"https://www.youtube.com/watch?v=_8dCa8wj8QY\" rel=\"noreferrer noopener\" target=\"_blank\">HTTPS - 次世代Webカンファレンス #nwc_https<br>\n</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/10-TLSWeb2019-e11a7u1",
+      "link": "https://anchor.fm/hitokuchipki/episodes/10-TLSWeb2019-e11a7u1",
       "guid": {
         "@isPermaLink": false,
         "#text": "bb64f8e0-b2c8-47ac-a517-6efb667efcd9"
@@ -1226,7 +1226,7 @@
     {
       "title": "9: 落穂ひろい回(Camerfirma CA、Apple CT Policy、Let's Encryptのクロスサイン証明書についてのその後）",
       "description": "<p>これまで話してきた Camerfirma CA、Apple CT Policy、Let's Encryptのクロスサイン証明書について、その後に語られた内容について話しました。</p>\n<p>Camerfirma CAのDistrustのその後</p>\n<ul>\n <li><a href=\"https://groups.google.com/g/mozilla.dev.security.policy/c/dSeD3dgnpzk/m/EwZi2p48BwAJ\">Summary of Camerfirma's Compliance Issues (google.com)</a></li>\n</ul>\n<p><br></p>\n<p>Apple CT Policy Update のその後</p>\n<ul>\n <li><a href=\"https://sslmate.com/blog/post/apples_new_ct_policy\" rel=\"noreferrer noopener\" target=\"_blank\">Tens of Thousands of GoDaddy Certificates Will Break in macOS 11.4 and iOS 14.6 - SSLMate Blog</a></li>\n <li><a href=\"https://gist.github.com/robstradling/17cedbd6ea3c452676b23ef3faab4df8\" rel=\"noreferrer noopener\" target=\"_blank\">Rough analysis of CAs embedding too few SCTs to comply with the 2021-04-21 update to the Apple CT Policy · GitHub</a></li>\n <li><a href=\"https://www.hardenize.com/blog/certificate-transparency-policies-diverge-with-apples-update?utm_source=fd&utm_medium=www&utm_campaign=nl76\" rel=\"noreferrer noopener\" target=\"_blank\">Certificate Transparency Policies Diverge After Apple's Update | Hardenize Blog<br>\n</a></li>\n</ul>\n<p>Let's Encryptのクロスサイン証明書のその後</p>\n<ul>\n  <li><a href=\"https://qiita.com/kjur/items/2fd72b6707497c7fc6c5\" rel=\"noreferrer noopener\" target=\"_blank\">Let's Encryptのルート認証局移行についてちょっと調べてみた - Qiita</a></li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p>Appleの新しいCTポリシーに準拠していない証明書を発行したCAの話の中で、ミスがありました。訂正してお詫びします：</p>\n<p>×発行枚数が一番多かったCAの原因が180日を６か月としたのではないか</p>\n<p>〇発行枚数が２番目に多かったCAの原因が180日を６か月としたのではないか</p>\n<p><br></p>\n<p>×発行された証明書の有効期限を見てみると 181-254days だった</p>\n<p>〇発行された証明書の有効期限を見てみると182日１４時間５４分３６秒だった</p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/9-Camerfirma-CAApple-CT-PolicyLets-Encrypt-e10lqr8",
+      "link": "https://anchor.fm/hitokuchipki/episodes/9-Camerfirma-CAApple-CT-PolicyLets-Encrypt-e10lqr8",
       "guid": {
         "@isPermaLink": false,
         "#text": "e4949aa1-053d-4dbb-991a-2ba401a1949b"
@@ -1253,7 +1253,7 @@
     {
       "title": "8: トラストアンカーの証明書の有効期限が検証されない話とクロスサイニング難しい話",
       "description": "<p>少し話題になっていた、Let's EncryptでDST Root CA X3から発行されたISRG Root X1のクロスサイニング証明書が中間CA証明書として設定されるようになった話から、DST Root CA X3は2021年9月30日で切れるけど、トラストアンカーの証明書の有効期限は古いAndroidでは検証されないので使えるよという話題になり、トラストアンカーの証明書の有効期限って過ぎても使えるんですね！（トラストしているのは公開鍵だから）という話をしました。</p>\n<ul>\n <li><a href=\"https://songmu.jp/riji/entry/2021-04-30-letsencrypt-final.html\" rel=\"noreferrer noopener\" target=\"_blank\">Let's Encryptのルート証明書切替周り(完結編) | おそらくはそれさえも平凡な日々 (songmu.jp)<br>\n</a></li>\n <li><a href=\"https://twitter.com/hasegawayosuke/status/1387942059777003520\" rel=\"noreferrer noopener\" target=\"_blank\">Yosuke HASEGAWAさんはTwitterを使っています 「こんな方法ありなのｗ「なんと、旧Androidはトラストストアに入っている証明書の有効期限検証をおこなわないため、2021年9月29日より後も証明書検証に成功するらしいのです。何ということでしょう…。」https://t.co/iWctgvbd31」 / Twitter<br>\n</a></li>\n  <li><a href=\"https://gist.github.com/kazuho/48aa2167a3ca16451a7e13529b75fe81\" rel=\"noreferrer noopener\" target=\"_blank\">https://twitter.com/kazuho/status/1387965341855219721 の想定回答 · GitHub<br>\n</a></li>\n  <li><a href=\"https://tools.ietf.org/html/rfc5280\" rel=\"noreferrer noopener\" target=\"_blank\">RFC 5280 - Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile (ietf.org)<br>\n</a></li>\n  <li><a href=\"https://www.ipa.go.jp/security/rfc/RFC5280-00JA.html\" rel=\"noreferrer noopener\" target=\"_blank\">Internet X.509 PKI Certificate and Certificate Revocation List (CRL) Profile (ipa.go.jp)<br>\n</a></li>\n  <li><a href=\"https://developers-jp.googleblog.com/2021/04/googlehttps.html\" rel=\"noreferrer noopener\" target=\"_blank\">Google Developers Japan: Google、HTTPS、デバイスの互換性 (googleblog.com)<br>\n</a></li>\n  <li><a href=\"https://www.fundokin.co.jp/products/shirodashi/\">料亭の味 白だし | フンドーキン醬油株式会社 (fundokin.co.jp)</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/8-e10dhn3",
+      "link": "https://anchor.fm/hitokuchipki/episodes/8-e10dhn3",
       "guid": {
         "@isPermaLink": false,
         "#text": "74b4044c-9bf6-451f-b8d3-e92ffc533719"
@@ -1280,7 +1280,7 @@
     {
       "title": "ep7: プラットフォームごとのCTポリシー、Trusted Root Store、失効検証についてと、キテレツ大百科の話",
       "description": "<p>プラットフォームごとに異なるCTポリシー、Trusted Root Store、失効検証についての話と、キテレツ大百科・らんま1/2の音楽がすばらしい話をしました。</p>\n<ul>\n <li>Appleの Certificate Transparency Policyのアップデート<br>\n<br>\n<a href=\"https://support.apple.com/en-us/HT205280\" rel=\"noreferrer noopener\" target=\"_blank\">Apple's Certificate Transparency policy - Apple Support<br>\n<br>\n</a><a href=\"https://groups.google.com/a/chromium.org/g/ct-policy/c/22R_wrH9WzE\" rel=\"noreferrer noopener\" target=\"_blank\">Apple's Next CT Policy Update (google.com)<br>\n</a></li>\n <li>Mozilla のルートストア、失効した証明書のリストの話<br>\n<br>\nRoot Store <a href=\"https://wiki.mozilla.org/CA\" rel=\"noreferrer noopener\" target=\"_blank\">CA - MozillaWiki<br>\n<br>\n</a>Revocation list <a href=\"https://blog.mozilla.org/security/2020/01/09/crlite-part-2-end-to-end-design/\" rel=\"noreferrer noopener\" target=\"_blank\">The End-to-End Design of CRLite - Mozilla Security Blog<br>\n</a></li>\n  <li>Chrome のルートストア、失効した証明書のリストの話<br>\n<br>\nRootStore <a href=\"https://www.chromium.org/Home/chromium-security/root-ca-policy\" rel=\"noreferrer noopener\" target=\"_blank\">Chrome Root Program - The Chromium Projects<br>\n<br>\n</a>Revocation List <a href=\"https://dev.chromium.org/Home/chromium-security/crlsets\" rel=\"noreferrer noopener\" target=\"_blank\">CRLSets - The Chromium Projects<br>\n</a></li>\n  <li>Microsoft のルートストアの話<br>\n<br>\n<a href=\"https://docs.microsoft.com/ja-jp/security/trusted-root/release-notes\" rel=\"noreferrer noopener\" target=\"_blank\">リリースノート-Microsoft 信頼されたルート証明書プログラム | Microsoft Docs<br>\n</a></li>\n</ul>\n<p><br></p>\n<ul>\n  <li>訂正：ChromeのRoot Storeは 20個とかくらい　→ ちゃんと数えてみたら 122個ありました。</li>\n  <li>　　　MicrosoftのRoot Storeは300個とかくらい　→ちゃんと数えてみたら415個ありました。　</li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/ep7-CTTrusted-Root-Store-evoc8p",
+      "link": "https://anchor.fm/hitokuchipki/episodes/ep7-CTTrusted-Root-Store-evoc8p",
       "guid": {
         "@isPermaLink": false,
         "#text": "59dfeb0f-cb52-4e32-9bc1-73db53f6a11e"
@@ -1307,7 +1307,7 @@
     {
       "title": "6: SHA-1のリタイアと署名検証の話",
       "description": "<p>トラストって何？の話、 WindowsでSHA-1がリタイアする話、署名検証の話、素数ぜみ、キャベツの話をしました。 &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n <li>PKI & TRUST Days online 2021 「デジタル社会におけるトラスト」<br>\n<br>\n<a href=\"https://www.jnsa.org/seminar/pki-day/2021/index.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.jnsa.org/seminar/pki-day/2021/index.html<br>\n</a></li>\n <li>本の紹介：TRUST 世界最先端の企業はいかに〈信頼〉を攻略したか | レイチェル・ボッツマン, 関 美和<br>\n<a href=\"https://www.amazon.co.jp/dp/4822255565\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.amazon.co.jp/dp/4822255565</a></li>\n  <li>本の紹介：<a href=\"https://www.amazon.co.jp/%E4%BF%A1%E9%A0%BC%E2%80%95%E7%A4%BE%E4%BC%9A%E7%9A%84%E3%81%AA%E8%A4%87%E9%9B%91%E6%80%A7%E3%81%AE%E7%B8%AE%E6%B8%9B%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0-%E3%83%8B%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3/dp/4326651202\">信頼―社会的な複雑性の縮減メカニズム | ニクラス・ルーマン, 大庭 健, 正村 俊之 |本 | 通販 | Amazon</a></li>\n</ul>\n<p><br></p>\n<ul>\n  <li>SHA-1がリタイアします<br>\n<br>\n<a href=\"https://techcommunity.microsoft.com/t5/windows-it-pro-blog/microsoft-to-use-sha-2-exclusively-starting-may-9-2021/ba-p/2261924\" rel=\"noreferrer noopener\" target=\"_blank\">Microsoft to use SHA-2 exclusively starting May 9, 2021 - Microsoft Tech Community<br>\n</a></li>\n  <li>デジタル署名検証ガイドライン<br>\n<br>\n<a href=\"https://www.jnsa.org/result/e-signature/2021/index.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://www.jnsa.org/result/e-signature/2021/index.html</a></li>\n</ul>\n<p><br></p>\n<ul>\n  <li>キャベツのスライサー：<a href=\"https://www.amazon.co.jp/%E3%82%A2%E3%83%BC%E3%83%8D%E3%82%B9%E3%83%88-3%E5%80%8D%E9%80%9F%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B-%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96-%E5%A4%A7%E6%89%8B%E9%A3%B2%E9%A3%9F%E5%BA%97%E6%84%9B%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91/dp/B0026ZDJ7S/ref=pd_sbs_1?pd_rd_w=qbNut&pf_rd_p=7997b82e-5553-4baa-ac55-976d37fe0def&pf_rd_r=1K7M9HET2EXZH9RX0B2H&pd_rd_r=c2813aae-a842-421e-832a-337b64659341&pd_rd_wg=kfLSC&pd_rd_i=B087Z779JH&th=1\">Amazon.co.jp : アーネスト 【日本製】 スライサー (千切り) 3倍速でできる (3倍速 トリプルウェーブ) 大手飲食店愛用ブランド 限定カラー ブラック A-77295 【Amazon.co.jp限定】 : ホーム＆キッチン</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/6-SHA-1-ev8r50",
+      "link": "https://anchor.fm/hitokuchipki/episodes/6-SHA-1-ev8r50",
       "guid": {
         "@isPermaLink": false,
         "#text": "4a7569c1-ceef-4b1f-8c1d-0044e3382553"
@@ -1334,7 +1334,7 @@
     {
       "title": "5: PKIの次の十年の話と乗り物は楽しい話",
       "description": "<p>PKIの次の十年と、にしむねあさんの発見した脆弱性、そして乗り物は楽しい話をしました。</p>\n<p>・次の10年の話</p>\n<p><a href=\"https://unmitigatedrisk.com/?p=654\" rel=\"noreferrer noopener\" target=\"_blank\">The next decade of Public Key Infrastructure… | UNMITIGATED RISK</a></p>\n<p>・にしむねあさんの発見した脆弱性(証明書エラーページでXSS) <br>\n<a href=\"https://nishimunea.medium.com/\" rel=\"noreferrer noopener\" target=\"_blank\">https://nishimunea.medium.com/</a></p>\n<p>・前回の落穂ひろい</p>\n<p>Deprecating TLS 1.0 and TLS 1.1(2021 March)</p>\n<p><a href=\"https://tools.ietf.org/html/rfc8996\" rel=\"noreferrer noopener\" target=\"_blank\">https://tools.ietf.org/html/rfc8996</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/5-PKI-euqabl",
+      "link": "https://anchor.fm/hitokuchipki/episodes/5-PKI-euqabl",
       "guid": {
         "@isPermaLink": false,
         "#text": "15229d73-b7db-4454-a136-83f35e390c23"
@@ -1361,7 +1361,7 @@
     {
       "title": "4: SCT Auditing、Heartbleed7周年、Aavddon Ransomwareの鍵の取り出しの話",
       "description": "<p>SCT Auditing、Heartbleed7周年、Aavddon Ransomwareの鍵の取り出しについて話しました。&nbsp;</p>\n<ul>\n <li>SCT Auditing<br>\n</li>\n</ul>\n<p><a href=\"https://www.hardenize.com/blog/certificate-transparency-sct-auditing\" rel=\"noreferrer noopener\" target=\"_blank\">Certificate Transparency: SCT Auditing | Hardenize Blog</a></p>\n<p><a href=\"https://tools.ietf.org/html/rfc6962\" rel=\"noreferrer noopener\" target=\"_blank\">RFC 6962 - Certificate Transparency (ietf.org)</a></p>\n<p><a href=\"https://jp.globalsign.com/blog/articles/certificate_transparency.html\" rel=\"noreferrer noopener\" target=\"_blank\">Certificate Transparency | GMOグローバルサインブログ (globalsign.com)</a></p>\n<p><a href=\"https://docs.google.com/document/u/0/d/1G1Jy8LJgSqJ-B673GnTYIG4b7XRw2ZLtvvSlrqFcl4A/mobilebasic\" rel=\"noreferrer noopener\" target=\"_blank\">Opt-in SCT Auditing (public) (google.com)</a></p>\n<p><a href=\"https://groups.google.com/a/chromium.org/g/ct-policy/c/4puGir9pNFA\" rel=\"noreferrer noopener\" target=\"_blank\">Chrome CT 2021 Plans (google.com)</a></p>\n<ul>\n <li>A safer default for navigation: HTTPS<br>\n</li>\n</ul>\n<p><a href=\"https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html</a></p>\n<ul>\n  <li>Heartbleed7周年<br>\n</li>\n</ul>\n<p><a href=\"https://blog.cloudflare.com/heartbleed-revisited/\" rel=\"noreferrer noopener\" target=\"_blank\">https://blog.cloudflare.com/heartbleed-revisited/</a></p>\n<ul>\n  <li>Avaddon ランサムウェアの鍵のとりだし<br>\n</li>\n</ul>\n<p><a href=\"https://arxiv.org/pdf/2102.04796.pdf\" rel=\"noreferrer noopener\" target=\"_blank\">https://arxiv.org/pdf/2102.04796.pdf</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/4-SCT-AuditingHeartbleed7Aavddon-Ransomware-eufdep",
+      "link": "https://anchor.fm/hitokuchipki/episodes/4-SCT-AuditingHeartbleed7Aavddon-Ransomware-eufdep",
       "guid": {
         "@isPermaLink": false,
         "#text": "b4b577a2-f079-4930-b9e3-6264c3dc4414"
@@ -1388,7 +1388,7 @@
     {
       "title": "3: sigstoreと証明書の有効期限の話",
       "description": "<p>素敵なアートワークを作っていただきました。@HAZIさんありがとうございます！ &nbsp;</p>\n<p>前回話したsigstoreのアーキテクチャ、WebPKIで利用する証明書の有効期限が短くなる流れについて話しました。&nbsp;</p>\n<p>&nbsp;-sigstore A non-profit, public good software signing & transparency service <a href=\"https://sigstore.dev/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://sigstore.dev/\">https://sigstore.dev/</a>&nbsp;</p>\n<p>-GMOグローバルサインブログ: SSLサーバ証明書の有効期間を短縮するという決定に関する続報 <a href=\"https://jp.globalsign.com/blog/articles/cabrowserforum_200707.html\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://jp.globalsign.com/blog/articles/cabrowserforum_200707.html\">https://jp.globalsign.com/blog/articles/cabrowserforum_200707.html</a></p>\n<p><br></p>\n<p><録音時の問題により、ふたりの音声の大きさが揃っておらず、聞きづらいところがあります。申し訳ありません></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/3-sigstore-etfi6q",
+      "link": "https://anchor.fm/hitokuchipki/episodes/3-sigstore-etfi6q",
       "guid": {
         "@isPermaLink": false,
         "#text": "4c7f7eb7-d461-4cb4-abc2-a48d556e670f"
@@ -1415,7 +1415,7 @@
     {
       "title": "2: Let's Encryptの2フィートとオープンな署名サービスのプロジェクト話",
       "description": "<p>CTのちょっとした話と、Let's Encrypt がルート認証局を始めたことにおける「2フィート」 をどうするのかという話、</p>\n<p>そして OSS向けにオープンな署名サービスを提供しようとこころみるSigstoreプロジェクトの話をしました。</p>\n<p><br></p>\n<p>参考情報</p>\n<p>RFC6962</p>\n<p><a href=\"https://tools.ietf.org/html/rfc6962\">https://tools.ietf.org/html/rfc6962</a></p>\n<p><br></p>\n<p>JPNIC　Certificate Transparency (CT)とは</p>\n<p><a href=\"https://www.nic.ad.jp/ja/basics/terms/ct.html\">https://www.nic.ad.jp/ja/basics/terms/ct.html</a></p>\n<p><br></p>\n<p>Certificate Transparencyを知ろう - JNSA</p>\n<p><a href=\"https://www.jnsa.org/seminar/pki-day/2016/data/1-2_oosumi.pdf\">https://www.jnsa.org/seminar/pki-day/2016/data/1-2_oosumi.pdf</a></p>\n<p><br></p>\n<p>Standing on Our Own Two Feet [Updated]</p>\n<p><a href=\"https://letsencrypt.org/2020/11/06/own-two-feet.html\">https://letsencrypt.org/2020/11/06/own-two-feet.html</a></p>\n<p><br></p>\n<p>Sigstore</p>\n<p><a href=\"https://sigstore.dev/\">https://sigstore.dev/</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/2-Lets-Encrypt2-esvn28",
+      "link": "https://anchor.fm/hitokuchipki/episodes/2-Lets-Encrypt2-esvn28",
       "guid": {
         "@isPermaLink": false,
         "#text": "a7c87f6b-213f-467e-b7dd-196cf24f6afc"
@@ -1442,7 +1442,7 @@
     {
       "title": "1: 節分と、あるCAが信頼されなくなるって話",
       "description": "<p>節分、スペインの認証局Carmerfirma がChrome90からdistrustされる件について話しました。</p>\n<p><br></p>\n<p><a href=\"https://groups.google.com/g/mozilla.dev.security.policy/c/dSeD3dgnpzk/m/iAUwcFioAQAJ?pli=1\">Summary of Camerfirma's Compliance Issues (google.com)</a></p>\n<p><br></p>\n<p>@jovi0608 さんツイート</p>\n<p><a href=\"https://twitter.com/jovi0608/status/1354047261945151491\">https://twitter.com/jovi0608/status/1354047261945151491</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/1-CA-epte7g",
+      "link": "https://anchor.fm/hitokuchipki/episodes/1-CA-epte7g",
       "guid": {
         "@isPermaLink": false,
         "#text": "73b6ba57-441c-413b-ad6f-33a7ab8bb32f"
@@ -1467,7 +1467,7 @@
     {
       "title": "0: ポッドキャスト始めるって話",
       "description": "<p>雑談とPKIのポッドキャスト始めようと思ったきっかけなどを話しました。よろしくお願いします！</p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/0-eptbr8",
+      "link": "https://anchor.fm/hitokuchipki/episodes/0-eptbr8",
       "guid": {
         "@isPermaLink": false,
         "#text": "d723f40e-50b3-45bf-82cc-870bc98172f9"
