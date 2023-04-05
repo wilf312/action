@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #68",
+      "description": "<p>20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-68-e21nd0s",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "1e7a69c2-3eec-4034-9cf7-9e000ee4efed"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 05 Apr 2023 03:00:13 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/67924444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-4%2F48ed5bb9-7b9d-5d00-9dd3-93de90f7add0.m4a",
+        "@length": 39088893,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:57",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #67",
       "description": "<p>20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-67-e218o83",
