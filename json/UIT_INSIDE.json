@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.141「UIT Meetup vol.19『デザインシステムのリアル』 」Aftershow",
+      "link": "https://uit-inside.linecorp.com/episode/141",
+      "pubDate": "Fri, 07 Apr 2023 09:00:00 GMT",
+      "description": "<p>@odan3240 が @AlanGDavalos, @ibulog_, @vwxyutarooo とともに、 UIT Meetup について振り返りつつ語りました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/141"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode141.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Davalos Alan(AlanGDavalos),odan(odan3240),vwxyutarooo(vwxyutarooo),ibulog_(ibulog_)",
+      "itunes:subtitle": "ep.141「UIT Meetup vol.19『デザインシステムのリアル』 」Aftershow",
+      "itunes:duration": "37:37",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode141.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.140『自動テストからMonorepoまで - UIT新春Tech blog 2023のご紹介』",
       "link": "https://uit-inside.linecorp.com/episode/140",
       "pubDate": "Fri, 03 Mar 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode042.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ",
-      "link": "https://uit-inside.linecorp.com/episode/41",
-      "pubDate": "Fri, 01 May 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining と @harumitsu.fujii が、ビジュアルレグレッションテストを導入した時の話や困りごと、今後のE2Eテストへの期待について話しました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/41"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-041.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "spring-raining(spring_raining),Fujii Harumitsu(harumitsu-fujii)",
-      "itunes:subtitle": "ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ",
-      "itunes:duration": "34:15",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode041.png",
         "#text": null
       }
     }
