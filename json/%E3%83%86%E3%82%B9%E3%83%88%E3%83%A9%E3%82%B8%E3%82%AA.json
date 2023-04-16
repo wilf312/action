@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 19 Mar 2023 23:00:00 +0000",
+  "lastBuildDate": "Sun, 16 Apr 2023 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,39 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第229回 テストラジオ 思い込みと会話不足から漏れそうになったバグの話",
+      "link": "https://testradio.fm/testradio-no/1410/",
+      "pubDate": "Sun, 16 Apr 2023 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1410"
+      },
+      "comments": "https://testradio.fm/testradio-no/1410/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1410/feed/",
+      "slash:comments": 0,
+      "category": [
+        "テストラジオ",
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/04/N229TestRadio.mp3",
+        "@length": 71163867,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://www.youtube.com/embed/8Y3ho88z_xo      https://twitter.com/hiroyuki3gou/status/1647563740693565440?s=20",
+      "itunes:summary": "https://www.youtube.com/embed/8Y3ho88z_xo<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://twitter.com/hiroyuki3gou/status/1647563740693565440?s=20",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:39",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1410
+      }
+    },
     {
       "title": "第228回 テストラジオ JaSST Tokyo お疲れ様でした！",
       "link": "https://testradio.fm/testradio-no/1407/",
@@ -320,35 +353,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1363
-      }
-    },
-    {
-      "title": "第219回 テストラジオ 勇者本：ソフトウェアテストをカイゼンする 50のアイデア について",
-      "link": "https://testradio.fm/testradio-no/1358/",
-      "pubDate": "Sun, 16 Oct 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1358"
-      },
-      "comments": "https://testradio.fm/testradio-no/1358/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1358/feed/",
-      "slash:comments": 0,
-      "category": "テストラジオ",
-      "description": "ソフトウェアテストをカイゼンする50のアイデア",
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/10/N219TestRadio.mp3",
-        "@length": 70969945,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "ソフトウェアテストをカイゼンする50のアイデア",
-      "itunes:summary": "ソフトウェアテストをカイゼンする50のアイデア",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "29:34",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1358
       }
     }
   ]
