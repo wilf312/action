@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 10 Apr 2023 11:00:27 +0000",
+  "lastBuildDate": "Mon, 17 Apr 2023 11:00:47 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -65,6 +65,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第176回 黒猫 in NY！偽エラーと不正利用の顛末は？スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1481",
+      "pubDate": "Mon, 17 Apr 2023 11:00:47 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1481"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1481#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1481",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet【関連記事】 ・Ransomware attack that forced a New York c[...]",
+      "content:encoded": "<div id=\"tweetbutton1481\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1481&text=%E7%AC%AC176%E5%9B%9E%20%E9%BB%92%E7%8C%AB%20in%20NY%EF%BC%81%E5%81%BD%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A8%E4%B8%8D%E6%AD%A3%E5%88%A9%E7%94%A8%E3%81%AE%E9%A1%9B%E6%9C%AB%E3%81%AF%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1481\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://therecord.media/suffolk-county-new-york-ransomware-investigation\">Ransomware attack that forced a New York county back to pen and paper began in 2021, official says</a><br />\n・<a href=\"https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome\">改ざんされたWebサイトからGoogle Chromeの偽エラー画面を使ってマルウェアを配布する攻撃キャンペーンについて, Rintaro Koike</a><br />\n・<a href=\"https://www.businessinsider.com/credit-card-phone-theft-sim-swap-identity-theft-investigation-2023-4\">Hacker Stole My Phone, Credit Card, Identity. I Set Out to Find Them.</a><br />\n・<a href=\"https://www.justice.gov/usao-sdny/pr/multiple-us-postal-service-employees-and-others-arrested-13-million-fraud-and-identity\">Multiple U.S. Postal Service Employees And Others Arrested For $1.3 Million Fraud And Identity Theft Scheme | USAO-SDNY | Department of Justice</a><br />\n・<a href=\"https://nomimono-shop.jp/online/\">公式通販サイト「おうちでのみもの。」 / TOPページ</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/bokutachinomunara.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/bokutachinomunara-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1483\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/bokutachinomunara-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bokutachinomunara-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bokutachinomunara-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bokutachinomunara.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>溢れている略語。そんな滑舌悪い？適当で当たる。最高生命保険ってあるんかい。普段の話でしたのかポッドキャストでしたのか分からなくなるときがある。そんなイメージあるのかぁ。デバイスごとの使用割合。思っているより使っているかもしれない説。弱いけどそれくらいしか示せない。製品によっては観点を変えれば効果の示し方があるのではなかろうか。たぶん久しぶり。BlackCat事案。少し前の事案だけど会見があったので紹介。初期アクセスから実被害まで8ヶ月。マイニングツールがあったということも考慮すると。パッチを当てるまでもかなりの時間があった。パッチ適用時には侵害を受けていることを考慮しないといけない問題。いまだにそんなんあんのんかは大体ある。身代金と復旧費用の対比。色々な偽があるけど今日はエラー画面。落ちてくるのはマイニングツール。ほりほり。手口は真似られる。どう注意喚起するのが分かりやすいか。割に合うのか合わないのか。一旦マイニング。売り手が現れるまでマイニングしておくとかってケースあるんかなぁ。SIMスワップされたある記者の体験談。不審なレシート。グッチよりアップルにお金落としてた。物理で被害が起きている。お宮入りしかけたその時！この犯罪の手口のはじまりは意外にも！サイコバニーが1番助けてくれた。狙われた理由が見当違いだった。本人確認の在り方を考え直さないといけなくなってきてるかも。店舗の味そのままに。味はスベってません。<br />\n&nbsp;<br />\n【チャプター】<br />\n| 1 | いつもの雑談から                      | 00:00 |<br />\n| 2 | お便りのコーナー                      | 06:11 |<br />\n| 3 | (T) ニューヨーク州で起きたランサムウェア事案を振り返る | 14:30 |<br />\n| 4 | (P) Chrome の偽エラー画面からのマルウェア配布  | 30:59 |<br />\n| 5 | (N) SIM スワップだけじゃなかった事案        | 41:22 |<br />\n| 6 | オススメのアレ                       | 62:40 |</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年04月16日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_230417_DQ1-3.mp3",
+        "@length": 32789257,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet【関連記事】 ・Ransomware attack that forced a New York c[...]",
+      "itunes:summary": "Tweet【関連記事】 ・Ransomware attack that forced a New York c[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:08:06"
+    },
     {
       "title": "第175回 そんなマジメで大丈夫か？スペシャル",
       "link": "https://www.tsujileaks.com/?p=1474",
@@ -334,12 +363,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1410"
       },
-      "comments": "https://www.tsujileaks.com/?p=1410#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1410",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet  【告知】 LINEスタンプ申請中！ 【関連記事】 ・About Security Ke[...]",
-      "content:encoded": "<div id=\"tweetbutton1410\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1410&text=%E7%AC%AC166%E5%9B%9E%20%E5%AF%9D%E8%B5%B7%E3%81%8D%E3%81%A8%E5%B0%8F%E3%83%8D%E3%82%BF%E3%81%A8%E5%A4%89%E6%9B%B4%E3%83%AD%E3%82%B0%E3%81%A8%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1410\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>&nbsp;</p>\n<p>【告知】<br />\nLINEスタンプ申請中！</p>\n<p>【関連記事】</p>\n<p>・<a href=\"https://support.apple.com/en-qa/HT213154\">About Security Keys for Apple ID – Apple Support (QA)</a><br />\n・<a href=\"https://www.goto.com/blog/our-response-to-a-recent-security-incident\">Our Response to a Recent Security Incident- GoTo</a><br />\n・<a href=\"https://specopssoft.com/blog/attackers-using-these-passwords-to-attack-rdp-port/\">[New Data] Attackers Are Using These Passwords to Attack the RDP Port Right Now – Specops Software</a><br />\n・<a href=\"https://www.coveware.com/blog/2023/1/19/improved-security-and-backups-result-in-record-low-number-of-ransomware-payments\">Improved Security and Backups Result in Record Low Number of Ransomware Payments</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/lessons-learned-from-the-windows-remote-desktop-honeypot-report/\">Lessons Learned from the Windows Remote Desktop Honeypot Report</a><br />\n・<a href=\"https://www.fortiguard.com/psirt/FG-IR-22-398\">PSIRT Advisories | FortiGuard</a><br />\n・<a href=\"https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd\">Analysis of FG-IR-22-398 – FortiOS – heap-based buffer overflow in SSLVPNd | Fortinet Blog</a><br />\n・<a href=\"https://www.mandiant.com/resources/blog/chinese-actors-exploit-fortios-flaw\">Suspected Chinese Threat Actors Exploiting FortiOS Vulnerability (CVE-2022-42475) | Mandiant</a><br />\n・<a href=\"https://www.meito.co.jp/products/ice-cream/2022frozenyg-1000.html\">フローズンヨーグルト | メイトー 協同乳業株式会社</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/S__340500485.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/S__340500485-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1411\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/S__340500485-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/S__340500485-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/S__340500485-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/S__340500485.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>みかんみかんみかん！みかんみかんみかん！みーかーんんんっ！王道は王道として。新しい動きの話。何をダメと言われているのか分からない理由。試しに出したらあかんかった。ご新規さんありがとう！予備キーって呼んでくれないですかね。本当の小ネタとは。LastじゃなかったPass。製品・サービスが社名になるパターン。クラウドストレージの共有。暗号化の鍵も？！使う側から見えない状態でどう信用すればいいかの線引き。安心と安全はコストがかかる。信用はそうではないんですけどなかなかね。GoTo Breach。どっちやねん。実際の攻撃の状況を加味したアドバイス。12文字以下の理由。効率と汎用性を考慮したバランスかも。根本的な対策ではないけど件数を減らせたことありますね。リモートワークが減ったのか。対策が進んだのか。フォーティの最近のアレ。久々の「高度」。二転三転されるアドバイザリ。変更履歴。IOCを活用するためにはログ保存の在り方をしっかり考えないともったない。はい。はい。はい。燃えてね。ほんでね。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年01月28日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_230130_mikan.mp3",
         "@length": 29445001,
