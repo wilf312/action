@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 17 Apr 2023 11:00:47 +0000",
+  "lastBuildDate": "Mon, 24 Apr 2023 11:32:55 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -65,6 +65,35 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第177回 バラバラ名称！色々チェーン！スペシャル",
+      "link": "https://www.tsujileaks.com/?p=1486",
+      "pubDate": "Mon, 24 Apr 2023 11:02:54 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1486"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1486#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1486",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet【関連記事】 ・Microsoft shifts to a new threat actor nam[...]",
+      "content:encoded": "<div id=\"tweetbutton1486\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1486&text=%E7%AC%AC177%E5%9B%9E%20%E3%83%90%E3%83%A9%E3%83%90%E3%83%A9%E5%90%8D%E7%A7%B0%EF%BC%81%E8%89%B2%E3%80%85%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1486\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://www.microsoft.com/en-us/security/blog/2023/04/18/microsoft-shifts-to-a-new-threat-actor-naming-taxonomy/\">Microsoft shifts to a new threat actor naming taxonomy – Microsoft Security Blog</a><br />\n・<a href=\"https://attack.mitre.org/groups/\">Groups | MITRE ATT&CK®</a><br />\n・<a href=\"https://www.3cx.com/blog/news/mandiant-security-update2/\">Mandiant Security Update – Initial Intrusion Vector | 3CX</a><br />\n・<a href=\"https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise\">3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible | Mandiant</a><br />\n・<a href=\"https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/xtrader-3cx-supply-chain\">X_Trader Supply Chain Attack Affects Critical Infrastructure Organizations in U.S. and Europe | Symantec Enterprise Blogs</a><br />\n・<a href=\"https://www.welivesecurity.com/2023/04/18/discarded-not-destroyed-old-routers-reveal-corporate-secrets/\">Discarded, not destroyed: Old routers reveal corporate secrets | WeLiveSecurity</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/nyancat.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/nyancat-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1487\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/nyancat-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/nyancat-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/nyancat-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/nyancat.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>今週はスタンド攻撃受けてるのか思った。もうすぐGWですね。Re:4のクリアは3回ではなく4回でした。長期休暇にやること。メンテ大事。先手先手のアレ。セキュリティ怪談師。ゼロをマイナスにというイメージの払拭。お便りで気付いた観点。具体案を示さないといけないですね。既に攻撃されている可能性の考慮から早期に気付ける仕組みの再確認かな。アクターの命名を変更。クラウドストライクに近い感じ。各社バラバラ名称は減らしてほしい。マルウェアの名前バラバラ問題もある中、EmotetはEmotetになっちゃってますね。IPAもそう呼んでる。別名としてはGeodo、Mealybugがあります。続報いいですよね。以前の3CXの初手と思われる原因が判明してきた。サプライチェーン攻撃の向こう側に更に。またも個人端末が媒介。控えめに言ってこのアクター。これは縦展開やな。個人のコンピュータに狙いを定めている攻撃も見過ごせないという教訓ですね。棚からVPN。チェーンチェーンチェーン。廃棄されたネットワーク機器。フォレンジック血祭り。どれくらい現実的か。攻撃者からするとガチャ？誰でも加担できるというのは割と怖い。めちゃめちゃ冷える。<br />\n&nbsp;<br />\n【チャプター】<br />\n| 1 | いつもの雑談から                                              | 00:00 |<br />\n| 2 | お便りのコーナー                                              | 03:52 |<br />\n| 3 | (P) Microsoft による脅威アクターの命名規則 | 11:42 |<br />\n| 4 | (N) 3CX 事件の続報                                         | 26:49 |<br />\n| 5 | (T) 廃棄されたネットワーク機器に残る情報    | 41:01 |<br />\n| 6 | オススメのアレ                                                 | 54:27 |</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年04月22日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_230423_WanderleiSilva.mp3",
+        "@length": 29580971,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet【関連記事】 ・Microsoft shifts to a new threat actor nam[...]",
+      "itunes:summary": "Tweet【関連記事】 ・Microsoft shifts to a new threat actor nam[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:duration": "1:01:25"
+    },
     {
       "title": "第176回 黒猫 in NY！偽エラーと不正利用の顛末は？スペシャル",
       "link": "https://www.tsujileaks.com/?p=1481",
@@ -334,12 +363,7 @@
         "@isPermaLink": false,
         "#text": "https://www.tsujileaks.com/?p=1420"
       },
-      "comments": "https://www.tsujileaks.com/?p=1420#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1420",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet【関連記事】 ・セキュリティのアレ 001 – LINE スタンプ | LINE STO[...]",
-      "content:encoded": "<div id=\"tweetbutton1420\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1420&text=%E7%AC%AC167%E5%9B%9E%20LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%973%E5%9B%9E%E3%81%AE%E3%83%AA%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1420\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://store.line.me/stickershop/product/22148222/ja\">セキュリティのアレ 001 – LINE スタンプ | LINE STORE</a><br />\n・<a href=\"https://asec.ahnlab.com/en/46457/\">Analysis Report on Malware Distributed via Microsoft OneNote – ASEC BLOG</a><br />\n・<a href=\"https://www.rapid7.com/blog/post/2023/01/31/rapid7-observes-use-of-microsoft-onenote-to-spread-redline-infostealer-malware/\">Rapid7 observes use of Microsoft OneNote to spread Redline Infostealer | Rapid7 Blog</a><br />\n・<a href=\"https://www.proofpoint.com/us/blog/threat-insight/onenote-documents-increasingly-used-to-deliver-malware\">OneNote Documents Increasingly Used to Deliver Malware | Proofpoint US</a><br />\n・<a href=\"https://labs.withsecure.com/publications/detecting-onenote-abuse\">Detecting OneNote Abuse | WithSecure<img src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png\" alt=\"™\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /> Labs</a><br />\n・<a href=\"https://vulncheck.com/blog/cvss-accuracy-issues\">Who to Trust? National Vulnerability Database CVSS Accuracy Issues – Blog – VulnCheck</a><br />\n・<a href=\"https://www.softbanktech.co.jp/special/blog/sbt_sbt/2022/0027\">脆弱性対応に見る現在の課題と対策〜情報セキュリティワークショップin越後湯沢2022 ナイトセッション参加レポート part.2〜 | SBテクノロジー (SBT)</a><br />\n・<a href=\"https://www.microsoft.com/en-us/security/blog/2023/01/26/2023-identity-security-trends-and-solutions-from-microsoft/\">Improve identity strategy with Microsoft – Microsoft Security Blog</a><br />\n・<a href=\"https://msrc-blog.microsoft.com/2023/01/31/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/\">Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process – Microsoft Security Response Center</a><br />\n・<a href=\"https://ja.wikipedia.org/wiki/%E7%94%98%E5%B9%B3\">甘平 – Wikipedia </a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/snow-1.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/snow-1-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1421\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/snow-1-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/snow-1-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/snow-1-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/snow-1.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>丁度武器になりそうな最強の靴べら。透明性の高い靴べらもいただきました！基本は忘れがちだけどいつまでも大事。お二人が使っている広告ブロッカー。スパイススワイプ。LINEスタンプの件。OneNoteの悪用。これまでの手法の脅威レベルが下がっている中。実行してしまったときの動きに注目しよう。謎仕様。初めてちゃんと使った。しっかり守れていたとしても人を介するものなので知ってもらうことは大事。CVSSはどれだけ正確なのだろうか。テレショッピング記事。実質基本値だけどそこもちょっと。「自分が」判断するための材料。IDを狙う攻撃の4分類。秒間go。通知うざうざ詐欺覚えてね！コンセントフィッシング。SNSのアプリ連携みたいな。エンプラとコンシューマアカウントどっちがハッキング率が高いでしょうか？長年故の注意喚起の難しさ。対策してもらうという姿勢で。ふるさと納税での発見。</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年02月05日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_230207_LINEstampNowOnSale.mp3",
         "@length": 28461256,
