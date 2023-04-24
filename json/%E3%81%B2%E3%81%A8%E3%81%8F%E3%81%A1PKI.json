@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "54: CT v3移行切り戻しとJA3の話、NIST SP 800-63-4の翻訳と漫画の話",
+      "description": "<p>2023年2月にCT v2からv3への移行が実施後に切り戻された話、コード署名証明書でもCTやってくれないかなの話、TLSハンドシェイクの情報を使ってサイバー攻撃のインフラを判別するJA3という手法の紹介と、ちょっとZT Browserの話をしました。雑談ではひとけーがNIST SP 800-63-4の翻訳に参加した話、漫画たくさん読んだ話、世紀末系の話が怖い話をしました。</p>\n<p><br></p>\n<p>\t• どうやら、(予定されていた) certificate transparency (CT) v3 への移行後、対応してないためにCTエラーがでているアプリが多数出ている模様👀</p>\n<p>\t\t○ <a href=\"https://twitter.com/EurekaBerry/status/1626048541906059265\" target=\"_blank\" rel=\"noopener noreferer\">https://twitter.com/EurekaBerry/status/1626048541906059265 </a></p>\n<p>\t• JA3 初めて知った</p>\n<p>\t\t○ <a href=\"https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/\" target=\"_blank\" rel=\"noopener noreferer\">https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/</a></p>\n<p>\t\t○ <a href=\"https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/\" target=\"_blank\" rel=\"noopener noreferer\">https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/</a></p>\n<p>\t• NIST SP 800-63 Digital Identity Guidelines Revision 4 (翻訳版)</p>\n<p>\t\t○ <a href=\"https://openid-foundation-japan.github.io/800-63-4/index.ja.html\" target=\"_blank\" rel=\"noopener noreferer\">https://openid-foundation-japan.github.io/800-63-4/index.ja.html</a></p>\n<p>\t\t○ ひとけーが翻訳に参加しました</p>\n<p>\t• コミックデイズでいくつかのイブニング作品の読み放題実施中です</p>\n<p>\t\t○ <a href=\"https://comic-days.com/blog/entry/evening_0festival\" target=\"_blank\" rel=\"noopener noreferer\">https://comic-days.com/blog/entry/evening_0festival</a></p>\n<p>\t\t</p>\n<p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/54-CT-v3JA3NIST-SP-800-63-4-e22tqln",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d58b408b-cc1a-441b-bf84-303c0703825a"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Mon, 24 Apr 2023 07:38:43 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/69183607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F3b772b9f-7569-bd91-0326-0c1bd8a8e77f.mp3",
+        "@length": 45716184,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2023年2月にCT v2からv3への移行が実施後に切り戻された話、コード署名証明書でもCTやってくれないかなの話、TLSハンドシェイクの情報を使ってサイバー攻撃のインフラを判別するJA3という手法の紹介と、ちょっとZT Browserの話をしました。雑談ではひとけーがNIST SP 800-63-4の翻訳に参加した話、漫画たくさん読んだ話、世紀末系の話が怖い話をしました。</p>\n<p><br></p>\n<p>\t• どうやら、(予定されていた) certificate transparency (CT) v3 への移行後、対応してないためにCTエラーがでているアプリが多数出ている模様👀</p>\n<p>\t\t○ <a href=\"https://twitter.com/EurekaBerry/status/1626048541906059265\" target=\"_blank\" rel=\"noopener noreferer\">https://twitter.com/EurekaBerry/status/1626048541906059265 </a></p>\n<p>\t• JA3 初めて知った</p>\n<p>\t\t○ <a href=\"https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/\" target=\"_blank\" rel=\"noopener noreferer\">https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/</a></p>\n<p>\t\t○ <a href=\"https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/\" target=\"_blank\" rel=\"noopener noreferer\">https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/</a></p>\n<p>\t• NIST SP 800-63 Digital Identity Guidelines Revision 4 (翻訳版)</p>\n<p>\t\t○ <a href=\"https://openid-foundation-japan.github.io/800-63-4/index.ja.html\" target=\"_blank\" rel=\"noopener noreferer\">https://openid-foundation-japan.github.io/800-63-4/index.ja.html</a></p>\n<p>\t\t○ ひとけーが翻訳に参加しました</p>\n<p>\t• コミックデイズでいくつかのイブニング作品の読み放題実施中です</p>\n<p>\t\t○ <a href=\"https://comic-days.com/blog/entry/evening_0festival\" target=\"_blank\" rel=\"noopener noreferer\">https://comic-days.com/blog/entry/evening_0festival</a></p>\n<p>\t\t</p>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:10:03",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 54,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "53: CA/B Forumに新しく加入するときの手続きの話",
       "description": "<p>ZT Browser が CA/B Forum の Server Cert WG に参加申請を出していて、Ballot が行われたけど否決されてしまった様子の話をしました。雑談では、手続きのためにヒューストンに行ったけど珍道中になってしまった話、学士の学位がない人は学位授与機構から学位をもらおう！という話をしました。</p>\n<ul>\n <li><a href=\"https://lists.cabforum.org/pipermail/servercert-wg/2023-January/003485.html\" rel=\"noreferrer noopener\" target=\"_blank\">[Servercert-wg] Discussion period begins: Ballot SC60: Membership of ZT Browser (cabforum.org)</a></li>\n <li><a href=\"https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html\" rel=\"noreferrer noopener\" target=\"_blank\">https://zotrus.com/en/blog/apple-google-mozilla-opera-what-are-you-afraid-of.html</a></li>\n  <li>単位積み上げ型の学士の学位授与制度(大学改革支援・学位授与機構)<br>\nhttps://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/</li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub",
