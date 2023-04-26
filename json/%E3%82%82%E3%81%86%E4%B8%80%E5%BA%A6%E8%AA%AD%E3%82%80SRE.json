@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #69",
+      "description": "<p>20.4 ロードバランシングのポリシー から 20.4.1.3 マシンのばらつき まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-69-e22vs2b",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5ff56f88-44e4-4853-8014-b4844230f512"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 26 Apr 2023 03:00:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/69250571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2Fe8610c1e-423b-210a-f74e-b50207aff460.m4a",
+        "@length": 48975108,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>20.4 ロードバランシングのポリシー から 20.4.1.3 マシンのばらつき まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #68",
       "description": "<p>20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-68-e21nd0s",
