@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 04 Apr 2023 15:15:30 +0000",
+  "lastBuildDate": "Wed, 26 Apr 2023 03:44:35 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#112: SkyPilot: An Intercloud Broker for Sky Computing",
+      "link": "https://misreading.chat/2023/04/25/112-skypilot-an-intercloud-broker-for-sky-computing/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Wed, 26 Apr 2023 03:44:35 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=922"
+      },
+      "description": "クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。",
+      "content:encoded": "<p>複数クラウドをまたいだバッチのパイプラインを動かす話を<a href=\"https://jmuk.org/\">向井</a>が読みました。ご意見感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。<a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> もはじめました。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/04/ep112.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng\">SkyPilot: An Intercloud Broker for Sky Computing | USENIX</a></li>\n\n\n\n<li><a href=\"https://github.com/skypilot-org/skypilot\">GitHub – skypilot-org/skypilot: SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/04/ep112.mp3",
+        "@length": 28364599,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2364,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。",
+      "googleplay:description": "クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。",
+      "itunes:subtitle": "クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#111: Formal Algorithms for Transformers",
       "link": "https://misreading.chat/2023/04/04/111-formal-algorithms-for-transformers/",
