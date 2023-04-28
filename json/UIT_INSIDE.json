@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.142『license-checker ではじめる Node.js プロジェクトのライセンス管理』",
+      "link": "https://uit-inside.linecorp.com/episode/142",
+      "pubDate": "Fri, 28 Apr 2023 09:00:00 GMT",
+      "description": "<p>@spring_raining が @potato4d にネイティブアプリ開発で利用することになった Node.js プロジェクトの OSS ライセンス管理ツール『license-checker』について話を聞いてみました</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/142"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode142.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.142『license-checker ではじめる Node.js プロジェクトのライセンス管理』",
+      "itunes:duration": "16:20",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode142.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.141「UIT Meetup vol.19『デザインシステムのリアル』 」Aftershow",
       "link": "https://uit-inside.linecorp.com/episode/141",
       "pubDate": "Fri, 07 Apr 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode043.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ",
-      "link": "https://uit-inside.linecorp.com/episode/42",
-      "pubDate": "Fri, 15 May 2020 09:00:00 GMT",
-      "description": "<p>@potato4d と @spring_raining が、 @NozomuIkuta に普段のインプット・アウトプットの方法について聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/42"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-042.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)",
-      "itunes:subtitle": "ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ",
-      "itunes:duration": "23:15",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode042.png",
         "#text": null
       }
     }
