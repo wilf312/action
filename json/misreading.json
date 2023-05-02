@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 26 Apr 2023 21:04:53 +0000",
+  "lastBuildDate": "Tue, 02 May 2023 05:23:16 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#113: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "link": "https://misreading.chat/2023/05/01/113-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 02 May 2023 05:19:22 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=932"
+      },
+      "description": "LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などはおたより投書箱や Reddit にお寄せください。iTunes のレビューや星も歓迎です。",
+      "content:encoded": "<p>LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>や <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/05/ep113.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf\">Improving Language Understanding by Generative Pre-Training</a></li>\n\n\n\n<li><a href=\"https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf\">Language Models are Unsupervised Multitask Learners</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/2005.14165\">[2005.14165] Language Models are Few-Shot Learners</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/2201.11903\">[2201.11903] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a></li>\n\n\n\n<li><a href=\"https://thegradient.pub/nlp-imagenet/\">NLP’s ImageNet moment has arrived</a></li>\n\n\n\n<li><a href=\"https://thegradient.pub/in-context-learning-in-context/\">In-Context Learning, In Context</a></li>\n\n\n\n<li><a href=\"https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/\">ChatGPT Prompt Engineering for Developers – DeepLearning.AI</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/05/ep113.mp3",
+        "@length": 37155501,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 1548,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などはおたより投書箱や Reddit にお寄せください。iTunes のレビューや星も歓迎です。",
+      "googleplay:description": "LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などはおたより投書箱や Reddit にお寄せください。iTunes のレビューや星も歓迎です。",
+      "itunes:subtitle": "LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などはおたより投書箱や Reddit にお寄せください。iTunes のレビューや星も歓迎です。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#112: SkyPilot: An Intercloud Broker for Sky Computing",
       "link": "https://misreading.chat/2023/04/25/112-skypilot-an-intercloud-broker-for-sky-computing/",
