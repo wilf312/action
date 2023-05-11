@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "56: ChromeでHTTPSの鍵マークがなくなる話",
+      "description": "<p>30年の歴史を持つらしいHTTPSの鍵マークが、今年の秋ごろからChromeでは「チューンアイコン」へ変更されることについて話しました。雑談では、自転車に乗ると楽しいという話をしました。</p>\n<ul>\n <li>https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</li>\n <li>https://scotthelme.co.uk/goodbye-old-friend/\n\n\n\n\n\n\n</li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/56-ChromeHTTPS-e23sas2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "4db9e260-2e08-4c71-8244-81722b51114e"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Thu, 11 May 2023 08:44:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/70183234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-11%2Ff8085fc4-467d-2b13-baa4-86e81ececc70.mp3",
+        "@length": 29719944,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>30年の歴史を持つらしいHTTPSの鍵マークが、今年の秋ごろからChromeでは「チューンアイコン」へ変更されることについて話しました。雑談では、自転車に乗ると楽しいという話をしました。</p>\n<ul>\n <li>https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</li>\n <li>https://scotthelme.co.uk/goodbye-old-friend/\n\n\n\n\n\n\n</li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:51:07",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 56,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "55: ACME Renewal Information (ARI)の話",
       "description": "<p>Let's Encryptで証明書の失効と更新の自動化をサポートするACME Renewal Information (ARI)の運用が開始された話、クラウドフレアでドメイン保有者からの権限委譲でACMEでの証明書発行自動化を実施できるようになるDomain Control Validation (DCV)の運用が開始された話、技術書典14で新刊を出す決意表明などを話しました。雑談では何もしてないのにスマホが壊れた話をしました。</p>\n<p><br></p>\n<p>\t• Improving Resiliency and Reliability for Let’s Encrypt with ARI</p>\n<p>\t\t• <a href=\"https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html\" target=\"_blank\" rel=\"noopener noreferer\">https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html </a></p>\n<p>\t• Out now! Auto-renew TLS certificates with DCV Delegation</p>\n<p>\t\t• <a href=\"https://blog.cloudflare.com/introducing-dcv-delegation/\" target=\"_blank\" rel=\"noopener noreferer\">https://blog.cloudflare.com/introducing-dcv-delegation/</a></p>\n<p>\t• GlobalSign Announces ACME OV Certificate Support </p>\n<p>\t\t• <a href=\"https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support\" target=\"_blank\" rel=\"noopener noreferer\">https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support</a></p>\n<p>\t• 技術書典14</p>\n<p>\t\t• <a href=\"https://techbookfest.org/event/tbf14\" target=\"_blank\" rel=\"noopener noreferer\">https://techbookfest.org/event/tbf14</a></p>\n<p>\t\t</p>\n<p><br></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/55-ACME-Renewal-Information-ARI-e22voj9",
