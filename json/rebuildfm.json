@@ -39,6 +39,37 @@
   "language": "ja",
   "item": [
     {
+      "title": "360: Hallucinated Type Safety (matz)",
+      "description": "<p>まつもとゆきひろさんをゲストに迎えて、Ruby, 型、ChatGPT などについて話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://rubykaigi.org/2023/\">RubyKaigi 2023</a></li>\n<li><a href=\"https://twitter.com/dhh/status/1655076668787097607\">DHH on Twitter: \"TypeScript sucked out much of the joy I had writing JavaScript\"</a></li>\n<li><a href=\"https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html\">Accidentally Turing-Complete</a></li>\n<li><a href=\"https://sorbet.org/\">Sorbet</a></li>\n<li><a href=\"https://github.com/soutaro/steep\">steep</a></li>\n<li><a href=\"https://developer.fastly.com/learning/compute/custom/\">Unofficial SDKs on Compute@Edge</a></li>\n<li><a href=\"https://voicy.jp/channel/2940\">まつもと ゆきひろ「Matzチャンネル」</a></li>\n<li><a href=\"http://25.ruby.or.jp/\">Ruby25</a></li>\n</ul>",
+      "pubDate": "Sat, 13 May 2023 06:00:00 -0700",
+      "link": "https://rebuild.fm/360/",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://rebuild.fm/360/"
+      },
+      "itunes:author": "Tatsuhiko Miyagawa",
+      "dc:creator": "Tatsuhiko Miyagawa",
+      "atom:contributor": [
+        {
+          "atom:name": "matz",
+          "atom:uri": "https://rebuild.fm/people/matz/"
+        },
+        {
+          "atom:name": "miyagawa",
+          "atom:uri": "https://rebuild.fm/people/miyagawa/"
+        }
+      ],
+      "itunes:explicit": "no",
+      "itunes:subtitle": "まつもとゆきひろさんをゲストに迎えて、Ruby, 型、ChatGPT などについて話しました。",
+      "itunes:duration": "29:27",
+      "enclosure": {
+        "@url": "https://cache.rebuild.fm/podcast-ep360.mp3",
+        "@type": "audio/mpeg",
+        "@length": 21657904,
+        "#text": null
+      }
+    },
+    {
       "title": "359: AI Took My Job (rui314)",
       "description": "<p>Rui Ueyama さんをゲストに迎えて、引っ越し、オープンソースビジネス、AI、デスクなどについて話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/\">The Biden-Harris Administration Will End COVID-19 Vaccination Requirements</a></li>\n<li><a href=\"https://www.cbc.ca/news/business/missing-baggage-air-canada-1.6727981\">Canada's missing baggage woes explained</a></li>\n<li><a href=\"https://www.amazon.co.jp/dp/B0B6ZQJXW8?tag=bulknews-22\">Anker Eufy Security SmartTrack Link</a></li>\n<li><a href=\"https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/\">Apple, Google partner on an industry specification to address unwanted tracking</a></li>\n<li><a href=\"https://www.androidpolice.com/google-find-my-network-could-work-existing-bluetooth-trackers/\">Google’s Find My network could work with existing Bluetooth trackers</a></li>\n<li><a href=\"https://wise.com/promotion/referral-landing?utm_source=url&utm_medium=invite&utm_content=&utm_campaign=&referralCode=tatsuhikom9&referralToken=tatsuhikom9&profileType=PERSONAL\">Wise</a></li>\n<li><a href=\"https://povo.jp/spec/\">povo2.0</a></li>\n<li><a href=\"https://ahamo.com/\">ahamo</a></li>\n<li><a href=\"https://mineo.jp/\">mineo</a></li>\n<li><a href=\"https://bluewhale.systems/\">Blue Whale Systems</a></li>\n<li><a href=\"https://www.modular.com/mojo\">Mojo 🔥: Programming language for all of AI</a></li>\n<li><a href=\"https://lexfridman.com/chris-lattner-2/\">#131 - Chris Lattner: The Future of Computing and Programming Languages</a></li>\n<li><a href=\"https://futurism.com/startup-ai-remove-call-center-accents\">Cursed Startup Using AI to Remove Call Center Workers' Accents</a></li>\n<li><a href=\"https://kinesis-ergo.com/shop/adv360pro/\">Advantage360 Professional Split Mechanical Keyboard | Kinesis</a></li>\n<li><a href=\"https://preducts.jp/\">PREDUCTS</a></li>\n<li><a href=\"https://stockevents.app/en\">Stock Events - Track all your Investments</a></li>\n<li><a href=\"https://bsky.app/\">Bluesky Social</a></li>\n</ul>",
       "pubDate": "Sat, 06 May 2023 00:00:00 -0700",
