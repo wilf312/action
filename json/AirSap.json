@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Thu, 15 Sep 2022 19:32:55 +0000",
+  "lastBuildDate": "Tue, 16 May 2023 20:46:30 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -28,7 +28,7 @@
     }
   ],
   "language": "ja",
-  "generator": "Podlove Podcast Publisher v3.8.1",
+  "generator": "Podlove Podcast Publisher v3.8.6",
   "copyright": "© 2023 AirSap",
   "itunes:author": "AirSap",
   "itunes:type": "episodic",
@@ -49,6 +49,34 @@
   "itunes:block": "no",
   "itunes:explicit": "no",
   "item": [
+    {
+      "title": "#85 アプリ譲渡と10年開発したアプリとの別れ",
+      "link": "https://airsap.net/2023/05/17/85-simple-diet/",
+      "pubDate": "Tue, 16 May 2023 20:46:30 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2023-05-16t20:40:22+00:00-655234ea4a9644c"
+      },
+      "description": "@kurachi_jp さんに、アプリを譲渡した話や、1つのアプリを長年に渡って開発する秘訣などをお聞きしました。\r\n\r\n続けやすい体重管理アプリ「シンプルダイエット」 / アプリの譲渡 / １つのアプリを10年運営した秘訣 / アプリの成功を決定づけた出会い / アプリを売却したい人へのアドバイス / FlutterとAI",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2023/05/17/85-simple-diet/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/275/s/feed/c/podcast/AirSap85_20230503.mp3",
+        "@length": 25415353,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:35:17",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "アプリ譲渡と10年開発したアプリとの別れ",
+      "itunes:episode": 85,
+      "itunes:episodeType": "full",
+      "itunes:summary": "@kurachi_jp さんに、アプリを譲渡した話や、1つのアプリを長年に渡って開発する秘訣などをお聞きしました。\r\n\r\n続けやすい体重管理アプリ「シンプルダイエット」 / アプリの譲渡 / １つのアプリを10年運営した秘訣 / アプリの成功を決定づけた出会い / アプリを売却したい人へのアドバイス / FlutterとAI"
+    },
     {
       "title": "#84 Apple Event 2022",
       "link": "https://airsap.net/2022/09/16/84-apple-event-2022/",
