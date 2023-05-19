@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.143「サプライチェーン攻撃問題に一石を投じる！npm に新しく追加された新機能『provenance』について」",
+      "link": "https://uit-inside.linecorp.com/episode/143",
+      "pubDate": "Fri, 19 May 2023 09:00:00 GMT",
+      "description": "<p>@potato4d が @odan3240 に、 npm に新規追加された provenance 機能について話を聞きました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/143"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode143.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),odan(odan3240)",
+      "itunes:subtitle": "ep.143「サプライチェーン攻撃問題に一石を投じる！npm に新しく追加された新機能『provenance』について」",
+      "itunes:duration": "16:45",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode143.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.142『license-checker ではじめる Node.js プロジェクトのライセンス管理』",
       "link": "https://uit-inside.linecorp.com/episode/142",
       "pubDate": "Fri, 28 Apr 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode044.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW",
-      "link": "https://uit-inside.linecorp.com/episode/43",
-      "pubDate": "Mon, 25 May 2020 09:00:00 GMT",
-      "description": "<p>LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.1。初回は @potato4d と @spring_raining が、 @xingoxu の GW 企画「Flutter でのカレンダーアプリ作成」について話を聞きました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/43"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-043.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),xingoxu(xingoxu)",
-      "itunes:subtitle": "ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW",
-      "itunes:duration": "21:37",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode043.png",
         "#text": null
       }
     }
