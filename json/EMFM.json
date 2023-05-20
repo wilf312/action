@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "Re.23 LLM のパタンランゲージ",
+      "description": "<p>ChatGPT をはじめとして、大規模言語モデル(LLM)によってパラダイムシフトが起きようとしているように感じます。この大規模言語モデルがある世界でのパタンランゲージについて考えました。（4/14収録）\n\n■目次\n00:00:00 オープニング\n00:01:55 コードレベルで考え方がが変わる\n00:06:20 パタンランゲージ、デザインパターン\n00:08:48 憲法(Constitution)パターン\n00:09:32 サマリや全体を処理するパターン\n00:11:08 発散と収束パターン(あんちぽさん）\n00:12:17 Execution & Refine Loop\n00:13:32 Define & Evaluation & Refine Loop\n00:14:23 OKR的パターン\n00:15:22 ツール利用：ReAct\n00:16:18 Agent \n00:16:56 DAG\n00:17:46 組織設計と重なる部分\n00:20:08 個のエンパワーメント\n00:25:43 最新技術を前提に置けるか\n00:30:58 常にアップデート\n00:33:08 まとめ</p>",
+      "link": "https://podcasters.spotify.com/pod/show/em-fm/episodes/Re-23-LLM-e245v8a",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b5009beb-3c3e-4e9d-a3e5-1a9ba51fc645"
+      },
+      "dc:creator": "EM.FM",
+      "pubDate": "Sat, 20 May 2023 22:00:10 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/70a2c40/podcast/play/70499018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-16%2Fd7d92851-d74a-25af-f576-935abbdb30d8.m4a",
+        "@length": 67617501,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>ChatGPT をはじめとして、大規模言語モデル(LLM)によってパラダイムシフトが起きようとしているように感じます。この大規模言語モデルがある世界でのパタンランゲージについて考えました。（4/14収録）\n\n■目次\n00:00:00 オープニング\n00:01:55 コードレベルで考え方がが変わる\n00:06:20 パタンランゲージ、デザインパターン\n00:08:48 憲法(Constitution)パターン\n00:09:32 サマリや全体を処理するパターン\n00:11:08 発散と収束パターン(あんちぽさん）\n00:12:17 Execution &amp; Refine Loop\n00:13:32 Define &amp; Evaluation &amp; Refine Loop\n00:14:23 OKR的パターン\n00:15:22 ツール利用：ReAct\n00:16:18 Agent \n00:16:56 DAG\n00:17:46 組織設計と重なる部分\n00:20:08 個のエンパワーメント\n00:25:43 最新技術を前提に置けるか\n00:30:58 常にアップデート\n00:33:08 まとめ</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:50",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1081072/1081072-1538224666802-638090fd0e704.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "Re.22 ChatGPT 旋風のワクワク感",
       "description": "<p>Re21 収録後のアフターショーです(3/7 収録)。ChatGPT を使ったサービス/ツール制作の話など、急速に変化している日々とワクワク感について話しました。</p>\n<p><br></p>\n<p>■ Memo</p>\n<ul>\n <li>ChatGPT (<a href=\"https://openai.com/blog/chatgpt\">https://openai.com/blog/chatgpt</a>)</li>\n <li>Findy 業界初、ChatGPTを活用したエンジニア向けレジュメ自動生成の機能をリリース (<a href=\"https://findy.co.jp/1538/\">https://findy.co.jp/1538/</a>)</li>\n <li>wanna (<a href=\"https://github.com/hirokidaichi/wanna\">https://github.com/hirokidaichi/wanna</a>)</li>\n <li>いちいちシェルコマンド思い出せないので、ChatGPTで自然言語からスクリプトを生成するツールつくった (<a href=\"https://qiita.com/hirokidaichi/items/6d568d5ddcb02a91edf4\">https://qiita.com/hirokidaichi/items/6d568d5ddcb02a91edf4</a>)</li>\n  <li>langchain (<a href=\"https://github.com/hwchase17/langchain\">https://github.com/hwchase17/langchain</a>)</li>\n  <li>Stable Diffusion (<a href=\"https://ja.stability.ai/blog/stable-diffusion-public-release\">https://ja.stability.ai/blog/stable-diffusion-public-release</a>)</li>\n  <li>ControlNet (<a href=\"https://github.com/lllyasviel/ControlNet\">https://github.com/lllyasviel/ControlNet</a>)</li>\n  <li>LoRA (<a href=\"https://github.com/microsoft/LoRA\">https://github.com/microsoft/LoRA</a>)</li>\n  <li>NewsPicks 大規模言語モデル AI が道具をつかえるようになったという衝撃 (<a href=\"https://newspicks.com/topics/dx/posts/43\">https://newspicks.com/topics/dx/posts/43</a>)</li>\n  <li>ChatGPTに組織の価値観を読み込ませて、マネージャの代わりに論点出しさせる <strong>(</strong><a href=\"https://newspicks.com/topics/dx/posts/42\">https://newspicks.com/topics/dx/posts/42</a>)</li>\n  <li>画像生成AI「Stable Diffusion」でfMRIによる脳活動のデータから画像を生成する研究を阪大の研究者が発表<strong> (</strong><a href=\"https://gigazine.net/news/20230307-stable-diffusion-human-brain/\">https://gigazine.net/news/20230307-stable-diffusion-human-brain/</a><strong>)</strong></li>\n  <li>GitHub Copilot (<a href=\"https://github.com/features/copilot\">https://github.com/features/copilot</a>)</li>\n</ul>\n<p><br></p>\n<p>■目次</p>\n<p>00:00:00 ChatGPT 旋風</p>\n<p>00:05:28 スクリプト書いてる場合じゃない</p>\n<p>00:07:19 ゲーム x ChatGPT </p>\n<p>00:11:45 専門性の高い人材のニーズは変わらない？</p>\n<p>00:14:44 人間じゃないとできない仕事はあるか</p>\n<p>00:17:06 同じ人数でできることが増えていく</p>\n<p>00:20:15 ワクワクが止まらない</p>\n<p>00:24:09 エンジニアリングも変わっていく</p>",
       "link": "https://podcasters.spotify.com/pod/show/em-fm/episodes/Re-22-ChatGPT-e21dp2q",
