@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "77. レイオフと最近のベイエリアの雰囲気",
+      "description": "<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">⁠https://twitter.com/tomoaki_imai⁠</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">⁠https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/77-e24c01u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b57f287b-4bf3-4054-ba0a-dff0e615aeaa"
+      },
+      "dc:creator": "Imai and Yusuke",
+      "pubDate": "Sat, 20 May 2023 00:49:53 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/70696446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F70696446%2F09feee5aa092631d015632341fc6a308.m4a",
+        "@length": 23654792,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">⁠https://twitter.com/tomoaki_imai⁠</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">⁠https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:22",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "76. 分散型SNS探訪(Bluesky, Nostr, Mastodon, Farcaster)",
       "description": "<p>いろいろな分散型SNSの仕組みや雰囲気について話しました</p>\n<p>Mastodon</p>\n<ul>\n <li><a href=\"https://joinmastodon.org/\">https://joinmastodon.org/</a></li>\n</ul>\n<ul>\n <li>アカウント <a href=\"https://mastodon.social/@tomoima525\">https://mastodon.social/@tomoima525</a></li>\n</ul>\n<p>Farcaster</p>\n<ul>\n  <li><a href=\"https://warpcast.com/\">⁠https://warpcast.com/⁠</a></li>\n  <li>仕様 <a href=\"http://farcaster.xyz\">⁠farcaster.xyz⁠</a></li>\n  <li>アカウント <a href=\"https://warpcast.com/tomoima525\">⁠https://warpcast.com/tomoima525⁠</a></li>\n</ul>\n<p>Nostr</p>\n<ul>\n  <li>damus(mobile client) <a href=\"https://damus.io/\">https://damus.io/</a></li>\n  <li>仕様 <a href=\"https://nostr.com/\">https://nostr.com/</a></li>\n  <li>アカウント <a href=\"mailto:tomoima525@tomoima525.github.io\">tomoima525@tomoima525.github.io</a></li>\n</ul>\n<p>Bluesky</p>\n<ul>\n  <li><a href=\"https://blueskyweb.xyz/\">https://blueskyweb.xyz/</a></li>\n  <li>仕様 <a href=\"https://atproto.com/\">https://atproto.com/</a></li>\n  <li>アカウント <a href=\"https://staging.bsky.app/profile/0xtomo.bsky.social\">https://staging.bsky.app/profile/0xtomo.bsky.social</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/76--SNSBluesky--Nostr--Mastodon--Farcaster-e23hgqq",
