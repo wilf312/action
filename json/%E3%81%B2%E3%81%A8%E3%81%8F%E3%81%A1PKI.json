@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "57: コード署名の話",
+      "description": "<p>2023/06/01から、Public Trustedなコード署名証明書の発行において Baseline Requirement で秘密鍵保護の強化が施行されます。もともとは2022年の11月に施行される予定だったものが延期されていました。これまでオプションとして許容されてきたソフトウェア鍵生成での証明書発行(PKCS#12形式で保管)が選択肢から外れ、実質的に禁止されることになりました。これによってコード署名付きマルウェアの観測が減っていくのでは…という話をしました。また技術書典で出す予定の本「ひとくちPKI Jornal2」にBYOVD(Bring Your Own Vulnerable Driver)についての記事をひとけーが書いている話もしました。ほとんど全部ネタバレしました。</p>\n<p><br></p>\n<p>Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates</p>\n<p><a href=\"https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf \" target=\"_blank\" rel=\"noopener noreferer\">https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf </a></p>\n<ul>\n\n \n \n</ul>\n<p>\n\n\n\n\n\n\n\n\n</p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/57-e24hq58",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b65c3ca5-29e1-488a-ad22-19800e02d141"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Tue, 23 May 2023 06:29:38 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/70887016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2Ff14f6fa2-0be0-80a3-8d76-79c7be203ad6.mp3",
+        "@length": 31794336,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2023/06/01から、Public Trustedなコード署名証明書の発行において Baseline Requirement で秘密鍵保護の強化が施行されます。もともとは2022年の11月に施行される予定だったものが延期されていました。これまでオプションとして許容されてきたソフトウェア鍵生成での証明書発行(PKCS#12形式で保管)が選択肢から外れ、実質的に禁止されることになりました。これによってコード署名付きマルウェアの観測が減っていくのでは…という話をしました。また技術書典で出す予定の本「ひとくちPKI Jornal2」にBYOVD(Bring Your Own Vulnerable Driver)についての記事をひとけーが書いている話もしました。ほとんど全部ネタバレしました。</p>\n<p><br></p>\n<p>Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates</p>\n<p><a href=\"https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf \" target=\"_blank\" rel=\"noopener noreferer\">https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf </a></p>\n<ul>\n\n \n \n</ul>\n<p>\n\n\n\n\n\n\n\n\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:53:44",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 57,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "56: ChromeでHTTPSの鍵マークがなくなる話",
       "description": "<p>30年の歴史を持つらしいHTTPSの鍵マークが、今年の秋ごろからChromeでは「チューンアイコン」へ変更されることについて話しました。雑談では、自転車に乗ると楽しいという話をしました。</p>\n<ul>\n <li>https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</li>\n <li>https://scotthelme.co.uk/goodbye-old-friend/\n\n\n\n\n\n\n</li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/56-ChromeHTTPS-e23sas2",
