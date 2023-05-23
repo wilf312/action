@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 18 May 2023 12:14:10 +0000",
+  "lastBuildDate": "Tue, 23 May 2023 01:27:16 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#115: Constitutional AI: Harmlessness from AI Feedback",
+      "link": "https://misreading.chat/2023/05/22/115-constitutional-ai-harmlessness-from-ai-feedback/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 23 May 2023 01:27:16 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=945"
+      },
+      "description": "LLM をチャットボットに仕立てる finetuning について森田が読みました。",
+      "content:encoded": "<p>LLM をチャットボットに仕立てる finetuning について森田が読みました。ご意見ご感想などは<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>や <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星も歓迎です。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/05/ep115.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://arxiv.org/abs/2203.02155\">[2203.02155] Training language models to follow instructions with human feedback</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/2212.08073\">[2212.08073] Constitutional AI: Harmlessness from AI Feedback</a></li>\n\n\n\n<li><a href=\"https://news.ycombinator.com/item?id=35841460\">It looks like GPT-4-32k is rolling out | Hacker News</a></li>\n\n\n\n<li><a href=\"https://www.anthropic.com/index/introducing-claude\">Anthropic | Introducing Claude</a></li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/Goodhart%27s_law\">Goodhart’s law – Wikipedia</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/05/ep115.mp3",
+        "@length": 52837677,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2202,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "LLM をチャットボットに仕立てる finetuning について森田が読みました。",
+      "googleplay:description": "LLM をチャットボットに仕立てる finetuning について森田が読みました。",
+      "itunes:subtitle": "LLM をチャットボットに仕立てる finetuning について森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#114: Invisinets: Removing Networking from Cloud Networks",
       "link": "https://misreading.chat/2023/05/18/114-invisinets-removing-networking-from-cloud-networks/",
