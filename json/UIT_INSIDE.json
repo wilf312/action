@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.144 ブラウザ上でWeb開発！ Sandpack 2.0と社内コード共有サービスの夢",
+      "link": "https://uit-inside.linecorp.com/episode/144",
+      "pubDate": "Fri, 26 May 2023 09:00:00 GMT",
+      "description": "<p>2023年はじめに相次いで発表されたフロントエンド開発をブラウザ上で実現するライブラリの技術詳細や、それらを利用して開発している社内コード共有サービスについて、@spring-rainingと@kohei.maekawaが話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/144"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-144.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),kohei.maekawa(kohei.maekawa)",
+      "itunes:subtitle": "ep.144 ブラウザ上でWeb開発！ Sandpack 2.0と社内コード共有サービスの夢",
+      "itunes:duration": "29:24",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode144.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.143「サプライチェーン攻撃問題に一石を投じる！npm に新しく追加された新機能『provenance』について」",
       "link": "https://uit-inside.linecorp.com/episode/143",
       "pubDate": "Fri, 19 May 2023 08:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode045.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW",
-      "link": "https://uit-inside.linecorp.com/episode/44",
-      "pubDate": "Tue, 26 May 2020 09:00:00 GMT",
-      "description": "<p>LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.2。@spring_raining  が miyoshi が開発した SVG ベースの日本地図マッピングライブラリ開発について話を聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/44"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-044.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "Miyoshi Kosuke(miyoshi),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW",
-      "itunes:duration": "21:15",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode044.png",
         "#text": null
       }
     }
