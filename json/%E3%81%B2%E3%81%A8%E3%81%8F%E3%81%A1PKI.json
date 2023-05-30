@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "58: E-Tugra CAのインシデントがbugzillaのフォーラムで議論されている話",
+      "description": "<p>トルコのCA、E-Tugraから2022年11月にインシデントがレポートされてから、今も引き続きそのインシデントについて議論が行われています。</p>\n<p>Public Trusted CAとしてRootプログラムに登録されているCAには、規約の遵守が求められることに加えてインターネットコミュニティからの厳しい目が向けられている、というような話をしました。雑談では、技術書典14でJournal2が出た話(無料です！)、トルコやメキシコに行きたい話をしました。</p>\n<p><br></p>\n<p>\t• E-Tugra: Incident Report (Security Issues)</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1801345\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1801345</a></p>\n<p>\t• SSL.com: e-Tugra Security Issues</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1832570\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1832570</a></p>\n<p>\t• ひとくちPKI Journal 2 (技術書典14) </p>\n<p>\t\t○ <a href=\"https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG\" target=\"_blank\" rel=\"noopener noreferer\">https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG</a></p>\n<p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/58-E-Tugra-CAbugzilla-e24tc8f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ebf179c9-dce6-443b-aa45-a81e4a0bbcaa"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Tue, 30 May 2023 05:52:31 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/71265999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-30%2Fd747bf62-3dba-f2da-cffd-10c16534f803.mp3",
+        "@length": 43423560,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>トルコのCA、E-Tugraから2022年11月にインシデントがレポートされてから、今も引き続きそのインシデントについて議論が行われています。</p>\n<p>Public Trusted CAとしてRootプログラムに登録されているCAには、規約の遵守が求められることに加えてインターネットコミュニティからの厳しい目が向けられている、というような話をしました。雑談では、技術書典14でJournal2が出た話(無料です！)、トルコやメキシコに行きたい話をしました。</p>\n<p><br></p>\n<p>\t• E-Tugra: Incident Report (Security Issues)</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1801345\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1801345</a></p>\n<p>\t• SSL.com: e-Tugra Security Issues</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1832570\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1832570</a></p>\n<p>\t• ひとくちPKI Journal 2 (技術書典14) </p>\n<p>\t\t○ <a href=\"https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG\" target=\"_blank\" rel=\"noopener noreferer\">https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG</a></p>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:14:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 58,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "57: コード署名の話",
       "description": "<p>2023/06/01から、Public Trustedなコード署名証明書の発行において Baseline Requirement で秘密鍵保護の強化が施行されます。もともとは2022年の11月に施行される予定だったものが延期されていました。これまでオプションとして許容されてきたソフトウェア鍵生成での証明書発行(PKCS#12形式で保管)が選択肢から外れ、実質的に禁止されることになりました。これによってコード署名付きマルウェアの観測が減っていくのでは…という話をしました。また技術書典で出す予定の本「ひとくちPKI Jornal2」にBYOVD(Bring Your Own Vulnerable Driver)についての記事をひとけーが書いている話もしました。ほとんど全部ネタバレしました。</p>\n<p><br></p>\n<p>Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates</p>\n<p><a href=\"https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf \" target=\"_blank\" rel=\"noopener noreferer\">https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf </a></p>\n<ul>\n\n \n \n</ul>\n<p>\n\n\n\n\n\n\n\n\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/57-e24hq58",
