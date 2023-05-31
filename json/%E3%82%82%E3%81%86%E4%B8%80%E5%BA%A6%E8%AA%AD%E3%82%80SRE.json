@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #72",
+      "description": "<p>21.5 利用率のシグナル から 21.6.1 リトライの判断 まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-72-e24uu9h",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0bced010-0749-4ff5-8d27-61c675b1145e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 31 May 2023 03:00:01 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/71317233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-31%2F616fa7a2-7c92-9902-026e-a041ab58be3a.m4a",
+        "@length": 40195586,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>21.5 利用率のシグナル から 21.6.1 リトライの判断 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #71",
       "description": "<p>21.3 クライアント側でのスロットリング から 21.4 重要度 まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-71-e24jjas",
