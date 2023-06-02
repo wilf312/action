@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.145 Node.jsとtscをフル活用する段階的なNative ESM移行",
+      "link": "https://uit-inside.linecorp.com/episode/145",
+      "pubDate": "Fri, 02 Jun 2023 09:00:00 GMT",
+      "description": "<p>Node.jsとtsc (TypeScript Compiler) のAPIを利用して、アプリケーションコードを変更せずにNative ESMに対応する方法について、@spring-rainingと@kazushikonosuが話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/145"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-migration-nodejs-native-esm.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),kazushikonosu(kazushikonosu)",
+      "itunes:subtitle": "ep.145 Node.jsとtscをフル活用する段階的なNative ESM移行",
+      "itunes:duration": "22:10",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode145.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.144 ブラウザ上でWeb開発！ Sandpack 2.0と社内コード共有サービスの夢",
       "link": "https://uit-inside.linecorp.com/episode/144",
       "pubDate": "Fri, 26 May 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode046.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW",
-      "link": "https://uit-inside.linecorp.com/episode/45",
-      "pubDate": "Wed, 27 May 2020 09:00:00 GMT",
-      "description": "<p>LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.3。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/45"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-045.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),折原 レオナルド賢(Leonardo-mbc),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW",
-      "itunes:duration": "18:0",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode045.png",
         "#text": null
       }
     }
