@@ -20,6 +20,20 @@
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
   "generator": "https://wordpress.org/?v=6.2.2",
+  "image": [
+    {
+      "url": "https://www.tsujileaks.com/wp-content/uploads/cropped-anchor_thumb-1-32x32.png",
+      "title": "セキュリティのアレ",
+      "link": "http://www.tsujileaks.com",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "title": "セキュリティのアレ",
+      "url": "http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png",
+      "link": "http://www.tsujileaks.com"
+    }
+  ],
   "itunes:new-feed-url": "https://www.tsujileaks.com/?feed=podcast",
   "itunes:summary": "サイバーでセキュリティな話題を取り上げるポッドキャストです！!",
   "itunes:author": "セキュリティのアレ",
@@ -33,11 +47,6 @@
   },
   "podcast:medium": "podcast",
   "itunes:subtitle": "ゆるーいセキュリティのポッドキャストですよ。",
-  "image": {
-    "title": "セキュリティのアレ",
-    "url": "http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png",
-    "link": "http://www.tsujileaks.com"
-  },
   "itunes:category": [
     {
       "@text": "Technology",
