@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #73",
+      "description": "<p>21.7 接続によって生じる負荷 から 21.8 まとめ まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-73-e25c5mp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9417ae45-c937-45cb-8b68-1d69e28f4d94"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 07 Jun 2023 09:00:33 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/71750809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-7%2F254d61dc-4aac-9435-6456-da9d1816e0db.m4a",
+        "@length": 39064576,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>21.7 接続によって生じる負荷 から 21.8 まとめ まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #72",
       "description": "<p>21.5 利用率のシグナル から 21.6.1 リトライの判断 まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-72-e24uu9h",
