@@ -45,33 +45,6 @@
   },
   "item": [
     {
-      "title": "ep 82 @tyamahori @yamato_sorarikuとEnum, 開発環境について",
-      "description": "<p>エビソード内で紹介されていたもの</p>\n<ul>\n <li><a href=\"https://www.php.net/manual/ja/language.types.enumerations.php\" target=\"_blank\" rel=\"noopener noreferer\">PHP: 列挙型 / Enum - Manual</a></li>\n <li><a href=\"https://orbstack.dev/\" target=\"_blank\" rel=\"noopener noreferer\">OrbStack · Fast, light, simple Docker & Linux on macOS</a></li>\n  <li><a href=\"https://github.com/mutagen-io/mutagen\" target=\"_blank\" rel=\"noopener noreferer\">mutagen-io/mutagen: Fast file synchronization and network forwarding for remote development</a></li>\n  <li><a href=\"https://blog.hanhans.net/2023/05/17/php-const-expression/\" target=\"_blank\" rel=\"noopener noreferer\">hanhan's blog - PHPのconst周りを再確認</a></li>\n</ul>",
-      "link": "https://podcasters.spotify.com/pod/show/yokohama-north-am/episodes/ep-82-tyamahori-yamato_sorarikuEnum-e25dsjm",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "6e5f4e52-a7cb-4dcb-8cf3-7d113765e53d"
-      },
-      "dc:creator": "Ryo Tomidokoro",
-      "pubDate": "Thu, 08 Jun 2023 01:29:55 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/1e60bd50/podcast/play/71807030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-8%2Ffda37155-e2f0-04b7-eb89-73238c5991ac.mp3",
-        "@length": 66671181,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>エビソード内で紹介されていたもの</p>\n<ul>\n <li><a href=\"https://www.php.net/manual/ja/language.types.enumerations.php\" target=\"_blank\" rel=\"noopener noreferer\">PHP: 列挙型 / Enum - Manual</a></li>\n <li><a href=\"https://orbstack.dev/\" target=\"_blank\" rel=\"noopener noreferer\">OrbStack · Fast, light, simple Docker &amp; Linux on macOS</a></li>\n  <li><a href=\"https://github.com/mutagen-io/mutagen\" target=\"_blank\" rel=\"noopener noreferer\">mutagen-io/mutagen: Fast file synchronization and network forwarding for remote development</a></li>\n  <li><a href=\"https://blog.hanhans.net/2023/05/17/php-const-expression/\" target=\"_blank\" rel=\"noopener noreferer\">hanhan&#39;s blog - PHPのconst周りを再確認</a></li>\n</ul>",
-      "itunes:explicit": "No",
-      "itunes:duration": "01:08:50",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4996564/4996564-1686187780119-eddf3d068f1fb.jpg",
-        "#text": null
-      },
-      "itunes:season": 1,
-      "itunes:episode": 82,
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "ep 81 @sji @zeriyoshiと PHP 8.2 リリース記念スペシャル",
       "description": "<p>ゲストのお二人が PHP 8.2 に機能追加を行った RFC</p>\n<ul>\n <li><a href=\"https://wiki.php.net/rfc/rng_extension\">PHP: rfc:rng_extension</a> PHP の Random 拡張追加 @zeriyoshi さんの RFC</li>\n <li><a href=\"https://wiki.php.net/rfc/constants_in_traits\" target=\"_blank\">PHP: rfc:constants_in_traits</a> Trait で Constants を使えるようにする機能追加 @sji さんの RFC</li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/yokohama-north-am/episodes/ep-81-sji-zeriyoshi-PHP-8-2-e1smvjg",
