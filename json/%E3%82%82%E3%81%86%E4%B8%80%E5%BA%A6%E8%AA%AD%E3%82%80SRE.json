@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #74",
+      "description": "<p>22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで</p>\n<p>本編は12分05秒あたりからになります。</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-74-e25ocf0",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8dd65f3e-9f66-476c-b4c6-3850de299e1e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 15 Jun 2023 03:00:37 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/72150944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-15%2F189e631f-1a26-993e-4d0d-3a2d60aceefa.m4a",
+        "@length": 58500018,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで</p>\n<p>本編は12分05秒あたりからになります。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:20",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #73",
       "description": "<p>21.7 接続によって生じる負荷 から 21.8 まとめ まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-73-e25c5mp",
