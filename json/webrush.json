@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 8 Jun 2023 10:00:00 +0000",
-  "lastBuildDate": "Thu, 8 Jun 2023 10:00:11 +0000",
+  "pubDate": "Thu, 15 Jun 2023 10:00:00 +0000",
+  "lastBuildDate": "Thu, 15 Jun 2023 10:00:11 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ba8f439a-7d2d-4442-b5b2-3a509f7d5001"
+      },
+      "title": "Episode 238: Rise and Fall of JavaScript Libraries with Chris Ferdinandi",
+      "description": "<pre><code>const podcast = {   episode: 238,  title: 'Rise and Fall of JavaScript Libraries',  topics: [     'JavaScript', 'frameworks', 'accessibility'  ],  guest: 'Chris Ferdinandi'  hosts: [    'Craign Shoemaker', 'Ward Bell'  ]};</code></pre><p>Recording date: 6/1/2023</p><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Chris Ferdinandi <a href=\"https://twitter.com/ChrisFerdinandi\">@ChrisFerdinandi</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://gomakethings.com/web-rush/\">Go Make Things Newsletter & More</a></li><li><a href=\"https://www.zachleat.com/\">zachleat.com</a></li><li><a href=\"https://react.dev/\">React</a></li><li><a href=\"https://preactjs.com/\">Preact</a></li><li><a href=\"https://www.debugbear.com/blog/server-side-rendering\">What Is Server-side Rendering And How Does It Improve Site Speed?</a></li><li><a href=\"https://www.javatpoint.com/what-is-vanilla-javascript\">What is “Vanilla JavaScript”?</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Welcome</li><li><strong><a>00:47</a></strong> Introducing Chris Ferdinandi</li><li><strong><a>03:30</a></strong> Why are JavaScript frameworks bad for developers?</li><li><strong><a>07:04</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:12</a></strong> If you take JavaScript out, aren't you limiting apps?</li><li><strong><a>22:01</a></strong> Sponsor: IdeaBlade</li><li><strong><a>23:01</a></strong> How do you minimize your use of JavaScript?</li><li><strong><a>28:38</a></strong> Accessibility and frameworks</li><li><strong><a>44:18</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 15 Jun 2023 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<pre><code>const podcast = {   episode: 238,  title: 'Rise and Fall of JavaScript Libraries',  topics: [     'JavaScript', 'frameworks', 'accessibility'  ],  guest: 'Chris Ferdinandi'  hosts: [    'Craign Shoemaker', 'Ward Bell'  ]};</code></pre><p>Recording date: 6/1/2023</p><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Chris Ferdinandi <a href=\"https://twitter.com/ChrisFerdinandi\">@ChrisFerdinandi</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://gomakethings.com/web-rush/\">Go Make Things Newsletter & More</a></li><li><a href=\"https://www.zachleat.com/\">zachleat.com</a></li><li><a href=\"https://react.dev/\">React</a></li><li><a href=\"https://preactjs.com/\">Preact</a></li><li><a href=\"https://www.debugbear.com/blog/server-side-rendering\">What Is Server-side Rendering And How Does It Improve Site Speed?</a></li><li><a href=\"https://www.javatpoint.com/what-is-vanilla-javascript\">What is “Vanilla JavaScript”?</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Welcome</li><li><strong><a>00:47</a></strong> Introducing Chris Ferdinandi</li><li><strong><a>03:30</a></strong> Why are JavaScript frameworks bad for developers?</li><li><strong><a>07:04</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:12</a></strong> If you take JavaScript out, aren't you limiting apps?</li><li><strong><a>22:01</a></strong> Sponsor: IdeaBlade</li><li><strong><a>23:01</a></strong> How do you minimize your use of JavaScript?</li><li><strong><a>28:38</a></strong> Accessibility and frameworks</li><li><strong><a>44:18</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 34188302,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/9ee7ecfa-d49d-4a8b-94e8-0f37283aea10/audio/970fa3b5-637d-4298-ae2c-ccaea20e268a/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 238: Rise and Fall of JavaScript Libraries with Chris Ferdinandi",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:46:59",
+      "itunes:summary": "Chris Ferdinandi joins us to talk about the benefits and drawbacks of using JavaScript in your projects. Why can JavaScript frameworks be bad for developers? How do you minimize your dependance on JavaScript? And what about accessibility?",
+      "itunes:subtitle": "Chris Ferdinandi joins us to talk about the benefits and drawbacks of using JavaScript in your projects. Why can JavaScript frameworks be bad for developers? How do you minimize your dependance on JavaScript? And what about accessibility?",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 238
+    },
     {
       "guid": {
         "@isPermaLink": false,
