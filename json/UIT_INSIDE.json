@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい",
+      "link": "https://uit-inside.linecorp.com/episode/146",
+      "pubDate": "Fri, 16 Jun 2023 09:00:00 GMT",
+      "description": "<p>先日リリースが発表されたLit v3について@AlanGDavalosと@TheoSteinerが話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/146"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-lit-v3.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Davalos Alan(AlanGDavalos),Theo Steiner(TheoSteiner)",
+      "itunes:subtitle": "ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい",
+      "itunes:duration": "24:53",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode146.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.145 Node.jsとtscをフル活用する段階的なNative ESM移行",
       "link": "https://uit-inside.linecorp.com/episode/145",
       "pubDate": "Fri, 02 Jun 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode047.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW",
-      "link": "https://uit-inside.linecorp.com/episode/46",
-      "pubDate": "Thu, 28 May 2020 09:00:00 GMT",
-      "description": "<p>LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.4。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/46"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-046.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan)",
-      "itunes:subtitle": "ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW",
-      "itunes:duration": "19:19",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode046.png",
         "#text": null
       }
     }
