@@ -15,8 +15,8 @@
   ],
   "title": "engineer meeting podcast",
   "link": "https://soundcloud.com/engineer-meeting",
-  "pubDate": "Sat, 20 May 2023 23:14:28 +0000",
-  "lastBuildDate": "Sat, 20 May 2023 23:14:28 +0000",
+  "pubDate": "Sun, 18 Jun 2023 21:06:04 +0000",
+  "lastBuildDate": "Sun, 18 Jun 2023 21:06:04 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1543905232"
+      },
+      "title": "vol.210 Apple Vision Pro",
+      "pubDate": "Sun, 18 Jun 2023 21:21:53 +0000",
+      "link": "https://soundcloud.com/engineer-meeting/vol210-apple-vision-pro",
+      "itunes:duration": "00:25:15",
+      "itunes:author": "エンジニアミーティング",
+      "itunes:explicit": "no",
+      "itunes:summary": "今回はWWDCで発表されたApple Vision Proの話をしました。\n\n[トピックス]\nWWDC / Vision Pro (https://www.apple.com/apple-vision-pro/)",
+      "itunes:subtitle": "今回はWWDCで発表されたApple Vision Proの話をしました。\n\n[トピックス]\nWW…",
+      "description": "今回はWWDCで発表されたApple Vision Proの話をしました。\n\n[トピックス]\nWWDC / Vision Pro (https://www.apple.com/apple-vision-pro/)",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1543905232-engineer-meeting-vol210-apple-vision-pro.mp3",
+        "@length": 48511605,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
