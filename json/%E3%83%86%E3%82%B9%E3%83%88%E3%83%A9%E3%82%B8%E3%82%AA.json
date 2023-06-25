@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 18 Jun 2023 23:00:00 +0000",
+  "lastBuildDate": "Sun, 25 Jun 2023 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,39 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第232回 テストラジオ JaSST’23 Kansaiの話です。思考停止について語ります。それではお楽しみください♪",
+      "link": "https://testradio.fm/testradio-no/1432/",
+      "pubDate": "Sun, 25 Jun 2023 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1432"
+      },
+      "comments": "https://testradio.fm/testradio-no/1432/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1432/feed/",
+      "slash:comments": 0,
+      "category": [
+        "テストラジオ",
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/06/N232TestRadio.mp3",
+        "@length": 144931287,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://www.youtube.com/embed/sEB5Y5GJZLY      https://twitter.com/hiroyuki3gou/status/1672930152580546561?s=20",
+      "itunes:summary": "https://www.youtube.com/embed/sEB5Y5GJZLY<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://twitter.com/hiroyuki3gou/status/1672930152580546561?s=20",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "1:00:23",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1432
+      }
+    },
     {
       "title": "第231回 テストラジオ ソフトウェア・シンポジウム in 仙台の話",
       "link": "https://testradio.fm/testradio-no/1424/",
@@ -324,35 +357,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1375
-      }
-    },
-    {
-      "title": "テストラジオ テストの基本がなに？って話について語ります！",
-      "link": "https://testradio.fm/testradio-no/1368/",
-      "pubDate": "Sun, 13 Nov 2022 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1368"
-      },
-      "comments": "https://testradio.fm/testradio-no/1368/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1368/feed/",
-      "slash:comments": 0,
-      "category": "テストラジオ",
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/11/N221TestRadio.mp3",
-        "@length": 70879704,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://twitter.com/hiroyuki3gou/status/1591755406161780736?s=20&t=7lyCHS9tTAWXGE20M4KVGg      https://youtu.be/Izbbprnhlgg",
-      "itunes:summary": "https://twitter.com/hiroyuki3gou/status/1591755406161780736?s=20&t=7lyCHS9tTAWXGE20M4KVGg<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://youtu.be/Izbbprnhlgg",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "29:32",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1368
       }
     }
   ]
