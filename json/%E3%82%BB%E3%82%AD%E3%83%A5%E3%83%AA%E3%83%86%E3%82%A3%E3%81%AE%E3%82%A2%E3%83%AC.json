@@ -15,7 +15,7 @@
   ],
   "link": "http://www.tsujileaks.com",
   "description": "ゆるーいセキュリティのポッドキャストですよ。",
-  "lastBuildDate": "Mon, 12 Jun 2023 11:00:13 +0000",
+  "lastBuildDate": "Mon, 26 Jun 2023 11:00:06 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -75,6 +75,36 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "第183回 いつも聴いてくれてアレがとうざいまスペシャル！",
+      "link": "https://www.tsujileaks.com/?p=1535",
+      "pubDate": "Mon, 26 Jun 2023 11:00:06 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://www.tsujileaks.com/?p=1535"
+      },
+      "comments": "https://www.tsujileaks.com/?p=1535#respond",
+      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1535",
+      "slash:comments": 0,
+      "category": "podcast",
+      "description": "Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]",
+      "content:encoded": "<div id=\"tweetbutton1535\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1535&text=%E7%AC%AC183%E5%9B%9E%20%E3%81%84%E3%81%A4%E3%82%82%E8%81%B4%E3%81%84%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%82%A2%E3%83%AC%E3%81%8C%E3%81%A8%E3%81%86%E3%81%96%E3%81%84%E3%81%BE%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1535\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://cofense.com/blog/compromised-abused-domains-in-malware-phishing-campaigns/\">Compromised Domains account for over 50% of Embedded URLs in Malware Phishing Campaigns | Cofense</a><br />\n・<a href=\"https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a\">#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability | CISA</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-moveit-extortion-attacks/\">Clop ransomware claims responsibility for MOVEit extortion attacks</a><br />\n・<a href=\"https://www.progress.com/security/moveit-transfer-and-moveit-cloud-vulnerability\">MOVEit Transfer and MOVEit Cloud Vulnerability</a><br />\n・<a href=\"https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-31May2023\">MOVEit Transfer Critical Vulnerability (May 2023) (CVE-2023-34362) – Progress Community</a><br />\n・<a href=\"https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02\">Binding Operational Directive 23-02 | CISA</a><br />\n・<a href=\"https://www8.cao.go.jp/kourei/whitepaper/index-w.html\">高齢社会白書について – 内閣府</a><br />\n・<a href=\"https://www.youtube.com/watch?v=O774SDZJ2QQ\">アイナ・ジ・エンド / Red:birthmark [Official Music Video]（TVアニメ『機動戦士ガンダム 水星の魔女』Season2 ED） – YouTube</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/tuyu2.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/tuyu2-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1536\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/tuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tuyu2.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>足の裏を拭く季節。Spotifyの怪。ベランダリクエスト。親子二代のファン。それぞれの夏の思い出。アレがとうございます。マルウェア感染を狙うほうのフィッシングメールの3つの分類。安定人気.com。レポート掲載の攻撃が自分のところに来るかどうか。ゲートウェイ製品の限界とチューニング。1つのフィルタとして考えて運用によってこぼれるものを何で拾うか。CL0Pランサムギャングのゼロデイ悪用の話。時系列で見ていこう。休日狙い？脆弱性を悪用してWebシェル設置。目立った被害組織業種とは。注意喚起にある対策の具体性。不十分な対策にならないように。何もなかったことの証明。BOD 23-02の話。他とは違う気持ち悪さ。変わり種が常かも。インターネットで調べたことありますか。今後の高齢化社会に向けて考えないといけないこと。様々なアプローチが必要そうやなぁ。今月解散予定でした。日常が混ざり合い過ぎててどこで何を話したかが分からんくなってますな。エンディングがWANDSの「世界が終わるまでは…」でした。「君が好きだと叫びたい」はBAADでした。DEENはありませんでした。</p>\n<p>&nbsp;<br />\n【チャプター】<br />\n| 1 | いつもの雑談から                                 | 00:00 |<br />\n| 2 | お便りのコーナー                                 | 12:11 |<br />\n| 3 | (T) ランサムウェアの現状レポート                       | 16:17 |<br />\n| 4 | (N) Google Workspace が Passkeys に対応      | 34:09 |<br />\n| 5 | (N) 1Passowrd がベータ版のブラウザ拡張で Passkeys に対応 | 35:54 |<br />\n| 6 | (P) 個人情報流出とフィッシングサイトへの誘導                 | 43:31 |<br />\n| 7 | オススメのアレ                                  | 56:44 |</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年06月24日</p>",
+      "enclosure": {
+        "@url": "https://www.tsujileaks.com/media/are_230626_mosquito.mp3",
+        "@length": 30341324,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]",
+      "itunes:summary": "Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]",
+      "itunes:author": "セキュリティのアレ",
+      "itunes:image": {
+        "@href": "http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png",
+        "#text": null
+      },
+      "itunes:episodeType": "full",
+      "itunes:duration": "1:03:00"
+    },
     {
       "title": "第182回 愛のままにわがままにアレはアレだけをアレしない！スペシャル",
       "link": "https://www.tsujileaks.com/?p=1530",
@@ -353,12 +383,7 @@
         "@isPermaLink": false,
         "#text": "http://www.tsujileaks.com/?p=1461"
       },
-      "comments": "https://www.tsujileaks.com/?p=1461#respond",
-      "wfw:commentRss": "https://www.tsujileaks.com/?feed=rss2&p=1461",
-      "slash:comments": 0,
-      "category": "podcast",
       "description": "Tweet【関連記事】 ・NCA infiltrates cyber crime market with di[...]",
-      "content:encoded": "<div id=\"tweetbutton1461\" class=\"tw_button\" style=\"float:left;margin-right:10px;\"><a href=\"http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1461&text=%E7%AC%AC173%E5%9B%9E%20%E6%98%A5%E3%81%A7%E3%81%99%E3%81%AD%EF%BC%81%E8%B6%B3%E4%B8%8A%E3%81%92%E3%81%9F%E3%82%89%E7%88%86%E7%99%BA%E3%81%99%E3%82%8B%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&related=&lang=ja&count=horizontal&counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1461\" class=\"twitter-share-button\"  style=\"width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;\">Tweet</a></div><p>【関連記事】</p>\n<p>・<a href=\"https://www.nationalcrimeagency.gov.uk/news/nca-infiltrates-cyber-crime-market-with-disguised-ddos-sites\">NCA infiltrates cyber crime market with disguised DDoS sites – National Crime Agency</a><br />\n・<a href=\"https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html\">GoAnywhere MFT – A Forgotten Bug | Frycos Security Diary</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-it-breached-130-orgs-using-goanywhere-zero-day/\">Clop ransomware claims it breached 130 orgs using GoAnywhere zero-day</a><br />\n・<a href=\"https://techcrunch.com/2023/03/22/fortra-goanywhere-ransomware-attack/\">New victims come forward after mass-ransomware attack | TechCrunch</a><br />\n・<a href=\"https://www.justice.gov/opa/pr/justice-department-announces-arrest-founder-one-world-s-largest-hacker-forums-and-disruption\">Justice Department Announces Arrest of the Founder of One of the World’s Largest Hacker Forums and Disruption of Forum’s Operation | OPA | Department of Justice</a><br />\n・<a href=\"https://www.bleepingcomputer.com/news/security/fbi-confirms-access-to-breached-cybercrime-forum-database/\">FBI confirms access to Breached cybercrime forum database</a><br />\n・<a href=\"https://kts.sakaiweb.com/deinput.html\">KT Software – DeInput</a></p>\n<p><a href=\"http://www.tsujileaks.com/wp-content/uploads/sakurasakura.jpg\"><img decoding=\"async\" loading=\"lazy\" src=\"http://www.tsujileaks.com/wp-content/uploads/sakurasakura-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" class=\"alignnone size-medium wp-image-1463\" srcset=\"https://www.tsujileaks.com/wp-content/uploads/sakurasakura.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sakurasakura-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sakurasakura-144x144.jpg 144w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a><br />\n&nbsp;</p>\n<p>辻伸弘メモ：</p>\n<blockquote><p>口コミとかレビューってどういう観点で見てます？一番おもろいこと書いてる選手権。気付いてます。ナノリマス背景。かんごさんの家庭菜園の今。謎草の悲劇。巻き戻しって久々に言うた。ついにDDoSづいた。日本のではない方のNCA。偽のDDoS代行サービスサイト。登録した人はどうなったのか。心揺さぶる手法。知らせることに意味がある。DDoSのライトユーザ。実質的な効果ではないにしてもどれだけの登録ユーザがあったとかは知りたいですね。あるゼロデイ。アレフリーク。老舗のランサムギャングの主張。Lockbitを抜いたのって初じゃないでしょうか。代理店から得られた情報によって拡大する可能性も危惧。ゲームの時間に影響が出てます。過小評価しちゃいけない。製品・サービスによる影響度合いの違い。プレッシャーにも使えるかもしれない。著名フォーラムが閉鎖。ポムポムプリン。どう情報をたぐり寄せて逮捕に至ったのか。ニーズがなくなったわけではないので次はどこに行くかという状況。ハンドルネームの持つ力。キーボード綺麗にするときどうしてますか？<br />\n&nbsp;<br />\n【チャプター】<br />\n| 1 | いつもの雑談から                              | 00:00 |<br />\n| 2 | お便りのコーナー                              | 05:42 |<br />\n| 3 | (N) NCA による偽の DDoS 攻撃代行サービス           | 13:18 |<br />\n| 4 | (T) CL0P による GoAnywhere MFT の脆弱性を狙う攻撃 | 26:59 |<br />\n| 5 | (P) BreachForums の摘発と管理人の逮捕           | 45:54 |<br />\n| 6 | オススメのアレ                               | 57:09 |</p></blockquote>\n<p>&nbsp;</p>\n<p>収録日: 2023年03月25日</p>",
       "enclosure": {
         "@url": "https://www.tsujileaks.com/media/are_230327_stoukaku.mp3",
         "@length": 30119358,
