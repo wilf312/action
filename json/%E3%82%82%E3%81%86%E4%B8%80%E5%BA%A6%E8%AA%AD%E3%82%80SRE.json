@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #75",
+      "description": "<p>22.1.3 利用できないサービス から 22.2.1 キューの管理 まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-75-e269o1i",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6aeab610-cb30-489e-80c1-74bcec3669ad"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 28 Jun 2023 08:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/72719858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2F4cfef071-f15d-3eec-35d9-1e1de1d0009a.m4a",
+        "@length": 37709248,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22.1.3 利用できないサービス から 22.2.1 キューの管理 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:59",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #74",
       "description": "<p>22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで</p>\n<p>本編は12分05秒あたりからになります。</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-74-e25ocf0",
