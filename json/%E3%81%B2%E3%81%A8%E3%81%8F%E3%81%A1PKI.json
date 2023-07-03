@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "59: European Signature DialogがGoogleのふるまいをAnti-competitiveと言っている話など",
+      "description": "<p>前回の配信回で取り上げたE-Tugra、Chromeの信頼されるルートCAリストから削除されることが決まったようです(6/15までに配信されるChrome root store v11から)。ほか、EUのトラストサービスのプロバイダーの組織 European Signature Dialog が Google の提唱する90日のshort-lived Certificateに対する懸念を、EU機関にむけて発信している話をしました。European Signature DialogはGoogleのふるまいをAnti-competitiveと言っているようです。 </p>\n<p>雑談では学位授与機構の試験を受けてきた話、新しく買った電子レンジにWi-Fiがついてる話などをしました。 </p>\n<p> </p>\n<ul>\n <li><p>Security concerns with the e-Tugra certificate authority </p>\n<ul>\n <li><p> <a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s\" target=\"_blank\" rel=\"noreferrer noopener\">https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Mozilla でも議論がはじまりました </p>\n<ul>\n  <li><p><a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A\" target=\"_blank\" rel=\"noreferrer noopener\">Review of e-Tugra's Inclusion in Mozilla’s Root Store (google.com)</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Google returns to anticompetitive behavior by limiting all certificates to 90 days only </p>\n<ul>\n  <li><p>https://www.european-signature-dialog.eu/Google_returns_to_anti-competitive_behavior-ESD_26042023.pdf </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/59-European-Signature-DialogGoogleAnti-competitive-e26fhgv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c8bf3a1e-7339-42ce-8b29-adda910b9ff4"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Sun, 02 Jul 2023 23:53:59 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/72909791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-2%2Fe2723608-eb4e-5e70-7fb3-c24f9be5e442.mp3",
+        "@length": 44703840,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前回の配信回で取り上げたE-Tugra、Chromeの信頼されるルートCAリストから削除されることが決まったようです(6/15までに配信されるChrome root store v11から)。ほか、EUのトラストサービスのプロバイダーの組織 European Signature Dialog が Google の提唱する90日のshort-lived Certificateに対する懸念を、EU機関にむけて発信している話をしました。European Signature DialogはGoogleのふるまいをAnti-competitiveと言っているようです。 </p>\n<p>雑談では学位授与機構の試験を受けてきた話、新しく買った電子レンジにWi-Fiがついてる話などをしました。 </p>\n<p> </p>\n<ul>\n <li><p>Security concerns with the e-Tugra certificate authority </p>\n<ul>\n <li><p> <a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s\" target=\"_blank\" rel=\"noreferrer noopener\">https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Mozilla でも議論がはじまりました </p>\n<ul>\n  <li><p><a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A\" target=\"_blank\" rel=\"noreferrer noopener\">Review of e-Tugra&#39;s Inclusion in Mozilla’s Root Store (google.com)</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Google returns to anticompetitive behavior by limiting all certificates to 90 days only </p>\n<ul>\n  <li><p>https://www.european-signature-dialog.eu/Google_returns_to_anti-competitive_behavior-ESD_26042023.pdf </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:07:36",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 59,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "58: E-Tugra CAのインシデントがbugzillaのフォーラムで議論されている話",
       "description": "<p>トルコのCA、E-Tugraから2022年11月にインシデントがレポートされてから、今も引き続きそのインシデントについて議論が行われています。</p>\n<p>Public Trusted CAとしてRootプログラムに登録されているCAには、規約の遵守が求められることに加えてインターネットコミュニティからの厳しい目が向けられている、というような話をしました。雑談では、技術書典14でJournal2が出た話(無料です！)、トルコやメキシコに行きたい話をしました。</p>\n<p><br></p>\n<p>\t• E-Tugra: Incident Report (Security Issues)</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1801345\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1801345</a></p>\n<p>\t• SSL.com: e-Tugra Security Issues</p>\n<p>\t\t○ <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1832570\" target=\"_blank\" rel=\"noopener noreferer\">https://bugzilla.mozilla.org/show_bug.cgi?id=1832570</a></p>\n<p>\t• ひとくちPKI Journal 2 (技術書典14) </p>\n<p>\t\t○ <a href=\"https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG\" target=\"_blank\" rel=\"noopener noreferer\">https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG</a></p>\n<p><br></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/58-E-Tugra-CAbugzilla-e24tc8f",
