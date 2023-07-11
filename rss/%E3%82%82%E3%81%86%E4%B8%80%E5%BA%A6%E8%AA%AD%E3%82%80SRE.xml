@@ -11,7 +11,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<link>https://twitter.com/Read_SRE_Again</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 27 Feb 2023 03:05:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jul 2023 04:03:15 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/6233432c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Topotal]]></author>
 		<copyright><![CDATA[Topotal]]></copyright>
@@ -30,10 +30,210 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
 		<item>
+			<title><![CDATA[もう一度読むSRE #76]]></title>
+			<description><![CDATA[<p>22.2.2 ロードシェディングとグレースフルデグラデーション から 22.2.3 リトライ まで
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-76-e26iefn</link>
+			<guid isPermaLink="false">3da3801d-f3bf-4b97-b19f-211b53cff666</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 05 Jul 2023 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/73004983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-5%2Fb3b96307-fce7-8ad5-8e44-6af9ca8fc497.m4a" length="37999246" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.2.2 ロードシェディングとグレースフルデグラデーション から 22.2.3 リトライ まで
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #75]]></title>
+			<description><![CDATA[<p>22.1.3 利用できないサービス から 22.2.1 キューの管理 まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-75-e269o1i</link>
+			<guid isPermaLink="false">6aeab610-cb30-489e-80c1-74bcec3669ad</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 28 Jun 2023 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/72719858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2F4cfef071-f15d-3eec-35d9-1e1de1d0009a.m4a" length="37709248" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.1.3 利用できないサービス から 22.2.1 キューの管理 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #74]]></title>
+			<description><![CDATA[<p>22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで</p>
+<p>本編は12分05秒あたりからになります。</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-74-e25ocf0</link>
+			<guid isPermaLink="false">8dd65f3e-9f66-476c-b4c6-3850de299e1e</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 15 Jun 2023 03:00:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/72150944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-15%2F189e631f-1a26-993e-4d0d-3a2d60aceefa.m4a" length="58500018" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで&lt;/p&gt;
+&lt;p&gt;本編は12分05秒あたりからになります。&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #73]]></title>
+			<description><![CDATA[<p>21.7 接続によって生じる負荷 から 21.8 まとめ まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-73-e25c5mp</link>
+			<guid isPermaLink="false">9417ae45-c937-45cb-8b68-1d69e28f4d94</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 07 Jun 2023 09:00:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/71750809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-7%2F254d61dc-4aac-9435-6456-da9d1816e0db.m4a" length="39064576" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;21.7 接続によって生じる負荷 から 21.8 まとめ まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #72]]></title>
+			<description><![CDATA[<p>21.5 利用率のシグナル から 21.6.1 リトライの判断 まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-72-e24uu9h</link>
+			<guid isPermaLink="false">0bced010-0749-4ff5-8d27-61c675b1145e</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 31 May 2023 03:00:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/71317233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-31%2F616fa7a2-7c92-9902-026e-a041ab58be3a.m4a" length="40195586" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;21.5 利用率のシグナル から 21.6.1 リトライの判断 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #71]]></title>
+			<description><![CDATA[<p>21.3 クライアント側でのスロットリング から 21.4 重要度 まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-71-e24jjas</link>
+			<guid isPermaLink="false">57c73573-f835-4afb-a25b-b4fb033a74c4</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 24 May 2023 03:00:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/70945564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F07c053b8-a107-aa7a-4c37-9c8344113f12.m4a" length="39547980" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;21.3 クライアント側でのスロットリング から 21.4 重要度 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #70]]></title>
+			<description><![CDATA[<p>21章 過負荷への対応 から 21.2 顧客単位での制限 まで
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-70-e23pumf</link>
+			<guid isPermaLink="false">89cfed94-e53e-4d41-a37e-127ab8f42636</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 10 May 2023 03:00:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/70105231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-10%2F328678076-44100-2-5fffa16d54999.m4a" length="23451826" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;21章 過負荷への対応 から 21.2 顧客単位での制限 まで
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #69]]></title>
+			<description><![CDATA[<p>20.4 ロードバランシングのポリシー から 20.4.1.3 マシンのばらつき まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-69-e22vs2b</link>
+			<guid isPermaLink="false">5ff56f88-44e4-4853-8014-b4844230f512</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 26 Apr 2023 03:00:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/69250571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2Fe8610c1e-423b-210a-f74e-b50207aff460.m4a" length="48975108" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;20.4 ロードバランシングのポリシー から 20.4.1.3 マシンのばらつき まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #68]]></title>
+			<description><![CDATA[<p>20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-68-e21nd0s</link>
+			<guid isPermaLink="false">1e7a69c2-3eec-4034-9cf7-9e000ee4efed</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 05 Apr 2023 03:00:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/67924444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-4%2F48ed5bb9-7b9d-5d00-9dd3-93de90f7add0.m4a" length="39088893" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #67]]></title>
+			<description><![CDATA[<p>20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-67-e218o83</link>
+			<guid isPermaLink="false">3bbb4e5f-524e-49ab-8f9a-bf0fd1eb7f13</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 29 Mar 2023 03:00:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/67444419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-29%2Fb69db73f-5e21-fdce-dafb-cc90c4bed42e.m4a" length="42061804" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #66]]></title>
+			<description><![CDATA[<p>20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-66-e20v0f7</link>
+			<guid isPermaLink="false">52ca3e7d-84ec-49a7-a155-faff23d96a6b</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 23 Mar 2023 03:09:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/67125159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F3fadeff5-63dc-0707-3811-689b10145f87.m4a" length="46412831" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #65 ]]></title>
+			<description><![CDATA[<p>19.3 仮想 IP アドレスでのロードバランシング まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-65-e20h1ka</link>
+			<guid isPermaLink="false">825ebee5-f771-4027-823e-031ee795f42e</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 16 Mar 2023 03:31:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/66667594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-16%2Fad26fa8f-cfae-0b93-707f-aca0523b703f.m4a" length="48540088" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;19.3 仮想 IP アドレスでのロードバランシング まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[もう一度読むSRE #64]]></title>
 			<description><![CDATA[<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-64-e1viih2</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-64-e1viih2</link>
 			<guid isPermaLink="false">0d914871-4788-4876-bf82-bdc87a2b233c</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 27 Feb 2023 03:00:19 GMT</pubDate>
@@ -49,7 +249,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #63]]></title>
 			<description><![CDATA[<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-63-e1ublbi</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-63-e1ublbi</link>
 			<guid isPermaLink="false">532e482a-0ff4-4f7c-918f-313dcb8c5d35</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 02 Feb 2023 08:05:46 GMT</pubDate>
@@ -65,7 +265,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #62]]></title>
 			<description><![CDATA[<p>18.3.4 認知の向上と採用の推進 から 18.3.4.4 適切なレベルでの設計 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-62-e1tvcun</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-62-e1tvcun</link>
 			<guid isPermaLink="false">a2d1a612-a378-47b7-847a-5563d31a9833</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 25 Jan 2023 03:00:33 GMT</pubDate>
@@ -81,7 +281,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #61]]></title>
 			<description><![CDATA[<p>18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-61-e1t2agg</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-61-e1t2agg</link>
 			<guid isPermaLink="false">23475912-49e8-42c8-a3e1-bfaf867037c0</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 04 Jan 2023 02:56:33 GMT</pubDate>
@@ -99,7 +299,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
  <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-60-e1sq0hm</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-60-e1sq0hm</link>
 			<guid isPermaLink="false">974591f6-b849-43ee-817e-60ded0568265</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 28 Dec 2022 05:14:29 GMT</pubDate>
@@ -117,7 +317,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #59]]></title>
 			<description><![CDATA[<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-59-e1rsi1l</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-59-e1rsi1l</link>
 			<guid isPermaLink="false">f826e142-1020-4b55-8272-6bd24110cbee</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 07 Dec 2022 03:00:21 GMT</pubDate>
@@ -133,7 +333,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #58]]></title>
 			<description><![CDATA[<p>17.3.7 プロダクション環境におけるプローブ から 17.4 まとめ まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-58-e1rilds</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-58-e1rilds</link>
 			<guid isPermaLink="false">2386994a-e72b-44dc-ae23-0035f686da8c</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 01 Dec 2022 01:00:46 GMT</pubDate>
@@ -149,7 +349,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #57]]></title>
 			<description><![CDATA[<p>17.3.6 結合 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-57-e1qr3c8</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-57-e1qr3c8</link>
 			<guid isPermaLink="false">a789f916-4cd5-4555-ae86-79cd426c5871</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 16 Nov 2022 03:00:57 GMT</pubDate>
@@ -165,7 +365,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #56]]></title>
 			<description><![CDATA[<p>17.3.5 予想されるテストの失敗 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-56-e1q7vud</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-56-e1q7vud</link>
 			<guid isPermaLink="false">6e3b7321-2882-4a38-a0c7-c68bfea4717f</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Sun, 06 Nov 2022 23:00:05 GMT</pubDate>
@@ -181,7 +381,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #55 ]]></title>
 			<description><![CDATA[<p>17.3.4 プロダクションへのプッシュ</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-55-e1prdpn</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-55-e1prdpn</link>
 			<guid isPermaLink="false">cf64c032-6b9a-40b3-a8dc-05a4c25289ff</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 27 Oct 2022 23:00:50 GMT</pubDate>
@@ -197,7 +397,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #54]]></title>
 			<description><![CDATA[<p>17.3.2 ディザスタのテスト から 17.3.3 速度の重要性 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-54-e1pfg1u</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-54-e1pfg1u</link>
 			<guid isPermaLink="false">591243ba-b10c-42cc-b849-0d26c8c1edbf</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 19 Oct 2022 03:03:54 GMT</pubDate>
@@ -213,7 +413,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #53]]></title>
 			<description><![CDATA[<p>17.3 大規模なテスト から 17.3.1 スケーラブルなツールのテスト まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-53-e1ofrfn</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-53-e1ofrfn</link>
 			<guid isPermaLink="false">d3948cab-6b67-4594-9003-fb20566e2891</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 11 Oct 2022 03:00:42 GMT</pubDate>
@@ -229,7 +429,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #52]]></title>
 			<description><![CDATA[<p>17.2 テストの作成と環境の構築 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-52-e1onaa0</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-52-e1onaa0</link>
 			<guid isPermaLink="false">157e0404-b940-491c-96ee-ef89ea4b90f8</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 04 Oct 2022 03:00:38 GMT</pubDate>
@@ -245,7 +445,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #51]]></title>
 			<description><![CDATA[<p>17.1.2.2 ストレステスト から 17.1.2.3 カナリアテスト まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-51-e1nqba6</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-51-e1nqba6</link>
 			<guid isPermaLink="false">6699e080-c566-4e4a-9df2-2728459f44ce</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 14 Sep 2022 01:28:00 GMT</pubDate>
@@ -261,7 +461,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #50]]></title>
 			<description><![CDATA[<p>17.1.2 プロダクションテスト から 17.1.2.1 設定テスト まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-50-e1n6lgr</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-50-e1n6lgr</link>
 			<guid isPermaLink="false">12b0b0fd-e25f-4a6c-a237-debeb76f51a1</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 31 Aug 2022 09:00:22 GMT</pubDate>
@@ -277,7 +477,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #49]]></title>
 			<description><![CDATA[<p>17 信頼性のためのテスト から 17.1 ソフトウェアテストの種類 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-49-e1mt7o6</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-49-e1mt7o6</link>
 			<guid isPermaLink="false">e5cf3df2-ff7e-41cc-881e-59b580d53a65</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 24 Aug 2022 09:08:29 GMT</pubDate>
@@ -293,7 +493,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #48]]></title>
 			<description><![CDATA[<p>16章 サービス障害の追跡 から 16.2.4 予想外のメリット まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-48-e1ml5o4</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-48-e1ml5o4</link>
 			<guid isPermaLink="false">43ff3ba3-0824-4521-82dc-6a21b27559d9</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 18 Aug 2022 01:31:07 GMT</pubDate>
@@ -309,7 +509,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #47]]></title>
 			<description><![CDATA[<p>15章 ポストモーテムの文化: 失敗からの学び から 15.4 まとめと改善の継続 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-47-e1lvt4s</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-47-e1lvt4s</link>
 			<guid isPermaLink="false">67dbfd01-3b44-4cdc-899e-9d6f93cef6f0</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 03 Aug 2022 00:30:34 GMT</pubDate>
@@ -326,7 +526,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>15章 ポストモーテムの文化: 失敗からの学び から 15.1 Google におけるポストモーテムの哲学</p>
 <p>本編は3分35秒からです。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-46-e1lngpn</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-46-e1lngpn</link>
 			<guid isPermaLink="false">8f98ab2d-a398-4bc2-b98c-5539e947376e</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 26 Jul 2022 23:00:44 GMT</pubDate>
@@ -344,7 +544,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>14.3 インシデント管理のプロセスの構成要素 から 14.5 インシデントと宣言すべき場合 まで</p>
 <p>本編は11分00秒からです。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-45-e1ldual</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-45-e1ldual</link>
 			<guid isPermaLink="false">f5f6c99a-bf4c-4627-baf8-bf92249b8f88</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 19 Jul 2022 12:53:31 GMT</pubDate>
@@ -362,7 +562,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>13.6 過去から学び、繰り返さない から 14.3.4 はっきりとした引き継ぎ まで</p>
 <p>本編は6分22秒からです。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-44-e1kj93u</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-44-e1kj93u</link>
 			<guid isPermaLink="false">eea91b1f-e818-4e5d-99d9-a026d84e9ea6</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 29 Jun 2022 10:26:27 GMT</pubDate>
@@ -381,7 +581,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>本編は3分10秒からです。</p>
 <p><br></p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-43-e1k9fq5</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-43-e1k9fq5</link>
 			<guid isPermaLink="false">739b26a2-974b-4016-92cd-edd48594f804</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 22 Jun 2022 07:10:19 GMT</pubDate>
@@ -400,7 +600,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>13.3 変更が引き起こした緊急事態 から 13.3.3.2 学んだこと まで</p>
 <p>本編は4分10秒からになります。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-42-e1jts6f</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-42-e1jts6f</link>
 			<guid isPermaLink="false">2343784a-b8cd-449c-a822-e3f8c29f6520</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 14 Jun 2022 05:00:06 GMT</pubDate>
@@ -418,7 +618,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>13章 緊急対応 から 13.2.3.2 学んだこと まで</p>
 <p>本編は5分50秒からになります。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-41-e1j8dsu</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-41-e1j8dsu</link>
 			<guid isPermaLink="false">94507e8c-f42d-4cfc-9a95-eec310243838</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 06 Jun 2022 03:00:09 GMT</pubDate>
@@ -436,7 +636,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>12.4 ケーススタディ から 12.6 まとめ まで</p>
 <p>今回雑談はありません。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-40-e1j8dmn</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-40-e1j8dmn</link>
 			<guid isPermaLink="false">ea1e7a81-507f-4629-ac3d-2f484c0910ac</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 30 May 2022 04:30:43 GMT</pubDate>
@@ -454,7 +654,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>12.2.5 テストと対応 から 12.3 否定的な結果の素晴らしさ まで</p>
 <p>今回雑談はありません。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-39-e1ifabl</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-39-e1ifabl</link>
 			<guid isPermaLink="false">8a18fe1c-b75b-4e1a-b190-e5d5f6ee107a</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Fri, 13 May 2022 03:00:34 GMT</pubDate>
@@ -472,7 +672,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>12.2.4 診断から 12.2.4.4 特定の診断 まで</p>
 <p>本編は4分03秒からです。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-38-e1hslib</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-38-e1hslib</link>
 			<guid isPermaLink="false">88f9f253-c257-4697-bc8d-09c7d22bde30</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 02 May 2022 03:00:04 GMT</pubDate>
@@ -490,7 +690,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>12.2 実践 から 12.2.3 検証 まで</p>
 <p>雑談はありません。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-37-e1hlsl8</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-37-e1hlsl8</link>
 			<guid isPermaLink="false">dc7c25fb-b7d0-474f-bc99-2a1cea300bc7</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 26 Apr 2022 00:51:59 GMT</pubDate>
@@ -508,7 +708,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>12章 効果的なトラブルシューティング から 12.1 理論 まで</p>
 <p>本編 : 03:10〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-36-e1hajin</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-36-e1hajin</link>
 			<guid isPermaLink="false">1c656b8e-f0b6-43be-a4cd-ce47aa975c92</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 18 Apr 2022 06:10:25 GMT</pubDate>
@@ -526,7 +726,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<description><![CDATA[<p>11.5 不適切な負荷の回避 から 11.6まとめ まで</p>
 <p>本編 : 03:45〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-35-e1gq6ko</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-35-e1gq6ko</link>
 			<guid isPermaLink="false">28e3fe19-14af-4f82-96bb-46dc9d1ee70c</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 06 Apr 2022 09:48:57 GMT</pubDate>
@@ -546,7 +746,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>※今回雑談はありません。</p>
 <p><br></p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-34-e1gf8ah</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-34-e1gf8ah</link>
 			<guid isPermaLink="false">c5a3868e-029f-470e-b527-31444b717e4b</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 30 Mar 2022 06:56:55 GMT</pubDate>
@@ -567,7 +767,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>雑談 : 00:00〜04:02</p>
 <p>本編 : 04:03〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-33-e1g5pkq</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-33-e1g5pkq</link>
 			<guid isPermaLink="false">845c2896-cf30-488b-b96d-b0222c97e9be</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 02:00:58 GMT</pubDate>
@@ -587,7 +787,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>雑談 : 00:00〜07:05</p>
 <p>本編 : 07:05〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-32-e1fr5qr</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-32-e1fr5qr</link>
 			<guid isPermaLink="false">f1216e4a-b575-4850-b6bf-8bbd8188c6fc</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 17 Mar 2022 03:08:46 GMT</pubDate>
@@ -607,7 +807,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>雑談 : 00:00〜02:09</p>
 <p>本編 : 02:10〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-31-e1f9v4f</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-31-e1f9v4f</link>
 			<guid isPermaLink="false">596b8911-3920-45b1-ac69-9373ffa67d43</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Sun, 06 Mar 2022 02:27:30 GMT</pubDate>
@@ -627,7 +827,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 <p>雑談 : 00:00〜03:07</p>
 <p>本編 : 03:08〜</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-30-e1efgsr</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-30-e1efgsr</link>
 			<guid isPermaLink="false">8cabcc76-18c9-46ce-82c7-7ad51bdb4a46</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 16 Feb 2022 12:48:52 GMT</pubDate>
@@ -645,7 +845,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #29]]></title>
 			<description><![CDATA[<p>9.5 最小限のAPI から 9.8 単純な結論 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-29-e1e07js</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-29-e1e07js</link>
 			<guid isPermaLink="false">c2a75ee1-2bff-45d8-85e0-bcd057e91ccb</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Sun, 06 Feb 2022 02:56:24 GMT</pubDate>
@@ -661,7 +861,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #28 ]]></title>
 			<description><![CDATA[<p>9章 単純さのまとめ から 9.4 削除した行の計測 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-28-e1d26ja</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-28-e1d26ja</link>
 			<guid isPermaLink="false">6cff56de-bbaa-472a-9864-4ae7fab04d7f</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 17 Jan 2022 08:19:49 GMT</pubDate>
@@ -677,7 +877,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #27]]></title>
 			<description><![CDATA[<p>8.4 設定管理 から 8.5 まとめ まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-27-e1cq695</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-27-e1cq695</link>
 			<guid isPermaLink="false">1f9cd073-7bf5-489b-9988-2d8ed70c1969</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 11 Jan 2022 12:52:50 GMT</pubDate>
@@ -693,7 +893,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #26]]></title>
 			<description><![CDATA[<p>8.3.5 Rapid から 8.3.6 デプロイメント まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-26-e1cg79l</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-26-e1cg79l</link>
 			<guid isPermaLink="false">f9e53607-57ac-42af-b45e-b20b3c596d97</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 04 Jan 2022 08:47:17 GMT</pubDate>
@@ -709,7 +909,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #25]]></title>
 			<description><![CDATA[<p>8.3 継続的ビルドとデプロイメントから 8.3.4 パッケージ化まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-25-e1c1lsg</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-25-e1c1lsg</link>
 			<guid isPermaLink="false">b6d8f8d7-81d1-4c2a-a7be-27d1f3b863ff</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 22 Dec 2021 06:31:30 GMT</pubDate>
@@ -725,7 +925,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #24]]></title>
 			<description><![CDATA[<h3>8章 リリースエンジニアリング から 8.2.4 ポリシーと手順の強制 まで</h3>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-24-e1bporh</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-24-e1bporh</link>
 			<guid isPermaLink="false">42b69a4a-e1e7-4366-b5ef-34837d86d923</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 16 Dec 2021 07:44:58 GMT</pubDate>
@@ -741,7 +941,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #23]]></title>
 			<description><![CDATA[<p>7.7 基本的機能としての信頼性 から 7.8 自動化のすすめ まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-23-e1b6d28</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-23-e1b6d28</link>
 			<guid isPermaLink="false">fa13e208-897c-4bf2-96e3-1c58f7b2f104</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Fri, 03 Dec 2021 09:34:04 GMT</pubDate>
@@ -757,7 +957,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #22]]></title>
 			<description><![CDATA[<p>7.5.4 サービス指向のクラスタのターンアップ から 7.6 Borg：ウェアハウススケールコンピュータの誕生まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-22-e1b1aja</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-22-e1b1aja</link>
 			<guid isPermaLink="false">5b60187c-8e00-4e4b-af60-262582c6846e</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 30 Nov 2021 12:33:58 GMT</pubDate>
@@ -773,7 +973,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #21]]></title>
 			<description><![CDATA[<p>7.5 苦痛の緩和：クラスタのターンアップへの自動化の適用 から 7.5.3 特化する傾向 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-21-e1aps7g</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-21-e1aps7g</link>
 			<guid isPermaLink="false">ccafd0b1-1e98-49fb-8dfe-cbeee7196e07</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 25 Nov 2021 07:57:08 GMT</pubDate>
@@ -789,7 +989,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #20]]></title>
 			<description><![CDATA[<p>7.3.2 自動化のクラスの階層 から 7.4 自分の仕事の自動化：何もかも自動化する まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-20-e1aijc9</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-20-e1aijc9</link>
 			<guid isPermaLink="false">a10c45a5-81fb-4020-945c-850a209d787f</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Sat, 20 Nov 2021 13:11:12 GMT</pubDate>
@@ -805,7 +1005,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #19]]></title>
 			<description><![CDATA[<p>7.2 Google SREにとっての価値 から 7.3.1 Google SREによる自動化のユースケース まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-19-e19jvtd</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-19-e19jvtd</link>
 			<guid isPermaLink="false">34202167-0b41-4fb7-8464-28811b183f04</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 01 Nov 2021 13:48:07 GMT</pubDate>
@@ -821,7 +1021,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #18]]></title>
 			<description><![CDATA[<p>7章 Googleにおける自動化の進化 から 7.1.5 時間の節約 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-18-e198pq0</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-18-e198pq0</link>
 			<guid isPermaLink="false">be3cf541-babd-4499-852f-f539b3125139</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 25 Oct 2021 01:38:57 GMT</pubDate>
@@ -837,7 +1037,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #17]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;6.10 原則のとりまとめ から 6.12 まとめまで。</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-17-e190acl</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-17-e190acl</link>
 			<guid isPermaLink="false">0d3172c4-f176-41a2-aab4-9a2ec8b96878</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 19 Oct 2021 10:04:51 GMT</pubDate>
@@ -853,7 +1053,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #16]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;6.7 テイルレイテンシに関する懸念 から 6.9 可能な限りシンプルに、ただしやり過ぎないこと まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-16-e18lv2u</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-16-e18lv2u</link>
 			<guid isPermaLink="false">ad0cd007-5b58-4bd5-885e-8d8ee72d086f</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 12 Oct 2021 11:02:09 GMT</pubDate>
@@ -869,7 +1069,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #15]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;6.5 ブラックボックスとホワイトボックス から 6.6 4大シグナル まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-15-e189cnq</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-15-e189cnq</link>
 			<guid isPermaLink="false">b58b373e-f930-4925-b516-1bdfc977de72</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 04 Oct 2021 04:55:03 GMT</pubDate>
@@ -885,7 +1085,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #14]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;6.3 モニタリングにおける妥当な期待値の設定 から 6.4 症状と原因 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-14-e17u9sf</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-14-e17u9sf</link>
 			<guid isPermaLink="false">b2df677d-cf83-44c4-86de-51927409bea5</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 27 Sep 2021 00:39:24 GMT</pubDate>
@@ -901,7 +1101,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #13]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;6章 分散システムのモニタリングから 6.2 モニタリングの必要性 まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-13-e17nm81</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-13-e17nm81</link>
 			<guid isPermaLink="false">bf0eef3a-501f-44ab-8bfb-f0d00ce5d761</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 22 Sep 2021 11:46:14 GMT</pubDate>
@@ -917,7 +1117,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #12]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;5.2 トイルは少ない方が良い理由から5.5 まとめまで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-12-e172njl</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-12-e172njl</link>
 			<guid isPermaLink="false">cb7dc79e-0c64-4c59-bf81-d8018405a1bf</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 08 Sep 2021 10:53:54 GMT</pubDate>
@@ -933,7 +1133,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #11]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;5章 トイルの撲滅から5.1 トイルの定義まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-11-e16mrc3</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-11-e16mrc3</link>
 			<guid isPermaLink="false">a7522ee6-7848-41d0-bab8-ddfba3ad6329</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 31 Aug 2021 08:51:44 GMT</pubDate>
@@ -949,7 +1149,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #10]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;4.3.3 計測値のコントロールから4.4 アグリーメントの実際まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-10-e16afuo</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-10-e16afuo</link>
 			<guid isPermaLink="false">89b6b997-8624-4a89-a894-9b90be919ce5</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 23 Aug 2021 03:44:54 GMT</pubDate>
@@ -965,7 +1165,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #9]]></title>
 			<description><![CDATA[<p><strong>読む範囲 : SRE 本&nbsp;4.2.4 指標の標準化から4.3.2 ターゲットの選択まで</strong></p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-9-e15rqif</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-9-e15rqif</link>
 			<guid isPermaLink="false">a1c6e026-310f-4cec-a0b7-bd3e0ddb95d0</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Fri, 13 Aug 2021 03:26:26 GMT</pubDate>
@@ -983,7 +1183,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #8]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;4.2 指標の実際から4.2.3 集計まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-8-e15n96u</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-8-e15n96u</link>
 			<guid isPermaLink="false">fb954319-5074-4762-892c-5a7a137b6649</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 10 Aug 2021 10:44:47 GMT</pubDate>
@@ -1001,7 +1201,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #7]]></title>
 			<description><![CDATA[<p>読む範囲 : SRE 本&nbsp;4章 サービスレベル目標 から、4.1.3 アグリーメントまで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-7-e15bho7</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-7-e15bho7</link>
 			<guid isPermaLink="false">29191d21-4708-49d7-bded-c8ef63858503</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 02 Aug 2021 09:26:31 GMT</pubDate>
@@ -1019,7 +1219,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #6]]></title>
 			<description><![CDATA[<p><strong>読む範囲: SRE 本 3.4章 エラーバジェットの活用</strong></p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-6-e151e3a</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-6-e151e3a</link>
 			<guid isPermaLink="false">a0b8731d-d568-45fe-9f8f-fb0c5bca4622</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Mon, 26 Jul 2021 13:32:46 GMT</pubDate>
@@ -1037,7 +1237,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #5]]></title>
 			<description><![CDATA[<p>読む範囲: SRE 本 3.1〜3.3章</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-5-e14jo3m</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-5-e14jo3m</link>
 			<guid isPermaLink="false">d86e6f76-49c3-485f-8144-9990044b72c2</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Sat, 17 Jul 2021 16:17:03 GMT</pubDate>
@@ -1055,7 +1255,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #4]]></title>
 			<description><![CDATA[<p>読む範囲: SRE 本 2章、3章 3.1 リスクの管理まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-4-e143vid</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-4-e143vid</link>
 			<guid isPermaLink="false">aa4b6e71-d1dc-4d95-a94d-30961757a2cb</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Thu, 08 Jul 2021 03:55:29 GMT</pubDate>
@@ -1073,7 +1273,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #3]]></title>
 			<description><![CDATA[<p>読む範囲: SRE 本 コラム〜1.4</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-3-e140g30</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-3-e140g30</link>
 			<guid isPermaLink="false">84a0d82a-3951-409b-b50b-94ef61b9187a</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Tue, 06 Jul 2021 07:33:24 GMT</pubDate>
@@ -1091,7 +1291,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #2]]></title>
 			<description><![CDATA[<p>読む範囲: SRE 本 1.2</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-2-e13qfs2</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-2-e13qfs2</link>
 			<guid isPermaLink="false">44bab52e-14c6-4a5a-82e7-caa43b749b97</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Fri, 02 Jul 2021 09:47:54 GMT</pubDate>
@@ -1109,7 +1309,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<title><![CDATA[もう一度読むSRE #1]]></title>
 			<description><![CDATA[<p>読む範囲: SRE 本 1.1〜1.2の途中まで</p>
 ]]></description>
-			<link>https://anchor.fm/read-sre-again/episodes/SRE-1-e13mmv4</link>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-1-e13mmv4</link>
 			<guid isPermaLink="false">16d456b8-f38b-4f26-95d0-d90f26513728</guid>
 			<dc:creator><![CDATA[Topotal]]></dc:creator>
 			<pubDate>Wed, 30 Jun 2021 10:48:26 GMT</pubDate>

@@ -7,7 +7,7 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
@@ -16,11 +16,11 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://semaasa.net/feed/podcast" rel="self" type="application/rss+xml" />
 	<link>https://semaasa.net</link>
 	<description>漫画（コミック・WEBマンガ）・ゲーム（ビデオゲーム・スマホアプリ・アナログゲーム・ボードゲーム）映画・アニメ・特撮・音楽など様々な娯楽について、批評、評論、考察ではなく、感想をゆるく語りあう文化系ポッドキャスト番組です。 番組中、取り上げた作品のネタバレが入ることがありますので、気にされる方はご注意ください。</description>
-	<lastBuildDate>Mon, 06 Feb 2023 05:36:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jul 2023 15:00:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>Blubrry PowerPress/9.10</generator>
+	<generator>Blubrry PowerPress/10.3</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary>漫画（コミック・WEBマンガ）・ゲーム（ビデオゲーム・スマホアプリ・アナログゲーム・ボードゲーム）映画・アニメ・特撮・音楽など様々な娯楽について、批評、評論、考察ではなく、感想をゆるく語りあう文化系ポッドキャスト番組です。&lt;br /&gt;
 番組中、取り上げた作品のネタバレが入ることがありますので、気にされる方はご注意ください。</itunes:summary>
@@ -30,10 +30,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
 		<itunes:name>サワダシンヤ</itunes:name>
-		<itunes:email>swd4ny@gmail.com</itunes:email>
 	</itunes:owner>
-	<managingEditor>swd4ny@gmail.com (サワダシンヤ)</managingEditor>
 	<copyright>サワダシンヤ</copyright>
+	<podcast:license>サワダシンヤ</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>毎回ひとつの娯楽作品について、批評、評論、考察ではなく、感想を言うポッドキャスト番組です。</itunes:subtitle>
 	<image>
 		<title>狭くて浅いやつら</title>
@@ -50,7 +50,287 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:category text="TV &amp; Film">
 		<itunes:category text="Film Reviews" />
 	</itunes:category>
+	<podcast:guid>7cbef375-dbc9-55cb-9ab5-75740b6cd366</podcast:guid>
 	<rawvoice:subscribe feed="https://semaasa.net/feed/podcast" html="https://semaasa.net/listento" blubrry="https://www.blubrry.com/164987/"></rawvoice:subscribe>
+	<item>
+		<title>INT202307-3 当時のストリートファイターに感じた救い</title>
+		<link>https://semaasa.net/smas/game/10079</link>
+		<pubDate>Fri, 07 Jul 2023 15:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://semaasa.net/?p=10079</guid>
+		<comments>https://semaasa.net/smas/game/10079#respond</comments>
+		<wfw:commentRss>https://semaasa.net/smas/game/10079/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[中ノ浦]]></category>
+		<description>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。
+
+スト2の頃は中高生でしたが、暗黒時代を生きていた自分にとってゲームでボコってやんよ！はある意味救いでもあったのは事実です。
+
+【サワダシンヤ × 中ノ浦】
+
+ 
+★番組へのご意見、ご感想等はお気軽にどうぞ。
+● メールフォーム
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
+● LINE公式アカウント
+「いいね」や評価、レビューもよろしければお願いします。
+★バックナンバーを下記のサービスで聴くことができます。
+● Googleドライブ
+● YouTube
+ </description>
+		<content:encoded><![CDATA[<p>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。</p>
+<p>スト2の頃は中高生でしたが、暗黒時代を生きていた自分にとってゲームでボコってやんよ！はある意味救いでもあったのは事実です。</p>
+<p>【サワダシンヤ × 中ノ浦】</p>
+<p>&nbsp;</p>
+<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
+● <a href="https://semaasa.net/contact">メールフォーム</a><br />
+● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
+● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
+「いいね」や評価、レビューもよろしければお願いします。</p>
+<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
+● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
+● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
+<p>&nbsp;</p>
+
+]]></content:encoded>
+		<enclosure url="https://semaasa.net/data/INT202307-3.mp3" length="4117249" type="audio/mpeg" />
+		<itunes:subtitle>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。 - スト2の頃は中高生でしたが、暗黒時代を生きていた自分にとってゲームでボコってやんよ！はある意味救いでもあったのは事実です。 - 【サワダシンヤ × 中ノ浦】 -   ★番組へのご意見、ご感想等はお気軽にどうぞ。 ● メールフォーム ● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa ● LINE公式アカウント </itunes:subtitle>
+		<itunes:summary>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。&lt;br /&gt;
+&lt;br /&gt;
+スト2の頃は中高生でしたが、暗黒時代を生きていた自分にとってゲームでボコってやんよ！はある意味救いでもあったのは事実です。&lt;br /&gt;
+&lt;br /&gt;
+【サワダシンヤ × 中ノ浦】&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
+● メールフォーム&lt;br /&gt;
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
+● LINE公式アカウント&lt;br /&gt;
+「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
+★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
+● Googleドライブ&lt;br /&gt;
+● YouTube&lt;br /&gt;
+ </itunes:summary>
+		<itunes:author>サワダシンヤ</itunes:author>
+		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>9:20</itunes:duration>
+	</item>
+	<item>
+		<title>INT202307-2 ディアブロ2での体験は一生忘れない</title>
+		<link>https://semaasa.net/smas/game/10076</link>
+		<pubDate>Wed, 05 Jul 2023 15:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://semaasa.net/?p=10076</guid>
+		<comments>https://semaasa.net/smas/game/10076#respond</comments>
+		<wfw:commentRss>https://semaasa.net/smas/game/10076/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[中ノ浦]]></category>
+		<description>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。
+
+引き続きサワダはゲーマーではないというだけの話をしてるだけです。
+価値観の違いから悲しい思いをしたオンラインRPGの話も。
+
+【サワダシンヤ × 中ノ浦】
+
+ 
+★番組へのご意見、ご感想等はお気軽にどうぞ。
+● メールフォーム
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
+● LINE公式アカウント
+「いいね」や評価、レビューもよろしければお願いします。
+★バックナンバーを下記のサービスで聴くことができます。
+● Googleドライブ
+● YouTube
+ </description>
+		<content:encoded><![CDATA[<p>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。</p>
+<p>引き続きサワダはゲーマーではないというだけの話をしてるだけです。<br />
+価値観の違いから悲しい思いをしたオンラインRPGの話も。</p>
+<p>【サワダシンヤ × 中ノ浦】</p>
+<p>&nbsp;</p>
+<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
+● <a href="https://semaasa.net/contact">メールフォーム</a><br />
+● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
+● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
+「いいね」や評価、レビューもよろしければお願いします。</p>
+<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
+● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
+● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
+<p>&nbsp;</p>
+
+]]></content:encoded>
+		<enclosure url="https://semaasa.net/data/INT202307-2.mp3" length="5549804" type="audio/mpeg" />
+		<itunes:subtitle>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。 - 引き続きサワダはゲーマーではないというだけの話をしてるだけです。 価値観の違いから悲しい思いをしたオンラインRPGの話も。 - 【サワダシンヤ × 中ノ浦】 -   ★番組へのご意見、ご感想等はお気軽にどうぞ。 ● メールフォーム ● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa ● LINE公式アカウント </itunes:subtitle>
+		<itunes:summary>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。&lt;br /&gt;
+&lt;br /&gt;
+引き続きサワダはゲーマーではないというだけの話をしてるだけです。&lt;br /&gt;
+価値観の違いから悲しい思いをしたオンラインRPGの話も。&lt;br /&gt;
+&lt;br /&gt;
+【サワダシンヤ × 中ノ浦】&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
+● メールフォーム&lt;br /&gt;
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
+● LINE公式アカウント&lt;br /&gt;
+「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
+★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
+● Googleドライブ&lt;br /&gt;
+● YouTube&lt;br /&gt;
+ </itunes:summary>
+		<itunes:author>サワダシンヤ</itunes:author>
+		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>13:18</itunes:duration>
+	</item>
+	<item>
+		<title>INT202307-1 フィクション体験装置としてのゲーム</title>
+		<link>https://semaasa.net/smas/game/10073</link>
+		<pubDate>Mon, 03 Jul 2023 15:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://semaasa.net/?p=10073</guid>
+		<comments>https://semaasa.net/smas/game/10073#respond</comments>
+		<wfw:commentRss>https://semaasa.net/smas/game/10073/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[中ノ浦]]></category>
+		<description>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。
+
+多くの人が言う「ゲーム」とサワダの言うそれは今では全く違うのだろうなあと感じる昨今。
+ゲームに変わる新しい言葉を作ってほしいですね。
+
+【サワダシンヤ × 中ノ浦】
+
+ 
+★番組へのご意見、ご感想等はお気軽にどうぞ。
+● メールフォーム
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
+● LINE公式アカウント
+「いいね」や評価、レビューもよろしければお願いします。
+★バックナンバーを下記のサービスで聴くことができます。
+● Googleドライブ
+● YouTube
+ </description>
+		<content:encoded><![CDATA[<p>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。</p>
+<p>多くの人が言う「ゲーム」とサワダの言うそれは今では全く違うのだろうなあと感じる昨今。<br />
+ゲームに変わる新しい言葉を作ってほしいですね。</p>
+<p>【サワダシンヤ × 中ノ浦】</p>
+<p>&nbsp;</p>
+<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
+● <a href="https://semaasa.net/contact">メールフォーム</a><br />
+● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
+● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
+「いいね」や評価、レビューもよろしければお願いします。</p>
+<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
+● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
+● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
+<p>&nbsp;</p>
+
+]]></content:encoded>
+		<enclosure url="https://semaasa.net/data/INT202307-1.mp3" length="6972172" type="audio/mpeg" />
+		<itunes:subtitle>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。 - 多くの人が言う「ゲーム」とサワダの言うそれは今では全く違うのだろうなあと感じる昨今。 ゲームに変わる新しい言葉を作ってほしいですね。 - 【サワダシンヤ × 中ノ浦】 -   ★番組へのご意見、ご感想等はお気軽にどうぞ。 ● メールフォーム ● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa ● LINE公式アカウント </itunes:subtitle>
+		<itunes:summary>#431 「Slay the Spire」の収録の際に話していた中で、横道にそれたけれども話題として切り抜ける部分を編集してお届けします。&lt;br /&gt;
+&lt;br /&gt;
+多くの人が言う「ゲーム」とサワダの言うそれは今では全く違うのだろうなあと感じる昨今。&lt;br /&gt;
+ゲームに変わる新しい言葉を作ってほしいですね。&lt;br /&gt;
+&lt;br /&gt;
+【サワダシンヤ × 中ノ浦】&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
+● メールフォーム&lt;br /&gt;
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
+● LINE公式アカウント&lt;br /&gt;
+「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
+★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
+● Googleドライブ&lt;br /&gt;
+● YouTube&lt;br /&gt;
+ </itunes:summary>
+		<itunes:author>サワダシンヤ</itunes:author>
+		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>17:15</itunes:duration>
+	</item>
+	<item>
+		<title>#431 「Slay the Spire」</title>
+		<link>https://semaasa.net/smas/game/10066</link>
+		<pubDate>Tue, 27 Jun 2023 15:00:13 +0000</pubDate>
+		<guid isPermaLink="false">https://semaasa.net/?p=10066</guid>
+		<comments>https://semaasa.net/smas/game/10066#respond</comments>
+		<wfw:commentRss>https://semaasa.net/smas/game/10066/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[中ノ浦]]></category>
+		<description>ローグライク、ローグライト、ゲーマーの方にはおなじみの言葉。
+知っている人ならどんな系のゲームなのかはわかると思いますが、サワダはそのあたり無知なので、今回は中ノ浦さんがハマっているゲームといことで、教えてもらってます。
+
+【サワダシンヤ × 中ノ浦】
+
+→「Slay the Spire」をSteamで購入
+→「Slay the Spire」をApp Storeでダウンロード
+→「Slay the Spire」をGoogle Playでダウンロード
+
+ 
+★番組へのご意見、ご感想等はお気軽にどうぞ。
+● メールフォーム
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
+● LINE公式アカウント
+「いいね」や評価、レビューもよろしければお願いします。
+★バックナンバーを下記のサービスで聴くことができます。
+● Googleドライブ
+● YouTube
+ </description>
+		<content:encoded><![CDATA[<p>ローグライク、ローグライト、ゲーマーの方にはおなじみの言葉。<br />
+知っている人ならどんな系のゲームなのかはわかると思いますが、サワダはそのあたり無知なので、今回は中ノ浦さんがハマっているゲームといことで、教えてもらってます。</p>
+<p>【サワダシンヤ × 中ノ浦】</p>
+<p>→<a href="https://store.steampowered.com/app/646570/Slay_the_Spire/?l=japanese" target="_blank" rel="noopener">「Slay the Spire」をSteamで購入</a><br />
+→<a href="https://apps.apple.com/jp/app/slay-the-spire/id1491530147" target="_blank" rel="noopener">「Slay the Spire」をApp Storeでダウンロード</a><br />
+→<a href="https://play.google.com/store/apps/details?id=com.humble.SlayTheSpire&amp;hl=ja&amp;gl=US&amp;pli=1" target="_blank" rel="noopener">「Slay the Spire」をGoogle Playでダウンロード</a></p>
+<p>&nbsp;</p>
+<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
+● <a href="https://semaasa.net/contact">メールフォーム</a><br />
+● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
+● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
+「いいね」や評価、レビューもよろしければお願いします。</p>
+<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
+● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
+● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
+<p>&nbsp;</p>
+
+]]></content:encoded>
+		<enclosure url="https://semaasa.net/data/431.mp3" length="11875462" type="audio/mpeg" />
+		<itunes:subtitle>ローグライク、ローグライト、ゲーマーの方にはおなじみの言葉。 知っている人ならどんな系のゲームなのかはわかると思いますが、サワダはそのあたり無知なので、今回は中ノ浦さんがハマっているゲームといことで、教えてもらってます。 - 【サワダシンヤ × 中ノ浦】 - →「Slay the Spire」をSteamで購入 →「Slay the Spire」をApp Storeでダウンロード →「Slay the Spire」をGoogle Playでダウンロード -   </itunes:subtitle>
+		<itunes:summary>ローグライク、ローグライト、ゲーマーの方にはおなじみの言葉。&lt;br /&gt;
+知っている人ならどんな系のゲームなのかはわかると思いますが、サワダはそのあたり無知なので、今回は中ノ浦さんがハマっているゲームといことで、教えてもらってます。&lt;br /&gt;
+&lt;br /&gt;
+【サワダシンヤ × 中ノ浦】&lt;br /&gt;
+&lt;br /&gt;
+→「Slay the Spire」をSteamで購入&lt;br /&gt;
+→「Slay the Spire」をApp Storeでダウンロード&lt;br /&gt;
+→「Slay the Spire」をGoogle Playでダウンロード&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
+● メールフォーム&lt;br /&gt;
+● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
+● LINE公式アカウント&lt;br /&gt;
+「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
+★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
+● Googleドライブ&lt;br /&gt;
+● YouTube&lt;br /&gt;
+ </itunes:summary>
+		<itunes:author>サワダシンヤ</itunes:author>
+		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>30:53</itunes:duration>
+	</item>
 	<item>
 		<title>INT202301-8 異世界でのステータスオープンは怖い</title>
 		<link>https://semaasa.net/smas/comic/10047</link>
@@ -60,8 +340,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<wfw:commentRss>https://semaasa.net/smas/comic/10047/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[中ノ浦]]></category>
 		<description>今回も中ノ浦さんとの長い雑談の中から、話題として切り抜ける部分を編集してお届けします。
 
@@ -122,6 +402,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>14:13</itunes:duration>
 	</item>
 	<item>
@@ -195,6 +476,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>20:06</itunes:duration>
 	</item>
 	<item>
@@ -260,6 +542,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>41:36</itunes:duration>
 	</item>
 	<item>
@@ -270,9 +553,9 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<comments>https://semaasa.net/smas/comic/10038#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/10038/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[中ノ浦]]></category>
 		<description>今回も中ノ浦さんとの長い雑談の中から、話題として切り抜ける部分を編集してお届けします。
 
@@ -333,6 +616,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:28</itunes:duration>
 	</item>
 	<item>
@@ -406,6 +690,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>22:24</itunes:duration>
 	</item>
 	<item>
@@ -479,6 +764,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>10:27</itunes:duration>
 	</item>
 	<item>
@@ -549,6 +835,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>12:10</itunes:duration>
 	</item>
 	<item>
@@ -619,6 +906,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>27:32</itunes:duration>
 	</item>
 	<item>
@@ -629,8 +917,8 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
 		<comments>https://semaasa.net/smas/game/10020#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/game/10020/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[ゲーム]]></category>
 		<category><![CDATA[中ノ浦]]></category>
 		<description>今回は中ノ浦さんとの長い雑談の中から、地球防衛軍6について話しているところを編集してお届けします。
@@ -689,6 +977,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>59:07</itunes:duration>
 	</item>
 	<item>
@@ -764,6 +1053,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>51:00</itunes:duration>
 	</item>
 	<item>
@@ -899,6 +1189,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>34:13</itunes:duration>
 	</item>
 	<item>
@@ -909,8 +1200,8 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
 		<comments>https://semaasa.net/smas/game/10001#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/game/10001/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ゲーム]]></category>
 		<category><![CDATA[賞金首]]></category>
 		<description>2015年に発売された科学アドベンチャーシリーズ。
@@ -980,6 +1271,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:34:01</itunes:duration>
 	</item>
 	<item>
@@ -1056,6 +1348,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:34:06</itunes:duration>
 	</item>
 	<item>
@@ -1067,8 +1360,8 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
 		<wfw:commentRss>https://semaasa.net/smas/comic/9971/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[中ノ浦]]></category>
 		<description>はじめて当番組で進撃の巨人を取り上げたのが、2010年。
 あれから12年。昨年最終回を迎え、アニメも終盤戦。
@@ -1132,6 +1425,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:48:43</itunes:duration>
 	</item>
 	<item>
@@ -1217,6 +1511,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>24:02</itunes:duration>
 	</item>
 	<item>
@@ -1300,6 +1595,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:37</itunes:duration>
 	</item>
 	<item>
@@ -1311,8 +1607,8 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
 		<wfw:commentRss>https://semaasa.net/smas/comic/9898/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[SASAYAMA.]]></category>
 		<description>マイペースはワガママではなく、主観は配慮ではなく、友達がいないわけではなく、つくらないだけ。
 
@@ -1370,6 +1666,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>33:18</itunes:duration>
 	</item>
 	<item>
@@ -1445,6 +1742,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>52:31</itunes:duration>
 	</item>
 	<item>
@@ -1526,6 +1824,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>56:05</itunes:duration>
 	</item>
 	<item>
@@ -1601,6 +1900,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>24:29</itunes:duration>
 	</item>
 	<item>
@@ -1678,6 +1978,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:06:24</itunes:duration>
 	</item>
 	<item>
@@ -1688,8 +1989,8 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
 		<comments>https://semaasa.net/smas/game/8068#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/game/8068/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[ゲーム]]></category>
 		<category><![CDATA[わん]]></category>
 		<description>好む好まざるに拘わらずキムラタクと共に生きてきた世代としては、主人公がキムタクであることが、このゲームに触れる十分な理由でした。
@@ -1753,6 +2054,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>46:21</itunes:duration>
 	</item>
 	<item>
@@ -1833,6 +2135,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>47:04</itunes:duration>
 	</item>
 	<item>
@@ -1918,6 +2221,7 @@ PS5を買った際に、PlayStation Plusのプランをエクストラにアッ�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>42:17</itunes:duration>
 	</item>
 	<item>
@@ -2041,6 +2345,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:20:16</itunes:duration>
 	</item>
 	<item>
@@ -2127,6 +2432,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>15:52</itunes:duration>
 	</item>
 	<item>
@@ -2218,6 +2524,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:28</itunes:duration>
 	</item>
 	<item>
@@ -2328,6 +2635,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:01:15</itunes:duration>
 	</item>
 	<item>
@@ -2429,6 +2737,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:13:13</itunes:duration>
 	</item>
 	<item>
@@ -2440,8 +2749,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<wfw:commentRss>https://semaasa.net/smas/game/7942/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[スマホゲーム]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ゲーム]]></category>
 		<category><![CDATA[アナログゲーム]]></category>
 		<category><![CDATA[ヨメ]]></category>
@@ -2559,6 +2868,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>16:02</itunes:duration>
 	</item>
 	<item>
@@ -2572,8 +2882,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<category><![CDATA[スマホゲーム]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ビデオゲーム]]></category>
-		<category><![CDATA[アナログゲーム]]></category>
 		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[アナログゲーム]]></category>
 		<category><![CDATA[ヨメ]]></category>
 		<description>先日、Twitterを見ていて、たまたま流れてきたリツイートを見てこのゲームの存在を知りました。
 
@@ -2686,6 +2996,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>19:17</itunes:duration>
 	</item>
 	<item>
@@ -2791,6 +3102,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>28:22</itunes:duration>
 	</item>
 	<item>
@@ -2898,6 +3210,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:12</itunes:duration>
 	</item>
 	<item>
@@ -2989,6 +3302,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>50:25</itunes:duration>
 	</item>
 	<item>
@@ -3101,6 +3415,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>13:42</itunes:duration>
 	</item>
 	<item>
@@ -3194,6 +3509,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:38</itunes:duration>
 	</item>
 	<item>
@@ -3204,8 +3520,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/game/7704#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/game/7704/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ビデオゲーム]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ゲーム]]></category>
 		<category><![CDATA[ペガ]]></category>
 		<description>コロナ禍の自粛の状況下で、普段より自由時間があった方だと思うのですが、それにしても過去最高にゲームに没入した日々を過ごしました。
@@ -3287,6 +3603,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:23:17</itunes:duration>
 	</item>
 	<item>
@@ -3387,6 +3704,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>47:31</itunes:duration>
 	</item>
 	<item>
@@ -3397,11 +3715,11 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/game/7694#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/game/7694/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[ビデオゲーム]]></category>
 		<category><![CDATA[ゲーム]]></category>
-		<category><![CDATA[わん]]></category>
 		<category><![CDATA[明日さん]]></category>
+		<category><![CDATA[わん]]></category>
 		<description>今回、話が長くなったので3本の音源に分けています。
 また、先に体験版をプレイした回も配信しているので、よければ併せて聴いてください。
 
@@ -3532,6 +3850,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>45:02</itunes:duration>
 	</item>
 	<item>
@@ -3634,6 +3953,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:43</itunes:duration>
 	</item>
 	<item>
@@ -3749,6 +4069,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>23:14</itunes:duration>
 	</item>
 	<item>
@@ -3889,6 +4210,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:16</itunes:duration>
 	</item>
 	<item>
@@ -3979,6 +4301,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>13:40</itunes:duration>
 	</item>
 	<item>
@@ -3990,8 +4313,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<wfw:commentRss>https://semaasa.net/smas/comic/7643/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[ヨメ]]></category>
 		<description>「異世界転生モノ」も、カテゴリとしては歴史も長くなってきて、様々な設定のものが増えてきました。
 
@@ -4074,6 +4397,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>9:40</itunes:duration>
 	</item>
 	<item>
@@ -4174,6 +4498,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>9:40</itunes:duration>
 	</item>
 	<item>
@@ -4269,6 +4594,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>11:00</itunes:duration>
 	</item>
 	<item>
@@ -4280,8 +4606,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<wfw:commentRss>https://semaasa.net/smas/comic/7636/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[ヨメ]]></category>
 		<description>「強く無さそうなヤツが実は強かった」というのはよくある設定ですが、「強く無さそうなヤツが実は圧倒的に強かった」というのはあまりない気がします。
 
@@ -4379,6 +4705,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>8:35</itunes:duration>
 	</item>
 	<item>
@@ -4464,6 +4791,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>8:44</itunes:duration>
 	</item>
 	<item>
@@ -4534,6 +4862,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:43</itunes:duration>
 	</item>
 	<item>
@@ -4544,9 +4873,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/comic/7412#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/7412/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[明日さん]]></category>
 		<description>東大出身のプロ雀士の半自伝。
 
@@ -4614,6 +4943,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>10:27</itunes:duration>
 	</item>
 	<item>
@@ -4684,6 +5014,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>6:54</itunes:duration>
 	</item>
 	<item>
@@ -4694,9 +5025,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/comic/7407#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/7407/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[青年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[明日さん]]></category>
 		<description>疲れた現代人がお侍さんの作る料理に癒やされるやさしい物語。
 
@@ -4759,6 +5090,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:46</itunes:duration>
 	</item>
 	<item>
@@ -4829,6 +5161,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>7:42</itunes:duration>
 	</item>
 	<item>
@@ -4899,6 +5232,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:43</itunes:duration>
 	</item>
 	<item>
@@ -4909,9 +5243,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/comic/7397#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/7397/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[明日さん]]></category>
 		<description>工業高校で合唱部を作って、なんだかんだの部活青春物語。
 
@@ -4969,6 +5303,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>8:35</itunes:duration>
 	</item>
 	<item>
@@ -5039,6 +5374,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>5:43</itunes:duration>
 	</item>
 	<item>
@@ -5137,6 +5473,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>28:36</itunes:duration>
 	</item>
 	<item>
@@ -5212,6 +5549,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>10:59</itunes:duration>
 	</item>
 	<item>
@@ -5223,8 +5561,8 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<wfw:commentRss>https://semaasa.net/smas/comic/7133/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[ヨメ]]></category>
 		<description>ただの人はタイムリープで人ならざるものに勝つことができるのか。
 
@@ -5287,6 +5625,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>7:52</itunes:duration>
 	</item>
 	<item>
@@ -5449,6 +5788,7 @@ LBボタン：前ページへのスクロール／ステータス画面で前の
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>12:01</itunes:duration>
 	</item>
 	<item>
@@ -5519,6 +5859,7 @@ LBボタン：前ページへのスクロール／ステータス画面で前の
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>8:46</itunes:duration>
 	</item>
 	<item>
@@ -5621,6 +5962,7 @@ LBボタン：前ページへのスクロール／ステータス画面で前の
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>53:24</itunes:duration>
 	</item>
 	<item>
@@ -5753,6 +6095,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:03:11</itunes:duration>
 	</item>
 	<item>
@@ -5859,6 +6202,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:29</itunes:duration>
 	</item>
 	<item>
@@ -5959,6 +6303,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:42</itunes:duration>
 	</item>
 	<item>
@@ -6073,6 +6418,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:43</itunes:duration>
 	</item>
 	<item>
@@ -6219,6 +6565,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:01:40</itunes:duration>
 	</item>
 	<item>
@@ -6308,6 +6655,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>10:35</itunes:duration>
 	</item>
 	<item>
@@ -6423,6 +6771,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>57:23</itunes:duration>
 	</item>
 	<item>
@@ -6559,6 +6908,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>36:47</itunes:duration>
 	</item>
 	<item>
@@ -6639,6 +6989,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>13:41</itunes:duration>
 	</item>
 	<item>
@@ -6744,6 +7095,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>47:43</itunes:duration>
 	</item>
 	<item>
@@ -6755,8 +7107,8 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
 		<wfw:commentRss>https://semaasa.net/smas/game/4891/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[アナログゲーム]]></category>
 		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[アナログゲーム]]></category>
 		<category><![CDATA[ナヴェ]]></category>
 		<description>今回はボードゲームの宣伝です。
 
@@ -6869,6 +7221,7 @@ B級映画に見えて（B級はB級か…）結構お話がアツいんです�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>33:33</itunes:duration>
 	</item>
 	<item>
@@ -6992,6 +7345,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>50:18</itunes:duration>
 	</item>
 	<item>
@@ -7108,6 +7462,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:19:32</itunes:duration>
 	</item>
 	<item>
@@ -7193,6 +7548,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>26:34</itunes:duration>
 	</item>
 	<item>
@@ -7276,6 +7632,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:38</itunes:duration>
 	</item>
 	<item>
@@ -7356,6 +7713,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>51:48</itunes:duration>
 	</item>
 	<item>
@@ -7437,6 +7795,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:06</itunes:duration>
 	</item>
 	<item>
@@ -7523,6 +7882,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>34:10</itunes:duration>
 	</item>
 	<item>
@@ -7619,6 +7979,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:43</itunes:duration>
 	</item>
 	<item>
@@ -7687,6 +8048,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>47:39</itunes:duration>
 	</item>
 	<item>
@@ -7697,9 +8059,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/comic/4566#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/4566/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[青年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[SASAYAMA.]]></category>
 		<description>最近、単行本の売り上げによって、それまで紙の単行本で発売されていたものが途中の巻から電子書籍のみの販売に切り替わることがあります。
 
@@ -7783,6 +8145,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>16:55</itunes:duration>
 	</item>
 	<item>
@@ -7954,6 +8317,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:22:13</itunes:duration>
 	</item>
 	<item>
@@ -7964,9 +8328,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<comments>https://semaasa.net/smas/comic/4563#respond</comments>
 		<wfw:commentRss>https://semaasa.net/smas/comic/4563/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
 		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[SASAYAMA.]]></category>
 		<description>人間になりたい魔王アドゥは、他の魔王を一人倒すごとに人間に近づいていく。
 ただし人間に近づいていくということは魔王の力を失い、弱くなるということ。
@@ -8042,6 +8406,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>22:14</itunes:duration>
 	</item>
 	<item>
@@ -8137,6 +8502,7 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:47</itunes:duration>
 	</item>
 	<item>
@@ -8148,9 +8514,9 @@ SASAYAMA.の楽曲は、Spotify、Amazon Music、Apple Music等、各サブス�
 		<wfw:commentRss>https://semaasa.net/smas/comic/4534/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[少年漫画]]></category>
+		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[青年漫画]]></category>
 		<category><![CDATA[漫画・コミック]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
 		<category><![CDATA[SASAYAMA.]]></category>
 		<description>Amazonプライムに入っていると、「Prime Reading」といって、一度に最大10冊まで電子書籍を読み放題できるサービスがあります。（10冊以上読みたい場合は、読んだ本を解除）
 
@@ -8260,6 +8626,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>28:48</itunes:duration>
 	</item>
 	<item>
@@ -8321,6 +8688,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>7:54</itunes:duration>
 	</item>
 	<item>
@@ -8414,6 +8782,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>15:39</itunes:duration>
 	</item>
 	<item>
@@ -8512,6 +8881,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>8:47</itunes:duration>
 	</item>
 	<item>
@@ -8605,6 +8975,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>6:27</itunes:duration>
 	</item>
 	<item>
@@ -8686,6 +9057,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>9:17</itunes:duration>
 	</item>
 	<item>
@@ -8767,6 +9139,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>10:14</itunes:duration>
 	</item>
 	<item>
@@ -8858,6 +9231,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>9:18</itunes:duration>
 	</item>
 	<item>
@@ -8942,6 +9316,7 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>5:30</itunes:duration>
 	</item>
 	<item>
@@ -9026,319 +9401,8 @@ kindle unlimited に入ってるんで、Amazon Prime Reading で読んでる作
  </itunes:summary>
 		<itunes:author>サワダシンヤ</itunes:author>
 		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>6:33</itunes:duration>
-	</item>
-	<item>
-		<title>#352 「Pancake &#8211; The Game パンケーキ ザ・ゲーム」</title>
-		<link>https://semaasa.net/smas/game/4397</link>
-		<pubDate>Fri, 21 Jun 2019 17:00:18 +0000</pubDate>
-		<guid isPermaLink="false">http://semaasa.net/?p=4397</guid>
-		<comments>https://semaasa.net/smas/game/4397#respond</comments>
-		<wfw:commentRss>https://semaasa.net/smas/game/4397/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[スマホゲーム]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[ゲーム]]></category>
-		<category><![CDATA[ヨメ]]></category>
-		<description>最近はなにかと忙しく、収録も配信もできてない状況なのですが、そんなプライベートな話はさておき、開店休業中はよくないと思いますので、ひとまず軽く更新。
-9日連続でスマホのゲームアプリを紹介していきたいと思います。
-
-まずは「Pancake - The Game」。以前「Burger – The Game」というゲームアプリを紹介しましたが、それの兄弟ともいうべき作品。
-
-フライパンの上でパンケーキを何回回転させることができるかという、単純明快なゲームです。
-以外とテクニックがいるので難しい！
-
-ぜひプレイしてみてください。
-
-
-
-【サワダシンヤ × ヨメ】
-
- 
-★番組へのご意見、ご感想等はお気軽にどうぞ。
-● メールフォーム
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
-● LINE公式アカウント
-「いいね」や評価、レビューもよろしければお願いします。
-★バックナンバーを下記のサービスで聴くことができます。
-● Googleドライブ
-● YouTube
- </description>
-		<content:encoded><![CDATA[<p>最近はなにかと忙しく、収録も配信もできてない状況なのですが、そんなプライベートな話はさておき、開店休業中はよくないと思いますので、ひとまず軽く更新。<br />
-9日連続でスマホのゲームアプリを紹介していきたいと思います。</p>
-<p>まずは「Pancake &#8211; The Game」。以前「Burger – The Game」というゲームアプリを紹介しましたが、それの兄弟ともいうべき作品。</p>
-<p>フライパンの上でパンケーキを何回回転させることができるかという、単純明快なゲームです。<br />
-以外とテクニックがいるので難しい！</p>
-<p>ぜひプレイしてみてください。</p>
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-4398" src="https://semaasa.net/wp-content/uploads/35201.png" alt="" width="750" height="1334" srcset="https://semaasa.net/wp-content/uploads/35201.png 750w, https://semaasa.net/wp-content/uploads/35201-169x300.png 169w, https://semaasa.net/wp-content/uploads/35201-700x1245.png 700w" sizes="(max-width: 750px) 100vw, 750px" /></p>
-<p>【サワダシンヤ × ヨメ】</p>
-<p>&nbsp;</p>
-<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
-● <a href="https://semaasa.net/contact">メールフォーム</a><br />
-● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
-● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
-「いいね」や評価、レビューもよろしければお願いします。</p>
-<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
-● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
-● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
-<p>&nbsp;</p>
-
-]]></content:encoded>
-		<enclosure url="https://semaasa.net/data/352.mp3" length="3595458" type="audio/mpeg" />
-		<itunes:subtitle>最近はなにかと忙しく、収録も配信もできてない状況なのですが、そんなプライベートな話はさておき、開店休業中はよくないと思いますので、ひとまず軽く更新。 9日連続でスマホのゲームアプリを紹介していきたいと思います。 - まずは「Pancake - The Game」。以前「Burger – The Game」というゲームアプリを紹介しましたが、それの兄弟ともいうべき作品。 - フライパンの上でパンケーキを何回回転させることができるかという、単純明快なゲームです。 </itunes:subtitle>
-		<itunes:summary>最近はなにかと忙しく、収録も配信もできてない状況なのですが、そんなプライベートな話はさておき、開店休業中はよくないと思いますので、ひとまず軽く更新。&lt;br /&gt;
-9日連続でスマホのゲームアプリを紹介していきたいと思います。&lt;br /&gt;
-&lt;br /&gt;
-まずは「Pancake - The Game」。以前「Burger – The Game」というゲームアプリを紹介しましたが、それの兄弟ともいうべき作品。&lt;br /&gt;
-&lt;br /&gt;
-フライパンの上でパンケーキを何回回転させることができるかという、単純明快なゲームです。&lt;br /&gt;
-以外とテクニックがいるので難しい！&lt;br /&gt;
-&lt;br /&gt;
-ぜひプレイしてみてください。&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-【サワダシンヤ × ヨメ】&lt;br /&gt;
-&lt;br /&gt;
- &lt;br /&gt;
-★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
-● メールフォーム&lt;br /&gt;
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
-● LINE公式アカウント&lt;br /&gt;
-「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
-★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
-● Googleドライブ&lt;br /&gt;
-● YouTube&lt;br /&gt;
- </itunes:summary>
-		<itunes:author>サワダシンヤ</itunes:author>
-		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
-		<itunes:duration>7:53</itunes:duration>
-	</item>
-	<item>
-		<title>#351 「からくりサーカス」</title>
-		<link>https://semaasa.net/smas/comic/3839</link>
-		<pubDate>Fri, 15 Mar 2019 17:00:31 +0000</pubDate>
-		<guid isPermaLink="false">http://semaasa.net/?p=3839</guid>
-		<comments>https://semaasa.net/smas/comic/3839#respond</comments>
-		<wfw:commentRss>https://semaasa.net/smas/comic/3839/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[少年漫画]]></category>
-		<category><![CDATA[漫画・コミック]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[アニメ]]></category>
-		<category><![CDATA[SASAYAMA.]]></category>
-		<description>普通に息を吐くようにネタバレしているので、現在アニメを観ていて先の展開が気になる方、作品は知らないけど興味はある方は、まずは漫画を読んだ方が良いと思います。
-
-以前、からくりサーカスがアニメ化されるという情報を得た際も雑談を配信しましたが、今回は、あらためて漫画を全巻読み直したのでちゃんと話そう、という回です。
-
-あらためて読むと、過去に読んだときと全く違った感じ方をするなあと我ながら思ったので、そういう話を少々。
-
-正直なところアニメの方の進行にやや不満があるので、みんなからくりサーカスは漫画で読もうぜ！
-
-【サワダシンヤ × SASAYAMA.】
-
- 
-★番組へのご意見、ご感想等はお気軽にどうぞ。
-● メールフォーム
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
-● LINE公式アカウント
-「いいね」や評価、レビューもよろしければお願いします。
-★バックナンバーを下記のサービスで聴くことができます。
-● Googleドライブ
-● YouTube
- </description>
-		<content:encoded><![CDATA[<p>普通に息を吐くようにネタバレしているので、現在アニメを観ていて先の展開が気になる方、作品は知らないけど興味はある方は、まずは漫画を読んだ方が良いと思います。</p>
-<p>以前、からくりサーカスがアニメ化されるという情報を得た際も雑談を配信しましたが、今回は、あらためて漫画を全巻読み直したのでちゃんと話そう、という回です。</p>
-<p>あらためて読むと、過去に読んだときと全く違った感じ方をするなあと我ながら思ったので、そういう話を少々。</p>
-<p>正直なところアニメの方の進行にやや不満があるので、みんなからくりサーカスは漫画で読もうぜ！</p>
-<p>【サワダシンヤ × SASAYAMA.】</p>
-<p>&nbsp;</p>
-<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
-● <a href="https://semaasa.net/contact">メールフォーム</a><br />
-● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
-● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
-「いいね」や評価、レビューもよろしければお願いします。</p>
-<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
-● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
-● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
-<p>&nbsp;</p>
-
-]]></content:encoded>
-		<enclosure url="https://semaasa.net/data/351.mp3" length="22463918" type="audio/mpeg" />
-		<itunes:subtitle>普通に息を吐くようにネタバレしているので、現在アニメを観ていて先の展開が気になる方、作品は知らないけど興味はある方は、まずは漫画を読んだ方が良いと思います。 - 以前、からくりサーカスがアニメ化されるという情報を得た際も雑談を配信しましたが、今回は、あらためて漫画を全巻読み直したのでちゃんと話そう、という回です。 - あらためて読むと、過去に読んだときと全く違った感じ方をするなあと我ながら思ったので、そういう話を少々。 - </itunes:subtitle>
-		<itunes:summary>普通に息を吐くようにネタバレしているので、現在アニメを観ていて先の展開が気になる方、作品は知らないけど興味はある方は、まずは漫画を読んだ方が良いと思います。&lt;br /&gt;
-&lt;br /&gt;
-以前、からくりサーカスがアニメ化されるという情報を得た際も雑談を配信しましたが、今回は、あらためて漫画を全巻読み直したのでちゃんと話そう、という回です。&lt;br /&gt;
-&lt;br /&gt;
-あらためて読むと、過去に読んだときと全く違った感じ方をするなあと我ながら思ったので、そういう話を少々。&lt;br /&gt;
-&lt;br /&gt;
-正直なところアニメの方の進行にやや不満があるので、みんなからくりサーカスは漫画で読もうぜ！&lt;br /&gt;
-&lt;br /&gt;
-【サワダシンヤ × SASAYAMA.】&lt;br /&gt;
-&lt;br /&gt;
- &lt;br /&gt;
-★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
-● メールフォーム&lt;br /&gt;
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
-● LINE公式アカウント&lt;br /&gt;
-「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
-★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
-● Googleドライブ&lt;br /&gt;
-● YouTube&lt;br /&gt;
- </itunes:summary>
-		<itunes:author>サワダシンヤ</itunes:author>
-		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
-		<itunes:duration>1:00:17</itunes:duration>
-	</item>
-	<item>
-		<title>#350 「カメラを止めるな！」</title>
-		<link>https://semaasa.net/smas/movie/3834</link>
-		<pubDate>Tue, 05 Mar 2019 17:00:48 +0000</pubDate>
-		<guid isPermaLink="false">http://semaasa.net/?p=3834</guid>
-		<comments>https://semaasa.net/smas/movie/3834#respond</comments>
-		<wfw:commentRss>https://semaasa.net/smas/movie/3834/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[邦画]]></category>
-		<category><![CDATA[映画・テレビ]]></category>
-		<category><![CDATA[中ノ浦]]></category>
-		<description>今回ネタバレ込み込みで話してますので、観てない方はまずは観た方が絶対良いです。
-
-サワダはあろうことかこの映画が話題なった当時、この映画について適当に検索して見つけた映画批評コラムで思いっきりネタバレをくらい、この映画の面白さの半分を奪われてしまいました。
-
-この文中でも、何を書いてもネタバレになってしまいかねないので、これ以上のこともここには書きません。
-
-今回はとりあえず観てから聴いてください。
-
-【サワダシンヤ × 中ノ浦】
-
- 
-★番組へのご意見、ご感想等はお気軽にどうぞ。
-● メールフォーム
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
-● LINE公式アカウント
-「いいね」や評価、レビューもよろしければお願いします。
-★バックナンバーを下記のサービスで聴くことができます。
-● Googleドライブ
-● YouTube
- </description>
-		<content:encoded><![CDATA[<p>今回ネタバレ込み込みで話してますので、観てない方はまずは観た方が絶対良いです。</p>
-<p>サワダはあろうことかこの映画が話題なった当時、この映画について適当に検索して見つけた映画批評コラムで思いっきりネタバレをくらい、この映画の面白さの半分を奪われてしまいました。</p>
-<p>この文中でも、何を書いてもネタバレになってしまいかねないので、これ以上のこともここには書きません。</p>
-<p>今回はとりあえず観てから聴いてください。</p>
-<p>【サワダシンヤ × 中ノ浦】</p>
-<p>&nbsp;</p>
-<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
-● <a href="https://semaasa.net/contact">メールフォーム</a><br />
-● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
-● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
-「いいね」や評価、レビューもよろしければお願いします。</p>
-<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
-● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
-● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
-<p>&nbsp;</p>
-
-]]></content:encoded>
-		<enclosure url="https://semaasa.net/data/350.mp3" length="20255998" type="audio/mpeg" />
-		<itunes:subtitle>今回ネタバレ込み込みで話してますので、観てない方はまずは観た方が絶対良いです。 - サワダはあろうことかこの映画が話題なった当時、この映画について適当に検索して見つけた映画批評コラムで思いっきりネタバレをくらい、この映画の面白さの半分を奪われてしまいました。 - この文中でも、何を書いてもネタバレになってしまいかねないので、これ以上のこともここには書きません。 - 今回はとりあえず観てから聴いてください。 - 【サワダシンヤ × 中ノ浦】 -   </itunes:subtitle>
-		<itunes:summary>今回ネタバレ込み込みで話してますので、観てない方はまずは観た方が絶対良いです。&lt;br /&gt;
-&lt;br /&gt;
-サワダはあろうことかこの映画が話題なった当時、この映画について適当に検索して見つけた映画批評コラムで思いっきりネタバレをくらい、この映画の面白さの半分を奪われてしまいました。&lt;br /&gt;
-&lt;br /&gt;
-この文中でも、何を書いてもネタバレになってしまいかねないので、これ以上のこともここには書きません。&lt;br /&gt;
-&lt;br /&gt;
-今回はとりあえず観てから聴いてください。&lt;br /&gt;
-&lt;br /&gt;
-【サワダシンヤ × 中ノ浦】&lt;br /&gt;
-&lt;br /&gt;
- &lt;br /&gt;
-★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
-● メールフォーム&lt;br /&gt;
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
-● LINE公式アカウント&lt;br /&gt;
-「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
-★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
-● Googleドライブ&lt;br /&gt;
-● YouTube&lt;br /&gt;
- </itunes:summary>
-		<itunes:author>サワダシンヤ</itunes:author>
-		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
-		<itunes:duration>54:09</itunes:duration>
-	</item>
-	<item>
-		<title>#349 「Burger &#8211; The Game バーガー ザ・ゲーム」</title>
-		<link>https://semaasa.net/smas/game/3829</link>
-		<pubDate>Wed, 20 Feb 2019 17:05:28 +0000</pubDate>
-		<guid isPermaLink="false">http://semaasa.net/?p=3829</guid>
-		<comments>https://semaasa.net/smas/game/3829#respond</comments>
-		<wfw:commentRss>https://semaasa.net/smas/game/3829/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[スマホゲーム]]></category>
-		<category><![CDATA[狭くて浅いやつら]]></category>
-		<category><![CDATA[ゲーム]]></category>
-		<category><![CDATA[中ノ浦]]></category>
-		<description>前回のついでに、ふと紹介したいゲームを思い出しましたので続けてご紹介。
-
-童心に帰れるゲームです。ワンゲーム1分です。
-
-ぜひプレイしてみてください。
-
-
-
-【サワダシンヤ × 中ノ浦】
-
- 
-★番組へのご意見、ご感想等はお気軽にどうぞ。
-● メールフォーム
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa
-● LINE公式アカウント
-「いいね」や評価、レビューもよろしければお願いします。
-★バックナンバーを下記のサービスで聴くことができます。
-● Googleドライブ
-● YouTube
- </description>
-		<content:encoded><![CDATA[<p>前回のついでに、ふと紹介したいゲームを思い出しましたので続けてご紹介。</p>
-<p>童心に帰れるゲームです。ワンゲーム1分です。</p>
-<p>ぜひプレイしてみてください。</p>
-<p><img decoding="async" class="alignnone size-full wp-image-3830" src="https://semaasa.net/wp-content/uploads/34901.jpg" alt="" width="100%" srcset="https://semaasa.net/wp-content/uploads/34901.jpg 750w, https://semaasa.net/wp-content/uploads/34901-169x300.jpg 169w, https://semaasa.net/wp-content/uploads/34901-700x1245.jpg 700w" sizes="(max-width: 750px) 100vw, 750px" /></p>
-<p>【サワダシンヤ × 中ノ浦】</p>
-<p>&nbsp;</p>
-<p><strong>★番組へのご意見、ご感想等はお気軽にどうぞ。</strong><br />
-● <a href="https://semaasa.net/contact">メールフォーム</a><br />
-● <a href="https://twitter.com/intent/tweet?hashtags=狭浅" target="_blank" rel="noopener noreferrer">Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa</a><br />
-● <a href="https://line.me/R/ti/p/%40686owqes" target="_blank" rel="noopener">LINE公式アカウント</a><br />
-「いいね」や評価、レビューもよろしければお願いします。</p>
-<p><strong>★バックナンバーを下記のサービスで聴くことができます。</strong><br />
-● <a href="https://drive.google.com/drive/u/2/folders/1BfIfr35lRlOGIdHhaGYnl-ivguB6gSvM" target="_blank">Googleドライブ</a><br />
-● <a href="https://www.youtube.com/channel/UCq4s6RihW6zpcs38jztCoig" target="_blank">YouTube</a></p>
-<p>&nbsp;</p>
-
-]]></content:encoded>
-		<enclosure url="https://semaasa.net/data/349.mp3" length="5275782" type="audio/mpeg" />
-		<itunes:subtitle>前回のついでに、ふと紹介したいゲームを思い出しましたので続けてご紹介。 - 童心に帰れるゲームです。ワンゲーム1分です。 - ぜひプレイしてみてください。 - 【サワダシンヤ × 中ノ浦】 -   ★番組へのご意見、ご感想等はお気軽にどうぞ。 ● メールフォーム ● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa ● LINE公式アカウント 「いいね」や評価、レビューもよろしければお願いします。 ★バックナンバーを下記のサービスで聴くことができます。 </itunes:subtitle>
-		<itunes:summary>前回のついでに、ふと紹介したいゲームを思い出しましたので続けてご紹介。&lt;br /&gt;
-&lt;br /&gt;
-童心に帰れるゲームです。ワンゲーム1分です。&lt;br /&gt;
-&lt;br /&gt;
-ぜひプレイしてみてください。&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-【サワダシンヤ × 中ノ浦】&lt;br /&gt;
-&lt;br /&gt;
- &lt;br /&gt;
-★番組へのご意見、ご感想等はお気軽にどうぞ。&lt;br /&gt;
-● メールフォーム&lt;br /&gt;
-● Twitterのハッシュタグ #狭浅、#せまあさ、#semaasa&lt;br /&gt;
-● LINE公式アカウント&lt;br /&gt;
-「いいね」や評価、レビューもよろしければお願いします。&lt;br /&gt;
-★バックナンバーを下記のサービスで聴くことができます。&lt;br /&gt;
-● Googleドライブ&lt;br /&gt;
-● YouTube&lt;br /&gt;
- </itunes:summary>
-		<itunes:author>サワダシンヤ</itunes:author>
-		<itunes:image href="https://semaasa.net/wp-content/uploads/podcast_artwork_2020-2.jpg" />
-		<itunes:duration>12:33</itunes:duration>
 	</item>
 </channel>
 </rss>

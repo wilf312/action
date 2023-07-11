@@ -2,14 +2,14 @@
 	<channel>
 		<title><![CDATA[Today I Learned]]></title>
 		<description><![CDATA[シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。]]></description>
-		<link>https://anchor.fm/todayilearnedfm</link>
+		<link>https://podcasters.spotify.com/pod/show/todayilearnedfm</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg</url>
 			<title>Today I Learned</title>
-			<link>https://anchor.fm/todayilearnedfm</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 26 Feb 2023 23:51:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2023 11:14:14 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/367f0040/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Imai and Yusuke ]]></author>
 		<copyright><![CDATA[Imai and Yusuke ]]></copyright>
@@ -26,6 +26,238 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
 		<item>
+			<title><![CDATA[78. 暗号学を学びなおす]]></title>
+			<description><![CDATA[<p>インターネットのセキュリティやブロックチェーンの根幹をなす学問である暗号学を Cousera の提供するスタンフォード大学の講座でTomoが学び直したという話をしました。</p>
+<ul>
+ <li>Cryptography I <a href="https://www.coursera.org/learn/crypto">https://www.coursera.org/learn/crypto</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+ <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/78-e25lfii</link>
+			<guid isPermaLink="false">ca0e8bf2-360e-41f6-a926-ea04f374af94</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Wed, 14 Jun 2023 00:13:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/72055826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F72055826%2F2410cbc132ffadf27a24595721668dec.m4a" length="20379961" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;インターネットのセキュリティやブロックチェーンの根幹をなす学問である暗号学を Cousera の提供するスタンフォード大学の講座でTomoが学び直したという話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Cryptography I &lt;a href=&quot;https://www.coursera.org/learn/crypto&quot;&gt;https://www.coursera.org/learn/crypto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:21:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[77. レイオフと最近のベイエリアの雰囲気]]></title>
+			<description><![CDATA[<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">⁠https://twitter.com/tomoaki_imai⁠</a></li>
+ <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">⁠https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/77-e24c01u</link>
+			<guid isPermaLink="false">b57f287b-4bf3-4054-ba0a-dff0e615aeaa</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Sat, 20 May 2023 00:49:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/70696446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F70696446%2F09feee5aa092631d015632341fc6a308.m4a" length="23654792" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;⁠https://twitter.com/tomoaki_imai⁠&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;⁠https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[76. 分散型SNS探訪(Bluesky, Nostr, Mastodon, Farcaster)]]></title>
+			<description><![CDATA[<p>いろいろな分散型SNSの仕組みや雰囲気について話しました</p>
+<p>Mastodon</p>
+<ul>
+ <li><a href="https://joinmastodon.org/">https://joinmastodon.org/</a></li>
+</ul>
+<ul>
+ <li>アカウント <a href="https://mastodon.social/@tomoima525">https://mastodon.social/@tomoima525</a></li>
+</ul>
+<p>Farcaster</p>
+<ul>
+  <li><a href="https://warpcast.com/">⁠https://warpcast.com/⁠</a></li>
+  <li>仕様 <a href="http://farcaster.xyz">⁠farcaster.xyz⁠</a></li>
+  <li>アカウント <a href="https://warpcast.com/tomoima525">⁠https://warpcast.com/tomoima525⁠</a></li>
+</ul>
+<p>Nostr</p>
+<ul>
+  <li>damus(mobile client) <a href="https://damus.io/">https://damus.io/</a></li>
+  <li>仕様 <a href="https://nostr.com/">https://nostr.com/</a></li>
+  <li>アカウント <a href="mailto:tomoima525@tomoima525.github.io">tomoima525@tomoima525.github.io</a></li>
+</ul>
+<p>Bluesky</p>
+<ul>
+  <li><a href="https://blueskyweb.xyz/">https://blueskyweb.xyz/</a></li>
+  <li>仕様 <a href="https://atproto.com/">https://atproto.com/</a></li>
+  <li>アカウント <a href="https://staging.bsky.app/profile/0xtomo.bsky.social">https://staging.bsky.app/profile/0xtomo.bsky.social</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/76--SNSBluesky--Nostr--Mastodon--Farcaster-e23hgqq</link>
+			<guid isPermaLink="false">c60d9bc6-c705-48ed-93e4-723b720675e7</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Fri, 05 May 2023 13:35:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/69828890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F69828890%2F7ed938e5567055f041931e3fa9bd8b1d.m4a" length="23780218" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;いろいろな分散型SNSの仕組みや雰囲気について話しました&lt;/p&gt;
+&lt;p&gt;Mastodon&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://joinmastodon.org/&quot;&gt;https://joinmastodon.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+ &lt;li&gt;アカウント &lt;a href=&quot;https://mastodon.social/@tomoima525&quot;&gt;https://mastodon.social/@tomoima525&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Farcaster&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://warpcast.com/&quot;&gt;⁠https://warpcast.com/⁠&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;仕様 &lt;a href=&quot;http://farcaster.xyz&quot;&gt;⁠farcaster.xyz⁠&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;アカウント &lt;a href=&quot;https://warpcast.com/tomoima525&quot;&gt;⁠https://warpcast.com/tomoima525⁠&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nostr&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;damus(mobile client) &lt;a href=&quot;https://damus.io/&quot;&gt;https://damus.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;仕様 &lt;a href=&quot;https://nostr.com/&quot;&gt;https://nostr.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;アカウント &lt;a href=&quot;mailto:tomoima525@tomoima525.github.io&quot;&gt;tomoima525@tomoima525.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bluesky&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blueskyweb.xyz/&quot;&gt;https://blueskyweb.xyz/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;仕様 &lt;a href=&quot;https://atproto.com/&quot;&gt;https://atproto.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;アカウント &lt;a href=&quot;https://staging.bsky.app/profile/0xtomo.bsky.social&quot;&gt;https://staging.bsky.app/profile/0xtomo.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[75. より良い睡眠を求めて]]></title>
+			<description><![CDATA[<p>1日の生産性を左右する睡眠の最適化について話しました。</p>
+<ul>
+ <li>Huberman Lab toolkit for sleep - <a href="https://hubermanlab.com/toolkit-for-sleep/" rel="noopener noreferrer">https://hubermanlab.com/toolkit-for-sleep/</a></li>
+ <li>NSDR(None Sleep Deep Rest <a href="https://www.youtube.com/watch?v=AKGrmY8OSHM" rel="noopener noreferrer">https://www.youtube.com/watch?v=AKGrmY8OSHM</a> )</li>
+ <li>座禅ポッドキャスト <a href="https://podcasts.apple.com/jp/podcast/46-2023%E5%B9%B43%E6%9C%88%E3%81%AE%E5%9D%90%E7%A6%85-%E5%83%A7%E4%BE%B6-%E5%B0%8F%E6%9D%89%E7%91%9E%E7%A9%82/id1568915231?i=1000605065548" rel="noopener noreferrer">https://podcasts.apple.com/jp/podcast/46-2023年3月の坐禅-僧侶-小杉瑞穂/id1568915231?i=1000605065548</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">⁠https://twitter.com/tomoaki_imai⁠</a></li>
+  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">⁠https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/75-e22eha1</link>
+			<guid isPermaLink="false">4635a1bd-effa-466c-b990-b54355dfe926</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Sun, 16 Apr 2023 04:40:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/68682497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F68682497%2F8a42a3f60bfb0e1f90e5905cb2044bd2.m4a" length="24569728" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;1日の生産性を左右する睡眠の最適化について話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Huberman Lab toolkit for sleep - &lt;a href=&quot;https://hubermanlab.com/toolkit-for-sleep/&quot; rel=&quot;noopener noreferrer&quot;&gt;https://hubermanlab.com/toolkit-for-sleep/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;NSDR(None Sleep Deep Rest &lt;a href=&quot;https://www.youtube.com/watch?v=AKGrmY8OSHM&quot; rel=&quot;noopener noreferrer&quot;&gt;https://www.youtube.com/watch?v=AKGrmY8OSHM&lt;/a&gt; )&lt;/li&gt;
+ &lt;li&gt;座禅ポッドキャスト &lt;a href=&quot;https://podcasts.apple.com/jp/podcast/46-2023%E5%B9%B43%E6%9C%88%E3%81%AE%E5%9D%90%E7%A6%85-%E5%83%A7%E4%BE%B6-%E5%B0%8F%E6%9D%89%E7%91%9E%E7%A9%82/id1568915231?i=1000605065548&quot; rel=&quot;noopener noreferrer&quot;&gt;https://podcasts.apple.com/jp/podcast/46-2023年3月の坐禅-僧侶-小杉瑞穂/id1568915231?i=1000605065548&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;⁠https://twitter.com/tomoaki_imai⁠&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;⁠https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[74. 大谷選手の声がけのすごさをストーリーテリングから説明する]]></title>
+			<description><![CDATA[<p>WBCで話題になった大谷選手の声がけについてストーリーテリングで分解していきました。</p>
+<ul>
+ <li><strong>Unleash the Power of Storytelling</strong> <a href="https://amzn.to/40uD3I4">https://amzn.to/40uD3I4</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+ <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/74-e20v7i5</link>
+			<guid isPermaLink="false">7bca610e-d346-474a-a98e-354b805d7109</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Thu, 23 Mar 2023 16:46:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/67132421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F67132421%2F39807dae3aa63230a3c3bab2bb88fad9.m4a" length="12917367" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;WBCで話題になった大谷選手の声がけについてストーリーテリングで分解していきました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Unleash the Power of Storytelling&lt;/strong&gt; &lt;a href=&quot;https://amzn.to/40uD3I4&quot;&gt;https://amzn.to/40uD3I4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:13:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[73. エンジニアのアーキタイプ]]></title>
+			<description><![CDATA[<p>Reference:</p>
+<ul>
+ <li><a href="https://candor.co/articles/career-paths/engineer-archetypes-which-one-are-you">Engineer Archetypes: Which One Are You?</a>&nbsp;</li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO &nbsp;<a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+ <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/73-e202tem</link>
+			<guid isPermaLink="false">51814f67-1540-45c5-97e8-aec8cd91c2dc</guid>
+			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
+			<pubDate>Wed, 08 Mar 2023 23:27:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/66204566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F66204566%2Fc8ff8488173d3073b18c46a1005841b6.m4a" length="29940413" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://candor.co/articles/career-paths/engineer-archetypes-which-one-are-you&quot;&gt;Engineer Archetypes: Which One Are You?&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &amp;nbsp;&lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Yusuke Kawanabe, Software Engineer &lt;a href=&quot;https://twitter.com/ykawanabe&quot;&gt;https://twitter.com/ykawanabe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[72. 開発におけるAIとの付き合い方]]></title>
 			<description><![CDATA[<p>開発でAIをどう活用しているか、将来開発者とAIの関わり合いがどうなるのか、便利な使い方などについて話しました。</p>
 <ul>
@@ -37,7 +269,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/72--AI-e1vifrd</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/72--AI-e1vifrd</link>
 			<guid isPermaLink="false">e40fe1c4-c6fb-44a4-b6b9-fcbd6933141e</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 26 Feb 2023 23:48:57 GMT</pubDate>
@@ -66,7 +298,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/71-e1v7o41</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/71-e1v7o41</link>
 			<guid isPermaLink="false">da5e72ab-081a-4850-9115-6e5ec900f192</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 20 Feb 2023 02:32:50 GMT</pubDate>
@@ -92,7 +324,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/70-e1uqfs5</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/70-e1uqfs5</link>
 			<guid isPermaLink="false">4253df99-1567-40b0-8a30-f08184a0aa2f</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 11 Feb 2023 18:35:23 GMT</pubDate>
@@ -122,7 +354,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/69--2023-e1tqkr8</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/69--2023-e1tqkr8</link>
 			<guid isPermaLink="false">01be82eb-fa20-4390-beda-01ad92645822</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 06 Feb 2023 06:12:43 GMT</pubDate>
@@ -152,7 +384,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/68-e1u181h</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/68-e1u181h</link>
 			<guid isPermaLink="false">21518094-2f75-4652-bb19-72f484639af0</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 26 Jan 2023 23:55:11 GMT</pubDate>
@@ -179,7 +411,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/67-e1tqk6a</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/67-e1tqk6a</link>
 			<guid isPermaLink="false">958abd3e-94df-45b6-a321-862c83914fed</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 21 Jan 2023 23:00:07 GMT</pubDate>
@@ -217,7 +449,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/66--2022-e1ssvp9</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/66--2022-e1ssvp9</link>
 			<guid isPermaLink="false">6051796e-c71a-41ac-94a6-5e852d3d51ae</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 30 Dec 2022 12:32:27 GMT</pubDate>
@@ -253,7 +485,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/65-e1shpvq</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/65-e1shpvq</link>
 			<guid isPermaLink="false">dbe28d74-432a-469e-ad7e-4406704a567f</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 21 Dec 2022 21:09:10 GMT</pubDate>
@@ -283,7 +515,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/64-e1r83ld</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/64-e1r83ld</link>
 			<guid isPermaLink="false">69a49347-635e-4a23-a740-76b99fac7125</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 24 Nov 2022 21:59:13 GMT</pubDate>
@@ -321,7 +553,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/63-e1qhf4r</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/63-e1qhf4r</link>
 			<guid isPermaLink="false">73a0ca06-dc2e-40ef-8edf-9f2f9ea39c1b</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 10 Nov 2022 06:34:22 GMT</pubDate>
@@ -358,7 +590,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/62-e1pqn1p</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/62-e1pqn1p</link>
 			<guid isPermaLink="false">ba40192d-adf7-4235-bf50-6908d6bbc504</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 27 Oct 2022 04:18:23 GMT</pubDate>
@@ -393,7 +625,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/61-e1ofuig</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/61-e1ofuig</link>
 			<guid isPermaLink="false">6bb9b465-87b1-48fd-8bff-8753a47ae10c</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 28 Sep 2022 05:51:06 GMT</pubDate>
@@ -425,7 +657,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/60--CTOTaishi-e1nvvvf</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/60--CTOTaishi-e1nvvvf</link>
 			<guid isPermaLink="false">dfc88245-1672-4d73-8ff2-399198b5f711</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 17 Sep 2022 18:50:31 GMT</pubDate>
@@ -466,7 +698,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/59--zkEVM-e1nfopi</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/59--zkEVM-e1nfopi</link>
 			<guid isPermaLink="false">01d6e005-c300-44d0-a8a0-78059a31d50a</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 07 Sep 2022 00:03:13 GMT</pubDate>
@@ -509,7 +741,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanab</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/58--WWDC-2022-e1mlcl2</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/58--WWDC-2022-e1mlcl2</link>
 			<guid isPermaLink="false">87b27667-0532-4f43-99f8-575ca56f0d32</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 19 Aug 2022 01:21:26 GMT</pubDate>
@@ -541,7 +773,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanab</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/57-e1lodo7</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/57-e1lodo7</link>
 			<guid isPermaLink="false">7cce4fb2-2564-4790-b02e-846595fcb657</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 27 Jul 2022 18:44:54 GMT</pubDate>
@@ -580,7 +812,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/56--mac-e1kv1hc</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/56--mac-e1kv1hc</link>
 			<guid isPermaLink="false">07d53da7-3c0c-4c30-8543-5207e7652295</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 08 Jul 2022 02:43:17 GMT</pubDate>
@@ -618,7 +850,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/55--318-e1kfokj</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/55--318-e1kfokj</link>
 			<guid isPermaLink="false">f9c1c341-4299-4a64-ba76-cae7540a8c21</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 27 Jun 2022 00:35:23 GMT</pubDate>
@@ -651,7 +883,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/54--GithubCTO-e1jqnku</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/54--GithubCTO-e1jqnku</link>
 			<guid isPermaLink="false">63562ac4-46a4-46c1-84a7-0b3fc79ce60f</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 12 Jun 2022 18:46:36 GMT</pubDate>
@@ -684,7 +916,7 @@
   <li>Yusuke, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/53--Get-your-work-recognized-write-a-brag-document-e1j36il</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/53--Get-your-work-recognized-write-a-brag-document-e1j36il</link>
 			<guid isPermaLink="false">8885e722-6c57-476b-94a8-5464ec484246</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 26 May 2022 16:07:00 GMT</pubDate>
@@ -722,7 +954,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/52-e1ho7b1</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/52-e1ho7b1</link>
 			<guid isPermaLink="false">d8b482b8-329b-459f-8177-2515d19ec128</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 27 Apr 2022 18:58:09 GMT</pubDate>
@@ -760,7 +992,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/51--AmsterdamBigTech-e1h7emu</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/51--AmsterdamBigTech-e1h7emu</link>
 			<guid isPermaLink="false">f53a743a-948f-42c2-a62e-56188c4bb1fe</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 15 Apr 2022 22:54:46 GMT</pubDate>
@@ -799,7 +1031,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/50-e1g61jm</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/50-e1g61jm</link>
 			<guid isPermaLink="false">fcf1bc5a-e698-4f12-8994-dbb517749c7e</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 06:30:28 GMT</pubDate>
@@ -837,7 +1069,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/49--Amazon10-e1fklkj</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/49--Amazon10-e1fklkj</link>
 			<guid isPermaLink="false">4f29cbf7-fc25-42e9-b1ca-ddd48981ea87</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 14 Mar 2022 07:43:56 GMT</pubDate>
@@ -872,7 +1104,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/48--SWE-e1f92fv</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/48--SWE-e1f92fv</link>
 			<guid isPermaLink="false">0e0ceead-8332-4c3e-861c-69e6c8cc4f21</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 05 Mar 2022 06:56:04 GMT</pubDate>
@@ -910,7 +1142,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/47-e1e10tc</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/47-e1e10tc</link>
 			<guid isPermaLink="false">b0aa047c-520d-4aea-b041-0a8c72e0ca5f</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 06 Feb 2022 19:16:49 GMT</pubDate>
@@ -949,7 +1181,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/46-e1diqpo</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/46-e1diqpo</link>
 			<guid isPermaLink="false">42e7a79a-9900-4a11-8424-40024e658f83</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 29 Jan 2022 05:09:39 GMT</pubDate>
@@ -991,7 +1223,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/45--Year-end-review-2021-e1c6egj</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/45--Year-end-review-2021-e1c6egj</link>
 			<guid isPermaLink="false">5cc505e3-efa9-491b-a19d-3992cc6049ce</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 27 Dec 2021 03:14:22 GMT</pubDate>
@@ -1031,7 +1263,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a><a href="https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=yBPdHbK-RZiSmIkTcdAf-w&amp;dl_branch=1">&nbsp;</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/44-e1bpqh5</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/44-e1bpqh5</link>
 			<guid isPermaLink="false">ae5e60f6-7610-4558-9efa-38e56997aeb9</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 17 Dec 2021 04:10:23 GMT</pubDate>
@@ -1071,7 +1303,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/43--NFT-e1agq5g</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/43--NFT-e1agq5g</link>
 			<guid isPermaLink="false">eaae299c-182a-4e67-a5ba-f83f5dd8a38e</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 19 Nov 2021 18:00:24 GMT</pubDate>
@@ -1112,7 +1344,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8</link>
 			<guid isPermaLink="false">ff54636d-d1e1-48f1-b76a-713ae6c7fc71</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 12 Nov 2021 18:39:06 GMT</pubDate>
@@ -1148,7 +1380,7 @@
   <li>Developer DAO <a href="https://www.developerdao.com/">https://www.developerdao.com/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/41--NFT-e19jl8k</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/41--NFT-e19jl8k</link>
 			<guid isPermaLink="false">2e792102-7820-4802-b5ba-844cfda45f2b</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 01 Nov 2021 06:38:18 GMT</pubDate>
@@ -1177,7 +1409,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/40---Solana--Q-and-A-e19cdh7</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/40---Solana--Q-and-A-e19cdh7</link>
 			<guid isPermaLink="false">16681a7b-4fe3-4bd4-869f-dc8da063e6fe</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 27 Oct 2021 06:30:57 GMT</pubDate>
@@ -1221,7 +1453,7 @@
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/39-e18n8ta</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/39-e18n8ta</link>
 			<guid isPermaLink="false">30bd5011-4732-4fae-8d4d-945b16438c58</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 13 Oct 2021 06:59:38 GMT</pubDate>
@@ -1269,7 +1501,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/38-e181u2m</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/38-e181u2m</link>
 			<guid isPermaLink="false">cb72b506-44be-43ac-9f89-b65c5ad9e0a6</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 29 Sep 2021 06:36:41 GMT</pubDate>
@@ -1310,7 +1542,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/37--Tsundoku-e16utfb</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/37--Tsundoku-e16utfb</link>
 			<guid isPermaLink="false">0927b72e-4649-4cce-8bc3-44f508feb135</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 08 Sep 2021 06:05:14 GMT</pubDate>
@@ -1351,7 +1583,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/36-e164o9d</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/36-e164o9d</link>
 			<guid isPermaLink="false">d05b1677-c2a8-4c8a-881a-0f749dff8c17</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 25 Aug 2021 06:43:02 GMT</pubDate>
@@ -1406,7 +1638,7 @@
   <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/35--Ryoichi-Kato-e167v3f</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/35--Ryoichi-Kato-e167v3f</link>
 			<guid isPermaLink="false">7d4be62a-d63b-48fc-8f46-c78c745041d9</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 21 Aug 2021 06:39:48 GMT</pubDate>
@@ -1466,7 +1698,7 @@
 </li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/34--Capacity-PlanningRyoichi-Kato-e15g2ac</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/34--Capacity-PlanningRyoichi-Kato-e15g2ac</link>
 			<guid isPermaLink="false">da1fe205-9a10-4702-b664-5445a39ebf8e</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 11 Aug 2021 21:00:00 GMT</pubDate>
@@ -1510,7 +1742,7 @@
 </ul>
 <p><br></p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh</link>
 			<guid isPermaLink="false">e6f75b5f-c0cb-46fa-921d-0970fb5ae6a2</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 07 Aug 2021 17:49:34 GMT</pubDate>
@@ -1556,7 +1788,7 @@
 </ul>
 <p><br></p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/32--Findy-e14gik9</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/32--Findy-e14gik9</link>
 			<guid isPermaLink="false">22397908-64cf-4602-bfa3-a4776b413003</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 15 Jul 2021 17:42:18 GMT</pubDate>
@@ -1597,7 +1829,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/31-e144400</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/31-e144400</link>
 			<guid isPermaLink="false">455fca2f-a21a-4789-9ca2-5b96aa4ac88a</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 08 Jul 2021 06:29:17 GMT</pubDate>
@@ -1641,7 +1873,7 @@
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/30--CS-e134kja</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/30--CS-e134kja</link>
 			<guid isPermaLink="false">62547967-4100-4ec7-837a-8241a8db398a</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 29 Jun 2021 22:59:06 GMT</pubDate>
@@ -1703,7 +1935,7 @@
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/29-e134g06</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/29-e134g06</link>
 			<guid isPermaLink="false">3170fdbc-5fb3-4b2b-abb7-00b30c7095f5</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 20 Jun 2021 18:24:50 GMT</pubDate>
@@ -1756,7 +1988,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/28-----languishing-e12ppic</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/28-----languishing-e12ppic</link>
 			<guid isPermaLink="false">5b827b33-bf5f-46ec-9ab1-c99d5f940593</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 16 Jun 2021 04:02:50 GMT</pubDate>
@@ -1792,7 +2024,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/27-e11rb9t</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/27-e11rb9t</link>
 			<guid isPermaLink="false">1b704284-ac47-4cb4-906e-4a45d7bc2c8c</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 31 May 2021 22:27:21 GMT</pubDate>
@@ -1829,7 +2061,7 @@
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/26--Chomp-CTO-Tomoaki-Imai-e11dc56</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/26--Chomp-CTO-Tomoaki-Imai-e11dc56</link>
 			<guid isPermaLink="false">5a3fed28-4bfb-4bf3-9bc3-fd5016dc5836</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 23 May 2021 05:59:30 GMT</pubDate>
@@ -1866,7 +2098,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/25-e10pk4o</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/25-e10pk4o</link>
 			<guid isPermaLink="false">8c0a22c0-b80d-4921-90a0-9bf0cee4fb81</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 13 May 2021 04:23:41 GMT</pubDate>
@@ -1906,7 +2138,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/24--10X-CTO10X-evassp</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/24--10X-CTO10X-evassp</link>
 			<guid isPermaLink="false">171c1e21-e7d4-4dc2-9c1d-4cf82d73f998</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 27 Apr 2021 04:03:21 GMT</pubDate>
@@ -1945,7 +2177,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp</link>
 			<guid isPermaLink="false">9acd8b16-1e50-4650-bf94-24351be12bb6</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 21 Apr 2021 06:34:45 GMT</pubDate>
@@ -1990,7 +2222,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/22-euno6o</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/22-euno6o</link>
 			<guid isPermaLink="false">76108b20-f6f6-4495-a297-56ab6d64cf79</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 12 Apr 2021 05:05:26 GMT</pubDate>
@@ -2037,7 +2269,7 @@
 </ul>
 <p><br></p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/21-euarsh</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/21-euarsh</link>
 			<guid isPermaLink="false">0b3ce20a-3cc1-4b56-ad5d-efbf4085fd6a</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 06 Apr 2021 22:16:34 GMT</pubDate>
@@ -2078,7 +2310,7 @@
 </li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/20--Git-rebase-eu0hs4</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/20--Git-rebase-eu0hs4</link>
 			<guid isPermaLink="false">41997851-0d76-42c2-a7bf-3fa1e8e8e406</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 01 Apr 2021 06:32:43 GMT</pubDate>
@@ -2116,7 +2348,7 @@
   <li>Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/19-esgrh1</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/19-esgrh1</link>
 			<guid isPermaLink="false">6a0d82f5-dc39-4ce3-b791-f6d957ae007f</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 14 Mar 2021 07:06:01 GMT</pubDate>
@@ -2154,7 +2386,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/18-eqvg8l</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/18-eqvg8l</link>
 			<guid isPermaLink="false">9372b2e6-3d14-45f6-9b74-8c5003974587</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sun, 28 Feb 2021 23:30:00 GMT</pubDate>
@@ -2191,7 +2423,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/17-eqvf2l</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/17-eqvf2l</link>
 			<guid isPermaLink="false">569903be-cbf9-4302-b77b-a20ab9e17cdb</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 24 Feb 2021 07:11:28 GMT</pubDate>
@@ -2231,7 +2463,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/16--6-eq98pf</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/16--6-eq98pf</link>
 			<guid isPermaLink="false">02b8181c-b9cd-410e-9e24-636823b68151</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 12 Feb 2021 06:08:00 GMT</pubDate>
@@ -2273,7 +2505,7 @@
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/15-eq4r4b</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/15-eq4r4b</link>
 			<guid isPermaLink="false">af2f1f40-ed16-4548-929b-09a03b9ba4b8</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 08 Feb 2021 23:21:42 GMT</pubDate>
@@ -2315,7 +2547,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/14-eotcm8</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/14-eotcm8</link>
 			<guid isPermaLink="false">e63ee6cd-801d-4e56-8809-dc80c9f51466</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 15 Jan 2021 06:04:11 GMT</pubDate>
@@ -2358,7 +2590,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/13--UberiOS-eo7luc</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/13--UberiOS-eo7luc</link>
 			<guid isPermaLink="false">16c1d63b-7ac1-418f-a9bd-73488afd67d4</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 26 Dec 2020 04:53:20 GMT</pubDate>
@@ -2403,7 +2635,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/12--Katryo-on-AWS--Graduate-school-and-life-in-NY--Bay-Area-eo55bc</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/12--Katryo-on-AWS--Graduate-school-and-life-in-NY--Bay-Area-eo55bc</link>
 			<guid isPermaLink="false">5be6a4f1-cc68-489c-aa6c-72d9b0b76f20</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 23 Dec 2020 06:26:32 GMT</pubDate>
@@ -2446,7 +2678,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/11--How-Big-Technical-Changes-Happen-at-Slack-enm4tm</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/11--How-Big-Technical-Changes-Happen-at-Slack-enm4tm</link>
 			<guid isPermaLink="false">d207341a-c4f9-46dc-a83e-5250701e5f53</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Fri, 11 Dec 2020 21:12:57 GMT</pubDate>
@@ -2486,7 +2718,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/10--What-distinguishes-a-great-software-engineer-from-a-good-one-en6r42</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/10--What-distinguishes-a-great-software-engineer-from-a-good-one-en6r42</link>
 			<guid isPermaLink="false">2231b7c7-8184-44f9-a80f-48eac4e61e1a</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 01 Dec 2020 19:10:04 GMT</pubDate>
@@ -2524,7 +2756,7 @@
  <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/9--200-OK--Error-handling-in-GraphQL-elolp9</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/9--200-OK--Error-handling-in-GraphQL-elolp9</link>
 			<guid isPermaLink="false">120f91b9-89c2-4c8d-be91-0e6751463944</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 10 Nov 2020 02:52:07 GMT</pubDate>
@@ -2569,7 +2801,7 @@
   <li>Yusuke, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/8--Yuya-on-Shopify-plugins--Vercel-vs-Netlify--life-at-Vancouver-elreni</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/8--Yuya-on-Shopify-plugins--Vercel-vs-Netlify--life-at-Vancouver-elreni</link>
 			<guid isPermaLink="false">51aea0d4-55c9-4577-be2f-6c087d0d121b</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 02 Nov 2020 23:38:40 GMT</pubDate>
@@ -2620,7 +2852,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/7--Yuya-on-developing-D2C-site-and-JamStack-elirmv</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/7--Yuya-on-developing-D2C-site-and-JamStack-elirmv</link>
 			<guid isPermaLink="false">d1b50e7a-f7bc-4414-b7e1-6e52249c43ae</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Mon, 26 Oct 2020 04:05:45 GMT</pubDate>
@@ -2668,7 +2900,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/6--The-Self-Taught-Engineers-Algorithm-Study-Plan-el6u3q</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/6--The-Self-Taught-Engineers-Algorithm-Study-Plan-el6u3q</link>
 			<guid isPermaLink="false">1e428f70-0b15-4336-bf5f-8d35909de4d5</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 17 Oct 2020 20:58:16 GMT</pubDate>
@@ -2716,7 +2948,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/5--Kazuki-Nishiura-on--Payment-Processor-OSS--DevOps-and-improving-credit-card-auth-rate-ekbqu0</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/5--Kazuki-Nishiura-on--Payment-Processor-OSS--DevOps-and-improving-credit-card-auth-rate-ekbqu0</link>
 			<guid isPermaLink="false">4d654419-e1f6-491f-b475-ba797e08ef5d</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Tue, 29 Sep 2020 23:06:55 GMT</pubDate>
@@ -2763,7 +2995,7 @@
   <li>Yusuke Kawanabe, Software Engineer <a href="https://twitter.com/ykawanabe">https://twitter.com/ykawanabe</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/4-Kazuki-Nishiura-on-Google-Pay--Life-in-a-startup-and-Monorepo-migration-ek2icv</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/4-Kazuki-Nishiura-on-Google-Pay--Life-in-a-startup-and-Monorepo-migration-ek2icv</link>
 			<guid isPermaLink="false">ede6ad19-4f6e-4d0d-a723-db7f1e18988d</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Wed, 23 Sep 2020 18:04:30 GMT</pubDate>
@@ -2804,7 +3036,7 @@
 <p>- Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></p>
 <p>- Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe</p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/3--Thriving-on-the-Technical-Leadership-Path-ejo0ii</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/3--Thriving-on-the-Technical-Leadership-Path-ejo0ii</link>
 			<guid isPermaLink="false">53d8e4ad-b3f5-403e-a0cb-1f1ac8d3f19e</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 17 Sep 2020 06:34:38 GMT</pubDate>
@@ -2844,7 +3076,7 @@
 <p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>
 <p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/2-Language-server-protocol-ejkk2c</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/2-Language-server-protocol-ejkk2c</link>
 			<guid isPermaLink="false">1c7cb113-656f-4b9c-bd89-34fc83df6fd8</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Sat, 12 Sep 2020 20:00:00 GMT</pubDate>
@@ -2888,7 +3120,7 @@
 <p>- Tomoaki Imai, Chomp CTO — Chompは外食体験を記録、シェアできるソーシャルアプリ https://chomp.app/ https://twitter.com/tomoaki_imai</p>
 <p>- Yusuke, Software Engineer https://twitter.com/ykawanabe</p>
 ]]></description>
-			<link>https://anchor.fm/todayilearnedfm/episodes/1-Code-first-vs--schema-first-development-in-GraphQL-ejkkfg</link>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/1-Code-first-vs--schema-first-development-in-GraphQL-ejkkfg</link>
 			<guid isPermaLink="false">cdbb64d8-a7d0-4a41-8886-bedef1261d17</guid>
 			<dc:creator><![CDATA[Imai and Yusuke ]]></dc:creator>
 			<pubDate>Thu, 27 Aug 2020 20:00:00 GMT</pubDate>

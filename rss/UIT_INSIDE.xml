@@ -20,6 +20,111 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい</title>
+    <link>https://uit-inside.linecorp.com/episode/146</link>
+    <pubDate>Fri, 16 Jun 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;先日リリースが発表されたLit v3について@AlanGDavalosと@TheoSteinerが話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/146</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-lit-v3.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),Theo Steiner(TheoSteiner)</itunes:author>
+    <itunes:subtitle>ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい</itunes:subtitle>
+    <itunes:duration>24:53</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode146.png"/>
+  </item>
+  <item>
+    <title>ep.145 Node.jsとtscをフル活用する段階的なNative ESM移行</title>
+    <link>https://uit-inside.linecorp.com/episode/145</link>
+    <pubDate>Fri, 02 Jun 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;Node.jsとtsc (TypeScript Compiler) のAPIを利用して、アプリケーションコードを変更せずにNative ESMに対応する方法について、@spring-rainingと@kazushikonosuが話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/145</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-migration-nodejs-native-esm.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),kazushikonosu(kazushikonosu)</itunes:author>
+    <itunes:subtitle>ep.145 Node.jsとtscをフル活用する段階的なNative ESM移行</itunes:subtitle>
+    <itunes:duration>22:10</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode145.png"/>
+  </item>
+  <item>
+    <title>ep.144 ブラウザ上でWeb開発！ Sandpack 2.0と社内コード共有サービスの夢</title>
+    <link>https://uit-inside.linecorp.com/episode/144</link>
+    <pubDate>Fri, 26 May 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;2023年はじめに相次いで発表されたフロントエンド開発をブラウザ上で実現するライブラリの技術詳細や、それらを利用して開発している社内コード共有サービスについて、@spring-rainingと@kohei.maekawaが話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/144</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-144.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),kohei.maekawa(kohei.maekawa)</itunes:author>
+    <itunes:subtitle>ep.144 ブラウザ上でWeb開発！ Sandpack 2.0と社内コード共有サービスの夢</itunes:subtitle>
+    <itunes:duration>29:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode144.png"/>
+  </item>
+  <item>
+    <title>ep.143「サプライチェーン攻撃問題に一石を投じる！npm に新しく追加された新機能『provenance』について」</title>
+    <link>https://uit-inside.linecorp.com/episode/143</link>
+    <pubDate>Fri, 19 May 2023 08:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @odan3240 に、 npm に新規追加された provenance 機能について話を聞きました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/143</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode143.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),odan(odan3240)</itunes:author>
+    <itunes:subtitle>ep.143「サプライチェーン攻撃問題に一石を投じる！npm に新しく追加された新機能『provenance』について」</itunes:subtitle>
+    <itunes:duration>16:45</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode143.png"/>
+  </item>
+  <item>
+    <title>ep.142『license-checker ではじめる Node.js プロジェクトのライセンス管理』</title>
+    <link>https://uit-inside.linecorp.com/episode/142</link>
+    <pubDate>Fri, 28 Apr 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring_raining が @potato4d にネイティブアプリ開発で利用することになった Node.js プロジェクトの OSS ライセンス管理ツール『license-checker』について話を聞いてみました&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/142</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode142.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
+    <itunes:subtitle>ep.142『license-checker ではじめる Node.js プロジェクトのライセンス管理』</itunes:subtitle>
+    <itunes:duration>16:20</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode142.png"/>
+  </item>
+  <item>
+    <title>ep.141「UIT Meetup vol.19『デザインシステムのリアル』 」Aftershow</title>
+    <link>https://uit-inside.linecorp.com/episode/141</link>
+    <pubDate>Fri, 07 Apr 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@odan3240 が @AlanGDavalos, @ibulog_, @vwxyutarooo とともに、 UIT Meetup について振り返りつつ語りました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/141</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode141.mp3" type="audio/mp3"/>
+    <itunes:author>Davalos Alan(AlanGDavalos),odan(odan3240),vwxyutarooo(vwxyutarooo),ibulog_(ibulog_)</itunes:author>
+    <itunes:subtitle>ep.141「UIT Meetup vol.19『デザインシステムのリアル』 」Aftershow</itunes:subtitle>
+    <itunes:duration>37:37</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode141.png"/>
+  </item>
+  <item>
+    <title>ep.140『自動テストからMonorepoまで - UIT新春Tech blog 2023のご紹介』</title>
+    <link>https://uit-inside.linecorp.com/episode/140</link>
+    <pubDate>Fri, 03 Mar 2023 09:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;2023年2月に開催された企画「UIT新春Tech blog 2023」の記事について、記事の執筆者である@spring-rainingと@naoto.ikunoが話しました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/140</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-tech-blog-2023.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Ikuno Naoto(naoto.ikuno)</itunes:author>
+    <itunes:subtitle>ep.140『自動テストからMonorepoまで - UIT新春Tech blog 2023のご紹介』</itunes:subtitle>
+    <itunes:duration>21:13</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode140.png"/>
+  </item>
+  <item>
     <title>ep.139『フレームワークの潮流は？状態管理はどうなった？UIフレームワークまで！UIT Survey 2022』</title>
     <link>https://uit-inside.linecorp.com/episode/139</link>
     <pubDate>Fri, 10 Feb 2023 09:00:00 GMT</pubDate>
@@ -72,10 +177,10 @@
       &lt;p&gt;LINEが公開した日本語コーポレートフォント「LINE Seed JP」について、@springrainingがプロジェクトチーム (@kota.yaginuma, @yangkyungjin, @momo.yagihashi) に聞いてみました。&lt;/p&gt;
     </description>
     <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/136</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-line-seed-jp.mp3" type="audio/mp3"/>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-line-seed-jp-rev1.mp3" type="audio/mp3"/>
     <itunes:author>spring-raining(spring_raining),kota.yaginuma(kota.yaginuma),yang_kyungjin(yang_kyungjin),momo.yagihashi(momo.yagihashi)</itunes:author>
     <itunes:subtitle>ep.136『LINE Seed JP プロジェクトチームに聞く誕生秘話』</itunes:subtitle>
-    <itunes:duration>42:48</itunes:duration>
+    <itunes:duration>42:28</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode136.png"/>
   </item>
@@ -1413,111 +1518,6 @@
     <itunes:duration>22:21</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode047.png"/>
-  </item>
-  <item>
-    <title>ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW</title>
-    <link>https://uit-inside.linecorp.com/episode/46</link>
-    <pubDate>Thu, 28 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.4。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/46</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-046.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan)</itunes:author>
-    <itunes:subtitle>ep.46 『Apple MusicKit で実現するちょっとレトロな音楽プレイヤー』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
-    <itunes:duration>19:19</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode046.png"/>
-  </item>
-  <item>
-    <title>ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW</title>
-    <link>https://uit-inside.linecorp.com/episode/45</link>
-    <pubDate>Wed, 27 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.3。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/45</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-045.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),折原 レオナルド賢(Leonardo-mbc),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.45 『今話題のパルスオキシメーターを自作する』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
-    <itunes:duration>18:0</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode045.png"/>
-  </item>
-  <item>
-    <title>ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW</title>
-    <link>https://uit-inside.linecorp.com/episode/44</link>
-    <pubDate>Tue, 26 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.2。@spring_raining  が miyoshi が開発した SVG ベースの日本地図マッピングライブラリ開発について話を聞いてみました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/44</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-044.mp3" type="audio/mp3"/>
-    <itunes:author>Miyoshi Kosuke(miyoshi),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.44『SVGで実現する日本地図マッピングライブラリ』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
-    <itunes:duration>21:15</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode044.png"/>
-  </item>
-  <item>
-    <title>ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW</title>
-    <link>https://uit-inside.linecorp.com/episode/43</link>
-    <pubDate>Mon, 25 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;LINE のフロントエンドエンジニア の GW の活動を5日連続で紹介する企画 vol.1。初回は @potato4d と @spring_raining が、 @xingoxu の GW 企画「Flutter でのカレンダーアプリ作成」について話を聞きました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/43</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-043.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),xingoxu(xingoxu)</itunes:author>
-    <itunes:subtitle>ep.43 『フロントエンドエンジニアからみた Flutter』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
-    <itunes:duration>21:37</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode043.png"/>
-  </item>
-  <item>
-    <title>ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ</title>
-    <link>https://uit-inside.linecorp.com/episode/42</link>
-    <pubDate>Fri, 15 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d と @spring_raining が、 @NozomuIkuta に普段のインプット・アウトプットの方法について聞いてみました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/42</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-042.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),Ikuta Nozomu(nozomu-ikuta)</itunes:author>
-    <itunes:subtitle>ep.42 UIT 学習から定着まで - UIT流キャッチアップのススメ</itunes:subtitle>
-    <itunes:duration>23:15</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode042.png"/>
-  </item>
-  <item>
-    <title>ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ</title>
-    <link>https://uit-inside.linecorp.com/episode/41</link>
-    <pubDate>Fri, 01 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining と @harumitsu.fujii が、ビジュアルレグレッションテストを導入した時の話や困りごと、今後のE2Eテストへの期待について話しました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/41</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-041.mp3" type="audio/mp3"/>
-    <itunes:author>spring-raining(spring_raining),Fujii Harumitsu(harumitsu-fujii)</itunes:author>
-    <itunes:subtitle>ep.41 「見かけ」倒しではない Visual Regression Testing の魅力と難しさ</itunes:subtitle>
-    <itunes:duration>34:15</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode041.png"/>
-  </item>
-  <item>
-    <title>ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション</title>
-    <link>https://uit-inside.linecorp.com/episode/40</link>
-    <pubDate>Fri, 24 Apr 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@potato4d と @spring_raining の二人で、 Lottie について語りました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/40</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-040.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.40 Lottie と LottieFiles で実現する「ちょっと嬉しい」アニメーション</itunes:subtitle>
-    <itunes:duration>21:59</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode040.png"/>
   </item>
   </channel>
 </rss>

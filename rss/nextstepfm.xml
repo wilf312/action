@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379" rel="next" type="application/rss+xml"/>
         <title>nextstep.fm</title>
         <link>https://soundcloud.com/nextstepfm</link>
-        <pubDate>Sat, 11 Feb 2023 13:43:14 +0000</pubDate>
-        <lastBuildDate>Sat, 11 Feb 2023 13:43:14 +0000</lastBuildDate>
+        <pubDate>Mon, 15 May 2023 16:09:05 +0000</pubDate>
+        <lastBuildDate>Mon, 15 May 2023 16:09:05 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -28,6 +28,181 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1514708449</guid>
+      <title>#67 ChatGPTは宣うた〜「サイは投げられた」</title>
+      <pubDate>Mon, 15 May 2023 16:09:05 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/67-chatgpt</link>
+      <itunes:duration>02:05:40</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+最近発表されたMojo,機械学習と静的型付の必要性，世間を騒がせる生成モデルってそもそもどう言う意味なんですか？ということについてお話ししました．
+
+1. Swift Core Foundation
+2. https://github.com/apple/swift-corelibs-foundation
+3. https://github.com/apple/swift-foundation
+4. Mojo 
+5. Mojo Dojo https://mojodojo.dev/general/mojo_team_answers.html
+6. 書き捨ての機械学習のコードに型は必要？
+7. 行列のサイズを型にできるMojo
+8. Appleは・・・開発者向けのマシンを捨てたのか？
+9. いや・・・開発者向けにはインタフェースだけでいいんじゃない？
+10. ここがいいんだjax
+11. numpyのコードをそのままに自動微分できるのが綺麗
+12. jaxなら，GPUなんかを使った並列化もnumpyのコードをベースに綺麗にかける！！！
+13. ぼっち・ざ・ろっくを @1024jp にお勧めする
+14. 閑話休題・・・結局，絵師さんはAIに学習させられないように絵に何かを追加したりできるだろうか？
+15. 生成モデルってなんですか？〜識別モデルと生成モデル
+16. 生成モデルとは，サイコロを振り，森羅万象を作り出すこと
+17. Deep Learningの生成モデルの歴史
+18. Diffusion Modelの奇怪さと何をやっているか
+19. とはいえ，生成モデルと識別モデルの厳密な区別は難しいかもしれない・・・・
+20. AIにプログラミングしてもらうためのtips</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date, …</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+最近発表されたMojo,機械学習と静的型付の必要性，世間を騒がせる生成モデルってそもそもどう言う意味なんですか？ということについてお話ししました．
+
+1. Swift Core Foundation
+2. https://github.com/apple/swift-corelibs-foundation
+3. https://github.com/apple/swift-foundation
+4. Mojo 
+5. Mojo Dojo https://mojodojo.dev/general/mojo_team_answers.html
+6. 書き捨ての機械学習のコードに型は必要？
+7. 行列のサイズを型にできるMojo
+8. Appleは・・・開発者向けのマシンを捨てたのか？
+9. いや・・・開発者向けにはインタフェースだけでいいんじゃない？
+10. ここがいいんだjax
+11. numpyのコードをそのままに自動微分できるのが綺麗
+12. jaxなら，GPUなんかを使った並列化もnumpyのコードをベースに綺麗にかける！！！
+13. ぼっち・ざ・ろっくを @1024jp にお勧めする
+14. 閑話休題・・・結局，絵師さんはAIに学習させられないように絵に何かを追加したりできるだろうか？
+15. 生成モデルってなんですか？〜識別モデルと生成モデル
+16. 生成モデルとは，サイコロを振り，森羅万象を作り出すこと
+17. Deep Learningの生成モデルの歴史
+18. Diffusion Modelの奇怪さと何をやっているか
+19. とはいえ，生成モデルと識別モデルの厳密な区別は難しいかもしれない・・・・
+20. AIにプログラミングしてもらうためのtips</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1514708449-nextstepfm-67-chatgpt.mp3" length="120640991"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1487828644</guid>
+      <title>#66 その出会い系メールにAIはあったんかい？</title>
+      <pubDate>Sat, 08 Apr 2023 04:50:14 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/66-ai</link>
+      <itunes:duration>01:58:53</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+機械学習のモデルとパラメータとモデル，英会話アプリでAIと喧嘩する，AI時代のゲーム，体温計の要求精度なんかについて話しました．
+
+1. ChatGPT使ってますか？
+2. 検索なら，Perplexityがおすすめ. 参考文献，引用元も示してくれる． https://www.perplexity.ai/
+3. Prompt Engineering https://www.promptingguide.ai
+4. 学習って何？Fine Tuningって何？
+5. ChatGPTのバックエンドはどうなってるんだ・・・・？
+6. AIによる英会話学習
+7. 英会話アプリで喧嘩する男
+8. AIなのか，人妻なのか
+9. 複雑なアルゴリズムをチャットで自動実装できるだろうか・・・？
+10. チャットで伝える方が面倒臭い？
+11. ゲームをAIに作ってもらう？
+12. ホモ・ルーデンス〜遊びとは何？ https://amzn.to/3nXrURZ
+13. 完全ゲームも，不完全ゲームAIが制覇してしまった
+14. @1024jp さんによるSwitch Bot2の使用感レポート https://www.switchbot.jp/products/switchbot-hub2
+15. コイルケーブルが流行ってるらしい？ https://amzn.to/415RlyQ
+16. 体温計に精度を求めない @k_katsumi
+17. お風呂を外出先から入れたい
+18. Switch Bot2のケーブルが邪魔・・・・・
+19. DaikinのIoTモジュールは使える？
+20. 家電のIoTアプリの酷さ・・・・何度議題に上がるのか
+21. @kateinoigakukun くん，卒業おめでとう
+22. 大学の卒業式で名前呼ぶ？嘘だ？
+23. WWDC2023 comming!</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date, …</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date, kateinoigakukun
+
+機械学習のモデルとパラメータとモデル，英会話アプリでAIと喧嘩する，AI時代のゲーム，体温計の要求精度なんかについて話しました．
+
+1. ChatGPT使ってますか？
+2. 検索なら，Perplexityがおすすめ. 参考文献，引用元も示してくれる． https://www.perplexity.ai/
+3. Prompt Engineering https://www.promptingguide.ai
+4. 学習って何？Fine Tuningって何？
+5. ChatGPTのバックエンドはどうなってるんだ・・・・？
+6. AIによる英会話学習
+7. 英会話アプリで喧嘩する男
+8. AIなのか，人妻なのか
+9. 複雑なアルゴリズムをチャットで自動実装できるだろうか・・・？
+10. チャットで伝える方が面倒臭い？
+11. ゲームをAIに作ってもらう？
+12. ホモ・ルーデンス〜遊びとは何？ https://amzn.to/3nXrURZ
+13. 完全ゲームも，不完全ゲームAIが制覇してしまった
+14. @1024jp さんによるSwitch Bot2の使用感レポート https://www.switchbot.jp/products/switchbot-hub2
+15. コイルケーブルが流行ってるらしい？ https://amzn.to/415RlyQ
+16. 体温計に精度を求めない @k_katsumi
+17. お風呂を外出先から入れたい
+18. Switch Bot2のケーブルが邪魔・・・・・
+19. DaikinのIoTモジュールは使える？
+20. 家電のIoTアプリの酷さ・・・・何度議題に上がるのか
+21. @kateinoigakukun くん，卒業おめでとう
+22. 大学の卒業式で名前呼ぶ？嘘だ？
+23. WWDC2023 comming!</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1487828644-nextstepfm-66-ai.mp3" length="114135457"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1466444938</guid>
+      <title>#65 MLって何の略？</title>
+      <pubDate>Sat, 11 Mar 2023 05:49:27 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/64-ml</link>
+      <itunes:duration>01:40:00</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date, 
+
+LLVM, askenのサービス，Apple Musicアプリ嫌い・・・とかの話をしました．
+
+1. 確定申告しましたか
+2. 嫌われるApple Musicアプリ
+3. GitHub Copilotを試したよ
+4. Copilotでアイコンも補完してほしい @k_katsumi
+5. llvmのバックエンドにトライしよう @sonson_twit
+6. バックエンドってなんだ？Webのバックエンドと違うよ？
+6. DAGってなんだ？ @kateinoigakukun による解説
+7. 作って学ぶコンピュータアーキテクチャ —— LLVMとRISC-Vによる低レイヤプログラミングの基礎 https://amzn.to/3FhHqOh
+8. RISC-Vのボードもいいのが出てるらしい
+9. ARMのライセンス料が高いのでRISC-Vに移行しようとする企業が増えている？
+10. VisionFive - https://www.starfivetech.com/en/site/boards
+11. asken - https://www.asken.inc - 食生活を改善してくれるアプリ
+13. 人を幸せにする目的のビジネスはいい！！！
+14. @kateinoigakukun くん Presentations for the Student Research Competition selected - https://conf.researchr.org/home/cgo-2023
+15. jaxはいいぞ @sonson_twit
+16. MLってなんだ？</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date, …</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date, 
+
+LLVM, askenのサービス，Apple Musicアプリ嫌い・・・とかの話をしました．
+
+1. 確定申告しましたか
+2. 嫌われるApple Musicアプリ
+3. GitHub Copilotを試したよ
+4. Copilotでアイコンも補完してほしい @k_katsumi
+5. llvmのバックエンドにトライしよう @sonson_twit
+6. バックエンドってなんだ？Webのバックエンドと違うよ？
+6. DAGってなんだ？ @kateinoigakukun による解説
+7. 作って学ぶコンピュータアーキテクチャ —— LLVMとRISC-Vによる低レイヤプログラミングの基礎 https://amzn.to/3FhHqOh
+8. RISC-Vのボードもいいのが出てるらしい
+9. ARMのライセンス料が高いのでRISC-Vに移行しようとする企業が増えている？
+10. VisionFive - https://www.starfivetech.com/en/site/boards
+11. asken - https://www.asken.inc - 食生活を改善してくれるアプリ
+13. 人を幸せにする目的のビジネスはいい！！！
+14. @kateinoigakukun くん Presentations for the Student Research Competition selected - https://conf.researchr.org/home/cgo-2023
+15. jaxはいいぞ @sonson_twit
+16. MLってなんだ？</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1466444938-nextstepfm-64-ml.mp3" length="96014418"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1444718830</guid>
       <title>#64 Matter，買う日まで</title>
       <pubDate>Sat, 11 Feb 2023 13:43:14 +0000</pubDate>

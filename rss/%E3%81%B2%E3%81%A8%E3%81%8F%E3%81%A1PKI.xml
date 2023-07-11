@@ -5,14 +5,14 @@
 
 @EurekaBerry and @hitok_
 ]]></description>
-		<link>https://anchor.fm/hitokuchipki</link>
+		<link>https://podcasters.spotify.com/pod/show/hitokuchipki</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg</url>
 			<title>ひとくちPKI</title>
-			<link>https://anchor.fm/hitokuchipki</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 23 Feb 2023 00:42:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jul 2023 00:02:41 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -32,6 +32,288 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
 		<item>
+			<title><![CDATA[59: European Signature DialogがGoogleのふるまいをAnti-competitiveと言っている話など]]></title>
+			<description><![CDATA[<p>前回の配信回で取り上げたE-Tugra、Chromeの信頼されるルートCAリストから削除されることが決まったようです(6/15までに配信されるChrome root store v11から)。ほか、EUのトラストサービスのプロバイダーの組織 European Signature Dialog が Google の提唱する90日のshort-lived Certificateに対する懸念を、EU機関にむけて発信している話をしました。European Signature DialogはGoogleのふるまいをAnti-competitiveと言っているようです。 </p>
+<p>雑談では学位授与機構の試験を受けてきた話、新しく買った電子レンジにWi-Fiがついてる話などをしました。 </p>
+<p> </p>
+<ul>
+ <li><p>Security concerns with the e-Tugra certificate authority </p>
+<ul>
+ <li><p> <a href="https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s" target="_blank" rel="noreferrer noopener">https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s</a> </p>
+</li>
+</ul>
+</li>
+  <li><p>Mozilla でも議論がはじまりました </p>
+<ul>
+  <li><p><a href="https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A" target="_blank" rel="noreferrer noopener">Review of e-Tugra&#39;s Inclusion in Mozilla’s Root Store (google.com)</a> </p>
+</li>
+</ul>
+</li>
+  <li><p>Google returns to anticompetitive behavior by limiting all certificates to 90 days only </p>
+<ul>
+  <li><p>https://www.european-signature-dialog.eu/Google_returns_to_anti-competitive_behavior-ESD_26042023.pdf </p>
+</li>
+</ul>
+</li>
+</ul>
+<p>
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/59-European-Signature-DialogGoogleAnti-competitive-e26fhgv</link>
+			<guid isPermaLink="false">c8bf3a1e-7339-42ce-8b29-adda910b9ff4</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Sun, 02 Jul 2023 23:53:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/72909791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-2%2Fe2723608-eb4e-5e70-7fb3-c24f9be5e442.mp3" length="44703840" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;前回の配信回で取り上げたE-Tugra、Chromeの信頼されるルートCAリストから削除されることが決まったようです(6/15までに配信されるChrome root store v11から)。ほか、EUのトラストサービスのプロバイダーの組織 European Signature Dialog が Google の提唱する90日のshort-lived Certificateに対する懸念を、EU機関にむけて発信している話をしました。European Signature DialogはGoogleのふるまいをAnti-competitiveと言っているようです。 &lt;/p&gt;
+&lt;p&gt;雑談では学位授与機構の試験を受けてきた話、新しく買った電子レンジにWi-Fiがついてる話などをしました。 &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;p&gt;Security concerns with the e-Tugra certificate authority &lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;p&gt; &lt;a href=&quot;https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;p&gt;Mozilla でも議論がはじまりました &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Review of e-Tugra&amp;#39;s Inclusion in Mozilla’s Root Store (google.com)&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;p&gt;Google returns to anticompetitive behavior by limiting all certificates to 90 days only &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;p&gt;https://www.european-signature-dialog.eu/Google_returns_to_anti-competitive_behavior-ESD_26042023.pdf &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[58: E-Tugra CAのインシデントがbugzillaのフォーラムで議論されている話]]></title>
+			<description><![CDATA[<p>トルコのCA、E-Tugraから2022年11月にインシデントがレポートされてから、今も引き続きそのインシデントについて議論が行われています。</p>
+<p>Public Trusted CAとしてRootプログラムに登録されているCAには、規約の遵守が求められることに加えてインターネットコミュニティからの厳しい目が向けられている、というような話をしました。雑談では、技術書典14でJournal2が出た話(無料です！)、トルコやメキシコに行きたい話をしました。</p>
+<p><br></p>
+<p>	• E-Tugra: Incident Report (Security Issues)</p>
+<p>		○ <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1801345" target="_blank" rel="noopener noreferer">https://bugzilla.mozilla.org/show_bug.cgi?id=1801345</a></p>
+<p>	• SSL.com: e-Tugra Security Issues</p>
+<p>		○ <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1832570" target="_blank" rel="noopener noreferer">https://bugzilla.mozilla.org/show_bug.cgi?id=1832570</a></p>
+<p>	• ひとくちPKI Journal 2 (技術書典14) </p>
+<p>		○ <a href="https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG" target="_blank" rel="noopener noreferer">https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/58-E-Tugra-CAbugzilla-e24tc8f</link>
+			<guid isPermaLink="false">ebf179c9-dce6-443b-aa45-a81e4a0bbcaa</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 30 May 2023 05:52:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/71265999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-30%2Fd747bf62-3dba-f2da-cffd-10c16534f803.mp3" length="43423560" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;トルコのCA、E-Tugraから2022年11月にインシデントがレポートされてから、今も引き続きそのインシデントについて議論が行われています。&lt;/p&gt;
+&lt;p&gt;Public Trusted CAとしてRootプログラムに登録されているCAには、規約の遵守が求められることに加えてインターネットコミュニティからの厳しい目が向けられている、というような話をしました。雑談では、技術書典14でJournal2が出た話(無料です！)、トルコやメキシコに行きたい話をしました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;	• E-Tugra: Incident Report (Security Issues)&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://bugzilla.mozilla.org/show_bug.cgi?id=1801345&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=1801345&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• SSL.com: e-Tugra Security Issues&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://bugzilla.mozilla.org/show_bug.cgi?id=1832570&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=1832570&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• ひとくちPKI Journal 2 (技術書典14) &lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://techbookfest.org/product/q4FqjLAxr9rfU9EMQX7wVG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:14:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>58</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[57: コード署名の話]]></title>
+			<description><![CDATA[<p>2023/06/01から、Public Trustedなコード署名証明書の発行において Baseline Requirement で秘密鍵保護の強化が施行されます。もともとは2022年の11月に施行される予定だったものが延期されていました。これまでオプションとして許容されてきたソフトウェア鍵生成での証明書発行(PKCS#12形式で保管)が選択肢から外れ、実質的に禁止されることになりました。これによってコード署名付きマルウェアの観測が減っていくのでは…という話をしました。また技術書典で出す予定の本「ひとくちPKI Jornal2」にBYOVD(Bring Your Own Vulnerable Driver)についての記事をひとけーが書いている話もしました。ほとんど全部ネタバレしました。</p>
+<p><br></p>
+<p>Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates</p>
+<p><a href="https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf " target="_blank" rel="noopener noreferer">https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf </a></p>
+<ul>
+
+ 
+ 
+</ul>
+<p>
+
+
+
+
+
+
+
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/57-e24hq58</link>
+			<guid isPermaLink="false">b65c3ca5-29e1-488a-ad22-19800e02d141</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 23 May 2023 06:29:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/70887016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2Ff14f6fa2-0be0-80a3-8d76-79c7be203ad6.mp3" length="31794336" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;2023/06/01から、Public Trustedなコード署名証明書の発行において Baseline Requirement で秘密鍵保護の強化が施行されます。もともとは2022年の11月に施行される予定だったものが延期されていました。これまでオプションとして許容されてきたソフトウェア鍵生成での証明書発行(PKCS#12形式で保管)が選択肢から外れ、実質的に禁止されることになりました。これによってコード署名付きマルウェアの観測が減っていくのでは…という話をしました。また技術書典で出す予定の本「ひとくちPKI Jornal2」にBYOVD(Bring Your Own Vulnerable Driver)についての記事をひとけーが書いている話もしました。ほとんど全部ネタバレしました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf &quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://cabforum.org/wp-content/uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2.pdf &lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+
+ 
+ 
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>57</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[56: ChromeでHTTPSの鍵マークがなくなる話]]></title>
+			<description><![CDATA[<p>30年の歴史を持つらしいHTTPSの鍵マークが、今年の秋ごろからChromeでは「チューンアイコン」へ変更されることについて話しました。雑談では、自転車に乗ると楽しいという話をしました。</p>
+<ul>
+ <li>https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</li>
+ <li>https://scotthelme.co.uk/goodbye-old-friend/
+
+
+
+
+
+
+</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/56-ChromeHTTPS-e23sas2</link>
+			<guid isPermaLink="false">4db9e260-2e08-4c71-8244-81722b51114e</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Thu, 11 May 2023 08:44:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/70183234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-11%2Ff8085fc4-467d-2b13-baa4-86e81ececc70.mp3" length="29719944" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;30年の歴史を持つらしいHTTPSの鍵マークが、今年の秋ごろからChromeでは「チューンアイコン」へ変更されることについて話しました。雑談では、自転車に乗ると楽しいという話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;https://blog.chromium.org/2023/05/an-update-on-lock-icon.html&lt;/li&gt;
+ &lt;li&gt;https://scotthelme.co.uk/goodbye-old-friend/
+
+
+
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>56</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[55: ACME Renewal Information (ARI)の話]]></title>
+			<description><![CDATA[<p>Let&#39;s Encryptで証明書の失効と更新の自動化をサポートするACME Renewal Information (ARI)の運用が開始された話、クラウドフレアでドメイン保有者からの権限委譲でACMEでの証明書発行自動化を実施できるようになるDomain Control Validation (DCV)の運用が開始された話、技術書典14で新刊を出す決意表明などを話しました。雑談では何もしてないのにスマホが壊れた話をしました。</p>
+<p><br></p>
+<p>	• Improving Resiliency and Reliability for Let’s Encrypt with ARI</p>
+<p>		• <a href="https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html" target="_blank" rel="noopener noreferer">https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html </a></p>
+<p>	• Out now! Auto-renew TLS certificates with DCV Delegation</p>
+<p>		• <a href="https://blog.cloudflare.com/introducing-dcv-delegation/" target="_blank" rel="noopener noreferer">https://blog.cloudflare.com/introducing-dcv-delegation/</a></p>
+<p>	• GlobalSign Announces ACME OV Certificate Support </p>
+<p>		• <a href="https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support" target="_blank" rel="noopener noreferer">https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support</a></p>
+<p>	• 技術書典14</p>
+<p>		• <a href="https://techbookfest.org/event/tbf14" target="_blank" rel="noopener noreferer">https://techbookfest.org/event/tbf14</a></p>
+<p>		</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/55-ACME-Renewal-Information-ARI-e22voj9</link>
+			<guid isPermaLink="false">c1158e56-054d-481e-b66e-59f770c212ff</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 25 Apr 2023 07:41:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/69247017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2Fc8610eeb-82ed-2427-dc90-fd589914cef8.mp3" length="29250096" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Let&amp;#39;s Encryptで証明書の失効と更新の自動化をサポートするACME Renewal Information (ARI)の運用が開始された話、クラウドフレアでドメイン保有者からの権限委譲でACMEでの証明書発行自動化を実施できるようになるDomain Control Validation (DCV)の運用が開始された話、技術書典14で新刊を出す決意表明などを話しました。雑談では何もしてないのにスマホが壊れた話をしました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;	• Improving Resiliency and Reliability for Let’s Encrypt with ARI&lt;/p&gt;
+&lt;p&gt;		• &lt;a href=&quot;https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• Out now! Auto-renew TLS certificates with DCV Delegation&lt;/p&gt;
+&lt;p&gt;		• &lt;a href=&quot;https://blog.cloudflare.com/introducing-dcv-delegation/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://blog.cloudflare.com/introducing-dcv-delegation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• GlobalSign Announces ACME OV Certificate Support &lt;/p&gt;
+&lt;p&gt;		• &lt;a href=&quot;https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.globalsign.com/en/company/news-events/news/acme-ov-certificate-support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• 技術書典14&lt;/p&gt;
+&lt;p&gt;		• &lt;a href=&quot;https://techbookfest.org/event/tbf14&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://techbookfest.org/event/tbf14&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;		&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:35</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>55</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[54: CT v3移行切り戻しとJA3の話、NIST SP 800-63-4の翻訳と漫画の話]]></title>
+			<description><![CDATA[<p>2023年2月にCT v2からv3への移行が実施後に切り戻された話、コード署名証明書でもCTやってくれないかなの話、TLSハンドシェイクの情報を使ってサイバー攻撃のインフラを判別するJA3という手法の紹介と、ちょっとZT Browserの話をしました。雑談ではひとけーがNIST SP 800-63-4の翻訳に参加した話、漫画たくさん読んだ話、世紀末系の話が怖い話をしました。</p>
+<p><br></p>
+<p>	• どうやら、(予定されていた) certificate transparency (CT) v3 への移行後、対応してないためにCTエラーがでているアプリが多数出ている模様👀</p>
+<p>		○ <a href="https://twitter.com/EurekaBerry/status/1626048541906059265" target="_blank" rel="noopener noreferer">https://twitter.com/EurekaBerry/status/1626048541906059265 </a></p>
+<p>	• JA3 初めて知った</p>
+<p>		○ <a href="https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/" target="_blank" rel="noopener noreferer">https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/</a></p>
+<p>		○ <a href="https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/" target="_blank" rel="noopener noreferer">https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/</a></p>
+<p>	• NIST SP 800-63 Digital Identity Guidelines Revision 4 (翻訳版)</p>
+<p>		○ <a href="https://openid-foundation-japan.github.io/800-63-4/index.ja.html" target="_blank" rel="noopener noreferer">https://openid-foundation-japan.github.io/800-63-4/index.ja.html</a></p>
+<p>		○ ひとけーが翻訳に参加しました</p>
+<p>	• コミックデイズでいくつかのイブニング作品の読み放題実施中です</p>
+<p>		○ <a href="https://comic-days.com/blog/entry/evening_0festival" target="_blank" rel="noopener noreferer">https://comic-days.com/blog/entry/evening_0festival</a></p>
+<p>		</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/54-CT-v3JA3NIST-SP-800-63-4-e22tqln</link>
+			<guid isPermaLink="false">d58b408b-cc1a-441b-bf84-303c0703825a</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Mon, 24 Apr 2023 07:38:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/69183607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F3b772b9f-7569-bd91-0326-0c1bd8a8e77f.mp3" length="45716184" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;2023年2月にCT v2からv3への移行が実施後に切り戻された話、コード署名証明書でもCTやってくれないかなの話、TLSハンドシェイクの情報を使ってサイバー攻撃のインフラを判別するJA3という手法の紹介と、ちょっとZT Browserの話をしました。雑談ではひとけーがNIST SP 800-63-4の翻訳に参加した話、漫画たくさん読んだ話、世紀末系の話が怖い話をしました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;	• どうやら、(予定されていた) certificate transparency (CT) v3 への移行後、対応してないためにCTエラーがでているアプリが多数出ている模様👀&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://twitter.com/EurekaBerry/status/1626048541906059265&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://twitter.com/EurekaBerry/status/1626048541906059265 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• JA3 初めて知った&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	• NIST SP 800-63 Digital Identity Guidelines Revision 4 (翻訳版)&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://openid-foundation-japan.github.io/800-63-4/index.ja.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://openid-foundation-japan.github.io/800-63-4/index.ja.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;		○ ひとけーが翻訳に参加しました&lt;/p&gt;
+&lt;p&gt;	• コミックデイズでいくつかのイブニング作品の読み放題実施中です&lt;/p&gt;
+&lt;p&gt;		○ &lt;a href=&quot;https://comic-days.com/blog/entry/evening_0festival&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://comic-days.com/blog/entry/evening_0festival&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;		&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:10:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>54</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[53: CA/B Forumに新しく加入するときの手続きの話 ]]></title>
 			<description><![CDATA[<p>ZT Browser が CA/B Forum の Server Cert WG に参加申請を出していて、Ballot が行われたけど否決されてしまった様子の話をしました。雑談では、手続きのためにヒューストンに行ったけど珍道中になってしまった話、学士の学位がない人は学位授与機構から学位をもらおう！という話をしました。</p>
 <ul>
@@ -41,7 +323,7 @@
 https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/53-CAB-Forum-e1vd1ub</link>
 			<guid isPermaLink="false">bd1acf23-6eff-4433-92db-98d062be36e8</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 23 Feb 2023 00:39:20 GMT</pubDate>
@@ -73,7 +355,7 @@ https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/&lt;/li&gt;
 <a href="https://www.memorysafety.org/about/" rel="noreferrer noopener" target="_blank">https://www.memorysafety.org/about/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/52-ISRGAnual-ReportLets-Encrypt-e1vbnbs</link>
 			<guid isPermaLink="false">89493af8-aed2-489c-ae2f-55babff5b49c</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 22 Feb 2023 07:58:22 GMT</pubDate>
@@ -107,7 +389,7 @@ https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/&lt;/li&gt;
 <a href="https://www.amazon.co.jp/dp/4339029297" rel="noreferrer noopener" target="_blank">https://www.amazon.co.jp/dp/4339029297</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/51-Twitter-com-e1v9uc7</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/51-Twitter-com-e1v9uc7</link>
 			<guid isPermaLink="false">61f4a7a5-9a95-40aa-bee4-ae92be59134d</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 21 Feb 2023 06:29:14 GMT</pubDate>
@@ -143,7 +425,7 @@ https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/&lt;/li&gt;
 <a href="https://www.imperialviolet.org/" rel="noreferrer noopener" target="_blank">https://www.imperialviolet.org/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/50-Chrome-Root-ProgramChrome105-e1rqpi7</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/50-Chrome-Root-ProgramChrome105-e1rqpi7</link>
 			<guid isPermaLink="false">603fb7ae-ce7d-423d-b71d-eb59a4909072</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 06 Dec 2022 08:20:05 GMT</pubDate>
@@ -176,7 +458,7 @@ https://www.niad.ac.jp/n_gakui/tsumiage/degree_awards_system/&lt;/li&gt;
 <a href="https://www.amazon.co.jp/dp/B0855L5QZ9" rel="noreferrer noopener" target="_blank">https://www.amazon.co.jp/dp/B0855L5QZ9</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/49-HTTPSRFCCN-e1r4r2b</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/49-HTTPSRFCCN-e1r4r2b</link>
 			<guid isPermaLink="false">42da80e9-12c6-4942-a78c-6d1a0fc45583</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 22 Nov 2022 10:34:23 GMT</pubDate>
@@ -220,7 +502,7 @@ A New Life for Certificate Revocation Lists
  
 
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/48-BIMILets-EncryptCRL13-e1nkl1c</link>
 			<guid isPermaLink="false">84848ac5-600c-42b0-9ecf-ecba376adf67</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sat, 10 Sep 2022 04:05:34 GMT</pubDate>
@@ -267,7 +549,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 
 
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/47-ChromeEVOCSP-e1nkkve</link>
 			<guid isPermaLink="false">69d906dc-ab0d-4284-bde8-1ff84c002a4f</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sat, 10 Sep 2022 03:59:13 GMT</pubDate>
@@ -300,7 +582,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
  <li><a href="https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/" rel="noreferrer noopener" target="_blank">https://pkic.org/2022/07/11/what-is-the-pki-maturity-model-pkimm-and-how-can-you-contribute/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/46-PKI-e1ngal4</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/46-PKI-e1ngal4</link>
 			<guid isPermaLink="false">eb375990-4e63-4ec1-bde5-7fbeeadae8c4</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 07 Sep 2022 08:13:08 GMT</pubDate>
@@ -330,7 +612,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://railway.jr-central.co.jp/tickets/youth18-ticket/" rel="noreferrer noopener" target="_blank">https://railway.jr-central.co.jp/tickets/youth18-ticket/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/45-CTRSA18-e1n5d7d</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/45-CTRSA18-e1n5d7d</link>
 			<guid isPermaLink="false">d5b5bd11-eb99-4989-a486-10c8aa6f45d7</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 30 Aug 2022 13:36:17 GMT</pubDate>
@@ -367,7 +649,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 
 
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/44-AppleBIMI-e1mku0h</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/44-AppleBIMI-e1mku0h</link>
 			<guid isPermaLink="false">0bb1466a-b4ab-4e12-907e-649dd1ec4938</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 17 Aug 2022 21:31:33 GMT</pubDate>
@@ -407,7 +689,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://youtu.be/SSt5y-WUEiI" rel="noreferrer noopener" target="_blank">CR-Xデルソル　電動オープン</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/43-TLSAIA-e1lc4d5</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/43-TLSAIA-e1lc4d5</link>
 			<guid isPermaLink="false">37efdb7d-6ac6-47e9-a320-4aa27f34a65e</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 18 Jul 2022 06:20:17 GMT</pubDate>
@@ -448,7 +730,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 
 
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/42-GoogleCTTLS-e1kenmq</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/42-GoogleCTTLS-e1kenmq</link>
 			<guid isPermaLink="false">ae67cbee-ab72-447e-891e-50010eb7eb10</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sun, 26 Jun 2022 03:11:54 GMT</pubDate>
@@ -482,7 +764,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 </a><a href="https://twitter.com/estark37/status/1533923475491958784" rel="noreferrer noopener" target="_blank">https://twitter.com/estark37/status/1533923475491958784</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/41-Chrome-Root-Program-e1kcgn2</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/41-Chrome-Root-Program-e1kcgn2</link>
 			<guid isPermaLink="false">c999c955-c58e-4fe6-ad39-d715d05e6cae</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 24 Jun 2022 03:07:42 GMT</pubDate>
@@ -520,7 +802,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 
 
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/40-Black-hat-USARPKI-e1k45n6</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/40-Black-hat-USARPKI-e1k45n6</link>
 			<guid isPermaLink="false">c1a68719-d648-4103-8a06-bc5ac453a7ff</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sat, 18 Jun 2022 10:54:05 GMT</pubDate>
@@ -566,7 +848,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
   <li>何なんw： <a href="https://youtu.be/fAuh0gBjjDI" rel="noreferrer noopener" target="_blank">藤井 風(Fujii Kaze) - “何なんw”(Nan-Nan) at 日本武道館(Nippon Budokan)</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/39-MozillaCRL-e1jp51o</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/39-MozillaCRL-e1jp51o</link>
 			<guid isPermaLink="false">af64706b-bb83-4bf9-bbbe-87c0138b1adb</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 10 Jun 2022 11:30:03 GMT</pubDate>
@@ -604,7 +886,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued" rel="noreferrer noopener" target="_blank">https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/38-Alexa-comCT-e1ij1fk</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/38-Alexa-comCT-e1ij1fk</link>
 			<guid isPermaLink="false">b029f90f-616f-4265-812a-631a6d412422</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 16 May 2022 01:55:31 GMT</pubDate>
@@ -641,7 +923,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 </ul>
 <p><a href="https://cabforum.org/2022/03/30/2022-03-30-minutes-of-the-s-mime-certificate-working-group/" rel="noreferrer noopener" target="_blank">https://cabforum.org/2022/03/30/2022-03-30-minutes-of-the-s-mime-certificate-working-group/</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/37-SHA1Sunset-e1i5be3</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/37-SHA1Sunset-e1i5be3</link>
 			<guid isPermaLink="false">4aaf100c-6e97-4f26-b50e-56e467bb3997</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 06 May 2022 08:56:18 GMT</pubDate>
@@ -677,7 +959,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
   <li><a href="https://blog.mozilla.org/en/security/mozilla-eff-cybersecurity-experts-publish-letter-on-dangers-of-article-452-eidas-regulation/" rel="noreferrer noopener" target="_blank">Mozilla and the EFF publish letter about the danger of Article 45.2</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/36-EUWeb-e1hki1e</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/36-EUWeb-e1hki1e</link>
 			<guid isPermaLink="false">4651d052-0afa-4f6e-8c72-e677993dd4b8</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 25 Apr 2022 06:53:35 GMT</pubDate>
@@ -711,7 +993,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://www.gizmodo.jp/2022/01/248663-machi-ya-skidger-start.html" rel="noreferrer noopener" target="_blank">https://www.gizmodo.jp/2022/01/248663-machi-ya-skidger-start.html</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/35-SMIME-e1haj37</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/35-SMIME-e1haj37</link>
 			<guid isPermaLink="false">dfdb1016-ca04-40d4-859a-350a8684d4de</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 18 Apr 2022 05:41:49 GMT</pubDate>
@@ -742,7 +1024,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
  <li><a href="https://bimigroup.org/bimi-generator/" rel="noreferrer noopener" target="_blank">BIMI Inspector - BIMI Group</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/34-Amazon-co-jpBIMI-e1fbhf0</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/34-Amazon-co-jpBIMI-e1fbhf0</link>
 			<guid isPermaLink="false">8924f574-76f3-4b11-afc4-91cadf0bfcf6</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 07 Mar 2022 05:57:41 GMT</pubDate>
@@ -781,7 +1063,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://uy-allstars.com/" rel="noreferrer noopener" target="_blank">https://uy-allstars.com/</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/33-HPKPWebPKIEV-OVOU-e1ebnaf</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/33-HPKPWebPKIEV-OVOU-e1ebnaf</link>
 			<guid isPermaLink="false">703031eb-70c1-4fc1-842e-68765da236df</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sun, 13 Feb 2022 23:40:32 GMT</pubDate>
@@ -827,7 +1109,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <a href="https://www.feistyduck.com/books/bulletproof-tls-and-pki/" rel="noreferrer noopener" target="_blank">Bulletproof SSL and TLS | Feisty Duck</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/32-HTTP-Public-Key-pinnningOCSP-Stapling-e1d3pmk</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/32-HTTP-Public-Key-pinnningOCSP-Stapling-e1d3pmk</link>
 			<guid isPermaLink="false">a8e10fc6-4d3b-4d3d-8b9a-5c5bb6a6005e</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 18 Jan 2022 08:52:48 GMT</pubDate>
@@ -858,7 +1140,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 			<description><![CDATA[<p>PKIコンソーシアムがトラストリストのリスト(リストオブトラストリスト)を作っていますよ、の話と、健康のためにどのようにして運動習慣を獲得するかについて話しました。 &nbsp;&nbsp;</p>
 <p>・Creating a global List of Trust Lists | PKI Consortium &nbsp;<a href="https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/" rel="noreferrer noopener" target="_blank" title="https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/">https://pkic.org/2021/11/24/creating-a-global-list-of-trust-lists/</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/31-e1btod3</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/31-e1btod3</link>
 			<guid isPermaLink="false">9533e6b9-7a13-4567-a44d-0066287da04c</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sun, 19 Dec 2021 10:12:09 GMT</pubDate>
@@ -882,7 +1164,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 　・C19 電子契約、公開鍵基盤（PKI）、証明書、リーガルテックの基盤技術 
 　・C24 きみが思うより側にある国際標準
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/30-Internet-Week-e1afcdt</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/30-Internet-Week-e1afcdt</link>
 			<guid isPermaLink="false">d2b7f674-131e-4206-89f6-c281ae0f54f3</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 18 Nov 2021 12:00:08 GMT</pubDate>
@@ -916,7 +1198,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 </ul>
 <p><a href="https://support.microsoft.com/ja-jp/office/%E3%82%BF%E3%82%A4%E3%83%A0-%E3%82%BE%E3%83%BC%E3%83%B3%E3%82%92%E8%BF%BD%E5%8A%A0-%E5%89%8A%E9%99%A4-%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-5ab3e10e-5a6c-46af-ab48-156fedf70c04">タイム ゾーンを追加、削除、または変更する (microsoft.com)</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/29-CTmeta-com-e1a23rq</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/29-CTmeta-com-e1a23rq</link>
 			<guid isPermaLink="false">fb50d350-5b61-44c5-8838-7f97cfacf5b7</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 10 Nov 2021 11:40:11 GMT</pubDate>
@@ -951,7 +1233,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
   <li>Expiration of DST Root CA causes problems with Let’s Encrypt certificates | Bulletproof TLS Newsletter | Feisty Duck &nbsp;<a href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates" rel="noreferrer noopener" target="_blank" title="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates">https://www.feistyduck.com/bulletproof-tls-newsletter/issue_82_expiration_of_dst_root_ca-causes_problems_with_lets_encrypt_certificates</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/28-PKI-JobsPKI-Joke-e19mrk9</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/28-PKI-JobsPKI-Joke-e19mrk9</link>
 			<guid isPermaLink="false">cbf34312-9d5c-45c5-95c7-4701b6ff71d5</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 03 Nov 2021 07:26:59 GMT</pubDate>
@@ -994,7 +1276,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <p>WebのPKIに関するガイドラインを策定しているCA/Browserフォーラムにおける最新動向と国際的なトラストに関する勉強会開催のご案内<br>
 <a href="https://www.nic.ad.jp/ja/topics/2021/20211014-01.html" rel="noreferrer noopener" target="_blank">https://www.nic.ad.jp/ja/topics/2021/20211014-01.html</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/27-attestationECDSACABrowser-e19jhut</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/27-attestationECDSACABrowser-e19jhut</link>
 			<guid isPermaLink="false">30b3e61b-82ce-401f-bcab-483d7d72dd61</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Mon, 01 Nov 2021 03:53:31 GMT</pubDate>
@@ -1036,7 +1318,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <p>・Root Certificate Program - Apple &nbsp;<a href="https://www.apple.com/certificateauthority/ca_program.html" rel="noreferrer noopener" target="_blank" title="https://www.apple.com/certificateauthority/ca_program.html">https://www.apple.com/certificateauthority/ca_program.html</a> &nbsp;&nbsp;</p>
 <p>・Revisiting BetterTLS: Certificate Path Building &nbsp;<a href="https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f" rel="noreferrer noopener" target="_blank" title="https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f">https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f</a> (edited)</p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/26-LEAppleNetflix-e19089t</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/26-LEAppleNetflix-e19089t</link>
 			<guid isPermaLink="false">bd2d105d-84a6-4614-abc0-720a3229faa0</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 19 Oct 2021 08:27:06 GMT</pubDate>
@@ -1065,7 +1347,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
 <p>【楽天市場】ヤスダヨーグルト 900ml：新潟の地酒・特産　日本酒の長田屋 (rakuten.co.jp) &nbsp;<a href="https://item.rakuten.co.jp/nagataya/105107/" rel="noreferrer noopener" target="_blank" title="https://item.rakuten.co.jp/nagataya/105107/">https://item.rakuten.co.jp/nagataya/105107/</a></p>
 <p>【楽天市場】人参ジュース 雪下にんじんジュース 1L×6本 津南高原 新潟 魚沼 雪中にんじん 雪下人参 御歳暮 本州送料無料：新潟名物専門店 小竹食品 (rakuten.co.jp) &nbsp;<a href="https://item.rakuten.co.jp/odakesyokuhin/yukishita1/" rel="noreferrer noopener" target="_blank" title="https://item.rakuten.co.jp/odakesyokuhin/yukishita1/">https://item.rakuten.co.jp/odakesyokuhin/yukishita1/</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/25-OpenSSLBIMI-e18otkl</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/25-OpenSSLBIMI-e18otkl</link>
 			<guid isPermaLink="false">8a0d9290-52a0-46a9-8275-953176b3b145</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 14 Oct 2021 07:09:01 GMT</pubDate>
@@ -1092,7 +1374,7 @@ https://benevolent0505.hatenablog.com/entry/2022/08/29/170000
  ・Let's EncryptのルートCA証明書期限切れ、多数のサイトで問題発生 - ZDNet Japan 
 https://japan.zdnet.com/article/35177496/
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/24-930Lets-EncryptCACA-e18b5d2</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/24-930Lets-EncryptCACA-e18b5d2</link>
 			<guid isPermaLink="false">5f132d9f-e384-4523-b2c4-5f9807b2e0cd</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 05 Oct 2021 09:40:01 GMT</pubDate>
@@ -1135,7 +1417,7 @@ https://japan.zdnet.com/article/35177496/
 <p>・ゲームの話</p>
 <p><a href="https://www.microsoft.com/ja-jp/p/lawn-mowing-simulator/9npfjtm4hbh9?activetab=pivot:overviewtab" rel="noreferrer noopener" target="_blank">Lawn Mowing Simulator を購入 - Microsoft Store ja-JP</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/23-PKI-Lets-EncryptCA-e180cab</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/23-PKI-Lets-EncryptCA-e180cab</link>
 			<guid isPermaLink="false">caa3d12a-ddfa-4c4f-b779-558aab95a885</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 28 Sep 2021 08:00:30 GMT</pubDate>
@@ -1190,7 +1472,7 @@ CNNもBIMIに対応している：　<a href="https://www.digicert.com/jp/news/p
 </a>電子署名QA　<a href="https://www.jnsa.org/result/e-signature/e-signature-qa/index.html" rel="noreferrer noopener" target="_blank">JNSA電子署名WG　電子署名Q&amp;A</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/22-LBIMIPKI-Consortium-e17649f</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/22-LBIMIPKI-Consortium-e17649f</link>
 			<guid isPermaLink="false">8a3ec8a6-0592-4000-8c14-a09c21972491</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 10 Sep 2021 12:47:14 GMT</pubDate>
@@ -1237,7 +1519,7 @@ CNNもBIMIに対応している：　&lt;a href=&quot;https://www.digicert.com/j
 </ul>
 <p><a href="https://av.watch.impress.co.jp/docs/news/1335533.html" rel="noreferrer noopener" target="_blank">https://av.watch.impress.co.jp/docs/news/1335533.html</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/21-CAWebPKIBIMI-e16de64</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/21-CAWebPKIBIMI-e16de64</link>
 			<guid isPermaLink="false">930b8c7d-c5a5-4fe8-b9eb-b65fae9160b6</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 24 Aug 2021 22:48:02 GMT</pubDate>
@@ -1295,7 +1577,7 @@ EV SSL Certificate Guidelines | CAB Forum<br>
 <a href="https://knqyf263.hatenablog.com/entry/2021/08/04/211903" rel="noreferrer noopener" target="_blank">https://knqyf263.hatenablog.com/entry/2021/08/04/211903</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/20-WebPKISigstoreL-e15viht</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/20-WebPKISigstoreL-e15viht</link>
 			<guid isPermaLink="false">3e9f7c56-7cea-4681-9f44-7b66c4651189</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sun, 15 Aug 2021 23:42:50 GMT</pubDate>
@@ -1344,7 +1626,7 @@ EV SSL Certificate Guidelines | CAB Forum&lt;br&gt;
 <p>・TLS証明書チェッカーcheck-tls-certの公開 - インフラエンジニアway - Powered by HEARTBEATS &nbsp;<a href="https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html" rel="noreferrer noopener" target="_blank" title="https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html">https://heartbeats.jp/hbblog/2021/07/check-tls-cert.html</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>・GitHub - heartbeatsjp/check-tls-cert: Check-tls-cert is a TLS certificate checker. &nbsp;<a href="https://github.com/heartbeatsjp/check-tls-cert" rel="noreferrer noopener" target="_blank" title="https://github.com/heartbeatsjp/check-tls-cert">https://github.com/heartbeatsjp/check-tls-cert</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/19-IETF111TLS-e15d1b8</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/19-IETF111TLS-e15d1b8</link>
 			<guid isPermaLink="false">5fc80936-f089-4fce-9ed0-aff442cd8fc7</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 03 Aug 2021 06:47:15 GMT</pubDate>
@@ -1371,7 +1653,7 @@ EV SSL Certificate Guidelines | CAB Forum&lt;br&gt;
 <p><a href="https://bimigroup.org/verified-mark-certificates-vmc-and-bimi/?fbclid=IwAR3989b5I5-OY44ukenFZFX2AsOUFocbvr-QaLft_WcQ2m2i_UNdSF5DJFM">Verified Mark Certificates (VMC) and BIMI | BIMI Group</a></p>
 <p><a href="https://announcemail.yahoo.co.jp/brandicon_corp/index.html">ブランドアイコンで安心安全なメール - Yahoo!メール</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/18-BIMIVMC-e14u17r</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/18-BIMIVMC-e14u17r</link>
 			<guid isPermaLink="false">7383b58d-2219-47e2-bda1-b297ee085434</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Sat, 24 Jul 2021 00:54:39 GMT</pubDate>
@@ -1398,7 +1680,7 @@ EV SSL Certificate Guidelines | CAB Forum&lt;br&gt;
 <p>Google <a href="https://cloud.google.com/blog/products/identity-security/bringing-bimi-to-gmail-in-google-workspace" rel="noreferrer noopener" target="_blank">Bringing BIMI to Gmail in Google Workspace | Google Cloud Blog</a></p>
 <p>DigiCert <a href="https://www.digicert.com/tls-ssl/verified-mark-certificates" rel="noreferrer noopener" target="_blank">DigiCert Verified Mark Certificates</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/17-Lets-Encrypt901BIMIVMC-e14hcni</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/17-Lets-Encrypt901BIMIVMC-e14hcni</link>
 			<guid isPermaLink="false">ccc7fee1-8278-4675-9119-0a777985f5ea</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 16 Jul 2021 04:53:03 GMT</pubDate>
@@ -1433,7 +1715,7 @@ EV SSL Certificate Guidelines | CAB Forum&lt;br&gt;
 <p>ハッカーニュースにめちゃくちゃレス付いてる(原題：<a href="https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/" rel="noreferrer noopener" target="_blank">Single random bit flip causes error in certificate transparency log</a>)</p>
 <p><a href="https://news.ycombinator.com/item?id=27728287" rel="noreferrer noopener" target="_blank">https://news.ycombinator.com/item?id=27728287</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/16-Lets-Encrypt901-e142aq0</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/16-Lets-Encrypt901-e142aq0</link>
 			<guid isPermaLink="false">afd11968-2587-4613-8fff-8b0407202775</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 07 Jul 2021 07:27:34 GMT</pubDate>
@@ -1471,7 +1753,7 @@ EV SSL Certificate Guidelines | CAB Forum&lt;br&gt;
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/15-e13ogoc</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/15-e13ogoc</link>
 			<guid isPermaLink="false">b0d77aea-04e3-495a-96ef-2c3e9160e02e</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 01 Jul 2021 07:56:29 GMT</pubDate>
@@ -1519,7 +1801,7 @@ ep23 Let's Encrypt&nbsp; <a href="https://mozaic.fm/episodes/23/lets-encrypt.htm
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/14-WebPKICA-e13bc8n</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/14-WebPKICA-e13bc8n</link>
 			<guid isPermaLink="false">051021f8-7508-4a59-a5dc-a03550b401c4</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 24 Jun 2021 06:17:46 GMT</pubDate>
@@ -1569,7 +1851,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/13-TLSOU-e12s1ib</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/13-TLSOU-e12s1ib</link>
 			<guid isPermaLink="false">bf5c7314-0a0f-49b8-84d3-633a1bae8014</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Wed, 16 Jun 2021 06:40:45 GMT</pubDate>
@@ -1624,7 +1906,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
 <p>· YAMAHA サイレントギター <a href="https://jp.yamaha.com/products/musical_instruments/guitars_basses/silent_guitar/index.html?fbclid=IwAR2Nun3rGBBvRd4RCo4xaitMomkpW2v0xl-ed1S_YryPeGWNxE8Nq3rw9XE" target="_blank">https://jp.yamaha.com/products/musical_instruments/guitars_basses/silent_guitar/index.html</a></p>
 <p>· Fender PLAY (オンライン教室) <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftry.fender.com%2Fplay%2Fplay-now-2021%2F%3Ffbclid%3DIwAR1vx0xGeJGntSLU6FgVH2N6a_tky-OuhjkWWQHEKdKkdJIUjCt5N7VXKrQ&amp;h=AT0QMShdIZejQ_FLNSW0MJj_azmoLUPnsopYkSc-tfVGt3GaTTFADHCaUWEJFFgjlNE5h4Yhg0D7JLNwgc1FBeLFhPgX8JXFkaJbV1prXrrTHTRHs42Bw99fjeuJCwqov9-y9tqpP8QyFZ5U1QAFKA" target="_blank">https://try.fender.com/play/play-now-2021/</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/12-SMIME-e11v4fk</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/12-SMIME-e11v4fk</link>
 			<guid isPermaLink="false">7f8b8314-cf04-4f74-8e89-a5e9d28818be</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 01 Jun 2021 05:57:05 GMT</pubDate>
@@ -1686,7 +1968,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
 <p>＜補足＞　Apple Safariでは、EV証明書を利用するサイトの場合、アドレスバー自体は緑にはなりませんが、ドメイン名を緑字で表示しています。（ただし、組織名表示は取りやめ、ドメイン表示に変えています</p>
 <p><a href="https://japan.zdnet.com/article/35141280/">「Chrome」と「Firefox」のアドレスバーでEV証明書の情報表示を変更へ - ZDNet Japan</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/11-IE-e11hnmq</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/11-IE-e11hnmq</link>
 			<guid isPermaLink="false">aa61847b-8517-45e9-b88e-4efd481f4835</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 25 May 2021 07:34:06 GMT</pubDate>
@@ -1733,7 +2015,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
 </a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/10-TLSWeb2019-e11a7u1</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/10-TLSWeb2019-e11a7u1</link>
 			<guid isPermaLink="false">bb64f8e0-b2c8-47ac-a517-6efb667efcd9</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 21 May 2021 05:29:24 GMT</pubDate>
@@ -1789,7 +2071,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
 <p>×発行された証明書の有効期限を見てみると 181-254days だった</p>
 <p>〇発行された証明書の有効期限を見てみると182日１４時間５４分３６秒だった</p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/9-Camerfirma-CAApple-CT-PolicyLets-Encrypt-e10lqr8</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/9-Camerfirma-CAApple-CT-PolicyLets-Encrypt-e10lqr8</link>
 			<guid isPermaLink="false">e4949aa1-053d-4dbb-991a-2ba401a1949b</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 11 May 2021 07:24:40 GMT</pubDate>
@@ -1846,7 +2128,7 @@ ep23 Let&apos;s Encrypt&amp;nbsp; &lt;a href=&quot;https://mozaic.fm/episodes/23
   <li><a href="https://www.fundokin.co.jp/products/shirodashi/">料亭の味 白だし | フンドーキン醬油株式会社 (fundokin.co.jp)</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/8-e10dhn3</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/8-e10dhn3</link>
 			<guid isPermaLink="false">74b4044c-9bf6-451f-b8d3-e92ffc533719</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 07 May 2021 03:54:48 GMT</pubDate>
@@ -1908,7 +2190,7 @@ RootStore <a href="https://www.chromium.org/Home/chromium-security/root-ca-polic
   <li>　　　MicrosoftのRoot Storeは300個とかくらい　→ちゃんと数えてみたら415個ありました。　</li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/ep7-CTTrusted-Root-Store-evoc8p</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/ep7-CTTrusted-Root-Store-evoc8p</link>
 			<guid isPermaLink="false">59dfeb0f-cb52-4e32-9bc1-73db53f6a11e</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 27 Apr 2021 08:19:01 GMT</pubDate>
@@ -1978,7 +2260,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
   <li>キャベツのスライサー：<a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%BC%E3%83%8D%E3%82%B9%E3%83%88-3%E5%80%8D%E9%80%9F%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B-%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96-%E5%A4%A7%E6%89%8B%E9%A3%B2%E9%A3%9F%E5%BA%97%E6%84%9B%E7%94%A8%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91/dp/B0026ZDJ7S/ref=pd_sbs_1?pd_rd_w=qbNut&amp;pf_rd_p=7997b82e-5553-4baa-ac55-976d37fe0def&amp;pf_rd_r=1K7M9HET2EXZH9RX0B2H&amp;pd_rd_r=c2813aae-a842-421e-832a-337b64659341&amp;pd_rd_wg=kfLSC&amp;pd_rd_i=B087Z779JH&amp;th=1">Amazon.co.jp : アーネスト 【日本製】 スライサー (千切り) 3倍速でできる (3倍速 トリプルウェーブ) 大手飲食店愛用ブランド 限定カラー ブラック A-77295 【Amazon.co.jp限定】 : ホーム＆キッチン</a></li>
 </ul>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/6-SHA-1-ev8r50</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/6-SHA-1-ev8r50</link>
 			<guid isPermaLink="false">4a7569c1-ceef-4b1f-8c1d-0044e3382553</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 20 Apr 2021 07:04:41 GMT</pubDate>
@@ -2026,7 +2308,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 <p>Deprecating TLS 1.0 and TLS 1.1(2021 March)</p>
 <p><a href="https://tools.ietf.org/html/rfc8996" rel="noreferrer noopener" target="_blank">https://tools.ietf.org/html/rfc8996</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/5-PKI-euqabl</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/5-PKI-euqabl</link>
 			<guid isPermaLink="false">15229d73-b7db-4454-a136-83f35e390c23</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Tue, 13 Apr 2021 06:41:29 GMT</pubDate>
@@ -2075,7 +2357,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 </ul>
 <p><a href="https://arxiv.org/pdf/2102.04796.pdf" rel="noreferrer noopener" target="_blank">https://arxiv.org/pdf/2102.04796.pdf</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/4-SCT-AuditingHeartbleed7Aavddon-Ransomware-eufdep</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/4-SCT-AuditingHeartbleed7Aavddon-Ransomware-eufdep</link>
 			<guid isPermaLink="false">b4b577a2-f079-4930-b9e3-6264c3dc4414</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 08 Apr 2021 07:31:29 GMT</pubDate>
@@ -2122,7 +2404,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 <p><br></p>
 <p>&lt;録音時の問題により、ふたりの音声の大きさが揃っておらず、聞きづらいところがあります。申し訳ありません&gt;</p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/3-sigstore-etfi6q</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/3-sigstore-etfi6q</link>
 			<guid isPermaLink="false">4c7f7eb7-d461-4cb4-abc2-a48d556e670f</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 25 Mar 2021 22:59:26 GMT</pubDate>
@@ -2162,7 +2444,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 <p>Sigstore</p>
 <p><a href="https://sigstore.dev/">https://sigstore.dev/</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/2-Lets-Encrypt2-esvn28</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/2-Lets-Encrypt2-esvn28</link>
 			<guid isPermaLink="false">a7c87f6b-213f-467e-b7dd-196cf24f6afc</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Fri, 19 Mar 2021 06:32:15 GMT</pubDate>
@@ -2202,7 +2484,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 <p>@jovi0608 さんツイート</p>
 <p><a href="https://twitter.com/jovi0608/status/1354047261945151491">https://twitter.com/jovi0608/status/1354047261945151491</a></p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/1-CA-epte7g</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/1-CA-epte7g</link>
 			<guid isPermaLink="false">73b6ba57-441c-413b-ad6f-33a7ab8bb32f</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 04 Feb 2021 01:01:12 GMT</pubDate>
@@ -2223,7 +2505,7 @@ RootStore &lt;a href=&quot;https://www.chromium.org/Home/chromium-security/root-
 			<title><![CDATA[0: ポッドキャスト始めるって話]]></title>
 			<description><![CDATA[<p>雑談とPKIのポッドキャスト始めようと思ったきっかけなどを話しました。よろしくお願いします！</p>
 ]]></description>
-			<link>https://anchor.fm/hitokuchipki/episodes/0-eptbr8</link>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/0-eptbr8</link>
 			<guid isPermaLink="false">d723f40e-50b3-45bf-82cc-870bc98172f9</guid>
 			<dc:creator><![CDATA[Eureka]]></dc:creator>
 			<pubDate>Thu, 04 Feb 2021 00:43:11 GMT</pubDate>

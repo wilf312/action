@@ -16,7 +16,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 	<atom:link href="https://misreading.chat/category/episodes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://misreading.chat</link>
 	<description>会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。</description>
-	<lastBuildDate>Thu, 02 Feb 2023 23:52:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Jun 2023 00:53:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,6 +40,593 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:image href='https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?fit=3000%2C3000' />
 <itunes:category text='Technology' />
 	<item>
+		<title>#116: Asymmetric numeral systems</title>
+		<link>https://misreading.chat/2023/06/05/116-asymmetric-numeral-systems/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2023 00:53:52 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=953</guid>
+
+					<description><![CDATA[最近人気の圧縮フォーマット ZSTD のアルゴリズムについて向井が調べました。]]></description>
+										<content:encoded><![CDATA[
+<p>人気圧縮フォーマット ZSTD のアルゴリズムについて<a href="https://jmuk.org/">向井</a>が調べました。ご意見感想などは <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> や<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星もよろしくね。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/06/ep116.mp3"></audio></figure>
+
+
+
+<ul>
+<li><a href="https://arxiv.org/abs/1311.2540">[1311.2540] Asymmetric numeral systems: entropy coding combining speed of Huffman coding with compression rate of arithmetic coding</a></li>
+
+
+
+<li><a href="https://github.com/facebook/zstd">facebook/zstd: Zstandard &#8211; Fast real-time compression algorithm</a></li>
+
+
+
+<li><a href="https://corecursive.com/data-compression-yann-collet/">From Project Management to Data Compression Innovator With Yann Collet &#8211; CoRecursive Podcast</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/06/ep116.mp3" length="58261293" type="audio/mpeg" />
+<itunes:duration>2428</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>最近人気の圧縮フォーマット ZSTD のアルゴリズムについて向井が調べました。</itunes:summary>
+<googleplay:description>最近人気の圧縮フォーマット ZSTD のアルゴリズムについて向井が調べました。</googleplay:description>
+<itunes:subtitle>最近人気の圧縮フォーマット ZSTD のアルゴリズムについて向井が調べました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#115: Constitutional AI: Harmlessness from AI Feedback</title>
+		<link>https://misreading.chat/2023/05/22/115-constitutional-ai-harmlessness-from-ai-feedback/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 23 May 2023 01:27:16 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=945</guid>
+
+					<description><![CDATA[LLM をチャットボットに仕立てる finetuning について森田が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>LLM をチャットボットに仕立てる finetuning について森田が読みました。ご意見ご感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>や <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/05/ep115.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://arxiv.org/abs/2203.02155">[2203.02155] Training language models to follow instructions with human feedback</a></li>
+
+
+
+<li><a href="https://arxiv.org/abs/2212.08073">[2212.08073] Constitutional AI: Harmlessness from AI Feedback</a></li>
+
+
+
+<li><a href="https://news.ycombinator.com/item?id=35841460">It looks like GPT-4-32k is rolling out | Hacker News</a></li>
+
+
+
+<li><a href="https://www.anthropic.com/index/introducing-claude">Anthropic | Introducing Claude</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart&#8217;s law &#8211; Wikipedia</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/05/ep115.mp3" length="52837677" type="audio/mpeg" />
+<itunes:duration>2202</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>LLM をチャットボットに仕立てる finetuning について森田が読みました。</itunes:summary>
+<googleplay:description>LLM をチャットボットに仕立てる finetuning について森田が読みました。</googleplay:description>
+<itunes:subtitle>LLM をチャットボットに仕立てる finetuning について森田が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#114: Invisinets: Removing Networking from Cloud Networks</title>
+		<link>https://misreading.chat/2023/05/18/114-invisinets-removing-networking-from-cloud-networks/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 12:14:10 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=940</guid>
+
+					<description><![CDATA[クラウドのネットワーク設定を簡単にする抽象について向井が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>クラウドのネットワーク設定を簡単にする抽象について<a href="https://jmuk.org/">向井</a>が読みました。ご意見感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星も歓迎です。<a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> もはじめました。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/05/ep114.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://www.usenix.org/conference/nsdi23/presentation/mcclure">Invisinets: Removing Networking from Cloud Networks | USENIX</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/05/ep114.mp3" length="29015006" type="audio/mpeg" />
+<itunes:duration>2418</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>クラウドのネットワーク設定を簡単にする抽象について向井が読みました。</itunes:summary>
+<googleplay:description>クラウドのネットワーク設定を簡単にする抽象について向井が読みました。</googleplay:description>
+<itunes:subtitle>クラウドのネットワーク設定を簡単にする抽象について向井が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#113: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</title>
+		<link>https://misreading.chat/2023/05/01/113-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 02 May 2023 05:19:22 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=932</guid>
+
+					<description><![CDATA[LLM に算数の文章題を解かせるコツについて森田が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>LLM に算数の文章題を解かせるコツについて森田が読みました。ご意見ご感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>や <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/05/ep113.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving Language Understanding by Generative Pre-Training</a></li>
+
+
+
+<li><a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners</a></li>
+
+
+
+<li><a href="https://arxiv.org/abs/2005.14165">[2005.14165] Language Models are Few-Shot Learners</a></li>
+
+
+
+<li><a href="https://arxiv.org/abs/2201.11903">[2201.11903] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a></li>
+
+
+
+<li><a href="https://thegradient.pub/nlp-imagenet/">NLP&#8217;s ImageNet moment has arrived</a></li>
+
+
+
+<li><a href="https://thegradient.pub/in-context-learning-in-context/">In-Context Learning, In Context</a></li>
+
+
+
+<li><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">ChatGPT Prompt Engineering for Developers &#8211; DeepLearning.AI</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/05/ep113.mp3" length="37155501" type="audio/mpeg" />
+<itunes:duration>1548</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>LLM に算数の文章題を解かせるコツについて森田が読みました。</itunes:summary>
+<googleplay:description>LLM に算数の文章題を解かせるコツについて森田が読みました。</googleplay:description>
+<itunes:subtitle>LLM に算数の文章題を解かせるコツについて森田が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#112: SkyPilot: An Intercloud Broker for Sky Computing</title>
+		<link>https://misreading.chat/2023/04/25/112-skypilot-an-intercloud-broker-for-sky-computing/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2023 03:44:35 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=922</guid>
+
+					<description><![CDATA[クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>複数クラウドをまたいだバッチのパイプラインを動かす話を<a href="https://jmuk.org/">向井</a>が読みました。ご意見感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。<a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> もはじめました。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/04/ep112.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng">SkyPilot: An Intercloud Broker for Sky Computing | USENIX</a></li>
+
+
+
+<li><a href="https://github.com/skypilot-org/skypilot">GitHub &#8211; skypilot-org/skypilot: SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.</a></li>
+
+
+
+<li><a href="https://dl.acm.org/doi/abs/10.1145/3458336.3465301">From cloud computing to sky computing | Proceedings of the Workshop on Hot Topics in Operating Systems</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/04/ep112.mp3" length="28364599" type="audio/mpeg" />
+<itunes:duration>2364</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。</itunes:summary>
+<googleplay:description>クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。</googleplay:description>
+<itunes:subtitle>クラウドをまたいでバッチのパイプラインを動かす話を向井が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#111: Formal Algorithms for Transformers</title>
+		<link>https://misreading.chat/2023/04/04/111-formal-algorithms-for-transformers/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2023 14:52:10 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=909</guid>
+
+					<description><![CDATA[勤務先への脅威に怯える森田が Transformer を復習しました。]]></description>
+										<content:encoded><![CDATA[
+<p>勤務先への脅威に怯える<a href="https://records.dodgson.org/">森田</a>が Transformer を復習しました。ご意見ご感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>や <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/04/ep111.mp3"></audio></figure>
+
+
+
+<p>今回は録音に際し Adobe Podcast (beta) のバグを引き当ててしまい、向井と森田の音声トラックがずれてしまいました。ごめんなさい。次回からは non-beta の手堅いツールで録音しようと思います・・・。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://arxiv.org/abs/2207.09238">[2207.09238] Formal Algorithms for Transformers</a></li>
+
+
+
+<li><a href="https://misreading.chat/2018/06/07/episode-15-neural-machine-translation-by-jointly-learning-to-align-and-translate/">#15 – Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+
+
+
+<li><a href="https://misreading.chat/2018/11/07/episode-38-subword-regularization-improving-neural-network-translation-models-with-multiple-subword-candidates/">#38 – Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates</a></li>
+
+
+
+<li><a href="https://misreading.chat/2019/02/28/episode-51-attention-is-all-you-need/">#51 – Attention Is All You Need</a></li>
+
+
+
+<li><a href="https://misreading.chat/2019/03/20/episode-53-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/">#53 – BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li>
+
+
+
+<li><a href="https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ">Jay Alammar &#8211; YouTube</a></li>
+
+
+
+<li><a href="https://github.com/openai/tiktoken">GitHub &#8211; openai/tiktoken: tiktoken is a fast BPE tokeniser for use with OpenAI&#8217;s models.</a></li>
+
+
+
+<li><a href="https://github.com/karpathy/nanoGPT">GitHub &#8211; karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.</a></li>
+
+
+
+<li><a href="https://www.youtube.com/watch?v=kCc8FmEb1nY&amp;t=6s">Let&#8217;s build GPT: from scratch, in code, spelled out. &#8211; YouTube</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/04/ep111.mp3" length="27371520" type="audio/mpeg" />
+<itunes:duration>2281</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>勤務先への脅威に怯える森田が Transformer を復習しました。</itunes:summary>
+<googleplay:description>勤務先への脅威に怯える森田が Transformer を復習しました。</googleplay:description>
+<itunes:subtitle>勤務先への脅威に怯える森田が Transformer を復習しました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#110.5</title>
+		<link>https://misreading.chat/2023/03/24/110-5/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2023 12:35:06 +0000</pubDate>
+				<category><![CDATA[announcement]]></category>
+		<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=899</guid>
+
+					<description><![CDATA[最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/]]></description>
+										<content:encoded><![CDATA[
+<p>最近 Reddit をはじめたよ、きてね、というお知らせです。<a href="https://www.reddit.com/r/MisreadingChat/">https://www.reddit.com/r/MisreadingChat/</a></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/03/announcement_20230321.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/03/announcement_20230321.mp3" length="2808576" type="audio/mpeg" />
+<itunes:duration>234</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/</itunes:summary>
+<googleplay:description>最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/</googleplay:description>
+<itunes:subtitle>最近 Reddit をはじめたよ、きてね、というお知らせです。https://www.reddit.com/r/MisreadingChat/</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#110: Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems</title>
+		<link>https://misreading.chat/2023/03/21/110-perseus-a-fail-slow-detection-framework-for-cloud-storage-systems/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 12:07:08 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=882</guid>
+
+					<description><![CDATA[遅くなったディスクをみつける Alibaba Cloud の実験について向井が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>遅くなったディスクをみつける Alibaba Cloud の実験について<a href="https://jmuk.org/">向井</a>が読みました。ご意見感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。<a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> もはじめました。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/03/ep110.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://www.usenix.org/conference/fast23/presentation/lu">Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems | USENIX</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-default" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/03/ep110.mp3" length="32881303" type="audio/mpeg" />
+<itunes:duration>2740</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>遅くなったディスクをみつける Alibaba Cloud の実験について向井が読みました。</itunes:summary>
+<googleplay:description>遅くなったディスクをみつける Alibaba Cloud の実験について向井が読みました。</googleplay:description>
+<itunes:subtitle>遅くなったディスクをみつける Alibaba Cloud の実験について向井が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#109: A Measure of Transaction Processing Power</title>
+		<link>https://misreading.chat/2023/03/01/109-a-measure-of-transaction-processing-power/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Wed, 01 Mar 2023 13:43:41 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=871</guid>
+
+					<description><![CDATA[データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。感想などは<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星も歓迎です。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/03/ep109.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://www.cockroachlabs.com/blog/performance-part-two/">CockroachDB is 10x more scalable than Amazon Aurora for OLTP workloads</a></li>
+
+
+
+<li><a href="https://www.tpc.org/">TPC-Homepage</a> (TLS の証明書が切れてますよ&#8230;)</li>
+
+
+
+<li><a href="https://jimgray.azurewebsites.net/BenchmarkHandbook/chapter2.pdf">The History of DebitCredit and the TPC</a></li>
+
+
+
+<li><a href="https://www.hpl.hp.com/techreports/tandem/TR-85.2.pdf">A Measure of Transaction Processing Power</a></li>
+
+
+
+<li><a href="https://www.hpl.hp.com/techreports/tandem/TR-93.1.pdf">The Evolution of TPC Benchmarks: Why TPC-A and TPC-B are Obsolete</a></li>
+
+
+
+<li><a href="https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf">tpc-c_v5.11.0.pdf</a></li>
+
+
+
+<li><a href="https://scholar.google.com/scholar?cluster=16102802884226953001&amp;hl=en&amp;as_sdt=0,5">Cooper: Benchmarking cloud serving systems with YCSB &#8211; Google Scholar</a></li>
+
+
+
+<li><a href="https://github.com/brianfrankcooper/YCSB/">brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark</a></li>
+
+
+
+<li><a href="http://muratbuffalo.blogspot.com/2023/01/tpc-e-vs-tpc-c-characterizing-new-tpc-e.html">TPC-E vs. TPC-C: Characterizing the New TPC-E Benchmark via an I/O Comparison Study</a></li>
+
+
+
+<li><a href="https://web.cse.ohio-state.edu/~wang.7564/papers/p1439-wang.pdf">A Study of Database Performance Sensitivity to Experiment Settings</a></li>
+
+
+
+<li><a href="https://records.dodgson.org/2023/02/16/in-2020s-dont-listen-to-java-haters/">In 2020s, Don’t Listen to Java Haters – Spinach Forest</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/03/ep109.mp3" length="27434451" type="audio/mpeg" />
+<itunes:duration>2286</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。</itunes:summary>
+<googleplay:description>データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。</googleplay:description>
+<itunes:subtitle>データベースベンダーの宣伝を読んでもよくわからかった森田が DB ベンチマークの歴史を読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>#108: The Verse Calculus</title>
 		<link>https://misreading.chat/2023/02/02/108-the-verse-calculus/</link>
 		
@@ -83,7 +670,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。</googleplay:description>
 <itunes:subtitle>Haskell の親分により開発中の次世代関数型論理メタバース言語に向井が入門しました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -163,7 +750,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Adobe と PostScript の歴史を森田が読みました。</googleplay:description>
 <itunes:subtitle>Adobe と PostScript の歴史を森田が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -219,7 +806,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>AI がチャットしながらボードゲームで勝つ話を向井が読みました。</googleplay:description>
 <itunes:subtitle>AI がチャットしながらボードゲームで勝つ話を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -271,7 +858,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>データベースのクエリ処理に関する常識古典論文を森田が読みました。</googleplay:description>
 <itunes:subtitle>データベースのクエリ処理に関する常識古典論文を森田が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -331,7 +918,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。</googleplay:description>
 <itunes:subtitle>TCP をやっつけたいメッセージ志向プロトコルの提案を向井が拝聴しました。感想などはおたより投書箱にお寄せください。iTunes のレビューや星も歓迎です。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -395,7 +982,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>森田が NVIDIA の GPU で二次元お絵描きする話を調べました。</googleplay:description>
 <itunes:subtitle>森田が NVIDIA の GPU で二次元お絵描きする話を調べました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -447,7 +1034,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>向井が Git の難しさに見識を深めました。</googleplay:description>
 <itunes:subtitle>向井が Git の難しさに見識を深めました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -513,7 +1100,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>高給企業 Databricks の論文を森田が冷やかしました。</googleplay:description>
 <itunes:subtitle>高給企業 Databricks の論文を森田が冷やかしました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -605,7 +1192,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Podcast 100 回記念に森田と向井が読者のみなさまの質問に答えさせてもらう AMA をやってみました。</googleplay:description>
 <itunes:subtitle>Podcast 100 回記念に森田と向井が読者のみなさまの質問に答えさせてもらう AMA をやってみました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -643,12 +1230,12 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。</googleplay:description>
 <itunes:subtitle>そろそろこの podcast も 100 回目なので、記念に AMA すなわち読者質問回でもやるのはどうだろうと向井と森田が相談しました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
 		<item>
-		<title>#99: The Prusti Project: Formal Verification for Rust#99:</title>
+		<title>#99: The Prusti Project: Formal Verification for Rust</title>
 		<link>https://misreading.chat/2022/09/27/99-the-prusti-project-formal-verification-for-rust99/</link>
 		
 		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
@@ -658,7 +1245,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 
 					<description><![CDATA[Rust で使える静的検証ツールの論文を向井が読みました。]]></description>
 										<content:encoded><![CDATA[
-<p>Rust で使える静的検証ツールの論文を向井が読みました。感想などはハッシュタグ <a href="https://twitter.com/search?q=%23misreading%20lang%3Aja">#misreading</a> か <a href="mailto:hello@misreading.chat">hello@misreading.chat</a> にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星も歓迎です。</p>
+<p>Rust で使える静的検証ツールの論文を向井が読みました。感想などはハッシュタグ&nbsp;<a href="https://twitter.com/search?q=%23misreading%20lang%3Aja">#misreading</a>&nbsp;か&nbsp;<a href="mailto:hello@misreading.chat">hello@misreading.chat</a>&nbsp;にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a>&nbsp;のレビューや星も歓迎です。</p>
 
 
 
@@ -683,7 +1270,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Rust で使える静的検証ツールの論文を向井が読みました。</googleplay:description>
 <itunes:subtitle>Rust で使える静的検証ツールの論文を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -737,7 +1324,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>昔 Amazon が作った DynamoDB の祖先について森田が読みました。</googleplay:description>
 <itunes:subtitle>昔 Amazon が作った DynamoDB の祖先について森田が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -789,7 +1376,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。</googleplay:description>
 <itunes:subtitle>AWS の中の人が Rust の力で TLA+ に対抗する話を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -831,7 +1418,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>AWS の人気サービス DynamoDB の論文を森田が眺めました。</googleplay:description>
 <itunes:subtitle>AWS の人気サービス DynamoDB の論文を森田が眺めました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -869,7 +1456,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ちょっとやそっとで死なない分散 RDB の論文を向井が読みました。</googleplay:description>
 <itunes:subtitle>ちょっとやそっとで死なない分散 RDB の論文を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -907,7 +1494,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Kubernetes 以前に元気だったクラスタスケジューラの論文を向井が読みました。</googleplay:description>
 <itunes:subtitle>Kubernetes 以前に元気だったクラスタスケジューラの論文を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -957,7 +1544,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>データベースワナビーになった森田が SQL に入門しました。</googleplay:description>
 <itunes:subtitle>データベースワナビーになった森田が SQL に入門しました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -999,7 +1586,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ソフトウェア開発のムダについて現場に潜り込み分析した論文を森田が読みました。</googleplay:description>
 <itunes:subtitle>ソフトウェア開発のムダについて現場に潜り込み分析した論文を森田が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1037,7 +1624,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>FaaS の運用効率を上げたいクラウド業者の工夫を森田が読みました。</googleplay:description>
 <itunes:subtitle>FaaS の運用効率を上げたいクラウド業者の工夫を森田が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1079,7 +1666,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Haskell で使われている乱数生成器たちを向井が紹介します。</googleplay:description>
 <itunes:subtitle>Haskell で使われている乱数生成器たちを向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -1125,7 +1712,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>並列編集しても衝突しないデータ構造 CRDT に森田が入門します。</googleplay:description>
 <itunes:subtitle>並列編集しても衝突しないデータ構造 CRDT に森田が入門します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1171,7 +1758,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Haskell の長い歴史を向井がたどります。</googleplay:description>
 <itunes:subtitle>Haskell の長い歴史を向井がたどります。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -1217,7 +1804,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>AWS Lambda で Chromium をビルドしたり単体テストを流したりする話を和良が読みました。</googleplay:description>
 <itunes:subtitle>AWS Lambda で Chromium をビルドしたり単体テストを流したりする話を和良が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/7828b45f8396aa361d85cead01fd99ca?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d8534efe268f30bac31e3b1403c00d1b0041b9e20e556729e39486d8a8033d21?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">katokazuyoshi</media:title>
 		</media:content>
 	</item>
@@ -1259,7 +1846,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>JavaScript 二十年の歴史を森田がひやかします。</googleplay:description>
 <itunes:subtitle>JavaScript 二十年の歴史を森田がひやかします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1297,7 +1884,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ハードウェアカウンタを使ったプロファイラ実装を解説した論文を向井が紹介します。</googleplay:description>
 <itunes:subtitle>ハードウェアカウンタを使ったプロファイラ実装を解説した論文を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -1339,7 +1926,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>データセンターでプロファイラを動かしてわかったことは何なのか、森田が論文を読みます。</googleplay:description>
 <itunes:subtitle>データセンターでプロファイラを動かしてわかったことは何なのか、森田が論文を読みます。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1385,7 +1972,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>今をときめく eBPF/bpftrace の先祖 dtrace の論文を向井が紹介します。</googleplay:description>
 <itunes:subtitle>今をときめく eBPF/bpftrace の先祖 dtrace の論文を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -1427,7 +2014,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ガラスをクラウドの cold storage に使いたい Microsoft Research の野望を森田が紹介します。</googleplay:description>
 <itunes:subtitle>ガラスをクラウドの cold storage に使いたい Microsoft Research の野望を森田が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1473,7 +2060,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>昔は広く使われていた実行時間プロファイラ gprof の論文を向井が読みました。</googleplay:description>
 <itunes:subtitle>昔は広く使われていた実行時間プロファイラ gprof の論文を向井が読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 	</item>
@@ -1511,7 +2098,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Misreading Chat またちょっとやります、というお知らせです。</googleplay:description>
 <itunes:subtitle>Misreading Chat またちょっとやります、というお知らせです。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 	</item>
@@ -1563,7 +2150,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Splatoon 未経験者の 森田 が S ランカーの向井にランキング指南をします。</googleplay:description>
 <itunes:subtitle>Splatoon 未経験者の 森田 が S ランカーの向井にランキング指南をします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -1599,7 +2186,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>機械学習界隈で話題沸騰の不思議な論文を向井が読んでみました。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや星も歓迎です。暇な時 &#8230; &quot;#79: Adversarial Examples Are Not Bugs, They Are&#160;Features&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>機械学習界隈で話題沸騰の不思議な論文を向井が読んでみました。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや星も歓迎です。暇な時 &#8230; &quot;#79: Adversarial Examples Are Not Bugs, They Are&#160;Features&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -1639,7 +2226,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>有名物体認識のアルゴリズムのひとつ Faster RCNN を森田が紹介します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや &#8230; &quot;#78: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal&#160;Networks&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>有名物体認識のアルゴリズムのひとつ Faster RCNN を森田が紹介します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや &#8230; &quot;#78: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal&#160;Networks&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -1677,7 +2264,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>プロダクションエラーの原因になったコミットを探す話を向井が紹介します。</googleplay:description>
 <itunes:subtitle>プロダクションエラーの原因になったコミットを探す話を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -1729,7 +2316,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Huawei の新発表 OS がどんなものか森田が論文を読みつつ想像します。</googleplay:description>
 <itunes:subtitle>Huawei の新発表 OS がどんなものか森田が論文を読みつつ想像します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -1771,7 +2358,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>WebKit 開発者が本気でビルド時間を速くしてみた論文を向井がみつけて読みました。</googleplay:description>
 <itunes:subtitle>WebKit 開発者が本気でビルド時間を速くしてみた論文を向井がみつけて読みました。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -1817,7 +2404,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ニューラルネッツな顔認識に森田が入門します。</googleplay:description>
 <itunes:subtitle>ニューラルネッツな顔認識に森田が入門します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -1856,7 +2443,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Go 言語にありがちな並行絡みのバグを集めた論文に向井が同情します。</googleplay:description>
 <itunes:subtitle>Go 言語にありがちな並行絡みのバグを集めた論文に向井が同情します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -1894,7 +2481,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>システム論文を書く人向けガイドを森田が冷やかします。</googleplay:description>
 <itunes:subtitle>システム論文を書く人向けガイドを森田が冷やかします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -1936,7 +2523,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Facebook の Android 機械学習苦労話に向井が同情します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや星も歓迎 &#8230; &quot;#71: Machine Learning at Facebook: Understanding Inference at the&#160;Edge&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>Facebook の Android 機械学習苦労話に向井が同情します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。iTunes のレビューや星も歓迎 &#8230; &quot;#71: Machine Learning at Facebook: Understanding Inference at the&#160;Edge&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -1985,7 +2572,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>GPU の祖先みたいな 25 年前の高級ハードウェアを森田が紹介します。</googleplay:description>
 <itunes:subtitle>GPU の祖先みたいな 25 年前の高級ハードウェアを森田が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2023,7 +2610,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Facebook が NVM を機械学習のデータストレージに使った話を向井が紹介します。</googleplay:description>
 <itunes:subtitle>Facebook が NVM を機械学習のデータストレージに使った話を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2069,7 +2656,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Markov Chain Monte Carlo について森田がしったかぶりします。</googleplay:description>
 <itunes:subtitle>Markov Chain Monte Carlo について森田がしったかぶりします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2106,7 +2693,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Federated Learning の実運用に向けた議論を向井が眺めます。</googleplay:description>
 <itunes:subtitle>Federated Learning の実運用に向けた議論を向井が眺めます。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2161,7 +2748,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>夏なので古のレイトレ方程式を森田が復習します。</googleplay:description>
 <itunes:subtitle>夏なので古のレイトレ方程式を森田が復習します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2201,7 +2788,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>エッジデバイスを寄せ集めて分散機械学習をする Federated Learning を向井が紹介します。</googleplay:description>
 <itunes:subtitle>エッジデバイスを寄せ集めて分散機械学習をする Federated Learning を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2264,7 +2851,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Netflix の Chaos Engineering 最新事情っぽい論文を森田が冷やかします。</googleplay:description>
 <itunes:subtitle>Netflix の Chaos Engineering 最新事情っぽい論文を森田が冷やかします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2310,7 +2897,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>関数型言語業界ではやっているらしい Algebraic Effects の論文を向井が紹介します。</googleplay:description>
 <itunes:subtitle>関数型言語業界ではやっているらしい Algebraic Effects の論文を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2354,7 +2941,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Joe Armstrong 自身が書いた Erlang の歴史を森田が読みます。</googleplay:description>
 <itunes:subtitle>Joe Armstrong 自身が書いた Erlang の歴史を森田が読みます。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2390,7 +2977,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>JS 処理系 V8 の Spectre 対策について向井が話します。</googleplay:description>
 <itunes:subtitle>JS 処理系 V8 の Spectre 対策について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2441,7 +3028,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>GBDT の実装である XGBoost とかのコードを森田が読みます。</googleplay:description>
 <itunes:subtitle>GBDT の実装である XGBoost とかのコードを森田が読みます。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2481,7 +3068,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>トイレの張り紙の効能について向井が話します。</googleplay:description>
 <itunes:subtitle>トイレの張り紙の効能について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2524,7 +3111,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Kaggle 勢を賑わす GBDT なるものがなんなのか森田が遠巻きに調べます。</googleplay:description>
 <itunes:subtitle>Kaggle 勢を賑わす GBDT なるものがなんなのか森田が遠巻きに調べます。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2567,7 +3154,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>当初はリアクティブ言語になるはずだったプログラミング言語 Elm について向井が話します。</googleplay:description>
 <itunes:subtitle>当初はリアクティブ言語になるはずだったプログラミング言語 Elm について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2602,7 +3189,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>サーバーレス知ったかぶり用のホワイトペーパーを森田がひやかします。</googleplay:description>
 <itunes:subtitle>サーバーレス知ったかぶり用のホワイトペーパーを森田がひやかします。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2645,7 +3232,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>非同期プログラミングモデル ReactiveX の起源を向井が辿ります。</googleplay:description>
 <itunes:subtitle>非同期プログラミングモデル ReactiveX の起源を向井が辿ります。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2684,7 +3271,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>時々おこって困る性能問題 tail latency について森田が愚痴ります。</googleplay:description>
 <itunes:subtitle>時々おこって困る性能問題 tail latency について森田が愚痴ります。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2732,7 +3319,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>NN の自然言語処理で transfer learning を実現した BERT について向井が話します。</googleplay:description>
 <itunes:subtitle>NN の自然言語処理で transfer learning を実現した BERT について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2771,7 +3358,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>機械学習を使ったホワイトバランスのアルゴリズムについて森田が話します。</googleplay:description>
 <itunes:subtitle>機械学習を使ったホワイトバランスのアルゴリズムについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2809,7 +3396,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>昨年から成果が注目されている自然言語処理向けの新しいニューラルネットワーク Transformer を向井が紹介します。</googleplay:description>
 <itunes:subtitle>昨年から成果が注目されている自然言語処理向けの新しいニューラルネットワーク Transformer を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2858,7 +3445,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>球面上で幾何アルゴリズムを実装する下地となる座標系のデザインについて森田が話します。</googleplay:description>
 <itunes:subtitle>球面上で幾何アルゴリズムを実装する下地となる座標系のデザインについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2903,7 +3490,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>WebAssembly とネイティブコードの性能を比較した論文を向井が紹介します。</googleplay:description>
 <itunes:subtitle>WebAssembly とネイティブコードの性能を比較した論文を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -2940,7 +3527,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Airbnb が使っている検索アルゴリズムの一つについて森田が話します。</googleplay:description>
 <itunes:subtitle>Airbnb が使っている検索アルゴリズムの一つについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -2987,7 +3574,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Rust を使ってウェブブラウザを開発する現場からの報告論文について向井が話します。</googleplay:description>
 <itunes:subtitle>Rust を使ってウェブブラウザを開発する現場からの報告論文について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3045,7 +3632,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ML を使った検索技術 Learning To Rank に森田が入門します。</googleplay:description>
 <itunes:subtitle>ML を使った検索技術 Learning To Rank に森田が入門します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3093,7 +3680,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>仕様検証言語 TLA+ の AWS における使用事例について向井が話します。</googleplay:description>
 <itunes:subtitle>仕様検証言語 TLA+ の AWS における使用事例について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3139,7 +3726,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>AWS Lambda の新しい Hypervisor である Firecracker について森田が話します。</googleplay:description>
 <itunes:subtitle>AWS Lambda の新しい Hypervisor である Firecracker について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3188,7 +3775,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>FreeBSD のサンドボックス機構 Capsicum について向井が話します。</googleplay:description>
 <itunes:subtitle>FreeBSD のサンドボックス機構 Capsicum について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3247,7 +3834,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>KVM など Linux の仮想化技術について森田が話します。</googleplay:description>
 <itunes:subtitle>KVM など Linux の仮想化技術について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3290,7 +3877,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>汎用プログラミング言語に Dependent Types を組み込んだ実験的なプログラミング言語 Idris について向井が話します。</googleplay:description>
 <itunes:subtitle>汎用プログラミング言語に Dependent Types を組み込んだ実験的なプログラミング言語 Idris について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3352,7 +3939,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>最近でもなく読んだ本などについて向井と森田が話します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。 Follow up California Hasn &#8230; &quot;#40&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>最近でもなく読んだ本などについて向井と森田が話します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。 Follow up California Hasn &#8230; &quot;#40&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3394,7 +3981,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Microsoft Azure の Microservices 基盤 Service Fabric について森田が話します。</googleplay:description>
 <itunes:subtitle>Microsoft Azure の Microservices 基盤 Service Fabric について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3444,7 +4031,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ニューラル自然言語処理の前処理として複雑な単語を限られた語彙集合で分割するアルゴリズムについて向井が話します。</googleplay:description>
 <itunes:subtitle>ニューラル自然言語処理の前処理として複雑な単語を限られた語彙集合で分割するアルゴリズムについて向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3480,7 +4067,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>スマホカメラについてくる Portrait Mode のアルゴリズムについて森田が話します。</googleplay:description>
 <itunes:subtitle>スマホカメラについてくる Portrait Mode のアルゴリズムについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3524,7 +4111,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ウェブアプリケーションの JavaScript メモリーリーク検出ツール BLeak ついて向井が話します。</googleplay:description>
 <itunes:subtitle>ウェブアプリケーションの JavaScript メモリーリーク検出ツール BLeak ついて向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3572,7 +4159,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>画像処理用の DSL を FPGA にコンパイルする研究や、その延長で作られた画像処理用 Domain Specific Architecture である Pixel Visual Core について森田が話します。感想 &#8230; &quot;#35 &#8211;  Darkroom: Compiling High-Level Image Processing Code into Hardware&#160;Pipelines&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>画像処理用の DSL を FPGA にコンパイルする研究や、その延長で作られた画像処理用 Domain Specific Architecture である Pixel Visual Core について森田が話します。感想 &#8230; &quot;#35 &#8211;  Darkroom: Compiling High-Level Image Processing Code into Hardware&#160;Pipelines&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3640,7 +4227,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>マイクロカーネルの上でブラウザを動かすいくつかの研究ついて向井が話します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。 Trust and Prote &#8230; &quot;#34 &#8211; Trust and Protection in the Illinois Browser Operating&#160;System&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>マイクロカーネルの上でブラウザを動かすいくつかの研究ついて向井が話します。感想などはハッシュタグ #misreading か hello@misreading.chat にお寄せください。 Trust and Prote &#8230; &quot;#34 &#8211; Trust and Protection in the Illinois Browser Operating&#160;System&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3685,7 +4272,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>画像から特徴量をとりだすアルゴリズムの古典 SIFT と最近の似たような話について森田が話します。</googleplay:description>
 <itunes:subtitle>画像から特徴量をとりだすアルゴリズムの古典 SIFT と最近の似たような話について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3747,7 +4334,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Chrome オリジナルなプロセス分離ポリシーを突き詰めた研究ついて向井が話します。</googleplay:description>
 <itunes:subtitle>Chrome オリジナルなプロセス分離ポリシーを突き詰めた研究ついて向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3800,7 +4387,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ARM が主導する省電力マルチコアアーキテクチャ Big.Little と Android の関係について森田が話します。</googleplay:description>
 <itunes:subtitle>ARM が主導する省電力マルチコアアーキテクチャ Big.Little と Android の関係について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3844,7 +4431,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Chrome の開発に使われているメモリエラー検出ツール ASAN について向井が話します。</googleplay:description>
 <itunes:subtitle>Chrome の開発に使われているメモリエラー検出ツール ASAN について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3888,7 +4475,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>少し前に流行った Style Transfer と 15 年前にあった類似研究について森田が話します。</googleplay:description>
 <itunes:subtitle>少し前に流行った Style Transfer と 15 年前にあった類似研究について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -3927,7 +4514,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Red-Black Tree 発案者 Sedgewick 氏本人による30 年越しの改訂版アルゴリズムについて向井が話します。</googleplay:description>
 <itunes:subtitle>Red-Black Tree 発案者 Sedgewick 氏本人による30 年越しの改訂版アルゴリズムについて向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -3976,7 +4563,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>最近 1.0 をリリースした数値計算系言語 Julia の宣伝論文などについて森田が話します。</googleplay:description>
 <itunes:subtitle>最近 1.0 をリリースした数値計算系言語 Julia の宣伝論文などについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4026,7 +4613,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>TypeScript の DefinitelyTyped から宣言間違いを探す論文について向井が話します。</googleplay:description>
 <itunes:subtitle>TypeScript の DefinitelyTyped から宣言間違いを探す論文について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4065,7 +4652,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>スマートフォン用高画質撮影機能 HDR+ のアルゴリズムについて森田が話します。</googleplay:description>
 <itunes:subtitle>スマートフォン用高画質撮影機能 HDR+ のアルゴリズムについて森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4108,7 +4695,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>JavaScript 用の共有メモリ仕様 SharedArrayBuffer に関するメモリモデルを検証した論文について向井が話します。</googleplay:description>
 <itunes:subtitle>JavaScript 用の共有メモリ仕様 SharedArrayBuffer に関するメモリモデルを検証した論文について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4160,7 +4747,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>高速な画像処理用 DSL の Halide について森田が話します。</googleplay:description>
 <itunes:subtitle>高速な画像処理用 DSL の Halide について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4222,7 +4809,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ブラウザ向けコード実行環境 WebAssembly について主要ブラウザの開発者が共著した論文について向井が話します。</googleplay:description>
 <itunes:subtitle>ブラウザ向けコード実行環境 WebAssembly について主要ブラウザの開発者が共著した論文について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4274,7 +4861,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Android Camera2 API の開始点となった Frankencamera について森田が話します。</googleplay:description>
 <itunes:subtitle>Android Camera2 API の開始点となった Frankencamera について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4318,7 +4905,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Hypervisor と guest OS の新しいインタラクション手法 Hyperupcall について向井が話します。</googleplay:description>
 <itunes:subtitle>Hypervisor と guest OS の新しいインタラクション手法 Hyperupcall について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4381,7 +4968,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>今はなき Lytro 社のカメラを可能にした Light Field テクノロジと、その応用である Plenoptic Camera について森田が話します。</googleplay:description>
 <itunes:subtitle>今はなき Lytro 社のカメラを可能にした Light Field テクノロジと、その応用である Plenoptic Camera について森田が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4435,7 +5022,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>DRAM のハードウェアバグ Rowhammer を使った脆弱性について向井が話します。</googleplay:description>
 <itunes:subtitle>DRAM のハードウェアバグ Rowhammer を使った脆弱性について向井が話します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4507,7 +5094,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>OCaml で書かれた LibraryOS Unikernels/MirageOS に関する論文 &#8220;Unikernels: Library Operating Systems for the Cloud&amp;#8 &#8230; &quot;#17 &#8211; Unikernels: Library Operating Systems for the&#160;Cloud&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>OCaml で書かれた LibraryOS Unikernels/MirageOS に関する論文 &#8220;Unikernels: Library Operating Systems for the Cloud&amp;#8 &#8230; &quot;#17 &#8211; Unikernels: Library Operating Systems for the&#160;Cloud&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4549,7 +5136,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Disney Research による口パクアニメーション生成論文 &quot;A Deep Learning Approach for Generalized Speech Animation&quot; を向井が紹介します。</googleplay:description>
 <itunes:subtitle>Disney Research による口パクアニメーション生成論文 &quot;A Deep Learning Approach for Generalized Speech Animation&quot; を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4597,7 +5184,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Neural Network における &#8220;Attention&#8221; の概念をうみだした機械翻訳の論文 &#8220;Neural Machine Translation by Jointly Lear &#8230; &quot;#15 &#8211;  Neural Machine Translation by Jointly Learning to Align and&#160;Translate&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>Neural Network における &#8220;Attention&#8221; の概念をうみだした機械翻訳の論文 &#8220;Neural Machine Translation by Jointly Lear &#8230; &quot;#15 &#8211;  Neural Machine Translation by Jointly Learning to Align and&#160;Translate&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4643,7 +5230,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Jeff Dean が Chrome のために書いたデータベースライブラリ LevelDB についてドキュメントやコードを見ながら向井が紹介します。 google/leveldb: LevelDB is a fast k &#8230; &quot;#14 &#8211; LevelDB&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>Jeff Dean が Chrome のために書いたデータベースライブラリ LevelDB についてドキュメントやコードを見ながら向井が紹介します。 google/leveldb: LevelDB is a fast k &#8230; &quot;#14 &#8211; LevelDB&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4699,7 +5286,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>確率的アルゴリズム HyperLogLog に関する論文 &#8220;HyperLogLog in Practice&#8221; を 森田が紹介します。感想などはハッシュタグ #misreading か hello@ &#8230; &quot;#13 &#8211; HyperLogLog in&#160;Practice&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>確率的アルゴリズム HyperLogLog に関する論文 &#8220;HyperLogLog in Practice&#8221; を 森田が紹介します。感想などはハッシュタグ #misreading か hello@ &#8230; &quot;#13 &#8211; HyperLogLog in&#160;Practice&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4741,7 +5328,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>GraphQLを分析した論文 &#8220;Semantics and Complexity of GraphQL&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@mis &#8230; &quot;#12 &#8211; Semantics and Complexity of&#160;GraphQL&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>GraphQLを分析した論文 &#8220;Semantics and Complexity of GraphQL&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@mis &#8230; &quot;#12 &#8211; Semantics and Complexity of&#160;GraphQL&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4788,7 +5375,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Jupyter Notebook の利用実態を調査した &#8220;The Story in the Notebook: Exploratory Data Science using a Literate Progra &#8230; &quot;#11 &#8211;  The Story in the&#160;Notebook&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>Jupyter Notebook の利用実態を調査した &#8220;The Story in the Notebook: Exploratory Data Science using a Literate Progra &#8230; &quot;#11 &#8211;  The Story in the&#160;Notebook&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4835,7 +5422,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>確率的プログラミング系の論文 &#8220;Deep Probabilistic Programming&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@misreadi &#8230; &quot;#10 &#8211; Deep Probabilistic&#160;Programming&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>確率的プログラミング系の論文 &#8220;Deep Probabilistic Programming&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@misreadi &#8230; &quot;#10 &#8211; Deep Probabilistic&#160;Programming&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4899,7 +5486,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>自動微分のサーベイ論文 &#8220;Automatic differentiation in machine learning: a survey&#8221; を 森田が PyTorch のコードを読みつつ紹介します &#8230; &quot;#09 &#8211;  Automatic Differentiation in Machine Learning: a&#160;Survey&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>自動微分のサーベイ論文 &#8220;Automatic differentiation in machine learning: a survey&#8221; を 森田が PyTorch のコードを読みつつ紹介します &#8230; &quot;#09 &#8211;  Automatic Differentiation in Machine Learning: a&#160;Survey&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -4946,7 +5533,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>機械学習で画像を生成させる系の論文 &#8220;Generative Adversarial Nets&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@misreadi &#8230; &quot;#08 &#8211; Generative Adversarial&#160;Nets&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>機械学習で画像を生成させる系の論文 &#8220;Generative Adversarial Nets&#8221; を向井が紹介します。感想などはハッシュタグ #misreading か hello@misreadi &#8230; &quot;#08 &#8211; Generative Adversarial&#160;Nets&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -4995,7 +5582,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Graal VM のデザインを説明した論文 One VM to rule them all を森田が紹介します。</googleplay:description>
 <itunes:subtitle>Graal VM のデザインを説明した論文 One VM to rule them all を森田が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -5051,7 +5638,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Microsoft の社内用分散ビルドシステム CloudBuild を向井が紹介します。</googleplay:description>
 <itunes:subtitle>Microsoft の社内用分散ビルドシステム CloudBuild を向井が紹介します。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/78c2e017228552fab555963f9a0739a3?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">jmuk42</media:title>
 		</media:content>
 
@@ -5132,7 +5719,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>アジャイルなCPU開発とGoの次世代バージョン管理。</googleplay:description>
 <itunes:subtitle>アジャイルなCPU開発とGoの次世代バージョン管理。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -5194,7 +5781,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>向井が紹介するのは Linux 上に不揮発性メモリ用のファイルシステムを実装、評価した NOVA: A Log-structured File System for Hybrid Volatile/Non-volatil &#8230; &quot;#04: Filesystem on NVM / Self-Driving Car on&#160;Dessert&quot;の続きを読む</googleplay:description>
 <itunes:subtitle>向井が紹介するのは Linux 上に不揮発性メモリ用のファイルシステムを実装、評価した NOVA: A Log-structured File System for Hybrid Volatile/Non-volatil &#8230; &quot;#04: Filesystem on NVM / Self-Driving Car on&#160;Dessert&quot;の続きを読む</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -5256,7 +5843,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>新入社員の苦労とデータサイエンティストの苦悩</googleplay:description>
 <itunes:subtitle>新入社員の苦労とデータサイエンティストの苦悩</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -5320,7 +5907,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>Android Intent の使われ方調査と、商用 GPU レイトレの話。</googleplay:description>
 <itunes:subtitle>Android Intent の使われ方調査と、商用 GPU レイトレの話。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
@@ -5336,7 +5923,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 		<guid isPermaLink="false">http://misreadingchat.wordpress.com/?p=9</guid>
 
 					<description><![CDATA[ML 向け JIT Compiler と Rust の安全性証明のはなし。]]></description>
-										<content:encoded><![CDATA[<p><a href="http://twitter.com/omo2009"><img loading="lazy" data-attachment-id="40" data-permalink="https://misreading.chat/favicon/" data-orig-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg" data-orig-size="512,512" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="favicon" data-image-description="" data-image-caption="" data-medium-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=300" data-large-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=512" class="  wp-image-40 alignright" src="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg" alt="favicon" width="107" height="107" srcset="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=107&amp;h=107 107w, https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=214&amp;h=214 214w, https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=150&amp;h=150 150w" sizes="(max-width: 107px) 85vw, 107px" />森田</a>が紹介するのは deep learning 向けの DST と JIT コンパイラ Tensor Comprensions. <a href="http://twitter.com/jmuk">向井</a>が紹介するのはプログラミング言語 Rust のメモリ安全性に関する形式的証明に挑む Rust Belt です。</p>
+										<content:encoded><![CDATA[<p><a href="http://twitter.com/omo2009"><img data-attachment-id="40" data-permalink="https://misreading.chat/favicon/" data-orig-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg" data-orig-size="512,512" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="favicon" data-image-description="" data-image-caption="" data-medium-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=300" data-large-file="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=512" class="  wp-image-40 alignright" src="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg" alt="favicon" width="107" height="107" srcset="https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=107&amp;h=107 107w, https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=214&amp;h=214 214w, https://misreadingchat.files.wordpress.com/2018/03/favicon.jpg?w=150&amp;h=150 150w" sizes="(max-width: 107px) 85vw, 107px" />森田</a>が紹介するのは deep learning 向けの DST と JIT コンパイラ Tensor Comprensions. <a href="http://twitter.com/jmuk">向井</a>が紹介するのはプログラミング言語 Rust のメモリ安全性に関する形式的証明に挑む Rust Belt です。</p>
 <p><audio class="wp-audio-shortcode" id="audio-9-80" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://misreadingchat.files.wordpress.com/2018/07/ep01.mp3?_=80" /><a href="https://misreadingchat.files.wordpress.com/2018/07/ep01.mp3">https://misreadingchat.files.wordpress.com/2018/07/ep01.mp3</a></audio></p>
 <p>Tensor Comprehensions:</p>
 <ul>
@@ -5373,7 +5960,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:description>ML 向け JIT Compiler と Rust の安全性証明のはなし。</googleplay:description>
 <itunes:subtitle>ML 向け JIT Compiler と Rust の安全性証明のはなし。</itunes:subtitle>
 
-		<media:content url="https://1.gravatar.com/avatar/783f7d008fe6b043ae81203941052c1d?s=96&#38;d=identicon&#38;r=G" medium="image">
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
 			<media:title type="html">morrita2016</media:title>
 		</media:content>
 
