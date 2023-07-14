@@ -11,8 +11,8 @@ on:
   pull_request:
     branches: ["main"]
   schedule:
-    # 毎時30分前後に実行
-    - cron: "30 * * * *"
+    # 毎日3時間おきに実行
+    - cron: "0 */3 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

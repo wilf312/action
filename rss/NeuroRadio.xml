@@ -11,7 +11,7 @@
 			<link>https://neuroradio.tokyo</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 10 Jul 2023 13:30:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2023 02:30:07 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/4ddf5488/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[NeuroRadio]]></author>
 		<copyright><![CDATA[NeuroRadio]]></copyright>
@@ -31,6 +31,226 @@
 			<itunes:category text="Life Sciences"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+		<item>
+			<title><![CDATA[#59 Minds Meet Weeds - Part 1]]></title>
+			<description><![CDATA[<p>Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(<a href="https://twitter.com/nobolly">@nobolly</a>, <a href="https://twitter.com/tnobo_ktcs">@tnobo_ktcs</a>)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)</p>
+<p><br></p>
+<p>Show Notes (<a href="http://neuroradio.tokyo/2023/07/10/59-minds-meet-weeds-part-1/" target="_blank" rel="noopener noreferer">番組HP</a>):</p>
+<ul>
+ <li><a href="https://www.tatsuyanobori.com/">登さんHP</a></li>
+ <li>NRのトランスクリプトーム回<a href="http://neuroradio.tokyo/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/"> EP4</a><a href="http://neuroradio.tokyo/2021/03/30/5-mapping-the-spatial-transcriptomics/"> EP5</a></li>
+  <li><a href="https://ecker.salk.edu/">Eckerラボ</a></li>
+  <li>オンライントーク<a href="https://youtu.be/CEfU8nJK-V4"> その１</a><a href="https://youtu.be/gll7sc0ashI"> その２</a><a href="https://youtu.be/i9Lk_mAyShU"> その３</a> (おすすめby登)</li>
+  <li><a href="http://www.plantimmunity.cn/">津田ラボ</a>（現華中農業大学大学）</li>
+  <li><a href="https://twitter.com/KenichiTsuda4">津田先生</a></li>
+  <li><a href="https://webpark1571.sakura.ne.jp/radioplantphys/">放射線植物生理学研究室</a></li>
+  <li>セシウム蓄積に関する研究<a href="https://www.tandfonline.com/doi/full/10.1080/00380768.2014.947617"> その１</a><a href="https://link.springer.com/article/10.1007/s10967-015-4466-x"> その２</a> <a href="https://www.jstage.jst.go.jp/article/dojo/84/3/84_KJ00009157130/_article/-char/ja/">その３</a></li>
+  <li><a href="https://jp.ambafrance.org/bgf">フランス政府の給費留学</a></li>
+  <li><a href="https://www.cite-des-energies.fr/en/home/">留学したフランス原子力庁のラボ</a></li>
+  <li><a href="https://www.mpipz.mpg.de/en">Max-Planck Institute for Plant Breeding Research</a></li>
+  <li><a href="https://www.tripadvisor.com/Tourism-g187371-Cologne_North_Rhine_Westphalia-Vacations.html">Köln (Cologne)</a></li>
+  <li><a href="https://beergirl.net/beerchara/chara18/">ケルシュ</a></li>
+  <li>PhD時代の植物-微生物相互作用三部作その１：<a href="https://www.pnas.org/doi/abs/10.1073/pnas.1800529115">植物免疫による微生物への影響、RNA版</a></li>
+  <li>登さんによる植物の免疫系に関するレビュー<a href="https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13071"> その1</a><a href="https://www.sciencedirect.com/science/article/pii/S1369526618301018"> その2</a></li>
+  <li><a href="https://www.illumina.com/products/by-type/accessory-products/ribo-zero-plus-rrna-depletion.html">IlluminaのRibo-Zero</a> (ディスコン：植物用のものが製造終了)</li>
+  <li><a href="https://www.naro.affrc.go.jp/archive/flower/kakibyo/plant_search/ka/gerbera/post_524.html">根腐病</a></li>
+  <li>PhD三部作その２：<a href="https://www.nature.com/articles/s41477-020-0690-7">Multi-omics版</a></li>
+  <li>PhD三部作その３：<a href="https://www.embopress.org/doi/full/10.15252/embr.202255380">異なる微生物への植物の応答と、微生物への影響の違い</a></li>
+  <li><a href="https://www.nature.com/articles/nature16192">野性のシロイヌナズナから単離した微生物のコレクション</a></li>
+  <li><a href="https://www.nature.com/articles/nature16192">植物と動物のマイクロバイオーム</a></li>
+  <li><a href="https://www.nature.com/articles/s41579-022-00745-6">鉄（栄養）を使った免疫</a></li>
+  <li><a href="https://bio.libretexts.org/Bookshelves/Botany/A_Photographic_Atlas_for_Botany_%28Morrow%29/13%3A_Leaves/13.03%3A_Eudicot_Leaves/13.3.01%3A_Adaptations_to_Water_Availability">葉っぱは疎</a></li>
+  <li><a href="https://micro.magnet.fsu.edu/cells/plants/cellwall.html">細胞壁</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Type_III_secretion_system">III型分泌装置</a></li>
+  <li><a href="https://www.nature.com/articles/nrmicro2990">植物の共生</a></li>
+  <li><a href="https://lab-management.embo.org/dates#group-leaders">EMBOの新米PI用ワークショップ</a></li>
+  <li>Eckerラボから<a href="https://www.science.org/doi/full/10.1126/science.aan3351">マウス脳でsingle nucleusメチローム、Science 2017</a></li>
+  <li><a href="https://twitter.com/tnobo_ktcs/status/1148695411974008832?s=20">ポスドク応募時に書いたメールについて</a></li>
+  <li>脳メチローム <a href="https://www.nature.com/articles/s41586-020-03182-8">その１</a> <a href="https://www.nature.com/articles/s41586-021-03223-w">その２</a><a href="https://www.biorxiv.org/content/10.1101/2022.11.30.518285.abstract">その3 </a><a href="https://www.biorxiv.org/content/10.1101/2023.04.16.536509v1">その4</a> <a href="https://www.biorxiv.org/content/10.1101/2023.05.01.538832v1.abstract">その5 </a>他多数</li>
+  <li>UPennでやったエチレン研究 <a href="https://www.cell.com/cell/pdf/0092-8674(93)90119-B.pdf">その１</a> <a href="https://www.science.org/doi/abs/10.1126/science.284.5423.2148">その２</a> <a href="https://www.cell.com/fulltext/S0092-8674(00)80300-1">その３</a> 他多数</li>
+  <li><a href="https://www.nature.com/articles/35048692">シロイヌナズナ全ゲノム解読論文</a></li>
+  <li><a href="https://www.affymetrix.com/support/technical/other/amb_ecker_v3iss2.pdf">植物へのMicroarray</a></li>
+  <li><a href="https://www.science.org/doi/abs/10.1126/science.1086391">シロイヌナズナのT-DNA変異体ライブラリ、Salk Line</a></li>
+  <li><a href="https://www.pnas.org/doi/10.1073/pnas.0607124104">Eckerキャリアインタビュー（2007年時点</a>）</li>
+  <li><a href="https://www.cell.com/fulltext/S0092-8674(06)01018-X">ゲノムワイドなメチル化アッセイ in 植物</a></li>
+  <li><a href="https://www.nature.com/articles/nature08514">In Human</a></li>
+  <li><a href="https://youtu.be/wLyHGW5m14Y">ENCODEでのJoeのトーク</a></li>
+  <li><a href="https://www.hhmi.org/scientists/joseph-r-ecker">Ecker in HHMI</a></li>
+  <li><a href="https://biccn.org/teams/u19-ecker">Ecker in BICCN</a></li>
+  <li><a href="https://www.salk.edu/news-release/salk-institute-to-lead-126-million-effort-to-map-the-aging-human-brain/">Ecker in BICAN</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Protoplast">プロトプラスト</a></li>
+  <li><a href="https://blogs.getty.edu/iris/inside-the-conservation-work-at-the-salk-institute-louis-i-kahns-masterpiece/">Full ProfessorのStudy</a></li>
+  <li><a href="https://symphony.salk.edu">Salk InstituteでのSymphony</a></li>
+  <li>ポスドク三部作その１：<a href="https://www.biorxiv.org/content/10.1101/2023.03.23.533992v1.abstract">Seed-to-seed single nucleus
+atlas</a></li>
+  <li>ポスドク三部作その２：<a href="https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.abstract">感染時の植物のMulti-omics + MERFISH</a></li>
+  <li>ポスドク三部作その３：<a href="https://www.nature.com/articles/s41477-023-01439-4">PHYTOMap</a></li>
+  <li><a href="http://renlab.sdsc.edu/renlab_website/">Bing Renラボ</a></li>
+  <li>の<a href="https://www.nature.com/articles/s41586-021-03604-1">BICCN論文</a></li>
+  <li>転写物分布だけで細胞のセグメンテーション、<a href="https://www.nature.com/articles/s41587-021-01044-w">先行研究</a></li>
+  <li><a href="https://elifesciences.org/articles/57613">植物の細胞セグメンテーション</a></li>
+  <li><a href="https://vizgen.com/">vizgen</a></li>
+  <li><a href="https://vizgen.com/products/">MERSCOPE</a></li>
+  <li><a href="https://spatial.caltech.edu/seqfish/">SeqFISH</a></li>
+  <li><a href="https://spatial.caltech.edu/">Long Cai</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.abi4882">BacteriaをターゲットにしたSeqFISH</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aat5691">STARMap</a></li>
+  <li><a href="https://www.wangxiaolab.org">Xiao Wang</a></li>
+  <li><a href="http://linnarssonlab.org/">Sten Linnarsson</a>ではなく<a href="https://www.scilifelab.se/researchers/mats-nilsson/">Mats Nilsson</a>でした！</li>
+  <li><a href="https://academic.oup.com/nar/article/49/15/9002/6332814">HybISS</a></li>
+  <li>Sequence-by-ligation、例えば<a href="https://www.youtube.com/watch?v=YLT-DUeaLms&t=318s">これ</a></li>
+  <li><a href="https://youtu.be/fCd6B5HRaZ8">Sequence-by-synthesis</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%9B%E3%83%86%E3%83%AA%E3%82%B7%E3%83%B3B">アムホテリシンB</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aax2656">Expansion Microscopy +
+Spatial Transcriptomicsの仕事</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1250212">FISSEQ</a></li>
+  <li><a href="https://socfell.fas.harvard.edu/about">Harvard Fellow</a></li>
+  <li><a href="https://nanostring.com">NanoString</a></li>
+  <li><a href="https://www.10xgenomics.com">10x Genomics</a></li>
+  <li><a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01339-8">EASI-FISH</a></li>
+  <li><a href="https://www.janelia.org/lab/tillberg-lab">Paul Tillberg</a></li>
+  <li><a href="https://www.nature.com/articles/s41587-022-01455-3">EEL-FISH</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867419310748">各神経の投射をバーコードで標識してSpatial Transcriptomics</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aaw1219">Slide-seq</a></li>
+  <li><a href="https://macoskolab.com/">Evan Macosko</a></li>
+  <li><a href="https://www.insitubiology.org/">Fei Chen</a></li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/2023.04.01.535228v1">Slide-Tags</a></li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/722819v2">INSTA-seq</a></li>
+  <li><a href="https://ultivue.com/leadership/">Je Lee</a> (現Ultivue)</li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867420313908">DBiT-seq</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-019-09982-5">CUT&amp;Tag</a></li>
+  <li>開発した<a href="https://www.fan-lab.org/">Rong Fan</a></li>
+  <li>最近の無双<a href="https://www.nature.com/articles/s41586-022-05094-1"> Spatial ATAC-seq</a>,<a href="https://www.science.org/doi/10.1126/science.abg7216"> Spatial CUT &amp; Tag</a>,<a href="https://www.nature.com/articles/s41587-023-01676-0"> Spatial CITE-seq</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867422013678">Pixel-seq</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0092867422003993">Stereo-seq</a></li>
+  <li><a href="https://www.prnewswire.com/news-releases/10x-genomics-wins-permanent-injunction-against-nanostrings-cosmx-products-301827779.html">最近NanoStringを10xが訴えた</a></li>
+  <li><a href="https://www.tsl.ac.uk/news/new-group-leader-to-join-the-sainsbury-laboratory">登さん新ラボのアナウンスメント from TSL</a></li>
+  <li><a href="https://www.janelia.org/open-science/janelia-fluor-dyes">Janelia Fluor</a></li>
+  <li><a href="https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/materials-science-and-engineering/biosensors-and-imaging/quantum-dots">Quantum Dot</a></li>
+</ul>
+<p>
+Editorial Notes:</p>
+<ul>
+  <li>これまでの短いキャリアを振り返って、月並みですが人・環境に恵まれていたなと感じさせられました。宮脇さん萩原さんともそのうちリアルでお会いしたいです。ケルシュ飲みいきましょう！（登）</li>
+  <li>次会えそうな時は感染症に気をつけます！ (脇)</li>
+  <li>そういえばNanoString本社の隣に住んでます (萩)</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/neuroradio/episodes/59-Minds-Meet-Weeds---Part-1-e26oupt</link>
+			<guid isPermaLink="false">30323f39-e0ac-4b35-ace3-51585ac824d2</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Tue, 11 Jul 2023 01:38:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/73218301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-10%2Fa88e5424-d863-8f9b-4b44-095d6a47fa17.mp3" length="200299214" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(&lt;a href=&quot;https://twitter.com/nobolly&quot;&gt;@nobolly&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/tnobo_ktcs&quot;&gt;@tnobo_ktcs&lt;/a&gt;)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Show Notes (&lt;a href=&quot;http://neuroradio.tokyo/2023/07/10/59-minds-meet-weeds-part-1/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;番組HP&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.tatsuyanobori.com/&quot;&gt;登さんHP&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;NRのトランスクリプトーム回&lt;a href=&quot;http://neuroradio.tokyo/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/&quot;&gt; EP4&lt;/a&gt;&lt;a href=&quot;http://neuroradio.tokyo/2021/03/30/5-mapping-the-spatial-transcriptomics/&quot;&gt; EP5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ecker.salk.edu/&quot;&gt;Eckerラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;オンライントーク&lt;a href=&quot;https://youtu.be/CEfU8nJK-V4&quot;&gt; その１&lt;/a&gt;&lt;a href=&quot;https://youtu.be/gll7sc0ashI&quot;&gt; その２&lt;/a&gt;&lt;a href=&quot;https://youtu.be/i9Lk_mAyShU&quot;&gt; その３&lt;/a&gt; (おすすめby登)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.plantimmunity.cn/&quot;&gt;津田ラボ&lt;/a&gt;（現華中農業大学大学）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/KenichiTsuda4&quot;&gt;津田先生&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webpark1571.sakura.ne.jp/radioplantphys/&quot;&gt;放射線植物生理学研究室&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;セシウム蓄積に関する研究&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/00380768.2014.947617&quot;&gt; その１&lt;/a&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s10967-015-4466-x&quot;&gt; その２&lt;/a&gt; &lt;a href=&quot;https://www.jstage.jst.go.jp/article/dojo/84/3/84_KJ00009157130/_article/-char/ja/&quot;&gt;その３&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.ambafrance.org/bgf&quot;&gt;フランス政府の給費留学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cite-des-energies.fr/en/home/&quot;&gt;留学したフランス原子力庁のラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mpipz.mpg.de/en&quot;&gt;Max-Planck Institute for Plant Breeding Research&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tripadvisor.com/Tourism-g187371-Cologne_North_Rhine_Westphalia-Vacations.html&quot;&gt;Köln (Cologne)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beergirl.net/beerchara/chara18/&quot;&gt;ケルシュ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PhD時代の植物-微生物相互作用三部作その１：&lt;a href=&quot;https://www.pnas.org/doi/abs/10.1073/pnas.1800529115&quot;&gt;植物免疫による微生物への影響、RNA版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;登さんによる植物の免疫系に関するレビュー&lt;a href=&quot;https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13071&quot;&gt; その1&lt;/a&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1369526618301018&quot;&gt; その2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.illumina.com/products/by-type/accessory-products/ribo-zero-plus-rrna-depletion.html&quot;&gt;IlluminaのRibo-Zero&lt;/a&gt; (ディスコン：植物用のものが製造終了)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.naro.affrc.go.jp/archive/flower/kakibyo/plant_search/ka/gerbera/post_524.html&quot;&gt;根腐病&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PhD三部作その２：&lt;a href=&quot;https://www.nature.com/articles/s41477-020-0690-7&quot;&gt;Multi-omics版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PhD三部作その３：&lt;a href=&quot;https://www.embopress.org/doi/full/10.15252/embr.202255380&quot;&gt;異なる微生物への植物の応答と、微生物への影響の違い&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature16192&quot;&gt;野性のシロイヌナズナから単離した微生物のコレクション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature16192&quot;&gt;植物と動物のマイクロバイオーム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41579-022-00745-6&quot;&gt;鉄（栄養）を使った免疫&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bio.libretexts.org/Bookshelves/Botany/A_Photographic_Atlas_for_Botany_%28Morrow%29/13%3A_Leaves/13.03%3A_Eudicot_Leaves/13.3.01%3A_Adaptations_to_Water_Availability&quot;&gt;葉っぱは疎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://micro.magnet.fsu.edu/cells/plants/cellwall.html&quot;&gt;細胞壁&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Type_III_secretion_system&quot;&gt;III型分泌装置&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nrmicro2990&quot;&gt;植物の共生&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lab-management.embo.org/dates#group-leaders&quot;&gt;EMBOの新米PI用ワークショップ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Eckerラボから&lt;a href=&quot;https://www.science.org/doi/full/10.1126/science.aan3351&quot;&gt;マウス脳でsingle nucleusメチローム、Science 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/tnobo_ktcs/status/1148695411974008832?s=20&quot;&gt;ポスドク応募時に書いたメールについて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;脳メチローム &lt;a href=&quot;https://www.nature.com/articles/s41586-020-03182-8&quot;&gt;その１&lt;/a&gt; &lt;a href=&quot;https://www.nature.com/articles/s41586-021-03223-w&quot;&gt;その２&lt;/a&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2022.11.30.518285.abstract&quot;&gt;その3 &lt;/a&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.04.16.536509v1&quot;&gt;その4&lt;/a&gt; &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.05.01.538832v1.abstract&quot;&gt;その5 &lt;/a&gt;他多数&lt;/li&gt;
+  &lt;li&gt;UPennでやったエチレン研究 &lt;a href=&quot;https://www.cell.com/cell/pdf/0092-8674(93)90119-B.pdf&quot;&gt;その１&lt;/a&gt; &lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.284.5423.2148&quot;&gt;その２&lt;/a&gt; &lt;a href=&quot;https://www.cell.com/fulltext/S0092-8674(00)80300-1&quot;&gt;その３&lt;/a&gt; 他多数&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/35048692&quot;&gt;シロイヌナズナ全ゲノム解読論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.affymetrix.com/support/technical/other/amb_ecker_v3iss2.pdf&quot;&gt;植物へのMicroarray&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.1086391&quot;&gt;シロイヌナズナのT-DNA変異体ライブラリ、Salk Line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.0607124104&quot;&gt;Eckerキャリアインタビュー（2007年時点&lt;/a&gt;）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/fulltext/S0092-8674(06)01018-X&quot;&gt;ゲノムワイドなメチル化アッセイ in 植物&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature08514&quot;&gt;In Human&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/wLyHGW5m14Y&quot;&gt;ENCODEでのJoeのトーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hhmi.org/scientists/joseph-r-ecker&quot;&gt;Ecker in HHMI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://biccn.org/teams/u19-ecker&quot;&gt;Ecker in BICCN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.salk.edu/news-release/salk-institute-to-lead-126-million-effort-to-map-the-aging-human-brain/&quot;&gt;Ecker in BICAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Protoplast&quot;&gt;プロトプラスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.getty.edu/iris/inside-the-conservation-work-at-the-salk-institute-louis-i-kahns-masterpiece/&quot;&gt;Full ProfessorのStudy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://symphony.salk.edu&quot;&gt;Salk InstituteでのSymphony&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ポスドク三部作その１：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.03.23.533992v1.abstract&quot;&gt;Seed-to-seed single nucleus
+atlas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ポスドク三部作その２：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.abstract&quot;&gt;感染時の植物のMulti-omics + MERFISH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ポスドク三部作その３：&lt;a href=&quot;https://www.nature.com/articles/s41477-023-01439-4&quot;&gt;PHYTOMap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://renlab.sdsc.edu/renlab_website/&quot;&gt;Bing Renラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の&lt;a href=&quot;https://www.nature.com/articles/s41586-021-03604-1&quot;&gt;BICCN論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;転写物分布だけで細胞のセグメンテーション、&lt;a href=&quot;https://www.nature.com/articles/s41587-021-01044-w&quot;&gt;先行研究&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elifesciences.org/articles/57613&quot;&gt;植物の細胞セグメンテーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vizgen.com/&quot;&gt;vizgen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vizgen.com/products/&quot;&gt;MERSCOPE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spatial.caltech.edu/seqfish/&quot;&gt;SeqFISH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spatial.caltech.edu/&quot;&gt;Long Cai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abi4882&quot;&gt;BacteriaをターゲットにしたSeqFISH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aat5691&quot;&gt;STARMap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wangxiaolab.org&quot;&gt;Xiao Wang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://linnarssonlab.org/&quot;&gt;Sten Linnarsson&lt;/a&gt;ではなく&lt;a href=&quot;https://www.scilifelab.se/researchers/mats-nilsson/&quot;&gt;Mats Nilsson&lt;/a&gt;でした！&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academic.oup.com/nar/article/49/15/9002/6332814&quot;&gt;HybISS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sequence-by-ligation、例えば&lt;a href=&quot;https://www.youtube.com/watch?v=YLT-DUeaLms&amp;t=318s&quot;&gt;これ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/fCd6B5HRaZ8&quot;&gt;Sequence-by-synthesis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%9B%E3%83%86%E3%83%AA%E3%82%B7%E3%83%B3B&quot;&gt;アムホテリシンB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aax2656&quot;&gt;Expansion Microscopy +
+Spatial Transcriptomicsの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1250212&quot;&gt;FISSEQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://socfell.fas.harvard.edu/about&quot;&gt;Harvard Fellow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nanostring.com&quot;&gt;NanoString&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.10xgenomics.com&quot;&gt;10x Genomics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/cell/fulltext/S0092-8674(21)01339-8&quot;&gt;EASI-FISH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.janelia.org/lab/tillberg-lab&quot;&gt;Paul Tillberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41587-022-01455-3&quot;&gt;EEL-FISH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867419310748&quot;&gt;各神経の投射をバーコードで標識してSpatial Transcriptomics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aaw1219&quot;&gt;Slide-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macoskolab.com/&quot;&gt;Evan Macosko&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.insitubiology.org/&quot;&gt;Fei Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.04.01.535228v1&quot;&gt;Slide-Tags&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/722819v2&quot;&gt;INSTA-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ultivue.com/leadership/&quot;&gt;Je Lee&lt;/a&gt; (現Ultivue)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867420313908&quot;&gt;DBiT-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-019-09982-5&quot;&gt;CUT&amp;amp;Tag&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;開発した&lt;a href=&quot;https://www.fan-lab.org/&quot;&gt;Rong Fan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;最近の無双&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05094-1&quot;&gt; Spatial ATAC-seq&lt;/a&gt;,&lt;a href=&quot;https://www.science.org/doi/10.1126/science.abg7216&quot;&gt; Spatial CUT &amp;amp; Tag&lt;/a&gt;,&lt;a href=&quot;https://www.nature.com/articles/s41587-023-01676-0&quot;&gt; Spatial CITE-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867422013678&quot;&gt;Pixel-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0092867422003993&quot;&gt;Stereo-seq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/10x-genomics-wins-permanent-injunction-against-nanostrings-cosmx-products-301827779.html&quot;&gt;最近NanoStringを10xが訴えた&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tsl.ac.uk/news/new-group-leader-to-join-the-sainsbury-laboratory&quot;&gt;登さん新ラボのアナウンスメント from TSL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.janelia.org/open-science/janelia-fluor-dyes&quot;&gt;Janelia Fluor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/materials-science-and-engineering/biosensors-and-imaging/quantum-dots&quot;&gt;Quantum Dot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;これまでの短いキャリアを振り返って、月並みですが人・環境に恵まれていたなと感じさせられました。宮脇さん萩原さんともそのうちリアルでお会いしたいです。ケルシュ飲みいきましょう！（登）&lt;/li&gt;
+  &lt;li&gt;次会えそうな時は感染症に気をつけます！ (脇)&lt;/li&gt;
+  &lt;li&gt;そういえばNanoString本社の隣に住んでます (萩)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:46:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#58 Not necessarily necessary]]></title>
 			<description><![CDATA[<p>ラボマネ・プロマネ事情、クラウドでのデータ管理・解析、マウス/キーボード談義。論文紹介は、AAV搭載可能な最小プロモーター、AAVのBBB通過に関与する受容体の同定、高所恐怖症の回路、嗅内皮質活動の回転対称性の変化、必要十分の不必要性、について (6/25収録)
