@@ -98,7 +98,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "エンジニアと人生",
     hash: "エンジニアと人生",
-    url: "https://pitpa.jp/rss/shu223",
+    url: "https://rss.art19.com/shu223",
   },
 
   {
@@ -174,12 +174,6 @@ export const urlList: UrlListItem[] = [
   },
 
   {
-    name: "J-WAVE TOPPAN INNOVATION WORLD ERA",
-    hash: "era813",
-    url: "https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/",
-  },
-
-  {
     name: "omoiyari.fm (lean-agile podcast)",
     hash: "omoiyarifm",
     url: "http://feeds.feedburner.com/omoiyarifm/",
@@ -213,12 +207,6 @@ export const urlList: UrlListItem[] = [
     name: "セキュリティのアレ",
     hash: "セキュリティのアレ",
     url: "https://www.tsujileaks.com/?feed=podcast",
-  },
-
-  {
-    name: "46fm",
-    hash: "46fm",
-    url: "http://46fm.seike460.com/rss.xml",
   },
 
   {
@@ -366,12 +354,6 @@ export const urlList: UrlListItem[] = [
   },
 
   {
-    name: "ポッドキャスト Export",
-    hash: "exportfm",
-    url: "https://export.fm/feed",
-  },
-
-  {
     name: "田舎.fm",
     hash: "田舎fm",
     url: "https://komatatsu.github.io/inaka-fm/feed.xml",
@@ -387,30 +369,6 @@ export const urlList: UrlListItem[] = [
     name: "soussune - エンジニアわいわいポッドキャスト「そうっすね」",
     hash: "soussune",
     url: "https://soussune.com/feed.xml",
-  },
-
-  {
-    name: "Kubernetes Podcast from Google",
-    hash: "Kubernetes_Podcast_from_Google",
-    url: "https://kubernetespodcast.com/feeds/audio.xml",
-  },
-
-  {
-    name: "Google Cloud Platform Podcast",
-    hash: "Google_Cloud_Platform_Podcast",
-    url: "https://googlecloudpodcast.libsyn.com/rss",
-  },
-
-  {
-    name: "React Podcast",
-    hash: "React_Podcast",
-    url: "https://feeds.simplecast.com/JoR28o79",
-  },
-
-  {
-    name: "Turing Complete FM",
-    hash: "tcfm",
-    url: "https://feeds.turingcomplete.fm/tcfm",
   },
 
   {
@@ -492,12 +450,6 @@ export const urlList: UrlListItem[] = [
   },
 
   {
-    name: "dex.fm",
-    hash: "dexfm",
-    url: "https://dexfm.tumblr.com/rss",
-  },
-
-  {
     name: "#strobofm",
     hash: "strobofm",
     url: "https://feeds.feedburner.com/strobofm",
@@ -562,6 +514,53 @@ export const urlList: UrlListItem[] = [
     hash: "managementstudio",
     url: "https://anchor.fm/s/aef72d04/podcast/rss",
   },
+  {
+    name: "ポッドキャスト Export",
+    hash: "exportfm",
+    url: "https://export.fm/feed",
+  },
+  {
+    name: "Google Cloud Platform Podcast",
+    hash: "Google_Cloud_Platform_Podcast",
+    url: "https://googlecloudpodcast.libsyn.com/rss",
+  },
+
+  {
+    name: "React Podcast",
+    hash: "React_Podcast",
+    url: "https://feeds.simplecast.com/JoR28o79",
+  },
+
+  {
+    name: "Turing Complete FM",
+    hash: "tcfm",
+    url: "https://feeds.turingcomplete.fm/tcfm",
+  },
+
+
+  // TODO: サムネが取れない
+  // {
+  //   name: "J-WAVE TOPPAN INNOVATION WORLD ERA",
+  //   hash: "era813",
+  //   url: "https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/",
+  // },
+
+  // {
+  //   name: "46fm",
+  //   hash: "46fm",
+  //   url: "http://46fm.seike460.com/rss.xml",
+  // },
+  // {
+  //   name: "Kubernetes Podcast from Google",
+  //   hash: "Kubernetes_Podcast_from_Google",
+  //   url: "https://kubernetespodcast.com/feeds/audio.xml",
+  // },
+
+  // {
+  //   name: "dex.fm",
+  //   hash: "dexfm",
+  //   url: "https://dexfm.tumblr.com/rss",
+  // },
 ];
 
 /**
