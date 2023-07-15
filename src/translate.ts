@@ -1,6 +1,9 @@
 import { getEncodedUrl } from "./config.ts";
-import { writePodcastJSON } from "./write.ts";
+import { writePodcastJSON, writeNewPodcastJSON } from "./write.ts";
 import * as xml from "https://deno.land/x/xml@2.0.4/mod.ts";
+
+export type NewItem = { hash: string; latestId: string };
+const newList: NewItem[] = [];
 
 const output = async (item) => {
   // xmlの読み込み
@@ -33,6 +36,18 @@ const output = async (item) => {
     delete json["lastBuildDate"];
   }
 
+  const latestEpisode = json.item[0];
+  const guid =
+    typeof latestEpisode.guid === "string"
+      ? latestEpisode.guid
+      : latestEpisode.guid["#text"];
+
+  // 新しいエピソードをnewListに登録する
+  newList.push({
+    hash: item.hash,
+    latestId: guid,
+  });
+
   await writePodcastJSON(item.hashEncoded, json);
 };
 
@@ -46,6 +61,10 @@ const main = async () => {
   }
 
   await Promise.allSettled(writePromiseList);
+
+  await writeNewPodcastJSON(newList);
+
+  console.log(`\n\n\終了\n\n`);
 };
 
 main();

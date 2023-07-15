@@ -1,4 +1,5 @@
 import type { UrlListItem } from "./config.ts";
+import type { NewItem } from "./translate.ts";
 
 /**
  * url_list.jsonの書き出し
@@ -51,3 +52,18 @@ export const writeLocalShellScript = (actionText: string) => {
 export const writePodcastXML = (hashEncoded: string, xmlString: string) => {
   return Deno.writeTextFile(`./rss/${hashEncoded}.xml`, xmlString);
 };
+
+
+
+/**
+ * new_list.jsonの書き出し
+ * @param urlList
+ * @returns
+ */
+export const writeNewPodcastJSON = (newList: NewItem[]) => {
+  return Deno.writeTextFile(
+    "./json/new_list.json",
+    JSON.stringify(newList, null, 2)
+  );
+};
+
