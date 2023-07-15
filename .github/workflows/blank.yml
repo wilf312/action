@@ -256,8 +256,8 @@ jobs:
           curl https://anchor.fm/s/bf3149c/podcast/rss --compressed > rss/ThePotluck.xml
 
           # fukabori.fm
-          echo 'https://pitpa.jp/rss/fukabori'
-          curl https://pitpa.jp/rss/fukabori --compressed > rss/fukabori.xml
+          echo 'https://rss.art19.com/fukabori'
+          curl https://rss.art19.com/fukabori --compressed > rss/fukabori.xml
 
           # ごりゅごcast
           echo 'https://anchor.fm/s/2e56f6c/podcast/rss'

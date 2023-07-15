@@ -326,7 +326,7 @@ export const urlList: UrlListItem[] = [
   {
     name: "fukabori.fm",
     hash: "fukabori",
-    url: "https://pitpa.jp/rss/fukabori",
+    url: "https://rss.art19.com/fukabori",
   },
 
   {
