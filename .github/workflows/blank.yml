@@ -107,8 +107,8 @@ jobs:
           curl https://anchor.fm/s/57a9101c/podcast/rss --compressed > rss/%E8%B6%85%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96.xml
 
           # エンジニアと人生
-          echo 'https://pitpa.jp/rss/shu223'
-          curl https://pitpa.jp/rss/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
+          echo 'https://rss.art19.com/shu223'
+          curl https://rss.art19.com/shu223 --compressed > rss/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F.xml
 
           # Wantedly Engineering Podcast
           echo 'https://anchor.fm/s/64205bfc/podcast/rss'
@@ -158,10 +158,6 @@ jobs:
           echo 'https://anchor.fm/s/2631f634/podcast/rss'
           curl https://anchor.fm/s/2631f634/podcast/rss --compressed > rss/%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2.xml
 
-          # J-WAVE TOPPAN INNOVATION WORLD ERA
-          echo 'https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/'
-          curl https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/ --compressed > rss/era813.xml
-
           # omoiyari.fm (lean-agile podcast)
           echo 'http://feeds.feedburner.com/omoiyarifm/'
           curl http://feeds.feedburner.com/omoiyarifm/ --compressed > rss/omoiyarifm.xml
@@ -185,10 +181,6 @@ jobs:
           # セキュリティのアレ
           echo 'https://www.tsujileaks.com/?feed=podcast'
           curl https://www.tsujileaks.com/?feed=podcast --compressed > rss/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC.xml
-
-          # 46fm
-          echo 'http://46fm.seike460.com/rss.xml'
-          curl http://46fm.seike460.com/rss.xml --compressed > rss/46fm.xml
 
           # jamming.fm
           echo 'https://anchor.fm/s/6c008db0/podcast/rss'
@@ -283,10 +275,6 @@ jobs:
           echo 'https://anchor.fm/s/3c1b4ec8/podcast/rss'
           curl https://anchor.fm/s/3c1b4ec8/podcast/rss --compressed > rss/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E8%8B%B1%E8%AA%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%EF%BC%81%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88.xml
 
-          # ポッドキャスト Export
-          echo 'https://export.fm/feed'
-          curl https://export.fm/feed --compressed > rss/exportfm.xml
-
           # 田舎.fm
           echo 'https://komatatsu.github.io/inaka-fm/feed.xml'
           curl https://komatatsu.github.io/inaka-fm/feed.xml --compressed > rss/%E7%94%B0%E8%88%8Efm.xml
@@ -298,22 +286,6 @@ jobs:
           # soussune - エンジニアわいわいポッドキャスト「そうっすね」
           echo 'https://soussune.com/feed.xml'
           curl https://soussune.com/feed.xml --compressed > rss/soussune.xml
-
-          # Kubernetes Podcast from Google
-          echo 'https://kubernetespodcast.com/feeds/audio.xml'
-          curl https://kubernetespodcast.com/feeds/audio.xml --compressed > rss/Kubernetes_Podcast_from_Google.xml
-
-          # Google Cloud Platform Podcast
-          echo 'https://googlecloudpodcast.libsyn.com/rss'
-          curl https://googlecloudpodcast.libsyn.com/rss --compressed > rss/Google_Cloud_Platform_Podcast.xml
-
-          # React Podcast
-          echo 'https://feeds.simplecast.com/JoR28o79'
-          curl https://feeds.simplecast.com/JoR28o79 --compressed > rss/React_Podcast.xml
-
-          # Turing Complete FM
-          echo 'https://feeds.turingcomplete.fm/tcfm'
-          curl https://feeds.turingcomplete.fm/tcfm --compressed > rss/tcfm.xml
 
           # Misreading Chat
           echo 'https://misreading.chat/category/episodes/feed/'
@@ -364,10 +336,6 @@ jobs:
           echo 'https://mosa.fm/feed.xml'
           curl https://mosa.fm/feed.xml --compressed > rss/mosafm.xml
 
-          # dex.fm
-          echo 'https://dexfm.tumblr.com/rss'
-          curl https://dexfm.tumblr.com/rss --compressed > rss/dexfm.xml
-
           # #strobofm
           echo 'https://feeds.feedburner.com/strobofm'
           curl https://feeds.feedburner.com/strobofm --compressed > rss/strobofm.xml
@@ -405,6 +373,22 @@ jobs:
           # MANAGEMENT STUDIO
           echo 'https://anchor.fm/s/aef72d04/podcast/rss'
           curl https://anchor.fm/s/aef72d04/podcast/rss --compressed > rss/managementstudio.xml
+
+          # ポッドキャスト Export
+          echo 'https://export.fm/feed'
+          curl https://export.fm/feed --compressed > rss/exportfm.xml
+
+          # Google Cloud Platform Podcast
+          echo 'https://googlecloudpodcast.libsyn.com/rss'
+          curl https://googlecloudpodcast.libsyn.com/rss --compressed > rss/Google_Cloud_Platform_Podcast.xml
+
+          # React Podcast
+          echo 'https://feeds.simplecast.com/JoR28o79'
+          curl https://feeds.simplecast.com/JoR28o79 --compressed > rss/React_Podcast.xml
+
+          # Turing Complete FM
+          echo 'https://feeds.turingcomplete.fm/tcfm'
+          curl https://feeds.turingcomplete.fm/tcfm --compressed > rss/tcfm.xml
 
 
           # 書き出したxmlをJSONに変換

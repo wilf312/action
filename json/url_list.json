@@ -86,7 +86,7 @@
   {
     "name": "エンジニアと人生",
     "hash": "エンジニアと人生",
-    "url": "https://pitpa.jp/rss/shu223",
+    "url": "https://rss.art19.com/shu223",
     "hashEncoded": "%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E4%BA%BA%E7%94%9F"
   },
   {
@@ -162,12 +162,6 @@
     "hashEncoded": "%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2"
   },
   {
-    "name": "J-WAVE TOPPAN INNOVATION WORLD ERA",
-    "hash": "era813",
-    "url": "https://feeds.sonicbowl.cloud/rss/901233053125/5b61db6f-925a-42cb-b1bb-e54f185b19ab/",
-    "hashEncoded": "era813"
-  },
-  {
     "name": "omoiyari.fm (lean-agile podcast)",
     "hash": "omoiyarifm",
     "url": "http://feeds.feedburner.com/omoiyarifm/",
@@ -202,12 +196,6 @@
     "hash": "セキュリティのアレ",
     "url": "https://www.tsujileaks.com/?feed=podcast",
     "hashEncoded": "%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC"
-  },
-  {
-    "name": "46fm",
-    "hash": "46fm",
-    "url": "http://46fm.seike460.com/rss.xml",
-    "hashEncoded": "46fm"
   },
   {
     "name": "jamming.fm",
@@ -354,12 +342,6 @@
     "hashEncoded": "%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E8%8B%B1%E8%AA%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%EF%BC%81%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88"
   },
   {
-    "name": "ポッドキャスト Export",
-    "hash": "exportfm",
-    "url": "https://export.fm/feed",
-    "hashEncoded": "exportfm"
-  },
-  {
     "name": "田舎.fm",
     "hash": "田舎fm",
     "url": "https://komatatsu.github.io/inaka-fm/feed.xml",
@@ -376,30 +358,6 @@
     "hash": "soussune",
     "url": "https://soussune.com/feed.xml",
     "hashEncoded": "soussune"
-  },
-  {
-    "name": "Kubernetes Podcast from Google",
-    "hash": "Kubernetes_Podcast_from_Google",
-    "url": "https://kubernetespodcast.com/feeds/audio.xml",
-    "hashEncoded": "Kubernetes_Podcast_from_Google"
-  },
-  {
-    "name": "Google Cloud Platform Podcast",
-    "hash": "Google_Cloud_Platform_Podcast",
-    "url": "https://googlecloudpodcast.libsyn.com/rss",
-    "hashEncoded": "Google_Cloud_Platform_Podcast"
-  },
-  {
-    "name": "React Podcast",
-    "hash": "React_Podcast",
-    "url": "https://feeds.simplecast.com/JoR28o79",
-    "hashEncoded": "React_Podcast"
-  },
-  {
-    "name": "Turing Complete FM",
-    "hash": "tcfm",
-    "url": "https://feeds.turingcomplete.fm/tcfm",
-    "hashEncoded": "tcfm"
   },
   {
     "name": "Misreading Chat",
@@ -480,12 +438,6 @@
     "hashEncoded": "mosafm"
   },
   {
-    "name": "dex.fm",
-    "hash": "dexfm",
-    "url": "https://dexfm.tumblr.com/rss",
-    "hashEncoded": "dexfm"
-  },
-  {
     "name": "#strobofm",
     "hash": "strobofm",
     "url": "https://feeds.feedburner.com/strobofm",
@@ -550,5 +502,29 @@
     "hash": "managementstudio",
     "url": "https://anchor.fm/s/aef72d04/podcast/rss",
     "hashEncoded": "managementstudio"
+  },
+  {
+    "name": "ポッドキャスト Export",
+    "hash": "exportfm",
+    "url": "https://export.fm/feed",
+    "hashEncoded": "exportfm"
+  },
+  {
+    "name": "Google Cloud Platform Podcast",
+    "hash": "Google_Cloud_Platform_Podcast",
+    "url": "https://googlecloudpodcast.libsyn.com/rss",
+    "hashEncoded": "Google_Cloud_Platform_Podcast"
+  },
+  {
+    "name": "React Podcast",
+    "hash": "React_Podcast",
+    "url": "https://feeds.simplecast.com/JoR28o79",
+    "hashEncoded": "React_Podcast"
+  },
+  {
+    "name": "Turing Complete FM",
+    "hash": "tcfm",
+    "url": "https://feeds.turingcomplete.fm/tcfm",
+    "hashEncoded": "tcfm"
   }
 ]
