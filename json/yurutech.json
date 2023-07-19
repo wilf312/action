@@ -1,0 +1,571 @@
+{
+  "title": "ゆるテク",
+  "description": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\n感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 https://forms.gle/ZaxjmXSYSNbihf9k9",
+  "link": "https://podcasters.spotify.com/pod/show/yuru-tech",
+  "image": {
+    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+    "title": "ゆるテク",
+    "link": "https://podcasters.spotify.com/pod/show/yuru-tech"
+  },
+  "generator": "Anchor Podcasts",
+  "atom:link": [
+    {
+      "@href": "https://anchor.fm/s/adf8dcb8/podcast/rss",
+      "@rel": "self",
+      "@type": "application/rss+xml",
+      "#text": null
+    },
+    {
+      "@rel": "hub",
+      "@href": "https://pubsubhubbub.appspot.com/",
+      "#text": null
+    }
+  ],
+  "author": "ゆるテク",
+  "copyright": "ゆるテク",
+  "language": "ja",
+  "itunes:author": "ゆるテク",
+  "itunes:summary": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\n感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 https://forms.gle/ZaxjmXSYSNbihf9k9",
+  "itunes:type": "episodic",
+  "itunes:owner": {
+    "itunes:name": "ゆるテク",
+    "itunes:email": "yurutech@googlegroups.com"
+  },
+  "itunes:explicit": "No",
+  "itunes:category": {
+    "@text": "Technology",
+    "#text": null
+  },
+  "itunes:image": {
+    "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+    "#text": null
+  },
+  "item": [
+    {
+      "title": "#20 Platform Engineeringって聞いたことある？の話",
+      "description": "<p>Platform Engineeringという新しく聞いたキーワードについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Platform Engineering資料 <a href=\"https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai\" target=\"_blank\" rel=\"noopener noreferer\">https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai</a></p>\n<p>・CNCFブログ <a href=\"https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/\" target=\"_blank\" rel=\"noopener noreferer\">https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/</a></p>\n<p>・Platform Engineering Meetup #2 <a href=\"https://platformengineering.connpass.com/event/280339/\" target=\"_blank\" rel=\"noopener noreferer\">https://platformengineering.connpass.com/event/280339/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/20-Platform-Engineering-e2607gq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "084a6433-4612-48d9-bed3-93ea650d8a1c"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 21 Jun 2023 03:11:20 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/72408026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2Fa78ac577-4756-25e5-fcfa-5d8a2427c360.mp3",
+        "@length": 30321792,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Platform Engineeringという新しく聞いたキーワードについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Platform Engineering資料 <a href=\"https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai\" target=\"_blank\" rel=\"noopener noreferer\">https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai</a></p>\n<p>・CNCFブログ <a href=\"https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/\" target=\"_blank\" rel=\"noopener noreferer\">https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/</a></p>\n<p>・Platform Engineering Meetup #2 <a href=\"https://platformengineering.connpass.com/event/280339/\" target=\"_blank\" rel=\"noopener noreferer\">https://platformengineering.connpass.com/event/280339/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#19 チームで働くってどういうこと？の話",
+      "description": "<p>LISTENに登録したこと、チームで働くということについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ゆるテク - LISTEN <a href=\"https://listen.style/p/yuru-tech\">https://listen.style/p/yuru-tech</a></p>\n<p>・Podcast Freaks <a href=\"https://podcastfreaks.com/\">https://podcastfreaks.com/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/19-e24gjn2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c70a126c-3694-407d-be0d-0ac184a7fb10"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Mon, 22 May 2023 22:00:12 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/70847650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-22%2F58410bc7-919e-bd81-0b77-16d6f2ff459d.mp3",
+        "@length": 31504896,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>LISTENに登録したこと、チームで働くということについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ゆるテク - LISTEN <a href=\"https://listen.style/p/yuru-tech\">https://listen.style/p/yuru-tech</a></p>\n<p>・Podcast Freaks <a href=\"https://podcastfreaks.com/\">https://podcastfreaks.com/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:49",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#18 Kubernetes を利用したシステム運用保守に対する気づきの話",
+      "description": "<p>Kubernetes メンテナンスを通じてPodのバランスが変わった感想やOSSライブラリの更新についての思い出を2人で話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・dynatraceのレポート <a href=\"https://www.dynatrace.com/news/blog/kubernetes-in-the-wild-2023/\">https://www.dynatrace.com/news/blog/kubernetes-in-the-wild-2023/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">⁠https://twitter.com/yuru_tech⁠</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">⁠https://twitter.com/junichi_m_⁠</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">⁠https://twitter.com/hacktk</a></p>\n<p>\n\n</p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/18-Kubernetes-e23nq12",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "4557dbb7-0ee7-4e61-814f-008435d6e767"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Tue, 09 May 2023 01:29:36 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/70034914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-9%2Fbc511022-1dd5-5054-b2fc-9493136fb05d.mp3",
+        "@length": 36577920,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Kubernetes メンテナンスを通じてPodのバランスが変わった感想やOSSライブラリの更新についての思い出を2人で話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・dynatraceのレポート <a href=\"https://www.dynatrace.com/news/blog/kubernetes-in-the-wild-2023/\">https://www.dynatrace.com/news/blog/kubernetes-in-the-wild-2023/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">⁠https://twitter.com/yuru_tech⁠</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">⁠https://twitter.com/junichi_m_⁠</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">⁠https://twitter.com/hacktk</a></p>\n<p>\n\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:06",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#17 ふりかえりのアンチパターンの話",
+      "description": "<p>Retrospectives Antipatternsという本を読んでの感想や、2人が今までに見たふりかえりについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Retrospectives Antipatterns <a href=\"https://www.amazon.co.jp/dp/B08F5HC6XH/\">https://www.amazon.co.jp/dp/B08F5HC6XH/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/17-e22sqgf",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "148cca80-81b0-4c17-82e7-abb67bd1a200"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Sun, 23 Apr 2023 22:00:04 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/69150671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-23%2F6249b666-7705-1136-2623-ea8c8b98720c.mp3",
+        "@length": 31744896,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Retrospectives Antipatternsという本を読んでの感想や、2人が今までに見たふりかえりについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Retrospectives Antipatterns <a href=\"https://www.amazon.co.jp/dp/B08F5HC6XH/\">https://www.amazon.co.jp/dp/B08F5HC6XH/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:04",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#16 ドキュメント作るのって難しいよねって話",
+      "description": "<p>ドキュメント作るのって難しいよねって話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ユーザーの問題解決とプロダクトの成功を導く エンジニアのためのドキュメントライティング <a href=\"https://www.amazon.co.jp/dp/4800590833\">⁠https://www.amazon.co.jp/dp/4800590833</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">⁠https://twitter.com/yuru_tech⁠</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">⁠https://twitter.com/junichi_m_⁠</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">⁠https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/16-e225lge",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "fe765f80-b125-4816-85c0-01f3b19abef2"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Tue, 11 Apr 2023 07:37:03 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/68391886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F1d2afce9-724d-fd25-2d56-4e78cbac97e7.mp3",
+        "@length": 20478720,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ドキュメント作るのって難しいよねって話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ユーザーの問題解決とプロダクトの成功を導く エンジニアのためのドキュメントライティング <a href=\"https://www.amazon.co.jp/dp/4800590833\">⁠https://www.amazon.co.jp/dp/4800590833</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">⁠https://twitter.com/yuru_tech⁠</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">⁠https://twitter.com/junichi_m_⁠</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">⁠https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:21:19",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#15 締め切り駆動で本を読んでいる話",
+      "description": "<p>ChatGPT、締め切り駆動で本を読む、朝活などについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ChatGPT | OpenAI <a href=\"https://chat.openai.com/\">https://chat.openai.com/</a></p>\n<p>・Release It! Second Edition <a href=\"https://pragprog.com/titles/mnee2/release-it-second-edition/\">https://pragprog.com/titles/mnee2/release-it-second-edition/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/15-e202mlr",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "85e82e61-406e-495c-9e2f-59070e02f804"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 08 Mar 2023 22:00:15 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/66197627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-8%2Faf4f7bb5-2315-2071-3c54-8f6dd1b512ee.mp3",
+        "@length": 29200896,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ChatGPT、締め切り駆動で本を読む、朝活などについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ChatGPT | OpenAI <a href=\"https://chat.openai.com/\">https://chat.openai.com/</a></p>\n<p>・Release It! Second Edition <a href=\"https://pragprog.com/titles/mnee2/release-it-second-edition/\">https://pragprog.com/titles/mnee2/release-it-second-edition/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:25",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#14 職能横断チームって大切なの？の話",
+      "description": "<p>職能横断チームって本当に大切なんだっけ？について話しました。最後の方に少しだけペアプロの話してます。</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。</p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/14-e1v03hq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6112f5f9-9223-4f8a-aaa3-22f07fe7d992"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 15 Feb 2023 02:56:26 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/65063930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-15%2Fb4d3337a-9af0-f7e1-ffa9-5b8e251d2cd2.mp3",
+        "@length": 32791296,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>職能横断チームって本当に大切なんだっけ？について話しました。最後の方に少しだけペアプロの話してます。</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。</p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:09",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#13 トイルを計測したい話",
+      "description": "<p>インプットの方法、トイルの計測などについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Category: Blog | Cloud Native Computing Foundation <a href=\"https://www.cncf.io/blog/\">https://www.cncf.io/blog/</a></p>\n<p>・SRE WEEKLY <a href=\"https://sreweekly.com/\">https://sreweekly.com/</a></p>\n<p>・Terraform Weekly <a href=\"https://www.weekly.tf/\">https://www.weekly.tf/</a></p>\n<p>・SRE Book Chapter 5 - Eliminating Toil <a href=\"https://sre.google/sre-book/eliminating-toil/\">https://sre.google/sre-book/eliminating-toil/</a></p>\n<p>・Observability for CI/CD pipelines | Technology Radar | Thoughtworks <a href=\"https://www.thoughtworks.com/radar/techniques/observability-for-ci-cd-pipelines\">https://www.thoughtworks.com/radar/techniques/observability-for-ci-cd-pipelines</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/13-e1u92tp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5dea0541-3456-4c91-926b-dd645678d206"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Tue, 31 Jan 2023 14:00:40 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/64309625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-31%2Fbd5778c8-7a2c-0552-4f99-86237fbbe7c0.mp3",
+        "@length": 27297024,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>インプットの方法、トイルの計測などについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Category: Blog | Cloud Native Computing Foundation <a href=\"https://www.cncf.io/blog/\">https://www.cncf.io/blog/</a></p>\n<p>・SRE WEEKLY <a href=\"https://sreweekly.com/\">https://sreweekly.com/</a></p>\n<p>・Terraform Weekly <a href=\"https://www.weekly.tf/\">https://www.weekly.tf/</a></p>\n<p>・SRE Book Chapter 5 - Eliminating Toil <a href=\"https://sre.google/sre-book/eliminating-toil/\">https://sre.google/sre-book/eliminating-toil/</a></p>\n<p>・Observability for CI/CD pipelines | Technology Radar | Thoughtworks <a href=\"https://www.thoughtworks.com/radar/techniques/observability-for-ci-cd-pipelines\">https://www.thoughtworks.com/radar/techniques/observability-for-ci-cd-pipelines</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:26",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#12 継続的デリバリーのソフトウェア工学の話",
+      "description": "<p>書籍「継続的デリバリーのソフトウェア工学」について話しました。</p>\n<p>継続的デリバリーのソフトウェア工学を読んだ感想と、積み本って多いよねって話をしています。</p>\n<p>Links:</p>\n<p>・継続的デリバリーのソフトウェア工学 <a href=\"https://info.honeycomb.io/observability-engineering-oreilly-book-2022\">https://www.amazon.co.jp/dp/4296070363</a></p>\n<p>・LeanとDevOpsの科学 <a href=\"https://www.amazon.co.jp/dp/4295004901\">https://www.amazon.co.jp/dp/4295004901</a></p>\n<p>・チームトポロジー <a href=\"https://www.amazon.co.jp/dp/4820729632\">https://www.amazon.co.jp/dp/4820729632</a></p>\n<p>・エリック・エヴァンスのドメイン駆動設計 <a href=\"https://www.amazon.co.jp/dp/4798121967\">https://www.amazon.co.jp/dp/4798121967</a></p>\n<p>・エクストリームプログラミング <a href=\"https://www.amazon.co.jp/dp/4274217620\">https://www.amazon.co.jp/dp/4274217620</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/12-e1tmurp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9b275b8f-c6d7-4990-a4fb-d16d304f3aee"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Thu, 19 Jan 2023 09:56:46 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/63715641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-19%2F485ba398-ccbe-cdbb-0a4c-3e6f9396d85c.mp3",
+        "@length": 49630848,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>書籍「継続的デリバリーのソフトウェア工学」について話しました。</p>\n<p>継続的デリバリーのソフトウェア工学を読んだ感想と、積み本って多いよねって話をしています。</p>\n<p>Links:</p>\n<p>・継続的デリバリーのソフトウェア工学 <a href=\"https://info.honeycomb.io/observability-engineering-oreilly-book-2022\">https://www.amazon.co.jp/dp/4296070363</a></p>\n<p>・LeanとDevOpsの科学 <a href=\"https://www.amazon.co.jp/dp/4295004901\">https://www.amazon.co.jp/dp/4295004901</a></p>\n<p>・チームトポロジー <a href=\"https://www.amazon.co.jp/dp/4820729632\">https://www.amazon.co.jp/dp/4820729632</a></p>\n<p>・エリック・エヴァンスのドメイン駆動設計 <a href=\"https://www.amazon.co.jp/dp/4798121967\">https://www.amazon.co.jp/dp/4798121967</a></p>\n<p>・エクストリームプログラミング <a href=\"https://www.amazon.co.jp/dp/4274217620\">https://www.amazon.co.jp/dp/4274217620</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:51:41",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#11 2022年に買ってよかったものの話",
+      "description": "<p>2022年に買ってよかったものについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・プロジェクター <a href=\"https://www.amazon.co.jp/dp/B083HXBW14\">https://www.amazon.co.jp/dp/B083HXBW14</a></p>\n<p>・マイクアーム <a href=\"https://www.elgato.com/ja/wave-mic-arm-lp\">https://www.elgato.com/ja/wave-mic-arm-lp</a></p>\n<p>・スマートバンド <a href=\"https://www.amazon.co.jp/dp/B0B3GP8B31\">https://www.amazon.co.jp/dp/B0B3GP8B31</a></p>\n<p>・ダンベル <a href=\"https://www.amazon.co.jp/gp/product/B08V8T3VLW\">https://www.amazon.co.jp/gp/product/B08V8T3VLW</a></p>\n<p>・栞 <a href=\"https://www.amazon.co.jp/dp/B07QPTFX1M\">https://www.amazon.co.jp/dp/B07QPTFX1M</a></p>\n<p>・卓上ヒーター <a href=\"https://item.rakuten.co.jp/moonphase/10069405/\">https://item.rakuten.co.jp/moonphase/10069405/</a></p>\n<p>・継続的デリバリーのソフトウェア工学 <a href=\"https://bookplus.nikkei.com/atcl/catalog/22/12/01/00531/\">https://bookplus.nikkei.com/atcl/catalog/22/12/01/00531/</a></p>\n<p>・オブザーバビリティ・エンジニアリング <a href=\"https://www.amazon.co.jp/dp/4814400128\">https://www.amazon.co.jp/dp/4814400128</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/11-2022-e1sstf8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "dbc6317b-6884-42d3-8939-44b7c0d435b4"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Fri, 30 Dec 2022 09:33:03 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/62862248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F89051f30-ea4d-fd0f-ce2a-a72cd07ca2f9.mp3",
+        "@length": 23409024,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2022年に買ってよかったものについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・プロジェクター <a href=\"https://www.amazon.co.jp/dp/B083HXBW14\">https://www.amazon.co.jp/dp/B083HXBW14</a></p>\n<p>・マイクアーム <a href=\"https://www.elgato.com/ja/wave-mic-arm-lp\">https://www.elgato.com/ja/wave-mic-arm-lp</a></p>\n<p>・スマートバンド <a href=\"https://www.amazon.co.jp/dp/B0B3GP8B31\">https://www.amazon.co.jp/dp/B0B3GP8B31</a></p>\n<p>・ダンベル <a href=\"https://www.amazon.co.jp/gp/product/B08V8T3VLW\">https://www.amazon.co.jp/gp/product/B08V8T3VLW</a></p>\n<p>・栞 <a href=\"https://www.amazon.co.jp/dp/B07QPTFX1M\">https://www.amazon.co.jp/dp/B07QPTFX1M</a></p>\n<p>・卓上ヒーター <a href=\"https://item.rakuten.co.jp/moonphase/10069405/\">https://item.rakuten.co.jp/moonphase/10069405/</a></p>\n<p>・継続的デリバリーのソフトウェア工学 <a href=\"https://bookplus.nikkei.com/atcl/catalog/22/12/01/00531/\">https://bookplus.nikkei.com/atcl/catalog/22/12/01/00531/</a></p>\n<p>・オブザーバビリティ・エンジニアリング <a href=\"https://www.amazon.co.jp/dp/4814400128\">https://www.amazon.co.jp/dp/4814400128</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:23",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#10 フルリモートで働く職場で気持ちの切り替えどうしてる？の話",
+      "description": "<p>フルリモートにおける仕事の切り替えについて話しました。</p>\n<p>仕事が終わったときに、切り替えるのって大変だよね？や最後に少しだけリモートでのチームビルディング難しいよねって2人で話しています。</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/10-e1rqqr1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "14a57efb-1117-4ae7-ad01-ca8e63a9805b"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Tue, 06 Dec 2022 09:06:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/61745441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F1316024a-2347-71fb-b5af-d8bb90bdc021.mp3",
+        "@length": 36123648,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>フルリモートにおける仕事の切り替えについて話しました。</p>\n<p>仕事が終わったときに、切り替えるのって大変だよね？や最後に少しだけリモートでのチームビルディング難しいよねって2人で話しています。</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:37:37",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#9 Observability Engineeringの話",
+      "description": "<p>書籍「Observability Engineering」について話しました。</p>\n<p>Observability Engineeringを実践するには？や、自分たちの組織への適用を想像したり、を2人で話しています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Observability Engineering <a href=\"https://info.honeycomb.io/observability-engineering-oreilly-book-2022\">https://info.honeycomb.io/observability-engineering-oreilly-book-2022</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/9-Observability-Engineering-e1r13rh",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8852935e-88c2-4044-ad54-b4e3ef8307ca"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Sun, 20 Nov 2022 22:00:10 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/60902705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-19%2Fb70ee2ae-cd74-4bb6-2558-6c909dd0103d.mp3",
+        "@length": 31593600,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>書籍「Observability Engineering」について話しました。</p>\n<p>Observability Engineeringを実践するには？や、自分たちの組織への適用を想像したり、を2人で話しています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・Observability Engineering <a href=\"https://info.honeycomb.io/observability-engineering-oreilly-book-2022\">https://info.honeycomb.io/observability-engineering-oreilly-book-2022</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:54",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#8 何かを導入しようとして失敗したときの話",
+      "description": "<p>「組織を変革する最初の一歩に躓いたけど、それはそれで良かった話」について話しました。</p>\n<p>自分達が失敗した時ってどんな気持ちだったっけ？というのを2人でゆるく振り返っています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・組織を変革する最初の一歩に躓いたけど、それはそれで良かった話</p>\n<p>https://speakerdeck.com/pastelinc/zu-zhi-wobian-ge-suruzui-chu-no-bu-nizhi-itakedo-sorehasoredeliang-katutahua</p>\n<p>・人を助けるとはどういうことか-本当の「協力関係」をつくる7つの原則</p>\n<p>https://www.amazon.co.jp/dp/4862760600</p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/8-e1q0cam",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "24c6f5ff-bac0-4808-92eb-f82ac4287162"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Mon, 31 Oct 2022 03:08:57 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/59830038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-31%2Ffad32ac9-def5-bbd3-71fe-71041d985926.mp3",
+        "@length": 31290240,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>「組織を変革する最初の一歩に躓いたけど、それはそれで良かった話」について話しました。</p>\n<p>自分達が失敗した時ってどんな気持ちだったっけ？というのを2人でゆるく振り返っています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・組織を変革する最初の一歩に躓いたけど、それはそれで良かった話</p>\n<p>https://speakerdeck.com/pastelinc/zu-zhi-wobian-ge-suruzui-chu-no-bu-nizhi-itakedo-sorehasoredeliang-katutahua</p>\n<p>・人を助けるとはどういうことか-本当の「協力関係」をつくる7つの原則</p>\n<p>https://www.amazon.co.jp/dp/4862760600</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#7 State of DevOps Reportの話",
+      "description": "<p>2022 Accelerate State of DevOps Reportについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・2022 Accelerate State of DevOps Report <a href=\"https://cloud.google.com/devops/state-of-devops/\">https://cloud.google.com/devops/state-of-devops/</a></p>\n<p>・Announcing the 2022 Accelerate State of DevOps Report: A deep dive into security <a href=\"https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out\">https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/7-State-of-DevOps-Report-e1p5h60",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "20ca4ca9-2623-40ee-a399-66397cdd79c7"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 12 Oct 2022 22:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/58950272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-12%2F3756f23f-42e3-ee99-b3f9-fff5a7d17c5e.mp3",
+        "@length": 37334400,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2022 Accelerate State of DevOps Reportについて話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・2022 Accelerate State of DevOps Report <a href=\"https://cloud.google.com/devops/state-of-devops/\">https://cloud.google.com/devops/state-of-devops/</a></p>\n<p>・Announcing the 2022 Accelerate State of DevOps Report: A deep dive into security <a href=\"https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out\">https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:38:53",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#6 「エンジニアリングマネージャーのしごと」を読んだ話",
+      "description": "<p>「エンジニアリングマネージャーのしごと」の書籍について話しました。</p>\n<p>キャリアラダーを定義することが大切なことと、自分のキャリアってどうやって考えてる？かを2人で話しています。</p>\n<p>Links:</p>\n<p>・エンジニアリングマネージャーのしごと <a href=\"https://www.amazon.co.jp/dp/4873119944\">https://www.amazon.co.jp/dp/4873119944</a></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/6-e1ojebh",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e168b42d-0f13-4d4e-8cf3-f1ca067563ff"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Mon, 03 Oct 2022 02:19:52 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/58357553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-3%2Fe4a0d5e0-0bdf-b23d-eff8-0daddc5492cf.mp3",
+        "@length": 28481832,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>「エンジニアリングマネージャーのしごと」の書籍について話しました。</p>\n<p>キャリアラダーを定義することが大切なことと、自分のキャリアってどうやって考えてる？かを2人で話しています。</p>\n<p>Links:</p>\n<p>・エンジニアリングマネージャーのしごと <a href=\"https://www.amazon.co.jp/dp/4873119944\">https://www.amazon.co.jp/dp/4873119944</a></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#5 データマネジメントの話",
+      "description": "<p>前半は「データマネジメントが30分でわかる本」について話しました。</p>\n<p>後半は本をどう読んでいるかの話、フィードバックのご紹介をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・データマネジメントが30分でわかる本 <a href=\"https://www.amazon.co.jp/dp/B085W4YSZJ\">https://www.amazon.co.jp/dp/B085W4YSZJ</a></p>\n<p>・DMBOK <a href=\"https://www.dama-japan.org/Introduction.html#DMBOK\">https://www.dama-japan.org/Introduction.html#DMBOK</a></p>\n<p>・実践的データ基盤への処方箋 <a href=\"https://gihyo.jp/book/2021/978-4-297-12445-8\">https://gihyo.jp/book/2021/978-4-297-12445-8</a></p>\n<p>・さんぽ.fm <a href=\"https://anchor.fm/sakura818uuu\">https://anchor.fm/sakura818uuu</a></p>\n<p>・Middle Aged Developers <a href=\"https://anchor.fm/middle-aged-developers\">https://anchor.fm/middle-aged-developers</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/5-e1o76aq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a64300a7-b580-4f61-b9bc-2aac34677aa5"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Thu, 22 Sep 2022 13:02:22 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/57956122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-22%2Ffec80efb-2e66-1841-4d61-eedb10c20465.mp3",
+        "@length": 22144896,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半は「データマネジメントが30分でわかる本」について話しました。</p>\n<p>後半は本をどう読んでいるかの話、フィードバックのご紹介をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・データマネジメントが30分でわかる本 <a href=\"https://www.amazon.co.jp/dp/B085W4YSZJ\">https://www.amazon.co.jp/dp/B085W4YSZJ</a></p>\n<p>・DMBOK <a href=\"https://www.dama-japan.org/Introduction.html#DMBOK\">https://www.dama-japan.org/Introduction.html#DMBOK</a></p>\n<p>・実践的データ基盤への処方箋 <a href=\"https://gihyo.jp/book/2021/978-4-297-12445-8\">https://gihyo.jp/book/2021/978-4-297-12445-8</a></p>\n<p>・さんぽ.fm <a href=\"https://anchor.fm/sakura818uuu\">https://anchor.fm/sakura818uuu</a></p>\n<p>・Middle Aged Developers <a href=\"https://anchor.fm/middle-aged-developers\">https://anchor.fm/middle-aged-developers</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:23:04",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#4 エンジニアリングマネージャー と 雰囲気が良くない会議 の話",
+      "description": "<p>前半は「エンジニアリングマネージャーのしごと」の書籍ついて話しました。</p>\n<p>後半は雰囲気が良くない会議に対応する話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・エンジニアリングマネージャーのしごと <a href=\"https://www.amazon.co.jp/dp/4873119944\">https://www.amazon.co.jp/dp/4873119944</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/4-e1nsg9o",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d40a9f8e-27c1-44bf-9504-deb0313b73b1"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Tue, 20 Sep 2022 05:45:56 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/57605880/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-20%2Fadfd968b-cd0a-791e-8c22-533a2357b66b.mp3",
+        "@length": 33535603,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半は「エンジニアリングマネージャーのしごと」の書籍ついて話しました。</p>\n<p>後半は雰囲気が良くない会議に対応する話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・エンジニアリングマネージャーのしごと <a href=\"https://www.amazon.co.jp/dp/4873119944\">https://www.amazon.co.jp/dp/4873119944</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:42:43",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#3 アンラーニングとNegative Capabilityの話",
+      "description": "<p>前半は仕事のアンラーニングついて話しました。</p>\n<p>後半はNegative Capabilityに対応する話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・仕事のアンラーニング <a href=\"https://www.dobunkan.co.jp/books/detail/003178\">https://www.dobunkan.co.jp/books/detail/003178</a></p>\n<p>・マネージャーとNegative Capability <a href=\"https://scrapbox.io/hotchemi/%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8Negative_Capability\">https://scrapbox.io/hotchemi/マネージャーとNegative_Capability</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/3-Negative-Capability-e1njoqb",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "ac665a00-b957-4ec8-89f7-9083c2efc004"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Fri, 09 Sep 2022 14:36:01 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/57319691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-9%2F15d2a299-2d8a-a97c-d23c-a6d9bf9aee0a.mp3",
+        "@length": 26688768,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半は仕事のアンラーニングついて話しました。</p>\n<p>後半はNegative Capabilityに対応する話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・仕事のアンラーニング <a href=\"https://www.dobunkan.co.jp/books/detail/003178\">https://www.dobunkan.co.jp/books/detail/003178</a></p>\n<p>・マネージャーとNegative Capability <a href=\"https://scrapbox.io/hotchemi/%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8Negative_Capability\">https://scrapbox.io/hotchemi/マネージャーとNegative_Capability</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#2 エンジニア採用とデータ削除の話",
+      "description": "<p>前半はエンジニア採用について話しました。</p>\n<p>SRE出身の2人から見たフロントエンドエンジニアのイメージとは？</p>\n<p>後半はデータ削除の話をしています。</p>\n<p>Links:</p>\n<p>・採用担当者向け）エンジニア採用をする上での基礎知識 &nbsp;<a href=\"https://speakerdeck.com/corocn/recruting-engineer-basic\">https://speakerdeck.com/corocn/recruting-engineer-basic</a></p>\n<p>　・フロントエンドエンジニアとデザイナーの境界とは？</p>\n<p>・「27. 論理削除とは何か？どのような解法があるのか？」 <a href=\"https://fukabori.fm/episode/27\">https://fukabori.fm/episode/27</a></p>\n<p>　・ハウスキープするために、データを安全に削除できる仕組みを作る</p>\n<p>　・論理削除は、そもそも制約が存在するときに使う</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/2-e1n9dtc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "d5b9984e-6f43-48ef-90f8-92cf6b4adf55"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Fri, 02 Sep 2022 09:32:28 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/56980844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F55654e12-635e-f30b-e948-c129bb2a942c.mp3",
+        "@length": 29663611,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半はエンジニア採用について話しました。</p>\n<p>SRE出身の2人から見たフロントエンドエンジニアのイメージとは？</p>\n<p>後半はデータ削除の話をしています。</p>\n<p>Links:</p>\n<p>・採用担当者向け）エンジニア採用をする上での基礎知識 &nbsp;<a href=\"https://speakerdeck.com/corocn/recruting-engineer-basic\">https://speakerdeck.com/corocn/recruting-engineer-basic</a></p>\n<p>　・フロントエンドエンジニアとデザイナーの境界とは？</p>\n<p>・「27. 論理削除とは何か？どのような解法があるのか？」 <a href=\"https://fukabori.fm/episode/27\">https://fukabori.fm/episode/27</a></p>\n<p>　・ハウスキープするために、データを安全に削除できる仕組みを作る</p>\n<p>　・論理削除は、そもそも制約が存在するときに使う</p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:24",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#1 開発環境のセキュリティの話",
+      "description": "<p>前半はセキュリティについて話しました。</p>\n<p>後半はフルリモートについてオンラインとオフラインのメリット・デメリットの話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・開発環境のセキュリティおよびCI/CDパイプラインのセキュア化 <a href=\"https://speakerdeck.com/rung/training-devenv-security-ja\">https://speakerdeck.com/rung/training-devenv-security-ja</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/1-e1mlf75",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e20712e6-0547-4c15-8ba4-f85cac4895aa"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 24 Aug 2022 06:08:15 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/56326821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-24%2Fafe40a91-4879-4e66-48e9-f196fc2a89d6.mp3",
+        "@length": 41581824,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半はセキュリティについて話しました。</p>\n<p>後半はフルリモートについてオンラインとオフラインのメリット・デメリットの話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・開発環境のセキュリティおよびCI/CDパイプラインのセキュア化 <a href=\"https://speakerdeck.com/rung/training-devenv-security-ja\">https://speakerdeck.com/rung/training-devenv-security-ja</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:43:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episode": 1,
+      "itunes:episodeType": "full"
+    },
+    {
+      "title": "#0 システム監視の話",
+      "description": "<p>前半はシステム監視について話しました。</p>\n<p>後半は心理的安全性に関する本が発売されるので、その話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ZOZOTOWNにおけるDatadogの活用と、それを支える全社管理者の取り組み <a href=\"https://speakerdeck.com/tippy/2022-07-27\" target=\"_blank\">https://speakerdeck.com/tippy/2022-07-27</a></p>\n<p>・When to kill the canary <a href=\"https://blixhavn.dev/when-to-kill-the-canary/\" target=\"_blank\">https://blixhavn.dev/when-to-kill-the-canary/</a></p>\n<p>・最高のチームはみんな使っている 心理的安全性をつくる言葉55 <a href=\"https://www.amazon.co.jp/dp/4864108889/\" target=\"_blank\">https://www.amazon.co.jp/dp/4864108889/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。<br>\n感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\" rel=\"noopener noreferrer \" target=\"_blank\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/0-e1mb1rc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "98a5bc11-ba32-4a8c-8213-ce8be20fa6f4"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Wed, 10 Aug 2022 07:34:36 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/55985452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-17%2F1ac600b3-2544-d298-05d5-fd73b6c2bd2b.mp3",
+        "@length": 32998334,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>前半はシステム監視について話しました。</p>\n<p>後半は心理的安全性に関する本が発売されるので、その話をしています。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・ZOZOTOWNにおけるDatadogの活用と、それを支える全社管理者の取り組み <a href=\"https://speakerdeck.com/tippy/2022-07-27\" target=\"_blank\">https://speakerdeck.com/tippy/2022-07-27</a></p>\n<p>・When to kill the canary <a href=\"https://blixhavn.dev/when-to-kill-the-canary/\" target=\"_blank\">https://blixhavn.dev/when-to-kill-the-canary/</a></p>\n<p>・最高のチームはみんな使っている 心理的安全性をつくる言葉55 <a href=\"https://www.amazon.co.jp/dp/4864108889/\" target=\"_blank\">https://www.amazon.co.jp/dp/4864108889/</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。<br>\n感想は #yurutech をつけてツイートしてください。マシュマロから匿名でも送れます → <a href=\"https://marshmallow-qa.com/yuru_tech\" rel=\"noopener noreferrer \" target=\"_blank\">https://marshmallow-qa.com/yuru_tech</a></p>\n<p>Twitter:</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\" rel=\"noopener noreferrer \" target=\"_blank\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/29087678/29087678-1660722759059-ee393fb148a1d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    }
+  ]
+}

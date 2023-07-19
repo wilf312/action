@@ -26,6 +26,10 @@
           echo 'https://anchor.fm/s/86693634/podcast/rss'
           curl https://anchor.fm/s/86693634/podcast/rss --compressed > rss/%E3%81%BB%E3%81%A3%E3%81%A8%E3%83%86%E3%83%83%E3%82%AF.xml
 
+          # ゆるテク
+          echo 'https://anchor.fm/s/adf8dcb8/podcast/rss'
+          curl https://anchor.fm/s/adf8dcb8/podcast/rss --compressed > rss/yurutech.xml
+
           # Zero Topic - ゼロトピック -
           echo 'https://anchor.fm/s/1617b040/podcast/rss'
           curl https://anchor.fm/s/1617b040/podcast/rss --compressed > rss/%E3%82%BC%E3%83%AD%E3%83%88%E3%83%94.xml

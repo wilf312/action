@@ -48,6 +48,12 @@ export const urlList: UrlListItem[] = [
   },
 
   {
+    name: "ゆるテク",
+    hash: "yurutech",
+    url: "https://anchor.fm/s/adf8dcb8/podcast/rss",
+  },
+
+  {
     name: "Zero Topic - ゼロトピック -",
     hash: "ゼロトピ",
     url: "https://anchor.fm/s/1617b040/podcast/rss",
@@ -536,7 +542,6 @@ export const urlList: UrlListItem[] = [
     hash: "tcfm",
     url: "https://feeds.turingcomplete.fm/tcfm",
   },
-
 
   // TODO: サムネが取れない
   // {

@@ -15,7 +15,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://testradio.fm/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://testradio.fm</link>
 	<description></description>
-	<lastBuildDate>Sun, 09 Jul 2023 23:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Jul 2023 23:00:00 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -53,6 +53,31 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:location>Tokyo, Japan</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 <site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第235回 テストラジオ 無人レジの話 と 声をかけるタイミングがバッチリのタイミングについて</title>
+		<link>https://testradio.fm/testradio-no/1446/</link>
+		<pubDate>Sun, 16 Jul 2023 23:00:00 +0000</pubDate>
+		<guid isPermaLink="false">https://testradio.fm/?p=1446</guid>
+		<comments>https://testradio.fm/testradio-no/1446/#respond</comments>
+		<wfw:commentRss>https://testradio.fm/testradio-no/1446/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[テストラジオ]]></category>
+		<category><![CDATA[なそ回]]></category>
+		<category><![CDATA[よしたけ回]]></category>
+		<description></description>
+		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/07/N235TestRadio.mp3" length="71648475" type="audio/mpeg" />
+		<itunes:subtitle>https://www.youtube.com/embed/O7n0BorLhMg      https://twitter.com/hiroyuki3gou/status/1680540383657484289?s=20</itunes:subtitle>
+		<itunes:summary>https://www.youtube.com/embed/O7n0BorLhMg&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+https://twitter.com/hiroyuki3gou/status/1680540383657484289?s=20</itunes:summary>
+		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>		</item>
+	<item>
 		<title>第234回 テストラジオ 無人レジの話 と とあるサイトの動作保証のスマホのリスト</title>
 		<link>https://testradio.fm/testradio-no/1440/</link>
 		<pubDate>Sun, 09 Jul 2023 23:00:00 +0000</pubDate>
@@ -253,32 +278,5 @@ https://twitter.com/hiroyuki3gou/status/1622195891154350081?s=20&amp;t=imtUvId6H
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>27:20</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1389</post-id>		</item>
-	<item>
-		<title>第224回 テストラジオ 今年も最後のテストラジオ！！</title>
-		<link>https://testradio.fm/testradio-no/1379/</link>
-		<pubDate>Sun, 25 Dec 2022 23:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://testradio.fm/?p=1379</guid>
-		<comments>https://testradio.fm/testradio-no/1379/#respond</comments>
-		<wfw:commentRss>https://testradio.fm/testradio-no/1379/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[テストラジオ]]></category>
-		<description></description>
-		<enclosure url="https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2022/12/N224TestRadio.mp3" length="71518618" type="audio/mpeg" />
-		<itunes:subtitle>https://youtu.be/CbhifX-CMqQ          https://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&amp;t=C-LtseThCXmWd7gIKfg64Q</itunes:subtitle>
-		<itunes:summary>https://youtu.be/CbhifX-CMqQ&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-https://twitter.com/hiroyuki3gou/status/1606975804344500227?s=20&amp;t=C-LtseThCXmWd7gIKfg64Q</itunes:summary>
-		<itunes:author>なそとオカウチワニのテストラジオ</itunes:author>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:duration>29:48</itunes:duration>
-<post-id xmlns="com-wordpress:feed-additions:1">1379</post-id>		</item>
 </channel>
 </rss>
