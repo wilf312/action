@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #77",
+      "description": "<p>22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ\n まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-77-e275drm",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b28002ec-b5ad-40fc-9631-91a6801ddc42"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 20 Jul 2023 03:29:07 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/73626934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-20%2Fac97cefe-1e4b-cccb-8d9a-8de62adcc996.m4a",
+        "@length": 34312942,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ\n まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:23:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #76",
       "description": "<p>22.2.2 ロードシェディングとグレースフルデグラデーション から 22.2.3 リトライ まで\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-76-e26iefn",
