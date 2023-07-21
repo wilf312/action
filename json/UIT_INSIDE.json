@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.147『日々の業務を TypeScript AST で円滑に！ts-morph による社内ツール開発』",
+      "link": "https://uit-inside.linecorp.com/episode/147",
+      "pubDate": "Fri, 21 Jul 2023 06:00:00 GMT",
+      "description": "<p>@potato4d が @kazushikonosu と @odiak に、 ts-morph を利用した社内ツールの開発とその所感について話を聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/147"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode147.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),kazushikonosu(kazushikonosu),odiak(odiak)",
+      "itunes:subtitle": "ep.147『日々の業務を TypeScript AST で円滑に！ts-morph による社内ツール開発』",
+      "itunes:duration": "31:31",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode147.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい",
       "link": "https://uit-inside.linecorp.com/episode/146",
       "pubDate": "Fri, 16 Jun 2023 09:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode048.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW",
-      "link": "https://uit-inside.linecorp.com/episode/47",
-      "pubDate": "Fri, 29 May 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining が @inoutch に、 Rust でゲームフレームワークの開発を始めた話を聞きました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/47"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-047.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "spring-raining(spring_raining),Akinori Inoue(akinori.inoue)",
-      "itunes:subtitle": "ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW",
-      "itunes:duration": "22:21",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode047.png",
         "#text": null
       }
     }
