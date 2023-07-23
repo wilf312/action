@@ -68,6 +68,10 @@
     "@text": "Technology",
     "#text": null
   },
+  "podcast:podping": {
+    "@usesPodping": true,
+    "#text": null
+  },
   "podcast:guid": "b8ed8459-0ae7-5ff2-b138-e9316aed3d80",
   "rawvoice:subscribe": {
     "@feed": "https://www.tsujileaks.com/?feed=podcast",
