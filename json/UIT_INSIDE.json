@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.148『UIT新卒エンジニアが話すWeb開発の原体験』",
+      "link": "https://uit-inside.linecorp.com/episode/148",
+      "pubDate": "Fri, 28 Jul 2023 06:00:00 GMT",
+      "description": "<p>@spring-rainingが2023年度の新卒である@TheoSteiner @itatchi3 @maruoka.kentoに、LINE入社のきっかけやWeb開発への思いを聞いてみました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/148"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-148.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),Theo Steiner(TheoSteiner),itatchi3(itatchi3),maruoka.kento(maruoka.kento)",
+      "itunes:subtitle": "ep.148『UIT新卒エンジニアが話すWeb開発の原体験』",
+      "itunes:duration": "37:3",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode148.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.147『日々の業務を TypeScript AST で円滑に！ts-morph による社内ツール開発』",
       "link": "https://uit-inside.linecorp.com/episode/147",
       "pubDate": "Fri, 21 Jul 2023 06:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode049.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』",
-      "link": "https://uit-inside.linecorp.com/episode/48",
-      "pubDate": "Fri, 05 Jun 2020 09:00:00 GMT",
-      "description": "<p>Asteroidについて</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/48"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-048.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』",
-      "itunes:duration": "37:46",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode048.png",
         "#text": null
       }
     }
