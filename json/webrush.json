@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 27 Jul 2023 10:00:00 +0000",
-  "lastBuildDate": "Thu, 27 Jul 2023 10:00:12 +0000",
+  "pubDate": "Thu, 3 Aug 2023 10:00:00 +0000",
+  "lastBuildDate": "Thu, 3 Aug 2023 10:00:11 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "454acbfb-46a6-41b2-bd93-d8efeb14c679"
+      },
+      "title": "Episode 245: Starting a Career in Web Dev with Kate Sky",
+      "description": "<pre><code>const podcast = {   episode: 245,  title: 'Starting a Career in Web Dev',  topics: [     'web developer', 'learning', 'training'  ],  guest: 'Kate Sky'  hosts: [    'Dan Wahlin', 'Ward Bell', 'Craig Shoemaker'  ]};</code></pre><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Kate Sky <a href=\"https://twitter.com/KateSky8\">@KateSky8</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/watch?v=bSJtYNhAqwY\">State Management Techniques and Family Therapy (Kate's ng-conf 2022 talk)</a></li><li><a href=\"https://4dayweek.io/blog/what-does-the-work-life-balance-of-a-software-engineer-look-like\">What does work life balance look life for a Software Engineer</a></li><li><a href=\"https://www.psychologytoday.com/us/basics/growth-mindset\">Growth Mindset</a></li><li><a href=\"https://twitter.com/DanWahlin/status/1678547843941011458\">How Learning Has Changed Over the Years</a></li><li><a href=\"https://hbr.org/2021/03/whats-the-right-way-to-find-a-mentor\">What's the Right Way to Find a Mentor?</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:31</a></strong> If Ward is on a train going one way...</li><li><strong><a>02:02</a></strong> Introducing Kate Sky</li><li><strong><a>04:01</a></strong> What should people ask themselves before starting in web dev?</li><li><strong><a>08:49</a></strong> Sponsor: Ag Grid</li><li><strong><a>09:52</a></strong> Do web developers still have to work crazy hours?</li><li><strong><a>15:29</a></strong> Where should someone start?</li><li><strong><a>17:00</a></strong> Managing work / life balance</li><li><strong><a>19:41</a></strong> Sponsor: Narwhal</li><li><strong><a>20:22</a></strong> Problem solving as a way of learning</li><li><strong><a>24:47</a></strong> How important are mentors?</li><li><strong><a>28:24</a></strong> When are the various steps of training worth doing?</li><li><strong><a>31:30</a></strong> How should someone find a mentor?</li><li><strong><a>34:21</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 3 Aug 2023 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<pre><code>const podcast = {   episode: 245,  title: 'Starting a Career in Web Dev',  topics: [     'web developer', 'learning', 'training'  ],  guest: 'Kate Sky'  hosts: [    'Dan Wahlin', 'Ward Bell', 'Craig Shoemaker'  ]};</code></pre><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Kate Sky <a href=\"https://twitter.com/KateSky8\">@KateSky8</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/watch?v=bSJtYNhAqwY\">State Management Techniques and Family Therapy (Kate's ng-conf 2022 talk)</a></li><li><a href=\"https://4dayweek.io/blog/what-does-the-work-life-balance-of-a-software-engineer-look-like\">What does work life balance look life for a Software Engineer</a></li><li><a href=\"https://www.psychologytoday.com/us/basics/growth-mindset\">Growth Mindset</a></li><li><a href=\"https://twitter.com/DanWahlin/status/1678547843941011458\">How Learning Has Changed Over the Years</a></li><li><a href=\"https://hbr.org/2021/03/whats-the-right-way-to-find-a-mentor\">What's the Right Way to Find a Mentor?</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:31</a></strong> If Ward is on a train going one way...</li><li><strong><a>02:02</a></strong> Introducing Kate Sky</li><li><strong><a>04:01</a></strong> What should people ask themselves before starting in web dev?</li><li><strong><a>08:49</a></strong> Sponsor: Ag Grid</li><li><strong><a>09:52</a></strong> Do web developers still have to work crazy hours?</li><li><strong><a>15:29</a></strong> Where should someone start?</li><li><strong><a>17:00</a></strong> Managing work / life balance</li><li><strong><a>19:41</a></strong> Sponsor: Narwhal</li><li><strong><a>20:22</a></strong> Problem solving as a way of learning</li><li><strong><a>24:47</a></strong> How important are mentors?</li><li><strong><a>28:24</a></strong> When are the various steps of training worth doing?</li><li><strong><a>31:30</a></strong> How should someone find a mentor?</li><li><strong><a>34:21</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 40468117,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/ee7c4092-c234-414c-827b-26a3dc8a63d4/audio/433a4b79-29aa-4b11-b94b-259a003e9edd/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 245: Starting a Career in Web Dev with Kate Sky",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:42:09",
+      "itunes:summary": "Kate Sky joins us to talk about how to get started in web development in 2023. Do web developers still work crazy hours? Where should someone start? And how do you get a mentor to guide your journey?",
+      "itunes:subtitle": "Kate Sky joins us to talk about how to get started in web development in 2023. Do web developers still work crazy hours? Where should someone start? And how do you get a mentor to guide your journey?",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 245
+    },
     {
       "guid": {
         "@isPermaLink": false,
