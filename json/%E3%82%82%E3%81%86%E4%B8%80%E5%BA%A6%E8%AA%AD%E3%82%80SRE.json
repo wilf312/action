@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #78",
+      "description": "<p>22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-78-e27uplp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "7f62298f-87b0-4394-a254-824441439138"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 10 Aug 2023 09:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/74458233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2F519b7d87-68d1-bc10-d906-89eb4c2adde0.m4a",
+        "@length": 42956027,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:37",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #77",
       "description": "<p>22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ\n まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-77-e275drm",
