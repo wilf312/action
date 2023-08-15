@@ -15,8 +15,8 @@
   ],
   "title": "engineer meeting podcast",
   "link": "https://soundcloud.com/engineer-meeting",
-  "pubDate": "Mon, 17 Jul 2023 20:58:17 +0000",
-  "lastBuildDate": "Mon, 17 Jul 2023 20:58:17 +0000",
+  "pubDate": "Mon, 14 Aug 2023 23:18:51 +0000",
+  "lastBuildDate": "Mon, 14 Aug 2023 23:18:51 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1593256284"
+      },
+      "title": "vol.212 結婚式と動画再生クライアントの話",
+      "pubDate": "Mon, 14 Aug 2023 23:18:51 +0000",
+      "link": "https://soundcloud.com/engineer-meeting/vol212",
+      "itunes:duration": "00:43:55",
+      "itunes:author": "エンジニアミーティング",
+      "itunes:explicit": "no",
+      "itunes:summary": "[トピックス]\n・結婚式を挙げた話\n・Designing a Playback Client for Large-Scale Live Sports Events(https://speakerdeck.com/ygoto3/designing-a-playback-client-for-large-scale-live-sports-events)\n・ABEMA の視聴体験を進化させ続ける新しい動画再生クライアント設計(https://speakerdeck.com/ygoto3/abema-playback-client-architecture)の話",
+      "itunes:subtitle": "[トピックス]\n・結婚式を挙げた話\n・Designing a Playback Client fo…",
+      "description": "[トピックス]\n・結婚式を挙げた話\n・Designing a Playback Client for Large-Scale Live Sports Events(https://speakerdeck.com/ygoto3/designing-a-playback-client-for-large-scale-live-sports-events)\n・ABEMA の視聴体験を進化させ続ける新しい動画再生クライアント設計(https://speakerdeck.com/ygoto3/abema-playback-client-architecture)の話",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1593256284-engineer-meeting-vol212.mp3",
+        "@length": 84325693,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
