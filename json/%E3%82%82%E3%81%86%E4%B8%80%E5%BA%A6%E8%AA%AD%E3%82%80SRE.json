@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #79",
+      "description": "<p>22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで\n</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-79-e286pd1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5dbd1f82-8e72-48e4-a657-5b8aea5ce172"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 17 Aug 2023 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/74720097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-17%2F533af6bc-e6df-63b5-0b9f-14855a39b416.m4a",
+        "@length": 39886416,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:30",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #78",
       "description": "<p>22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-78-e27uplp",
