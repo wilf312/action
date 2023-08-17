@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 10 Aug 2023 10:00:00 +0000",
-  "lastBuildDate": "Thu, 10 Aug 2023 10:00:11 +0000",
+  "pubDate": "Thu, 17 Aug 2023 10:00:00 +0000",
+  "lastBuildDate": "Thu, 17 Aug 2023 10:00:12 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "773b5b13-3c1e-4f68-8605-8020b49e0af0"
+      },
+      "title": "Episode 247: Ecosystem CI Katerina Skroumpeloution",
+      "description": "<pre><code>const podcast = {   episode: 247,  title: 'Ecosystem CI',  topics: [     'startup', 'business', 'insurance'  ],  guest: 'Katerina Skroumpelou'  hosts: [    'Craig Shoemaker', 'Ward Bell'  ]};</code></pre><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Katerina Skroumpelou <a href=\"https://twitter.com/psybercity\">@Psybercity</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://github.com/vuejs/ecosystem-ci\">Ecosystem CI</a></li><li><a href=\"https://vitejs.dev/\">Vite</a></li><li><a href=\"https://nx.dev/\">Nx</a></li><li><a href=\"https://github.com/nrwl/nx-ecosystem-ci\">Nx Ecosystem CI</a></li><li><a href=\"https://blog.nrwl.io/introducing-nx-ecosystem-ci-ad0526d37f83\">Introducing Nx Ecosystem CI</a></li><li><a href=\"https://storybook.js.org/blog/storybook-ecosystem-ci/\">Storybook Ecosystem CI</a></li><li><a href=\"https://storybook.js.org/status?ref=storybookblog.ghost.io\">Storybook Status Page</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Rushing to understand our name</li><li><strong><a>01:05</a></strong> Who is Katerina Skroumpelou?</li><li><strong><a>02:18</a></strong> Programming in 104C</li><li><strong><a>02:53</a></strong> What is Ecosystem CI?</li><li><strong><a>06:00</a></strong> What is Vite?</li><li><strong><a>07:10</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:10</a></strong> What's an example of how this all works?</li><li><strong><a>16:36</a></strong> Is this platform agnostic?</li><li><strong><a>18:53</a></strong> What's easy and difficult about working with ecosystem CI?</li><li><strong><a>24:03</a></strong> Where do you see ecosystem CI going?</li><li><strong><a>30:20</a></strong> Sponsor: Narwhal</li><li><strong><a>30:57</a></strong> Who would benefit from ecosystem CI tooling?</li><li><strong><a>32:12</a></strong> What's the experience getting started with ecosystem CI?</li><li><strong><a>36:55</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 17 Aug 2023 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<pre><code>const podcast = {   episode: 247,  title: 'Ecosystem CI',  topics: [     'startup', 'business', 'insurance'  ],  guest: 'Katerina Skroumpelou'  hosts: [    'Craig Shoemaker', 'Ward Bell'  ]};</code></pre><p>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></p><p>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></p><p>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></p><p>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></p><p>Katerina Skroumpelou <a href=\"https://twitter.com/psybercity\">@Psybercity</a></p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://nx.dev/\" target=\"_blank\">Narwhal</a></p><p>  Visit <a href=\"https://nx.dev/\">nx.dev</a> to get the preeminent open-source toolkit for monorepo development, today.</p><p>  <a href=\"https://nx.dev/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Nx-dev-logo-h60.jpg\" alt=\"Narwhal logo\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://github.com/vuejs/ecosystem-ci\">Ecosystem CI</a></li><li><a href=\"https://vitejs.dev/\">Vite</a></li><li><a href=\"https://nx.dev/\">Nx</a></li><li><a href=\"https://github.com/nrwl/nx-ecosystem-ci\">Nx Ecosystem CI</a></li><li><a href=\"https://blog.nrwl.io/introducing-nx-ecosystem-ci-ad0526d37f83\">Introducing Nx Ecosystem CI</a></li><li><a href=\"https://storybook.js.org/blog/storybook-ecosystem-ci/\">Storybook Ecosystem CI</a></li><li><a href=\"https://storybook.js.org/status?ref=storybookblog.ghost.io\">Storybook Status Page</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Rushing to understand our name</li><li><strong><a>01:05</a></strong> Who is Katerina Skroumpelou?</li><li><strong><a>02:18</a></strong> Programming in 104C</li><li><strong><a>02:53</a></strong> What is Ecosystem CI?</li><li><strong><a>06:00</a></strong> What is Vite?</li><li><strong><a>07:10</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:10</a></strong> What's an example of how this all works?</li><li><strong><a>16:36</a></strong> Is this platform agnostic?</li><li><strong><a>18:53</a></strong> What's easy and difficult about working with ecosystem CI?</li><li><strong><a>24:03</a></strong> Where do you see ecosystem CI going?</li><li><strong><a>30:20</a></strong> Sponsor: Narwhal</li><li><strong><a>30:57</a></strong> Who would benefit from ecosystem CI tooling?</li><li><strong><a>32:12</a></strong> What's the experience getting started with ecosystem CI?</li><li><strong><a>36:55</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 39964079,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/ce9ed5fa-1300-431f-b065-06ef8f29ff14/audio/cbe84411-38fa-4a04-9f07-7f61f146b078/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 247: Ecosystem CI Katerina Skroumpeloution",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:41:37",
+      "itunes:summary": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team. Is ecosystem CI platform agnostic? What is easy and difficult about working with ecosystem CI? And who would benefit from ecosystem CI in their tooling?",
+      "itunes:subtitle": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team. Is ecosystem CI platform agnostic? What is easy and difficult about working with ecosystem CI? And who would benefit from ecosystem CI in their tooling?",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 247
+    },
     {
       "guid": {
         "@isPermaLink": false,
