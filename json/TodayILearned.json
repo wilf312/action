@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "82. システム設計に銀の弾丸は存在しない",
+      "description": "<p>Amazon Prime Videoのストリーミング監視システムをマイクロサービスからモノリスに作り替えて90%コストを削減したというブログ記事を元に、我々がシステム設計において肝に命じるべきことについて話しました。</p>\n<ul>\n <li><a href=\"https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90\">https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90</a></li>\n <li>DHHの記事 <a href=\"https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580\" rel=\"noopener noreferrer\">https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580</a></li>\n  <li>コンウェイの法則 <a href=\"https://en.wikipedia.org/wiki/Conway's_law\">https://en.wikipedia.org/wiki/Conway's_law</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/82-e27updq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6efb9c2d-4b88-4563-8caf-2679bb26ab56"
+      },
+      "dc:creator": "Tomo and Yusuke",
+      "pubDate": "Wed, 23 Aug 2023 04:09:37 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/74457978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F74457978%2F9bbf8311615561b8c736b9424936c566.m4a",
+        "@length": 16715098,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>Amazon Prime Videoのストリーミング監視システムをマイクロサービスからモノリスに作り替えて90%コストを削減したというブログ記事を元に、我々がシステム設計において肝に命じるべきことについて話しました。</p>\n<ul>\n <li><a href=\"https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90\">https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90</a></li>\n <li>DHHの記事 <a href=\"https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580\" rel=\"noopener noreferrer\">https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580</a></li>\n  <li>コンウェイの法則 <a href=\"https://en.wikipedia.org/wiki/Conway's_law\">https://en.wikipedia.org/wiki/Conway&#39;s_law</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">https://twitter.com/ykawanabe</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:17:13",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "81. Optimizationという職業病",
       "description": "<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">⁠https://twitter.com/tomoaki_imai⁠</a></li>\n <li>Yusuke Kawanabe, Software Engineer <a href=\"https://twitter.com/ykawanabe\">⁠https://twitter.com/ykawanabe</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/81--Optimization-e2859gl",

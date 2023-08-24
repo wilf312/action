@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 26 Jul 2023 13:07:39 +0000",
+  "lastBuildDate": "Tue, 22 Aug 2023 17:11:42 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#119: Overlapping Experiment Infrastructure",
+      "link": "https://misreading.chat/2023/08/21/119-overlapping-experiment-infrastructure/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 22 Aug 2023 04:39:45 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=976"
+      },
+      "description": "ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。",
+      "content:encoded": "<p>ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/08/ep119.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://research.google/pubs/pub36500/\">Overlapping Experiment Infrastructure: More, Better, Faster Experimentation – Google Research</a></li>\n\n\n\n<li><a href=\"https://www.nytimes.com/2009/03/01/business/01marissa.html?pagewanted=print\">Putting a Bolder Face on Google – The New York Times</a></li>\n\n\n\n<li><a href=\"https://stopdesign.com/journal/2009/03/20/goodbye-google.html\">Goodbye, Google | Stopdesign</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/08/ep119.mp3",
+        "@length": 31614427,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 1976,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。",
+      "googleplay:description": "ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。",
+      "itunes:subtitle": "ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#118: Pathways: Asynchronous Distributed Dataflow for ML",
       "link": "https://misreading.chat/2023/07/26/118-pathways-asynchronous-distributed-dataflow-for-ml/",

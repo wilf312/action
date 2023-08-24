@@ -20,6 +20,36 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.148『UIT新卒エンジニアが話すWeb開発の原体験』</title>
+    <link>https://uit-inside.linecorp.com/episode/148</link>
+    <pubDate>Fri, 28 Jul 2023 06:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@spring-rainingが2023年度の新卒である@TheoSteiner @itatchi3 @maruoka.kentoに、LINE入社のきっかけやWeb開発への思いを聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/148</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-148.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Theo Steiner(TheoSteiner),itatchi3(itatchi3),maruoka.kento(maruoka.kento)</itunes:author>
+    <itunes:subtitle>ep.148『UIT新卒エンジニアが話すWeb開発の原体験』</itunes:subtitle>
+    <itunes:duration>37:3</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode148.png"/>
+  </item>
+  <item>
+    <title>ep.147『日々の業務を TypeScript AST で円滑に！ts-morph による社内ツール開発』</title>
+    <link>https://uit-inside.linecorp.com/episode/147</link>
+    <pubDate>Fri, 21 Jul 2023 06:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @kazushikonosu と @odiak に、 ts-morph を利用した社内ツールの開発とその所感について話を聞いてみました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/147</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode147.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),kazushikonosu(kazushikonosu),odiak(odiak)</itunes:author>
+    <itunes:subtitle>ep.147『日々の業務を TypeScript AST で円滑に！ts-morph による社内ツール開発』</itunes:subtitle>
+    <itunes:duration>31:31</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode147.png"/>
+  </item>
+  <item>
     <title>ep.146 変更点が少ないのに期待が高まる？ Lit v3.0メジャーバージョンアップのねらい</title>
     <link>https://uit-inside.linecorp.com/episode/146</link>
     <pubDate>Fri, 16 Jun 2023 09:00:00 GMT</pubDate>
@@ -1488,36 +1518,6 @@
     <itunes:duration>43:55</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode049.png"/>
-  </item>
-  <item>
-    <title>ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』</title>
-    <link>https://uit-inside.linecorp.com/episode/48</link>
-    <pubDate>Fri, 05 Jun 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;Asteroidについて&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/48</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-048.mp3" type="audio/mp3"/>
-    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)</itunes:author>
-    <itunes:subtitle>ep.48 UIT 俺得フロントエンド - Jupyter NotebookライクなJavaScriptライブエディタ『Asteroid』</itunes:subtitle>
-    <itunes:duration>37:46</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode048.png"/>
-  </item>
-  <item>
-    <title>ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW</title>
-    <link>https://uit-inside.linecorp.com/episode/47</link>
-    <pubDate>Fri, 29 May 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;@spring_raining が @inoutch に、 Rust でゲームフレームワークの開発を始めた話を聞きました。&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/47</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-047.mp3" type="audio/mp3"/>
-    <itunes:author>spring-raining(spring_raining),Akinori Inoue(akinori.inoue)</itunes:author>
-    <itunes:subtitle>ep.47 『Rust で挑むハイパフォーマンスゲームフレームワーク開発』 - LINE のフロントエンドエンジニアの GW</itunes:subtitle>
-    <itunes:duration>22:21</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode047.png"/>
   </item>
   </channel>
 </rss>

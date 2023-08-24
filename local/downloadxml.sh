@@ -341,3 +341,7 @@
           # Turing Complete FM
           echo 'https://feeds.turingcomplete.fm/tcfm'
           curl https://feeds.turingcomplete.fm/tcfm --compressed > rss/tcfm.xml
+
+          # LayerX NOW!
+          echo 'https://anchor.fm/s/55a49944/podcast/rss'
+          curl https://anchor.fm/s/55a49944/podcast/rss --compressed > rss/LayerXNOW.xml

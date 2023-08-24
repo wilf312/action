@@ -16,7 +16,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 	<atom:link href="https://misreading.chat/category/episodes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://misreading.chat</link>
 	<description>会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。</description>
-	<lastBuildDate>Tue, 18 Jul 2023 04:27:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Aug 2023 17:11:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,6 +40,130 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:image href='https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?fit=3000%2C3000' />
 <itunes:category text='Technology' />
 	<item>
+		<title>#119: Overlapping Experiment Infrastructure</title>
+		<link>https://misreading.chat/2023/08/21/119-overlapping-experiment-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 04:39:45 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=976</guid>
+
+					<description><![CDATA[ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。]]></description>
+										<content:encoded><![CDATA[
+<p>ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。ご意見感想などは <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> や<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星もよろしくね。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/08/ep119.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://research.google/pubs/pub36500/">Overlapping Experiment Infrastructure: More, Better, Faster Experimentation – Google Research</a></li>
+
+
+
+<li><a href="https://www.nytimes.com/2009/03/01/business/01marissa.html?pagewanted=print">Putting a Bolder Face on Google &#8211; The New York Times</a></li>
+
+
+
+<li><a href="https://stopdesign.com/journal/2009/03/20/goodbye-google.html">Goodbye, Google | Stopdesign</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/08/ep119.mp3" length="31614427" type="audio/mpeg" />
+<itunes:duration>1976</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。</itunes:summary>
+<googleplay:description>ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。</googleplay:description>
+<itunes:subtitle>ウェブ検索の開発に使われていた A/B テストのインフラについて森田が読みました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>#118: Pathways: Asynchronous Distributed Dataflow for ML</title>
+		<link>https://misreading.chat/2023/07/26/118-pathways-asynchronous-distributed-dataflow-for-ml/</link>
+		
+		<dc:creator><![CDATA[Jun Mukai]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 13:07:39 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=969</guid>
+
+					<description><![CDATA[ML アクセラレータ TPU の分散実行インフラについて向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。]]></description>
+										<content:encoded><![CDATA[
+<p>ML アクセラレータ TPU の分散実行インフラについて<a href="https://jmuk.org/">向井</a>が読みました。ご意見感想などは <a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a> や<a href="https://forms.gle/yPyTwzhFsJAjVzCP7">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes</a> のレビューや星もよろしくね。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/07/ep118.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://arxiv.org/abs/2203.12533">[2203.12533] Pathways: Asynchronous Distributed Dataflow for ML</a></li>
+
+
+
+<li><a href="https://arxiv.org/abs/2204.02311">[2204.02311] PaLM: Scaling Language Modeling with Pathways</a></li>
+
+
+
+<li><a href="https://cloud.google.com/tpu/docs/system-architecture-tpu-vm">System Architecture  |  Cloud TPU  |  Google Cloud</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/07/ep118.mp3" length="33179520" type="audio/mpeg" />
+<itunes:duration>2074</itunes:duration>
+
+		<itunes:author>Jun Mukai</itunes:author>
+<googleplay:author>Jun Mukai</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>ML アクセラレータ TPU の分散実行インフラについて向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。</itunes:summary>
+<googleplay:description>ML アクセラレータ TPU の分散実行インフラについて向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。</googleplay:description>
+<itunes:subtitle>ML アクセラレータ TPU の分散実行インフラについて向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jmuk42</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>#117: DuckDB: an Embeddable Analytical Database</title>
 		<link>https://misreading.chat/2023/07/17/117-duckdb-an-embeddable-analytical-database/</link>
 		

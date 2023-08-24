@@ -543,6 +543,12 @@ export const urlList: UrlListItem[] = [
     url: "https://feeds.turingcomplete.fm/tcfm",
   },
 
+  {
+    name: "LayerX NOW!",
+    hash: "LayerXNOW",
+    url: "https://anchor.fm/s/55a49944/podcast/rss",
+  },
+
   // TODO: サムネが取れない
   // {
   //   name: "J-WAVE TOPPAN INNOVATION WORLD ERA",

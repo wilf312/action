@@ -11,7 +11,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<link>https://twitter.com/Read_SRE_Again</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 12 Jul 2023 04:07:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2023 03:02:26 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/6233432c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Topotal]]></author>
 		<copyright><![CDATA[Topotal]]></copyright>
@@ -29,6 +29,76 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+		<item>
+			<title><![CDATA[もう一度読むSRE #80]]></title>
+			<description><![CDATA[<p>22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-80-e28cupp</link>
+			<guid isPermaLink="false">341c23fb-29d9-4e78-beaf-799c9e237f3e</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 23 Aug 2023 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/74922233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-22%2F79688a2e-b28a-9abb-c710-f79bbed22f93.m4a" length="46751359" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #79]]></title>
+			<description><![CDATA[<p>22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-79-e286pd1</link>
+			<guid isPermaLink="false">5dbd1f82-8e72-48e4-a657-5b8aea5ce172</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 17 Aug 2023 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/74720097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-17%2F533af6bc-e6df-63b5-0b9f-14855a39b416.m4a" length="39886416" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ もう一度読むSRE #78]]></title>
+			<description><![CDATA[<p>22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで</p>
+
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-78-e27uplp</link>
+			<guid isPermaLink="false">7f62298f-87b0-4394-a254-824441439138</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 10 Aug 2023 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/74458233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2F519b7d87-68d1-bc10-d906-89eb4c2adde0.m4a" length="42956027" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで&lt;/p&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #77]]></title>
+			<description><![CDATA[<p>22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ
+ まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-77-e275drm</link>
+			<guid isPermaLink="false">b28002ec-b5ad-40fc-9631-91a6801ddc42</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Thu, 20 Jul 2023 03:29:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/73626934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-20%2Fac97cefe-1e4b-cccb-8d9a-8de62adcc996.m4a" length="34312942" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ
+ まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[もう一度読むSRE #76]]></title>
 			<description><![CDATA[<p>22.2.2 ロードシェディングとグレースフルデグラデーション から 22.2.3 リトライ まで

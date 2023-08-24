@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:117239062/sounds.rss?before=171348736" rel="next" type="application/rss+xml"/>
         <title>engineer meeting podcast</title>
         <link>https://soundcloud.com/engineer-meeting</link>
-        <pubDate>Mon, 17 Jul 2023 20:58:17 +0000</pubDate>
-        <lastBuildDate>Mon, 17 Jul 2023 20:58:17 +0000</lastBuildDate>
+        <pubDate>Mon, 14 Aug 2023 23:18:51 +0000</pubDate>
+        <lastBuildDate>Mon, 14 Aug 2023 23:18:51 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,27 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1593256284</guid>
+      <title>vol.212 結婚式と動画再生クライアントの話</title>
+      <pubDate>Mon, 14 Aug 2023 23:18:51 +0000</pubDate>
+      <link>https://soundcloud.com/engineer-meeting/vol212</link>
+      <itunes:duration>00:43:55</itunes:duration>
+      <itunes:author>エンジニアミーティング</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>[トピックス]
+・結婚式を挙げた話
+・Designing a Playback Client for Large-Scale Live Sports Events(https://speakerdeck.com/ygoto3/designing-a-playback-client-for-large-scale-live-sports-events)
+・ABEMA の視聴体験を進化させ続ける新しい動画再生クライアント設計(https://speakerdeck.com/ygoto3/abema-playback-client-architecture)の話</itunes:summary>
+      <itunes:subtitle>[トピックス]
+・結婚式を挙げた話
+・Designing a Playback Client fo…</itunes:subtitle>
+      <description>[トピックス]
+・結婚式を挙げた話
+・Designing a Playback Client for Large-Scale Live Sports Events(https://speakerdeck.com/ygoto3/designing-a-playback-client-for-large-scale-live-sports-events)
+・ABEMA の視聴体験を進化させ続ける新しい動画再生クライアント設計(https://speakerdeck.com/ygoto3/abema-playback-client-architecture)の話</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1593256284-engineer-meeting-vol212.mp3" length="84325693"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1567483309</guid>
       <title>vol.211 コンペ四方山話</title>
       <pubDate>Mon, 17 Jul 2023 21:01:15 +0000</pubDate>

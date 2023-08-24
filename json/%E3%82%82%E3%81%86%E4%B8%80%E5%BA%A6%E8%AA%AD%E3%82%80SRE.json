@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #80",
+      "description": "<p>22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-80-e28cupp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "341c23fb-29d9-4e78-beaf-799c9e237f3e"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 23 Aug 2023 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/74922233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-22%2F79688a2e-b28a-9abb-c710-f79bbed22f93.m4a",
+        "@length": 46751359,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:14",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #79",
       "description": "<p>22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-79-e286pd1",
