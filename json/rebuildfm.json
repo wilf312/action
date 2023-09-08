@@ -39,6 +39,37 @@
   "language": "ja",
   "item": [
     {
+      "title": "368: Editing in Cebu (inao)",
+      "description": "<p>inao さんをゲストに迎えて、WEB+DB PRESS、コミュニティ、技術系雑誌などについて話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://connpass.com/event/285724/\">WEB+DB PRESS創刊22.9周年パーティ(副題 うまい肉とIPA) - connpass</a></li>\n<li><a href=\"https://twitter.com/naoya_ito/status/1652888234605826050\">naoya: \"WEB+DB PRESSカンファレンスやりましょう\"</a></li>\n<li><a href=\"https://type.jp/et/feature/19052/\">日本初のLT、LLイベント…セミナーの歴史に見るITトレンドの移り変わり</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Year_2000_problem\">Year 2000 problem</a></li>\n<li><a href=\"http://www.rubycolor.org/takahashi/\">高橋メソッド</a></li>\n<li><a href=\"http://shibuya.pm.org/\">Shibuya Perl Mongers</a></li>\n<li><a href=\"https://www.githubkaigi.org/\">GitHub Kaigi</a></li>\n<li><a href=\"https://github.com/naoya/md2inao\">naoya/md2inao: Convert markdown to inao-format for WEB+DB PRESS</a></li>\n<li><a href=\"https://www.newscientist.com/article/2229238-a-lazy-fix-20-years-ago-means-the-y2k-bug-is-taking-down-computers-now/\">A lazy fix 20 years ago means the Y2K bug is taking down computers now | New Scientist</a></li>\n<li><a href=\"https://news.ycombinator.com/\">Hacker News</a></li>\n<li><a href=\"https://substack.com/\">Substacke</a></li>\n<li><a href=\"https://stratechery.com/\">Stratechery</a></li>\n<li><a href=\"https://newsletter.pragmaticengineer.com/\">The Pragmatic Engineer</a></li>\n<li><a href=\"https://paperswelove.org/\">Papers We Love</a></li>\n<li><a href=\"https://techbookfest.org/\">技術書典：技術書オンリーイベント</a></li>\n</ul>",
+      "pubDate": "Thu, 07 Sep 2023 20:00:00 -0700",
+      "link": "https://rebuild.fm/368/",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://rebuild.fm/368/"
+      },
+      "itunes:author": "Tatsuhiko Miyagawa",
+      "dc:creator": "Tatsuhiko Miyagawa",
+      "atom:contributor": [
+        {
+          "atom:name": "inao",
+          "atom:uri": "https://rebuild.fm/people/inao/"
+        },
+        {
+          "atom:name": "miyagawa",
+          "atom:uri": "https://rebuild.fm/people/miyagawa/"
+        }
+      ],
+      "itunes:explicit": "no",
+      "itunes:subtitle": "inao さんをゲストに迎えて、WEB+DB PRESS、コミュニティ、技術系雑誌などについて話しました。",
+      "itunes:duration": "54:32",
+      "enclosure": {
+        "@url": "https://cache.rebuild.fm/podcast-ep368.mp3",
+        "@type": "audio/mpeg",
+        "@length": 39716132,
+        "#text": null
+      }
+    },
+    {
       "title": "367: Prefetched Energy Drink (hak)",
       "description": "<p>Hakuro Matsuda さんをゲストに迎えて、深セン、PlayStation Portal、チップ、プログラミング、コードレビューなどについて話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84%E8%A1%9B%E6%98%9F%E7%A0%B2\">反射衛星砲</a></li>\n<li><a href=\"https://jp.reuters.com/article/tech-ai-worldcoin-mexico-idJPKBN2ZB05S\">仮想通貨ワールドコイン始動</a></li>\n<li><a href=\"https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/\">PlayStation Portal remote player</a></li>\n<li><a href=\"https://www.playstation.com/ja-jp/ps-plus/getting-started/\">PlayStation®Plus</a></li>\n<li><a href=\"https://www.teamxlink.co.uk/wiki/PlayStation_Portable_XLink_Kai_Setup\">PlayStation Portable XLink Kai Setup</a></li>\n<li><a href=\"https://9to5mac.com/2021/12/30/apple-airpods-bluetooth-limitations/\">AirPods creator addresses Bluetooth limitations</a></li>\n<li><a href=\"https://ja.wikipedia.org/wiki/CD-ROM2\">CD-ROM2</a></li>\n<li><a href=\"https://www.qualcomm.com/products/catalog/snapdragon-g-series-gaming-platforms/snapdragon-g3x-gen-2-gaming-platform\">Snapdragon G3x Gen 2 Gaming Platform</a></li>\n<li><a href=\"https://digitaldiy.jp/article/esportsgame/17572/\">Steam DeckのスペックはゲーミングPCと比較してどれくらい？</a></li>\n<li><a href=\"https://videocardz.com/newz/msi-leaks-intel-14th-gen-core-specs-confirms-its-3-faster-on-average-than-13th-gen\">MSI leaks Intel 14th Gen Core specs, confirms it's 3% faster on average than 13th Gen</a></li>\n<li><a href=\"https://www.amazon.co.jp/dp/4814400411?tag=bulknews-22\">ルールズ・オブ・プログラミング ―より良いコードを書くための21のルール</a></li>\n<li><a href=\"https://www.amazon.co.jp/dp/4873115655?tag=bulknews-22\">リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック</a></li>\n<li><a href=\"https://www.microsoft.com/en-us/d/surface-laptop-5/8xn49v61s1bn?activetab=pivot:overviewtab\">Surface Laptop 5</a></li>\n<li><a href=\"https://www.ghibli.jp/works/kimitachi/\">君たちはどう生きるか</a></li>\n<li><a href=\"https://jp.finalfantasyxvi.com/\">FINAL FANTASY XVI</a></li>\n<li><a href=\"https://www.armoredcore.net/index.html\">ARMORED CORE VI</a></li>\n<li><a href=\"https://bethesda.net/en/game/starfield\">Starfield</a></li>\n<li><a href=\"https://natsuton.com/\">夏へのトンネル、さよならの出口</a></li>\n<li><a href=\"https://ai-no-idenshi.com/\">AIの遺電子</a></li>\n<li><a href=\"https://www.theverge.com/2023/8/13/23830511/mark-zuckerberg-elon-musk-fight-cage-match-not-happening\">Mark Zuckerberg says it’s ‘time to move on’ from the Elon Musk fight</a></li>\n</ul>",
       "pubDate": "Sun, 27 Aug 2023 22:00:00 -0700",
