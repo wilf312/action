@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #81",
+      "description": "<p>SRE NEXT 2023 Chair <a href=\"https://twitter.com/gr1m0h\" target=\"_blank\" rel=\"noopener noreferer\">ぐりもおさん</a> をゲストに迎え、SRENEXTのことをお聞きしました。</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-81-e298q8m",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b872ee80-f8d2-4a9b-a182-71121398c199"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 14 Sep 2023 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/75835094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2F9f312dd1-f04e-7017-cb21-9609827c5bff.m4a",
+        "@length": 42954645,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>SRE NEXT 2023 Chair <a href=\"https://twitter.com/gr1m0h\" target=\"_blank\" rel=\"noopener noreferer\">ぐりもおさん</a> をゲストに迎え、SRENEXTのことをお聞きしました。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #80",
       "description": "<p>22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-80-e28cupp",
