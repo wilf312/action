@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 22 Aug 2023 17:11:42 +0000",
+  "lastBuildDate": "Thu, 21 Sep 2023 03:48:47 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#120: On-demand Container Loading in AWS Lambda",
+      "link": "https://misreading.chat/2023/09/20/120-on-demand-container-loading-in-aws-lambda/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Thu, 21 Sep 2023 03:48:47 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=984"
+      },
+      "description": "でかいコンテナイメージをサーバレスで高速に起動する話を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "content:encoded": "<p>でかいコンテナイメージをサーバレスで高速に起動する話を<a href=\"https://jmuk.org/\">向井</a>が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://forms.gle/yPyTwzhFsJAjVzCP7\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes</a> のレビューや星もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/09/ep120.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.usenix.org/conference/atc23/presentation/brooker\">On-demand Container Loading in AWS Lambda | USENIX</a></li>\n\n\n\n<li><a href=\"https://brooker.co.za/blog/\">Marc Brooker’s Blog – Marc’s Blog</a></li>\n</ul>\n\n\n\n<ul>\n<li><a href=\"https://misreading.chat/2019/01/10/episode-44-firecracker/\">#44: Firecracker</a></li>\n\n\n\n<li><a href=\"https://misreading.chat/2021/01/26/91-serverless-in-the-wild/\">#91: Serverless in the Wild</a></li>\n\n\n\n<li><a href=\"https://misreading.chat/2022/09/27/99-the-prusti-project-formal-verification-for-rust99/\">#99: The Prusti Project: Formal Verification for Rust</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/09/ep120.mp3",
+        "@length": 24145111,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2012,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "でかいコンテナイメージをサーバレスで高速に起動する話を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "googleplay:description": "でかいコンテナイメージをサーバレスで高速に起動する話を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "itunes:subtitle": "でかいコンテナイメージをサーバレスで高速に起動する話を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#119: Overlapping Experiment Infrastructure",
       "link": "https://misreading.chat/2023/08/21/119-overlapping-experiment-infrastructure/",
