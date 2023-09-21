@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 14 Sep 2023 10:00:00 +0000",
-  "lastBuildDate": "Thu, 14 Sep 2023 10:00:11 +0000",
+  "pubDate": "Thu, 21 Sep 2023 10:00:00 +0000",
+  "lastBuildDate": "Thu, 21 Sep 2023 10:00:11 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b84144ec-8ee3-4c20-8e32-3c087d964501"
+      },
+      "title": "Episode 252: Demystifying Reactivity in Frontend",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Michael Hladky <a href=\"https://twitter.com/Michael_Hladky\">@Michael_Hladky</a></li></ul><p>Recording date: Sep 7, 2023</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://push-based.io/\">Push Based IO Company website</a></li><li><a href=\"https://push-based.io/workshop/high-speed-web-applications\">Performance workshop</a></li><li><a href=\"https://youtu.be/oGDgjIV7jrs?si=ll592pGLx7FV8IFO\">Signals in angular keynote</a></li><li><a href=\"https://ng-conf.org/\">ngConf</a></li><li><a href=\"https://www.techtarget.com/searchapparchitecture/definition/reactive-programming\">What is reactive programming?</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">JavaScript Promises</a></li><li><a href=\"https://www.makeuseof.com/angular-signals-new-primitive-reactivity/\">Signals in Angular as a new Rective Primitive</a></li><li><a href=\"https://angular.io/guide/signals\">Angular Signals docs</a></li><li><a href=\"https://rxjs.dev/\">RxJS</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent\">Keyboard events</a></li><li><a href=\"https://www.rx-angular.io/\">RxAngular</a></li><li><a href=\"https://medium.com/gft-engineering/implementing-signals-in-javascript-step-by-step-9d0be46fb014\">JavaScript Signals tutorial: implementing a signals library step by step</a></li><li><a href=\"https://workshopfest.dev/Michael-Hladky.html\">Unlock the Power of Angular - Master Class: A Comprehensive 4-Day Workshop with Michael Hladky</a></li><li><a href=\"https://twitter.com/DanWahlin/status/1669042019186925573\">Signals 1-Pager Cheatsheet</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:28</a></strong> Grooming with John</li><li><strong><a>01:46</a></strong> Guest introduction</li><li><strong><a>03:15</a></strong> What is reactivity?</li><li><strong><a>04:55</a></strong> What about promises?</li><li><strong><a>07:52</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:53</a></strong> When is reactivity a good choice or not a good choice?</li><li><strong><a>16:21</a></strong> How do you tame the complexity in programming?</li><li><strong><a>21:17</a></strong> Sponsor: IdeaBlade</li><li><strong><a>22:17</a></strong> Why should people pay attention to reactivity?</li><li><strong><a>28:10</a></strong> Dan's cheat sheet for function calls</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 21 Sep 2023 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Dan Wahlin <a href=\"https://twitter.com/danwahlin\">@DanWahlin</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Michael Hladky <a href=\"https://twitter.com/Michael_Hladky\">@Michael_Hladky</a></li></ul><p>Recording date: Sep 7, 2023</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://push-based.io/\">Push Based IO Company website</a></li><li><a href=\"https://push-based.io/workshop/high-speed-web-applications\">Performance workshop</a></li><li><a href=\"https://youtu.be/oGDgjIV7jrs?si=ll592pGLx7FV8IFO\">Signals in angular keynote</a></li><li><a href=\"https://ng-conf.org/\">ngConf</a></li><li><a href=\"https://www.techtarget.com/searchapparchitecture/definition/reactive-programming\">What is reactive programming?</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">JavaScript Promises</a></li><li><a href=\"https://www.makeuseof.com/angular-signals-new-primitive-reactivity/\">Signals in Angular as a new Rective Primitive</a></li><li><a href=\"https://angular.io/guide/signals\">Angular Signals docs</a></li><li><a href=\"https://rxjs.dev/\">RxJS</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent\">Keyboard events</a></li><li><a href=\"https://www.rx-angular.io/\">RxAngular</a></li><li><a href=\"https://medium.com/gft-engineering/implementing-signals-in-javascript-step-by-step-9d0be46fb014\">JavaScript Signals tutorial: implementing a signals library step by step</a></li><li><a href=\"https://workshopfest.dev/Michael-Hladky.html\">Unlock the Power of Angular - Master Class: A Comprehensive 4-Day Workshop with Michael Hladky</a></li><li><a href=\"https://twitter.com/DanWahlin/status/1669042019186925573\">Signals 1-Pager Cheatsheet</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:28</a></strong> Grooming with John</li><li><strong><a>01:46</a></strong> Guest introduction</li><li><strong><a>03:15</a></strong> What is reactivity?</li><li><strong><a>04:55</a></strong> What about promises?</li><li><strong><a>07:52</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:53</a></strong> When is reactivity a good choice or not a good choice?</li><li><strong><a>16:21</a></strong> How do you tame the complexity in programming?</li><li><strong><a>21:17</a></strong> Sponsor: IdeaBlade</li><li><strong><a>22:17</a></strong> Why should people pay attention to reactivity?</li><li><strong><a>28:10</a></strong> Dan's cheat sheet for function calls</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 30807662,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/ea908c3a-84d2-4c9d-bca7-f82d585a1101/audio/8a185c0c-6f59-48fd-b36c-a0cb5d474116/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 252: Demystifying Reactivity in Frontend",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:32:05",
+      "itunes:summary": "Michael Hladky helps us demystify reactivity and answers some questions regarding what reactivity is, how promises fit in, when reactivity is a good or bad choice, taming complexity in programming, and why people should consider paying attention to reactivity.",
+      "itunes:subtitle": "Michael Hladky helps us demystify reactivity and answers some questions regarding what reactivity is, how promises fit in, when reactivity is a good or bad choice, taming complexity in programming, and why people should consider paying attention to reactivity.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 252
+    },
     {
       "guid": {
         "@isPermaLink": false,
