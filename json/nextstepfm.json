@@ -15,8 +15,8 @@
   ],
   "title": "nextstep.fm",
   "link": "https://soundcloud.com/nextstepfm",
-  "pubDate": "Sun, 27 Aug 2023 03:20:14 +0000",
-  "lastBuildDate": "Sun, 27 Aug 2023 03:20:14 +0000",
+  "pubDate": "Sat, 23 Sep 2023 09:07:01 +0000",
+  "lastBuildDate": "Sat, 23 Sep 2023 09:07:01 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1623433029"
+      },
+      "title": "#69 macOSのUI哲学はSonomaまでお願いします・・・・．",
+      "pubDate": "Sat, 23 Sep 2023 09:07:01 +0000",
+      "link": "https://soundcloud.com/nextstepfm/macosuisonoma",
+      "itunes:duration": "01:50:50",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, 1024jp\n\nmacOSとSwiftUI，ヘッドホン，Sonomaのバグ，バージョンアップでソースコードの互換性は保たれるべきか・・・について話しました．\n\n1. アシダ音響のイヤホン　https://togetter.com/li/1839213\n2. 16,000円　https://tower.jp/article/feature_item/2011/02/08/75109\n3. CotEditorのローカライズ　https://github.com/coteditor/CotEditor/issues/1519\n4. Swift 5.9　https://www.swift.org/blog/swift-5.9-released/\n5. @1024jp によるスライド道場　https://www.youtube.com/watch?v=LHM-4GyV1EY",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, 1024jp\n\nmacOSとSw…",
+      "description": "Starring:k_katsumi, sonson_twit, 1024jp\n\nmacOSとSwiftUI，ヘッドホン，Sonomaのバグ，バージョンアップでソースコードの互換性は保たれるべきか・・・について話しました．\n\n1. アシダ音響のイヤホン　https://togetter.com/li/1839213\n2. 16,000円　https://tower.jp/article/feature_item/2011/02/08/75109\n3. CotEditorのローカライズ　https://github.com/coteditor/CotEditor/issues/1519\n4. Swift 5.9　https://www.swift.org/blog/swift-5.9-released/\n5. @1024jp によるスライド道場　https://www.youtube.com/watch?v=LHM-4GyV1EY",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1623433029-nextstepfm-macosuisonoma.mp3",
+        "@length": 106412407,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
