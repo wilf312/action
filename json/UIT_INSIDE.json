@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.149『より信頼できる社内基盤へ Verdaccio 製 Private NPM をスケールアウトさせるためのプラグイン開発』",
+      "link": "https://uit-inside.linecorp.com/episode/149",
+      "pubDate": "Fri, 06 Oct 2023 08:00:00 GMT",
+      "description": "<p>@potato4d が @rChaser53 に、社内 Private NPM をスケールアウトさせるための開発について話を聞いてみました</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/149"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode149.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),rChaser53(rChaser53)",
+      "itunes:subtitle": "ep.149『より信頼できる社内基盤へ Verdaccio 製 Private NPM をスケールアウトさせるためのプラグイン開発』",
+      "itunes:duration": "20:9",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode149.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.148『UIT新卒エンジニアが話すWeb開発の原体験』",
       "link": "https://uit-inside.linecorp.com/episode/148",
       "pubDate": "Fri, 28 Jul 2023 06:00:00 GMT",
