@@ -36,6 +36,31 @@
   },
   "item": [
     {
+      "title": "106. 提供者としてクラウドネットワークを作るということ w/ y.kajiura",
+      "description": "<p>y.kajiuraさんをゲストに、クラウド内でL2をつなげる大変さ、セキュリティグループの仕組み、スケーラビリティへの取り組みなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>異なるハイパーバイザーにVMが収容されていてもL2でつながっているように見せることの大変さ</li><li>なぜ、L2で接続することが大変なのか？</li><li>encapsulationした上でのマルチキャスト・ブロードキャストのサポート</li><li>アンダーレイ側のネットワークで対応していないものは、ユーザー側のオーバーレイ通信を提供できない</li><li>当初のモチベーションとしてVRRPを提供したかった</li><li>クラウドサービスでセキュリティグループを提供するための裏側の仕組み</li><li>経路処理をOpsする上で大変なことは？</li><li>OpenTechLunchの資料:&nbsp;<a href=\"https://speakerdeck.com/toby06/how-to-create-cloud-service\" rel=\"noopener noreferrer\" target=\"_blank\">クラウドの作り方（使い方じゃないよ）</a></li><li>ライブマイグレーションの前後での通信継続における課題</li><li>当たり前の前提を見直す重要性</li><li>Prometheus Exporter 自作</li><li>監視ツールの技術選定方針</li><li>Cassandra / RabbitMQ</li><li>ちょっと足りないのがJavaScript</li><li>チームの雰囲気</li><li>チーム内のSPOFへの対策</li><li>求人ページ:&nbsp;<a href=\"https://hrmos.co/pages/nttcom0033/jobs/1895121487979135000\" rel=\"noopener noreferrer\" target=\"_blank\">SDPFクラウド 仮想サーバ開発エンジニア</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "106. 提供者としてクラウドネットワークを作るということ w/ y.kajiura",
+      "itunes:episodeType": "full",
+      "itunes:summary": "y.kajiuraさんをゲストに、クラウド内でL2をつなげる大変さ、セキュリティグループの仕組み、スケーラビリティへの取り組みなどについて語っていただきました。\n\n話したネタ異なるハイパーバイザーにVMが収容されていてもL2でつながっているように見せることの大変さなぜ、L2で接続することが大変なのか？encapsulationした上でのマルチキャスト・ブロードキャストのサポートアンダーレイ側のネットワークで対応していないものは、ユーザー側のオーバーレイ通信を提供できない当初のモチベーションとしてVRRPを提供したかったクラウドサービスでセキュリティグループを提供するための裏側の仕組み経路処理をOpsする上で大変なことは？OpenTechLunchの資料: クラウドの作り方（使い方じゃないよ）ライブマイグレーションの前後での通信継続における課題当たり前の前提を見直す重要性Prometheus Exporter 自作監視ツールの技術選定方針Cassandra / RabbitMQちょっと足りないのがJavaScriptチームの雰囲気チーム内のSPOFへの対策求人ページ: SDPFクラウド 仮想サーバ開発エンジニア\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>y.kajiuraさんをゲストに、クラウド内でL2をつなげる大変さ、セキュリティグループの仕組み、スケーラビリティへの取り組みなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>異なるハイパーバイザーにVMが収容されていてもL2でつながっているように見せることの大変さ</li><li>なぜ、L2で接続することが大変なのか？</li><li>encapsulationした上でのマルチキャスト・ブロードキャストのサポート</li><li>アンダーレイ側のネットワークで対応していないものは、ユーザー側のオーバーレイ通信を提供できない</li><li>当初のモチベーションとしてVRRPを提供したかった</li><li>クラウドサービスでセキュリティグループを提供するための裏側の仕組み</li><li>経路処理をOpsする上で大変なことは？</li><li>OpenTechLunchの資料:&nbsp;<a href=\"https://speakerdeck.com/toby06/how-to-create-cloud-service\" rel=\"noopener noreferrer\" target=\"_blank\">クラウドの作り方（使い方じゃないよ）</a></li><li>ライブマイグレーションの前後での通信継続における課題</li><li>当たり前の前提を見直す重要性</li><li>Prometheus Exporter 自作</li><li>監視ツールの技術選定方針</li><li>Cassandra / RabbitMQ</li><li>ちょっと足りないのがJavaScript</li><li>チームの雰囲気</li><li>チーム内のSPOFへの対策</li><li>求人ページ:&nbsp;<a href=\"https://hrmos.co/pages/nttcom0033/jobs/1895121487979135000\" rel=\"noopener noreferrer\" target=\"_blank\">SDPFクラウド 仮想サーバ開発エンジニア</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/mByI6UPmb407YfsdmdhKxuecH9ajtrMCnhFZ_-V145E"
+      },
+      "pubDate": "Sat, 14 Oct 2023 08:08:24 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:25:08",
+      "enclosure": {
+        "@url": "https://chrt.fm/track/D33GD1/rss.art19.com/episodes/03cddc74-cf39-4412-a362-c848b92996b8.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 24131291,
+        "#text": null
+      }
+    },
+    {
       "title": "105. メモリとパケットにはすべてがある w/ y.kajiura",
       "description": "<p>y.kajiura さんをゲストに、SDNの開発、カーネルモジュールのデバッグ、コアダンプの読み方などについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>SDNとは</li><li><a href=\"https://ja.wikipedia.org/wiki/Lazy_K\" rel=\"noopener noreferrer\" target=\"_blank\">Lazy K</a></li><li>SDNの開発って何をやるの？</li><li><a href=\"https://github.com/tungstenfabric\" rel=\"noopener noreferrer\" target=\"_blank\">Tungsten Fabric</a></li><li>SDNでの低レイヤ開発とは？</li><li>カーネルモジュールデバッグ</li><li>見えないようと見ようとしてコアダンプを取った</li><li>コアダンプの読み方</li><li>カーネルモジュールのお作法</li><li>任意のパケットをどうやって作る？</li><li><a href=\"https://scapy.net/\" rel=\"noopener noreferrer\" target=\"_blank\">Scapy</a></li><li>Cよりも低レイヤにいく場合</li><li>気づいたらアセンブリを読むようになっていた</li><li>低レイヤに携わることによる成長</li><li>求人ページ:&nbsp;<a href=\"https://hrmos.co/pages/nttcom0033/jobs/1895121487979135000\" rel=\"noopener noreferrer\" target=\"_blank\">SDPFクラウド 仮想サーバ開発エンジニア</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "105. メモリとパケットにはすべてがある w/ y.kajiura",
