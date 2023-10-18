@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #82",
+      "description": "<p>23章 クリティカルな状態の管理: 信頼性のための分散合意</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-82-e2and8f",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "344e9870-0726-4be8-9233-740d62700c17"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 18 Oct 2023 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/77361871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-18%2F3c2ad2cd-e53d-c6b5-4525-2cfd61dc2d3c.m4a",
+        "@length": 38378603,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23章 クリティカルな状態の管理: 信頼性のための分散合意</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:26",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #81",
       "description": "<p>SRE NEXT 2023 Chair <a href=\"https://twitter.com/gr1m0h\" target=\"_blank\" rel=\"noopener noreferer\">ぐりもおさん</a> をゲストに迎え、SRENEXTのことをお聞きしました。</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-81-e298q8m",
