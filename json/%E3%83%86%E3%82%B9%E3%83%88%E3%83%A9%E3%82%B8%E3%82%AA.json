@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 03 Sep 2023 23:00:00 +0000",
+  "lastBuildDate": "Sun, 22 Oct 2023 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,39 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第239回 テストラジオ オフラインのイベントをやった話 と BPP行脚のイベントに出たの話",
+      "link": "https://testradio.fm/testradio-no/1467/",
+      "pubDate": "Sun, 22 Oct 2023 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1467"
+      },
+      "comments": "https://testradio.fm/testradio-no/1467/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1467/feed/",
+      "slash:comments": 0,
+      "category": [
+        "テストラジオ",
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/10/N240TestRadio.mp3",
+        "@length": 70092994,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/osQzhl7GFA0",
+      "itunes:summary": "https://youtu.be/osQzhl7GFA0",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:12",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1467
+      }
+    },
     {
       "title": "第239回 テストラジオ モチベがあがらなかった話 と 要件の伝え方の話",
       "link": "https://testradio.fm/testradio-no/1462/",
@@ -336,35 +369,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1410
-      }
-    },
-    {
-      "title": "第228回 テストラジオ JaSST Tokyo お疲れ様でした！",
-      "link": "https://testradio.fm/testradio-no/1407/",
-      "pubDate": "Sun, 19 Mar 2023 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1407"
-      },
-      "comments": "https://testradio.fm/testradio-no/1407/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1407/feed/",
-      "slash:comments": 0,
-      "category": "テストラジオ",
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/03/N228TestRadio.mp3",
-        "@length": 71734107,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://twitter.com/hiroyuki3gou/status/1637416376846684162?s=20      https://www.youtube.com/embed/8AM0mF3pB4Q",
-      "itunes:summary": "https://twitter.com/hiroyuki3gou/status/1637416376846684162?s=20<br />\n<br />\n<br />\n<br />\n<br />\n<br />\nhttps://www.youtube.com/embed/8AM0mF3pB4Q",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "29:53",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1407
       }
     }
   ]
