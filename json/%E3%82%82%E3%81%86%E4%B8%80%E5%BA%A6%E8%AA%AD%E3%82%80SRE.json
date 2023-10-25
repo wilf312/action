@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #83",
+      "description": "<p>23.1 合意を利用する目的:分散システムの協調障害 から 23.1.3 ケーススタディ 3:問題のあるグループメンバーシップアルゴリズム まで<strong>\n</strong></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-83-e2b1871",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "78dc3534-e43f-4e50-a386-9772b3048c43"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 25 Oct 2023 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/77684385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-25%2F248be383-4437-33a9-fe9f-89ba0cc7ea8e.m4a",
+        "@length": 37170837,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.1 合意を利用する目的:分散システムの協調障害 から 23.1.3 ケーススタディ 3:問題のあるグループメンバーシップアルゴリズム まで<strong>\n</strong></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:36",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #82",
       "description": "<p>23章 クリティカルな状態の管理: 信頼性のための分散合意</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-82-e2and8f",
