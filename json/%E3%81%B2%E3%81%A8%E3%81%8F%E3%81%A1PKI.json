@@ -42,33 +42,6 @@
   },
   "item": [
     {
-      "title": "60: Let's Encryptのインシデント対応がすごい話とトラストチェーンが短くなる話",
-      "description": "<p>Let's Encryptでシリアルナンバーが重複する異なる証明書が発行されたインシデントの報告があり、その発見から対応までのタイムラインがすごいという話と、来年2024年9月からLEのトラストチェーンからクロスサイン証明書が減って短くなるという話をしました。技術書典15に出ます！よろしくお願いします！ </p>\n<p>・Let's Encrypt\nで6/15に発生していたインシデントの話　<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1838667\">1838667 - Let's\nEncrypt: Duplicate Serial Numbers (mozilla.org)</a></p>\n<p>・サービスダウンを発見したSSLmateの人の総括ブログ：<a href=\"https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime\">The\nStory Behind Last Week's Let's Encrypt Downtime (agwa.name)</a></p>\n<p>・LEが実施したこの変更に伴うサービスダウンだった：　<a href=\"https://community.letsencrypt.org/t/small-change-to-end-entity-certificates-cps-url-and-oid-will-not-be-included-from-june-15/198206\">Small\nchange to end entity certificates: CPS URL and OID will not be included from\nJune 15 - API Announcements - Let's Encrypt Community Support (letsencrypt.org)</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/60-Lets-Encrypt-e2bkjkf",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "8affe759-980f-4edc-9c97-0016f430fde9"
-      },
-      "dc:creator": "Eureka",
-      "pubDate": "Tue, 07 Nov 2023 23:31:02 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/78318671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-7%2F876e93e1-1e0d-0cc2-99de-ba3c3a1f0e63.mp3",
-        "@length": 26122872,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>Let&#39;s Encryptでシリアルナンバーが重複する異なる証明書が発行されたインシデントの報告があり、その発見から対応までのタイムラインがすごいという話と、来年2024年9月からLEのトラストチェーンからクロスサイン証明書が減って短くなるという話をしました。技術書典15に出ます！よろしくお願いします！ </p>\n<p>・Let&#39;s Encrypt\nで6/15に発生していたインシデントの話　<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1838667\">1838667 - Let&#39;s\nEncrypt: Duplicate Serial Numbers (mozilla.org)</a></p>\n<p>・サービスダウンを発見したSSLmateの人の総括ブログ：<a href=\"https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime\">The\nStory Behind Last Week&#39;s Let&#39;s Encrypt Downtime (agwa.name)</a></p>\n<p>・LEが実施したこの変更に伴うサービスダウンだった：　<a href=\"https://community.letsencrypt.org/t/small-change-to-end-entity-certificates-cps-url-and-oid-will-not-be-included-from-june-15/198206\">Small\nchange to end entity certificates: CPS URL and OID will not be included from\nJune 15 - API Announcements - Let&#39;s Encrypt Community Support (letsencrypt.org)</a></p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:44:09",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
-        "#text": null
-      },
-      "itunes:season": 1,
-      "itunes:episode": 60,
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "59: European Signature DialogがGoogleのふるまいをAnti-competitiveと言っている話など",
       "description": "<p>前回の配信回で取り上げたE-Tugra、Chromeの信頼されるルートCAリストから削除されることが決まったようです(6/15までに配信されるChrome root store v11から)。ほか、EUのトラストサービスのプロバイダーの組織 European Signature Dialog が Google の提唱する90日のshort-lived Certificateに対する懸念を、EU機関にむけて発信している話をしました。European Signature DialogはGoogleのふるまいをAnti-competitiveと言っているようです。 </p>\n<p>雑談では学位授与機構の試験を受けてきた話、新しく買った電子レンジにWi-Fiがついてる話などをしました。 </p>\n<p> </p>\n<ul>\n <li><p>Security concerns with the e-Tugra certificate authority </p>\n<ul>\n <li><p> <a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s\" target=\"_blank\" rel=\"noreferrer noopener\">https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/yqALPG5PC4s</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Mozilla でも議論がはじまりました </p>\n<ul>\n  <li><p><a href=\"https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A\" target=\"_blank\" rel=\"noreferrer noopener\">Review of e-Tugra's Inclusion in Mozilla’s Root Store (google.com)</a> </p>\n</li>\n</ul>\n</li>\n  <li><p>Google returns to anticompetitive behavior by limiting all certificates to 90 days only </p>\n<ul>\n  <li><p>https://www.european-signature-dialog.eu/Google_returns_to_anti-competitive_behavior-ESD_26042023.pdf </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/59-European-Signature-DialogGoogleAnti-competitive-e26fhgv",
