@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 31 Oct 2023 03:47:28 +0000",
+  "lastBuildDate": "Thu, 09 Nov 2023 05:28:47 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#122: Lifting the veil on Meta’s microservice architecture",
+      "link": "https://misreading.chat/2023/11/08/122-lifting-the-veil-on-metas-microservice-architecture/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Thu, 09 Nov 2023 05:28:47 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1004"
+      },
+      "description": "Meta 社のインターンが分散トレーシングで集めたログを睨んだ論文を向井が読みました。",
+      "content:encoded": "<p>Meta 社のインターンが分散トレーシングで集めたログを睨んだ論文を<a href=\"https://jmuk.org/\">向井</a>が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。</p>\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/11/ep122.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.usenix.org/conference/atc23/presentation/huye\">Lifting the veil on Meta’s microservice architecture: Analyses of topology and request workflows | USENIX</a></li>\n\n\n\n<li><a href=\"https://github.com/facebook/fbthrift\">GitHub – facebook/fbthrift: Facebook’s branch of Apache Thrift, including a new C++ server.</a></li>\n\n\n\n<li><a href=\"https://research.facebook.com/publications/canopy-end-to-end-performance-tracing-at-scale/\">Canopy: An End-to-End Performance Tracing and Analysis System – Meta Research</a></li>\n\n\n\n<li><a href=\"https://www.shkuro.com/\">Yuri Shkuro</a><br></li>\n\n\n\n<li>Mastodon ID: misreading.chat@misreading.chat</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/11/ep122.mp3",
+        "@length": 38918647,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 3243,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "Meta 社のインターンが分散トレーシングで集めたログを睨んだ論文を向井が読みました。",
+      "googleplay:description": "Meta 社のインターンが分散トレーシングで集めたログを睨んだ論文を向井が読みました。",
+      "itunes:subtitle": "Meta 社のインターンが分散トレーシングで集めたログを睨んだ論文を向井が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#121: The SPACE of Developer Productivity",
       "link": "https://misreading.chat/2023/10/30/121-the-space-of-developer-productivity/",
