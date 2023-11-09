@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "61: CABFのS/MIME Baseline RequirementとGmailでBIMIの青バッジがスタート",
+      "description": "<p>2023/9/1からCA/Browser Forumの S/MIME ワーキンググループで議論されてきた Baseline Requirementの運用がスタートした話と、メールクライアントで認証済みの発行者からのメールにブランドアイコンを表示するBIMIに対応したメールについて、Gmail上で青バッジが表示される運用が始まったようだという話をしました。雑談ではひとけー学位授与機構で学位（学士（工学））取れたよの話、夏休み何してた？パスポート切れた！など旅行あれこれの話をしました。</p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/61-CABFSMIME-Baseline-RequirementGmailBIMI-e2bm4m1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e16898ca-de76-470b-a99b-3298126f048d"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 08 Nov 2023 23:12:13 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/78368897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-8%2F2092fa6f-4a6c-d137-08f0-cd55b2d4e85c.mp3",
+        "@length": 38701584,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>2023/9/1からCA/Browser Forumの S/MIME ワーキンググループで議論されてきた Baseline Requirementの運用がスタートした話と、メールクライアントで認証済みの発行者からのメールにブランドアイコンを表示するBIMIに対応したメールについて、Gmail上で青バッジが表示される運用が始まったようだという話をしました。雑談ではひとけー学位授与機構で学位（学士（工学））取れたよの話、夏休み何してた？パスポート切れた！など旅行あれこれの話をしました。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:03:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 61,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "60: Let's Encryptのインシデント対応がすごい話とトラストチェーンが短くなる話",
       "description": "<p>Let's Encryptでシリアルナンバーが重複する異なる証明書が発行されたインシデントの報告があり、その発見から対応までのタイムラインがすごいという話と、来年2024年9月からLEのトラストチェーンからクロスサイン証明書が減って短くなるという話をしました。技術書典15に出ます！よろしくお願いします！ </p>\n<p>・Let's Encrypt\nで6/15に発生していたインシデントの話　<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1838667\">1838667 - Let's\nEncrypt: Duplicate Serial Numbers (mozilla.org)</a></p>\n<p>・サービスダウンを発見したSSLmateの人の総括ブログ：<a href=\"https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime\">The\nStory Behind Last Week's Let's Encrypt Downtime (agwa.name)</a></p>\n<p>・LEが実施したこの変更に伴うサービスダウンだった：　<a href=\"https://community.letsencrypt.org/t/small-change-to-end-entity-certificates-cps-url-and-oid-will-not-be-included-from-june-15/198206\">Small\nchange to end entity certificates: CPS URL and OID will not be included from\nJune 15 - API Announcements - Let's Encrypt Community Support (letsencrypt.org)</a></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/60-Lets-Encrypt-e2bkjkf",
