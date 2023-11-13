@@ -42,33 +42,6 @@
   },
   "item": [
     {
-      "title": "仙台のmini hardeningやOktaの話",
-      "description": "<p>(収録日: 2023/10/30)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>仙台で MINI Hardening した話</li>\n</ul>\n<ul>\n <li>Oktaのインシデントの話（10/30までの時点の情報です）</li>\n</ul>\n<p># 参照</p>\n<ul>\n <li> <li><br></li>\n</li>\n</ul>\n<p>#積ん読</p>\n<ul>\n <li>なし</li>\n</ul>\n<p># 参加者: 松本さん(@ym405nm)、ken5scal</p>\n<p>#  ジングル: @hajipion</p>",
-      "link": "https://podcasters.spotify.com/pod/show/secure-fm/episodes/mini-hardeningOkta-e2bglcb",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "97db0394-3f82-4582-9d36-de9799068895"
-      },
-      "dc:creator": "Secure旅団",
-      "pubDate": "Sun, 05 Nov 2023 23:00:00 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/2607ca1c/podcast/play/78189387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-5%2F5f0168d9-d309-349c-f783-ecfa34316113.mp3",
-        "@length": 42005294,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>(収録日: 2023/10/30)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>仙台で MINI Hardening した話</li>\n</ul>\n<ul>\n <li>Oktaのインシデントの話（10/30までの時点の情報です）</li>\n</ul>\n<p># 参照</p>\n<ul>\n <li> <li><br></li>\n</li>\n</ul>\n<p>#積ん読</p>\n<ul>\n <li>なし</li>\n</ul>\n<p># 参加者: 松本さん(@ym405nm)、ken5scal</p>\n<p>#  ジングル: @hajipion</p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:59:46",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg",
-        "#text": null
-      },
-      "itunes:season": 2,
-      "itunes:episode": 59,
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "脆弱性管理・パッチ管理など",
       "description": "<p>(収録日: 2023/10/16)</p>\n<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>\n<p># 内容</p>\n<ul>\n <li>雑な談</li>\n <li>新しいスマホ</li>\n  <li>ノートアプリ</li>\n  <li>気になるニュースあったっけ？ -> 全銀のはレポート待ち。ほかはない（とかいいながら、その数日後にNTT西日本とOktaのやつがくる）</li>\n  <li>雑な談 part2</li>\n  <li>NTLM廃止の話 -> Microsoftプロトコル・ライフサイクルの温故知新、ライセンス</li>\n  <li>curlの脆弱性の話</li>\n  <li>脆弱性管理とパッチ管理の話</li>\n  <li>ルート証明書の更新</li>\n  <li>ArcとWarpの宣伝</li>\n</ul>\n<p># 参照</p>\n<ul>\n  <li><p><a href=\"https://curl.se/docs/CVE-2023-38545.html\">SOCKS5 heap buffer overflow - CVE-2023-38545</a></p>\n</li>\n  <li><p><a href=\"https://curl.se/docs/CVE-2023-38546.html\">cookie injection with none file - CVE-2023-38546</a></p>\n<p><a href=\"https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/\">How I made a heap overflow in curl</a></p>\n</li>\n</ul>\n  <li><ul>\n  <li>  <li><a href=\"https://www.meta.com/jp/quest/quest-3/\">https://www.meta.com/jp/quest/quest-3/</a> </li>\n</li>\n  <li>  <li><a href=\"https://twitter.com/zakosirasu/status/1711536931509776637\">https://twitter.com/zakosirasu/status/1711536931509776637</a></li>\n</li>\n  <li>  <li><a href=\"https://twitter.com/ROYCE62294821/status/1712104171795886326\">https://twitter.com/ROYCE62294821/status/1712104171795886326</a></li>\n</li>\n  <li>  <li><a href=\"https://twitter.com/enigma63/status/1713530528698368435\">https://twitter.com/enigma63/status/1713530528698368435</a></li>\n</li>\n  <li>  <li>Pixelのアップデート</li>\n</li>\n  <li>  <li><a href=\"https://support.google.com/pixelphone/answer/4457705?hl=ja#zippy=%2Cgoogle-pixel-xlaa-ga-g\">Google Pixel にソフトウェア アップデートが提供されるタイミング</a></li>\n</li>\n  <li>  <li><a href=\"https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848\">https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848</a></li>\n</li>\n  <li>  <li><a href=\"https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade\">https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade</a></li>\n</li>\n</ul>\n</li>\n<p>#積ん読</p>\n<ul>\n  <li>なし</li>\n</ul>\n<p># 参加者: 松本さん(@ym405nm)、ken5scal、wireworkers</p>\n<p>#  ジングル: @hajipion</p>",
       "link": "https://podcasters.spotify.com/pod/show/secure-fm/episodes/ep-e2at2ro",

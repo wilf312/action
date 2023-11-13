@@ -15,8 +15,8 @@
   ],
   "title": "engineer meeting podcast",
   "link": "https://soundcloud.com/engineer-meeting",
-  "pubDate": "Sun, 22 Oct 2023 10:25:13 +0000",
-  "lastBuildDate": "Sun, 22 Oct 2023 10:25:13 +0000",
+  "pubDate": "Sun, 12 Nov 2023 21:27:59 +0000",
+  "lastBuildDate": "Sun, 12 Nov 2023 21:27:59 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1663287132"
+      },
+      "title": "vol.216 OpenAI DevDay感想",
+      "pubDate": "Sun, 12 Nov 2023 21:28:45 +0000",
+      "link": "https://soundcloud.com/engineer-meeting/vol216-openai-devday",
+      "itunes:duration": "00:50:42",
+      "itunes:author": "エンジニアミーティング",
+      "itunes:explicit": "no",
+      "itunes:summary": "今回はOpenAI DevDayの感想について話しました\n\n[トピックス]\nhttps://devday.openai.com/\nGitHub Copilot\nDALL·E 3",
+      "itunes:subtitle": "今回はOpenAI DevDayの感想について話しました\n\n[トピックス]\nhttps://dev…",
+      "description": "今回はOpenAI DevDayの感想について話しました\n\n[トピックス]\nhttps://devday.openai.com/\nGitHub Copilot\nDALL·E 3",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1663287132-engineer-meeting-vol216-openai-devday.mp3",
+        "@length": 97350137,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
