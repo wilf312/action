@@ -36,6 +36,31 @@
   },
   "item": [
     {
+      "title": "107. LLMをゼロから作るということ w/ Takahiro Omi",
+      "description": "<p>ストックマークの近江さんをゲストに、大規模言語モデルをゼロから作る方法、学習のデータセット、モデルアーキテクチャ、学習環境への取り組みなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>どのような大規模言語モデルと作ったのか？特徴は何か？</li><li>データセットに何を使ったのか？</li><li>日本語と英語とのバランスは？</li><li>最終的なToken数は？</li><li>事前学習モデルを作りたいとして、何から考えるのか？</li><li>ノイズのクリーニングと、その方法</li><li>今回活用したモデルアーキテクチャ(Llama)</li><li>前回のアーキテクチャは GPT-NeoX</li><li>今回の学習環境は？</li><li>AWS Trainum 32コア x 16ノード</li><li>学習にかかった時間は？</li><li>学習時に大変だったこと・上手くいかなかったことは？</li><li>学習中のチェックポイントとは何か？</li><li>なぜ、Token生成が速いのか？</li><li>手元でLLMを動かすときの一番のネックは？</li><li>bit数を落とすFineTuning</li><li>Tokenizerとは何か？</li><li>日本語の単語区切りはどのように考えるのか？</li><li>今回のLLM作成のTokenizerは何を使ったのか？</li><li>ビジネスドメインでのLLM評価</li><li><a href=\"https://stockmark.co.jp/recruit\" rel=\"noopener noreferrer\" target=\"_blank\">ストックマーク株式会社のRecruitページ</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "107. LLMをゼロから作るということ w/ Takahiro Omi",
+      "itunes:episodeType": "full",
+      "itunes:summary": "ストックマークの近江さんをゲストに、大規模言語モデルをゼロから作る方法、学習のデータセット、モデルアーキテクチャ、学習環境への取り組みなどについて語っていただきました。\n\n話したネタどのような大規模言語モデルと作ったのか？特徴は何か？データセットに何を使ったのか？日本語と英語とのバランスは？最終的なToken数は？事前学習モデルを作りたいとして、何から考えるのか？ノイズのクリーニングと、その方法今回活用したモデルアーキテクチャ(Llama)前回のアーキテクチャは GPT-NeoX今回の学習環境は？AWS Trainum 32コア x 16ノード学習にかかった時間は？学習時に大変だったこと・上手くいかなかったことは？学習中のチェックポイントとは何か？なぜ、Token生成が速いのか？手元でLLMを動かすときの一番のネックは？bit数を落とすFineTuningTokenizerとは何か？日本語の単語区切りはどのように考えるのか？今回のLLM作成のTokenizerは何を使ったのか？ビジネスドメインでのLLM評価ストックマーク株式会社のRecruitページ\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>ストックマークの近江さんをゲストに、大規模言語モデルをゼロから作る方法、学習のデータセット、モデルアーキテクチャ、学習環境への取り組みなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>どのような大規模言語モデルと作ったのか？特徴は何か？</li><li>データセットに何を使ったのか？</li><li>日本語と英語とのバランスは？</li><li>最終的なToken数は？</li><li>事前学習モデルを作りたいとして、何から考えるのか？</li><li>ノイズのクリーニングと、その方法</li><li>今回活用したモデルアーキテクチャ(Llama)</li><li>前回のアーキテクチャは GPT-NeoX</li><li>今回の学習環境は？</li><li>AWS Trainum 32コア x 16ノード</li><li>学習にかかった時間は？</li><li>学習時に大変だったこと・上手くいかなかったことは？</li><li>学習中のチェックポイントとは何か？</li><li>なぜ、Token生成が速いのか？</li><li>手元でLLMを動かすときの一番のネックは？</li><li>bit数を落とすFineTuning</li><li>Tokenizerとは何か？</li><li>日本語の単語区切りはどのように考えるのか？</li><li>今回のLLM作成のTokenizerは何を使ったのか？</li><li>ビジネスドメインでのLLM評価</li><li><a href=\"https://stockmark.co.jp/recruit\" rel=\"noopener noreferrer\" target=\"_blank\">ストックマーク株式会社のRecruitページ</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/um3CFcu7rSJzYaVrSf-ueWjHyops9SHcdScSujlbWbE"
+      },
+      "pubDate": "Tue, 14 Nov 2023 22:02:11 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:22",
+      "enclosure": {
+        "@url": "https://chrt.fm/track/D33GD1/rss.art19.com/episodes/78f9e368-c1ef-4714-ae67-b7ea6444f8f0.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 36837250,
+        "#text": null
+      }
+    },
+    {
       "title": "106. 提供者としてクラウドネットワークを作るということ w/ y.kajiura",
       "description": "<p>y.kajiuraさんをゲストに、クラウド内でL2をつなげる大変さ、セキュリティグループの仕組み、スケーラビリティへの取り組みなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li>異なるハイパーバイザーにVMが収容されていてもL2でつながっているように見せることの大変さ</li><li>なぜ、L2で接続することが大変なのか？</li><li>encapsulationした上でのマルチキャスト・ブロードキャストのサポート</li><li>アンダーレイ側のネットワークで対応していないものは、ユーザー側のオーバーレイ通信を提供できない</li><li>当初のモチベーションとしてVRRPを提供したかった</li><li>クラウドサービスでセキュリティグループを提供するための裏側の仕組み</li><li>経路処理をOpsする上で大変なことは？</li><li>OpenTechLunchの資料:&nbsp;<a href=\"https://speakerdeck.com/toby06/how-to-create-cloud-service\" rel=\"noopener noreferrer\" target=\"_blank\">クラウドの作り方（使い方じゃないよ）</a></li><li>ライブマイグレーションの前後での通信継続における課題</li><li>当たり前の前提を見直す重要性</li><li>Prometheus Exporter 自作</li><li>監視ツールの技術選定方針</li><li>Cassandra / RabbitMQ</li><li>ちょっと足りないのがJavaScript</li><li>チームの雰囲気</li><li>チーム内のSPOFへの対策</li><li>求人ページ:&nbsp;<a href=\"https://hrmos.co/pages/nttcom0033/jobs/1895121487979135000\" rel=\"noopener noreferrer\" target=\"_blank\">SDPFクラウド 仮想サーバ開発エンジニア</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "106. 提供者としてクラウドネットワークを作るということ w/ y.kajiura",
