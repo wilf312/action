@@ -6,8 +6,8 @@
     "#text": null
   },
   "title": "Google Cloud Platform Podcast",
-  "pubDate": "Wed, 16 Aug 2023 14:00:00 +0000",
-  "lastBuildDate": "Wed, 15 Nov 2023 18:49:40 +0000",
+  "pubDate": "Thu, 16 Nov 2023 21:10:00 +0000",
+  "lastBuildDate": "Thu, 16 Nov 2023 21:15:49 +0000",
   "generator": "Libsyn WebEngine 2.0",
   "link": "https://www.gcppodcast.com",
   "language": "en-us",
@@ -55,6 +55,33 @@
     "#text": "no"
   },
   "item": [
+    {
+      "title": "How UniSuper is helping Australians get the best of their superannuation fund investments with cloud",
+      "itunes:title": "How UniSuper is helping Australians get the best of their superannuation fund investments with cloud",
+      "pubDate": "Thu, 16 Nov 2023 21:10:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "85f2749c-908f-4459-833b-4e7ef1b3f6b9"
+      },
+      "link": "https://cloud.google.com/podcasts/gcp-podcast",
+      "itunes:image": {
+        "@href": "https://static.libsyn.com/p/assets/f/7/4/f/f74fbc9326b7243588c4a68c3ddbc4f2/GCP_Cloud_thumbnail-20231116-m0x2achbym.png",
+        "#text": null
+      },
+      "description": "<p dir=\"ltr\">In this special episode, we are featuring <a href=\"https://thatdigitalshow.com/\">That Digital Show</a>. In Australia, every employee is required to select their superannuation fund of choice to help them invest a portion of their income. Having celebrated its 40th anniversary recently, UniSuper, one of Australia’s largest superannuation funds, is committed to delivering value and efficiency for its members. Started as a fund for the higher education and research sector, it has now opened its platform to all industries across the country.</p> <p dir=\"ltr\">Today, UniSuper invests more than $120 billion on behalf of more than 620,000 members. With the new Treasury Laws Amendment Act 2021, Your Future, Your Super, that aims to improve the outcome of superannuation funds for Australians, UniSuper decided to undergo a data centre transformation, taking on an 80/20 rule on cloud hosting and adopting the right digital technologies to improve its performance and portfolio.</p> <p dir=\"ltr\">In this episode, Angelo talks about how Google Cloud VMware Engine (GCVE) underpins UniSuper’s shift to the cloud as it moves existing VMware-based workloads from on-premises data centers to the cloud. This enables the organization to quickly scale up while having the flexibility and agility it needs to drive operational efficiencies as it continues to deliver the best returns for its customers. He also shares how the COVID-19 pandemic presented him with some crucial moments of thought that have resulted in some of the changes in best practices across the organization today.</p> <h5 dir=\"ltr\">Angelo Furina, Head of Enterprise Infrastructure & Cloud</h5> <p>Angelo is the Head of Enterprise  Infrastructure and Cloud at UniSuper and is passionate about business transformation and bridging the gap between technology and business strategy. With more than a decade of industry experience, Angelo has delivered technology solutions across manufacturing, telecommunications, media and finance. </p> <h5 dir=\"ltr\">Theo Davies</h5> <p dir=\"ltr\">Theo is the Head of Cloud Sales Excellence & Productivity at Google Cloud. He is a record-breaking salesperson, sales leader, coach and speaker with a 20+ year career beginning in sales. Theo is also the President of the Google Public Speaking Academy.</p> <p> </p>",
+      "content:encoded": "<p dir=\"ltr\">In this special episode, we are featuring <a href=\"https://thatdigitalshow.com/\">That Digital Show</a>. In Australia, every employee is required to select their superannuation fund of choice to help them invest a portion of their income. Having celebrated its 40th anniversary recently, UniSuper, one of Australia’s largest superannuation funds, is committed to delivering value and efficiency for its members. Started as a fund for the higher education and research sector, it has now opened its platform to all industries across the country.</p> <p dir=\"ltr\">Today, UniSuper invests more than $120 billion on behalf of more than 620,000 members. With the new Treasury Laws Amendment Act 2021, Your Future, Your Super, that aims to improve the outcome of superannuation funds for Australians, UniSuper decided to undergo a data centre transformation, taking on an 80/20 rule on cloud hosting and adopting the right digital technologies to improve its performance and portfolio.</p> <p dir=\"ltr\">In this episode, Angelo talks about how Google Cloud VMware Engine (GCVE) underpins UniSuper’s shift to the cloud as it moves existing VMware-based workloads from on-premises data centers to the cloud. This enables the organization to quickly scale up while having the flexibility and agility it needs to drive operational efficiencies as it continues to deliver the best returns for its customers. He also shares how the COVID-19 pandemic presented him with some crucial moments of thought that have resulted in some of the changes in best practices across the organization today.</p> Angelo Furina, Head of Enterprise Infrastructure & Cloud <p>Angelo is the Head of Enterprise  Infrastructure and Cloud at UniSuper and is passionate about business transformation and bridging the gap between technology and business strategy. With more than a decade of industry experience, Angelo has delivered technology solutions across manufacturing, telecommunications, media and finance. </p> Theo Davies <p dir=\"ltr\">Theo is the Head of Cloud Sales Excellence & Productivity at Google Cloud. He is a record-breaking salesperson, sales leader, coach and speaker with a 20+ year career beginning in sales. Theo is also the President of the Google Public Speaking Academy.</p> <p> </p>",
+      "enclosure": {
+        "@length": 36800790,
+        "@type": "audio/mpeg",
+        "@url": "https://traffic.libsyn.com/secure/googlecloudpodcast/Google.Cloud.Platform.Podcast.Episode.336.mp3?dest-id=3174422",
+        "#text": null
+      },
+      "itunes:duration": "25:34",
+      "itunes:explicit": false,
+      "itunes:keywords": "GCVE",
+      "itunes:subtitle": "In this special episode, we are featuring . In Australia, every employee is required to select their superannuation fund of choice to help them invest a portion of their income. Having celebrated its 40th anniversary recently, UniSuper, one...",
+      "itunes:episodeType": "full"
+    },
     {
       "title": "Creating a sustainable EV ecosystem in Taiwan with ChargeSmith",
       "itunes:title": "Creating a sustainable EV ecosystem in Taiwan with ChargeSmith",
