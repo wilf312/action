@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 19 Nov 2023 06:36:39 +0000",
+  "lastBuildDate": "Sun, 19 Nov 2023 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,38 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第242回 テストラジオ 「水道管工事師のリメイク作品の話 」と「ふりかえりの話」",
+      "link": "https://testradio.fm/testradio-no/1481/",
+      "pubDate": "Sun, 19 Nov 2023 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1481"
+      },
+      "comments": "https://testradio.fm/testradio-no/1481/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1481/feed/",
+      "slash:comments": 0,
+      "category": [
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/11/N242TestRadio.mp3",
+        "@length": 71307675,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/Re1pNv7IIRg",
+      "itunes:summary": "https://youtu.be/Re1pNv7IIRg",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "29:42",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1481
+      }
+    },
     {
       "title": "第241回 テストラジオ 時短、時間を作り出す調理器の話 と BPP行脚のイベントに出た２の話",
       "link": "https://testradio.fm/testradio-no/1473/",
@@ -340,35 +372,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1432
-      }
-    },
-    {
-      "title": "第231回 テストラジオ ソフトウェア・シンポジウム in 仙台の話",
-      "link": "https://testradio.fm/testradio-no/1424/",
-      "pubDate": "Sun, 18 Jun 2023 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1424"
-      },
-      "comments": "https://testradio.fm/testradio-no/1424/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1424/feed/",
-      "slash:comments": 0,
-      "category": "テストラジオ",
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2023/06/N231TestRadio.mp3",
-        "@length": 127890269,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://youtu.be/s6zxXJKF-xI",
-      "itunes:summary": "https://youtu.be/s6zxXJKF-xI",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "53:17",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1424
       }
     }
   ]
