@@ -39,6 +39,37 @@
   "language": "ja",
   "item": [
     {
+      "title": "374: OpenAI Is Nothing Without GPU (らんぶる)",
+      "description": "<p>らんぶるさんをゲストに迎えて、OpenAI について話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://twitter.com/tamuramble/status/1727332374864961860\">らんぶる: OpenAIと信仰体系</a></li>\n<li><a href=\"https://openai.com/blog/openai-announces-leadership-transition\">OpenAI announces leadership transition</a></li>\n<li><a href=\"https://twitter.com/gdb/status/1725667410387378559\">Greg Brockman: \"After learning today’s news, this is the message I sent to the OpenAI team\"</a></li>\n<li><a href=\"https://twitter.com/sama/status/1726345564059832609\">Sam Altman: \"first and last time i ever wear one of these\"</a></li>\n<li><a href=\"https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo\">OpenAI board in discussions with Sam Altman to return as CEO</a></li>\n<li><a href=\"https://open.spotify.com/episode/4i4lKsKevNSGEUnuu7Jzn6\">Microsoft CEO Satya Nadella on the OpenAI Debacle - On with Kara Swisher</a></li>\n<li><a href=\"https://twitter.com/ilyasut/status/1726590052392956028\">Ilya Sutskever: \"I deeply regret my participation in the board's actions.\"</a></li>\n<li><a href=\"https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai\">Read Microsoft’s internal memos about the chaos at OpenAI</a></li>\n<li><a href=\"https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai\">Sam Altman returns as CEO OpenAI</a></li>\n<li><a href=\"https://twitter.com/mattturck/status/1726017399176999196\">Matt Turck: \"Sam Altman returning to OpenAI after a day is like Steve Jobs returning to Apple after 12 years, but for the TikTok generation\"</a></li>\n<li><a href=\"https://openai.com/charter\">OpenAI Charter</a></li>\n<li><a href=\"https://www.theheadline.jp/articles/972\">効果的加速主義とは何か？シリコンバレーで話題の新トレンド</a></li>\n<li><a href=\"https://www.smh.com.au/technology/helen-toner-the-effective-altruist-who-sparked-the-open-ai-coup-20231123-p5emb7.html\">Open AI: Helen Toner, the effective altruist who sparked the Open AI coup</a></li>\n<li><a href=\"https://devday.openai.com/\">OpenAI DevDay</a></li>\n<li><a href=\"https://twitter.com/paulg/status/1726633790980964518\">Paul Graham: \"Unexpected advantage of appointing board members....\"</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Adam_D%27Angelo\">Adam D'Angelo</a></li>\n<li><a href=\"https://quorablog.quora.com/Poe-1\">Poe</a></li>\n<li><a href=\"https://www.bloomberg.com/news/videos/2023-11-20/microsoft-wants-to-work-with-altman-no-matter-what-video\">Microsoft Wants to Work With Altman, No Matter What, CEO Nadella Says</a></li>\n<li><a href=\"http://www.paulgraham.com/microsoft.html\">Microsoft is Dead</a></li>\n<li><a href=\"https://www.businessofbusiness.com/articles/y-combinator-where-are-they-now-first-batch-reddit-twitch/\">Y Combinator’s First Batch</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Justin.tv\">Justin.tv</a></li>\n<li><a href=\"https://www.infoworld.com/article/2646042/did-google-kill-kiko.html\">Did Google kill Kiko?</a></li>\n<li><a href=\"https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/\">Cruise co-founder and CEO Kyle Vogt resigns</a></li>\n<li><a href=\"https://twitter.com/defunkt/status/1726738430355558759\">defunkt: \"I too was asked to be the interim OpenAI CEO.\"</a></li>\n<li><a href=\"https://tamuramble.theletter.jp/\">ｺｯｶﾗSaaS</a></li>\n</ul>",
+      "pubDate": "Fri, 24 Nov 2023 03:00:00 -0800",
+      "link": "https://rebuild.fm/374/",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://rebuild.fm/374/"
+      },
+      "itunes:author": "Tatsuhiko Miyagawa",
+      "dc:creator": "Tatsuhiko Miyagawa",
+      "atom:contributor": [
+        {
+          "atom:name": "tamuramble",
+          "atom:uri": "https://rebuild.fm/people/tamuramble/"
+        },
+        {
+          "atom:name": "miyagawa",
+          "atom:uri": "https://rebuild.fm/people/miyagawa/"
+        }
+      ],
+      "itunes:explicit": "no",
+      "itunes:subtitle": "らんぶるさんをゲストに迎えて、OpenAI について話しました。",
+      "itunes:duration": "1:34:13",
+      "enclosure": {
+        "@url": "https://cache.rebuild.fm/podcast-ep374.mp3",
+        "@type": "audio/mpeg",
+        "@length": 68279508,
+        "#text": null
+      }
+    },
+    {
       "title": "373: Dynamically Allocated Wasabi (hak)",
       "description": "<p>Hakuro Matsuda さんをゲストに迎えて、M3チップ、MacBook Pro, チップ業界などについて話しました。</p>\n<h3>Show Notes</h3><ul>\n<li><a href=\"https://www.apple.com/apple-events/\">Apple Events</a></li>\n<li><a href=\"https://www.theverge.com/2023/10/31/23940060/apple-event-shot-on-iphone-behind-the-scenes\">Here’s what Apple means when it says its event was ‘shot on iPhone’</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=V3dbG9pAi8I\">Behind the scenes: An Apple Event shot on iPhone</a></li>\n<li><a href=\"https://www.digitaltrends.com/computing/apple-dynamic-caching-explained/\">Dynamic Caching: an attempt to explain M3's biggest feature</a></li>\n<li><a href=\"https://github.com/ggerganov/whisper.cpp\">whisper.cpp: Port of OpenAI's Whisper model in C/C++</a></li>\n<li><a href=\"https://www.macrumors.com/2023/11/02/mac-revenue-down-m3-sales-improvements/\">Mac Revenue Down 34% Year-Over-Year</a></li>\n<li><a href=\"https://www.threads.net/@wongmjane/post/CzHiMpeSn7E\">Wearing Quest 3 outside while riding Waymo</a></li>\n<li><a href=\"https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/\">GM's Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person</a></li>\n<li><a href=\"https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come\">Qualcomm Snapdragon X Elite Performance Preview</a></li>\n<li><a href=\"https://www.theverge.com/2021/1/13/22229497/qualcomm-apple-nuvia-acquisition-cpu-chip-design-data-center\">Qualcomm just bought a two-year-old startup founded by former Apple engineers for $1.4 billion</a></li>\n<li><a href=\"https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/\">3D Gaussian Splatting for Real-Time Radiance Field Rendering</a></li>\n<li><a href=\"https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs\">Leica’s latest camera encrypts verification info into every photo</a></li>\n<li><a href=\"https://store-jp.nintendo.com/list/software/70010000043363.html\">スイカゲーム</a></li>\n<li><a href=\"https://www.netflix.com/title/81281344\">PLUTO | Netflix</a></li>\n<li><a href=\"https://www.20thcenturystudios.com/movies/the-creator\">The Creator</a></li>\n<li><a href=\"https://www.reuters.com/technology/web-summit-ceo-apologises-comments-israeli-conflict-2023-10-17/\">Web Summit CEO apologises for comments on Israeli conflict</a></li>\n<li><a href=\"https://godzilla-movie2023.toho.co.jp/\">ゴジラ-1.0</a></li>\n<li><a href=\"https://www.apple.com/tv-pr/originals/monarch-legacy-of-monsters/\">Monarch: Legacy of Monsters</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=Opxhh9Oh3rg\">The Beatles - Now And Then</a></li>\n<li><a href=\"https://gallery-ug.com/artists/takaokitajima/\">田島享央己</a></li>\n</ul>",
       "pubDate": "Sat, 04 Nov 2023 23:00:00 -0700",
