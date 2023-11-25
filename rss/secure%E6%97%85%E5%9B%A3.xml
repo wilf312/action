@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/secure-fm</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 17 Aug 2023 05:54:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2023 01:36:22 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/2607ca1c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Secure旅団]]></author>
 		<copyright><![CDATA[Secure旅団]]></copyright>
@@ -25,6 +25,348 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+		<item>
+			<title><![CDATA[CVSSv4.0とかOkta（続）などの話]]></title>
+			<description><![CDATA[<p>(収録日: 2023/11/05)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>CVSSv4と、今までの脆弱性評価の思い出</li>
+</ul>
+<ul>
+ <li>Oktaのインシデントの話（10/30以降に更新された話）。主に公私分離、体制、サービスアカウント</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li><a href="https://www.first.org/cvss/v4-0/">https://www.first.org/cvss/v4-0/</a></li>
+  <li><a href="https://www.sec.gov/Archives/edgar/data/1739942/000173994223000079/swi-20230623.htm">https://www.sec.gov/Archives/edgar/data/1739942/000173994223000079/swi-20230623.htm</a></li>
+  <li>https://sec.okta.com/harfiles</li>
+</ul>
+<p>#積ん読</p>
+<ul>
+  <li>なし</li>
+</ul>
+<p># 参加者: 松本さん(@ym405nm)、名無しさん、ken5scal</p>
+<p>#  ジングル: @hajipion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/secure-fm/episodes/CVSSv4-0Okta-e2bqjct</link>
+			<guid isPermaLink="false">07c785a4-4738-4f5f-9095-2c1c520154e2</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 12 Nov 2023 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/78515037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F744aad98-5fde-9998-0b69-e751de9f106f.mp3" length="60311844" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2023/11/05)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;CVSSv4と、今までの脆弱性評価の思い出&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+ &lt;li&gt;Oktaのインシデントの話（10/30以降に更新された話）。主に公私分離、体制、サービスアカウント&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.first.org/cvss/v4-0/&quot;&gt;https://www.first.org/cvss/v4-0/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1739942/000173994223000079/swi-20230623.htm&quot;&gt;https://www.sec.gov/Archives/edgar/data/1739942/000173994223000079/swi-20230623.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;https://sec.okta.com/harfiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 松本さん(@ym405nm)、名無しさん、ken5scal&lt;/p&gt;
+&lt;p&gt;#  ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:57:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>60</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[仙台のmini hardeningやOktaの話]]></title>
+			<description><![CDATA[<p>(収録日: 2023/10/30)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>仙台で MINI Hardening した話</li>
+</ul>
+<ul>
+ <li>Oktaのインシデントの話（10/30までの時点の情報です）</li>
+</ul>
+<p># 参照</p>
+<ul>
+ <li> <li><br></li>
+</li>
+</ul>
+<p>#積ん読</p>
+<ul>
+ <li>なし</li>
+</ul>
+<p># 参加者: 松本さん(@ym405nm)、ken5scal</p>
+<p>#  ジングル: @hajipion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/secure-fm/episodes/mini-hardeningOkta-e2bglcb</link>
+			<guid isPermaLink="false">97db0394-3f82-4582-9d36-de9799068895</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 05 Nov 2023 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/78189387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-5%2F5f0168d9-d309-349c-f783-ecfa34316113.mp3" length="42005294" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2023/10/30)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;仙台で MINI Hardening した話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+ &lt;li&gt;Oktaのインシデントの話（10/30までの時点の情報です）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt; &lt;li&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 松本さん(@ym405nm)、ken5scal&lt;/p&gt;
+&lt;p&gt;#  ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:59:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[脆弱性管理・パッチ管理など]]></title>
+			<description><![CDATA[<p>(収録日: 2023/10/16)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>雑な談</li>
+ <li>新しいスマホ</li>
+  <li>ノートアプリ</li>
+  <li>気になるニュースあったっけ？ -&gt; 全銀のはレポート待ち。ほかはない（とかいいながら、その数日後にNTT西日本とOktaのやつがくる）</li>
+  <li>雑な談 part2</li>
+  <li>NTLM廃止の話 -&gt; Microsoftプロトコル・ライフサイクルの温故知新、ライセンス</li>
+  <li>curlの脆弱性の話</li>
+  <li>脆弱性管理とパッチ管理の話</li>
+  <li>ルート証明書の更新</li>
+  <li>ArcとWarpの宣伝</li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li><p><a href="https://curl.se/docs/CVE-2023-38545.html">SOCKS5 heap buffer overflow - CVE-2023-38545</a></p>
+</li>
+  <li><p><a href="https://curl.se/docs/CVE-2023-38546.html">cookie injection with none file - CVE-2023-38546</a></p>
+<p><a href="https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/">How I made a heap overflow in curl</a></p>
+</li>
+</ul>
+  <li><ul>
+  <li>  <li><a href="https://www.meta.com/jp/quest/quest-3/">https://www.meta.com/jp/quest/quest-3/</a> </li>
+</li>
+  <li>  <li><a href="https://twitter.com/zakosirasu/status/1711536931509776637">https://twitter.com/zakosirasu/status/1711536931509776637</a></li>
+</li>
+  <li>  <li><a href="https://twitter.com/ROYCE62294821/status/1712104171795886326">https://twitter.com/ROYCE62294821/status/1712104171795886326</a></li>
+</li>
+  <li>  <li><a href="https://twitter.com/enigma63/status/1713530528698368435">https://twitter.com/enigma63/status/1713530528698368435</a></li>
+</li>
+  <li>  <li>Pixelのアップデート</li>
+</li>
+  <li>  <li><a href="https://support.google.com/pixelphone/answer/4457705?hl=ja#zippy=%2Cgoogle-pixel-xlaa-ga-g">Google Pixel にソフトウェア アップデートが提供されるタイミング</a></li>
+</li>
+  <li>  <li><a href="https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848">https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848</a></li>
+</li>
+  <li>  <li><a href="https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade">https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade</a></li>
+</li>
+</ul>
+</li>
+<p>#積ん読</p>
+<ul>
+  <li>なし</li>
+</ul>
+<p># 参加者: 松本さん(@ym405nm)、ken5scal、wireworkers</p>
+<p>#  ジングル: @hajipion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/secure-fm/episodes/ep-e2at2ro</link>
+			<guid isPermaLink="false">a115b222-2d52-4118-ab6c-7488550f36d9</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 22 Oct 2023 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/77547832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-22%2Fc73dd639-5076-5433-5327-4f891ad17df8.mp3" length="83746714" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2023/10/16)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;雑な談&lt;/li&gt;
+ &lt;li&gt;新しいスマホ&lt;/li&gt;
+  &lt;li&gt;ノートアプリ&lt;/li&gt;
+  &lt;li&gt;気になるニュースあったっけ？ -&amp;gt; 全銀のはレポート待ち。ほかはない（とかいいながら、その数日後にNTT西日本とOktaのやつがくる）&lt;/li&gt;
+  &lt;li&gt;雑な談 part2&lt;/li&gt;
+  &lt;li&gt;NTLM廃止の話 -&amp;gt; Microsoftプロトコル・ライフサイクルの温故知新、ライセンス&lt;/li&gt;
+  &lt;li&gt;curlの脆弱性の話&lt;/li&gt;
+  &lt;li&gt;脆弱性管理とパッチ管理の話&lt;/li&gt;
+  &lt;li&gt;ルート証明書の更新&lt;/li&gt;
+  &lt;li&gt;ArcとWarpの宣伝&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://curl.se/docs/CVE-2023-38545.html&quot;&gt;SOCKS5 heap buffer overflow - CVE-2023-38545&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://curl.se/docs/CVE-2023-38546.html&quot;&gt;cookie injection with none file - CVE-2023-38546&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/&quot;&gt;How I made a heap overflow in curl&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;ul&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://www.meta.com/jp/quest/quest-3/&quot;&gt;https://www.meta.com/jp/quest/quest-3/&lt;/a&gt; &lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://twitter.com/zakosirasu/status/1711536931509776637&quot;&gt;https://twitter.com/zakosirasu/status/1711536931509776637&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ROYCE62294821/status/1712104171795886326&quot;&gt;https://twitter.com/ROYCE62294821/status/1712104171795886326&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://twitter.com/enigma63/status/1713530528698368435&quot;&gt;https://twitter.com/enigma63/status/1713530528698368435&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;Pixelのアップデート&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://support.google.com/pixelphone/answer/4457705?hl=ja#zippy=%2Cgoogle-pixel-xlaa-ga-g&quot;&gt;Google Pixel にソフトウェア アップデートが提供されるタイミング&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848&quot;&gt;https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+  &lt;li&gt;  &lt;li&gt;&lt;a href=&quot;https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade&quot;&gt;https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 松本さん(@ym405nm)、ken5scal、wireworkers&lt;/p&gt;
+&lt;p&gt;#  ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:20:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>58</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[久しぶりのエピソードの言い訳とか流行りのネタ]]></title>
+			<description><![CDATA[<p>(収録日: 2023/10/02)</p>
+<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>言い訳</li>
+ <li>passkeyのニーズの話</li>
+  <li>Colab</li>
+  <li>最近気になったインシデントとオフボーディング </li>
+</ul>
+<p># 参照</p>
+<ul>
+  <li>前職のデータベースに週末アクセス繰り返し不正発覚した事案についてまとめてみた - piyolog</li>
+  <li>前職の名刺情報を転職先に不正提供した事案についてまとめてみた - piyolog</li>
+</ul>
+<p>#積ん読</p>
+<ul>
+  <li>なし</li>
+</ul>
+<p># 参加者: 松本さん(@ym405nm)、ken5scal、wireworkers</p>
+<p>#  ジングル: @hajipion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/secure-fm/episodes/ep-e2aip3d</link>
+			<guid isPermaLink="false">f8058398-15b5-4cde-abf3-c384137b03c3</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 15 Oct 2023 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/77210157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-14%2F6d9b59f1-a3c8-6efa-1221-6824a6ef0316.mp3" length="51753535" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2023/10/02)&lt;/p&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;言い訳&lt;/li&gt;
+ &lt;li&gt;passkeyのニーズの話&lt;/li&gt;
+  &lt;li&gt;Colab&lt;/li&gt;
+  &lt;li&gt;最近気になったインシデントとオフボーディング &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参照&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;前職のデータベースに週末アクセス繰り返し不正発覚した事案についてまとめてみた - piyolog&lt;/li&gt;
+  &lt;li&gt;前職の名刺情報を転職先に不正提供した事案についてまとめてみた - piyolog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#積ん読&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者: 松本さん(@ym405nm)、ken5scal、wireworkers&lt;/p&gt;
+&lt;p&gt;#  ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:50:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>57</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[データ・スペシャル - AIセキュリティ専門家とAIの話]]></title>
+			<description><![CDATA[<p>(収録日: 2023/09/05)</p>
+<ul>
+ <li>今回は @bbr_bbq さんをゲストにお呼びしています</li>
+</ul>
+<p># 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。</p>
+<p># 内容</p>
+<ul>
+ <li>自己紹介</li>
+ <li>出会い</li>
+ <li>AISEC</li>
+  <li>Adversarial Example/Evasion Techniqueについて</li>
+</ul>
+<ul>
+  <li>AIに対する攻撃手法と論文の傾向について</li>
+  <li>実際の攻撃について</li>
+  <li>どうLLMを使っているか</li>
+</ul>
+<ul>
+  <li>学生向けのAIセキュリティ講座の内容</li>
+</ul>
+<p># 参加者:@bbr_bbq 、ken5scal</p>
+<p>#  ジングル: @hajipion</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/secure-fm/episodes/--AIAI-e29d0iu</link>
+			<guid isPermaLink="false">e515b38c-aabc-422b-9b0c-945ceebea175</guid>
+			<dc:creator><![CDATA[Secure旅団]]></dc:creator>
+			<pubDate>Sun, 24 Sep 2023 22:32:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/2607ca1c/podcast/play/75972638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-16%2F53ea8992-951a-fe73-3ebd-10260e5fac1e.mp3" length="20229033" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(収録日: 2023/09/05)&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;今回は @bbr_bbq さんをゲストにお呼びしています&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 感想はtwitterでハッシュタグ「#secure旅団  #secureLiaison」やGoogle Formにいただけると嬉しいです。&lt;/p&gt;
+&lt;p&gt;# 内容&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;自己紹介&lt;/li&gt;
+ &lt;li&gt;出会い&lt;/li&gt;
+ &lt;li&gt;AISEC&lt;/li&gt;
+  &lt;li&gt;Adversarial Example/Evasion Techniqueについて&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;AIに対する攻撃手法と論文の傾向について&lt;/li&gt;
+  &lt;li&gt;実際の攻撃について&lt;/li&gt;
+  &lt;li&gt;どうLLMを使っているか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;学生向けのAIセキュリティ講座の内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;# 参加者:@bbr_bbq 、ken5scal&lt;/p&gt;
+&lt;p&gt;#  ジングル: @hajipion&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>00:42:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6280447/6280447-1597946356232-752b444233e64.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>56</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[GWの話やRSAカンファレンスの話]]></title>
 			<description><![CDATA[<p>(収録日: 2023/05/)</p>

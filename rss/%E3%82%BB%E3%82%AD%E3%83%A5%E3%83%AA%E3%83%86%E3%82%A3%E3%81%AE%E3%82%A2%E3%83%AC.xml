@@ -16,11 +16,11 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
 	<link>http://www.tsujileaks.com</link>
 	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
-	<lastBuildDate>Mon, 21 Aug 2023 11:00:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Nov 2023 11:00:26 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.3</generator>
+		<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://www.tsujileaks.com/wp-content/uploads/cropped-anchor_thumb-1-32x32.png</url>
@@ -33,7 +33,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:new-feed-url>https://www.tsujileaks.com/?feed=podcast</itunes:new-feed-url>
 	<itunes:summary>サイバーでセキュリティな話題を取り上げるポッドキャストです！!</itunes:summary>
 	<itunes:author>セキュリティのアレ</itunes:author>
-	<itunes:explicit>clean</itunes:explicit>
+	<itunes:explicit>false</itunes:explicit>
 	<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 	<itunes:owner>
 		<itunes:name>セキュリティのアレ</itunes:name>
@@ -42,7 +42,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:subtitle>ゆるーいセキュリティのポッドキャストですよ。</itunes:subtitle>
 	<image>
 		<title>セキュリティのアレ</title>
-		<url>http://www.tsujileaks.com/wp-content/uploads/anchor_thumb01.png</url>
+		<url>http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png</url>
 		<link>http://www.tsujileaks.com</link>
 	</image>
 	<itunes:category text="Technology" />
@@ -55,48 +55,445 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>b8ed8459-0ae7-5ff2-b138-e9316aed3d80</podcast:guid>
 	<rawvoice:subscribe feed="https://www.tsujileaks.com/?feed=podcast" itunes="https://podcasts.apple.com/jp/podcast/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC-%E4%BB%AE/id431514172"></rawvoice:subscribe>
 	<item>
+		<title>第201回 このポッドキャストは58分37秒で聴けます！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1639</link>
+		<pubDate>Mon, 20 Nov 2023 11:00:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1639</guid>
+		<comments>https://www.tsujileaks.com/?p=1639#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1639</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1639" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1639&amp;text=%E7%AC%AC201%E5%9B%9E%20%E3%81%93%E3%81%AE%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AF58%E5%88%8637%E7%A7%92%E3%81%A7%E8%81%B4%E3%81%91%E3%81%BE%E3%81%99%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1639" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://unit42.paloaltonetworks.com/new-cve-2023-36584-discovered-in-attack-chain-used-by-russian-apt/">In-Depth Analysis of July 2023 Exploit Chain Featuring CVE-2023-36884 and CVE-2023-36584</a><br />
+・<a href="https://blogs.windows.com/windowsexperience/2023/11/09/reflecting-on-20-years-of-windows-patch-tuesday/">Reflecting on 20 years of Windows Patch Tuesday | Windows Experience Blog</a><br />
+・<a href="https://msrc.microsoft.com/blog/2023/11/reflecting-on-20-years-of-patch-tuesday/">Reflecting on 20 years of Patch Tuesday | MSRC Blog | Microsoft Security Response Center</a><br />
+・<a href="https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/">Hive Ransomware&#8217;s Offspring: Hunters International Takes the Stage</a><br />
+・<a href="https://www.inaba-p.co.jp/">岐阜県 inaba 稲葉ピーナツホームページ</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg"><img fetchpriority="high" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1640" srcset="https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sukisukisukisukisukiyaki.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>寝起きのチキチクで感じる冬。意外と繊細。2人目。QRなのに短縮URL使う理由。ヤン坊マー坊は1959年から。なかったことなってた。初心でね。新たなMoTW回避。口頭説明の限界に挑戦。タイミング。合わせ技一本系。単体で見ると低い危険度なるので注意が必要。これがあれば被害受けなかったのにとならないように。○分で読めますアテにならない説。20周年おめでとうございます！2003年10月。発表当時はうまくいくのか懐疑的でした。提供する側の工夫、試行錯誤大事。2008年に定例外が始まった。細かいことを考えさせないというのは鍵だと思う。Hiveどこいった？逮捕や起訴は報じられていない。韻踏んでるのは興味なさそう。公式が後継であることを否定。お前Hiveだろ？他のリークサイトとの違い。暗号化しないほうが攻撃の手間が減るのを狙ってる？RaaSの引き際パターン。食料品は見て回るのが好き。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                                | 00:00 |<br />
+| 2 | お便りのコーナー                                | 05:07 |<br />
+| 3 | (P) MotW をバイパスする脆弱性を悪用する攻撃              | 12:33 |<br />
+| 4 | (N) Patch Tuesday 20周年                  | 28:14 |<br />
+| 5 | (T) Hunters International は Hive の後継なのか | 39:43 |<br />
+| 6 | オススメのアレ                                 | 50:48 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年11月18日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231120_gonna.mp3" length="28237907" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</itunes:subtitle>
+		<itunes:summary>Tweet・In-Depth Analysis of July 2023 Exploit Chain Feat[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>58:37</itunes:duration>
+	</item>
+	<item>
+		<title>第200回 これは通過点なんだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1635</link>
+		<pubDate>Tue, 14 Nov 2023 11:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1635</guid>
+		<comments>https://www.tsujileaks.com/?p=1635#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1635</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・SysAid On-Prem Software CVE-2023-47246 Vulnerabil[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1635" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1635&amp;text=%E7%AC%AC200%E5%9B%9E%20%E3%81%93%E3%82%8C%E3%81%AF%E9%80%9A%E9%81%8E%E7%82%B9%E3%81%AA%E3%82%93%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1635" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification">SysAid On-Prem Software CVE-2023-47246 Vulnerability &#8211; SysAid</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2023/11/12/014635">短縮URLサービス利用時に表示された悪質な広告についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.cisa.gov/news-events/alerts/2023/11/08/cisa-adds-one-known-exploited-vulnerability-catalog">CISA Adds One Known Exploited Vulnerability to Catalog | CISA</a><br />
+・<a href="https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp">New high-severity vulnerability (CVE-2023-29552) discovered in the Service Location Protocol (SLP) | Bitsight</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/200.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1636" srcset="https://www.tsujileaks.com/wp-content/uploads/200-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/200-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/200-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/200.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>200回です。でも通過点。身近なところにアレ勢。よかった回。ついついツイートって言う。CL0Pの新たなゼロデイ利用。脆弱性対応 != パッチ適用。侵害の可能性を意識した注意喚起。アクセス制御の余地を考える。中身いじれる製品とそれ以外。変更管理ってあまり目が向けられない印象がある。QRコードの怪。使っていた短縮URLのリダイレクトページに。紛らわしいボタン。QRにしたなら短縮やめたほうがよかったですね。自分たちでコントロールできないものを使うことのリスクを考えよう。組織で短縮URLを使う理由って。時代は繰り返される。本物より偽物のほうがでかい。久々の。KEVに追加。SLP。増幅系のやつ。一旦ため込ませるのがミソ。ローカル前提大体ソレ説。誰かが使い始めるというよりサービスで採用されたらって感じですね。「またか」ではなく「異常だ」と感じるべき。出鼻挫いていくスタイル。今後ともよろしくお願いいたします。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                         | 00:00 |<br />
+| 2 | お便りのコーナー                         | 03:21 |<br />
+| 3 | (T) SysAid のゼロデイを狙う CL0P の攻撃     | 10:03 |<br />
+| 4 | (P) 短縮URLサービスから広告経由で不正サイトに誘導された話 | 23:16 |<br />
+| 5 | (N) SLP を悪用する DoS 攻撃             | 40:19 |<br />
+| 6 | オススメのアレ                          | 56:35 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年11月12日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231114_200.mp3" length="30956508" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・SysAid On-Prem Software CVE-2023-47246 Vulnerabil[...]</itunes:subtitle>
+		<itunes:summary>Tweet・SysAid On-Prem Software CVE-2023-47246 Vulnerabil[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:04:17</itunes:duration>
+	</item>
+	<item>
+		<title>第199回 あと1回！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1626</link>
+		<pubDate>Mon, 06 Nov 2023 23:00:26 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1626</guid>
+		<comments>https://www.tsujileaks.com/?p=1626#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1626</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・Unauthorized Access to Okta’s Support Case [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1626" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1626&amp;text=%E7%AC%AC199%E5%9B%9E%20%E3%81%82%E3%81%A81%E5%9B%9E%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1626" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://sec.okta.com/harfiles/">Unauthorized Access to Okta&#8217;s Support Case Management System: Root Cause and Remediation | Okta Security</a><br />
+・<a href="https://notes.valdikss.org.ru/jabber.ru-mitm/">Encrypted traffic interception on Hetzner and Linode targeting the largest Russian XMPP (Jabber) messaging service —</a><br />
+・<a href="https://www.cisa.gov/news-events/news/ransomware-vulnerability-warning-pilot-updates-now-one-stop-resource-known-exploited-vulnerabilities">Ransomware Vulnerability Warning Pilot updates: Now a One-stop Resource for Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware | CISA</a><br />
+・<a href="https://www.coveware.com/blog/2023/10/27/scattered-ransomware-attribution-blurs-focus-on-ir-fundamentals">Scattered Ransomware Attribution Blurs Focus on IR Fundamentals</a><br />
+・<a href="https://www.tines.com/reports/voice-of-the-soc-2023/">Report: Voice of the SOC 2023 | Tines</a><br />
+・<a href="http://everyday-movie.jp/">映画『Every Day』公式サイト 全国巡回上映中</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/mushroom.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/mushroom-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1627" srcset="https://www.tsujileaks.com/wp-content/uploads/mushroom-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/mushroom-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/mushroom-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/mushroom.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>謝罪です。どっちが元祖やねんのアレ。新語・流行語大賞。新しい学校のリーダーズもね！どこで流行してるのか疑惑。気付いててもスルーしていくスタイル。勝手に全国区と思っているものってありますよね。合格者続出のポッドキャスト。今まで一番良かった回、印象に残った回教えてください！きちんと過去ネタもアップデートしていくぅ！また個人のやつ！これは根深いと思っています。伝えていかないとと思っています。JavaやないでJabberやで。切れてなーい！法執行機関の網？更新漏れはワザと？ものっそいちっちゃい文字での提出のアレが思い出される。KEVの新しい列について。2割近くって思ったより多かった。悪用された年とCVE番号のギャップ。2017年の境目。異なるタイプ攻撃者の隔たりが小さくなっているっぽい。KEVの新しい使い方思いついたんですけど。実績の軸ほしい。どこが使っているかを把握しててもすべてではないからなのか。生々しい実態調査。驚異の満足度。とはいえ燃え尽きもある。非常に燃え尽きてるってもうススやん。何年目以降燃え尽きやすいみたいな数字は知りたかった。立場が変わっても離れられないのかも。コミュニケーションがしんどいだってー！？色々大杉問題。どれくらい移る気持ちが高いのかも気になる。変わるべきは両方って多いと思うんです。なんとなく過ごしている毎日について。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                         | 00:00 |<br />
+| 2 | お便りのコーナー                         | 06:52 |<br />
+| 3 | (N) Okta への不正アクセスの続報             | 15:35 |<br />
+| 4 | (N) ドイツであるサービスの暗号化通信が盗聴 ?        | 20:16 |<br />
+| 5 | (T) KEV カタログにランサムウェア関連の項目が追加された話 | 31:43 |<br />
+| 6 | (P) SOC に勤務する人達の本音レポート           | 46:58 |<br />
+| 7 | オススメのアレ                          | 65:42 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年11月05日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231107_4238.mp3" length="33462462" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・Unauthorized Access to Okta’s Support Case [...]</itunes:subtitle>
+		<itunes:summary>Tweet・Unauthorized Access to Okta’s Support Case [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:30</itunes:duration>
+	</item>
+	<item>
+		<title>第198回 なんだかんだ泥臭く行くのだ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1622</link>
+		<pubDate>Mon, 23 Oct 2023 11:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1622</guid>
+		<comments>https://www.tsujileaks.com/?p=1622#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1622</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・X-Force uncovers global NetScaler Gateway credent[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1622" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1622&amp;text=%E7%AC%AC198%E5%9B%9E%20%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E3%82%93%E3%81%A0%E6%B3%A5%E8%87%AD%E3%81%8F%E8%A1%8C%E3%81%8F%E3%81%AE%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1622" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://securityintelligence.com/x-force/x-force-uncovers-global-netscaler-gateway-credential-harvesting-campaign/">X-Force uncovers global NetScaler Gateway credential harvesting campaign</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2023/10/19/215229">Cisco IOS XE の脆弱性 CVE-2023-20198 / CVE-2023-20273 についてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z">Multiple Vulnerabilities in Cisco IOS XE Software Web UI Feature</a><br />
+・<a href="https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/">Active exploitation of Cisco IOS XE Software Web Management User Interface vulnerabilities</a><br />
+・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02">BOD 23-02: Mitigating the Risk from Internet-Exposed Management Interfaces | CISA</a><br />
+・<a href="https://sec.okta.com/harfiles/">Tracking Unauthorized Access to Okta&#8217;s Support System | Okta Security</a><br />
+・<a href="https://www.beyondtrust.com/blog/entry/okta-support-unit-breach">BeyondTrust Discovers Breach of Okta Support Unit | BeyondTrust</a><br />
+・<a href="https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/">How Cloudflare mitigated yet another Okta compromise</a><br />
+・<a href="https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/">Results of Major Technical Investigations for Storm-0558 Key Acquisition | MSRC Blog | Microsoft Security Response Center</a><br />
+・<a href="https://www.truesec.com/hub/blog/darkgate-loader-delivered-via-teams">Title: DarkGate Loader delivered via Teams &#8211; Truesec</a><br />
+・<a href="https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html">DarkGate Opens Organizations for Attack via Skype, Teams</a><br />
+・<a href="https://www.oliversauce.com/doro/">濃熟旨辛どろソース｜オリバーソース</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/pf.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1623" srcset="https://www.tsujileaks.com/wp-content/uploads/pf-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/pf-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/pf-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/pf.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>結構三人で喋ってる。長らく使っているもの。ゆくゆくは丸見え。イリーガルジャージ。CPEにもなるアレ。おかえりなさい！毎回新鮮だけど大枠変わってない。自分の仕事の説明。皆さんも買って感想くれるの嬉しいんですよね。未知のメカニズム。アカウント作成の脆弱性は厄介。結構なオーダー。被害の詳細は公開されていない。まだまだに外に空いてるんですね。意識できてるのはどのくらい？できてたら制御してそうだからやっぱできてないんじゃなかろうか。再起動したら消えるのって昔ペストって呼ばれた時期ありましたね。アップデートしてないと何でやられたか追いにくいというのもある。窃取理由は書いてないけど認証情報が予め盗まれてたものが悪用！から始まる話ちょくちょく見かけるようになった。oktaの向こう側。ダメージコントロールすごっ。鍵束狙うみたいな。あたたたたたたた多機能！10人限定販売でも使う人数が10人とは限らないかな。メールやWebではない経路で来た。チャット版スレッドハイジャック。Autoit。関係あるやんけ。初のゼロ。分業・専業って手強いな。濃熟旨辛。オイソース。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                      | 00:00 |<br />
+| 2 | お便りのコーナー                      | 05:16 |<br />
+| 3 | (P) Cisco IOS XE の脆弱性を悪用する攻撃  | 13:13 |<br />
+| 4 | (N) Okta のサポートシステムへの不正アクセスの影響 | 27:24 |<br />
+| 5 | (T) DarkGate マルウェアの活動状況       | 40:44 |<br />
+| 6 | オススメのアレ                       | 51:50 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年10月21日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231023_mrchildren.mp3" length="28325037" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・X-Force uncovers global NetScaler Gateway credent[...]</itunes:subtitle>
+		<itunes:summary>Tweet・X-Force uncovers global NetScaler Gateway credent[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>58:48</itunes:duration>
+	</item>
+	<item>
+		<title>第197回 夏は終わった！コンビニに明日はない！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1616</link>
+		<pubDate>Tue, 10 Oct 2023 11:00:51 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1616</guid>
+		<comments>https://www.tsujileaks.com/?p=1616#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1616</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet・サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト ・デジタル空間に、もっと信頼を。 Origi[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1616" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1616&amp;text=%E7%AC%AC197%E5%9B%9E%20%E5%A4%8F%E3%81%AF%E7%B5%82%E3%82%8F%E3%81%A3%E3%81%9F%EF%BC%81%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%81%AB%E6%98%8E%E6%97%A5%E3%81%AF%E3%81%AA%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1616" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>・<a href="https://www.npa.go.jp/publications/statistics/cybersecurity/index.html">サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト</a><br />
+・<a href="https://originator-profile.org/ja-JP/">デジタル空間に、もっと信頼を。 Originator Profile</a><br />
+・<a href="https://isc.sans.edu/diary/30248/">A new spin on the ZeroFont phishing technique &#8211; SANS Internet Storm Center</a><br />
+・<a href="https://www.haagen-dazs.co.jp/products/special/hanamochi-2023/">華もち｜商品情報｜ハーゲンダッツ ジャパン Häagen-Dazs</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/appetite.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/appetite-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1617" srcset="https://www.tsujileaks.com/wp-content/uploads/appetite-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/appetite-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/appetite-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/appetite.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>口は災いの元。例のモノが届いた？どこで何喋ったか覚えてない定期。ようやくよやく。性能以外の大事なものもある。シェバット。勉強はしないよりもしておいたほうがいいわ。っていう歌もありましたね。早く手を付けて継続すること。ライブやったことないかも。ペリスコープ覚えてますか？試験勉強きっかけとかもある。色々コメントくださいね。こっそり。通称：めぐる情勢。3部構成。上げ止まってる？二重と二重以外。団体ってなんで分けてるんやろ。注意喚起するなら同じことを広めてもいいのでは？まだまだVPN由来。侵害を受けたけどパッチはどうだったのか。エンドユーザ由来というのもあるのでは。国内では病院、港でというのでクローズアップされがちだったかも。復旧にかかった時間と費用はこれだけ出されても計りかねる。アンケート項目変わってるのあるので注意。お声がけお待ちいたしております。辻さんは置いておいてもろて。人生で初めて聞いた。広まるかなと思っていたものの。誤った、偽情報が社会的な問題に。それどやって分かりやすく判断できるようにする？W3C巻き込んで。ゴリ押しのあるある末路。プラットフォーマーの力。生存戦略なのか。フィッシングのテクニック。ゼロフォント。ちゃんとしたフィッシングメール。リスト表示されるところを対象にしているところが新しい。今回のは機械ではなく人間を騙す。実は他のジャンルではよく知られているテクニック。Preview Text Hack。騙すよりも気を惹くということのほうが効果的そう。アイスの季節です。気に入るとがっつりいくタイプ。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                            | 00:00 |<br />
+| 2 | お便りのコーナー                            | 06:48 |<br />
+| 3 | (T) 令和５年上半期におけるサイバー空間をめぐる脅威の情勢等について | 16:26 |<br />
+| 4 | (P) Originator Profile の取り組み        | 35:33 |<br />
+| 5 | (N) フォントサイズ 0 のちょっと変わったフィッシングメール    | 49:17 |<br />
+| 6 | オススメのアレ                             | 59:23 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年10月08日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231010_nanigaiitaikatteiuto.mp3" length="30836793" type="audio/mpeg" />
+		<itunes:subtitle>Tweet・サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト ・デジタル空間に、もっと信頼を。 Origi[...]</itunes:subtitle>
+		<itunes:summary>Tweet・サイバー空間をめぐる脅威の情勢等｜警察庁Webサイト ・デジタル空間に、もっと信頼を。 Origi[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:04:02</itunes:duration>
+	</item>
+	<item>
+		<title>第196回 あと4回で200回を迎えるぜ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1610</link>
+		<pubDate>Mon, 02 Oct 2023 11:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1610</guid>
+		<comments>https://www.tsujileaks.com/?p=1610#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1610</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Analysis of Time-to-Exploit Trends: 2021-2[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1610" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1610&amp;text=%E7%AC%AC196%E5%9B%9E%20%E3%81%82%E3%81%A84%E5%9B%9E%E3%81%A7200%E5%9B%9E%E3%82%92%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1610" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.mandiant.com/resources/blog/time-to-exploit-trends-2021-2022">Analysis of Time-to-Exploit Trends: 2021-2022 | Mandiant</a><br />
+・<a href="https://www.npa.go.jp/news/release/2023/20230927001.html">中国を背景とするサイバー 攻撃グループ BlackTech に よるサイバー攻撃について（注意喚起）｜警察庁Webサイト</a><br />
+・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-270a">People&#8217;s Republic of China-Linked Cyber Actors Hide in Router Firmware | CISA</a><br />
+・<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csa-cyber-report-sept-2023">Reports about Cyber Actors Hiding in Router Firmware</a><br />
+・<a href="https://www.coalitioninc.com/announcements/2023-claims-report-mid-year-update">Coalition&#8217;s Cyber Claims Report Finds Frequency and Severity Increased in 1H 23</a><br />
+・<a href="https://guard.lion.co.jp/style/">しわとり・消臭・除菌・防臭ができるトータルケアスプレー「お洋服のスタイルガード」｜ライオン株式会社</a></p>
+<p>&nbsp;<br />
+<a href="http://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1611" srcset="https://www.tsujileaks.com/wp-content/uploads/yakioimo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/yakioimo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/yakioimo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>BODづくしのパネル。今回のパネルの辻的ハイライト。笑ってくれてましたか？寝てる人を起こすには。蚊が元気なタイミング。1000超えたから考える運用方法。ちょぴりBYODの場合の侵害の影響範囲。気付きのあるポッドキャスト。それぞれの情報収集。悪用された脆弱性の分析。悪用されるまでの日数ってどんどん短くなり続けてますよね。公表から1年経ってから悪用された脆弱性が何だったのか気になりますね。分析組織による観測範囲の偏りはあるかもしれませんね。攻撃側にもある優先度。内訳知りたい！知りたい！今出た意味。日本語のと英語のとで結構内容が異なる。ファームウェアの書き換えってめちゃくちゃ厄介やなぁ。JCDC = Joint Cyber Defense Collaborative。CISCOのアンサー。警視庁の注意喚起が参考として掲載。ほんで何したらええんかいな。出すことそのものが目的の可能性。今日も今日とて。保険会社のランサム分析。ユーロじゃなくてドルでした！単価を上げる、BigGame Hunt的なのは他のレポートでも見られますね。底打ちの上昇傾向になのかも。LockBitがアフィリエイトに向けてルールの提案。業種も規模もよりけりであり、どこに来てもおかしくないということには変わりない。皺伸ばシュッシュー！</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                                | 00:00 |<br />
+| 2 | お便りのコーナー                                | 05:31 |<br />
+| 3 | (N) Mandiant による 2021-2022年に悪用された脆弱性の分析 | 16:27 |<br />
+| 4 | (P) BlackTech の攻撃活動に関する日米共同の注意喚起        | 34:43 |<br />
+| 5 | (T) サイバー保険におけるランサムウェア被害の動向              | 48:35 |<br />
+| 6 | オススメのアレ                                 | 66:07 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年09月30日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_231002_whyEUR.mp3" length="33602224" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Analysis of Time-to-Exploit Trends: 2021-2[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Analysis of Time-to-Exploit Trends: 2021-2[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:48</itunes:duration>
+	</item>
+	<item>
+		<title>第195回 KEVとOTPとMFA！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1606</link>
+		<pubDate>Mon, 25 Sep 2023 11:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1606</guid>
+		<comments>https://www.tsujileaks.com/?p=1606#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1606</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・令和５年上半期におけるサイバー空間をめぐる脅威の情勢等について｜警察庁Webサイト [...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1606" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1606&amp;text=%E7%AC%AC195%E5%9B%9E%20KEV%E3%81%A8OTP%E3%81%A8MFA%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1606" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://www.npa.go.jp/news/release/2023/20230919001.html">令和５年上半期におけるサイバー空間をめぐる脅威の情勢等について｜警察庁Webサイト</a><br />
+・<a href="https://infosec.exchange/@SophosXOps/111059615477475993">Sophos X-Ops: &quot;In a recent intrusion, Sophos observed the latest BlackCat / ALPHV variant, dubbed Sphynx, sporting new features and being used to encrypt Azure Storage accounts.&quot; &#8211; Infosec Exchange</a><br />
+・<a href="https://www.cisa.gov/news-events/news/kev-catalog-reaches-1000-what-does-mean-and-what-have-we-learned">KEV Catalog Reaches 1000, What Does That Mean and What Have We Learned | CISA</a><br />
+・<a href="https://retool.com/blog/mfa-isnt-mfa/">When MFA isn&#8217;t actually MFA</a><br />
+・<a href="https://security.googleblog.com/2023/04/google-authenticator-now-supports.html">Google Online Security Blog: Google Authenticator now supports Google Account synchronization</a><br />
+・<a href="https://www.asakusaimahan.com/user_data/tukudani.php">浅草今半 オンラインショップ / 佃煮</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/1010.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/1010-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1607" srcset="https://www.tsujileaks.com/wp-content/uploads/1010-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/1010-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/1010-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/1010.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：</p>
+<blockquote><p>落ち着きがないわ。言ってたわ案件。今日はいい感じですね。by piyokango。全裸ランサム。うまいこと言うというのは諸刃の剣。見つけたんですね。セキュリティは狭いようで広いのかもしれない。声と年齢。国による休日の違い。ディスインフォメーションかもしれない可能性の考慮。スフィンクス。ランダムっぽい引数のランサム。クラウドもターゲットにした。これまでも様々な攻撃手法を使ってきていた。検索してはいけない言葉に登録されているんですよね。独自の転送ソフトも提供している。色々な情報や思っていることを書くようになってきた。ついに1000件を超えた。追加される3つの基準。発行してからこれまでの効果。最終回みたいなことを。Noteは結構前からあったけど使われるようになったのは最近っぽい。インシデントの数は減っているのだろうか。仕組みと現実的な運用方法。やりっぱなしじゃなくて偉い！スミッシングから始まった攻撃。1人だけがひっかかってしまった。からの電話。その質と流れとは。MFAのシークレットの扱い方がキモ。書いていないことは都合が悪いのかも。仕組みの危なさを考える癖。野放しになっちゃうなぁ。使っている人は右上の雲マークを確認！自分は使わなくなった端末でバックアップしてます。かなりの下準備。白いご飯きっかけのおすすめのアレ。</p>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                     | 00:00 |<br />
+| 2 | お便りのコーナー                     | 05:33 |<br />
+| 3 | (T) BlackCat ランサムウェアの新たな攻撃手法 | 14:50 |<br />
+| 4 | (P) KEV カタログの運用状況            | 26:17 |<br />
+| 5 | (N) MFA が MFA じゃなくなる時        | 44:03 |<br />
+| 6 | オススメのアレ                      | 65:39 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年09月23日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_230926_nowareare.mp3" length="33621597" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・令和５年上半期におけるサイバー空間をめぐる脅威の情勢等について｜警察庁Webサイト [...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・令和５年上半期におけるサイバー空間をめぐる脅威の情勢等について｜警察庁Webサイト [...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:09:50</itunes:duration>
+	</item>
+	<item>
+		<title>第194回 アレですよ！アレ！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1600</link>
+		<pubDate>Mon, 18 Sep 2023 11:00:04 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1600</guid>
+		<comments>https://www.tsujileaks.com/?p=1600#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1600</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1600" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1600&amp;text=%E7%AC%AC194%E5%9B%9E%20%E3%82%A2%E3%83%AC%E3%81%A7%E3%81%99%E3%82%88%EF%BC%81%E3%82%A2%E3%83%AC%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1600" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://event.shoeisha.jp/soday/20230926/session/4624">Security Online Day 2023 秋の陣（2023.09.26‐27）</a><br />
+・<a href="https://www.itmedia.co.jp/news/articles/2309/14/news152.html">「Amazonを不正利用された」──SNS上で報告相次ぐ 「二段階認証を突破された」などの声も &#8211; ITmedia NEWS</a><br />
+・<a href="https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201997820">Amazon.co.jpのクレジットカードセキュリティ &#8211; Amazonカスタマーサービス</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/">Peach Sandstorm password spray campaigns enable intelligence collection at high-value targets | Microsoft Security Blog</a><br />
+・<a href="https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/">Malware distributor Storm-0324 facilitates ransomware access | Microsoft Security Blog</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/new-tool-exploits-microsoft-teams-bug-to-send-malware-to-users/">New tool exploits Microsoft Teams bug to send malware to users</a><br />
+・<a href="https://hallmark.jp/collections/card_birthday/products/815042">演歌ネコII【誕生お祝い／オルゴール／熱唱系アニマルズ】 – 日本ホールマーク公式オンラインストア</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/arechamp.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arechamp-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1602" srcset="https://www.tsujileaks.com/wp-content/uploads/arechamp-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arechamp-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arechamp-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arechamp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：アレがバズってた。Automaticの意味。告知あります。失恋のアレ。声から入るパターン。編集のマジックがあるので是非、三人のパネルをご視聴ください！まずは目に触れるようにすること。Amazonの不正利用に関して整理してみよう。「二段階認証が突破された」と言ってしまっていい段階なのでしょうか。何に起因してるのかサービス側とユーザ側に分けて考えてみよう。クレジットカード情報の再入力を求められるケースがある。この機能は2016年くらいかあったようですね。原因が単一とは限らないですね。SMSが飛んできていないのであれば突破ではないのかもしれない。イラン国家背景と言われているアクター。数千の組織に対しての初期侵入の方法2つとは。国家背景にしてはえらくアナクロなことしてきますね。分業してる？過去と違うアクセス方法。曜日にも分業感あるかも。足下固めないと。こうしましょうから入らずに攻撃の手口、どのような脅威なのかから入ったほうがええと思ってます。MSレポート繋がり。Stormなんちゃら多すぎてStormストームですやん。IAB活動を主にしている。ランサムギャングにも引き継ぐ。.pubへのMOTW不備の脆弱性も使ってたことも。新しいツールをすぐに取り入れてたっぽい。経路は変わっても守り方はそんなに変わらない。自分たちがまずすぐにできるものは何かを考えよう。対策だけじゃなくて、それを防ぐ脅威や事例があるといい！バックリンクあるといい！得にはアナログもいいのでは？</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                        | 00:00 |<br />
+| 2 | お便りのコーナー                        | 04:20 |<br />
+| 3 | (P) Amazon の不正利用の謎              | 11:16 |<br />
+| 4 | (N) Peach Sandstorm による攻撃キャンペーン | 26:10 |<br />
+| 5 | (T) Storm-0324 による攻撃キャンペーン      | 41:29 |<br />
+| 6 | オススメのアレ                         | 55:22 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年09月15日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com//media/are_230918_areandare.mp3" length="28697638" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Security Online Day 2023 秋の陣（2023.09.26‐27[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>59:35</itunes:duration>
+	</item>
+	<item>
+		<title>第193回 そろそろ秋を意識していきたい！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1595</link>
+		<pubDate>Mon, 11 Sep 2023 11:00:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1595</guid>
+		<comments>https://www.tsujileaks.com/?p=1595#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1595</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1595" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1595&amp;text=%E7%AC%AC193%E5%9B%9E%20%E3%81%9D%E3%82%8D%E3%81%9D%E3%82%8D%E7%A7%8B%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1595" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/">Active North Korean campaign targeting security researchers</a><br />
+・<a href="https://news.sophos.com/en-us/2023/08/23/active-adversary-for-tech-leaders/">Time keeps on slippin’ slippin’ slippin’: The 2023 Active Adversary Report for Tech Leaders – Sophos News</a><br />
+・<a href="https://www.trendmicro.com/ja_jp/about/press-release/2023/pr-20230831-01.html">パスワードの利用実態調査2023| トレンドマイクロ</a><br />
+・<a href="https://www.ipa.go.jp/security/reports/economics/ishiki2022.html">「2022年度情報セキュリティに対する意識調査【倫理編】【脅威編】」報告書 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</a><br />
+・<a href="https://www.youtube.com/watch?v=u-8R5n54toE">宇多田ヒカル「Gold　～また逢う日まで～」Music Video</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1596" srcset="https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsukimishitemitai.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：肉体改造に驚愕の事実。誤検知バニー。いい意味でギリギリってなんやろか。環境に優しくないDDoS？合わせ技一本を認知して対処することの難しさ。Xで接近の後。何のゼロデイをどこで使われていたのかは不明。過去に見つかった攻撃で用いられていたシェルコード。なんじゃら。ツールを公開し、それを更新もしていたが。そして、まぁまぁすり抜けていた頃がある。見抜くには。気付くには。注意喚起の方法は。自分は大丈夫と思わないように必要な情報。先日も身元確認したなぁ。上半期のテクノロジーリーダー向けレポート。バリバリバリッドアカウント。かなり悪用されているか根本原因が見えないことが問題。せいぜい推測に留まる。リモートディザスタープロトコル。RDPの悪用箇所はかなりの偏り。久々の攻撃者の滞在時間。攻撃者の過ごし方。攻撃実施タイミングの偏り。リークの曜日と比較しました。攻撃とリークの主体が異なるという前提ではある仮説。パスワードの使い回しの現状の話。使い回す真の勇者？勇気と無謀はちゃいまっせ。不安と感じているが対応が進んでいない。どこかから漏れるということを前提とできていない。伝わっていないのかもしれない。注意喚起する側とされる側の意識のギャップ。対応しない理由と実被害を天秤にかけるとどうなるか。頭打ちかもしれん。なんてないところを歌おうとするとスッカスカになる。単調でも真似ができない本当のうまさ。</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                           | 00:00 |<br />
+| 2 | お便りのコーナー                           | 03:42 |<br />
+| 3 | (P) セキュリティ研究者を狙う北朝鮮による攻撃キャンペーン     | 08:44 |<br />
+| 4 | (T) Sophos の Active Adversary レポート | 24:25 |<br />
+| 5 | (N) パスワードの利用実態調査 2023              | 41:05 |<br />
+| 6 | オススメのアレ                            | 59:28 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年09月09日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_230911_change.mp3" length="30205446" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・Active North Korean campaign targeting sec[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:02:43</itunes:duration>
+	</item>
+	<item>
+		<title>第192回 合わせ技一本！突撃となりのアノニマスに管理画面を添えて！スペシャル！</title>
+		<link>https://www.tsujileaks.com/?p=1591</link>
+		<pubDate>Mon, 04 Sep 2023 11:00:58 +0000</pubDate>
+		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1591</guid>
+		<comments>https://www.tsujileaks.com/?p=1591#respond</comments>
+		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1591</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet【関連記事】 ・TECH+ EXPO for セキュリティ 2023 | マイナビニュース ・Sus[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton1591" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1591&amp;text=%E7%AC%AC192%E5%9B%9E...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1591" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
+<p>・<a href="https://news.mynavi.jp/techplus/lp/2023/enterprise/expo_security2023/">TECH+ EXPO for セキュリティ 2023 | マイナビニュース</a><br />
+・<a href="https://www.ic3.gov/Media/News/2023/230823.pdf">Suspected PRC Cyber Actors Continue to Globally Exploit Barracuda ESG Zero-Day Vulnerability (CVE-2023-2868)</a><br />
+・<a href="https://www.mandiant.com/resources/blog/unc4841-post-barracuda-zero-day-remediation">Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) | Mandiant</a><br />
+・<a href="https://supportportal.juniper.net/s/article/2023-08-Out-of-Cycle-Security-Bulletin-Junos-OS-SRX-Series-and-EX-Series-Multiple-vulnerabilities-in-J-Web-can-be-combined-to-allow-a-preAuth-Remote-Code-Execution">2023-08 Out-of-Cycle Security Bulletin: Junos OS: SRX Series and EX Series: Multiple vulnerabilities in J-Web can be combined to allow a preAuth Remote Code Execution</a><br />
+・<a href="https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/">CVE-2023-36844 And Friends: RCE In Juniper Devices</a><br />
+・<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-juniper-rce-bug-chain-after-poc-release/">Hackers exploit critical Juniper RCE bug chain after PoC release</a><br />
+・<a href="https://csirt.ninja/?p=1819">アノニマスによるオペレーション #OpFukushima メモ | (n)inja csirt</a><br />
+・<a href="https://piyolog.hatenadiary.jp/entry/2023/08/31/192827">1500台被害と報じられた国内通信機器の改ざんについてまとめてみた &#8211; piyolog</a><br />
+・<a href="https://www.seiko-sol.co.jp/archives/78347/">【再掲】SkyBridge MB-A100/110/200・MB-A130シリーズ・SkySpider MB-R210の脆弱性と対応について | セイコーソリューションズ株式会社</a><br />
+・<a href="https://e-taya.co.jp/hanger/tshirt-hanger/">スチールハンガー Tシャツ用｜TSH-2270F W320/W380/W410/W450 φ3.5 クロームメッキ【1本】 | ハンガー 通販 | 工場直販サイト-タヤ</a></p>
+<p><a href="http://www.tsujileaks.com/wp-content/uploads/arohamaker.jpg"><img loading="lazy" decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/arohamaker-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1592" srcset="https://www.tsujileaks.com/wp-content/uploads/arohamaker-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/arohamaker-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/arohamaker-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/arohamaker.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;</p>
+<p>辻伸弘メモ：収録無くても2回会った夏休みだったんです。9月13日ですよ。いっちゃんええやつの値段。手のひらに30万。色々なお供に！割と服については気をつけてます。全員パネル回。脆弱性情報のまとめ方。実践してみて型を作ろう。Netscreen 5GT持ってたなぁ。管理IFの話。合わせ技一本のやつ。公式に合わせたヤバさを書くのって珍しいですよね。In The Wild Life メラメラ燃える。思っている以上に開いているのかもしれない。開いてても認証あれば大丈夫と思われているのかもしれない。セキュリティをギャンブルにしない。福島原発処理水放出の件。遡ること2021年。突撃となりのアノニマス。質問して答えてもらいました。抗議の対象のパターンはいくつかりますよね。ちょっと食い下がりました。出会いはアノニマス。足して二で割る？足した話？ルータの管理画面改竄事案。見方によっては深刻。今回は改ざんだったけど他にも色々できる脆弱性。脆弱性を対処することと、被害に遭っていることといった前提が異なるとアクションも異なる。気付きにくそう。急に来た感ある。おすすめは口では説明できません。</p>
+<blockquote>
+<p>&nbsp;<br />
+【チャプター】<br />
+| 1 | いつもの雑談から                         | 00:00 |<br />
+| 2 | お便りのコーナー                         | 05:17 |<br />
+| 3 | (N) Juniper Networks の NW 機器の脆弱性 | 15:08 |<br />
+| 4 | (T) 処理水の海洋放出に反対するアノニマスへのインタビュー   | 27:05 |<br />
+| 5 | (P) 国内の通信機器の一斉改ざん事案              | 47:08 |<br />
+| 6 | オススメのアレ                          | 60:05 |
+</p></blockquote>
+<p>&nbsp;</p>
+<p>収録日: 2023年09月02日</p>
+]]></content:encoded>
+		<enclosure url="https://www.tsujileaks.com/media/are_230904_Aug_35.mp3" length="31365065" type="audio/mpeg" />
+		<itunes:subtitle>Tweet【関連記事】 ・TECH+ EXPO for セキュリティ 2023 | マイナビニュース ・Sus[...]</itunes:subtitle>
+		<itunes:summary>Tweet【関連記事】 ・TECH+ EXPO for セキュリティ 2023 | マイナビニュース ・Sus[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ</itunes:author>
+		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:05:08</itunes:duration>
+	</item>
+	<item>
 		<title>第191回 偽らない偽りもあるんだぜ！スペシャル！</title>
 		<link>https://www.tsujileaks.com/?p=1587</link>
 		<pubDate>Mon, 21 Aug 2023 11:00:39 +0000</pubDate>
 		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1587</guid>
-		<comments>https://www.tsujileaks.com/?p=1587#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1587</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1587" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1587&amp;text=%E7%AC%AC191%E5%9B%9E%20%E5%81%BD%E3%82%89%E3%81%AA%E3%81%84%E5%81%BD%E3%82%8A%E3%82%82%E3%81%82%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1587" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.youtube.com/watch?v=lBE8XYuEqYo">ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &#8211; YouTube</a><br />
-・<a href="https://news.mynavi.jp/techplus/article/techp4877/">放置系スマホRPG「偽りのアリス」、ユーザー最重視の障害対応 [事故対応アワード受賞レポート] | TECH+（テックプラス）</a><br />
-・<a href="https://research.nccgroup.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/">Approximately 2000 Citrix NetScalers backdoored in mass-exploitation campaign | NCC Group Research Blog | Making the world safer and more secure</a><br />
-・<a href="https://www.europol.europa.eu/media-press/newsroom/news/5-arrested-in-poland-for-running-bulletproof-hosting-service-for-cybercrime-gangs">5 arrested in Poland for running bulletproof hosting service for cybercrime gangs | Europol</a><br />
-・<a href="https://www.justice.gov/opa/pr/administrator-bulletproof-webhosting-domain-charged-connection-facilitation-netwalker">Office of Public Affairs | Administrator of ‘Bulletproof’ Webhosting Domain Charged in Connection with Facilitation of NetWalker Ransomware | United States Department of Justice</a><br />
-・<a href="https://www.asahi.com/articles/ASR884RWLR87UTIL040.html">初の国際サイバー捜査、インドネシア人逮捕 世界的詐欺ツールを使用：朝日新聞デジタル</a><br />
-・<a href="https://io.cyberdefense.jp/entry/16Shop/">16Shop関係者逮捕の舞台裏</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/file-sharing-site-anonfiles-shuts-down-due-to-overwhelming-abuse/">File sharing site Anonfiles shuts down due to overwhelming abuse</a><br />
-・<a href="https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses">Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses | Recorded Future</a><br />
-・<a href="https://www.youtube.com/watch?v=eUdmON7OPXM">Travis Scott &#8211; HYAENA &#8211; YouTube</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg"><img decoding="async" fetchpriority="high" src="http://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1588" srcset="https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/bughuntjpg.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>死にかけたことあるくらい好きなアレ。覚えてますか？チー牛速報さんありがとうございます！愛されているサービス。お風呂のお供に！おかきやあられが好きなんですよ。立場や見る角度によって答えが変わる。取り上げるタイミングがなかった脆弱性。雲行きが変わったので紹介。KEVにもすぐに掲載。微妙に違う404なので分かる。脆弱性の対処はしていたけど、侵害の可能性を考慮できていなかった。3日から4日以内に対処していても間に合わない問題。まだ現在進行形。注意喚起の仕方も場合によってはスコープを広めないといけないですね。防弾ホスティングの管理者が逮捕。ポーランドには「Bolek and Lolek」っていうアニメがあったんですよね。別の犯罪との繋がり。長らく点だったものが繋がった。「はい」。同じ目的のために同じ方向を向いてできる限りの協力ができるといいな。AnonFilesはお馴染みかお馴染みで無いか。お気持ち（？）表明の後の閉鎖。理由と影響。このドメイン欲しい。今後のリークの経路。どの正規のサービスがマルウェアによく使われているか。久々のニューアルバム。わたくしのイメージは全く伝わらんことがあるんですよ。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                             | 00:00 |<br />
-| 2 | お便りのコーナー                             | 08:13 |<br />
-| 3 | (N) Citrix ADC の脆弱性 CVE-2023-3519 の話 | 18:31 |<br />
-| 4 | (T) 点と点をつないで線にする話                    | 36:05 |<br />
-| 5 | (P) Anonfiles がサービス終了した話             | 49:06 |<br />
-| 6 | オススメのアレ                              | 60:12 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年08月20日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230821_itsuari.mp3" length="30365299" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・ソシャゲ公式さん、サービス継続に必要な金額を１円単位で公開してしまうwwww &amp;#8[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:03</itunes:duration>
 	</item>
 	<item>
@@ -104,39 +501,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1582</link>
 		<pubDate>Mon, 14 Aug 2023 11:00:39 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1582</guid>
-		<comments>https://www.tsujileaks.com/?p=1582#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1582</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Cloud Account Takeover Campaign Leveraging[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1582" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1582&amp;text=%E7%AC%AC190%E5%9B%9E%20%E3%81%A9%E3%81%93%E3%81%8C%E3%81%A9%E3%81%86%E7%8B%99%E3%82%8F%E3%82%8C%E3%81%A8%E3%82%93%E3%81%AD%E3%82%93%EF%BC%81%EF%BC%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1582" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.proofpoint.com/us/blog/email-and-cloud-threats/cloud-account-takeover-campaign-leveraging-evilproxy-targets-top-level">Cloud Account Takeover Campaign Leveraging EvilProxy Targets Top-Level Executives at over 100 Global Organizations | Proofpoint US</a><br />
-・<a href="https://www.resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web">Resecurity | EvilProxy Phishing-as-a-Service with MFA Bypass Emerged in Dark Web</a><br />
-・<a href="https://www.blackhat.com/us-23/briefings/schedule/index.html#i-watched-you-roll-the-die-unparalleled-rdp-monitoring-reveal-attackers-tradecraft-33110">I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers&#39; Tradecraft &#8211; Black Hat USA 2023 | Briefings Schedule</a><br />
-・<a href="https://www.wired.com/story/hacker-honeypot-go-secure/">A Clever Honeypot Tricked Hackers Into Revealing Their Secrets | WIRED</a><br />
-・<a href="https://www.ja-town.com/shop/g/g840104004/">つぶらなカボス 190g×30本: JA全農おおいた|【ＪＡタウン】産地直送 通販 お取り寄せ</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1583" srcset="https://www.tsujileaks.com/wp-content/uploads/piyogouri-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/piyogouri-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/piyogouri.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：こんなことある？排水口の怪。今もそこにいる。書き換えられない。書き換えさせない。何も足さない。何も引かない。みんな同じタイミングで気になっていた人が多かった脆弱性。関東の人も「やわくする」って言うんですね。ステッカーの御利益。プチプチぃ。なんでそんなん続けてるんですかって聞かれる話。懐かしいNAYANAが大きなきっかけ。何て呼べば良いのか分からなかったあの頃。1月から7月までの集計結果。建設・土木と入れ替わった業種とは。3年間通して北半球・南半球の割合の変化はどうか。変に怖がらせないための調査もある。AiTMの話。間に入るタイプのフィッシング。認証だけじゃなくて認可も取られちゃうってゆー。PhaaSで月400ドルくらいってすぐペイできそうですね。多段階のリダイレクト。びずどびばがた。狙っている人たちの属性に偏り。永続性の確保のために追加する情報。今の状態で守れるのかどうかを手口から考えてみる。RDPハニポの3年。約300セッションの分析結果。GoSecureは社名かも。ゲームのジョブになぞらえて攻撃者を分類。吟遊詩人がしょぼかった。と思ったら自分にない発想だった。仕掛けられたツール興味深い。つぶつぶ。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                        | 00:00 |<br />
-| 2 | お便りのコーナー                        | 04:05 |<br />
-| 3 | (T) ランサムウォッチのこれまでの状況まとめ         | 11:14 |<br />
-| 4 | (N) EvilProxy によるフィッシング攻撃キャンペーン | 26:16 |<br />
-| 5 | (P) ハニーポットによる RDP のモニタリング       | 40:59 |<br />
-| 6 | オススメのアレ                         | 54:16 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年08月11日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230814_3yearsStrange.mp3" length="27837904" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Cloud Account Takeover Campaign Leveraging[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Cloud Account Takeover Campaign Leveraging[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:47</itunes:duration>
 	</item>
 	<item>
@@ -144,39 +516,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1576</link>
 		<pubDate>Mon, 07 Aug 2023 11:17:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1576</guid>
-		<comments>https://www.tsujileaks.com/?p=1576#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1576</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1576" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1576&amp;text=%E7%AC%AC189%E5%9B%9E%20%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E6%80%A5%E3%81%AB%E3%81%B5%E3%81%A8%E4%BD%95%E6%B0%97%E3%81%AA%E3%81%8F%E7%AA%81%E7%84%B6%E3%81%AB%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1576" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.mandiant.jp/resources/blog/barracuda-esg-exploited-globally">中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda ESGのゼロデイ脆弱性（CVE-2023-2868）を悪用 | Mandiant</a><br />
-・<a href="https://www.barracuda.com/company/legal/esg-vulnerability">Barracuda Email Security Gateway Appliance (ESG) Vulnerability</a><br />
-・<a href="https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors">CISA Releases Malware Analysis Reports on Barracuda Backdoors | CISA</a><br />
-・<a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments">Risk and Vulnerability Assessments | CISA</a><br />
-・<a href="https://flare.io/learn/resources/stealer-logs-and-corporate-access">Stealer Logs &amp; Corporate Access &#8211; Flare | Cyber Threat Intel | Digital Risk Protection</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/tsujisukui.jpg"><img decoding="async" src="http://www.tsujileaks.com/wp-content/uploads/tsujisukui-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1577" srcset="https://www.tsujileaks.com/wp-content/uploads/tsujisukui-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsujisukui.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：最後の砦番組。今週は亜種の話はやめよ。今日も絶好調。とうとう出ましたよ。神田明神との棲み分け。お客様先でのアレ。良いタイミングにふと取り上げたくなった話。UNC4841。受信したメールへのスクリーニングの際に不具合。添付ファイルの中身見たときに系。6月から情報が更新され続けている脆弱性。悪用が認められたら機器交換。攻撃自体は昨年から行われていたようです。セキュリティの為に入れた製品が原因でインシデント発生という皮肉な結果。公開せざるを得ないもの・リーチできれなければならないものを守るには。「うっかり」をふるい落としても残るもの。多分購入してると思う。恒久的な緩和策。刻一刻と更新される情報への追随。どんどんですよ。2019年からでてるアレ。重要インフラへのアセスメント結果の傾向レポート。これのイニシャルアクセスの結果を見ていくと。1位と2位が入れ替わったけれども。よくあるものがよくあり続けている。こういうのは時々でも広く見ないと見落としが出ると反省。8割が人と運用の穴。簡単に取り組めるけど、後回しになりがちなもの。InfoStealerの話。経路不明の原因のいくつかはこれが暗躍していると思っています。扱われているものの価値。Telegramからの誘導。AI系の窃取情報。ニーズがあるかは別ですが。仕入れて価値を高めてから売るパターンもあるだろう。価値は自分たちだけではなく、攻撃者が決める側面もある。もっと認知してもらわないといけないものかもしれない。おばあちゃんの知恵袋系。オススメノアレを募集。</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                     | 00:00 |<br />
-| 2 | お便りのコーナー                                     | 04:41 |<br />
-| 3 | (P) Barracuda ESG のゼロデイ脆弱性                   | 10:13 |<br />
-| 4 | (N) Risk and Vulnerability Assessments のレポート | 26:41 |<br />
-| 5 | (T) Stealer Logs に関するレポート                    | 43:12 |<br />
-| 6 | オススメのアレ                                      | 61:59 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年08月05日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230807_dadada.mp3" length="32509675" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・中国との関連が疑われる攻撃的、かつ高度なスキルを持つ攻撃者が Barracuda E[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:31</itunes:duration>
 	</item>
 	<item>
@@ -184,42 +531,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1569</link>
 		<pubDate>Mon, 31 Jul 2023 11:00:13 +0000</pubDate>
 		<guid isPermaLink="false">http://www.tsujileaks.com/?p=1569</guid>
-		<comments>https://www.tsujileaks.com/?p=1569#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1569</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・DuckDuckGo’s Windows browser now ava[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1569" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1569&amp;text=%E7%AC%AC188%E5%9B%9E%20%E4%BA%9C%E7%A8%AE%E3%81%A8%E4%BA%9C%E7%A8%AE%E3%81%A8%E4%BA%9C%E7%A8%AE%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1569" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://spreadprivacy.com/windows-browser-open-beta/">DuckDuckGo&#8217;s Windows browser now available in public beta</a><br />
-・<a href="https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html">Google Online Security Blog: The Ups and Downs of 0-days: A Year in Review of 0-days Exploited In-the-Wild in 2022</a><br />
-・<a href="https://www.coveware.com/blog/2023/7/21/ransom-monetization-rates-fall-to-record-low-despite-jump-in-average-ransom-payments">Ransom Monetization Rates Fall to Record Low Despite Jump In Average Ransom Payments</a><br />
-・<a href="https://therecord.media/hawaii-community-college-pays-ransom-after-hack-compromises-data">Hawaiʻi Community College pays ransom after attackers steal personal info of 28,000 people</a><br />
-・<a href="https://forums.ivanti.com/s/article/CVE-2023-35078-Remote-unauthenticated-API-access-vulnerability">CVE-2023-35078 &#8211; Remote Unauthenticated API Access Vulnerability</a><br />
-・<a href="https://forums.ivanti.com/s/article/CVE-2023-35081-Arbitrary-File-Write">CVE-2023-35081 &#8211; Remote Arbitrary File Write</a><br />
-・<a href="https://doublepulsar.com/mobileirony-backdoor-allows-complete-takeover-of-mobile-security-product-and-endpoints-559733d612e1">MobileIrony backdoor allows complete takeover of mobile security product and endpoints. | by Kevin Beaumont | Jul, 2023 | DoublePulsar</a><br />
-・<a href="http://yasuda-yogurt.co.jp/seihin/drink.html">ドリンクヨーグルト｜有限会社ヤスダヨーグルト</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1570" srcset="https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/sumomomomomomomomomomomo.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：夜中にネットでお買い物の是非。還暦祝いのときも。購買ヤー。タイトルの件。オレが○○。どこからでも気軽に聴いてくださいね！いつものGoogleのゼロデイのやつ。実質ゼロデイ。Nデイ、ゼロデイの判断。ゼロクリックのための傾向。コンポーネントすべてを把握する困難さ。モグラ叩きのような対応。やっぱ情報の共有は大事。地味だけど可能性まだまだあると思うんですよ。Androidの脆弱性の悪用って身近で聞きます？勝負はNになってからかもしれない。運用面での強み。辻さん大好COVEWARE。支払い率などのもろもろの推移。平均と中央の比較。他の組織のレポートと近い感じ。謎の分析入れてくる傾向ある。ちょっと格好付けたけど英語でもよく分からなかったんです。すいません。気になった5つのうちの1つ。情報窃取のみの脅迫の成功率。薄利多売以外の可能性。アタックベクターの傾向のマズさ。Unknownの内訳。ある脆弱性の話をしよう。認証バイパスからのディレクトリトラバーサル。ある政府機関向けに悪用が確認されていたっぽい。はじめは一般公開ではなかった。本当に初なのか。どうやって気付いたんだろう。そして何をされたのか。○○界の王様。え？見たことも聞いたこともない？！ゲル！</p>
-<blockquote>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                  | 00:00 |<br />
-| 2 | お便りのコーナー                  | 07:48 |<br />
-| 3 | (P) 2022年のゼロデイ攻撃の分析       | 14:50 |<br />
-| 4 | (T) Coveware のランサムウエアレポート | 35:58 |<br />
-| 5 | (N) Ivanti EPMM の脆弱性      | 52:51 |<br />
-| 6 | オススメのアレ                   | 65:43 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年07月29日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230731_yasuyou.mp3" length="34285521" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・DuckDuckGo’s Windows browser now ava[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・DuckDuckGo’s Windows browser now ava[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:13</itunes:duration>
 	</item>
 	<item>
@@ -227,40 +546,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1565</link>
 		<pubDate>Mon, 24 Jul 2023 11:00:19 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1565</guid>
-		<comments>https://www.tsujileaks.com/?p=1565#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1565</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・DDoS threat report for 2023 Q2 ・Meet NoEsc[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1565" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1565&amp;text=%E7%AC%AC187%E5%9B%9E%20%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-%20%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1565" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://blog.cloudflare.com/ddos-threat-report-2023-q2/">DDoS threat report for 2023 Q2</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/meet-noescape-avaddon-ransomware-gangs-likely-successor/">Meet NoEscape: Avaddon ransomware gang&#8217;s likely successor</a><br />
-・<a href="https://blog.cyble.com/2023/06/01/noescape-ransomware-as-a-service-raas/">Cyble — ‘NoEscape’ Ransomware-as-a-Service (RaaS)</a><br />
-・<a href="https://blog.virustotal.com/2023/07/apology-and-update-on-recent-accidental.html">Apology and Update on Recent Accidental Data Exposure ~ VirusTotal Blog</a><br />
-・<a href="https://therecord.media/virustotal-user-email-addresses-leaked-google-military-intelligence">Google exposes intelligence and defense employee names in VirusTotal leak</a><br />
-・<a href="https://products.suntory.co.jp/d/4901777380776/">クラフトボス ソルティライチTEA 600mlペット 商品情報（カロリー・原材料） サントリー</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/balloon.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/balloon-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1557" srcset="https://www.tsujileaks.com/wp-content/uploads/balloon-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/balloon-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/balloon-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/balloon.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>梅雨明けましておめでとうございます。はじまってましたみたいなやつ。バージョンの怖い話。交通費の請求。逆に近い間柄かも。報告ありがとうございます！毎回がスペシャル。久々のDDoSの話。DNSロンダリングアタックとは。様々なオープンリゾルバ。結構発生してるけど目的がずっと不明確だった。VM,VPSベースは一台ごとがパワフル。UDPの増加が目立つ。行動を変えないといけない変化を掴むための継続。傘。新興ランサムギャング。取り分の今。印刷と壁紙。DDoS脅迫の効果は。懐かしのAvaddonとの関係。似すぎてたら検知されやすそう。流用で攻撃できちゃうのは脅威。再脅迫されるきっかけ。VTにアップしちゃった系。これそもそも何に使ってたん？人的ミスではあるが根本的な原因は明かされていない。漏れてますよ連絡くるかも。アドレスによっては色々バレる？たいしゃく。ローソンで見かけた！</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                    | 00:00 |<br />
-| 2 | お便りのコーナー                                    | 06:23 |<br />
-| 3 | (N) Cloudflare の DDoS threat report 2023 Q2 | 12:55 |<br />
-| 4 | (T) NoEscape ランサムウェア                        | 26:37 |<br />
-| 5 | (P) VirusTotal による顧客情報の流出                   | 43:39 |<br />
-| 6 | オススメのアレ                                     | 55:24 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年07月22日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230724_1000yen.mp3" length="28677393" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・DDoS threat report for 2023 Q2 ・Meet NoEsc[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・DDoS threat report for 2023 Q2 ・Meet NoEsc[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:32</itunes:duration>
 	</item>
 	<item>
@@ -268,40 +561,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1556</link>
 		<pubDate>Mon, 17 Jul 2023 11:00:23 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1556</guid>
-		<comments>https://www.tsujileaks.com/?p=1556#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1556</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Mitigation for China-Based Threat Actor Ac[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1556" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1556&amp;text=%E7%AC%AC186%E5%9B%9E%20%E9%9B%B2%E3%81%A8%E6%95%B0%E5%AD%97%E3%82%92%E6%8E%B4%E3%81%BF%E3%81%A4%E3%81%A4%E3%81%AE%E3%81%8A%E9%87%91%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%AB%E5%AD%A6%E3%81%B6%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1556" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://blogs.microsoft.com/on-the-issues/2023/07/11/mitigation-china-based-threat-actor/">Mitigation for China-Based Threat Actor Activity &#8211; Microsoft On the Issues</a><br />
-・<a href="https://msrc.microsoft.com/blog/2023/07/microsoft-mitigates-china-based-threat-actor-storm-0558-targeting-of-customer-email/">Microsoft mitigates China-based threat actor Storm-0558 targeting of customer email | MSRC Blog | Microsoft Security Response Center</a><br />
-・<a href="https://www.microsoft.com/en-us/security/blog/2023/07/14/analysis-of-storm-0558-techniques-for-unauthorized-email-access/">Analysis of Storm-0558 techniques for unauthorized email access | Microsoft Security Blog</a><br />
-・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-193a">Enhanced Monitoring to Detect APT Activity Targeting Outlook Online | CISA</a><br />
-・<a href="https://www.first.org/cvss/v4-0/">Common Vulnerability Scoring System</a><br />
-・<a href="https://blog.chainalysis.com/reports/crypto-crime-midyear-2023-update-ransomware-scams/">2023 Crypto Crime Mid-year Update: Crime Down 65% Overall</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/summervacation.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/summervacation-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1560" srcset="https://www.tsujileaks.com/wp-content/uploads/summervacation-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/summervacation-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/summervacation-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/summervacation.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>データセンターのとは違う怖い話するで！普通に怖い話だった。事例を知ったときに自分事と思えるかどうか。タイトル無し事件。タイトル楽しみにしていただけてるのは嬉しいことです。アレを聴きながら仕事をすることの是非。アレメンバーはいつ聴いてる？このポッドキャストおもろいもんな。PoCとExploitの違い。誤検知と過検知。思っていたより多くのところが取り上げたM365のメール関連が侵害を受けた話。単純な攻撃では無かった。現状の情報だけでも単純ではない感じ。外部から報告を受けて発覚。トークンが偽造された。Stormと付けられるアクターとは。署名鍵を攻撃者が取得していた？いっちゃんいいライセンスのみ。実質ゼロデイ。利用者が修正できないし緩和策もない。いっちゃんいいから見つけられた？Cから始まるセキュリティ略語限界説。CVSS好きすぎて嫌いになってきているかもしれない。パブリックプレビューのうちに見ておこう。追加されたり削除されたりのものを見ていこう。細分化されたものもある。後続システムへの影響の表が付いたことはスコア的にも大きな変更だと思う。単体の影響だとMAX9.3。スコアのみに着目する問題は解決していない。しかし。考え方は知っておくことは大事。犯罪に使われたお金の分析レポート2023上半期。良い傾向になってはいるものの。一番減っているのは詐欺関連。唯一増えていた項目はランサム。少額も増えてるけど進む二極化。ふっかけは多いですよね。時期によって上下するから四半期単位で一喜一憂できない感じかな。ギャング別に見ないといけないかもしれない。カラメルを絡める。アリ寄りのアリはアリ。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                       | 00:00 |<br />
-| 2 | お便りのコーナー                       | 05:02 |<br />
-| 3 | (P) Storm-0558 による攻撃活動         | 15:48 |<br />
-| 4 | (T) CVSS v4.0 のことを知ろう          | 32:31 |<br />
-| 5 | (N) Chainalysis の 2023年上半期レポート | 49:08 |<br />
-| 6 | オススメのアレ                        | 63:02 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年07月15日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230717_kowaihanashi.mp3" length="33325905" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Mitigation for China-Based Threat Actor Ac[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Mitigation for China-Based Threat Actor Ac[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:13</itunes:duration>
 	</item>
 	<item>
@@ -309,39 +576,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1550</link>
 		<pubDate>Mon, 10 Jul 2023 11:00:38 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1550</guid>
-		<comments>https://www.tsujileaks.com/?p=1550#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1550</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Crypto platform Poly Network suspends serv[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1550" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1550&amp;text=%E7%AC%AC185%E5%9B%9E%20%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E4%BB%98%E3%81%91%E5%BF%98%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1550" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://therecord.media/crypto-platform-poly-network-suspends-service-after-hack">Crypto platform Poly Network suspends service after hacker steals millions of dollars in digital assets</a><br />
-・<a href="https://www.certik.com/resources/blog/7iLk3m8aamq1fe8rWxdrT3-poly-network-incident-analysis">Poly Network Incident Analysis &#8211; Blog &#8211; Web3 Security Leaderboard</a><br />
-・<a href="https://piyolog.hatenadiary.jp/entry/2023/07/05/233959#f-767ae12e">ランサムウエアによる名古屋港のシステム障害についてまとめてみた &#8211; piyolog</a><br />
-・<a href="https://www.group-ib.com/blog/qilin-ransomware/">You’ve been kept in the dark (web): exposing Qilin’s RaaS program | Group-IB Blog</a><br />
-・<a href="https://www.youtube.com/c/morohajp">MOROHAjp &#8211; YouTube</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/gotosummer.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/gotosummer-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1551" srcset="https://www.tsujileaks.com/wp-content/uploads/gotosummer-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/gotosummer-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/gotosummer-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/gotosummer.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>Evernoteどうするー？依存しないための備え大事。火のないところに？グッズ買ってた。三人ともステッカー持っておくようにしておきます。どこでした話？Twitterもどうする？爪のSNS。RSS最強説。実はそれほど影響していないんです。人はなぜ管理インターフェイスを公開してしまうのか。もしかして：No Reason。まずはnmap使えるようになろう！Shodanだけじゃない。こちらから見えないものもある。何を言ってるか分からないポッドキャスト。話すところで伝え方を変えている。仮想通貨の世界で手軽に両替する仕組みが攻撃された。とんでもない金額が被害額とされているのだが。この類い初めてではない。意外と知らないところで増えているパターン。当事者感ありますゆえ。事件による価値への影響。中央集権のデメリット。5大港へランサムウェア。なぜ止ったのか。バックアップにも影響があったようだが2日半で復旧。物理的な影響はクリティカルではなかったっぽい。関心はありますとも！他と比較すると被害内容の割に要してないように思う。麒麟のほうのキリン。潜入した人がいるそうで。リンクが入ったメールが初期アクセス。勢いはそれほどでもないグループ。被害組織の業種、所在地もそれほど傾向はないように見える。Timezoneって聞いたり言ったりするとどうしても忍者思い出す。Haiseって東京喰種由来？アフィリエイトを増やしたいのか割がいい設定。リークサイト掲載時の説明はアフィリエイトに大きく依存するように見える。アフィリエイトが単独とは限らないってことですね。「これぞ！日本の！」と思ったグループ。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                  | 00:00 |<br />
-| 2 | お便りのコーナー                  | 05:27 |<br />
-| 3 | (N) Poly Network への攻撃     | 21:39 |<br />
-| 4 | (P) ランサムウエアによる名古屋港のシステム障害 | 35:58 |<br />
-| 5 | (T) Qilin ランサムウェアの活動      | 47:38 |<br />
-| 6 | オススメのアレ                   | 61:31 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年07月08日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230710_nevernote.mp3" length="32381721" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Crypto platform Poly Network suspends serv[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Crypto platform Poly Network suspends serv[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:15</itunes:duration>
 	</item>
 	<item>
@@ -349,45 +591,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1543</link>
 		<pubDate>Mon, 03 Jul 2023 11:00:30 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1543</guid>
-		<comments>https://www.tsujileaks.com/?p=1543#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1543</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・サイバー攻撃被害に係る情報の共有・公表ガイダンス検討会 – NISC ・[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1543" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1543&amp;text=%E7%AC%AC184%E5%9B%9E%20%E3%81%93%E3%82%8C%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AA%E3%82%93%E3%81%A0%E3%81%AE%E7%B2%BE%E7%A5%9E%E3%81%A7%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1543" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.nisc.go.jp/council/cs/kyogikai/guidancekentoukai.html">サイバー攻撃被害に係る情報の共有・公表ガイダンス検討会 &#8211; NISC</a><br />
-・<a href="https://listen.style/p/security_no_are">podcast – #セキュリティのアレ &#8211; LISTEN</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02">Binding Operational Directive 23-02 | CISA</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02-implementation-guidance">Binding Operational Directive 23-02 Implementation Guidance | CISA</a><br />
-・<a href="https://censys.io/identifying-cisa-bod-23-02-internet-exposed-networked-management-interfaces-with-censys/">Identifying CISA BOD 23-02 Internet-Exposed Networked Management Interfaces with Censys &#8211; Censys</a><br />
-・<a href="https://www.bbc.com/news/technology-65975446">The tech flaw that lets hackers control surveillance cameras &#8211; BBC News</a><br />
-・<a href="https://www.hikvision.com/content/dam/hikvision/uk/marketing-portal/catalogues/Letter-to-partners-BBC-Broadcast-26.06.23.pdf">Letter-to-partners-BBC-Broadcast-26.06.23.pdf</a><br />
-・<a href="https://ipvm.com/reports/bbc-panorama-23">BBC Investigates PRC China Surveillance, Hikvision Protests</a><br />
-・<a href="https://proton.me/blog/proton-pass-launch">Introducing Proton Pass – Protecting your passwords and online identity | Proton</a><br />
-・<a href="https://proton.me/blog/proton-pass-security-model">The Proton Pass security model | Proton</a><br />
-・<a href="https://www.shimadaya.co.jp/products/chilled/chinese/_020682/">「春木屋」中華そば 2食｜中華めん｜家庭用チルド商品カタログ｜商品情報｜シマダヤ株式会社</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/c.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/c-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1545" srcset="https://www.tsujileaks.com/wp-content/uploads/c-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/c-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/c-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/c.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>Ever FreeとPoisonの関係の謎が解明されました。今年の事故対応アワード。10年見えてきた。年齢と言えば。こんな日に収録する気持ち。文字起こしに対応。ご愛敬もあるけどかなりの精度。水星の魔女の見方。日本語に聞こえないポッドキャスト。支援士合格おめでとうございます！帯コメントやってみたいなぁ。BOD 23-02。R系サービスって久々に口にした。出すなよ。出すなよ。絶対出すなよ。管理セグメントって用意してない組織結構あるイメージ。CISAのアクションを読み替えて。Censysの調査で色々見つかったそうです。VPN経由は許可されている。見つかったけど誰の管理で何をしているのかが分からないといけないですね。目指す形に促しているのかも。一緒に汗をかこう。カメラが外部からハッキングできないかという調査報道。まさにテレビ的な演出もありつつ。政府機関向けには中国製は禁止されていたはず。具体的な指摘をしていないのはフェアじゃないですね。製品のサポートの問題と運用側の問題は切り分けないといけないと思いました。ソムリエのコメント。情報の構成次第で。新たなパスワード管理ソフトがリリースされました。Hide My ○○○。メールアドレスを扱えるならではのサービス。有償のものと比べどうでしょ。今までで一番美味しかったしょうゆラーメン。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                     | 00:00 |<br />
-| 2 | お便りのコーナー                     | 09:38 |<br />
-| 3 | (T) BOD 23-02 と Censys の調査結果 | 16:34 |<br />
-| 4 | (P) 中国製監視カメラのセキュリティ          | 34:50 |<br />
-| 5 | (N) Proton Pass の紹介          | 45:52 |<br />
-| 6 | オススメのアレ                      | 58:10 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年07月01日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230703_openingsong.mp3" length="30069780" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・サイバー攻撃被害に係る情報の共有・公表ガイダンス検討会 – NISC ・[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・サイバー攻撃被害に係る情報の共有・公表ガイダンス検討会 – NISC ・[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:26</itunes:duration>
 	</item>
 	<item>
@@ -395,42 +606,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1535</link>
 		<pubDate>Mon, 26 Jun 2023 11:00:06 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1535</guid>
-		<comments>https://www.tsujileaks.com/?p=1535#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1535</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1535" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1535&amp;text=%E7%AC%AC183%E5%9B%9E%20%E3%81%84%E3%81%A4%E3%82%82%E8%81%B4%E3%81%84%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%82%A2%E3%83%AC%E3%81%8C%E3%81%A8%E3%81%86%E3%81%96%E3%81%84%E3%81%BE%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1535" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://cofense.com/blog/compromised-abused-domains-in-malware-phishing-campaigns/">Compromised Domains account for over 50% of Embedded URLs in Malware Phishing Campaigns | Cofense</a><br />
-・<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a">#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability | CISA</a><br />
-・<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-moveit-extortion-attacks/">Clop ransomware claims responsibility for MOVEit extortion attacks</a><br />
-・<a href="https://www.progress.com/security/moveit-transfer-and-moveit-cloud-vulnerability">MOVEit Transfer and MOVEit Cloud Vulnerability</a><br />
-・<a href="https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-31May2023">MOVEit Transfer Critical Vulnerability (May 2023) (CVE-2023-34362) &#8211; Progress Community</a><br />
-・<a href="https://www.cisa.gov/news-events/directives/binding-operational-directive-23-02">Binding Operational Directive 23-02 | CISA</a><br />
-・<a href="https://www8.cao.go.jp/kourei/whitepaper/index-w.html">高齢社会白書について &#8211; 内閣府</a><br />
-・<a href="https://www.youtube.com/watch?v=O774SDZJ2QQ">アイナ・ジ・エンド / Red:birthmark [Official Music Video]（TVアニメ『機動戦士ガンダム 水星の魔女』Season2 ED） &#8211; YouTube</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/tuyu2.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/tuyu2-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1536" srcset="https://www.tsujileaks.com/wp-content/uploads/tuyu2-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tuyu2-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tuyu2-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tuyu2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>足の裏を拭く季節。Spotifyの怪。ベランダリクエスト。親子二代のファン。それぞれの夏の思い出。アレがとうございます。マルウェア感染を狙うほうのフィッシングメールの3つの分類。安定人気.com。レポート掲載の攻撃が自分のところに来るかどうか。ゲートウェイ製品の限界とチューニング。1つのフィルタとして考えて運用によってこぼれるものを何で拾うか。CL0Pランサムギャングのゼロデイ悪用の話。時系列で見ていこう。休日狙い？脆弱性を悪用してWebシェル設置。目立った被害組織業種とは。注意喚起にある対策の具体性。不十分な対策にならないように。何もなかったことの証明。BOD 23-02の話。他とは違う気持ち悪さ。変わり種が常かも。インターネットで調べたことありますか。今後の高齢化社会に向けて考えないといけないこと。様々なアプローチが必要そうやなぁ。今月解散予定でした。日常が混ざり合い過ぎててどこで何を話したかが分からんくなってますな。エンディングがWANDSの「世界が終わるまでは…」でした。「君が好きだと叫びたい」はBAADでした。DEENはありませんでした。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                       | 00:00 |<br />
-| 2 | お便りのコーナー                                       | 06:09 |<br />
-| 3 | (N) マルウェアフィッシングメールで使われる URL のドメイン              | 13:33 |<br />
-| 4 | (T) MOVEit Transfer の脆弱性を悪用する CL0P ランサムウェアグループ | 25:53 |<br />
-| 5 | (P) 高齢社会白書から見えるコミュニケーションの変化                    | 44:29 |<br />
-| 6 | オススメのアレ                                        | 57:28 |
-</p></blockquote>
-<p>&nbsp;</p>
-<p>収録日: 2023年06月24日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230626_mosquito.mp3" length="30341324" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・Compromised Domains account for over 50% o[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:00</itunes:duration>
 	</item>
 	<item>
@@ -438,43 +621,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<link>https://www.tsujileaks.com/?p=1530</link>
 		<pubDate>Mon, 12 Jun 2023 11:00:13 +0000</pubDate>
 		<guid isPermaLink="false">https://www.tsujileaks.com/?p=1530</guid>
-		<comments>https://www.tsujileaks.com/?p=1530#respond</comments>
-		<wfw:commentRss>https://www.tsujileaks.com/?feed=rss2&#038;p=1530</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[podcast]]></category>
 		<description>Tweet【関連記事】 ・UstToday LiveCh – YouTube ・「ランサムウェアの[...]</description>
-		<content:encoded><![CDATA[<div id="tweetbutton1530" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1530&amp;text=%E7%AC%AC182%E5%9B%9E%20%E6%84%9B%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AB%E3%82%A2%E3%83%AC%E3%81%AF%E3%82%A2%E3%83%AC%E3%81%A0%E3%81%91%E3%82%92%E3%82%A2%E3%83%AC%E3%81%97%E3%81%AA%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20-%20podcast%20-...%20&amp;related=&amp;lang=ja&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D1530" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('https://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>【関連記事】</p>
-<p>・<a href="https://www.youtube.com/@usttoday">UstToday LiveCh &#8211; YouTube</a><br />
-・<a href="https://news.sophos.com/ja-jp/2023/05/10/the-state-of-ransomware-2023-jp/">「ランサムウェアの現状 2023 年版」を公開 – Sophos News</a><br />
-・<a href="https://workspaceupdates.googleblog.com/2023/06/passkey-open-beta.html">Google Workspace Updates: Simplify and strengthen sign-in by enabling passkeys for your users, available now in open beta</a><br />
-・<a href="https://blog.1password.com/save-sign-in-passkeys-1password/">Save and Sign In with Passkeys Using 1Password In the Browser | 1Password</a><br />
-・<a href="https://blog.1password.com/apple-passkey-api-wwdc/">Passkeys, iOS 17, and 1Password: A Sneak Peek at What’s Coming | 1Password</a><br />
-・<a href="https://www.granvia-osaka.jp/news/detail/1672852618647872ff478f1">【重要なお知らせ】不正アクセスによるお客様の個人情報流出の可能性と、フィッシングサイトに誘導するメッセージの配信についてのお詫びとお知らせ | ホテルグランヴィア大阪</a><br />
-・<a href="https://www.hotespa.net/hotels/nono_yodoyabashi/pdf/pdf20230609.pdf">【重要なお知らせ】 フィッシングサイトに誘導するメッセージ配信についてのお詫びとお知らせ（御宿 野乃 大阪淀屋橋）</a><br />
-・<a href="https://news.booking.com/ja/-%E3%80%90%E9%87%8D%E8%A6%81-%E3%80%91%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84-%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7/">【重要】お客様へのお願い-フィッシングメールに関する注意喚起</a><br />
-・<a href="https://jewel-cosme.jp/lp/senketsu/index.html">癒し職人シリーズ | 株式会社ワイマック ジュエル・コスメティックス</a></p>
-<p><a href="http://www.tsujileaks.com/wp-content/uploads/tsuyu.jpg"><img decoding="async" loading="lazy" src="http://www.tsujileaks.com/wp-content/uploads/tsuyu-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-1531" srcset="https://www.tsujileaks.com/wp-content/uploads/tsuyu-300x300.jpg 300w, https://www.tsujileaks.com/wp-content/uploads/tsuyu-150x150.jpg 150w, https://www.tsujileaks.com/wp-content/uploads/tsuyu-144x144.jpg 144w, https://www.tsujileaks.com/wp-content/uploads/tsuyu.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
-&nbsp;</p>
-<p>辻伸弘メモ：</p>
-<blockquote><p>まるごとバナナミニはまるごとなのか。「か？」のパターン。根岸さんは買うのか？アレを。ネーミングライツしたんですよ。どこで何の話したのか覚えてない。ひまわりの種の話。ひまわりミニだ。もやもやする使える文字列・長。アレ勢といえばアレ勢。Anonymousみたいなもん。試験対策にもいいポッドキャスト？ちょっといいやつもプレゼントしたい！広く捉えたランサム。感覚と集計のギャップ。全体というよりは国それぞれ、ギャングそれぞれの影響が出やすいのかもしれない。同じ脆弱性の悪用でも理由が異なる。復元の他の手段とは。払った方が損するかどうかと言われると単純比較できないと思うんですよ。特定のサービスではパスワードレスにならないものもある。我らが（？）1Passwordが対応。プラットフォームの垣根を越える予定っぽい。指キー・顔キー。一網打尽にされないために注意。漏洩すること前提に怯えることが終わる世界。人は忘れることで生きていける。随分昔に泊まったことあるかも。長いリリースタイトル。顧客とのやりとりをするチャットという経路。続いてはいなかったけど潜伏もあるかもしれない。さすがの違和感と気付き。ジャパネットアレ。ミニからの耳。</p>
-<p>&nbsp;<br />
-【チャプター】<br />
-| 1 | いつもの雑談から                                 | 00:00 |<br />
-| 2 | お便りのコーナー                                 | 12:11 |<br />
-| 3 | (T) ランサムウェアの現状レポート                       | 16:17 |<br />
-| 4 | (N) Google Workspace が Passkeys に対応      | 34:09 |<br />
-| 5 | (N) 1Passowrd がベータ版のブラウザ拡張で Passkeys に対応 | 35:54 |<br />
-| 6 | (P) 個人情報流出とフィッシングサイトへの誘導                 | 43:31 |<br />
-| 7 | オススメのアレ                                  | 56:44 |<br />
-&nbsp;</p>
-<p>収録日: 2023年06月12日</p>
-]]></content:encoded>
 		<enclosure url="https://www.tsujileaks.com/media/are_230611_yubikiri.mp3" length="29476630" type="audio/mpeg" />
 		<itunes:subtitle>Tweet【関連記事】 ・UstToday LiveCh – YouTube ・「ランサムウェアの[...]</itunes:subtitle>
 		<itunes:summary>Tweet【関連記事】 ・UstToday LiveCh – YouTube ・「ランサムウェアの[...]</itunes:summary>
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:12</itunes:duration>
 	</item>
 	<item>
@@ -489,6 +643,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:12</itunes:duration>
 	</item>
 	<item>
@@ -503,6 +658,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:29</itunes:duration>
 	</item>
 	<item>
@@ -517,6 +673,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:00</itunes:duration>
 	</item>
 	<item>
@@ -531,6 +688,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:57</itunes:duration>
 	</item>
 	<item>
@@ -545,6 +703,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:25</itunes:duration>
 	</item>
 	<item>
@@ -559,6 +718,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:06</itunes:duration>
 	</item>
 	<item>
@@ -573,6 +733,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:57</itunes:duration>
 	</item>
 	<item>
@@ -587,6 +748,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:30</itunes:duration>
 	</item>
 	<item>
@@ -601,6 +763,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:32</itunes:duration>
 	</item>
 	<item>
@@ -615,6 +778,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:59</itunes:duration>
 	</item>
 	<item>
@@ -629,6 +793,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:31</itunes:duration>
 	</item>
 	<item>
@@ -643,6 +808,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:44</itunes:duration>
 	</item>
 	<item>
@@ -657,6 +823,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>53:13</itunes:duration>
 	</item>
 	<item>
@@ -671,6 +838,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:14</itunes:duration>
 	</item>
 	<item>
@@ -685,6 +853,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:05</itunes:duration>
 	</item>
 	<item>
@@ -699,6 +868,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:08</itunes:duration>
 	</item>
 	<item>
@@ -713,6 +883,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:21</itunes:duration>
 	</item>
 	<item>
@@ -727,6 +898,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:37</itunes:duration>
 	</item>
 	<item>
@@ -741,6 +913,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:58</itunes:duration>
 	</item>
 	<item>
@@ -755,6 +928,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:12</itunes:duration>
 	</item>
 	<item>
@@ -769,6 +943,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:55</itunes:duration>
 	</item>
 	<item>
@@ -783,6 +958,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:23</itunes:duration>
 	</item>
 	<item>
@@ -797,6 +973,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:54</itunes:duration>
 	</item>
 	<item>
@@ -811,6 +988,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:17</itunes:duration>
 	</item>
 	<item>
@@ -825,6 +1003,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:45</itunes:duration>
 	</item>
 	<item>
@@ -839,6 +1018,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:21</itunes:duration>
 	</item>
 	<item>
@@ -853,6 +1033,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:25</itunes:duration>
 	</item>
 	<item>
@@ -867,6 +1048,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:04</itunes:duration>
 	</item>
 	<item>
@@ -881,6 +1063,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:32</itunes:duration>
 	</item>
 	<item>
@@ -895,6 +1078,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:25</itunes:duration>
 	</item>
 	<item>
@@ -909,6 +1093,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:54</itunes:duration>
 	</item>
 	<item>
@@ -923,6 +1108,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:29</itunes:duration>
 	</item>
 	<item>
@@ -937,6 +1123,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:40</itunes:duration>
 	</item>
 	<item>
@@ -951,6 +1138,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:24</itunes:duration>
 	</item>
 	<item>
@@ -965,6 +1153,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:44</itunes:duration>
 	</item>
 	<item>
@@ -979,6 +1168,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:16</itunes:duration>
 	</item>
 	<item>
@@ -993,6 +1183,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:44</itunes:duration>
 	</item>
 	<item>
@@ -1007,6 +1198,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:44</itunes:duration>
 	</item>
 	<item>
@@ -1021,6 +1213,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:49</itunes:duration>
 	</item>
 	<item>
@@ -1035,6 +1228,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:52</itunes:duration>
 	</item>
 	<item>
@@ -1049,6 +1243,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:11</itunes:duration>
 	</item>
 	<item>
@@ -1063,6 +1258,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:41</itunes:duration>
 	</item>
 	<item>
@@ -1077,6 +1273,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:40</itunes:duration>
 	</item>
 	<item>
@@ -1091,6 +1288,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:22</itunes:duration>
 	</item>
 	<item>
@@ -1105,6 +1303,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:10</itunes:duration>
 	</item>
 	<item>
@@ -1119,6 +1318,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:36</itunes:duration>
 	</item>
 	<item>
@@ -1133,6 +1333,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:58</itunes:duration>
 	</item>
 	<item>
@@ -1147,6 +1348,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:50</itunes:duration>
 	</item>
 	<item>
@@ -1161,6 +1363,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:05</itunes:duration>
 	</item>
 	<item>
@@ -1175,6 +1378,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:19</itunes:duration>
 	</item>
 	<item>
@@ -1189,6 +1393,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:36</itunes:duration>
 	</item>
 	<item>
@@ -1203,6 +1408,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:56</itunes:duration>
 	</item>
 	<item>
@@ -1217,6 +1423,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:52</itunes:duration>
 	</item>
 	<item>
@@ -1231,6 +1438,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:50</itunes:duration>
 	</item>
 	<item>
@@ -1245,6 +1453,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:22</itunes:duration>
 	</item>
 	<item>
@@ -1259,6 +1468,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:02</itunes:duration>
 	</item>
 	<item>
@@ -1273,6 +1483,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:31</itunes:duration>
 	</item>
 	<item>
@@ -1287,6 +1498,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:20</itunes:duration>
 	</item>
 	<item>
@@ -1301,6 +1513,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:15</itunes:duration>
 	</item>
 	<item>
@@ -1315,6 +1528,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>54:32</itunes:duration>
 	</item>
 	<item>
@@ -1329,6 +1543,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:07</itunes:duration>
 	</item>
 	<item>
@@ -1343,6 +1558,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:29</itunes:duration>
 	</item>
 	<item>
@@ -1357,6 +1573,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:48</itunes:duration>
 	</item>
 	<item>
@@ -1371,6 +1588,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:30</itunes:duration>
 	</item>
 	<item>
@@ -1385,6 +1603,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:10:03</itunes:duration>
 	</item>
 	<item>
@@ -1399,6 +1618,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:36</itunes:duration>
 	</item>
 	<item>
@@ -1413,6 +1633,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:08:30</itunes:duration>
 	</item>
 	<item>
@@ -1427,6 +1648,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:14</itunes:duration>
 	</item>
 	<item>
@@ -1441,6 +1663,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:29</itunes:duration>
 	</item>
 	<item>
@@ -1455,6 +1678,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:09</itunes:duration>
 	</item>
 	<item>
@@ -1469,6 +1693,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:56</itunes:duration>
 	</item>
 	<item>
@@ -1483,6 +1708,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:21:04</itunes:duration>
 	</item>
 	<item>
@@ -1497,6 +1723,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:59</itunes:duration>
 	</item>
 	<item>
@@ -1511,6 +1738,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:36</itunes:duration>
 	</item>
 	<item>
@@ -1525,6 +1753,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:11</itunes:duration>
 	</item>
 	<item>
@@ -1539,6 +1768,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:50</itunes:duration>
 	</item>
 	<item>
@@ -1553,6 +1783,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:21</itunes:duration>
 	</item>
 	<item>
@@ -1567,6 +1798,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:20</itunes:duration>
 	</item>
 	<item>
@@ -1581,6 +1813,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:25</itunes:duration>
 	</item>
 	<item>
@@ -1595,6 +1828,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:06</itunes:duration>
 	</item>
 	<item>
@@ -1609,6 +1843,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:40</itunes:duration>
 	</item>
 	<item>
@@ -1623,6 +1858,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:50</itunes:duration>
 	</item>
 	<item>
@@ -1637,6 +1873,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:50</itunes:duration>
 	</item>
 	<item>
@@ -1651,6 +1888,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:08</itunes:duration>
 	</item>
 	<item>
@@ -1665,6 +1903,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:24</itunes:duration>
 	</item>
 	<item>
@@ -1679,6 +1918,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:30</itunes:duration>
 	</item>
 	<item>
@@ -1693,6 +1933,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:45</itunes:duration>
 	</item>
 	<item>
@@ -1707,6 +1948,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:42</itunes:duration>
 	</item>
 	<item>
@@ -1721,6 +1963,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:20</itunes:duration>
 	</item>
 	<item>
@@ -1735,6 +1978,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:06</itunes:duration>
 	</item>
 	<item>
@@ -1749,6 +1993,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:52</itunes:duration>
 	</item>
 	<item>
@@ -1763,6 +2008,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:43</itunes:duration>
 	</item>
 	<item>
@@ -1777,6 +2023,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:44</itunes:duration>
 	</item>
 	<item>
@@ -1791,6 +2038,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:24</itunes:duration>
 	</item>
 	<item>
@@ -1805,6 +2053,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:32</itunes:duration>
 	</item>
 	<item>
@@ -1819,6 +2068,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:19</itunes:duration>
 	</item>
 	<item>
@@ -1833,6 +2083,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:20:58</itunes:duration>
 	</item>
 	<item>
@@ -1847,6 +2098,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:24</itunes:duration>
 	</item>
 	<item>
@@ -1861,6 +2113,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:53</itunes:duration>
 	</item>
 	<item>
@@ -1875,6 +2128,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:43</itunes:duration>
 	</item>
 	<item>
@@ -1889,6 +2143,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:25</itunes:duration>
 	</item>
 	<item>
@@ -1903,6 +2158,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:28</itunes:duration>
 	</item>
 	<item>
@@ -1917,6 +2173,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:32</itunes:duration>
 	</item>
 	<item>
@@ -1931,6 +2188,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:38</itunes:duration>
 	</item>
 	<item>
@@ -1945,6 +2203,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:47</itunes:duration>
 	</item>
 	<item>
@@ -1959,6 +2218,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:01</itunes:duration>
 	</item>
 	<item>
@@ -1973,6 +2233,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:57</itunes:duration>
 	</item>
 	<item>
@@ -1987,6 +2248,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:23</itunes:duration>
 	</item>
 	<item>
@@ -2001,6 +2263,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:39</itunes:duration>
 	</item>
 	<item>
@@ -2015,6 +2278,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:55</itunes:duration>
 	</item>
 	<item>
@@ -2029,6 +2293,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:21:35</itunes:duration>
 	</item>
 	<item>
@@ -2043,6 +2308,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:19</itunes:duration>
 	</item>
 	<item>
@@ -2057,6 +2323,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:46</itunes:duration>
 	</item>
 	<item>
@@ -2071,6 +2338,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:09</itunes:duration>
 	</item>
 	<item>
@@ -2085,6 +2353,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>58:50</itunes:duration>
 	</item>
 	<item>
@@ -2099,6 +2368,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:23</itunes:duration>
 	</item>
 	<item>
@@ -2113,6 +2383,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:45</itunes:duration>
 	</item>
 	<item>
@@ -2127,6 +2398,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:05</itunes:duration>
 	</item>
 	<item>
@@ -2141,6 +2413,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:55</itunes:duration>
 	</item>
 	<item>
@@ -2155,6 +2428,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:23</itunes:duration>
 	</item>
 	<item>
@@ -2169,6 +2443,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:18</itunes:duration>
 	</item>
 	<item>
@@ -2183,6 +2458,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:41</itunes:duration>
 	</item>
 	<item>
@@ -2197,6 +2473,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:42</itunes:duration>
 	</item>
 	<item>
@@ -2211,6 +2488,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:06:15</itunes:duration>
 	</item>
 	<item>
@@ -2225,6 +2503,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:48</itunes:duration>
 	</item>
 	<item>
@@ -2239,6 +2518,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:04</itunes:duration>
 	</item>
 	<item>
@@ -2253,6 +2533,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:16</itunes:duration>
 	</item>
 	<item>
@@ -2267,6 +2548,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:02:07</itunes:duration>
 	</item>
 	<item>
@@ -2281,6 +2563,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:27</itunes:duration>
 	</item>
 	<item>
@@ -2295,6 +2578,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:19</itunes:duration>
 	</item>
 	<item>
@@ -2309,6 +2593,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:43</itunes:duration>
 	</item>
 	<item>
@@ -2323,6 +2608,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:17:59</itunes:duration>
 	</item>
 	<item>
@@ -2337,6 +2623,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:12:57</itunes:duration>
 	</item>
 	<item>
@@ -2351,6 +2638,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:48</itunes:duration>
 	</item>
 	<item>
@@ -2365,6 +2653,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>51:08</itunes:duration>
 	</item>
 	<item>
@@ -2379,6 +2668,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:35</itunes:duration>
 	</item>
 	<item>
@@ -2393,6 +2683,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:07:51</itunes:duration>
 	</item>
 	<item>
@@ -2407,6 +2698,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:32</itunes:duration>
 	</item>
 	<item>
@@ -2421,6 +2713,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:39</itunes:duration>
 	</item>
 	<item>
@@ -2435,6 +2728,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:12</itunes:duration>
 	</item>
 	<item>
@@ -2449,6 +2743,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:00:56</itunes:duration>
 	</item>
 	<item>
@@ -2463,6 +2758,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:09</itunes:duration>
 	</item>
 	<item>
@@ -2477,6 +2773,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>55:03</itunes:duration>
 	</item>
 	<item>
@@ -2491,6 +2788,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:18:56</itunes:duration>
 	</item>
 	<item>
@@ -2505,6 +2803,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>54:35</itunes:duration>
 	</item>
 	<item>
@@ -2519,6 +2818,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:05</itunes:duration>
 	</item>
 	<item>
@@ -2533,6 +2833,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:47</itunes:duration>
 	</item>
 	<item>
@@ -2547,6 +2848,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第33回 タイトル付けるのに困るほどおもろかったぞ！スペシャル</title>
@@ -2560,7 +2862,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:16:37</itunes:duration>
 	</item>
 	<item>
@@ -2575,7 +2877,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:03:20</itunes:duration>
 	</item>
 	<item>
@@ -2590,6 +2892,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:39</itunes:duration>
 	</item>
 	<item>
@@ -2604,7 +2907,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:05:58</itunes:duration>
 	</item>
 	<item>
@@ -2619,7 +2922,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:09:29</itunes:duration>
 	</item>
 	<item>
@@ -2634,6 +2937,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:13:55</itunes:duration>
 	</item>
 	<item>
@@ -2648,7 +2952,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:03</itunes:duration>
 	</item>
 	<item>
@@ -2663,7 +2967,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:49</itunes:duration>
 	</item>
 	<item>
@@ -2678,7 +2982,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:58</itunes:duration>
 	</item>
 	<item>
@@ -2693,7 +2997,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>39:06</itunes:duration>
 	</item>
 	<item>
@@ -2708,7 +3012,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:46</itunes:duration>
 	</item>
 	<item>
@@ -2723,7 +3027,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:14:06</itunes:duration>
 	</item>
 	<item>
@@ -2738,7 +3042,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第21回 あけおめ！ランサム！DDoS！艦Collection #1 スペシャル！</title>
@@ -2752,7 +3056,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:55</itunes:duration>
 	</item>
 	<item>
@@ -2767,7 +3071,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:18:31</itunes:duration>
 	</item>
 	<item>
@@ -2782,7 +3086,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:15:10</itunes:duration>
 	</item>
 	<item>
@@ -2797,7 +3101,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第17回 スクープ！スクープ！16億！スペシャル</title>
@@ -2811,7 +3115,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第16回 STOP！提供元不明インストール！！スペシャル</title>
@@ -2825,7 +3129,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第15回 リスト型攻撃はなくなってないんだ！スペシャル</title>
@@ -2839,7 +3143,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第14回 カレーを食べながらSP 800-63B From USAだ！スペシャル</title>
@@ -2853,7 +3157,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第13回 雑談しすぎの定期変更強制しない！スペシャル</title>
@@ -2867,7 +3171,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第12回 都内某所からDDoSウォッチへの愛が止まらない！スペシャル</title>
@@ -2881,7 +3185,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第11回 「ビジネスメール詐欺」詐欺に気をつけろ！スペシャル</title>
@@ -2895,7 +3199,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第10回 マイニングとエストニアの話をしたよ！スペシャル</title>
@@ -2909,7 +3213,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第9回 DDoSがありあまる！スペシャル</title>
@@ -2923,7 +3227,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第8回 これもこの後も本番なんだぜ！スペシャル</title>
@@ -2937,7 +3241,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:13</itunes:duration>
 	</item>
 	<item>
@@ -2952,7 +3256,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>40:34</itunes:duration>
 	</item>
 	<item>
@@ -2967,7 +3271,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>44:14</itunes:duration>
 	</item>
 	<item>
@@ -2982,7 +3286,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>42:56</itunes:duration>
 	</item>
 	<item>
@@ -2997,7 +3301,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>57:53</itunes:duration>
 	</item>
 	<item>
@@ -3012,7 +3316,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>26:15</itunes:duration>
 	</item>
 	<item>
@@ -3027,7 +3331,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:34</itunes:duration>
 	</item>
 	<item>
@@ -3042,7 +3346,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:15</itunes:duration>
 	</item>
 	<item>
@@ -3057,7 +3361,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>45:40</itunes:duration>
 	</item>
 	<item>
@@ -3072,7 +3376,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:49</itunes:duration>
 	</item>
 	<item>
@@ -3087,7 +3391,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>12:41</itunes:duration>
 	</item>
 	<item>
@@ -3102,7 +3406,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>36:06</itunes:duration>
 	</item>
 	<item>
@@ -3117,7 +3421,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>50:21</itunes:duration>
 	</item>
 	<item>
@@ -3132,7 +3436,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>17:57</itunes:duration>
 	</item>
 	<item>
@@ -3147,7 +3451,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>28:03</itunes:duration>
 	</item>
 	<item>
@@ -3162,7 +3466,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>46:47</itunes:duration>
 	</item>
 	<item>
@@ -3177,7 +3481,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第19回 大阪より愛を込めて。あけましておめでとうスペシャル</title>
@@ -3191,7 +3495,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>32:02</itunes:duration>
 	</item>
 	<item>
@@ -3206,7 +3510,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>59:53</itunes:duration>
 	</item>
 	<item>
@@ -3221,7 +3525,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>53:35</itunes:duration>
 	</item>
 	<item>
@@ -3236,7 +3540,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>48:48</itunes:duration>
 	</item>
 	<item>
@@ -3251,7 +3555,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:39</itunes:duration>
 	</item>
 	<item>
@@ -3266,7 +3570,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:01</itunes:duration>
 	</item>
 	<item>
@@ -3281,7 +3585,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:48</itunes:duration>
 	</item>
 	<item>
@@ -3296,7 +3600,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>52:05</itunes:duration>
 	</item>
 	<item>
@@ -3311,7 +3615,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>49:06</itunes:duration>
 	</item>
 	<item>
@@ -3326,7 +3630,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>56:46</itunes:duration>
 	</item>
 	<item>
@@ -3341,7 +3645,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第8回 初めてのオフライン収録！初めてのゲスト！しかも女性！スペシャル</title>
@@ -3355,7 +3659,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:04:28</itunes:duration>
 	</item>
 	<item>
@@ -3370,7 +3674,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:01:06</itunes:duration>
 	</item>
 	<item>
@@ -3385,7 +3689,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:26:34</itunes:duration>
 	</item>
 	<item>
@@ -3400,7 +3704,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>1:11:25</itunes:duration>
 	</item>
 	<item>
@@ -3415,7 +3719,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第3回 成り行きでこのポッドキャストのタイトルが決まりましたスペシャル</title>
@@ -3429,7 +3733,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第2回 「自粛」は自粛させていただきますスペシャル</title>
@@ -3443,7 +3747,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 	<item>
 		<title>第1回 タイトルも決まってないけどとりあえず始めましたスペシャル</title>
@@ -3457,7 +3761,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:author>セキュリティのアレ</itunes:author>
 		<itunes:image href="http://www.tsujileaks.com/wp-content/uploads/anchor_thumb.png" />
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>false</itunes:explicit>
 	</item>
 </channel>
 </rss>

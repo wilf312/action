@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<title><![CDATA[ほっとテック]]></title>
-		<description><![CDATA[Podcast番組「ほっとテック」は、IT業界歴20年の @941 と、エンジニアの @youhei が「ほっと一息つけるテックな話題」をテーマに雑談を交えお届けします。感想など #ほっとテック をつけてTweetしてください！お便りはこちら👉 https://hotto.tech/contact]]></description>
+		<description><![CDATA[Podcast番組「ほっとテック」は、IT業界歴20年の @941 と、エンジニアの @youhei が「ほっと一息つけるテックな話題」をテーマに雑談を交えお届けします。感想など #ほっとテック をつけてTweetしてください！お便りはこちらから👉 https://hotto.tech/contact
+LISTEN👉 https://listen.style/p/hottotech]]></description>
 		<link>https://hotto.tech/</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg</url>
@@ -9,14 +10,15 @@
 			<link>https://hotto.tech/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 23 Aug 2023 07:14:18 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2023 07:34:58 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/86693634/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[ほっとテック]]></author>
 		<copyright><![CDATA[ほっとテック]]></copyright>
 		<language><![CDATA[ja]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>ほっとテック</itunes:author>
-		<itunes:summary>Podcast番組「ほっとテック」は、IT業界歴20年の @941 と、エンジニアの @youhei が「ほっと一息つけるテックな話題」をテーマに雑談を交えお届けします。感想など #ほっとテック をつけてTweetしてください！お便りはこちら👉 https://hotto.tech/contact</itunes:summary>
+		<itunes:summary>Podcast番組「ほっとテック」は、IT業界歴20年の @941 と、エンジニアの @youhei が「ほっと一息つけるテックな話題」をテーマに雑談を交えお届けします。感想など #ほっとテック をつけてTweetしてください！お便りはこちらから👉 https://hotto.tech/contact
+LISTEN👉 https://listen.style/p/hottotech</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>ほっとテック</itunes:name>
@@ -27,6 +29,1420 @@
 			<itunes:category text="Tech News"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+		<item>
+			<title><![CDATA[#165 コインの裏表は50％ではないし声日記やりつつ乙事主になる]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 技術書典ブース大盛況ありがとうございました</li>
+ <li>02:58 コインの面が出る確率は50.8%、異論は認めない</li>
+  <li>07:26 声日記ゆるくやってます</li>
+  <li>17:30 乙事主の声真似とシンクロニシティ</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://techbookfest.org/event/tbf15">技術書典15</a></li>
+  <li><a href="https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn?productVariantID=pjEEZj8cDHiXE4NfF8uk2g">技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION</a></li>
+  <li>賑やかしに成功したブースの様子 <a href="https://twitter.com/satoshoco/status/1723523999731532152">XユーザーのShoco Satoさん: 「＼新刊 #技完ガイド オフライン販売開始／ 本日11/12(日)池袋サンシャインシティで開催中の #技術書典 15にて紙＋電子版を優先販売「技術カンファレンスのマスターガイド 」</a></li>
+  <li><a href="https://www.itmedia.co.jp/news/articles/2310/19/news075.html">コインで表か裏が出る確率は“50％ではない？”　49人の研究者が35万回投げて検証　肝は投げる親指の動き：Innovative Tech - ITmedia NEWS</a></li>
+  <li><a href="https://listen.style/p/youhei">🐈｜youheiのつぶやき - LISTEN</a></li>
+  <li><a href="https://listen.style/p/941diary">941 のつぶやき - LISTEN</a></li>
+  <li><a href="https://www.youtube.com/watch?v=VdQtghJ_FF0">【もののけ姫 声真似】乙事主がUFOの爆盛を食べる動画です。 - YouTube</a></li>
+  <li><a href="https://post.tv-asahi.co.jp/post-191543/">テレ朝POST » 声マネで話題の大人気YouTuberが『新婚さん』に登場！出会いはTwitterでの“一目惚れ”</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/165-50-e2ca747</link>
+			<guid isPermaLink="false">f0888b1e-20e9-4f2c-b37d-e8b97720b404</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 23 Nov 2023 07:32:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/79026759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2Ffce6e444-fa26-b7b9-0848-1390646b0092.mp3" length="33461839" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 技術書典ブース大盛況ありがとうございました&lt;/li&gt;
+ &lt;li&gt;02:58 コインの面が出る確率は50.8%、異論は認めない&lt;/li&gt;
+  &lt;li&gt;07:26 声日記ゆるくやってます&lt;/li&gt;
+  &lt;li&gt;17:30 乙事主の声真似とシンクロニシティ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf15&quot;&gt;技術書典15&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn?productVariantID=pjEEZj8cDHiXE4NfF8uk2g&quot;&gt;技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;賑やかしに成功したブースの様子 &lt;a href=&quot;https://twitter.com/satoshoco/status/1723523999731532152&quot;&gt;XユーザーのShoco Satoさん: 「＼新刊 #技完ガイド オフライン販売開始／ 本日11/12(日)池袋サンシャインシティで開催中の #技術書典 15にて紙＋電子版を優先販売「技術カンファレンスのマスターガイド 」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2310/19/news075.html&quot;&gt;コインで表か裏が出る確率は“50％ではない？”　49人の研究者が35万回投げて検証　肝は投げる親指の動き：Innovative Tech - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/youhei&quot;&gt;🐈｜youheiのつぶやき - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/941diary&quot;&gt;941 のつぶやき - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VdQtghJ_FF0&quot;&gt;【もののけ姫 声真似】乙事主がUFOの爆盛を食べる動画です。 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://post.tv-asahi.co.jp/post-191543/&quot;&gt;テレ朝POST » 声マネで話題の大人気YouTuberが『新婚さん』に登場！出会いはTwitterでの“一目惚れ”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:22:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#164 ほっとテック11月増刊号]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 アビスパ福岡初優勝</li>
+ <li>01:42 X、OGP仕様変更</li>
+  <li>03:07 AppleのAirPods脳波計化特許</li>
+  <li>07:56 クレカが不便になってきている？</li>
+  <li>11:52 X Premium Plus</li>
+  <li>14:46 スイカゲーム大流行</li>
+  <li>21:51 お便りコーナー</li>
+  <li>25:31 941先生の次回作にご期待ください</li>
+  <li>30:56 声日記はじめました</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.avispa.co.jp/news/post-66809">2023Jリーグ YBCルヴァンカップ優勝 アビスパ福岡　祝勝会について | アビスパ福岡公式サイト | AVISPA FUKUOKA Official Website</a></li>
+  <li><a href="https://gigazine.net/news/20231005-x-start-remove-link-headline/">X(Twitter)が投稿されたニュース記事の見出し削除措置を開始 - GIGAZINE</a></li>
+  <li><a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/08429/?n_cid=nbpnxt_twbn">AppleがAirPodsを脳波計にする特許、ブレインテック拡大に期待 | 日経クロステック（xTECH）</a></li>
+  <li><a href="https://togetter.com/li/2250416">クレジットカードが「不便」になってきている？不正利用の誤判定で支払いできない、限度額の調整で時間を取られる、といったストレスの話 - Togetter</a></li>
+  <li><a href="https://www.watch.impress.co.jp/docs/news/1542821.html">Xプレミアムに2つの新プラン　広告無し1960円と368円のベーシック - Impress Watch</a></li>
+  <li><a href="https://www.aladdinx.jp/cdn/shop/files/suika-top-tti.png?v=12553505467903265665">スイカゲーム - Aladdin X</a></li>
+  <li><a href="https://rugugu.jp/2048/">Google「2048 ゲーム」</a></li>
+  <li><a href="https://hakatakawaya.com/shoplist/shop/901/">警固店 | 博多かわ屋</a></li>
+  <li><a href="https://www.hotto.tech/p/161">#161 技術系の同人誌を二人で書くことの楽しさとつらさと心強さと - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://listen.style/p/youhei">🐈｜youheiのつぶやき - LISTEN</a></li>
+  <li><a href="https://listen.style/p/941diary">941 のつぶやき - LISTEN</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/164-11-e2c5kq3</link>
+			<guid isPermaLink="false">c8110fd4-af0e-492c-861c-2d69bcc24755</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 20 Nov 2023 08:08:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78876931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2Fb812eacf-445a-c26b-2286-e6340baa9c43.mp3" length="55590541" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 アビスパ福岡初優勝&lt;/li&gt;
+ &lt;li&gt;01:42 X、OGP仕様変更&lt;/li&gt;
+  &lt;li&gt;03:07 AppleのAirPods脳波計化特許&lt;/li&gt;
+  &lt;li&gt;07:56 クレカが不便になってきている？&lt;/li&gt;
+  &lt;li&gt;11:52 X Premium Plus&lt;/li&gt;
+  &lt;li&gt;14:46 スイカゲーム大流行&lt;/li&gt;
+  &lt;li&gt;21:51 お便りコーナー&lt;/li&gt;
+  &lt;li&gt;25:31 941先生の次回作にご期待ください&lt;/li&gt;
+  &lt;li&gt;30:56 声日記はじめました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.avispa.co.jp/news/post-66809&quot;&gt;2023Jリーグ YBCルヴァンカップ優勝 アビスパ福岡　祝勝会について | アビスパ福岡公式サイト | AVISPA FUKUOKA Official Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gigazine.net/news/20231005-x-start-remove-link-headline/&quot;&gt;X(Twitter)が投稿されたニュース記事の見出し削除措置を開始 - GIGAZINE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xtech.nikkei.com/atcl/nxt/column/18/00001/08429/?n_cid=nbpnxt_twbn&quot;&gt;AppleがAirPodsを脳波計にする特許、ブレインテック拡大に期待 | 日経クロステック（xTECH）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://togetter.com/li/2250416&quot;&gt;クレジットカードが「不便」になってきている？不正利用の誤判定で支払いできない、限度額の調整で時間を取られる、といったストレスの話 - Togetter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.watch.impress.co.jp/docs/news/1542821.html&quot;&gt;Xプレミアムに2つの新プラン　広告無し1960円と368円のベーシック - Impress Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aladdinx.jp/cdn/shop/files/suika-top-tti.png?v=12553505467903265665&quot;&gt;スイカゲーム - Aladdin X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rugugu.jp/2048/&quot;&gt;Google「2048 ゲーム」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hakatakawaya.com/shoplist/shop/901/&quot;&gt;警固店 | 博多かわ屋&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/161&quot;&gt;#161 技術系の同人誌を二人で書くことの楽しさとつらさと心強さと - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/youhei&quot;&gt;🐈｜youheiのつぶやき - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/941diary&quot;&gt;941 のつぶやき - LISTEN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:38:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#163 ChatGPTに目がついた！初期からのユーザーであるyouheiさんが感じたGPT4Vの凄さ]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 jkondoさんと食事会で話した941さん</li>
+ <li>04:28 ChatGPTのGPT4Vのインパクト</li>
+  <li>13:18 どんなことを試した？</li>
+  <li>16:56 サーバー同士が英語で会話してる世界</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://listen.style/u/jkondo">jkondo - LISTEN</a></li>
+  <li><a href="https://note.com/dekoponfm/n/n6dc075153676">居酒屋でこぽん、開店！9月29日（金）は 高円寺で乾杯しましょう🍻｜でこぽんFM</a></li>
+  <li><a href="https://www.hotto.tech/p/158">#158 LISTENの新機能について語る in 福岡大名ガーデンシティ広場 - ほっとテックからのお知らせ</a></li>
+  <li>近藤さんの声日記 <a href="https://listen.style/p/asanosanpo/rijfq4jb">10/26 代々木ででこぽんずとその仲間たちに囲まれる - LISTEN</a></li>
+  <li><a href="https://chat.openai.com/">ChatGPT</a></li>
+  <li><a href="https://twitter.com/mckaywrigley/status/1708153813583204394">Mckay Wrigley on X: &quot;ChatGPT Vision breaks down Christopher Nolan’s early diagram for Inception. Best part? The diagram doesn’t mention the word “Inception” once. Crazy. </a><a href="https://t.co/grPpTjvg3d">https://t.co/grPpTjvg3d</a>&quot; / X</li>
+  <li><a href="https://gigazine.net/news/20231023-ai-prompting-techniques/">画像生成AI「DALL-E」のシステムメッセージが発見され「プロンプトは大文字にした方がいいのか？」などと指摘されてしまう事態に - GIGAZINE</a></li>
+  <li><a href="https://www.kingjim.co.jp/pomera/dm250/assets/images/top/fv_slide_02_sub.png">DM250 | デジタルメモ｢ポメラ｣ | KING JIM</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/163-ChatGPTyouheiGPT4V-e2c0hc5</link>
+			<guid isPermaLink="false">ee0989cc-2807-4216-8ecd-880c49d42038</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 16 Nov 2023 05:43:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78709573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F8200bc66-59ae-2c24-b8f5-b0e74a07a660.mp3" length="35896638" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 jkondoさんと食事会で話した941さん&lt;/li&gt;
+ &lt;li&gt;04:28 ChatGPTのGPT4Vのインパクト&lt;/li&gt;
+  &lt;li&gt;13:18 どんなことを試した？&lt;/li&gt;
+  &lt;li&gt;16:56 サーバー同士が英語で会話してる世界&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/u/jkondo&quot;&gt;jkondo - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/dekoponfm/n/n6dc075153676&quot;&gt;居酒屋でこぽん、開店！9月29日（金）は 高円寺で乾杯しましょう🍻｜でこぽんFM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/158&quot;&gt;#158 LISTENの新機能について語る in 福岡大名ガーデンシティ広場 - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;近藤さんの声日記 &lt;a href=&quot;https://listen.style/p/asanosanpo/rijfq4jb&quot;&gt;10/26 代々木ででこぽんずとその仲間たちに囲まれる - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chat.openai.com/&quot;&gt;ChatGPT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mckaywrigley/status/1708153813583204394&quot;&gt;Mckay Wrigley on X: &amp;quot;ChatGPT Vision breaks down Christopher Nolan’s early diagram for Inception. Best part? The diagram doesn’t mention the word “Inception” once. Crazy. &lt;/a&gt;&lt;a href=&quot;https://t.co/grPpTjvg3d&quot;&gt;https://t.co/grPpTjvg3d&lt;/a&gt;&amp;quot; / X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gigazine.net/news/20231023-ai-prompting-techniques/&quot;&gt;画像生成AI「DALL-E」のシステムメッセージが発見され「プロンプトは大文字にした方がいいのか？」などと指摘されてしまう事態に - GIGAZINE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kingjim.co.jp/pomera/dm250/assets/images/top/fv_slide_02_sub.png&quot;&gt;DM250 | デジタルメモ｢ポメラ｣ | KING JIM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#162 HHKB Studioが突然発表された！しかし買えない！]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 キーボード好きの間で話題沸騰のHHKB Studio</li>
+ <li>04:27 Studioは今までのHHKBとどう違う？</li>
+  <li>10:39 全国のショールームで体験できるらしい</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.itmedia.co.jp/pcuser/articles/2310/25/news030.html">PFUが「HHKB Studio」を発表！　ポインティングスティック＋ジェスチャー操作も使える“オールインワン”仕様の新モデル - ITmedia PC USER</a></li>
+  <li><a href="https://twitter.com/PFU_HHKB/status/1709412864065491112">XユーザーのHHKB OFFICIALさん: 「#HHKBミートアップ 第7弾開催！！！ #HHKBミートアップ 第7弾開催！！！ #HHKBミートアップ 第7弾開催！！！ こちら100名のHHKBマニアが盛り上がる伝説のイベントです。10/25(水)19時～今年はついにリアルでやります。3,000円以上の価値あります。絶対後悔させません。</a></li>
+  <li><a href="https://rebuild.fm/357/">Rebuild: 357: Keyswitch Room (naoya)</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF">ポインティング・スティック - Wikipedia</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/162-HHKB-Studio-e2brobi</link>
+			<guid isPermaLink="false">aab05365-2415-4225-8feb-e13f53be17b6</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 13 Nov 2023 05:50:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78552882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F1ce8200d-bd83-fe3b-7d18-c2de70736449.mp3" length="22416814" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 キーボード好きの間で話題沸騰のHHKB Studio&lt;/li&gt;
+ &lt;li&gt;04:27 Studioは今までのHHKBとどう違う？&lt;/li&gt;
+  &lt;li&gt;10:39 全国のショールームで体験できるらしい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/pcuser/articles/2310/25/news030.html&quot;&gt;PFUが「HHKB Studio」を発表！　ポインティングスティック＋ジェスチャー操作も使える“オールインワン”仕様の新モデル - ITmedia PC USER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PFU_HHKB/status/1709412864065491112&quot;&gt;XユーザーのHHKB OFFICIALさん: 「#HHKBミートアップ 第7弾開催！！！ #HHKBミートアップ 第7弾開催！！！ #HHKBミートアップ 第7弾開催！！！ こちら100名のHHKBマニアが盛り上がる伝説のイベントです。10/25(水)19時～今年はついにリアルでやります。3,000円以上の価値あります。絶対後悔させません。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/357/&quot;&gt;Rebuild: 357: Keyswitch Room (naoya)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&quot;&gt;ポインティング・スティック - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:15:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#161 技術系の同人誌を二人で書くことの楽しさとつらさと心強さと]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 同人誌の共同執筆者shokoさんがゲスト！</li>
+ <li>00:03:39 技術カンファレンスのマスターガイド</li>
+ <li>00:11:19 どういう執筆スタイルだったか</li>
+ <li>00:29:19 苦労したところ、オススメしたいところ</li>
+ <li>00:48:03 アフタートーク</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+ <li><a href="https://line.connpass.com/event/295899/">IT業界で働く人のキャリア座談会 ー 俺たちはどう生きるのか ー - connpass</a></li>
+  <li><a href="https://twitter.com/satoshoco/status/1709901405111361907">XユーザーのShoco Satoさん: 「パネルディスカッションも無事に終わりました👏写真は @<strong>freddi</strong> とシンクしている瞬間ww #mml_career </a><a href="https://t.co/vPhVyAYALD%E3%80%8D">https://t.co/vPhVyAYALD」</a> / X</li>
+  <li><a href="https://techbookfest.org/product/6201115232174080?productVariantID=5134786387509248">StreamYard Perfect Guidebook - 基礎から応用まで徹底解説！：FUNCTION</a></li>
+  <li><a href="https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn">技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION</a></li>
+  <li><a href="https://twitter.com/941/status/1722277150664073662">Xユーザーの941＠11/12(日) 技術書典15（あ18）さん: 「#技術書典 15の新刊 #技完ガイド を執筆するきっかけとなったLINEを記念にアップ。 いま見返すと内容決まってる状態で誘ってきてるし、お誘いいただいてから承諾までが早すぎるし、色々ヤバい。 </a><a href="https://t.co/5pYQJV5Qui%E3%80%8D">https://t.co/5pYQJV5Qui」</a> / X</li>
+  <li><a href="https://blog.shoko.dev/2023/11/15.html">【技術書典15】に出展、 新刊「技術カンファレンスのマスターガイド」を販売します</a></li>
+  <li><a href="https://twitter.com/hashtag/%E6%8A%80%E5%AE%8C%E3%82%AC%E3%82%A4%E3%83%89%E6%9B%B8%E8%A9%95?src=hashtag_click&f=live">#技完ガイド書評 - 検索 / X</a></li>
+  <li><a href="https://techbookfest.org/event/tbf15/market/newbook">技術書典15 ：技術書のオンラインマーケット開催中</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/161-e2bm6uu</link>
+			<guid isPermaLink="false">21da6037-3f43-43c2-b5d3-e5bd9a2fac67</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 09 Nov 2023 00:23:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78371230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F16c7fbf5-33c4-97e4-e69d-3f5f11635d11.mp3" length="74532544" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 同人誌の共同執筆者shokoさんがゲスト！&lt;/li&gt;
+ &lt;li&gt;00:03:39 技術カンファレンスのマスターガイド&lt;/li&gt;
+ &lt;li&gt;00:11:19 どういう執筆スタイルだったか&lt;/li&gt;
+ &lt;li&gt;00:29:19 苦労したところ、オススメしたいところ&lt;/li&gt;
+ &lt;li&gt;00:48:03 アフタートーク&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://line.connpass.com/event/295899/&quot;&gt;IT業界で働く人のキャリア座談会 ー 俺たちはどう生きるのか ー - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/satoshoco/status/1709901405111361907&quot;&gt;XユーザーのShoco Satoさん: 「パネルディスカッションも無事に終わりました👏写真は @&lt;strong&gt;freddi&lt;/strong&gt; とシンクしている瞬間ww #mml_career &lt;/a&gt;&lt;a href=&quot;https://t.co/vPhVyAYALD%E3%80%8D&quot;&gt;https://t.co/vPhVyAYALD」&lt;/a&gt; / X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/6201115232174080?productVariantID=5134786387509248&quot;&gt;StreamYard Perfect Guidebook - 基礎から応用まで徹底解説！：FUNCTION&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn&quot;&gt;技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/941/status/1722277150664073662&quot;&gt;Xユーザーの941＠11/12(日) 技術書典15（あ18）さん: 「#技術書典 15の新刊 #技完ガイド を執筆するきっかけとなったLINEを記念にアップ。 いま見返すと内容決まってる状態で誘ってきてるし、お誘いいただいてから承諾までが早すぎるし、色々ヤバい。 &lt;/a&gt;&lt;a href=&quot;https://t.co/5pYQJV5Qui%E3%80%8D&quot;&gt;https://t.co/5pYQJV5Qui」&lt;/a&gt; / X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.shoko.dev/2023/11/15.html&quot;&gt;【技術書典15】に出展、 新刊「技術カンファレンスのマスターガイド」を販売します&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E6%8A%80%E5%AE%8C%E3%82%AC%E3%82%A4%E3%83%89%E6%9B%B8%E8%A9%95?src=hashtag_click&amp;f=live&quot;&gt;#技完ガイド書評 - 検索 / X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf15/market/newbook&quot;&gt;技術書典15 ：技術書のオンラインマーケット開催中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#160 欧州サッカーに詳しすぎるFC.Mouさんゲスト回後編 - 三笘選手とモウリーニョとハガキ職人]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 北米サッカー人気の立役者はベッカム？</li>
+ <li>04:09 語学の天才でもあるモウリーニョ氏</li>
+  <li>11:28 ハガキ職人だった大学生時代</li>
+  <li>17:38 ネタを提供し続けてくれるので終わることがない</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.hotto.tech/p/159">#159 欧州サッカーに詳しすぎるFC.Mouさんゲスト回前編 - Xのマネタイズについて聞く</a></li>
+  <li><a href="https://www.netflix.com/jp/title/81223488">ベッカム | Netflix</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">メジャーリーグサッカー - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4">爆笑問題カーボーイ - Wikipedia</a></li>
+  <li><a href="https://twitter.com/footballvoice3/status/1716071348852969641">𝙁𝘾.𝙈𝙤𝙪 on X: &quot;退場しないことを今季の目標にしているモウ、相手ベンチを煽って退場！w </a><a href="https://t.co/NRB6DFjj68">https://t.co/NRB6DFjj68</a>&quot; / X</li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/160-FC-Mou---e2bhfqh</link>
+			<guid isPermaLink="false">709ece31-d264-46af-9ccf-6c7fba28d813</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 06 Nov 2023 00:50:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78216465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-6%2F50517a18-c971-4606-3d50-022252f8aecd.mp3" length="30807851" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 北米サッカー人気の立役者はベッカム？&lt;/li&gt;
+ &lt;li&gt;04:09 語学の天才でもあるモウリーニョ氏&lt;/li&gt;
+  &lt;li&gt;11:28 ハガキ職人だった大学生時代&lt;/li&gt;
+  &lt;li&gt;17:38 ネタを提供し続けてくれるので終わることがない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/159&quot;&gt;#159 欧州サッカーに詳しすぎるFC.Mouさんゲスト回前編 - Xのマネタイズについて聞く&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/jp/title/81223488&quot;&gt;ベッカム | Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC&quot;&gt;メジャーリーグサッカー - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4&quot;&gt;爆笑問題カーボーイ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/footballvoice3/status/1716071348852969641&quot;&gt;𝙁𝘾.𝙈𝙤𝙪 on X: &amp;quot;退場しないことを今季の目標にしているモウ、相手ベンチを煽って退場！w &lt;/a&gt;&lt;a href=&quot;https://t.co/NRB6DFjj68&quot;&gt;https://t.co/NRB6DFjj68&lt;/a&gt;&amp;quot; / X&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#159 欧州サッカーに詳しすぎるFC.Mouさんゲスト回前編 - Xのマネタイズについて聞く]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 同僚と技術書典で出版する本を執筆している941さん</li>
+ <li>01:58 サッカーわからない二人がサッカーの専門家をゲストに迎えました</li>
+  <li>11:32 モウリーニョ監督視点のXアカウント、FC.mouとは</li>
+  <li>21:07 X Monetization 振り込まれてる側</li>
+  <li>27:17 モウリーニョに認知されるためには</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn">技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION</a></li>
+  <li><a href="https://twitter.com/FOOTBALLVOICE3">𝙁𝘾.𝙈𝙤𝙪 (@FOOTBALLVOICE3) / X (twitter.com)</a></li>
+  <li>SPOTVNOW公式アンバサダー活動 <a href="https://twitter.com/footballvoice3/status/1614934035800940550">𝙁𝘾.𝙈𝙤𝙪 on X: &quot;SPOTVNOW公式アンバサダーとしてのイギリス旅もそろそろ終わり🇬🇧 特別な体験を提供してくださったSPOTVNOW様には感謝です🙏プレミアリーグやブライトンのスタッフ陣にも助けられました🙇‍♂️ そして何より、三笘選手に心から御礼を伝えたいです。私にとっての “𝑺𝑷𝑬𝑪𝑰𝑨𝑳 𝑶𝑵𝑬” です👏 #SPOTVNOW </a><a href="https://t.co/dHPefOctan">https://t.co/dHPefOctan</a>&quot;</li>
+  <li><a href="https://twitter.com/FOOTBALLVOICE3/status/1686028215473639425">𝙁𝘾.𝙈𝙤𝙪 on X: &quot;📝スペインを倒した時のボール支配率 📊 23% - 🇯🇵4-0🇪🇸(2023 女子WC) 📊 18% - 🇯🇵2-1🇪🇸(2022 男子WC) 🗣モウ『そんなにボールが好きなら家に持って帰ればいい。私は勝ち点３を持って帰るよ』 </a><a href="https://t.co/H7hSu8Rir7">https://t.co/H7hSu8Rir7</a>&quot;</li>
+  <li><a href="https://twitter.com/footballvoice3/status/1707915656514228675">𝙁𝘾.𝙈𝙤𝙪 on X: &quot;📲 Tweet to Earn 💬 4回目の広告収益分配が入ってました。お金は意識せずツイートしてますが、収益は右肩下がりですねw </a><a href="https://t.co/lguUAdVTlB">https://t.co/lguUAdVTlB</a>&quot;</li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/159-FC-Mou---X-e2bcf89</link>
+			<guid isPermaLink="false">fb2eb722-e371-41c5-9663-3be7e085ed7a</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 02 Nov 2023 01:04:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/78052041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-2%2F7156c54e-33cc-bf09-8deb-98c26ffbb215.mp3" length="46459736" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 同僚と技術書典で出版する本を執筆している941さん&lt;/li&gt;
+ &lt;li&gt;01:58 サッカーわからない二人がサッカーの専門家をゲストに迎えました&lt;/li&gt;
+  &lt;li&gt;11:32 モウリーニョ監督視点のXアカウント、FC.mouとは&lt;/li&gt;
+  &lt;li&gt;21:07 X Monetization 振り込まれてる側&lt;/li&gt;
+  &lt;li&gt;27:17 モウリーニョに認知されるためには&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/product/2qjFJ1g1iVF8tiKXytYwNn&quot;&gt;技術カンファレンスのマスターガイド：企画から運営までの完全手引き：FUNCTION&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/FOOTBALLVOICE3&quot;&gt;𝙁𝘾.𝙈𝙤𝙪 (@FOOTBALLVOICE3) / X (twitter.com)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SPOTVNOW公式アンバサダー活動 &lt;a href=&quot;https://twitter.com/footballvoice3/status/1614934035800940550&quot;&gt;𝙁𝘾.𝙈𝙤𝙪 on X: &amp;quot;SPOTVNOW公式アンバサダーとしてのイギリス旅もそろそろ終わり🇬🇧 特別な体験を提供してくださったSPOTVNOW様には感謝です🙏プレミアリーグやブライトンのスタッフ陣にも助けられました🙇‍♂️ そして何より、三笘選手に心から御礼を伝えたいです。私にとっての “𝑺𝑷𝑬𝑪𝑰𝑨𝑳 𝑶𝑵𝑬” です👏 #SPOTVNOW &lt;/a&gt;&lt;a href=&quot;https://t.co/dHPefOctan&quot;&gt;https://t.co/dHPefOctan&lt;/a&gt;&amp;quot;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/FOOTBALLVOICE3/status/1686028215473639425&quot;&gt;𝙁𝘾.𝙈𝙤𝙪 on X: &amp;quot;📝スペインを倒した時のボール支配率 📊 23% - 🇯🇵4-0🇪🇸(2023 女子WC) 📊 18% - 🇯🇵2-1🇪🇸(2022 男子WC) 🗣モウ『そんなにボールが好きなら家に持って帰ればいい。私は勝ち点３を持って帰るよ』 &lt;/a&gt;&lt;a href=&quot;https://t.co/H7hSu8Rir7&quot;&gt;https://t.co/H7hSu8Rir7&lt;/a&gt;&amp;quot;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/footballvoice3/status/1707915656514228675&quot;&gt;𝙁𝘾.𝙈𝙤𝙪 on X: &amp;quot;📲 Tweet to Earn 💬 4回目の広告収益分配が入ってました。お金は意識せずツイートしてますが、収益は右肩下がりですねw &lt;/a&gt;&lt;a href=&quot;https://t.co/lguUAdVTlB&quot;&gt;https://t.co/lguUAdVTlB&lt;/a&gt;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#158 LISTENの新機能について語る in 福岡大名ガーデンシティ広場]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 引き続きガーデンシティ広場からチルアウトしていきます</li>
+ <li>02:48 LISTEN NEWS で取り上げられました</li>
+  <li>11:14 機能紹介に対する941さんからの要望</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://fukuoka-dgc.jp/">福岡大名ガーデンシティ</a></li>
+  <li><a href="https://www.hotto.tech/p/157">#157 若者しかいない福岡大名ガーデンシティ広場で尿管結石について語る - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://listen.style/p/hottotech">ほっとテック - LISTEN</a></li>
+  <li><a href="https://listen.style/p/listennews">LISTEN NEWS - LISTEN</a></li>
+  <li><a href="https://www.hotto.tech/p/136">#136 米津玄師氏のインタビューを見て、インターネットの砂場から転生について考える - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://blog.kushii.net/archives/2116565.html">カプセルグループの台湾オフィスに行ってきた！【PR】 - 941::blog</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/158-LISTEN-in-e2b7lt2</link>
+			<guid isPermaLink="false">3cd1b970-00f3-44ac-ada8-98b60bcdba70</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 30 Oct 2023 00:28:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77895010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-30%2Fe8506a30-5368-6651-96fb-4c2f426a40cb.mp3" length="34536499" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 引き続きガーデンシティ広場からチルアウトしていきます&lt;/li&gt;
+ &lt;li&gt;02:48 LISTEN NEWS で取り上げられました&lt;/li&gt;
+  &lt;li&gt;11:14 機能紹介に対する941さんからの要望&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fukuoka-dgc.jp/&quot;&gt;福岡大名ガーデンシティ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/157&quot;&gt;#157 若者しかいない福岡大名ガーデンシティ広場で尿管結石について語る - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/hottotech&quot;&gt;ほっとテック - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/listennews&quot;&gt;LISTEN NEWS - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/136&quot;&gt;#136 米津玄師氏のインタビューを見て、インターネットの砂場から転生について考える - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.kushii.net/archives/2116565.html&quot;&gt;カプセルグループの台湾オフィスに行ってきた！【PR】 - 941::blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#157 若者しかいない福岡大名ガーデンシティ広場で尿管結石について語る]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 大名ガーデンシティ広場からまったりお届け</li>
+ <li>02:08 Apple Watch Ultra2を買った941さん</li>
+  <li>04:59 ビックサンダーマウンテンで尿路結石が治る</li>
+  <li>10:33 アルファ波が出る空間</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://fukuoka-dgc.jp/">福岡大名ガーデンシティ</a></li>
+  <li><a href="https://www.apple.com/jp/apple-watch-ultra-2/">Apple Watch Ultra 2</a></li>
+  <li><a href="https://president.jp/articles/-/74775">ビッグサンダーマウンテンに乗って尿管結石が出た人続出…実証研究で排石率は先頭席12.5%､最後部席63.9% 乗馬やヨガで振動やGの力を利用して石を動かす画期的治療法も | PRESIDENT Online（プレジデントオンライン）</a></li>
+  <li><a href="https://pizzafes.jp/">JAPAN PIZZA FESTIVAL</a></li>
+  <li><a href="https://www.gaetano.jp/">【公式】ピッツェリア・ダ・ガエターノ｜薬院・博多駅・今泉のイタリアン</a></li>
+  <li><a href="https://www.ritzcarlton.com/ja/hotels/fukrz-the-ritz-carlton-fukuoka/overview/">ザ・リッツ・カールトン福岡</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/157-e2b2ktd</link>
+			<guid isPermaLink="false">45b5c9bd-0a51-4197-9099-2128ab85fc9d</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 26 Oct 2023 00:38:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77730157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2F0bbc6e3f-0012-63b4-8311-a8f105e2923e.mp3" length="21465495" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 大名ガーデンシティ広場からまったりお届け&lt;/li&gt;
+ &lt;li&gt;02:08 Apple Watch Ultra2を買った941さん&lt;/li&gt;
+  &lt;li&gt;04:59 ビックサンダーマウンテンで尿路結石が治る&lt;/li&gt;
+  &lt;li&gt;10:33 アルファ波が出る空間&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fukuoka-dgc.jp/&quot;&gt;福岡大名ガーデンシティ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/apple-watch-ultra-2/&quot;&gt;Apple Watch Ultra 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://president.jp/articles/-/74775&quot;&gt;ビッグサンダーマウンテンに乗って尿管結石が出た人続出…実証研究で排石率は先頭席12.5%､最後部席63.9% 乗馬やヨガで振動やGの力を利用して石を動かす画期的治療法も | PRESIDENT Online（プレジデントオンライン）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pizzafes.jp/&quot;&gt;JAPAN PIZZA FESTIVAL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gaetano.jp/&quot;&gt;【公式】ピッツェリア・ダ・ガエターノ｜薬院・博多駅・今泉のイタリアン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ritzcarlton.com/ja/hotels/fukrz-the-ritz-carlton-fukuoka/overview/&quot;&gt;ザ・リッツ・カールトン福岡&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:14:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#156 お寺Live・LISTEN新機能・Oura Ringの復活]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 お寺でライブを観てきたyouheiさん</li>
+ <li>06:25 ほっとテックLISTEN公式ページ誕生</li>
+ <li>09:26 Oura Ringサポートが手厚いぞ！ブルガリア！</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+ <li><a href="https://candlenight.org/blog/23048/">【 CANDLE NIGHT LIVE 2023 】 キャンドルナイトライブ</a></li>
+  <li><a href="http://littletempo.com/">LITTLE TEMPO OFFICIAL SITE</a></li>
+  <li><a href="https://www.newdubhall.com/interview/naoyukiuchida/">内田 直之インタビュー：ダブ・エンジニアという生き方〈前編1〉｜talking place｜newdubhall</a></li>
+  <li><a href="https://listen.style/p/hottotech">ほっとテック - LISTEN</a></li>
+  <li><a href="https://listen.style/p/listennews/0p9tdtpy">10/5 LISTENはポッドキャストの文字起こしサービスではなくなりました！ - LISTEN NEWS</a></li>
+  <li><a href="https://ouraring.com/ja">Oura Ring. Smart Ring for Fitness, Stress, Sleep &amp; Health.</a></li>
+  <li><a href="https://dic.pixiv.net/a/%E5%88%A9%E3%81%8D%E6%89%8B%E3%81%AF%E3%82%84%E3%82%81%E3%82%8D%21%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%21">利き手はやめろ!ブルガリア! (ききてはやめろぶるがりあ)とは</a></li>
+  <li><a href="https://www.peakdesign.com/">Bags + Camera Gear | Peak Design Official Site</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/156-LiveLISTENOura-Ring-e2au184</link>
+			<guid isPermaLink="false">55196b8a-43a0-4c13-8525-b0c29d96a97e</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 23 Oct 2023 00:42:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77578948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-23%2F2af7a196-3a16-5c58-f87a-cdba338622cb.mp3" length="21855260" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 お寺でライブを観てきたyouheiさん&lt;/li&gt;
+ &lt;li&gt;06:25 ほっとテックLISTEN公式ページ誕生&lt;/li&gt;
+ &lt;li&gt;09:26 Oura Ringサポートが手厚いぞ！ブルガリア！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://candlenight.org/blog/23048/&quot;&gt;【 CANDLE NIGHT LIVE 2023 】 キャンドルナイトライブ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://littletempo.com/&quot;&gt;LITTLE TEMPO OFFICIAL SITE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.newdubhall.com/interview/naoyukiuchida/&quot;&gt;内田 直之インタビュー：ダブ・エンジニアという生き方〈前編1〉｜talking place｜newdubhall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/hottotech&quot;&gt;ほっとテック - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/listennews/0p9tdtpy&quot;&gt;10/5 LISTENはポッドキャストの文字起こしサービスではなくなりました！ - LISTEN NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ouraring.com/ja&quot;&gt;Oura Ring. Smart Ring for Fitness, Stress, Sleep &amp;amp; Health.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E5%88%A9%E3%81%8D%E6%89%8B%E3%81%AF%E3%82%84%E3%82%81%E3%82%8D%21%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%21&quot;&gt;利き手はやめろ!ブルガリア! (ききてはやめろぶるがりあ)とは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.peakdesign.com/&quot;&gt;Bags + Camera Gear | Peak Design Official Site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:14:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#155 釣りにハマりつつある941親子]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 念願のベンジャミンステーキハウスへ行った941さん</li>
+ <li>03:12 まずはハゼ釣りをやってみた</li>
+  <li>06:18 釣り好きCTOによる提案で海釣りへ</li>
+  <li>10:16 プロの技を体験して感動</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.benjaminsteakhouse.jp/assets/kioi/img/header-key-v001.jpg">ベンジャミンステーキハウス 東京ガーデンテラス紀尾井町店</a></li>
+  <li><a href="http://www.johshuya.co.jp/">つり具の上州屋 - あなたのフィッシング＆アウトドアライフをサポート</a></li>
+  <li><a href="https://activityjapan.com/">アクティビティが安い！レジャー体験予約サイト</a></li>
+  <li><a href="https://umi-ing.com/">海洋体験施設　うみんぐ大島</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/155-941-e2aoue4</link>
+			<guid isPermaLink="false">a80a1e04-bd4c-4e0a-a89d-1f165dcb4e07</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 19 Oct 2023 00:47:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77412228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-19%2F7d4f1d5b-f3d4-f03a-fd13-d48da0668348.mp3" length="29282362" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 念願のベンジャミンステーキハウスへ行った941さん&lt;/li&gt;
+ &lt;li&gt;03:12 まずはハゼ釣りをやってみた&lt;/li&gt;
+  &lt;li&gt;06:18 釣り好きCTOによる提案で海釣りへ&lt;/li&gt;
+  &lt;li&gt;10:16 プロの技を体験して感動&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.benjaminsteakhouse.jp/assets/kioi/img/header-key-v001.jpg&quot;&gt;ベンジャミンステーキハウス 東京ガーデンテラス紀尾井町店&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.johshuya.co.jp/&quot;&gt;つり具の上州屋 - あなたのフィッシング＆アウトドアライフをサポート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://activityjapan.com/&quot;&gt;アクティビティが安い！レジャー体験予約サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://umi-ing.com/&quot;&gt;海洋体験施設　うみんぐ大島&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#154 ほっとテック 10月増刊号]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 秋が来た</li>
+ <li>01:08 U-NEXTに入ってみた</li>
+  <li>06:21 X全員課金制</li>
+  <li>08:52 地球上で一番行ってみたい場所、MSG Sphere</li>
+  <li>14:08 ダイアベティス</li>
+  <li>16:39 Opal Composerリリースに気付いてませんでした</li>
+  <li>22:03 あたらないカキ、エイスシーオイスター2.0</li>
+  <li>26:53 PayPayゴールドカードの家族カード申し込みました</li>
+  <li>28:57 GPT4を無料で使う方法</li>
+  <li>35:22 カツカレーと倶知安町（読めない）</li>
+  <li>37:45 おすすめ英語圏テック系ポッドキャスト、Tech News Briefing</li>
+  <li>39:22 Amazon不正利用の報告が増えているらしい</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://video.unext.jp/">U-NEXT（ユーネクスト）-映画 / ドラマ / アニメから、マンガや雑誌といった電子書籍まで-│31日間無料トライアル</a></li>
+  <li><a href="https://classy-online.jp/fashion/294376/">日本沈没の危機を知り奮闘する内閣府の特任防災アドバイザー女子の大人きれいめ着回しDiary【９月上旬ダイジェスト】 | CLASSY.[クラッシィ]</a></li>
+  <li><a href="https://www.bbc.com/japanese/66850860">マスク氏、「X」をすべて課金制にする可能性示す - BBCニュース</a></li>
+  <li><a href="https://www.thespherevegas.com/">Sphere | Immersive Shows, Concerts &amp; Events in Las Vegas</a></li>
+  <li><a href="https://saitoshika-west.com/blog-entry-8698.html">ラスベガス『MSG Sphere』の球形の外観全体を覆う世界最大LEDビジョン『Exosphere』の映像表現が凄すぎる！【建設工事費約23億ドル】 | Re-urbanization -再都市化-</a></li>
+  <li><a href="https://www3.nhk.or.jp/news/html/20230922/k10014204001000.html">糖尿病の新たな呼称「ダイアベティス」とする案発表 | NHK | 医療・健康</a></li>
+  <li><a href="https://opalcamera.com/opal-composer">Composer — The magic behind the camera</a></li>
+  <li><a href="https://www.hotto.tech/p/030-web-opal-c1-1295215">#030 プロ向けWebカメラOpal C1 を買って円安をグッと感じた - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://www.mmhmm.app/ja/home">mmhmm | ビデオ会議やビデオ録画に</a></li>
+  <li><a href="https://news.tv-asahi.co.jp/news_economy/articles/000317231.html">“あたらないカキ”誕生　世界初の完全陸上養殖に成功　常識覆す秘密は「海洋深層水」</a></li>
+  <li><a href="https://www.paypay-card.co.jp/info/001356.html">「ゴールド家族カード」（年会費無料）の提供開始について｜PayPayカード</a></li>
+  <li><a href="https://qiita.com/takao-takass/items/16a7052a4a0e857b7c90">えっ、まだChatGPT使ってんの？ Bingは無料でGPT-4使えますよ！ - Qiita</a></li>
+  <li><a href="https://hokkaidodo.jp/nandoku-chimei/s/kutchan/">倶知安｜北海道の難読地名カタログ</a></li>
+  <li><a href="https://www.wsj.com/podcasts/tech-news-briefing">Tech News Briefing - WSJ Podcasts</a></li>
+  <li><a href="https://www.itmedia.co.jp/news/articles/2309/14/news152.html">「Amazonを不正利用された」──SNS上で報告相次ぐ　「二段階認証を突破された」などの声も - ITmedia NEWS</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/154--10-e2akh5m</link>
+			<guid isPermaLink="false">7916338a-0b8a-433c-a033-ae171e9697a2</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 16 Oct 2023 04:16:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77267574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-16%2Ffba81caa-1773-3571-7456-90f391f78578.mp3" length="66297709" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 秋が来た&lt;/li&gt;
+ &lt;li&gt;01:08 U-NEXTに入ってみた&lt;/li&gt;
+  &lt;li&gt;06:21 X全員課金制&lt;/li&gt;
+  &lt;li&gt;08:52 地球上で一番行ってみたい場所、MSG Sphere&lt;/li&gt;
+  &lt;li&gt;14:08 ダイアベティス&lt;/li&gt;
+  &lt;li&gt;16:39 Opal Composerリリースに気付いてませんでした&lt;/li&gt;
+  &lt;li&gt;22:03 あたらないカキ、エイスシーオイスター2.0&lt;/li&gt;
+  &lt;li&gt;26:53 PayPayゴールドカードの家族カード申し込みました&lt;/li&gt;
+  &lt;li&gt;28:57 GPT4を無料で使う方法&lt;/li&gt;
+  &lt;li&gt;35:22 カツカレーと倶知安町（読めない）&lt;/li&gt;
+  &lt;li&gt;37:45 おすすめ英語圏テック系ポッドキャスト、Tech News Briefing&lt;/li&gt;
+  &lt;li&gt;39:22 Amazon不正利用の報告が増えているらしい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://video.unext.jp/&quot;&gt;U-NEXT（ユーネクスト）-映画 / ドラマ / アニメから、マンガや雑誌といった電子書籍まで-│31日間無料トライアル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://classy-online.jp/fashion/294376/&quot;&gt;日本沈没の危機を知り奮闘する内閣府の特任防災アドバイザー女子の大人きれいめ着回しDiary【９月上旬ダイジェスト】 | CLASSY.[クラッシィ]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/japanese/66850860&quot;&gt;マスク氏、「X」をすべて課金制にする可能性示す - BBCニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thespherevegas.com/&quot;&gt;Sphere | Immersive Shows, Concerts &amp;amp; Events in Las Vegas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saitoshika-west.com/blog-entry-8698.html&quot;&gt;ラスベガス『MSG Sphere』の球形の外観全体を覆う世界最大LEDビジョン『Exosphere』の映像表現が凄すぎる！【建設工事費約23億ドル】 | Re-urbanization -再都市化-&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www3.nhk.or.jp/news/html/20230922/k10014204001000.html&quot;&gt;糖尿病の新たな呼称「ダイアベティス」とする案発表 | NHK | 医療・健康&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opalcamera.com/opal-composer&quot;&gt;Composer — The magic behind the camera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/030-web-opal-c1-1295215&quot;&gt;#030 プロ向けWebカメラOpal C1 を買って円安をグッと感じた - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mmhmm.app/ja/home&quot;&gt;mmhmm | ビデオ会議やビデオ録画に&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.tv-asahi.co.jp/news_economy/articles/000317231.html&quot;&gt;“あたらないカキ”誕生　世界初の完全陸上養殖に成功　常識覆す秘密は「海洋深層水」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paypay-card.co.jp/info/001356.html&quot;&gt;「ゴールド家族カード」（年会費無料）の提供開始について｜PayPayカード&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/takao-takass/items/16a7052a4a0e857b7c90&quot;&gt;えっ、まだChatGPT使ってんの？ Bingは無料でGPT-4使えますよ！ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hokkaidodo.jp/nandoku-chimei/s/kutchan/&quot;&gt;倶知安｜北海道の難読地名カタログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wsj.com/podcasts/tech-news-briefing&quot;&gt;Tech News Briefing - WSJ Podcasts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2309/14/news152.html&quot;&gt;「Amazonを不正利用された」──SNS上で報告相次ぐ　「二段階認証を突破された」などの声も - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:45:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#153 ポッドキャストウィークエンド参加します！そして無心で数時間プレイ出来るパズルゲームのススメ]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 ポッドキャスト・ザ・ギャザリングふりかえり会</li>
+ <li>04:41 テトリスはつらい記憶を癒す</li>
+  <li>09:51 ぷよはかつてヒトだった</li>
+  <li>12:38 941さんが人生で一番遊んだゲーム</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://listen.style/p/pctg/vk1minxt">イベント振り返り回とユニット結成、そしてイベント出展のお知らせ - LISTEN</a></li>
+  <li><a href="https://twitter.com/hottotech/status/1708764247952605505">🍵🦾ほっとテック公式 on X: &quot;ポッドキャスト・ザ・ギャザリングのXアカウントが爆誕しました！早速お知らせが2つ。 1️⃣交流イベント #ポッドキャストギャザリング の振り返りトークを公開！ 2️⃣ほっとテックも「ギャザリング」の一員として12月16日(土)開催のポッドキャストウィークエンドに参加します！ </a><a href="https://t.co/pNjojKp00I">https://t.co/pNjojKp00I</a> <a href="https://t.co/pYSV3jeBdI">https://t.co/pYSV3jeBdI</a>&quot; / X</li>
+  <li><a href="https://natgeo.nikkeibp.co.jp/atcl/news/23/092100485/">つらい記憶のフラッシュバックは「テトリス」をやると減る、研究 | ナショナル ジオグラフィック日本版サイト</a></li>
+  <li><a href="https://goetheweb.jp/person/article/20230603-yone-4">「ぷよぷよ」誕生秘話。テーマは「人類愛」、リーダーは社会的意義を語れ。 | GOETHE</a></li>
+  <li><a href="https://www.intsys.co.jp/game/panepon/">「パネルでポン」ホームページ／トップページ</a></li>
+  <li>941さんのパネポンの腕前 - <a href="https://twitter.com/941/status/1264412816036913153?s=20">パネポンいい感じになってきた #スーパーファミコン #NintendoSwitch / X</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/153-e2afnbh</link>
+			<guid isPermaLink="false">f9358ccb-6102-4d1a-bd06-629450960be2</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 12 Oct 2023 06:59:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/77110065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-12%2F8e115830-4ad2-6370-828d-78c45f5ba970.mp3" length="25200659" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 ポッドキャスト・ザ・ギャザリングふりかえり会&lt;/li&gt;
+ &lt;li&gt;04:41 テトリスはつらい記憶を癒す&lt;/li&gt;
+  &lt;li&gt;09:51 ぷよはかつてヒトだった&lt;/li&gt;
+  &lt;li&gt;12:38 941さんが人生で一番遊んだゲーム&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/p/pctg/vk1minxt&quot;&gt;イベント振り返り回とユニット結成、そしてイベント出展のお知らせ - LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hottotech/status/1708764247952605505&quot;&gt;🍵🦾ほっとテック公式 on X: &amp;quot;ポッドキャスト・ザ・ギャザリングのXアカウントが爆誕しました！早速お知らせが2つ。 1️⃣交流イベント #ポッドキャストギャザリング の振り返りトークを公開！ 2️⃣ほっとテックも「ギャザリング」の一員として12月16日(土)開催のポッドキャストウィークエンドに参加します！ &lt;/a&gt;&lt;a href=&quot;https://t.co/pNjojKp00I&quot;&gt;https://t.co/pNjojKp00I&lt;/a&gt; &lt;a href=&quot;https://t.co/pYSV3jeBdI&quot;&gt;https://t.co/pYSV3jeBdI&lt;/a&gt;&amp;quot; / X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://natgeo.nikkeibp.co.jp/atcl/news/23/092100485/&quot;&gt;つらい記憶のフラッシュバックは「テトリス」をやると減る、研究 | ナショナル ジオグラフィック日本版サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goetheweb.jp/person/article/20230603-yone-4&quot;&gt;「ぷよぷよ」誕生秘話。テーマは「人類愛」、リーダーは社会的意義を語れ。 | GOETHE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intsys.co.jp/game/panepon/&quot;&gt;「パネルでポン」ホームページ／トップページ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;941さんのパネポンの腕前 - &lt;a href=&quot;https://twitter.com/941/status/1264412816036913153?s=20&quot;&gt;パネポンいい感じになってきた #スーパーファミコン #NintendoSwitch / X&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:17:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#152 youhei a.k.a 海藻ひかえ太郎が「りぼん黄金期」を語る]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 体調を崩したら海藻の食べ過ぎが発覚したyouheiさん</li>
+ <li>07:13 突然だけど『りぼん黄金期』について語らせてくれ</li>
+  <li>13:52 そのジャンルで最近のおすすめ作品は？</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://allabout.co.jp/gm/gc/471801/">海藻の摂取量目安とは？ヨウ素過剰は健康に悪いのか [食と健康] All About</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B00E1GNLUA">ときめきトゥナイト 1 (りぼんマスコットコミックスDIGITAL) | 池野恋 | 少女マンガ</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%9F%8A%E3%81%82%E3%81%8A%E3%81%84">柊あおい - Wikipedia</a></li>
+  <li><a href="https://www.amazon.co.jp/o/ASIN/B002DE6Y38/">お父さんは心配症 (りぼんマスコットコミックス) : 岡田 あ~みん: 本</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B00EZ1B2K2">ちびまる子ちゃん (りぼんマスコットコミックスDIGITAL) | さくらももこ | 少女マンガ</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B00DG1DRK0">瞬きもせず 1 (マーガレットコミックスDIGITAL) | 紡木たく | 少女マンガ</a></li>
+  <li><a href="https://www.nishinippon.co.jp/item/n/295363/">幻の作品や原画、資料など多数　漫画家　「岡崎京子展」｜【西日本新聞me】</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4088564294">Amazon.co.jp: ときめきミッドナイト 1 (りぼんマスコットコミックス) : 池野 恋: 本</a></li>
+  <li><a href="https://www.amazon.co.jp/%E9%AB%98%E6%A9%8B-%E3%83%84%E3%83%88%E3%83%A0/e/B003UWEP9W/" target="_blank">Amazon.co.jp: 高橋 ツトム:作品一覧、著者略歴</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/152-youhei-a-k-a-e2ab8gr</link>
+			<guid isPermaLink="false">4b35fb5d-45c3-48fe-b80c-70bf26e1b1a2</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 09 Oct 2023 07:40:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76963803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-9%2Fa82510cd-8033-4d6a-eb62-f69303e89c6e.mp3" length="29012894" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 体調を崩したら海藻の食べ過ぎが発覚したyouheiさん&lt;/li&gt;
+ &lt;li&gt;07:13 突然だけど『りぼん黄金期』について語らせてくれ&lt;/li&gt;
+  &lt;li&gt;13:52 そのジャンルで最近のおすすめ作品は？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://allabout.co.jp/gm/gc/471801/&quot;&gt;海藻の摂取量目安とは？ヨウ素過剰は健康に悪いのか [食と健康] All About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00E1GNLUA&quot;&gt;ときめきトゥナイト 1 (りぼんマスコットコミックスDIGITAL) | 池野恋 | 少女マンガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9F%8A%E3%81%82%E3%81%8A%E3%81%84&quot;&gt;柊あおい - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/o/ASIN/B002DE6Y38/&quot;&gt;お父さんは心配症 (りぼんマスコットコミックス) : 岡田 あ~みん: 本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00EZ1B2K2&quot;&gt;ちびまる子ちゃん (りぼんマスコットコミックスDIGITAL) | さくらももこ | 少女マンガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00DG1DRK0&quot;&gt;瞬きもせず 1 (マーガレットコミックスDIGITAL) | 紡木たく | 少女マンガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nishinippon.co.jp/item/n/295363/&quot;&gt;幻の作品や原画、資料など多数　漫画家　「岡崎京子展」｜【西日本新聞me】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4088564294&quot;&gt;Amazon.co.jp: ときめきミッドナイト 1 (りぼんマスコットコミックス) : 池野 恋: 本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E9%AB%98%E6%A9%8B-%E3%83%84%E3%83%88%E3%83%A0/e/B003UWEP9W/&quot; target=&quot;_blank&quot;&gt;Amazon.co.jp: 高橋 ツトム:作品一覧、著者略歴&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#151 新おすすめキーボード、その名はGrabShell]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 コロナ体験記</li>
+ <li>02:46 GrabShellとバンドネオン</li>
+  <li>08:59 日清ゲーミングカップヌードル</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.itmedia.co.jp/news/articles/2309/22/news179.html">変態キーボードだ！　つかんで打鍵する「GrabShell」触ってきた　一体誰向け？：TGS 2023（1/2 ページ） - ITmedia NEWS</a></li>
+  <li><a href="https://shop.taniguchi-gakki.jp/products/list.php?category_id=44">■バンドネオン■ / 蛇腹楽器</a></li>
+  <li><a href="https://www.nissin.com/jp/products/items/11960">日清ゲーミングカップヌードル エナジーガーリック&amp;黒胡椒焼そば | 日清食品グループ</a></li>
+  <li><a href="https://news.yahoo.co.jp/expert/articles/bfedcda48b1e3705890113b3004dff722e02fb8c">なかやまきんに君のCMが話題！カップヌードル新作「担担」は王道の美味しさか？実食レビュー - Yahoo!ニュース</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/151-GrabShell-e2a652u</link>
+			<guid isPermaLink="false">21559510-ad98-419d-ab02-8d77d06c9b37</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 05 Oct 2023 00:54:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76796446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-5%2Fbf62f237-ba4a-e22a-5853-bab2b0f66b57.mp3" length="18903129" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 コロナ体験記&lt;/li&gt;
+ &lt;li&gt;02:46 GrabShellとバンドネオン&lt;/li&gt;
+  &lt;li&gt;08:59 日清ゲーミングカップヌードル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2309/22/news179.html&quot;&gt;変態キーボードだ！　つかんで打鍵する「GrabShell」触ってきた　一体誰向け？：TGS 2023（1/2 ページ） - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shop.taniguchi-gakki.jp/products/list.php?category_id=44&quot;&gt;■バンドネオン■ / 蛇腹楽器&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nissin.com/jp/products/items/11960&quot;&gt;日清ゲーミングカップヌードル エナジーガーリック&amp;amp;黒胡椒焼そば | 日清食品グループ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.yahoo.co.jp/expert/articles/bfedcda48b1e3705890113b3004dff722e02fb8c&quot;&gt;なかやまきんに君のCMが話題！カップヌードル新作「担担」は王道の美味しさか？実食レビュー - Yahoo!ニュース&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#150 メーカー公認でaiboの仲介をしてくれるのが気になる]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 941さんが尊敬する3人のエンジニアと旧交を温めた話</li>
+ <li>04:15 aiboをお迎えしたい気持ちがずっとある</li>
+  <li>08:33 リアルペットを飼っていた？</li>
+  <li>11:43 Lovotもかわいい</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
+  <li><a href="https://aibo.sony.jp/?s_tc=ab_adv_ad_aibo_top231q&gclid=CjwKCAjwseSoBhBXEiwA9iZtxnjAhgbAT45av2GQrg3WDAnNc-PpXaFjHHEoo-aW-1maNP3L_K7aHxoCYegQAvD_BwE">aibo</a></li>
+  <li><a href="https://www.yomiuri.co.jp/economy/20230911-OYT1T50141/">犬型ロボットのアイボ、ソニーが引き取り手を仲介…「処分しづらい」思い尊重 : 読売新聞</a></li>
+  <li><a href="https://kaden.watch.impress.co.jp/docs/column/941ikumen/1347200.html">aiboをレンタルしたら、かわいさにメロメロ! 一方で不調も【941のイクメン徒然】- 家電 Watch</a></li>
+  <li><a href="https://www.watch.impress.co.jp/docs/news/1469297.html">aibo新色「エスプレッソ・ブラック」 特別な4色の瞳 - Impress Watch</a></li>
+  <li><a href="https://lovot.life/">LOVOT[らぼっと]</a></li>
+  <li><a href="https://robot-friendly.com/">Robot Friendly Project – ロボットフレンドリープロジェクト</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B07875FMG1">将棋の渡辺くん (全6巻) Kindle版</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B00AY7FI7O">監督不行届 (FEEL COMICS) | 安野モヨコ | Amazon</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/150-aibo-e2a1kl9</link>
+			<guid isPermaLink="false">a478cc1f-c535-4d24-b4c9-06049ef77c5e</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 02 Oct 2023 00:32:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76648553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F68a68f04-f8e3-bc7e-4567-41b4a83e3cd9.mp3" length="23863605" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 941さんが尊敬する3人のエンジニアと旧交を温めた話&lt;/li&gt;
+ &lt;li&gt;04:15 aiboをお迎えしたい気持ちがずっとある&lt;/li&gt;
+  &lt;li&gt;08:33 リアルペットを飼っていた？&lt;/li&gt;
+  &lt;li&gt;11:43 Lovotもかわいい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/&quot;&gt;Rebuild - Podcast by Tatsuhiko Miyagawa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aibo.sony.jp/?s_tc=ab_adv_ad_aibo_top231q&amp;gclid=CjwKCAjwseSoBhBXEiwA9iZtxnjAhgbAT45av2GQrg3WDAnNc-PpXaFjHHEoo-aW-1maNP3L_K7aHxoCYegQAvD_BwE&quot;&gt;aibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yomiuri.co.jp/economy/20230911-OYT1T50141/&quot;&gt;犬型ロボットのアイボ、ソニーが引き取り手を仲介…「処分しづらい」思い尊重 : 読売新聞&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kaden.watch.impress.co.jp/docs/column/941ikumen/1347200.html&quot;&gt;aiboをレンタルしたら、かわいさにメロメロ! 一方で不調も【941のイクメン徒然】- 家電 Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.watch.impress.co.jp/docs/news/1469297.html&quot;&gt;aibo新色「エスプレッソ・ブラック」 特別な4色の瞳 - Impress Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lovot.life/&quot;&gt;LOVOT[らぼっと]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robot-friendly.com/&quot;&gt;Robot Friendly Project – ロボットフレンドリープロジェクト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07875FMG1&quot;&gt;将棋の渡辺くん (全6巻) Kindle版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00AY7FI7O&quot;&gt;監督不行届 (FEEL COMICS) | 安野モヨコ | Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:16:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#149 技術革新とはなにかをジワジワ感じた今年のApple Event]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 Aim! Respect! Empower!</li>
+ <li>03:15 今回の Apple Event をみて感じたこと</li>
+  <li>13:46 オモチャ扱いはイノベーションのサイン</li>
+  <li>16:46 Appleさんは「USB-C」呼び？</li>
+  <li>21:15 youheiさんがUltraを使い続けると決心した理由</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://news.yahoo.co.jp/articles/aa095ac2537ecfa84aff66c6c7e444865252b9ac">【阪神】18年ぶり「アレ」目前　岡田監督も表現する「アレ」の語源とは？（日刊スポーツ） - Yahoo!ニュース</a></li>
+  <li><a href="https://pine-are.com/">パインアレ特設通販サイト</a></li>
+  <li><a href="https://www.apple.com/jp/iphone-15-pro/">iPhone 15 ProとiPhone 15 Pro Max - Apple</a></li>
+  <li><a href="https://www.blackmagicdesign.com/jp/products/blackmagiccamera">Blackmagic Camera | Blackmagic Design</a></li>
+  <li><a href="https://www.sanwa.co.jp/product/cable/howto/usb.html">USBとは？｜サンワサプライ株式会社</a></li>
+  <li><a href="https://www.buzzfeed.com/jp/yuikashima/shi-n-go-ji-ra-ha-iphone-de-satsuei-sa-re-ta-higuchi-kantoku">「シン・ゴジラ」舞台裏を支えたのはiPhoneとiPad？ 監督が明かす</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3A8iRGjbec0">iPhone 14 Proで撮影 | NewJeans “ETA”| Apple - YouTube</a></li>
+  <li><a href="https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea#.el1ioa5ff">“[…] is a toy”. As many have recognized, when… | by Steven Sinofsky | Learning By Shipping</a></li>
+  <li><a href="https://www.youtube.com/watch?v=VcLu5bokbyc">ドリキンやってんなー！結局 iPhone 15 Pro 買ってんじゃん！ ｜#backspacefm #517 - YouTube</a></li>
+  <li><a href="https://www.hotto.tech/p/055-usb-type-c-1433746?utm_source=%2Fsearch%2FUSB&utm_medium=reader2">#055 USB Type-Cの表記がついに統一されるらしい(ほんまかいな) - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://www.apple.com/jp/apple-watch-ultra-2/">Apple Watch Ultra 2 - Apple</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/149-Apple-Event-e29sgte</link>
+			<guid isPermaLink="false">c0e917f6-4cbd-466d-a25b-7a2bb84e8e40</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 28 Sep 2023 00:40:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76480878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Fc25b5f4d-0f92-da5f-1450-e411dbf5294a.mp3" length="37209596" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 Aim! Respect! Empower!&lt;/li&gt;
+ &lt;li&gt;03:15 今回の Apple Event をみて感じたこと&lt;/li&gt;
+  &lt;li&gt;13:46 オモチャ扱いはイノベーションのサイン&lt;/li&gt;
+  &lt;li&gt;16:46 Appleさんは「USB-C」呼び？&lt;/li&gt;
+  &lt;li&gt;21:15 youheiさんがUltraを使い続けると決心した理由&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.yahoo.co.jp/articles/aa095ac2537ecfa84aff66c6c7e444865252b9ac&quot;&gt;【阪神】18年ぶり「アレ」目前　岡田監督も表現する「アレ」の語源とは？（日刊スポーツ） - Yahoo!ニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pine-are.com/&quot;&gt;パインアレ特設通販サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/iphone-15-pro/&quot;&gt;iPhone 15 ProとiPhone 15 Pro Max - Apple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackmagicdesign.com/jp/products/blackmagiccamera&quot;&gt;Blackmagic Camera | Blackmagic Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sanwa.co.jp/product/cable/howto/usb.html&quot;&gt;USBとは？｜サンワサプライ株式会社&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.buzzfeed.com/jp/yuikashima/shi-n-go-ji-ra-ha-iphone-de-satsuei-sa-re-ta-higuchi-kantoku&quot;&gt;「シン・ゴジラ」舞台裏を支えたのはiPhoneとiPad？ 監督が明かす&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3A8iRGjbec0&quot;&gt;iPhone 14 Proで撮影 | NewJeans “ETA”| Apple - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea#.el1ioa5ff&quot;&gt;“[…] is a toy”. As many have recognized, when… | by Steven Sinofsky | Learning By Shipping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VcLu5bokbyc&quot;&gt;ドリキンやってんなー！結局 iPhone 15 Pro 買ってんじゃん！ ｜#backspacefm #517 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/055-usb-type-c-1433746?utm_source=%2Fsearch%2FUSB&amp;utm_medium=reader2&quot;&gt;#055 USB Type-Cの表記がついに統一されるらしい(ほんまかいな) - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/apple-watch-ultra-2/&quot;&gt;Apple Watch Ultra 2 - Apple&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#148 日記アプリに求めるのは暗号化]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 日記アプリは暗号化重要</li>
+ <li>09:01 実は日記を最近つけている941さん</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://telecube.jp/">テレキューブサービス｜いつでもどこでも、あなたの個室空間</a></li>
+  <li><a href="https://dayoneapp.com/">Day One Journal App | Your Journal For Life</a></li>
+  <li><a href="https://e-words.jp/w/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%84%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89.html">エンドツーエンド（E2E）とは - IT用語辞典 e-Words</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/148-e29pm4s</link>
+			<guid isPermaLink="false">a0ab5d35-9432-4e91-a742-0627851451e0</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Tue, 26 Sep 2023 04:51:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76387932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Ff300ee39-1783-055b-01e6-cedea6106df5.mp3" length="18682202" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 日記アプリは暗号化重要&lt;/li&gt;
+ &lt;li&gt;09:01 実は日記を最近つけている941さん&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://telecube.jp/&quot;&gt;テレキューブサービス｜いつでもどこでも、あなたの個室空間&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dayoneapp.com/&quot;&gt;Day One Journal App | Your Journal For Life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://e-words.jp/w/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%84%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89.html&quot;&gt;エンドツーエンド（E2E）とは - IT用語辞典 e-Words&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#147 エンジニアが山ほど集まるイベントをやった941さんが運営について語る]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 テレキューブに収まってるyouheiさん</li>
+ <li>01:04 WEB+DB PRESS創刊22.9周年パーティ</li>
+  <li>08:01 あれもこれも詰め込んだイベントの舞台裏</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://telecube.jp/">テレキューブサービス｜いつでもどこでも、あなたの個室空間</a></li>
+  <li><a href="https://www.hotto.tech/p/143">#143 みんな！明日はカツカレーだよ！〜40代男性が好きな食べ物〜</a></li>
+  <li><a href="https://blog.kushii.net/archives/2195234.html">WEB+DB PRESS 22.9周年パーティ #wdpress_party の様子を写真で振り返る完全版レポート - 941::blog</a></li>
+  <li><a href="https://twitter.com/kai4den">カイ（@kai4den）さん / X</a></li>
+  <li><a href="https://techno-note.net/article/2023/09/13/1470">対面イベントにおすすめなアイコン入り名札を作る方法を徹底解説 – 技術の手帖</a></li>
+  <li><a href="https://note.com/sotarok/n/n43908d3464e8">WEB+DB PRESS 22.9周年パーティでビール出してきた話｜Sotaro Karasawa</a></li>
+  <li><a href="https://sunsetcellars.jp/">カリフォルニアのワイナリー サンセットセラーズ</a></li>
+  <li><a href="https://togetter.com/id/wdpress_party">WEB+DB PRESS 22.9周年パーティ(@wdpress_party)のまとめ - Togetter</a></li>
+  <li><a href="https://saturdayregfile.hp.peraichi.com/">ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャル | 土曜回帰φ瑠</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/147-941-e29ivrh</link>
+			<guid isPermaLink="false">91a12f5b-c9c9-48a8-a3a5-57bc64f8df85</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 21 Sep 2023 00:16:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76168497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-21%2F2e696101-0e10-7f9d-b876-dc548435876c.mp3" length="25528607" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 テレキューブに収まってるyouheiさん&lt;/li&gt;
+ &lt;li&gt;01:04 WEB+DB PRESS創刊22.9周年パーティ&lt;/li&gt;
+  &lt;li&gt;08:01 あれもこれも詰め込んだイベントの舞台裏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://telecube.jp/&quot;&gt;テレキューブサービス｜いつでもどこでも、あなたの個室空間&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/143&quot;&gt;#143 みんな！明日はカツカレーだよ！〜40代男性が好きな食べ物〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.kushii.net/archives/2195234.html&quot;&gt;WEB+DB PRESS 22.9周年パーティ #wdpress_party の様子を写真で振り返る完全版レポート - 941::blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kai4den&quot;&gt;カイ（@kai4den）さん / X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techno-note.net/article/2023/09/13/1470&quot;&gt;対面イベントにおすすめなアイコン入り名札を作る方法を徹底解説 – 技術の手帖&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/sotarok/n/n43908d3464e8&quot;&gt;WEB+DB PRESS 22.9周年パーティでビール出してきた話｜Sotaro Karasawa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sunsetcellars.jp/&quot;&gt;カリフォルニアのワイナリー サンセットセラーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://togetter.com/id/wdpress_party&quot;&gt;WEB+DB PRESS 22.9周年パーティ(@wdpress_party)のまとめ - Togetter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saturdayregfile.hp.peraichi.com/&quot;&gt;ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャル | 土曜回帰φ瑠&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:17:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#146 ほっとテック 9月増刊号]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 増刊号のジングルを変えます！（今回から</li>
+ <li>02:27 フィールドレコーディング風録音秘話</li>
+  <li>04:44 マスクウクライナネット遮断年560億円要求字面がすごい</li>
+  <li>07:52 Worldcoin の Orb を体験してみた</li>
+  <li>11:30 相手の気持ちを読む力のピークは何歳？</li>
+  <li>15:51 Eufy Security SmartTrack Card</li>
+  <li>20:17 任天堂の脅威の社員定着率</li>
+  <li>24:18 The New York Times、WordUp</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://support.apple.com/ja-jp/guide/logicpro/lgcef18b8738/mac">Logic Pro for MacのSample Delay - Apple サポート (日本)</a></li>
+  <li>フィールドレコーディング回 <a href="https://www.hotto.tech/p/139">#139 PodcastコミュニティにおいてのDiscord超活用方法 - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://www.gizmodo.jp/2023/08/elon-musk-demands-58-billion-a-year-to-cut-off-the-internet-in-ukraines-hardest-hit-region.html">イーロン・マスクがウクライナの激戦地でネットを遮断して年580億円を要求 | ギズモード・ジャパン</a></li>
+  <li><a href="https://www.nissin.com/jp/about/history/topics/817">1972.2 あさま山荘事件で機動隊に「カップヌードル」が配られた | NISSIN HISTORY</a></li>
+  <li><a href="https://www.neweconomy.jp/posts/329428">サム・アルトマンら開発の「Worldcoin」、企業や政府にIDシステムの利用を許可すると発表 | あたらしい経済</a></li>
+  <li><a href="https://wired.jp/2021/11/12/get-free-crypto-orb-scans-eye/">仮想通貨「Worldcoin」は、ベーシックインカムを実現できるか | WIRED.jp</a> 登録者数230万くらいでした。</li>
+  <li><a href="https://www.vogue.co.jp/article/brain-anti-aging-1-onayami">アラフォーが脳の曲がり角。人生100年時代に脳を老化させないため、今日からできること【ヴォーグなお悩み外来】 | Vogue Japan</a></li>
+  <li><a href="https://www.ankerjapan.com/collections/smarttrack/products/t87b2">Eufy Security SmartTrack Card | 紛失防止トラッカーの製品情報 – Anker Japan 公式サイト</a></li>
+  <li><a href="https://biz-journal.jp/2023/08/post_358805.html">任天堂、驚異の新入社員定着率「ほぼ100％」…なぜ社員が辞めないのか | ビジネスジャーナル</a></li>
+  <li><a href="https://www.nytimes.com/subscription">The New York Times: Digital and Home Delivery Subscriptions</a> お値段は3ドル/週でした。最初の４週は0.5ドル。</li>
+  <li><a href="https://rd.nytimes.com/research/spatial-journalism">R&amp;D - Spatial Journalism | R&amp;D (nytimes.com)</a></li>
+  <li><a href="https://www.wordupapp.co/">WordUp Vocabulary App | The smart way to perfect your English</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/146--9-e29eov0</link>
+			<guid isPermaLink="false">be0fc769-92ae-464d-ae00-d5a7d639b62c</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 18 Sep 2023 02:45:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/76030368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-18%2F99f9bf08-b21e-29b2-dd03-3414a9332075.mp3" length="47121279" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 増刊号のジングルを変えます！（今回から&lt;/li&gt;
+ &lt;li&gt;02:27 フィールドレコーディング風録音秘話&lt;/li&gt;
+  &lt;li&gt;04:44 マスクウクライナネット遮断年560億円要求字面がすごい&lt;/li&gt;
+  &lt;li&gt;07:52 Worldcoin の Orb を体験してみた&lt;/li&gt;
+  &lt;li&gt;11:30 相手の気持ちを読む力のピークは何歳？&lt;/li&gt;
+  &lt;li&gt;15:51 Eufy Security SmartTrack Card&lt;/li&gt;
+  &lt;li&gt;20:17 任天堂の脅威の社員定着率&lt;/li&gt;
+  &lt;li&gt;24:18 The New York Times、WordUp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/ja-jp/guide/logicpro/lgcef18b8738/mac&quot;&gt;Logic Pro for MacのSample Delay - Apple サポート (日本)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;フィールドレコーディング回 &lt;a href=&quot;https://www.hotto.tech/p/139&quot;&gt;#139 PodcastコミュニティにおいてのDiscord超活用方法 - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2023/08/elon-musk-demands-58-billion-a-year-to-cut-off-the-internet-in-ukraines-hardest-hit-region.html&quot;&gt;イーロン・マスクがウクライナの激戦地でネットを遮断して年580億円を要求 | ギズモード・ジャパン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nissin.com/jp/about/history/topics/817&quot;&gt;1972.2 あさま山荘事件で機動隊に「カップヌードル」が配られた | NISSIN HISTORY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.neweconomy.jp/posts/329428&quot;&gt;サム・アルトマンら開発の「Worldcoin」、企業や政府にIDシステムの利用を許可すると発表 | あたらしい経済&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2021/11/12/get-free-crypto-orb-scans-eye/&quot;&gt;仮想通貨「Worldcoin」は、ベーシックインカムを実現できるか | WIRED.jp&lt;/a&gt; 登録者数230万くらいでした。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vogue.co.jp/article/brain-anti-aging-1-onayami&quot;&gt;アラフォーが脳の曲がり角。人生100年時代に脳を老化させないため、今日からできること【ヴォーグなお悩み外来】 | Vogue Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ankerjapan.com/collections/smarttrack/products/t87b2&quot;&gt;Eufy Security SmartTrack Card | 紛失防止トラッカーの製品情報 – Anker Japan 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://biz-journal.jp/2023/08/post_358805.html&quot;&gt;任天堂、驚異の新入社員定着率「ほぼ100％」…なぜ社員が辞めないのか | ビジネスジャーナル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/subscription&quot;&gt;The New York Times: Digital and Home Delivery Subscriptions&lt;/a&gt; お値段は3ドル/週でした。最初の４週は0.5ドル。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rd.nytimes.com/research/spatial-journalism&quot;&gt;R&amp;amp;D - Spatial Journalism | R&amp;amp;D (nytimes.com)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wordupapp.co/&quot;&gt;WordUp Vocabulary App | The smart way to perfect your English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#145 地図アプリって今のままでいいんだっけ問題]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 スラムダンクロングラン上映終了</li>
+ <li>01:52 地図アプリについて普段から感じていること</li>
+  <li>12:08 文章にあったいらすとやをレコメンドしてくれるAIが欲しい</li>
+  <li>16:04 Apple Vision Pro についていつか話します！（しないかも</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://aisozai.com/irasutoya">AIいらすとや</a></li>
+  <li><a href="https://moto-neta.com/manga/gyakudattakamo/">逆だったかもしれねェ…の元ネタ - 元ネタ・由来を解説するサイト 「タネタン」</a></li>
+  <li><a href="https://www.apple.com/apple-vision-pro/">Apple Vision Pro - Apple</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/145-e29a8o5</link>
+			<guid isPermaLink="false">803cd092-80ac-45c2-bece-aaf4e774cb91</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 14 Sep 2023 06:47:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75882693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2F73bb3340-5df7-0c29-f76d-39ed36551358.mp3" length="28490648" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 スラムダンクロングラン上映終了&lt;/li&gt;
+ &lt;li&gt;01:52 地図アプリについて普段から感じていること&lt;/li&gt;
+  &lt;li&gt;12:08 文章にあったいらすとやをレコメンドしてくれるAIが欲しい&lt;/li&gt;
+  &lt;li&gt;16:04 Apple Vision Pro についていつか話します！（しないかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aisozai.com/irasutoya&quot;&gt;AIいらすとや&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://moto-neta.com/manga/gyakudattakamo/&quot;&gt;逆だったかもしれねェ…の元ネタ - 元ネタ・由来を解説するサイト 「タネタン」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/apple-vision-pro/&quot;&gt;Apple Vision Pro - Apple&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#144 本業とまったく違う業種のバイトをしたい]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 夏が終わっていない</li>
+ <li>02:47 バイトがしたい941さん</li>
+  <li>08:50 今日のレストランの灯りに</li>
+  <li>15:41 どういうバイトが自分にとって刺激になるのだろうか</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://note.com/narumi/n/n512eab4b0888">夏の終わりを感じる瞬間について｜narumi</a></li>
+  <li><a href="https://note.com/nonbeepanda3/n/n51b12bd65813">医療記者、イタリアンレストランでバイトを始める｜岩永直子</a></li>
+  <li><a href="https://www.amazon.co.jp/o/ASIN/B0CHJ6ZPY6/">今日もレストランの灯りに | Kindleストア</a></li>
+  <li><a href="https://www.amazon.co.jp/o/ASIN/4253265219/">海が走るエンドロール  | Amazon</a></li>
+  <li><a href="https://bagus-99.com/">BAGUS</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/144-e295ske</link>
+			<guid isPermaLink="false">b5fd1398-3403-49a3-95cf-cf22f39ad282</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 11 Sep 2023 04:58:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75739214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-11%2F2e24e5c6-ab60-e756-55c6-f03b06674faf.mp3" length="35151718" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 夏が終わっていない&lt;/li&gt;
+ &lt;li&gt;02:47 バイトがしたい941さん&lt;/li&gt;
+  &lt;li&gt;08:50 今日のレストランの灯りに&lt;/li&gt;
+  &lt;li&gt;15:41 どういうバイトが自分にとって刺激になるのだろうか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/narumi/n/n512eab4b0888&quot;&gt;夏の終わりを感じる瞬間について｜narumi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.com/nonbeepanda3/n/n51b12bd65813&quot;&gt;医療記者、イタリアンレストランでバイトを始める｜岩永直子&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/o/ASIN/B0CHJ6ZPY6/&quot;&gt;今日もレストランの灯りに | Kindleストア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/o/ASIN/4253265219/&quot;&gt;海が走るエンドロール  | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bagus-99.com/&quot;&gt;BAGUS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#143 みんな！明日はカツカレーだよ！〜40代男性が好きな食べ物〜]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 夏バテ気味で病院通ってるyouheiさん</li>
+ <li>01:44 40代の好きな食べ物について</li>
+  <li>17:15 食の好みは10代の頃の周囲の環境にあり？</li>
+  <li>21:04 銀座で元祖カツカレーを食べたいyouheiさん、YouTubeで観たビステッカを食べたい941さん</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://brand.taisho.co.jp/contents/tsukare/71/">夏バテの予防と対策</a></li>
+  <li><a href="https://news.1242.com/article/132520">カツカレーの発祥はプロ野球・千葉茂選手！河金丼やスポーツライスって？ – ニッポン放送 NEWS ONLINE</a></li>
+  <li><a href="https://koizumipress.com/">発酵食品情報サイト｜丸ごと小泉武夫食マガジン</a></li>
+  <li><a href="https://www.hotto.tech/p/026-1275689">#026 最強のサブスクはヤクルト！&amp;スタバのモバイルオーダーが最高 - ほっとテックからのお知らせ</a></li>
+  <li><a href="https://kaden.watch.impress.co.jp/docs/column_review/kaden/1455952.html">煙が少ないと噂のグリル「やきまる」は焼肉好きの家族も大満足!【家電レビュー】- 家電 Watch</a></li>
+  <li><a href="https://www.yamadafoods.co.jp/library/hikiwari/">ひきわり納豆って、どんな納豆？ - 株式会社ヤマダフーズ｜おはよう納豆</a></li>
+  <li><a href="https://ginza-swiss.com/">銀座スイス – 銀座の洋食屋｜創業 昭和22年 元祖カツカレー発祥の店</a></li>
+  <li><a href="https://www.youtube.com/watch?v=18WfjoXfUsc&ab_channel=%E3%81%BC%E3%81%AA%E3%81%BATVBonapetv" target="_blank">【迷わず食えよ🥩】イタリア　トスカーナ最強　幻のキアニーナ牛　絶品2Kg Tボーンステーキを喰らう〜Toscana in Italy 2Kg Chianina T-born Steak〜 - YouTube</a></li>
+  <li><a href="https://www.benjaminsteakhouse.jp/kioi/" target="_blank">ベンジャミンステーキハウス 東京ガーデンテラス紀尾井町店</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/143-40-e290p3e</link>
+			<guid isPermaLink="false">4f479b84-29af-4458-8cd9-136796f489cc</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Wed, 06 Sep 2023 23:43:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75571758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-6%2F7f62777d-38eb-203a-19d1-77e5e058c68c.mp3" length="43219289" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 夏バテ気味で病院通ってるyouheiさん&lt;/li&gt;
+ &lt;li&gt;01:44 40代の好きな食べ物について&lt;/li&gt;
+  &lt;li&gt;17:15 食の好みは10代の頃の周囲の環境にあり？&lt;/li&gt;
+  &lt;li&gt;21:04 銀座で元祖カツカレーを食べたいyouheiさん、YouTubeで観たビステッカを食べたい941さん&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brand.taisho.co.jp/contents/tsukare/71/&quot;&gt;夏バテの予防と対策&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.1242.com/article/132520&quot;&gt;カツカレーの発祥はプロ野球・千葉茂選手！河金丼やスポーツライスって？ – ニッポン放送 NEWS ONLINE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://koizumipress.com/&quot;&gt;発酵食品情報サイト｜丸ごと小泉武夫食マガジン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hotto.tech/p/026-1275689&quot;&gt;#026 最強のサブスクはヤクルト！&amp;amp;スタバのモバイルオーダーが最高 - ほっとテックからのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kaden.watch.impress.co.jp/docs/column_review/kaden/1455952.html&quot;&gt;煙が少ないと噂のグリル「やきまる」は焼肉好きの家族も大満足!【家電レビュー】- 家電 Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yamadafoods.co.jp/library/hikiwari/&quot;&gt;ひきわり納豆って、どんな納豆？ - 株式会社ヤマダフーズ｜おはよう納豆&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ginza-swiss.com/&quot;&gt;銀座スイス – 銀座の洋食屋｜創業 昭和22年 元祖カツカレー発祥の店&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=18WfjoXfUsc&amp;ab_channel=%E3%81%BC%E3%81%AA%E3%81%BATVBonapetv&quot; target=&quot;_blank&quot;&gt;【迷わず食えよ🥩】イタリア　トスカーナ最強　幻のキアニーナ牛　絶品2Kg Tボーンステーキを喰らう〜Toscana in Italy 2Kg Chianina T-born Steak〜 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.benjaminsteakhouse.jp/kioi/&quot; target=&quot;_blank&quot;&gt;ベンジャミンステーキハウス 東京ガーデンテラス紀尾井町店&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#142 ポッドキャスト・ザ・ギャザリングのほっとテック的な振り返り。そして私達は伝説になった…]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 ポッドキャスト・ザ・ギャザリングをふりかえる</li>
+ <li>07:28 miyamotoさんと941さんのキャッチボールタイム</li>
+ <li>10:49 ポッドキャスターとリスナーのためのイベント</li>
+ <li>17:50 運営ふりかえりも今後予定しています</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://saturdayregfile.hp.peraichi.com/">ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは</a></li>
+  <li><a href="https://twitter.com/zatsudan_co_jp/status/1698579762191774057">＼Thank you for coming🎉／ #ポッドキャストギャザリング｜#雑談1周年 </a><a href="https://t.co/w8fc59hqLC">https://t.co/w8fc59hqLC</a></li>
+  <li><a href="https://listen.style/">LISTEN</a></li>
+  <li><a href="https://twitter.com/hottotech/status/1698637471045837137">🍵🦾ほっとテック公式さん: 「#ポッドキャストギャザリング プレイバック！その1 ①出演者だけが入れる楽屋でドタバタ準備 ②付箋がとてもいい仕事をした ③宮本さんと941さんのカオスなキャッチボール </a><a href="https://t.co/XW3TC7s8cD">https://t.co/XW3TC7s8cD</a></li>
+  <li><a href="https://twitter.com/hottotech/status/1698637474833285508">🍵🦾ほっとテック公式さん: 「#ポッドキャストギャザリング プレイバック！その2 ①ジャスティン！ ②いい仕上がりだったシャッフル収録 youhei &amp; usuda ③登壇者で！次回はアヨハタさんも！ </a><a href="https://t.co/4z2lsftEyP">https://t.co/4z2lsftEyP</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/142-e28tuik</link>
+			<guid isPermaLink="false">775aa062-d032-4602-a6d8-b15c8174ceba</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Tue, 05 Sep 2023 00:25:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75479060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-5%2F7b6cd0a4-47d8-8666-f558-b33354c59075.mp3" length="30867367" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 ポッドキャスト・ザ・ギャザリングをふりかえる&lt;/li&gt;
+ &lt;li&gt;07:28 miyamotoさんと941さんのキャッチボールタイム&lt;/li&gt;
+ &lt;li&gt;10:49 ポッドキャスターとリスナーのためのイベント&lt;/li&gt;
+ &lt;li&gt;17:50 運営ふりかえりも今後予定しています&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saturdayregfile.hp.peraichi.com/&quot;&gt;ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/zatsudan_co_jp/status/1698579762191774057&quot;&gt;＼Thank you for coming🎉／ #ポッドキャストギャザリング｜#雑談1周年 &lt;/a&gt;&lt;a href=&quot;https://t.co/w8fc59hqLC&quot;&gt;https://t.co/w8fc59hqLC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://listen.style/&quot;&gt;LISTEN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hottotech/status/1698637471045837137&quot;&gt;🍵🦾ほっとテック公式さん: 「#ポッドキャストギャザリング プレイバック！その1 ①出演者だけが入れる楽屋でドタバタ準備 ②付箋がとてもいい仕事をした ③宮本さんと941さんのカオスなキャッチボール &lt;/a&gt;&lt;a href=&quot;https://t.co/XW3TC7s8cD&quot;&gt;https://t.co/XW3TC7s8cD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hottotech/status/1698637474833285508&quot;&gt;🍵🦾ほっとテック公式さん: 「#ポッドキャストギャザリング プレイバック！その2 ①ジャスティン！ ②いい仕上がりだったシャッフル収録 youhei &amp;amp; usuda ③登壇者で！次回はアヨハタさんも！ &lt;/a&gt;&lt;a href=&quot;https://t.co/4z2lsftEyP&quot;&gt;https://t.co/4z2lsftEyP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:20:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#141 ブルーライトカットのめがね、意味ないってよ(知ってた)]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 あと二日でポッドキャスト・ザ・ギャザリング</li>
+ <li>03:08 ブルーライトカットめがねに結論</li>
+  <li>09:33 老眼を恥ずかしがらずにフォントは大きくしよう</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://saturdayregfile.hp.peraichi.com/">ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは</a></li>
+  <li><a href="https://twitter.com/jkondo?lang=ja">近藤淳也（@jkondo）さん / X</a></li>
+  <li><a href="https://twitter.com/narumi">Atsuyoshi Narumi（@narumi）さん / X</a></li>
+  <li><a href="https://forms.gle/2Y73ysmfCtKkUHaF8">ポッドキャスター向けアンケート</a></li>
+  <li><a href="https://forms.gle/gejTxm3H1GPZ21By9">リスナー向けアンケート</a></li>
+  <li><a href="https://www.cnn.co.jp/fringe/35207965.html">ブルーライトカットのめがね、目の負担軽減の助けにならず　国際研究で結論 - CNN.co.jp</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/141-e28o3is</link>
+			<guid isPermaLink="false">83bffc46-d162-4703-8c54-fbdf05bfa0a5</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Thu, 31 Aug 2023 01:15:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75287580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F2b2a8982-2e18-a9d1-4d89-07c02ae6bc7d.mp3" length="17097967" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 あと二日でポッドキャスト・ザ・ギャザリング&lt;/li&gt;
+ &lt;li&gt;03:08 ブルーライトカットめがねに結論&lt;/li&gt;
+  &lt;li&gt;09:33 老眼を恥ずかしがらずにフォントは大きくしよう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saturdayregfile.hp.peraichi.com/&quot;&gt;ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jkondo?lang=ja&quot;&gt;近藤淳也（@jkondo）さん / X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/narumi&quot;&gt;Atsuyoshi Narumi（@narumi）さん / X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forms.gle/2Y73ysmfCtKkUHaF8&quot;&gt;ポッドキャスター向けアンケート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forms.gle/gejTxm3H1GPZ21By9&quot;&gt;リスナー向けアンケート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cnn.co.jp/fringe/35207965.html&quot;&gt;ブルーライトカットのめがね、目の負担軽減の助けにならず　国際研究で結論 - CNN.co.jp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:11:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#140 Twitterから名称変更、短縮リンク機能せず、収益化など、Xについてあれこれ]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 アンケートを集めつつ幅広く楽しめるイベントを目指します！</li>
+ <li>03:41 何回目かわからないX（旧Twitter）の話をします</li>
+  <li>07:34 これから何が起きるかを予想してみる</li>
+  <li>13:52 収益分配がもたらす影響</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.orefolder.net/2023/08/x-t-co/">X（旧Twitter）の短縮リンク（t.co）の古いものがリダイレクトされず、元のURLも表示されなくなってる – OREFOLDER</a></li>
+  <li>t.coの件は8月下旬に確認したら短縮URLをやめて元URLそのままを表示・リンクする挙動になったようです</li>
+  <li><a href="https://www.itmedia.co.jp/news/articles/2308/08/news165.html">X（Twitter）の収益化プログラム、有名人はいくら稼げた？　グラドルや声優が公開（1/2 ページ） - ITmedia NEWS</a></li>
+  <li>オークションが高額になりすぎて結局売らなかったそうです <a href="https://column.sp.baseball.findfriends.jp/?pid=column_detail&id=097-20180207-12">新庄剛志が愛車フェラーリを入札に【2001年2月7日】 | 野球コラム - 週刊ベースボールONLINE</a></li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/140-TwitterX-e28jq9r</link>
+			<guid isPermaLink="false">3445e9df-be9f-472a-bd27-74c207051834</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Mon, 28 Aug 2023 01:59:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75147003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-28%2Fc70c3d09-ce0c-309a-81a9-29b3e1d8a595.mp3" length="33954919" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 アンケートを集めつつ幅広く楽しめるイベントを目指します！&lt;/li&gt;
+ &lt;li&gt;03:41 何回目かわからないX（旧Twitter）の話をします&lt;/li&gt;
+  &lt;li&gt;07:34 これから何が起きるかを予想してみる&lt;/li&gt;
+  &lt;li&gt;13:52 収益分配がもたらす影響&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.orefolder.net/2023/08/x-t-co/&quot;&gt;X（旧Twitter）の短縮リンク（t.co）の古いものがリダイレクトされず、元のURLも表示されなくなってる – OREFOLDER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;t.coの件は8月下旬に確認したら短縮URLをやめて元URLそのままを表示・リンクする挙動になったようです&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/2308/08/news165.html&quot;&gt;X（Twitter）の収益化プログラム、有名人はいくら稼げた？　グラドルや声優が公開（1/2 ページ） - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;オークションが高額になりすぎて結局売らなかったそうです &lt;a href=&quot;https://column.sp.baseball.findfriends.jp/?pid=column_detail&amp;id=097-20180207-12&quot;&gt;新庄剛志が愛車フェラーリを入札に【2001年2月7日】 | 野球コラム - 週刊ベースボールONLINE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#139 PodcastコミュニティにおいてのDiscord超活用方法]]></title>
+			<description><![CDATA[<p><strong>Chapters:</strong></p>
+<ul>
+ <li>00:00 柳川からフィールドレコーディング風収録</li>
+ <li>01:45 ポッドキャスト・ザ・ギャザリング会場下見</li>
+  <li>05:13 イベント用Discordサーバーを用意した話</li>
+  <li>08:57 コミュニティのためのDiscord運用Tips</li>
+  <li>16:00 近々文章に起こそうと思います</li>
+</ul>
+<p><br></p>
+<p><strong>Episode Memo:</strong></p>
+<ul>
+  <li><a href="https://www.city.yanagawa.fukuoka.jp/">柳川市</a></li>
+  <li><a href="http://www.hakushu.or.jp/hakushu_hall/">白秋生家/白秋資料館｜北原白秋記念館</a></li>
+  <li><a href="https://saturdayregfile.hp.peraichi.com/">ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは</a></li>
+  <li><a href="https://www.kaidan.fun/">ポッドキャスト「かいだん」</a></li>
+  <li><a href="https://discord.gg/P35YPSHBY6">ポッドキャスト・ザ・ギャザリングのDiscord</a></li>
+  <li><a href="https://mee6.xyz/en">The Best Discord Bot for Your Server | MEE6</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hottotech/episodes/139-PodcastDiscord-e28hr36</link>
+			<guid isPermaLink="false">8ac74142-02f2-41e1-b221-7a08cc7adb67</guid>
+			<dc:creator><![CDATA[ほっとテック]]></dc:creator>
+			<pubDate>Sat, 26 Aug 2023 04:28:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/86693634/podcast/play/75082278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-26%2Fe47baef0-2e81-bb82-cc49-d0514769d2a9.mp3" length="29382094" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;00:00 柳川からフィールドレコーディング風収録&lt;/li&gt;
+ &lt;li&gt;01:45 ポッドキャスト・ザ・ギャザリング会場下見&lt;/li&gt;
+  &lt;li&gt;05:13 イベント用Discordサーバーを用意した話&lt;/li&gt;
+  &lt;li&gt;08:57 コミュニティのためのDiscord運用Tips&lt;/li&gt;
+  &lt;li&gt;16:00 近々文章に起こそうと思います&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Memo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.city.yanagawa.fukuoka.jp/&quot;&gt;柳川市&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hakushu.or.jp/hakushu_hall/&quot;&gt;白秋生家/白秋資料館｜北原白秋記念館&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saturdayregfile.hp.peraichi.com/&quot;&gt;ポッドキャスト・ザ・ギャザリング 秋の祭典スペシャルとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaidan.fun/&quot;&gt;ポッドキャスト「かいだん」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.gg/P35YPSHBY6&quot;&gt;ポッドキャスト・ザ・ギャザリングのDiscord&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mee6.xyz/en&quot;&gt;The Best Discord Bot for Your Server | MEE6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:19:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22450421/22450421-1681710718522-37542dfeface.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#138 ほっとテック 8月増刊号]]></title>
 			<description><![CDATA[<p><strong>Chapters:</strong></p>

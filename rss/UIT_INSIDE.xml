@@ -4,13 +4,13 @@
     <atom:link href="https://uit-inside.linecorp.com/feed.atom" rel="self" type="application/rss+xml" />
     <link>https://uit-inside.linecorp.com</link>
     <title>UIT INSIDE</title>
-    <description>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </description>
+    <description>LINEヤフー UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast</description>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
     <language>ja</language>
-    <image><url>https://uit-inside.linecorp.com/resources/images/brand.png</url><title>UIT INSIDE - LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast  の イメージ画像</title><link>https://uit-inside.linecorp.com</link></image>
-    <itunes:subtitle>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </itunes:subtitle>
+    <image><url>https://uit-inside.linecorp.com/resources/images/brand.png</url><title>UIT INSIDE - LINEヤフー UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast の イメージ画像</title><link>https://uit-inside.linecorp.com</link></image>
+    <itunes:subtitle>LINEヤフー UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast</itunes:subtitle>
     <itunes:author>UIT</itunes:author>
-    <itunes:summary>LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast </itunes:summary>
+    <itunes:summary>LINEヤフー UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast</itunes:summary>
     <itunes:owner>
       <itunes:name>UIT</itunes:name>
       <itunes:email>dl_uit_inside@linecorp.com</itunes:email>
@@ -19,6 +19,21 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
+  <item>
+    <title>ep.149『より信頼できる社内基盤へ Verdaccio 製 Private NPM をスケールアウトさせるためのプラグイン開発』</title>
+    <link>https://uit-inside.linecorp.com/episode/149</link>
+    <pubDate>Fri, 06 Oct 2023 08:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;@potato4d が @rChaser53 に、社内 Private NPM をスケールアウトさせるための開発について話を聞いてみました&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/149</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/episode149.mp3" type="audio/mp3"/>
+    <itunes:author>HANATANI Takuma(@potato4d)(potato4d),rChaser53(rChaser53)</itunes:author>
+    <itunes:subtitle>ep.149『より信頼できる社内基盤へ Verdaccio 製 Private NPM をスケールアウトさせるためのプラグイン開発』</itunes:subtitle>
+    <itunes:duration>20:9</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode149.png"/>
+  </item>
   <item>
     <title>ep.148『UIT新卒エンジニアが話すWeb開発の原体験』</title>
     <link>https://uit-inside.linecorp.com/episode/148</link>
@@ -1503,21 +1518,6 @@
     <itunes:duration>33:0</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode050.png"/>
-  </item>
-  <item>
-    <title>ep.49 ReThink state managements - Recoil から見える未来</title>
-    <link>https://uit-inside.linecorp.com/episode/49</link>
-    <pubDate>Fri, 12 Jun 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;ゲスト紹介&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/49</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-049.mp3" type="audio/mp3"/>
-    <itunes:author>spring-raining(spring_raining),uhyo(uhyo_),Hanakla(Hanakla)</itunes:author>
-    <itunes:subtitle>ep.49 ReThink state managements - Recoil から見える未来</itunes:subtitle>
-    <itunes:duration>43:55</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode049.png"/>
   </item>
   </channel>
 </rss>

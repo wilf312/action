@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379" rel="next" type="application/rss+xml"/>
         <title>nextstep.fm</title>
         <link>https://soundcloud.com/nextstepfm</link>
-        <pubDate>Mon, 15 May 2023 16:09:05 +0000</pubDate>
-        <lastBuildDate>Mon, 15 May 2023 16:09:05 +0000</lastBuildDate>
+        <pubDate>Sat, 23 Sep 2023 09:07:01 +0000</pubDate>
+        <lastBuildDate>Sat, 23 Sep 2023 09:07:01 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -28,6 +28,74 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1623433029</guid>
+      <title>#69 macOSのUI哲学はSonomaまでお願いします・・・・．</title>
+      <pubDate>Sat, 23 Sep 2023 09:07:01 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/macosuisonoma</link>
+      <itunes:duration>01:50:50</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp
+
+macOSとSwiftUI，ヘッドホン，Sonomaのバグ，バージョンアップでソースコードの互換性は保たれるべきか・・・について話しました．
+
+1. アシダ音響のイヤホン　https://togetter.com/li/1839213
+2. 16,000円　https://tower.jp/article/feature_item/2011/02/08/75109
+3. CotEditorのローカライズ　https://github.com/coteditor/CotEditor/issues/1519
+4. Swift 5.9　https://www.swift.org/blog/swift-5.9-released/
+5. @1024jp によるスライド道場　https://www.youtube.com/watch?v=LHM-4GyV1EY</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp
+
+macOSとSw…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp
+
+macOSとSwiftUI，ヘッドホン，Sonomaのバグ，バージョンアップでソースコードの互換性は保たれるべきか・・・について話しました．
+
+1. アシダ音響のイヤホン　https://togetter.com/li/1839213
+2. 16,000円　https://tower.jp/article/feature_item/2011/02/08/75109
+3. CotEditorのローカライズ　https://github.com/coteditor/CotEditor/issues/1519
+4. Swift 5.9　https://www.swift.org/blog/swift-5.9-released/
+5. @1024jp によるスライド道場　https://www.youtube.com/watch?v=LHM-4GyV1EY</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1623433029-nextstepfm-macosuisonoma.mp3" length="106412407"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1601941131</guid>
+      <title>#68 SwiftUIとmacOSの壁</title>
+      <pubDate>Sun, 27 Aug 2023 03:20:14 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/68-swiftuimacos</link>
+      <itunes:duration>01:44:15</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+お久しぶりです．sonsonがコロナになったりして，お休みしていました・・・・．Keynoteを使ったプレゼンテーションのデザインについて話しました．
+新しいMacBook Air，SwiftUIの現状，Music.appへの怒りについてダベりました．
+
+1. MacBook Air - https://www.apple.com/jp/macbook-air/
+2. SwiftUI - https://developer.apple.com/documentation/swiftui/securefield
+3. iTunesは死んだ・・・ - https://www.apple.com/jp/itunes/music/index.html
+4. Keynoteのマジックムーブ - https://help.apple.com/keynote/mac/5.3/help/Japanese.lproj/pgs/kyntc691ddc2.html
+5. @1024jp さんによるスライド道場 - https://www.youtube.com/watch?v=LHM-4GyV1EY&amp;t=3s
+6. @1024jp さんのスライド - https://speakerdeck.com/1024jp/optimize-syntax-highlight-with-textkit?slide=12
+7. @usagimaruma さんのスライド - https://speakerdeck.com/usagimaru</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, 1024jp, d_date
+
+お久しぶりです．sonsonがコロナになったりして，お休みしていました・・・・．Keynoteを使ったプレゼンテーションのデザインについて話しました．
+新しいMacBook Air，SwiftUIの現状，Music.appへの怒りについてダベりました．
+
+1. MacBook Air - https://www.apple.com/jp/macbook-air/
+2. SwiftUI - https://developer.apple.com/documentation/swiftui/securefield
+3. iTunesは死んだ・・・ - https://www.apple.com/jp/itunes/music/index.html
+4. Keynoteのマジックムーブ - https://help.apple.com/keynote/mac/5.3/help/Japanese.lproj/pgs/kyntc691ddc2.html
+5. @1024jp さんによるスライド道場 - https://www.youtube.com/watch?v=LHM-4GyV1EY&amp;t=3s
+6. @1024jp さんのスライド - https://speakerdeck.com/1024jp/optimize-syntax-highlight-with-textkit?slide=12
+7. @usagimaruma さんのスライド - https://speakerdeck.com/usagimaru</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1601941131-nextstepfm-68-swiftuimacos.mp3" length="100087430"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1514708449</guid>
       <title>#67 ChatGPTは宣うた〜「サイは投げられた」</title>
       <pubDate>Mon, 15 May 2023 16:09:05 +0000</pubDate>

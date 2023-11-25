@@ -8,6 +8,24 @@ export type UrlListItemAndHashEncoded = UrlListItem & { hashEncoded: string };
 
 export const urlList: UrlListItem[] = [
   {
+    name: "おいラジオ",
+    hash: "おいラジオ",
+    url: "https://anchor.fm/s/e5bb03ec/podcast/rss",
+  },
+
+  {
+    name: "子育てのラジオ「Teacher Teacher」",
+    hash: "ティーチャーティーチャー",
+    url: "https://anchor.fm/s/df26bd50/podcast/rss",
+  },
+
+  {
+    name: "りっちゃ・りょかちのやいやいラジオ",
+    hash: "やいやいラジオ",
+    url: "https://anchor.fm/s/599cf528/podcast/rss",
+  },
+
+  {
     name: "あらBfm",
     hash: "arkbfm",
     url: "https://anchor.fm/s/319a2820/podcast/rss",
