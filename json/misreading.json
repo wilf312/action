@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 09 Nov 2023 05:28:47 +0000",
+  "lastBuildDate": "Tue, 05 Dec 2023 05:48:10 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,40 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "123: SYCL 2020 Specification",
+      "link": "https://misreading.chat/2023/12/04/123-sycl-2020-specification/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 05 Dec 2023 05:48:10 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1036"
+      },
+      "description": "GPGPU ワナビーの森田が C++ ベースの GPGPU 標準を眺めました。",
+      "content:encoded": "<p>GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2023/12/ep123.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.khronos.org/sycl/\">SYCL Overview – The Khronos Group Inc</a></li>\n\n\n\n<li><a href=\"https://sycl.tech/\">SYCL.tech – Find out the latest SYCL news, videos, learning materials and projects.</a></li>\n\n\n\n<li><a href=\"https://github.com/Tohoku-University-Takizawa-Lab/neoSYCL\">GitHub – Tohoku-University-Takizawa-Lab/neoSYCL: A SYCL Implementation for CPU and SX-Aurora TSUBASA</a></li>\n\n\n\n<li><a href=\"https://intel.github.io/llvm-docs/\">DPC++ Documentation — oneAPI DPC++ Compiler documentation</a></li>\n\n\n\n<li><a href=\"https://github.com/AdaptiveCpp/AdaptiveCpp\">GitHub – AdaptiveCpp/AdaptiveCpp: Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community-driven compiler for C++-based heterogeneous programming models. Lets applications adapt themselves to all the hardware in the system – even at runtime!</a></li>\n\n\n\n<li><a href=\"https://github.com/triSYCL/triSYCL\">GitHub – triSYCL/triSYCL: Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group</a></li>\n\n\n\n<li><a href=\"https://codeplay.com/\">Codeplay Software Ltd</a></li>\n\n\n\n<li><a href=\"https://www.phoronix.com/news/Intel-Full-SYCL-Upstream-LLVM\">Intel Proposes Adding Full SYCL Programming Model Support To Upstream LLVM – Phoronix</a></li>\n\n\n\n<li><a href=\"https://developer.android.com/guide/topics/renderscript/migrate/migrate-gles\">Migrate scripts to OpenGL ES 3.1  |  Android Developers</a></li>\n\n\n\n<li><a href=\"https://developer.android.com/guide/topics/renderscript/migrate/migrate-vulkan\">Migrate scripts to Vulkan  |  Android Developers</a></li>\n\n\n\n<li><a href=\"https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/delegates/gpu/README.md\">tensorflow/tensorflow/lite/delegates/gpu/README.md at master · tensorflow/tensorflow · GitHub</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2023/12/ep123.mp3",
+        "@length": 132144490,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "GPGPU ワナビーの森田が C++ ベースの GPGPU 標準を眺めました。",
+      "googleplay:description": "GPGPU ワナビーの森田が C++ ベースの GPGPU 標準を眺めました。",
+      "itunes:subtitle": "GPGPU ワナビーの森田が C++ ベースの GPGPU 標準を眺めました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#122: Lifting the veil on Meta’s microservice architecture",
       "link": "https://misreading.chat/2023/11/08/122-lifting-the-veil-on-metas-microservice-architecture/",
