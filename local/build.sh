@@ -8,8 +8,11 @@ sh local/downloadxml.sh
 deno run --allow-write --allow-read src/translate.ts
 
 git add .
-git commit -m "update config"
+git commit -m "build"
 git push
 
 # configをvoicecampリポジトリにコピーしてプッシュする
 sh local/updateconfig.sh
+
+# キャッシュの削除
+curl -I "https://voicecamp.love/api/kv?delete=1"
