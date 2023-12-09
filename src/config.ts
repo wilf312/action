@@ -8,6 +8,12 @@ export type UrlListItemAndHashEncoded = UrlListItem & { hashEncoded: string };
 
 export const urlList: UrlListItem[] = [
   {
+    name: "東京ポッド許可局",
+    hash: "東京ポッド許可局",
+    url: "https://feeds.megaphone.fm/TBS5133789627",
+  },
+
+  {
     name: "XCrossing",
     hash: "xcrossing",
     url: "https://feeds.zencastr.com/f/wQGcVPNH.rss",
