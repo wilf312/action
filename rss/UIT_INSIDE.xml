@@ -20,6 +20,21 @@
     <itunes:explicit>no</itunes:explicit>
     
   <item>
+    <title>ep.150『会社合併でどう変わる？ ハイブリッド時代の社内勉強会』</title>
+    <link>https://uit-inside.linecorp.com/episode/150</link>
+    <pubDate>Tue, 05 Dec 2023 08:00:00 GMT</pubDate>
+    <description>
+      &lt;p&gt;LINEヤフー誕生後に開催したフロントエンドエンジニアのための社内勉強会について、@spring-raining がイベントのコーディネーターであるDevRelの @kazunari.nakata と勉強会を開くことについて話をしました。&lt;/p&gt;
+    </description>
+    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/150</guid>
+    <enclosure url="https://vos.line-scdn.net/podcast/episodes/UIT_INSIDE_20231105_mix.mp3" type="audio/mp3"/>
+    <itunes:author>spring-raining(spring_raining),Kazunari Nakata(kazunari.nakata)</itunes:author>
+    <itunes:subtitle>ep.150『会社合併でどう変わる？ ハイブリッド時代の社内勉強会』</itunes:subtitle>
+    <itunes:duration>28:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode150.png"/>
+  </item>
+  <item>
     <title>ep.149『より信頼できる社内基盤へ Verdaccio 製 Private NPM をスケールアウトさせるためのプラグイン開発』</title>
     <link>https://uit-inside.linecorp.com/episode/149</link>
     <pubDate>Fri, 06 Oct 2023 08:00:00 GMT</pubDate>
@@ -1503,21 +1518,6 @@
     <itunes:duration>25:33</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode051.png"/>
-  </item>
-  <item>
-    <title>ep.50 AngularJSからVue.js - 大型リニューアルの学び</title>
-    <link>https://uit-inside.linecorp.com/episode/50</link>
-    <pubDate>Fri, 19 Jun 2020 09:00:00 GMT</pubDate>
-    <description>
-      &lt;p&gt;ゲスト紹介&lt;/p&gt;
-    </description>
-    <guid isPermaLink="true">https://uit-inside.linecorp.com/episode/50</guid>
-    <enclosure url="https://vos.line-scdn.net/podcast/episodes/uit-inside-050.mp3" type="audio/mp3"/>
-    <itunes:author>Davalos Alan(AlanGDavalos),spring-raining(spring_raining),kimulaco(kimulaco)</itunes:author>
-    <itunes:subtitle>ep.50 AngularJSからVue.js - 大型リニューアルの学び</itunes:subtitle>
-    <itunes:duration>33:0</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <media:thumbnail url="https://vos.line-scdn.net/podcast/opengraphs/episode050.png"/>
   </item>
   </channel>
 </rss>

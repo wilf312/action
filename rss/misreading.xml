@@ -16,7 +16,7 @@ xmlns:media="http://search.yahoo.com/mrss/"
 	<atom:link href="https://misreading.chat/category/episodes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://misreading.chat</link>
 	<description>会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。</description>
-	<lastBuildDate>Thu, 09 Nov 2023 05:28:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Dec 2023 15:40:35 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,6 +40,102 @@ xmlns:media="http://search.yahoo.com/mrss/"
 <googleplay:image href='https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?fit=3000%2C3000' />
 <itunes:category text='Technology' />
 	<item>
+		<title>#123: SYCL 2020 Specification</title>
+		<link>https://misreading.chat/2023/12/05/123-sycl-2020-specification-2/</link>
+		
+		<dc:creator><![CDATA[Hajime Morrita]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2023 15:38:09 +0000</pubDate>
+				<category><![CDATA[episodes]]></category>
+		<guid isPermaLink="false">http://misreading.chat/?p=1048</guid>
+
+					<description><![CDATA[(壊れた音声ファイルを配信してしまったので、修正したファイルで同じエピソードを再配信しています。ごめんね。）GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。]]></description>
+										<content:encoded><![CDATA[
+<p>(壊れた音声ファイルを配信してしまったので、修正したファイルで同じエピソードを再配信しています。ごめんね。教えてくれた皆さんありがとうございました。）</p>
+
+
+
+<p>GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。ご意見感想などは&nbsp;<a href="https://www.reddit.com/r/MisreadingChat/">Reddit</a>&nbsp;や<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform">おたより投書箱</a>にお寄せください。<a href="https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509">iTunes&nbsp;のレビューや星</a>もよろしくね。</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://misreadingchat.files.wordpress.com/2023/12/ep123a.mp3"></audio></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<ul>
+<li><a href="https://www.khronos.org/sycl/">SYCL Overview &#8211; The Khronos Group Inc</a></li>
+
+
+
+<li><a href="https://sycl.tech/">SYCL.tech &#8211; Find out the latest SYCL news, videos, learning materials and projects.</a></li>
+
+
+
+<li><a href="https://github.com/Tohoku-University-Takizawa-Lab/neoSYCL">GitHub &#8211; Tohoku-University-Takizawa-Lab/neoSYCL: A SYCL Implementation for CPU and SX-Aurora TSUBASA</a></li>
+
+
+
+<li><a href="https://intel.github.io/llvm-docs/">DPC++ Documentation — oneAPI DPC++ Compiler documentation</a></li>
+
+
+
+<li><a href="https://github.com/AdaptiveCpp/AdaptiveCpp">GitHub &#8211; AdaptiveCpp/AdaptiveCpp: Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community-driven compiler for C++-based heterogeneous programming models. Lets applications adapt themselves to all the hardware in the system &#8211; even at runtime!</a></li>
+
+
+
+<li><a href="https://github.com/triSYCL/triSYCL">GitHub &#8211; triSYCL/triSYCL: Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group</a></li>
+
+
+
+<li><a href="https://codeplay.com/">Codeplay Software Ltd</a></li>
+
+
+
+<li><a href="https://www.phoronix.com/news/Intel-Full-SYCL-Upstream-LLVM">Intel Proposes Adding Full SYCL Programming Model Support To Upstream LLVM &#8211; Phoronix</a></li>
+
+
+
+<li><a href="https://developer.android.com/guide/topics/renderscript/migrate/migrate-gles">Migrate scripts to OpenGL ES 3.1 &nbsp;|&nbsp; Android Developers</a></li>
+
+
+
+<li><a href="https://developer.android.com/guide/topics/renderscript/migrate/migrate-vulkan">Migrate scripts to Vulkan &nbsp;|&nbsp; Android Developers</a></li>
+
+
+
+<li><a href="https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/delegates/gpu/README.md">tensorflow/tensorflow/lite/delegates/gpu/README.md at master · tensorflow/tensorflow · GitHub</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true" frameborder="0" width="100%" height="800" marginheight="0" marginwidth="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://misreadingchat.files.wordpress.com/2023/12/ep123a.mp3" length="27238807" type="audio/mpeg" />
+<itunes:duration>2270</itunes:duration>
+
+		<itunes:author>Hajime Morrita</itunes:author>
+<googleplay:author>Hajime Morrita</googleplay:author>
+<itunes:explicit>no</itunes:explicit>
+<googleplay:explicit>no</googleplay:explicit>
+<itunes:summary>(壊れた音声ファイルを配信してしまったので、修正したファイルで同じエピソードを再配信しています。ごめんね。）GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。</itunes:summary>
+<googleplay:description>(壊れた音声ファイルを配信してしまったので、修正したファイルで同じエピソードを再配信しています。ごめんね。）GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。</googleplay:description>
+<itunes:subtitle>(壊れた音声ファイルを配信してしまったので、修正したファイルで同じエピソードを再配信しています。ごめんね。）GPGPU ワナビーの森田が C++ 拡張の GPGPU 標準を眺めました。</itunes:subtitle>
+
+		<media:content url="https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">morrita2016</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>#122: Lifting the veil on Meta’s microservice architecture</title>
 		<link>https://misreading.chat/2023/11/08/122-lifting-the-veil-on-metas-microservice-architecture/</link>
 		

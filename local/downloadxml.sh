@@ -1,3 +1,7 @@
+          # XCrossing
+          echo 'https://feeds.zencastr.com/f/wQGcVPNH.rss'
+          curl https://feeds.zencastr.com/f/wQGcVPNH.rss --compressed > rss/xcrossing.xml
+
           # おいラジオ
           echo 'https://anchor.fm/s/e5bb03ec/podcast/rss'
           curl https://anchor.fm/s/e5bb03ec/podcast/rss --compressed > rss/%E3%81%8A%E3%81%84%E3%83%A9%E3%82%B8%E3%82%AA.xml
