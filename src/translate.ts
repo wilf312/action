@@ -52,19 +52,21 @@ const output = async (item) => {
 };
 
 const main = async () => {
+  console.log(`\n\n\ntranslate start\n\n\n`);
   const urlList = getEncodedUrl();
 
   const writePromiseList = [];
   for (var i = urlList.length - 1; i >= 0; i--) {
     const item = urlList[i];
     writePromiseList.push(output(item));
+    console.log(`start... ${item.name}`);
   }
 
   await Promise.allSettled(writePromiseList);
 
   await writeNewPodcastJSON(newList);
 
-  console.log(`\n\n\終了\n\n`);
+  console.log(`\n\n translate終了\n\n`);
 };
 
 main();

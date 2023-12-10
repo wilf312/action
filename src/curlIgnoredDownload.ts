@@ -11,12 +11,14 @@ const main = async () => {
 
   const filtered = list.filter((item) => isSoundCloud(item.url));
 
-  for await (let item of filtered) {
+  for await (const item of filtered) {
+    console.log(`start... ${item.name}`);
     const res = await fetch(item.url).then((response) => {
       return response.text();
     });
 
     await writePodcastXML(item.hashEncoded, res);
+    console.log(`end. ${item.name}`);
   }
 };
 main();
