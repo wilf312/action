@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 7 Dec 2023 11:00:00 +0000",
-  "lastBuildDate": "Thu, 7 Dec 2023 11:00:12 +0000",
+  "pubDate": "Thu, 14 Dec 2023 11:00:00 +0000",
+  "lastBuildDate": "Thu, 14 Dec 2023 11:00:13 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9566e677-c586-4a9b-a5c1-b5da39986dab"
+      },
+      "title": "Episode 263: Stories Every Developer Can Relate To",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Chris Woodruff <a href=\"https://twitter.com/cwoodruff\">@cwoodruff</a></li></ul><p>Recording date: Nov 30, 2023</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://mvp.microsoft.com/mvp\">The Microsoft MVP program</a></li><li><a href=\"https://aspinsiders.com/\">ASP Insiders</a></li><li><a href=\"https://learn.microsoft.com/en-us/aspnet/entity-framework\">Learning the Entity Framework</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/download/dotnet/8.0\">.NET 8</a></li><li><a href=\"https://learn.microsoft.com/en-us/ef/core/performance/efficient-querying\">Efficient querying with Entity Framework</a></li><li><a href=\"https://www.youtube.com/watch?v=A7nV0xF5vYg\">Video showing how to use GitHub Copilot with Entity Framework</a></li><li><a href=\"https://sensecurity.io/blog/time-hacking-the-scotty-principle\">The Scotty Principle</a></li><li><a href=\"https://www.themuse.com/advice/scotty-principle-star-trek-to-do-list\">Using the Scotty principle to Crush your To-Do List</a></li><li><a href=\"https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451\">Fundamentals of Software Architecture: An Engineering Approach</a></li><li><a href=\"https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds\">Strange New Worlds: Star Trek</a></li><li><a href=\"https://github.com/cwoodruff\">Chris Woodruff on GitHub</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:26</a></strong> Welcome</li><li><strong><a>01:05</a></strong> Introducing Chris Woodruff</li><li><strong><a>02:34</a></strong> What is a Microsoft MVP?</li><li><strong><a>06:03</a></strong> Sponsor: Ag Grid</li><li><strong><a>07:09</a></strong> Learning how to be a data detective</li><li><strong><a>17:12</a></strong> Learning the Scotty Principle</li><li><strong><a>23:12</a></strong> Sponsor: Ideablade</li><li><strong><a>24:15</a></strong> Dealing with uncertainty in projects</li><li><strong><a>29:14</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 14 Dec 2023 11:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Chris Woodruff <a href=\"https://twitter.com/cwoodruff\">@cwoodruff</a></li></ul><p>Recording date: Nov 30, 2023</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://mvp.microsoft.com/mvp\">The Microsoft MVP program</a></li><li><a href=\"https://aspinsiders.com/\">ASP Insiders</a></li><li><a href=\"https://learn.microsoft.com/en-us/aspnet/entity-framework\">Learning the Entity Framework</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/download/dotnet/8.0\">.NET 8</a></li><li><a href=\"https://learn.microsoft.com/en-us/ef/core/performance/efficient-querying\">Efficient querying with Entity Framework</a></li><li><a href=\"https://www.youtube.com/watch?v=A7nV0xF5vYg\">Video showing how to use GitHub Copilot with Entity Framework</a></li><li><a href=\"https://sensecurity.io/blog/time-hacking-the-scotty-principle\">The Scotty Principle</a></li><li><a href=\"https://www.themuse.com/advice/scotty-principle-star-trek-to-do-list\">Using the Scotty principle to Crush your To-Do List</a></li><li><a href=\"https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451\">Fundamentals of Software Architecture: An Engineering Approach</a></li><li><a href=\"https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds\">Strange New Worlds: Star Trek</a></li><li><a href=\"https://github.com/cwoodruff\">Chris Woodruff on GitHub</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:26</a></strong> Welcome</li><li><strong><a>01:05</a></strong> Introducing Chris Woodruff</li><li><strong><a>02:34</a></strong> What is a Microsoft MVP?</li><li><strong><a>06:03</a></strong> Sponsor: Ag Grid</li><li><strong><a>07:09</a></strong> Learning how to be a data detective</li><li><strong><a>17:12</a></strong> Learning the Scotty Principle</li><li><strong><a>23:12</a></strong> Sponsor: Ideablade</li><li><strong><a>24:15</a></strong> Dealing with uncertainty in projects</li><li><strong><a>29:14</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 32100023,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/c7c9313e-1224-4349-b529-6a28c734ef46/audio/26836e31-f550-48ad-897d-f568f43cd0f0/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 263: Stories Every Developer Can Relate To",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:33:26",
+      "itunes:summary": "Chris Woodruff talks about some of his experiences that have helped him in software development like learning how to be a data detective, learning to estimate with the Scott Principle, and dealing with uncertainty in projects.",
+      "itunes:subtitle": "Chris Woodruff talks about some of his experiences that have helped him in software development like learning how to be a data detective, learning to estimate with the Scott Principle, and dealing with uncertainty in projects.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 263
+    },
     {
       "guid": {
         "@isPermaLink": false,
