@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #84",
+      "description": "<p>23.2 分散合意の動作 から 23.2.1 Paxosの概要: サンプルプロトコル まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-84-e2dl62a",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c0dcff0d-4f6c-4f3a-9b84-dfde73ef8e0d"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 25 Dec 2023 10:05:53 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/80434698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-25%2Fa60315b2-1cf0-68ab-53ac-e551e62bd1b1.m4a",
+        "@length": 44892416,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.2 分散合意の動作 から 23.2.1 Paxosの概要: サンプルプロトコル まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:46:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #83",
       "description": "<p>23.1 合意を利用する目的:分散システムの協調障害 から 23.1.3 ケーススタディ 3:問題のあるグループメンバーシップアルゴリズム まで<strong>\n</strong></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-83-e2b1871",
