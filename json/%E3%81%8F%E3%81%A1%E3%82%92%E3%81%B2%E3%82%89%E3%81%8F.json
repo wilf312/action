@@ -36,7 +36,7 @@
     "itunes:email": "yoshida@allnightnippon.com"
   },
   "itunes:author": "ニッポン放送",
-  "copyright": "2023 ニッポン放送",
+  "copyright": "2024 ニッポン放送",
   "itunes:explicit": "no",
   "itunes:category": [
     {
@@ -61,6 +61,47 @@
     "link": "http://podcast.1242.com/"
   },
   "item": [
+    {
+      "title": "年の初めのはじめまして2024。[中村繪里子・吉田尚記の本格雑談くちをひらく]",
+      "itunes:title": "年の初めのはじめまして2024。[中村繪里子・吉田尚記の本格雑談くちをひらく]",
+      "description": "<p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+      "content:encoded": "<p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+      "itunes:episodeType": "full",
+      "itunes:author": "ニッポン放送",
+      "itunes:image": {
+        "@href": "https://www.omnycontent.com/d/playlist/67122501-9b17-4d77-84bd-a93d00dc791e/bf2b4e95-c669-4e1c-abcf-a98c00a5f513/b923e360-dc05-438d-be85-a98c00a5f517/image.jpg?t=1541153057&size=Large",
+        "#text": null
+      },
+      "media:content": [
+        {
+          "@url": "https://chrt.fm/track/B2E658/traffic.omny.fm/d/clips/67122501-9b17-4d77-84bd-a93d00dc791e/bf2b4e95-c669-4e1c-abcf-a98c00a5f513/5929cc8f-a0d6-46d2-a165-b0e6010eb621/audio.mp3?utm_source=Podcast&in_playlist=b923e360-dc05-438d-be85-a98c00a5f517",
+          "@type": "audio/mpeg",
+          "media:player": {
+            "@url": "https://omny.fm/shows/kuchiwohiraku/2024/embed",
+            "#text": null
+          }
+        },
+        {
+          "@url": "https://www.omnycontent.com/d/playlist/67122501-9b17-4d77-84bd-a93d00dc791e/bf2b4e95-c669-4e1c-abcf-a98c00a5f513/b923e360-dc05-438d-be85-a98c00a5f517/image.jpg?t=1541153057&size=Large",
+          "@type": "image/jpeg",
+          "#text": null
+        }
+      ],
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5929cc8f-a0d6-46d2-a165-b0e6010eb621"
+      },
+      "omny:clipId": "5929cc8f-a0d6-46d2-a165-b0e6010eb621",
+      "pubDate": "Mon, 01 Jan 2024 08:00:00 +0000",
+      "itunes:duration": 188,
+      "enclosure": {
+        "@url": "https://chrt.fm/track/B2E658/traffic.omny.fm/d/clips/67122501-9b17-4d77-84bd-a93d00dc791e/bf2b4e95-c669-4e1c-abcf-a98c00a5f513/5929cc8f-a0d6-46d2-a165-b0e6010eb621/audio.mp3?utm_source=Podcast&in_playlist=b923e360-dc05-438d-be85-a98c00a5f517",
+        "@length": 3106989,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "link": "https://omny.fm/shows/kuchiwohiraku/2024"
+    },
     {
       "title": "東京ドームと臨済宗寺院でシンクロ？な年内最終回。[中村繪里子・吉田尚記の本格雑談くちをひらく]",
       "itunes:title": "東京ドームと臨済宗寺院でシンクロ？な年内最終回。[中村繪里子・吉田尚記の本格雑談くちをひらく]",
