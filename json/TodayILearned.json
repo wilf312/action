@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "91. LLMのアウトプット精度を上げるプロンプトテクニック",
+      "description": "<p>LLMのアウトプットやパフォーマンスを向上するためのプロンプトテクニックについて学んだことを話しました。</p>\n<ul>\n <li>Everything I’ll forget about prompting LLMs <a href=\"https://olickel.com/everything-i-know-about-prompting-llms\">https://olickel.com/everything-i-know-about-prompting-llms</a></li>\n <li>He created Stanford’s Deep Learning class. (Stack Overflow Podcast) <a href=\"https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i\">https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i</a></li>\n  <li><a href=\"https://tomoima525.hatenablog.com/entry/2024/01/15/022908\">プロンプトエンジニアリングってソフトウェア開発？と感じるあなたへ ~ LLM開発とソフトウェア開発の違いの話</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/91--LLM-e2el3ht",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "6ef62223-81a1-4abf-9e6e-2b02db1f2732"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 21 Jan 2024 00:15:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/81480701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F81480701%2Fe5473386e52cf9c15458760def01fe14.m4a",
+        "@length": 30163649,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>LLMのアウトプットやパフォーマンスを向上するためのプロンプトテクニックについて学んだことを話しました。</p>\n<ul>\n <li>Everything I’ll forget about prompting LLMs <a href=\"https://olickel.com/everything-i-know-about-prompting-llms\">https://olickel.com/everything-i-know-about-prompting-llms</a></li>\n <li>He created Stanford’s Deep Learning class. (Stack Overflow Podcast) <a href=\"https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i\">https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i</a></li>\n  <li><a href=\"https://tomoima525.hatenablog.com/entry/2024/01/15/022908\">プロンプトエンジニアリングってソフトウェア開発？と感じるあなたへ ~ LLM開発とソフトウェア開発の違いの話</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:05",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "90. “LeanとDevOpsの科学”を読み解く",
       "description": "<p>今回は「<a href=\"https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN\">LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する</a>」という本で紹介されている、DevOps開発と組織やビジネスのパフォーマンスとの関係に関する研究結果についてについて話しました。</p>\n<ul>\n <li><a href=\"https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN\">LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する</a></li>\n <li><a href=\"https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339\">Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations</a></li>\n <li>27 capabilities <a href=\"https://cloud.google.com/architecture/devops?hl=ja\">https://cloud.google.com/architecture/devops?hl=ja</a></li>\n <li><a href=\"https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/\">https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/90--LeanDevOps-e2eappa",
