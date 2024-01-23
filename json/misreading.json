@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Fri, 22 Dec 2023 17:40:21 +0000",
+  "lastBuildDate": "Tue, 23 Jan 2024 14:38:10 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,6 +53,41 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#125: Always-on Vision Processing Unit for Mobile Applications",
+      "link": "https://misreading.chat/2024/01/23/125-always-on-vision-processing-unit-for-mobile-applications/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 23 Jan 2024 14:38:10 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1068"
+      },
+      "description": "Intel の CPU にやってきたニューラルなんとかの出自を森田がたどりました。",
+      "content:encoded": "<p>Intel の CPU にやってきたニューラルなんとかの出自を森田がたどりました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2024/01/ep125.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://ieeexplore.ieee.org/document/7024073\">Always-on Vision Processing Unit for Mobile Applications | IEEE Journals & Magazine | IEEE Xplore</a> (<a href=\"https://scholar.google.com/scholar?cluster=5786952946401472013&hl=en&as_sdt=0,5\">Google Scholar</a>)<br></li>\n\n\n\n<li><a href=\"https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-client-computing-news-1.html#gs.3g4y66\">Intel Core Ultra Ushers in the Age of the AI PC</a></li>\n\n\n\n<li><a href=\"https://www.intel.com/content/www/us/en/products/details/processors/movidius-vpu.html\">Intel® Movidius<img src=\"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2122.png\" alt=\"™\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /> Vision Processing Units (VPUs)</a></li>\n\n\n\n<li><a href=\"https://www.amazon.com/Movidius-Compute-Perfect-Network-Applications/dp/B0BLBKG47B/\">Amazon.com: Intel NCS2 Movidius Neural Compute Stick 2, Perfect for Deep Neural Network Applications (DNN) : Electronics</a><br></li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/Movidius\">Movidius – Wikipedia</a></li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/Very_long_instruction_word\">Very long instruction word – Wikipedia</a></li>\n\n\n\n<li><a href=\"https://en.wikipedia.org/wiki/Single_instruction,_multiple_data\">Single instruction, multiple data – Wikipedia</a></li>\n\n\n\n<li><a href=\"https://www.theverge.com/circuitbreaker/2017/10/6/16434834/google-clips-camera-ai-movidius-myriad-vpu\">Google’s Clips camera is powered by a tailor-made AI chip – The Verge</a></li>\n\n\n\n<li><a href=\"https://www.theverge.com/2016/3/16/11242578/movidius-myriad-2-chip-computer-vision-dji-phantom-4\">The revolutionary chipmaker behind Google’s project Tango is now powering DJI’s autonomous drone – The Verge</a><br></li>\n\n\n\n<li><a href=\"https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/\">Qualcomm’s Hexagon DSP, and now, NPU – Chips and Cheese</a><br></li>\n\n\n\n<li><a href=\"https://www.amd.com/en/technologies/xdna.html\">AMD XDNA<img src=\"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2122.png\" alt=\"™\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /> Architecture</a></li>\n\n\n\n<li><a href=\"https://www.xilinx.com/products/technology/ai-engine.html\">AI Engine Technology</a><br></li>\n\n\n\n<li><a href=\"https://apple.fandom.com/wiki/Neural_Engine\">Neural Engine | Apple Wiki | Fandom</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2024/01/ep125.mp3",
+        "@length": 26654263,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 1666,
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": "no",
+      "googleplay:explicit": "no",
+      "itunes:summary": "Intel の CPU にやってきたニューラルなんとかの出自を森田がたどりました。",
+      "googleplay:description": "Intel の CPU にやってきたニューラルなんとかの出自を森田がたどりました。",
+      "itunes:subtitle": "Intel の CPU にやってきたニューラルなんとかの出自を森田がたどりました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#124: GAIA: a benchmark for General AI Assistants",
       "link": "https://misreading.chat/2023/12/22/124-gaia-a-benchmark-for-general-ai-assistants/",
