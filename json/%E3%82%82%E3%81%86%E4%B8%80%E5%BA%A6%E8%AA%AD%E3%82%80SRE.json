@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #86",
+      "description": "<p>23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで\n<strong>\n</strong></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-86-e2f5o7h",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "dd47ed25-6e24-4770-8f18-12bbef2c3702"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 31 Jan 2024 04:28:59 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/82026161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-31%2F750dfb74-3f29-d702-43a2-05d16dff6a85.m4a",
+        "@length": 21316909,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで\n<strong>\n</strong></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:21:58",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #85",
       "description": "<p>23.3 分散合意のためのシステムアーキテクチャパターン から 23.3.2 信頼性を持つ複製データストア及び設定ストアまで\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-85-e2eqori",
