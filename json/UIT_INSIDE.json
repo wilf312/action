@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.152『フロントエンド事情は一年でどう変わった？UIT Global Survey 2023』",
+      "link": "https://uit-inside.linecorp.com/episode/152",
+      "pubDate": "Mon, 05 Feb 2024 04:00:00 GMT",
+      "description": "<p>@potato4d と @itatchi3 が、 UIT で海外拠点を含めたグローバルに行われた技術サーベイの結果について語りました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/152"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode152.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),itatchi3(itatchi3)",
+      "itunes:subtitle": "ep.152『フロントエンド事情は一年でどう変わった？UIT Global Survey 2023』",
+      "itunes:duration": "34:20",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode152.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.151『フロントエンドの悩みを一挙に解消！frontend/helpによる相談室設立の経緯と効果』",
       "link": "https://uit-inside.linecorp.com/episode/151",
       "pubDate": "Fri, 15 Dec 2023 08:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode053.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.52 UIT meetup 『The new normal for frontend』After show",
-      "link": "https://uit-inside.linecorp.com/episode/52",
-      "pubDate": "Fri, 03 Jul 2020 09:00:00 GMT",
-      "description": "<p>@leonardo_engr が @mirka と Kim Changhee に UIT meetup vol.9 「The new normal for frontend」の内容を振り返りつつ、詳しく話を聞きました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/52"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-052.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "折原 レオナルド賢(Leonardo-mbc),kim.changhee(kim-changhee),Lena Morita(mirka)",
-      "itunes:subtitle": "ep.52 UIT meetup 『The new normal for frontend』After show",
-      "itunes:duration": "40:46",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode052.png",
         "#text": null
       }
     }
