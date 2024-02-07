@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #87",
+      "description": "<p>23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで<strong>\n</strong></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-87-e2ffess",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a8b11d00-c403-490f-9e35-1177564c9d06"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 07 Feb 2024 05:02:59 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/82344284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-7%2F90729add-4cd2-ade1-bbba-7300c7627aef.m4a",
+        "@length": 28829198,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで<strong>\n</strong></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:29:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #86",
       "description": "<p>23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで\n<strong>\n</strong></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-86-e2f5o7h",
