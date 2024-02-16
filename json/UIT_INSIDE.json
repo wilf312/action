@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.153『UIT × Bonfire Front-End Meetup Aftershow』",
+      "link": "https://uit-inside.linecorp.com/episode/153",
+      "pubDate": "Fri, 16 Feb 2024 09:00:00 GMT",
+      "description": "<p>2023/12/11 に開催された『UIT × Bonfire Front-end Meetup #1』について、出演者たちで語りました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/153"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode153.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining),kazushikonosu(kazushikonosu),halken(halken),sosanai(sosanai),himatani(himatani)",
+      "itunes:subtitle": "ep.153『UIT × Bonfire Front-End Meetup Aftershow』",
+      "itunes:duration": "35:43",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode153.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.152『フロントエンド事情は一年でどう変わった？UIT Global Survey 2023』",
       "link": "https://uit-inside.linecorp.com/episode/152",
       "pubDate": "Mon, 05 Feb 2024 04:00:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode054.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.53 Vue 3 Study 『Vue.js にもやってくる Fragment』",
-      "link": "https://uit-inside.linecorp.com/episode/53",
-      "pubDate": "Fri, 10 Jul 2020 09:00:00 GMT",
-      "description": "<p>@spring_raining が @potato4d に、 Vue 3 の Fragment について聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/53"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-053.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
-      "itunes:subtitle": "ep.53 Vue 3 Study 『Vue.js にもやってくる Fragment』",
-      "itunes:duration": "15:42",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode053.png",
         "#text": null
       }
     }
