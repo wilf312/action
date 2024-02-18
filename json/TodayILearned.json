@@ -29,7 +29,7 @@
   "itunes:type": "episodic",
   "itunes:owner": {
     "itunes:name": "Software Developers in SiliconValley",
-    "itunes:email": "podcasts60+367f0040@anchor.fm"
+    "itunes:email": "todayilearnedfm@gmail.com"
   },
   "itunes:explicit": "No",
   "itunes:category": {
@@ -41,6 +41,31 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "95. システムモニタリングについて学ぶステップ",
+      "description": "<p>システムモニタリングを体系的に学ぶためのステップやSREが開発において考えるべきことについて話しました。</p>\n<p>おすすめの本</p>\n<ul>\n <li><a href=\"https://amzn.to/3ujSOHk\">SRE本</a></li>\n <li><a href=\"https://www.oreilly.com/library/view/observability-engineering/9781492076438/\">Observability Engineering</a></li>\n</ul>\n<p>カンファレンス</p>\n<ul>\n <li>Usenix <a href=\"https://www.usenix.org/srecon\">SREcon</a></li>\n <li>Usenix <a href=\"https://www.usenix.org/conferences/byname/5\">LISA (Large Installation System Administration Conference)</a></li>\n <li><a href=\"https://www.usenix.org/conferences\">Usenix のカンファレンス一覧</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/95-e2fitam",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "43399813-95a1-49a2-9c82-a1eda4f72e63"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sat, 17 Feb 2024 23:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/82457366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F82457366%2Fa6c92cb78b2b18e6a684dcbb737eb879.m4a",
+        "@length": 27509969,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>システムモニタリングを体系的に学ぶためのステップやSREが開発において考えるべきことについて話しました。</p>\n<p>おすすめの本</p>\n<ul>\n <li><a href=\"https://amzn.to/3ujSOHk\">SRE本</a></li>\n <li><a href=\"https://www.oreilly.com/library/view/observability-engineering/9781492076438/\">Observability Engineering</a></li>\n</ul>\n<p>カンファレンス</p>\n<ul>\n <li>Usenix <a href=\"https://www.usenix.org/srecon\">SREcon</a></li>\n <li>Usenix <a href=\"https://www.usenix.org/conferences/byname/5\">LISA (Large Installation System Administration Conference)</a></li>\n <li><a href=\"https://www.usenix.org/conferences\">Usenix のカンファレンス一覧</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:21",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
     {
       "title": "94. BoeingのEngineering文化が駄目になった話[後編]",
       "description": "<p>「ボーイング社のエンジニアリング文化がダメになった」話の後編です。\n事故後のボーイングの対応や、なぜ「センサーの入力を増やすだけ」のソフトウェア修正に丸一年もかかってしまったか、を解説し、さらに一連の737MAXの事故の遠因となったと思われる</p>\n<ul>\n <li>会社の企業文化がエンジニア主体から金儲け主義になったこと</li>\n <li>市場環境が設計に与えた影響</li>\n</ul>\n<p>などの要因と心理的安全性の関係について話しました。\n\n参考</p>\n<ul>\n <li><a href=\"https://www.youtube.com/watch?v=bljlduBx1TE\">MCAS in detail on the 737 MAX</a> (フライトコンピュータアーキテクチャとMCASの設計/改善</li>\n</ul>\n<p>経営合理化、外注にまつわる記事\n</p>\n<ul>\n <li><a href=\"https://www.fromdayone.co/2022/05/01/lessons-of-boeings-cultural-decline-and-how-it-can-recover/\">Lessons of Boeing’s Cultural Decline–and How It Can Recover</a></li>\n  <li><a href=\"https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/\">What’s Gone Wrong at Boeing</a></li>\n  <li><a href=\"https://www.youtube.com/watch?v=hhT4M0UjJcg\">The Questionable Engineering of the 737 Max</a></li>\n</ul>\n<p><br></p>\n<p>企業およびエンジニアリング文化について</p>\n<ul>\n  <li><a href=\"https://www.nikkei.com/article/DGXZZO50905390T20C13A1000000/\">トヨタになれなかったボーイングの過ち</a></li>\n</ul>",
