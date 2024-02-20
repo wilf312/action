@@ -42,31 +42,6 @@
   },
   "item": [
     {
-      "title": "#31 シフトライトの理解が進んだ話",
-      "description": "<p>Microsoftのドキュメントを読んだことや、RSGT2024での発表を聞いたことについて話しました。どちらもシフトライトに関する話題です。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・シフトライトで実稼働環境でテストする - Microsoft Learn <a href=\"https://learn.microsoft.com/ja-jp/devops/deliver/shift-right-test-production\">https://learn.microsoft.com/ja-jp/devops/deliver/shift-right-test-production</a></p>\n<p>・リングベースデプロイメント - Microsoft Learn <a href=\"https://learn.microsoft.com/ja-jp/devops/operate/safe-deployment-practices#ring-based-deployment\">https://learn.microsoft.com/ja-jp/devops/operate/safe-deployment-practices#ring-based-deployment</a></p>\n<p>・シフトレフトとシフトライトの両面から製品開発に取り組んだお話 - ConfEngine <a href=\"https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/proposal/18760\">https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/proposal/18760</a></p>\n<p>・シフトレフトとシフトライトの両面から製品開発に取り組んだお話 - Speaker Deck <a href=\"https://speakerdeck.com/10xinc/shift-left-and-shift-right\">https://speakerdeck.com/10xinc/shift-left-and-shift-right</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
-      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/31-e2fu909",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "7fbf45c4-5b2e-41ae-bae2-6641baef0cc1"
-      },
-      "dc:creator": "ゆるテク",
-      "pubDate": "Tue, 20 Feb 2024 00:00:00 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/82829769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-18%2F6a222a00-dc2d-251f-dee1-c88968cd6754.mp3",
-        "@length": 24433057,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>Microsoftのドキュメントを読んだことや、RSGT2024での発表を聞いたことについて話しました。どちらもシフトライトに関する話題です。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・シフトライトで実稼働環境でテストする - Microsoft Learn <a href=\"https://learn.microsoft.com/ja-jp/devops/deliver/shift-right-test-production\">https://learn.microsoft.com/ja-jp/devops/deliver/shift-right-test-production</a></p>\n<p>・リングベースデプロイメント - Microsoft Learn <a href=\"https://learn.microsoft.com/ja-jp/devops/operate/safe-deployment-practices#ring-based-deployment\">https://learn.microsoft.com/ja-jp/devops/operate/safe-deployment-practices#ring-based-deployment</a></p>\n<p>・シフトレフトとシフトライトの両面から製品開発に取り組んだお話 - ConfEngine <a href=\"https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/proposal/18760\">https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/proposal/18760</a></p>\n<p>・シフトレフトとシフトライトの両面から製品開発に取り組んだお話 - Speaker Deck <a href=\"https://speakerdeck.com/10xinc/shift-left-and-shift-right\">https://speakerdeck.com/10xinc/shift-left-and-shift-right</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">https://twitter.com/hacktk</a></p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:25:27",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
-        "#text": null
-      },
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "#30 RSGT2024 基調講演のお話",
       "description": "<p>RSGT 2024 のことを話しました。</p>\n<p><br></p>\n<p>Links:</p>\n<p>・RSGT2024</p>\n<p><a href=\"https://2024.scrumgatheringtokyo.org/\">Regional Scrum Gathering℠ Tokyo 2024 (scrumgatheringtokyo.org)</a></p>\n<p><br></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\">⁠https://forms.gle/ZaxjmXSYSNbihf9k9⁠</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\">⁠https://twitter.com/yuru_tech⁠</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\">⁠https://twitter.com/junichi_m_⁠</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\">⁠https://twitter.com/hacktk</a></p>",
       "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/30-RSGT2024-e2fn722",
