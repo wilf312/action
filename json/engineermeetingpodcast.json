@@ -15,8 +15,8 @@
   ],
   "title": "engineer meeting podcast",
   "link": "https://soundcloud.com/engineer-meeting",
-  "pubDate": "Sat, 10 Feb 2024 02:34:30 +0000",
-  "lastBuildDate": "Sat, 10 Feb 2024 02:34:30 +0000",
+  "pubDate": "Sun, 25 Feb 2024 09:02:45 +0000",
+  "lastBuildDate": "Sun, 25 Feb 2024 09:02:45 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1757365314"
+      },
+      "title": "vol.221 Sora",
+      "pubDate": "Sun, 25 Feb 2024 09:14:40 +0000",
+      "link": "https://soundcloud.com/engineer-meeting/vol221-sora",
+      "itunes:duration": "00:39:31",
+      "itunes:author": "エンジニアミーティング",
+      "itunes:explicit": "no",
+      "itunes:summary": "# トピックス\n控え目に言って革命。OpenAI、動画生成AIモデル「Sora」発表\n(https://ascii.jp/elem/000/004/184/4184795/)\nGitHub Copilot Chatでハッシュ(#)を使ったコンテキスト変数を試してみた\n(https://dev.classmethod.jp/articles/github-copilot-chat-context-variables/)\nNTTドコモ、「リテールDXプログラム」の深慮遠謀(https://www.nikkei.com/article/DGXZQOUC313G50R30C24A1000000/)",
+      "itunes:subtitle": "# トピックス\n控え目に言って革命。OpenAI、動画生成AIモデル「Sora」発表\n(https…",
+      "description": "# トピックス\n控え目に言って革命。OpenAI、動画生成AIモデル「Sora」発表\n(https://ascii.jp/elem/000/004/184/4184795/)\nGitHub Copilot Chatでハッシュ(#)を使ったコンテキスト変数を試してみた\n(https://dev.classmethod.jp/articles/github-copilot-chat-context-variables/)\nNTTドコモ、「リテールDXプログラム」の深慮遠謀(https://www.nikkei.com/article/DGXZQOUC313G50R30C24A1000000/)",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1757365314-engineer-meeting-vol221-sora.mp3",
+        "@length": 75902979,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
