@@ -42,33 +42,6 @@
   },
   "item": [
     {
-      "title": "64: Google Trust Service のインシデントレポートの話とChrome Root Programの新バージョンが出た話",
-      "description": "<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogleTrustedServiceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version 1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogle Trusted Serviceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p><br></p>\n<p>\t• Google Trust Services のインシデントレポート</p>\n<p>\t\t○ 1876593 - Google Trust Services: Failure to properly validate IP address (mozilla.org) https://bugzilla.mozilla.org/show_bug.cgi?id=1876593 </p>\n<p>\t• Chrome Root Programの新バージョンでてました。</p>\n<p>\t\t○ Chrome Root Program Policy, Version 1.5</p>\n<p>\t\t○ Last updated: 2024-01-16</p>\n<p>\t\t○ https://www.chromium.org/Home/chromium-security/root-ca-policy/</p>\n<p>\t\t○ Chrome Root Program Policy Version 1.5 (TRACKED CHANGES).docx - Google ドキュメント https://docs.google.com/document/d/1soL-ZFOp8LeUwvQjKlacf2GWuvjYJ1A7/edit#heading=h.gjdgxs</p>\n<p>\t• 三都屋のお餅</p>\n<p>\t\t○ https://kuromon-mitoya.com/product_list/mochi/ </p>\n<p><br></p>\n<p>\n\n\n\n\n\n\n</p>",
-      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/64-Google-Trust-Service-Chrome-Root-Program-e2g8vfr",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "4389f2a6-2e5d-4559-917c-1a53e049c0f4"
-      },
-      "dc:creator": "Eureka",
-      "pubDate": "Sun, 25 Feb 2024 23:25:07 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/83180475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-25%2Fb8dfb83b-7e51-927f-afd8-741dfe6f024c.mp3",
-        "@length": 42633648,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogleTrustedServiceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version 1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogle Trusted Serviceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p><br></p>\n<p>\t• Google Trust Services のインシデントレポート</p>\n<p>\t\t○ 1876593 - Google Trust Services: Failure to properly validate IP address (mozilla.org) https://bugzilla.mozilla.org/show_bug.cgi?id=1876593 </p>\n<p>\t• Chrome Root Programの新バージョンでてました。</p>\n<p>\t\t○ Chrome Root Program Policy, Version 1.5</p>\n<p>\t\t○ Last updated: 2024-01-16</p>\n<p>\t\t○ https://www.chromium.org/Home/chromium-security/root-ca-policy/</p>\n<p>\t\t○ Chrome Root Program Policy Version 1.5 (TRACKED CHANGES).docx - Google ドキュメント https://docs.google.com/document/d/1soL-ZFOp8LeUwvQjKlacf2GWuvjYJ1A7/edit#heading=h.gjdgxs</p>\n<p>\t• 三都屋のお餅</p>\n<p>\t\t○ https://kuromon-mitoya.com/product_list/mochi/ </p>\n<p><br></p>\n<p>\n\n\n\n\n\n\n</p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "01:11:17",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
-        "#text": null
-      },
-      "itunes:season": 1,
-      "itunes:episode": 64,
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "63: ChromeがCTログサーバの可用性要件を求めるようになった話",
       "description": "<p>ひとけーが今年1/23-26に長崎で行われるSCIS2024で発表します。記事を出すことで自分の役割を果たしたと思っていたけど、対策を世の中にデリバリするにはもう一仕事必要そうだなとおもってもがいている話もちょっとしました。PKIネタではChromeがCTログサーバとして参照するのに可用性要件（90日平均で99%）を求めるようになった話をしました。雑談ではテキサス寒波到来、ゲーム捗った、パンを焼く、もち用アルミホイルなどの話をしました。</p>\n<ul>\n <li>2024年　暗号と情報セキュリティシンポジウム（SCIS2024)</li>\n</ul>\n<p>\t\t https://www.iwsec.org/scis/2024/ </p>\n<ul>\n <li> New availability requirements for logs trusted by Chrome coming into effect March 31, 2024　https://groups.google.com/a/chromium.org/g/ct-policy/c/4G-lF2N8H7A/m/fJ4WgAunAQAJ</li>\n</ul>\n<ul>\n  <li>Pillsbury　https://www.pillsbury.com/</li>\n  <li>東洋アルミ おもちを焼くホイル\n\nhttps://www.amazon.co.jp/%E6%9D%B1%E6%B4%8B%E3%82%A2%E3%83%AB%E3%83%9F-TOYO-ALUMINIUM-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%92%E7%84%BC%E3%81%8F%E3%83%9B%E3%82%A4%E3%83%AB/dp/B0088B5I6O/</li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/63-ChromeCT-e2egn69",
