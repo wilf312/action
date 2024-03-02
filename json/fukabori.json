@@ -36,6 +36,31 @@
   },
   "item": [
     {
+      "title": "111. eBPF w/ udzura",
+      "description": "<p>入門 eBPF 訳者の<a href=\"https://twitter.com/udzura\" rel=\"noopener noreferrer\" target=\"_blank\">Uchio Kondo</a>さんに、eBPF の経緯・用途、iptablesとの違い、カーネルモジュールとの違い、CO-REなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://amzn.to/3P3AqJW\" rel=\"noopener noreferrer\" target=\"_blank\">入門 eBPF ―Linuxカーネルの可視化と機能拡張</a></li><li><a href=\"https://tech.mirrativ.stream/entry/mirrativ-raft-redis-server\" rel=\"noopener noreferrer\" target=\"_blank\">Raft + Redis な内製Redisサーバの紹介</a></li><li>eBPF の始まり</li><li>cBPF(classic BPF) と eBPF(extended BPF)</li><li>eBPFの用途の広がり</li><li>パケットフィルタリングとは何か？</li><li>iptables との違い</li><li><a href=\"https://cilium.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Cilium</a></li><li>カーネルモジュールでも同じことはできるのか？</li><li>カーネルモジュールの問題点</li><li>eBPF VM と eBPF検証器</li><li>Facebook での eBPF 利用</li><li>XDP(eXpress Data Path)</li><li>CO-RE(Compile once, run anywhere) とは？</li><li>task_struct 構造体 と BTF (BPF Type Format)</li><li>コンパイラのリロケーション</li><li>翻訳するにあたって意識していたこと</li><li><a href=\"https://www.mirrativ.co.jp/recruit\" rel=\"noopener noreferrer\" target=\"_blank\">株式会社ミラティブ 採用特設サイト</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "111. eBPF w/ udzura",
+      "itunes:episodeType": "full",
+      "itunes:summary": "入門 eBPF 訳者のUchio Kondoさんに、eBPF の経緯・用途、iptablesとの違い、カーネルモジュールとの違い、CO-REなどについて語っていただきました。\n\n話したネタ入門 eBPF ―Linuxカーネルの可視化と機能拡張Raft + Redis な内製Redisサーバの紹介eBPF の始まりcBPF(classic BPF) と eBPF(extended BPF)eBPFの用途の広がりパケットフィルタリングとは何か？iptables との違いCiliumカーネルモジュールでも同じことはできるのか？カーネルモジュールの問題点eBPF VM と eBPF検証器Facebook での eBPF 利用XDP(eXpress Data Path)CO-RE(Compile once, run anywhere) とは？task_struct 構造体 と BTF (BPF Type Format)コンパイラのリロケーション翻訳するにあたって意識していたこと株式会社ミラティブ 採用特設サイト\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>入門 eBPF 訳者の<a href=\"https://twitter.com/udzura\" rel=\"noopener noreferrer\" target=\"_blank\">Uchio Kondo</a>さんに、eBPF の経緯・用途、iptablesとの違い、カーネルモジュールとの違い、CO-REなどについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://amzn.to/3P3AqJW\" rel=\"noopener noreferrer\" target=\"_blank\">入門 eBPF ―Linuxカーネルの可視化と機能拡張</a></li><li><a href=\"https://tech.mirrativ.stream/entry/mirrativ-raft-redis-server\" rel=\"noopener noreferrer\" target=\"_blank\">Raft + Redis な内製Redisサーバの紹介</a></li><li>eBPF の始まり</li><li>cBPF(classic BPF) と eBPF(extended BPF)</li><li>eBPFの用途の広がり</li><li>パケットフィルタリングとは何か？</li><li>iptables との違い</li><li><a href=\"https://cilium.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Cilium</a></li><li>カーネルモジュールでも同じことはできるのか？</li><li>カーネルモジュールの問題点</li><li>eBPF VM と eBPF検証器</li><li>Facebook での eBPF 利用</li><li>XDP(eXpress Data Path)</li><li>CO-RE(Compile once, run anywhere) とは？</li><li>task_struct 構造体 と BTF (BPF Type Format)</li><li>コンパイラのリロケーション</li><li>翻訳するにあたって意識していたこと</li><li><a href=\"https://www.mirrativ.co.jp/recruit\" rel=\"noopener noreferrer\" target=\"_blank\">株式会社ミラティブ 採用特設サイト</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/41gBm6hNNwDCLO-ByBIIcy5_mmvIxllgasYs90qu-Wo"
+      },
+      "pubDate": "Sat, 02 Mar 2024 08:55:40 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:38:30",
+      "enclosure": {
+        "@url": "https://chrt.fm/track/D33GD1/rss.art19.com/episodes/a4dc3363-dd8f-434d-94aa-aaa4fdac0759.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 36960966,
+        "#text": null
+      }
+    },
+    {
       "title": "110. Jasmine Tea と 日本の中高生向けIT教育 w/ yoichiro",
       "description": "<p>Tably CTOのyoichiroさんに、Jasmine Tea、プログラミング言語を新たに実装、日本の中高生向けIT教育などについて語っていただきました。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://jasminetea.app/\" rel=\"noopener noreferrer\" target=\"_blank\">Jasmine Tea</a>&nbsp;とは？</li><li>ブロックプログラミングとは？</li><li>ファミリーベーシック</li><li>現代の言語で、プログラミング初学者がGUIアプリを作るのは大変</li><li>Jasmine Tea の想定ユーザー</li><li>新たに言語を作ると考えたときに何から考え始めるのか？</li><li>インタープリタの自作、とは？</li><li>Web上に言語を実装する場合に大変だったことは？</li><li>JavaScript のメインスレッド専有への対応</li><li>setTimeout() によるペナルティ</li><li>ブラウザの差 と デバイスの差 による苦労</li><li>中学生向けの技術の授業でのIT教育</li><li>高校の情報Ⅰ で教わる内容</li><li>教育を起因とする日本のIT業界の課題</li><li>教材の重要性</li><li><a href=\"https://x.com/JasmineTeaProg\" rel=\"noopener noreferrer\" target=\"_blank\">@JasmineTeaProg</a></li><li><a href=\"https://forms.gle/rBfcZTFhdbCVkQHD9\" rel=\"noopener noreferrer\" target=\"_blank\">Jasmine Tea に関する問い合わせ</a></li></ul><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "110. Jasmine Tea と 日本の中高生向けIT教育 w/ yoichiro",
