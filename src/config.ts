@@ -173,11 +173,11 @@ export const urlList: UrlListItem[] = [
     url: "https://anchor.fm/s/216ede50/podcast/rss",
   },
 
-  {
-    name: "Submits.life",
-    hash: "submitslife",
-    url: "https://www.submits.life/feed.xml",
-  },
+  // {
+  //   name: "Submits.life",
+  //   hash: "submitslife",
+  //   url: "https://www.submits.life/feed.xml",
+  // },
 
   {
     name: "Kyashfm",
