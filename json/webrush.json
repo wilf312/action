@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 29 Feb 2024 11:00:00 +0000",
-  "lastBuildDate": "Thu, 29 Feb 2024 11:00:14 +0000",
+  "pubDate": "Thu, 21 Mar 2024 10:00:00 +0000",
+  "lastBuildDate": "Thu, 21 Mar 2024 10:00:13 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,84 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a4a1a4a8-9428-483b-9827-ee16c650d96e"
+      },
+      "title": "Episode 273: Preparing for the State of JavaScript Survey Results",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Recording date: Feb 29, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://2022.stateofjs.com/\">State of JavaScript Survey</a></li><li><a href=\"https://svelte.dev/\">Svelte • Cybernetically enhanced web apps</a></li><li><a href=\"https://bun.sh/\">Bun — A fast all-in-one JavaScript runtime</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>01:10</a></strong> Are we asking the right questions of each other?</li><li><strong><a>08:23</a></strong> How I think about surveys</li><li><strong><a>09:38</a></strong> Sponsor: IdeaBlade</li><li><strong><a>10:38</a></strong> Languages vs frameworks</li><li><strong><a>14:34</a></strong> How much does experience factor in?</li><li><strong><a>18:06</a></strong> Sponsor: Ag Grid</li><li><strong><a>19:01</a></strong> Proxy usage and page visibliity API</li><li><strong><a>22:03</a></strong> RxJS and data fetching</li><li><strong><a>26:06</a></strong> JavaScript runtimes</li><li><strong><a>26:59</a></strong> Our final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 21 Mar 2024 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Recording date: Feb 29, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://2022.stateofjs.com/\">State of JavaScript Survey</a></li><li><a href=\"https://svelte.dev/\">Svelte • Cybernetically enhanced web apps</a></li><li><a href=\"https://bun.sh/\">Bun — A fast all-in-one JavaScript runtime</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>01:10</a></strong> Are we asking the right questions of each other?</li><li><strong><a>08:23</a></strong> How I think about surveys</li><li><strong><a>09:38</a></strong> Sponsor: IdeaBlade</li><li><strong><a>10:38</a></strong> Languages vs frameworks</li><li><strong><a>14:34</a></strong> How much does experience factor in?</li><li><strong><a>18:06</a></strong> Sponsor: Ag Grid</li><li><strong><a>19:01</a></strong> Proxy usage and page visibliity API</li><li><strong><a>22:03</a></strong> RxJS and data fetching</li><li><strong><a>26:06</a></strong> JavaScript runtimes</li><li><strong><a>26:59</a></strong> Our final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 29315266,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/4592696b-8056-42f4-b317-3d125c307d5a/audio/c795604c-d5ae-4881-8a70-21c2e385d96a/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 273: Preparing for the State of JavaScript Survey Results",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:30:32",
+      "itunes:summary": "We're looking at the results from the 2022 State of JavaScript survey to see what happened in the past as we prepare for the 2023 survey results. Topics include langauges vs frameworks, how much experience devs have, proxy usage, the page visibility API, RxJS, JavaScript run times, and data fetching.",
+      "itunes:subtitle": "We're looking at the results from the 2022 State of JavaScript survey to see what happened in the past as we prepare for the 2023 survey results. Topics include langauges vs frameworks, how much experience devs have, proxy usage, the page visibility API, RxJS, JavaScript run times, and data fetching.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 273
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "cd3f8274-37a3-4465-b421-c344d26f2d35"
+      },
+      "title": "Episode 272: What If - Axios vs Custom Http",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li></ul><p>Recording date: Feb 22, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/watch?v=jEfqP31cBuI\">What if Less Angular Could be More - John’s Video</a></li><li><a href=\"https://github.com/johnpapa/angular-what-if\">John’s What If GitHub repository</a></li><li><a href=\"https://axios-http.com/docs/interceptors\">Axios and http interceptors</a></li><li><a href=\"https://axios-http.com/\">Axios and http</a></li><li><a href=\"https://angular.io/guide/dependency-injection\">Angular Dependency Injection</a></li><li><a href=\"https://auth0.com/blog/javascript-promises-vs-rxjs-observables/\">Promises and RxJS Observables</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch\">Fetch API</a></li><li><a href=\"https://javascript.plainenglish.io/understanding-interceptors-in-react-js-bb0a86cbc5a2\">Interceptors in React</a></li></ul><h2>Timejumps</h2><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 14 Mar 2024 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li></ul><p>Recording date: Feb 22, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/watch?v=jEfqP31cBuI\">What if Less Angular Could be More - John’s Video</a></li><li><a href=\"https://github.com/johnpapa/angular-what-if\">John’s What If GitHub repository</a></li><li><a href=\"https://axios-http.com/docs/interceptors\">Axios and http interceptors</a></li><li><a href=\"https://axios-http.com/\">Axios and http</a></li><li><a href=\"https://angular.io/guide/dependency-injection\">Angular Dependency Injection</a></li><li><a href=\"https://auth0.com/blog/javascript-promises-vs-rxjs-observables/\">Promises and RxJS Observables</a></li><li><a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch\">Fetch API</a></li><li><a href=\"https://javascript.plainenglish.io/understanding-interceptors-in-react-js-bb0a86cbc5a2\">Interceptors in React</a></li></ul><h2>Timejumps</h2><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 33410859,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/1e1b53a1-48f5-48e3-b825-3f5a6539bcf9/audio/9388bd5d-9aa0-4a6e-b6b4-6cb0b3bec5d4/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 272: What If - Axios vs Custom Http",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:34:48",
+      "itunes:summary": "John and Ward play a game called What if Angular used Single File Components (SFC) by default? What if Angular used the fetch API or Axios for HTTP requests? What if Angular apps used standard import/exporting of TypeScript modules?",
+      "itunes:subtitle": "John and Ward play a game called What if Angular used Single File Components (SFC) by default? What if Angular used the fetch API or Axios for HTTP requests? What if Angular apps used standard import/exporting of TypeScript modules?",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 272
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a4242cf0-cf3b-4145-9507-c253872f0acd"
+      },
+      "title": "Episode 271: Should You Learn Container Apps?",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Recording date: Feb 15, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://learn.microsoft.com/en-us/azure/container-apps/\">Azure Container Apps docs</a></li><li><a href=\"https://cloud.google.com/kubernetes-engine\">Kubernetes</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/aks/\">Azure Kubernetes</a></li><li><a href=\"https://cloud.google.com/run/\">Google Cloud Run</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/container-apps/overview\">Overview of Azure Container Apps</a></li><li><a href=\"https://keda.sh/\">KEDA</a></li><li><a href=\"https://www.docker.com/\">Docker</a></li><li><a href=\"https://docs.dapr.io/\">DAPR docs</a></li><li><a href=\"https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/\">Beginner friendly course for containers</a></li><li><a href=\"https://blog.iron.io/aws-fargate-vs-google-cloud-run/\">AWS Fargate vs Google Cloud Run</a></li><li><a href=\"https://learn.microsoft.com/training/paths/remote-development-vs-code/\">Hands-on learning of VS Code Remote and containers without containers</a></li><li><a href=\"https://thechosen.tv\">The Chosen</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> What do you need to know about containers?</li><li><strong><a>01:27</a></strong> What is Kuber Nets?</li><li><strong><a>04:44</a></strong> Can you get your apps in the cloud faster?</li><li><strong><a>09:06</a></strong> Sponsor: Ag Grid</li><li><strong><a>10:09</a></strong> What's required to get started using containers?</li><li><strong><a>16:09</a></strong> What's KEDA?</li><li><strong><a>16:57</a></strong> How much do I need to know about Kubernetes?</li><li><strong><a>20:20</a></strong> Sponsor: IdeaBlade</li><li><strong><a>24:01</a></strong> Can you move out of container apps?</li><li><strong><a>25:39</a></strong> When should you use containers vs Kubernetes?</li><li><strong><a>29:12</a></strong> What costs are there associated?</li><li><strong><a>35:26</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 7 Mar 2024 11:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Recording date: Feb 15, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://learn.microsoft.com/en-us/azure/container-apps/\">Azure Container Apps docs</a></li><li><a href=\"https://cloud.google.com/kubernetes-engine\">Kubernetes</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/aks/\">Azure Kubernetes</a></li><li><a href=\"https://cloud.google.com/run/\">Google Cloud Run</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/container-apps/overview\">Overview of Azure Container Apps</a></li><li><a href=\"https://keda.sh/\">KEDA</a></li><li><a href=\"https://www.docker.com/\">Docker</a></li><li><a href=\"https://docs.dapr.io/\">DAPR docs</a></li><li><a href=\"https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/\">Beginner friendly course for containers</a></li><li><a href=\"https://blog.iron.io/aws-fargate-vs-google-cloud-run/\">AWS Fargate vs Google Cloud Run</a></li><li><a href=\"https://learn.microsoft.com/training/paths/remote-development-vs-code/\">Hands-on learning of VS Code Remote and containers without containers</a></li><li><a href=\"https://thechosen.tv\">The Chosen</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> What do you need to know about containers?</li><li><strong><a>01:27</a></strong> What is Kuber Nets?</li><li><strong><a>04:44</a></strong> Can you get your apps in the cloud faster?</li><li><strong><a>09:06</a></strong> Sponsor: Ag Grid</li><li><strong><a>10:09</a></strong> What's required to get started using containers?</li><li><strong><a>16:09</a></strong> What's KEDA?</li><li><strong><a>16:57</a></strong> How much do I need to know about Kubernetes?</li><li><strong><a>20:20</a></strong> Sponsor: IdeaBlade</li><li><strong><a>24:01</a></strong> Can you move out of container apps?</li><li><strong><a>25:39</a></strong> When should you use containers vs Kubernetes?</li><li><strong><a>29:12</a></strong> What costs are there associated?</li><li><strong><a>35:26</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 41325327,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/06d6366a-8dae-466c-a295-0c13e205a42d/audio/fa9ecd58-7ba3-4019-8b65-7225cc34be91/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 271: Should You Learn Container Apps?",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:43:02",
+      "itunes:summary": "We chat with Craig about his experiences learning Kubernetes, Azure Containers, why you might consider learning more about container apps, how to get started learning, and some of the costs associated with shipping apps in a container.",
+      "itunes:subtitle": "We chat with Craig about his experiences learning Kubernetes, Azure Containers, why you might consider learning more about container apps, how to get started learning, and some of the costs associated with shipping apps in a container.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 271
+    },
     {
       "guid": {
         "@isPermaLink": false,

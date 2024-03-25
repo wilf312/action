@@ -106,10 +106,6 @@
           echo 'https://anchor.fm/s/216ede50/podcast/rss'
           curl https://anchor.fm/s/216ede50/podcast/rss --compressed > rss/%E3%81%9F%E3%81%BE%E3%83%87%E3%82%B6FM.xml
 
-          # Submits.life
-          echo 'https://www.submits.life/feed.xml'
-          curl https://www.submits.life/feed.xml --compressed > rss/submitslife.xml
-
           # Kyashfm
           echo 'https://anchor.fm/s/4d007e0c/podcast/rss'
           curl https://anchor.fm/s/4d007e0c/podcast/rss --compressed > rss/kyashfm.xml

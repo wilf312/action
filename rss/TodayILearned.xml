@@ -1,30 +1,546 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[Today I Learned]]></title>
+		<title><![CDATA[Today I Learned -シリコンバレーの現場から-]]></title>
 		<description><![CDATA[シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。]]></description>
 		<link>https://podcasters.spotify.com/pod/show/todayilearnedfm</link>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg</url>
-			<title>Today I Learned</title>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg</url>
+			<title>Today I Learned -シリコンバレーの現場から-</title>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 04 Dec 2023 21:34:32 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 24 Mar 2024 20:24:11 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/367f0040/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Tomo and Yusuke ]]></author>
-		<copyright><![CDATA[Tomo and Yusuke ]]></copyright>
+		<author><![CDATA[Software Developers in SiliconValley]]></author>
+		<copyright><![CDATA[Software Developers in SiliconValley]]></copyright>
 		<language><![CDATA[ja]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Tomo and Yusuke </itunes:author>
+		<itunes:author>Software Developers in SiliconValley</itunes:author>
 		<itunes:summary>シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>Tomo and Yusuke </itunes:name>
-			<itunes:email>podcasts60+367f0040@anchor.fm</itunes:email>
+			<itunes:name>Software Developers in SiliconValley</itunes:name>
+			<itunes:email>todayilearnedfm@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+		<item>
+			<title><![CDATA[100. 経済学部からビッグテックのエンジニアになるまで(Hiro Tsujino さん)]]></title>
+			<description><![CDATA[ベイエリアのビッグテックでソフトウェアエンジニアとして活躍している Hiro Tsujino さんをゲストにお迎えしました。 Hiro さんが、大学の文系学部を卒業後に非エンジニア職からキャリアをスタートして、渡米してビッグテックのソフトウェアエンジニアになった経緯、経験と、今後の展望をお聞きしました。
+
+
+ Twitter/X @hirotsujino
+
+ No+e: 「Google Japan にビジネス職として新卒入社して、本社でソフトウェアエンジニアになるまで」
+
+
+Your co-hosts:
+
+ Tomoaki Imai, Knot, inc CTO https://twitter.com/tomoaki_imai
+ Ryoichi Kato, Software Engineer ⁠https://twitter.com/ryo1kato
+
+
+出演者の発言はすべて個人の経験、見解に基づくものであり、所属組織を代表するものではありません
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/100--Hiro-Tsujino-e2h5tfr</link>
+			<guid isPermaLink="false">37b77a84-bf9a-4f42-83c7-9b3a2ae5610d</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 24 Mar 2024 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/84128699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-17%2F371193292-44100-2-14fbd3ba132e4.m4a" length="33789630" type="audio/x-m4a"/>
+			<itunes:summary>ベイエリアのビッグテックでソフトウェアエンジニアとして活躍している Hiro Tsujino さんをゲストにお迎えしました。 Hiro さんが、大学の文系学部を卒業後に非エンジニア職からキャリアをスタートして、渡米してビッグテックのソフトウェアエンジニアになった経緯、経験と、今後の展望をお聞きしました。
+
+
+ Twitter/X @hirotsujino
+
+ No+e: 「Google Japan にビジネス職として新卒入社して、本社でソフトウェアエンジニアになるまで」
+
+
+Your co-hosts:
+
+ Tomoaki Imai, Knot, inc CTO https://twitter.com/tomoaki_imai
+ Ryoichi Kato, Software Engineer ⁠https://twitter.com/ryo1kato
+
+
+出演者の発言はすべて個人の経験、見解に基づくものであり、所属組織を代表するものではありません
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:34:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[99. 米国でのキャリアアップのヒント - 儒教的価値観をアンラーニングする]]></title>
+			<description><![CDATA[<p>米国でキャリアアップし成功するために、東洋人の持つ儒教学的な価値観のアンラーニングをする必要性や、どうアンラーニングを実践していくかについて話しました。</p>
+<ul>
+ <li>Tae hea nhm: <a href="https://www.linkedin.com/in/tnahm">https://www.linkedin.com/in/tnahm</a></li>
+ <li>Why East Asians but not South Asians are underrepresented in leadership positions in the United States <a href="https://www.pnas.org/doi/10.1073/pnas.1918896117">https://www.pnas.org/doi/10.1073/pnas.1918896117</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/99-----e2h2i1v</link>
+			<guid isPermaLink="false">ad683de8-1e1a-4b2c-85ec-f1616b0c1c76</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 17 Mar 2024 17:37:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/84018687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F84018687%2F324f04a3e1dde3529df3f392d5cf8584.m4a" length="37563532" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;米国でキャリアアップし成功するために、東洋人の持つ儒教学的な価値観のアンラーニングをする必要性や、どうアンラーニングを実践していくかについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tae hea nhm: &lt;a href=&quot;https://www.linkedin.com/in/tnahm&quot;&gt;https://www.linkedin.com/in/tnahm&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Why East Asians but not South Asians are underrepresented in leadership positions in the United States &lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.1918896117&quot;&gt;https://www.pnas.org/doi/10.1073/pnas.1918896117&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:38:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[98. 大規模分散システムの苦悩]]></title>
+			<description><![CDATA[<p>設計、トレードオフ、資源計画、負荷テスト、スケーリング、SREの採用など、難しいことだらけの大規模分散システムの開発について話しました。</p>
+<ul>
+ <li><a href="https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md">システム設計入門</a> (System Design Primer)</li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/98-e2gpmmf</link>
+			<guid isPermaLink="false">7cba2372-9fac-4c21-8ace-f9600e0d419e</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 10 Mar 2024 18:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/83728527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F83728527%2F2530edf79670b03624360feb9f979f4b.m4a" length="39503860" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;設計、トレードオフ、資源計画、負荷テスト、スケーリング、SREの採用など、難しいことだらけの大規模分散システムの開発について話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md&quot;&gt;システム設計入門&lt;/a&gt; (System Design Primer)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[97. 暗号通貨の仕組み Proof of Work と Proof of Stake]]></title>
+			<description><![CDATA[<p>暗号通貨の仕組みについて。</p>
+<p>まずBitcoinの仕組みのおさらいを軽くして、Proof of Work と Proof of Stake の違いついて話しました。</p>
+<p><br></p>
+<p>Ryoichi が十年近く前に読んだ本(の最新版):</p>
+<ul>
+ <li>「Mastering Bitcoin: Programming the Open Blockchain」 <a href="https://amzn.to/3uNgunz">https://amzn.to/3uNgunz</a></li>
+ <li>その邦訳「ビットコインとブロックチェーン」 <a href="https://amzn.to/49NRnQk">https://amzn.to/49NRnQk</a></li>
+<p><br></p>
+</ul>
+<p>関連エピソード</p>
+<ul>
+  <li><a href="https://open.spotify.com/episode/7AKiqUb9kkeyzmtoBX9l9F">85. 電子署名しているとき、われわれは何をしているのか</a></li>
+  <li><a href="https://open.spotify.com/episode/3lumw7VEixfmtYaPcCJ8TW">78. 暗号学を学びなおす</a></li>
+  <li><a href="https://open.spotify.com/episode/4XWTTo9hOv012BCHBuWsz3">43. NFTや暗号通貨の詐欺手法、ゼロ知識証明、金融と決済の未来</a></li>
+  <li><a href="https://open.spotify.com/episode/4G0boPEYtUW3XjZlkrxFL4">42. 仮想通貨のトレンド、SolanaとTakさん、非エンジニアが仮想通貨を学ぶまでの話（ゲスト：Takさん前編）</a></li>
+  <li><a href="https://open.spotify.com/episode/5CgLDweCkili4s3tskm9IC">41. 暗号通貨への投資、NFTブーム後の世界の話</a></li>
+  <li><a href="https://open.spotify.com/episode/5WUZCcOLKT6jrMjH5FMB3d">36. 偽名経済とはなにか?</a></li>
+<p><br></p>
+</ul>
+<p> Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/97---Proof-of-Work--Proof-of-Stake-e2g7hln</link>
+			<guid isPermaLink="false">49fc569e-5b76-4721-bfd7-3dbd802933f1</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 03 Mar 2024 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/83133559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F83133559%2Faa45ae1b06c504538c2d18a3ee190ba8.m4a" length="24649804" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;暗号通貨の仕組みについて。&lt;/p&gt;
+&lt;p&gt;まずBitcoinの仕組みのおさらいを軽くして、Proof of Work と Proof of Stake の違いついて話しました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ryoichi が十年近く前に読んだ本(の最新版):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;「Mastering Bitcoin: Programming the Open Blockchain」 &lt;a href=&quot;https://amzn.to/3uNgunz&quot;&gt;https://amzn.to/3uNgunz&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;その邦訳「ビットコインとブロックチェーン」 &lt;a href=&quot;https://amzn.to/49NRnQk&quot;&gt;https://amzn.to/49NRnQk&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;関連エピソード&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/7AKiqUb9kkeyzmtoBX9l9F&quot;&gt;85. 電子署名しているとき、われわれは何をしているのか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/3lumw7VEixfmtYaPcCJ8TW&quot;&gt;78. 暗号学を学びなおす&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/4XWTTo9hOv012BCHBuWsz3&quot;&gt;43. NFTや暗号通貨の詐欺手法、ゼロ知識証明、金融と決済の未来&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/4G0boPEYtUW3XjZlkrxFL4&quot;&gt;42. 仮想通貨のトレンド、SolanaとTakさん、非エンジニアが仮想通貨を学ぶまでの話（ゲスト：Takさん前編）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/5CgLDweCkili4s3tskm9IC&quot;&gt;41. 暗号通貨への投資、NFTブーム後の世界の話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/5WUZCcOLKT6jrMjH5FMB3d&quot;&gt;36. 偽名経済とはなにか?&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt; Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:25:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[96. シリコンバレーのピッチイベントからみるAIプロダクトのトレンド]]></title>
+			<description><![CDATA[<p>AIにフォーカスしたシリコンバレーのアクセラレータのデモデーに参加したTomoが、どういったAIプロダクトがあったかについて紹介しました。</p>
+<ul>
+ <li>Inception Studio <a href="https://www.inceptionstudio.org/">https://www.inceptionstudio.org/</a></li>
+ <li>ピッチデック <a href="https://23586544.fs1.hubspotusercontent-na1.net/hubfs/23586544/InceptionStudioDeck.pdf">https://23586544.fs1.hubspotusercontent-na1.net/hubfs/23586544/InceptionStudioDeck.pdf</a></li>
+</ul>
+<p>ピッチをしたプロダクト(動画)</p>
+<ul>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3kNW8-99QL64tnYkW1t-Kv13f5rT1W6DcWGm7bwRFTW87SzKT8SpKZyV2Nv832_1yP2W6Hsc2g91vjprW3RZjrP3J1y_7W2qpkZs3PdCFbW4NY8Ht6ST5JgW2t5wsk1yVZqtW87NG4Z5n8Pb0N16_s_qcGpszW39zB_K95CJj-W54jWky317VNfVxF4zb6xnsWJW3X2FSS3n8996VFzG8t2YRzt_W2wj6Nd97TdgfV8-qFy6c2VJNVNRVMX1-8yVsW6tC09P3f3WjPW55ppZX7Yvy0dW4VGg9v2DCtzjW3zgzsc7PBxQbf4WtXm204">Growth.Brand</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3l3W8CNtPC7lR9gSVGnrfP5NKL2vW1q95mf5M6jRtW2vrRQ77L0hddW3J000M4-7GdqW7b4zSc8_mlqNW5XD3YS59Gc5vW5HtL6952cJYbW7M6jqV3LTjrrW6FMQtm662nZ_W1307Q-13G4SPW58MgCR5x9P2mW38813Z7w4wDKW47bQfL2jWPqBW7d1bxv20svc9VMz4_k6t-BS5W86dfr94y2___W5YTDSf8v7668N1JyxcnTnTcqW3Ys7bb3FThrVW3FtfMt3Mh0-RW32-jD16N7BwRW8NZrVQ1G6BCyW4pgXqq85J6Tvf1Chn6H04">Dignifi.ai</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3pGW7xJhTL77jz-dW6KhQmd5B1-BJN4Yw4V1tw3qyW8hn__R2yj8KwW630lwZ4J3r_6W5MXw6V2LF4CrW4c23MJ3KMCr2VFYHcf6Q7QSpW7CF30g6qrttVVlfnW_8-NK24W1zQJRx5WCd5ZVTLpCn2q-m4kW1TZZk691PTP-W74KRCW4jn-wMW5sWS9H495hx5W6g7HvG6wJ8ffVT0tmp4DgfQxW18bXxt4v89MNW55VwMd6s_PcHW1DSjfn2gdhbJW4D0v415ZhGpnW3TTTFc8fH5xyW2M72Hz8YFkYSW5VRxYQ59HP93f63Bc_T04">Onstra.AI</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3lVVvMbQW51jzVQW3s2nCP4tVJPTVfNlbb7gryP5W8YWyLH1Q_vVcW5-VX9h3bpM1VW2mLHd91Z_gzCW7xcTbY9904mRW83-tdw4MY5LtW1VvpYF7WzfqrW732BML6DrYdCW4-Rb7b7vYqtbW6vrskg1dgl0WW716d2n5cK_FYN8QQQB-sbDd9W63Kt-479wcMMW4DgyLP7hQdWxW5dDq-g2dt-YFW8qRY6y113FFZW3MPCP_41qMXrV2m50m8ql0_lW5H1ntL5LJtzRW2nL6fQ52-hN2W24bjjj8XcBmmW8DyZTg2wHr0pf7pMXbj04">Gateway.ai</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3pSW271JwM5C7Wg3Vb_C_f75sVbPW94yqWt2srSBsW791CNm3lDrNyW1lGsVX3rDGBvW418R7K2MpmB9W2ZsDgc2-CqcDW6nS0-Z3wkR_yW2QMf241P1CkLW6Y_ssm1XCxlLW7H_PQD1HZBNdW1KYNpZ9gkH7gW4SkVmz4xNwwHW7qffNS1b9QKgW37yrHh91zmQ3N3-2661VZdz5W7-kSkX9dhqZWW1LjVL12slZkxW1x7Gtr3T71L5W7CF1Gs19LTpYW27g_7b8VN3khW44V80_6nYxRxW3lkb4y3Y63vVN61YN9sbd9GDf4g-Chq04">Aiyudo</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3mXW6GjBvT3y5_lhW71gKfZ39Mg1dN2lkKstNR5LrN8hB79GzK7rNW3-NSD93TPcMKW38xP8D4qrLfHW6fBFmv1Ck_YpW4Tw_wf6ryWyPW78VPr962SnVfW25hkbT3gtJPJW4x97rn7Gk4M0W8L-lxK9c52tLW9fM6kq2M6lBpN6tWR_BQN0sqW3V2zq95Gl4SGW7QsVJP4lF4wFVXCflV6N0JS7W6yC0Yw4ZQYvYVhtWLD8HnQ6GW32SVMb4f7V3nM9KmXDXxHG6W2SCrN_7K-Qb1W6Twb8P4swTVjN3C5ldXTHgMfdXn5VY04">Embed</a></li>
+  <li><a href="https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3nxW3sMqzv4dHWFSW8VfxDr7pxsn4W5trwsK4SpFH_W1MFfsl4_tWlrVTzQDM5_ZV9tW6SXrJq2fJ6DTN2XSgnqk80CgW2y-wfj22hyzjVP6Pst5QMlSzW5W1qDB4_Kkk9W2SWX5y865nyzW1bVs0S2KVx4mW429Prm159q9QW3qhyKF9dPtnKN4v-ZC126dsHVsQwt_2FVRjDW5HCgsV8CscDGW8_BS-684c2ZJW11VjY_1774Q5W7G5Gpv93DWpbW3lnWKz2jM7m8W3WszHC6QS07CW4Byg984Bx4FKW44kRyK7-S4P1dXg_lC04">AtlasPro</a>
+</li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/96--AI-e2ftut8</link>
+			<guid isPermaLink="false">038c03e5-0db4-4c56-8ceb-ab533238f8a6</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sat, 24 Feb 2024 18:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/82819432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F82819432%2F84ea581f5dbe25449fd042e1a937ae3d.m4a" length="33430078" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;AIにフォーカスしたシリコンバレーのアクセラレータのデモデーに参加したTomoが、どういったAIプロダクトがあったかについて紹介しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Inception Studio &lt;a href=&quot;https://www.inceptionstudio.org/&quot;&gt;https://www.inceptionstudio.org/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ピッチデック &lt;a href=&quot;https://23586544.fs1.hubspotusercontent-na1.net/hubfs/23586544/InceptionStudioDeck.pdf&quot;&gt;https://23586544.fs1.hubspotusercontent-na1.net/hubfs/23586544/InceptionStudioDeck.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ピッチをしたプロダクト(動画)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3kNW8-99QL64tnYkW1t-Kv13f5rT1W6DcWGm7bwRFTW87SzKT8SpKZyV2Nv832_1yP2W6Hsc2g91vjprW3RZjrP3J1y_7W2qpkZs3PdCFbW4NY8Ht6ST5JgW2t5wsk1yVZqtW87NG4Z5n8Pb0N16_s_qcGpszW39zB_K95CJj-W54jWky317VNfVxF4zb6xnsWJW3X2FSS3n8996VFzG8t2YRzt_W2wj6Nd97TdgfV8-qFy6c2VJNVNRVMX1-8yVsW6tC09P3f3WjPW55ppZX7Yvy0dW4VGg9v2DCtzjW3zgzsc7PBxQbf4WtXm204&quot;&gt;Growth.Brand&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3l3W8CNtPC7lR9gSVGnrfP5NKL2vW1q95mf5M6jRtW2vrRQ77L0hddW3J000M4-7GdqW7b4zSc8_mlqNW5XD3YS59Gc5vW5HtL6952cJYbW7M6jqV3LTjrrW6FMQtm662nZ_W1307Q-13G4SPW58MgCR5x9P2mW38813Z7w4wDKW47bQfL2jWPqBW7d1bxv20svc9VMz4_k6t-BS5W86dfr94y2___W5YTDSf8v7668N1JyxcnTnTcqW3Ys7bb3FThrVW3FtfMt3Mh0-RW32-jD16N7BwRW8NZrVQ1G6BCyW4pgXqq85J6Tvf1Chn6H04&quot;&gt;Dignifi.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3pGW7xJhTL77jz-dW6KhQmd5B1-BJN4Yw4V1tw3qyW8hn__R2yj8KwW630lwZ4J3r_6W5MXw6V2LF4CrW4c23MJ3KMCr2VFYHcf6Q7QSpW7CF30g6qrttVVlfnW_8-NK24W1zQJRx5WCd5ZVTLpCn2q-m4kW1TZZk691PTP-W74KRCW4jn-wMW5sWS9H495hx5W6g7HvG6wJ8ffVT0tmp4DgfQxW18bXxt4v89MNW55VwMd6s_PcHW1DSjfn2gdhbJW4D0v415ZhGpnW3TTTFc8fH5xyW2M72Hz8YFkYSW5VRxYQ59HP93f63Bc_T04&quot;&gt;Onstra.AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3lVVvMbQW51jzVQW3s2nCP4tVJPTVfNlbb7gryP5W8YWyLH1Q_vVcW5-VX9h3bpM1VW2mLHd91Z_gzCW7xcTbY9904mRW83-tdw4MY5LtW1VvpYF7WzfqrW732BML6DrYdCW4-Rb7b7vYqtbW6vrskg1dgl0WW716d2n5cK_FYN8QQQB-sbDd9W63Kt-479wcMMW4DgyLP7hQdWxW5dDq-g2dt-YFW8qRY6y113FFZW3MPCP_41qMXrV2m50m8ql0_lW5H1ntL5LJtzRW2nL6fQ52-hN2W24bjjj8XcBmmW8DyZTg2wHr0pf7pMXbj04&quot;&gt;Gateway.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3pSW271JwM5C7Wg3Vb_C_f75sVbPW94yqWt2srSBsW791CNm3lDrNyW1lGsVX3rDGBvW418R7K2MpmB9W2ZsDgc2-CqcDW6nS0-Z3wkR_yW2QMf241P1CkLW6Y_ssm1XCxlLW7H_PQD1HZBNdW1KYNpZ9gkH7gW4SkVmz4xNwwHW7qffNS1b9QKgW37yrHh91zmQ3N3-2661VZdz5W7-kSkX9dhqZWW1LjVL12slZkxW1x7Gtr3T71L5W7CF1Gs19LTpYW27g_7b8VN3khW44V80_6nYxRxW3lkb4y3Y63vVN61YN9sbd9GDf4g-Chq04&quot;&gt;Aiyudo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3mXW6GjBvT3y5_lhW71gKfZ39Mg1dN2lkKstNR5LrN8hB79GzK7rNW3-NSD93TPcMKW38xP8D4qrLfHW6fBFmv1Ck_YpW4Tw_wf6ryWyPW78VPr962SnVfW25hkbT3gtJPJW4x97rn7Gk4M0W8L-lxK9c52tLW9fM6kq2M6lBpN6tWR_BQN0sqW3V2zq95Gl4SGW7QsVJP4lF4wFVXCflV6N0JS7W6yC0Yw4ZQYvYVhtWLD8HnQ6GW32SVMb4f7V3nM9KmXDXxHG6W2SCrN_7K-Qb1W6Twb8P4swTVjN3C5ldXTHgMfdXn5VY04&quot;&gt;Embed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d2npgt04.na1.hubspotlinksstarter.com/Ctc/5G+113/d2NPGT04/VVrjT67XZtVFN8PVL_mfRmQQW3Bmyl959bd6pMfRfk-3m2ndW7lCdLW6lZ3nxW3sMqzv4dHWFSW8VfxDr7pxsn4W5trwsK4SpFH_W1MFfsl4_tWlrVTzQDM5_ZV9tW6SXrJq2fJ6DTN2XSgnqk80CgW2y-wfj22hyzjVP6Pst5QMlSzW5W1qDB4_Kkk9W2SWX5y865nyzW1bVs0S2KVx4mW429Prm159q9QW3qhyKF9dPtnKN4v-ZC126dsHVsQwt_2FVRjDW5HCgsV8CscDGW8_BS-684c2ZJW11VjY_1774Q5W7G5Gpv93DWpbW3lnWKz2jM7m8W3WszHC6QS07CW4Byg984Bx4FKW44kRyK7-S4P1dXg_lC04&quot;&gt;AtlasPro&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:34:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[95. システムモニタリングについて学ぶステップ ]]></title>
+			<description><![CDATA[<p>システムモニタリングを体系的に学ぶためのステップやSREが開発において考えるべきことについて話しました。</p>
+<p>おすすめの本</p>
+<ul>
+ <li><a href="https://amzn.to/3ujSOHk">SRE本</a></li>
+ <li><a href="https://www.oreilly.com/library/view/observability-engineering/9781492076438/">Observability Engineering</a></li>
+</ul>
+<p>カンファレンス</p>
+<ul>
+ <li>Usenix <a href="https://www.usenix.org/srecon">SREcon</a></li>
+ <li>Usenix <a href="https://www.usenix.org/conferences/byname/5">LISA (Large Installation System Administration Conference)</a></li>
+ <li><a href="https://www.usenix.org/conferences">Usenix のカンファレンス一覧</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+ <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+ <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/95-e2fitam</link>
+			<guid isPermaLink="false">43399813-95a1-49a2-9c82-a1eda4f72e63</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sat, 17 Feb 2024 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/82457366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F82457366%2Fa6c92cb78b2b18e6a684dcbb737eb879.m4a" length="27509969" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;システムモニタリングを体系的に学ぶためのステップやSREが開発において考えるべきことについて話しました。&lt;/p&gt;
+&lt;p&gt;おすすめの本&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://amzn.to/3ujSOHk&quot;&gt;SRE本&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/observability-engineering/9781492076438/&quot;&gt;Observability Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;カンファレンス&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Usenix &lt;a href=&quot;https://www.usenix.org/srecon&quot;&gt;SREcon&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Usenix &lt;a href=&quot;https://www.usenix.org/conferences/byname/5&quot;&gt;LISA (Large Installation System Administration Conference)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.usenix.org/conferences&quot;&gt;Usenix のカンファレンス一覧&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[94. BoeingのEngineering文化が駄目になった話[後編] ]]></title>
+			<description><![CDATA[<p>「ボーイング社のエンジニアリング文化がダメになった」話の後編です。
+事故後のボーイングの対応や、なぜ「センサーの入力を増やすだけ」のソフトウェア修正に丸一年もかかってしまったか、を解説し、さらに一連の737MAXの事故の遠因となったと思われる</p>
+<ul>
+ <li>会社の企業文化がエンジニア主体から金儲け主義になったこと</li>
+ <li>市場環境が設計に与えた影響</li>
+</ul>
+<p>などの要因と心理的安全性の関係について話しました。
+
+参考</p>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=bljlduBx1TE">MCAS in detail on the 737 MAX</a> (フライトコンピュータアーキテクチャとMCASの設計/改善</li>
+</ul>
+<p>経営合理化、外注にまつわる記事
+</p>
+<ul>
+ <li><a href="https://www.fromdayone.co/2022/05/01/lessons-of-boeings-cultural-decline-and-how-it-can-recover/">Lessons of Boeing’s Cultural Decline–and How It Can Recover</a></li>
+  <li><a href="https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/">What’s Gone Wrong at Boeing</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hhT4M0UjJcg">The Questionable Engineering of the 737 Max</a></li>
+</ul>
+<p><br></p>
+<p>企業およびエンジニアリング文化について</p>
+<ul>
+  <li><a href="https://www.nikkei.com/article/DGXZZO50905390T20C13A1000000/">トヨタになれなかったボーイングの過ち</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/94--BoeingEngineering-e2fa4i5</link>
+			<guid isPermaLink="false">9ebe891c-ed99-4c69-a496-f8dc6daf7bc4</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 11 Feb 2024 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/82169861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F82169861%2F370bd85d8b079c113d9899e6c1750eeb.m4a" length="38119051" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;「ボーイング社のエンジニアリング文化がダメになった」話の後編です。
+事故後のボーイングの対応や、なぜ「センサーの入力を増やすだけ」のソフトウェア修正に丸一年もかかってしまったか、を解説し、さらに一連の737MAXの事故の遠因となったと思われる&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;会社の企業文化がエンジニア主体から金儲け主義になったこと&lt;/li&gt;
+ &lt;li&gt;市場環境が設計に与えた影響&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などの要因と心理的安全性の関係について話しました。
+
+参考&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bljlduBx1TE&quot;&gt;MCAS in detail on the 737 MAX&lt;/a&gt; (フライトコンピュータアーキテクチャとMCASの設計/改善&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;経営合理化、外注にまつわる記事
+&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.fromdayone.co/2022/05/01/lessons-of-boeings-cultural-decline-and-how-it-can-recover/&quot;&gt;Lessons of Boeing’s Cultural Decline–and How It Can Recover&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/&quot;&gt;What’s Gone Wrong at Boeing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hhT4M0UjJcg&quot;&gt;The Questionable Engineering of the 737 Max&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;企業およびエンジニアリング文化について&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nikkei.com/article/DGXZZO50905390T20C13A1000000/&quot;&gt;トヨタになれなかったボーイングの過ち&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:39:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[93. BoeingのEngineering文化が駄目になった話 [前編]]]></title>
+			<description><![CDATA[<p>今回は「ボーイング社のエンジニアリング文化がダメになった」というテーマについて「<a href="https://www.zerohedge.com/markets/stocks-grounded">This Stock&#39;s Grounded!</a>」というブログや他のいくつかのネットの記事をもとに取り上げます。 </p>
+<p>まず1月はじめに発生した、飛行中のボーイング737MAXの機体に穴があいた事故や、2017年のこの機種の導入直後に連続した墜落事故やその原因、さらにはその遠因となった企業文化とエンジニアリングとの関係について取りあげます。</p>
+<ul>
+ <li><a href="https://www.zerohedge.com/markets/stocks-grounded">This Stock&#39;s Grounded!</a></li>
+ <li><a href="https://www.youtube.com/watch?v=wXMO0bhPhCw&t=285s">Boeing&#39;s Fatal Flaw (full documentary) | FRONTLINE</a></li>
+  <li><a href="https://www.netflix.com/title/81272421" rel="noopener noreferrer">Netflixドキュメンタリー 「地に堕ちた信頼」</a></li>
+  <li><a href="https://www.youtube.com/watch?v=bljlduBx1TE">MCAS in detail on the 737 MAX</a></li>
+  <li><a href="https://www.shippai.org/fkd/cf/CZ0200718.html">六本木回転ドア事故</a></li>
+</ul>
+<p><br></p>
+<p>次回、後編では企業経営や会社の文化の側面から、なぜ設計上の問題や懸念が隠蔽され、結果としてこのような事故を起こすことになってしまったかを議論したいと思います。</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/93--BoeingEngineering-e2f6l36</link>
+			<guid isPermaLink="false">3197831d-435c-471c-9028-ad908552bd11</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 04 Feb 2024 15:50:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/82055718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F82055718%2Fe35fab628bf97e010f27fd0d82ecc8ac.m4a" length="34577508" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;今回は「ボーイング社のエンジニアリング文化がダメになった」というテーマについて「&lt;a href=&quot;https://www.zerohedge.com/markets/stocks-grounded&quot;&gt;This Stock&amp;#39;s Grounded!&lt;/a&gt;」というブログや他のいくつかのネットの記事をもとに取り上げます。 &lt;/p&gt;
+&lt;p&gt;まず1月はじめに発生した、飛行中のボーイング737MAXの機体に穴があいた事故や、2017年のこの機種の導入直後に連続した墜落事故やその原因、さらにはその遠因となった企業文化とエンジニアリングとの関係について取りあげます。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.zerohedge.com/markets/stocks-grounded&quot;&gt;This Stock&amp;#39;s Grounded!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wXMO0bhPhCw&amp;t=285s&quot;&gt;Boeing&amp;#39;s Fatal Flaw (full documentary) | FRONTLINE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/title/81272421&quot; rel=&quot;noopener noreferrer&quot;&gt;Netflixドキュメンタリー 「地に堕ちた信頼」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bljlduBx1TE&quot;&gt;MCAS in detail on the 737 MAX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shippai.org/fkd/cf/CZ0200718.html&quot;&gt;六本木回転ドア事故&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;次回、後編では企業経営や会社の文化の側面から、なぜ設計上の問題や懸念が隠蔽され、結果としてこのような事故を起こすことになってしまったかを議論したいと思います。&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[92. アーリースタートアップのオフィス引っ越し]]></title>
+			<description><![CDATA[<p>AI系のコワーキングスペースに引っ越ししたこと、サンフランシスコのオフィス事情、米国の引っ越しについて話しました。</p>
+<ul>
+ <li>コワーキングスペースの様子 <a href="https://tomoima525.hatenablog.com/entry/2024/01/22/155121">https://tomoima525.hatenablog.com/entry/2024/01/22/155121</a></li>
+ <li>輪読会のときに出てきた論文 <a href="https://arxiv.org/abs/2307.14225">Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/92-e2f1aif</link>
+			<guid isPermaLink="false">ff25ae70-e78e-4371-b15b-e1cacbb428e4</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Mon, 29 Jan 2024 17:43:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/81881103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F81881103%2F0169eee302949bbadf8d0dccbc7902ab.m4a" length="26747660" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;AI系のコワーキングスペースに引っ越ししたこと、サンフランシスコのオフィス事情、米国の引っ越しについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;コワーキングスペースの様子 &lt;a href=&quot;https://tomoima525.hatenablog.com/entry/2024/01/22/155121&quot;&gt;https://tomoima525.hatenablog.com/entry/2024/01/22/155121&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;輪読会のときに出てきた論文 &lt;a href=&quot;https://arxiv.org/abs/2307.14225&quot;&gt;Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[91. LLMのアウトプット精度を上げるプロンプトテクニック]]></title>
+			<description><![CDATA[<p>LLMのアウトプットやパフォーマンスを向上するためのプロンプトテクニックについて学んだことを話しました。</p>
+<ul>
+ <li>Everything I’ll forget about prompting LLMs <a href="https://olickel.com/everything-i-know-about-prompting-llms">https://olickel.com/everything-i-know-about-prompting-llms</a></li>
+ <li>He created Stanford’s Deep Learning class. (Stack Overflow Podcast) <a href="https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i">https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i</a></li>
+  <li><a href="https://tomoima525.hatenablog.com/entry/2024/01/15/022908">プロンプトエンジニアリングってソフトウェア開発？と感じるあなたへ ~ LLM開発とソフトウェア開発の違いの話</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/91--LLM-e2el3ht</link>
+			<guid isPermaLink="false">6ef62223-81a1-4abf-9e6e-2b02db1f2732</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sun, 21 Jan 2024 00:15:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/81480701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F81480701%2Fe5473386e52cf9c15458760def01fe14.m4a" length="30163649" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;LLMのアウトプットやパフォーマンスを向上するためのプロンプトテクニックについて学んだことを話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Everything I’ll forget about prompting LLMs &lt;a href=&quot;https://olickel.com/everything-i-know-about-prompting-llms&quot;&gt;https://olickel.com/everything-i-know-about-prompting-llms&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;He created Stanford’s Deep Learning class. (Stack Overflow Podcast) &lt;a href=&quot;https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i&quot;&gt;https://open.spotify.com/episode/0R65mdJbashDQKpUJ6kX9i&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomoima525.hatenablog.com/entry/2024/01/15/022908&quot;&gt;プロンプトエンジニアリングってソフトウェア開発？と感じるあなたへ ~ LLM開発とソフトウェア開発の違いの話&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[90. “LeanとDevOpsの科学”を読み解く]]></title>
+			<description><![CDATA[<p>今回は「<a href="https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN">LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する</a>」という本で紹介されている、DevOps開発と組織やビジネスのパフォーマンスとの関係に関する研究結果についてについて話しました。</p>
+<ul>
+ <li><a href="https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN">LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する</a></li>
+ <li><a href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339">Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations</a></li>
+ <li>27 capabilities <a href="https://cloud.google.com/architecture/devops?hl=ja">https://cloud.google.com/architecture/devops?hl=ja</a></li>
+ <li><a href="https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/">https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">⁠https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/90--LeanDevOps-e2eappa</link>
+			<guid isPermaLink="false">3f44220f-e667-40eb-95e7-d9c41171f898</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Thu, 11 Jan 2024 20:11:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/81143018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F81143018%2F1acd02b8759447999dce3fa6c092a29c.m4a" length="28856931" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;今回は「&lt;a href=&quot;https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN&quot;&gt;LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する&lt;/a&gt;」という本で紹介されている、DevOps開発と組織やビジネスのパフォーマンスとの関係に関する研究結果についてについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Lean%E3%81%A8DevOps%E3%81%AE%E7%A7%91%E5%AD%A6%EF%BC%BBAccelerate%EF%BC%BD-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E5%A4%89%E9%9D%A9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07L2R3LTN&quot;&gt;LeanとDevOpsの科学［Accelerate］-テクノロジーの戦略的活用が組織変革を加速する&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339&quot;&gt;Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;27 capabilities &lt;a href=&quot;https://cloud.google.com/architecture/devops?hl=ja&quot;&gt;https://cloud.google.com/architecture/devops?hl=ja&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/&quot;&gt;https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;⁠https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[89. The Frugal Architect]]></title>
+			<description><![CDATA[<p>2023年11月のAWS re:Inventカンファレンスのキーノートで話された、The Frugal Architectをテーマに、倹約であるとはどういうことかについて話しました。</p>
+<ul>
+ <li><a href="https://thefrugalarchitect.com/">https://thefrugalarchitect.com/</a></li>
+ <li><a href="https://www.youtube.com/watch?v=UTRBVPvzt9w">re:Invent Keynote</a></li>
+</ul>
+<p>Your co-hosts:</p>
+<ul>
+  <li>Tomoaki Imai, Knot, inc CTO  <a href="https://twitter.com/tomoaki_imai">https://twitter.com/tomoaki_imai</a></li>
+  <li>Ryoichi Kato, Software Engineer <a href="https://twitter.com/ryo1kato">https://twitter.com/ryo1kato</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/89--The-Frugal-Architect-e2e3jjv</link>
+			<guid isPermaLink="false">dbad80e2-aefb-4102-b11f-8003a0123a42</guid>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
+			<pubDate>Sat, 06 Jan 2024 22:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/80907327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F80907327%2F9ebf0256b0f01d01b84d00290ddb7bca.m4a" length="29686507" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;2023年11月のAWS re:Inventカンファレンスのキーノートで話された、The Frugal Architectをテーマに、倹約であるとはどういうことかについて話しました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://thefrugalarchitect.com/&quot;&gt;https://thefrugalarchitect.com/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UTRBVPvzt9w&quot;&gt;re:Invent Keynote&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your co-hosts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tomoaki Imai, Knot, inc CTO  &lt;a href=&quot;https://twitter.com/tomoaki_imai&quot;&gt;https://twitter.com/tomoaki_imai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ryoichi Kato, Software Engineer &lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;https://twitter.com/ryo1kato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:30:35</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[88. 内向的な人のためのネットワーキングテクニック]]></title>
 			<description><![CDATA[<p>内向的な人が無理せずネットワーキングをするためのコツについて話しました</p>
@@ -39,7 +555,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/88-e2cpsoj</link>
 			<guid isPermaLink="false">28260285-e32f-4cdc-a9e5-e44feb9d0846</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 04 Dec 2023 21:32:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/79540435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F79540435%2Fa0bb87670382414d81c240a4f2a8106b.m4a" length="21525229" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;内向的な人が無理せずネットワーキングをするためのコツについて話しました&lt;/p&gt;
@@ -54,7 +570,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:22:10</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -74,7 +590,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/87--1LLM-e2bhoq1</link>
 			<guid isPermaLink="false">626747d2-520d-43ce-b90f-66ef08320073</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 06 Nov 2023 19:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/78225665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F78225665%2F14f699f4a29e901e86a3f7c2037153dc.m4a" length="31386905" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;LLMアプリケーション開発にどっぷりつかっているTomoがLLMアプリケーションでできること、ツール、ノウハウを話しました&lt;/p&gt;
@@ -92,7 +608,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:32:20</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -107,7 +623,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/86-e2b101l</link>
 			<guid isPermaLink="false">78ce0a08-c0a1-4b67-a412-4258e5f8d041</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 27 Oct 2023 20:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/77676021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F77676021%2F5c9f67f7b315c9b84029af0f674b1211.m4a" length="19888036" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;現在流行している、冷水浴やgratitude diaryなどのセルフケアハックについて話しました。&lt;/p&gt;
@@ -120,7 +636,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:20:29</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -134,7 +650,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/85-e2ab36g</link>
 			<guid isPermaLink="false">12665b53-b223-49bf-b23b-9a4f5d794aae</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 09 Oct 2023 17:24:50 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/76958352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F76958352%2F1139e96e78824b4d84ab38e8ab9623f5.m4a" length="25955003" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;世の中で幅広く使われている電子署名には、どのような技術が使われ、何に署名し、なぜ安全と言えるのかについて、Tomoができる限り頑張って説明してみました。&lt;/p&gt;
@@ -146,7 +662,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:26:44</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -165,7 +681,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/84-e29nsen</link>
 			<guid isPermaLink="false">7adb0e09-0233-46ea-83cc-f2f73f42f854</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 26 Sep 2023 00:21:13 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/76328855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F76328855%2Fe0d004aab80bb28e4871be82b6476777.m4a" length="20122598" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;物理学者ファインマンの提唱した学習方法を通じて、わからないことをわかることが大事だよねという話をしました&lt;/p&gt;
@@ -182,7 +698,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:20:44</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -197,7 +713,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/83--A-career-cold-start-algorithm-e29bl7e</link>
 			<guid isPermaLink="false">31799dfb-47a9-4bd1-87dc-faaf94cb5879</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 15 Sep 2023 22:18:08 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/75928238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F75928238%2F337d57545a40e3dec9111b10b4cedb96.m4a" length="16161820" type="audio/x-m4a"/>
 			<itunes:summary>&lt;li&gt;元記事 - &lt;a href=&quot;https://boz.com/articles/career-cold-start&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://boz.com/articles/career-cold-start&lt;/a&gt;&lt;/li&gt;
@@ -210,7 +726,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:16:39</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -229,7 +745,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/82-e27updq</link>
 			<guid isPermaLink="false">6efb9c2d-4b88-4563-8caf-2679bb26ab56</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 23 Aug 2023 04:09:37 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/74457978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F74457978%2F9bbf8311615561b8c736b9424936c566.m4a" length="16715098" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Amazon Prime Videoのストリーミング監視システムをマイクロサービスからモノリスに作り替えて90%コストを削減したというブログ記事を元に、我々がシステム設計において肝に命じるべきことについて話しました。&lt;/p&gt;
@@ -246,7 +762,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:17:13</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -259,7 +775,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/81--Optimization-e2859gl</link>
 			<guid isPermaLink="false">c37b7fbc-6fcb-474a-ac9f-6a7f59f2a8b9</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 16 Aug 2023 06:35:35 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/74671061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F74671061%2F2a4af952cf24ef888191b5a7d1a823a5.m4a" length="17681788" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Your co-hosts:&lt;/p&gt;
@@ -270,7 +786,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:18:13</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -288,7 +804,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/80--Mom-test-e27ruhd</link>
 			<guid isPermaLink="false">54798e98-8a96-40d6-9461-951bf2ba1ad9</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 08 Aug 2023 04:01:04 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/74364909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F74364909%2Fdeaedf69a85bd8617d2b8d6c2039f676.m4a" length="17207200" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;ユーザーインタビューにおいて効果的にインサイトを得るための手法であるMom testや、プロダクトが市場で勝つための条件などについて話しました&lt;/p&gt;
@@ -304,7 +820,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:17:43</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -322,7 +838,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/79-e27gm6t</link>
 			<guid isPermaLink="false">538c7db3-0c5e-4961-b250-e7e2e0560bf3</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 29 Jul 2023 21:28:18 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/73995933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F73995933%2F5d31bcc287e022812612a64aedecea3b.m4a" length="16753185" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;ベイエリアで痔になってしまい大変だった話や米国の医療制度の話をしました。&lt;/p&gt;
@@ -338,7 +854,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:17:15</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -355,7 +871,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/78-e25lfii</link>
 			<guid isPermaLink="false">ca0e8bf2-360e-41f6-a926-ea04f374af94</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 14 Jun 2023 00:13:19 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/72055826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F72055826%2F2410cbc132ffadf27a24595721668dec.m4a" length="20379961" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;インターネットのセキュリティやブロックチェーンの根幹をなす学問である暗号学を Cousera の提供するスタンフォード大学の講座でTomoが学び直したという話をしました。&lt;/p&gt;
@@ -370,7 +886,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:21:00</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -383,7 +899,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/77-e24c01u</link>
 			<guid isPermaLink="false">b57f287b-4bf3-4054-ba0a-dff0e615aeaa</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 20 May 2023 00:49:53 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/70696446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F70696446%2F09feee5aa092631d015632341fc6a308.m4a" length="23654792" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Your co-hosts:&lt;/p&gt;
@@ -394,7 +910,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:24:22</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -433,7 +949,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/76--SNSBluesky--Nostr--Mastodon--Farcaster-e23hgqq</link>
 			<guid isPermaLink="false">c60d9bc6-c705-48ed-93e4-723b720675e7</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 05 May 2023 13:35:44 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/69828890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F69828890%2F7ed938e5567055f041931e3fa9bd8b1d.m4a" length="23780218" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;いろいろな分散型SNSの仕組みや雰囲気について話しました&lt;/p&gt;
@@ -470,7 +986,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:24:30</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -489,7 +1005,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/75-e22eha1</link>
 			<guid isPermaLink="false">4635a1bd-effa-466c-b990-b54355dfe926</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 16 Apr 2023 04:40:03 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/68682497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F68682497%2F8a42a3f60bfb0e1f90e5905cb2044bd2.m4a" length="24569728" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;1日の生産性を左右する睡眠の最適化について話しました。&lt;/p&gt;
@@ -506,7 +1022,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:25:19</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -523,7 +1039,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/74-e20v7i5</link>
 			<guid isPermaLink="false">7bca610e-d346-474a-a98e-354b805d7109</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 23 Mar 2023 16:46:55 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/67132421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F67132421%2F39807dae3aa63230a3c3bab2bb88fad9.m4a" length="12917367" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;WBCで話題になった大谷選手の声がけについてストーリーテリングで分解していきました。&lt;/p&gt;
@@ -555,7 +1071,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/73-e202tem</link>
 			<guid isPermaLink="false">51814f67-1540-45c5-97e8-aec8cd91c2dc</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 08 Mar 2023 23:27:42 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/66204566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F66204566%2Fc8ff8488173d3073b18c46a1005841b6.m4a" length="29940413" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Reference:&lt;/p&gt;
@@ -587,7 +1103,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/72--AI-e1vifrd</link>
 			<guid isPermaLink="false">e40fe1c4-c6fb-44a4-b6b9-fcbd6933141e</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 26 Feb 2023 23:48:57 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/65666349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F65666349%2Fb9dd271b31854e9a35f19417026ef32d.m4a" length="18045637" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;開発でAIをどう活用しているか、将来開発者とAIの関わり合いがどうなるのか、便利な使い方などについて話しました。&lt;/p&gt;
@@ -616,7 +1132,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/71-e1v7o41</link>
 			<guid isPermaLink="false">da5e72ab-081a-4850-9115-6e5ec900f192</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 20 Feb 2023 02:32:50 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/65314369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F65314369%2F65b92862f7c4153a3c6b8e02f4cc19df.m4a" length="22674249" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;やっかいなバグのデバッグ方法について、長年の経験をもとに言語化を試みました。&lt;/p&gt;
@@ -642,7 +1158,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/70-e1uqfs5</link>
 			<guid isPermaLink="false">4253df99-1567-40b0-8a30-f08184a0aa2f</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 11 Feb 2023 18:35:23 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/64879941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F64879941%2Fa7d410858d5783fa846f9d6fec5e3ce5.m4a" length="23537839" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Constructive feedbackについて2人が考えていることを話しました。&lt;/p&gt;
@@ -672,7 +1188,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/69--2023-e1tqkr8</link>
 			<guid isPermaLink="false">01be82eb-fa20-4390-beda-01ad92645822</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 06 Feb 2023 06:12:43 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/63836456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F63836456%2F3f29c8f969d96827fc453b7dd1bfc11c.m4a" length="21797444" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;生活において継続していることや、やめたことについてお互い似紹介しました。&lt;/p&gt;
@@ -702,7 +1218,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/68-e1u181h</link>
 			<guid isPermaLink="false">21518094-2f75-4652-bb19-72f484639af0</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 26 Jan 2023 23:55:11 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/64052721/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F64052721%2F686cb7061b8c444b5e580cf2bcfb23b3.m4a" length="15893962" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;今回は米国におけるビザや永住権について話しました。どのようなビザがあり、どう取得するのがよいのか、実は日本人はビザ取得が有利、などについて話しました。&lt;/p&gt;
@@ -729,7 +1245,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/67-e1tqk6a</link>
 			<guid isPermaLink="false">958abd3e-94df-45b6-a321-862c83914fed</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 21 Jan 2023 23:00:07 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/63835786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F63835786%2Fafdc78144c91678653166f060fd31543.m4a" length="16745648" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Yusuke &amp;amp; Tomoakiでクオーターはじめのゴール設定をスタートアップ及び大きいテック企業でどのように行われているのかという話をしました。&lt;/p&gt;
@@ -767,7 +1283,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/66--2022-e1ssvp9</link>
 			<guid isPermaLink="false">6051796e-c71a-41ac-94a6-5e852d3d51ae</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 30 Dec 2022 12:32:27 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/62864617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F62864617%2F60ab18870af9feede442c0eeae296ac4.m4a" length="14821532" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Yusuke &amp;amp; Tomoakiでポッドキャストと自分たちの一年の振り返りをしました。&lt;/p&gt;
@@ -803,7 +1319,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/65-e1shpvq</link>
 			<guid isPermaLink="false">dbe28d74-432a-469e-ad7e-4406704a567f</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 21 Dec 2022 21:09:10 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/62498234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F62498234%2F82ae6c77ebffe11f11960ef3bc5c0ad6.m4a" length="9948484" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Your co-hosts:&lt;/p&gt;
@@ -833,7 +1349,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/64-e1r83ld</link>
 			<guid isPermaLink="false">69a49347-635e-4a23-a740-76b99fac7125</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 24 Nov 2022 21:59:13 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/61131885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-24%2F6182de51-7d75-2c3c-d2e7-8c2a09f78375.mp3" length="27584556" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;技術チームのリーダーが技術的に優れているべき理由や最近のTwitter社の動きなどについて話しました。&lt;/p&gt;
@@ -871,7 +1387,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/63-e1qhf4r</link>
 			<guid isPermaLink="false">73a0ca06-dc2e-40ef-8edf-9f2f9ea39c1b</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 10 Nov 2022 06:34:22 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/60389979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-10%2F5ef67c16-933d-eef1-b430-51f8f4602a80.mp3" length="31431264" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;最近感じたエンジニアとして役立っていることについてお話ししました。&lt;/p&gt;
@@ -908,7 +1424,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/62-e1pqn1p</link>
 			<guid isPermaLink="false">ba40192d-adf7-4235-bf50-6908d6bbc504</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 27 Oct 2022 04:18:23 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/59644409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2Fe885dd20-4583-2306-1841-4ac7ca8400c9.mp3" length="29174162" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;偽名経済の幕開けとNoxxの取り組みについて書いたブログをもとに、TomoがNoxxの仕組みや技術的な詳細を話しました。&lt;/p&gt;
@@ -943,7 +1459,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/61-e1ofuig</link>
 			<guid isPermaLink="false">6bb9b465-87b1-48fd-8bff-8753a47ae10c</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 28 Sep 2022 05:51:06 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/58243088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-28%2Fa6a49a74-95f5-e6ab-958d-adbb1cbd863e.mp3" length="19885512" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;“Creativity Faucet”という創造力を引き出すためのアイデアについて学びを共有しました。(本編は7分ごろから)&lt;/p&gt;
@@ -975,7 +1491,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/60--CTOTaishi-e1nvvvf</link>
 			<guid isPermaLink="false">dfc88245-1672-4d73-8ff2-399198b5f711</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 17 Sep 2022 18:50:31 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/57720239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-17%2F6ce60206-a2d1-c148-56b9-299cb1513f6f.mp3" length="53045544" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は &lt;a href=&quot;https://www.wafflejournal.com/&quot;&gt;Waffle&lt;/a&gt; の創業メンバーCTOであるTaishiさん (&lt;a href=&quot;https://twitter.com/taishi_yade&quot;&gt;@taishi_yade&lt;/a&gt;) をゲストにお招きして、毎月2万人以上が174ヶ国から利用する交換日記サービスWaffleを作るまでの話、CTOという立場で大変だった話、Waffleの技術的な話や採用について話しました。&lt;/p&gt;
@@ -1016,7 +1532,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/59--zkEVM-e1nfopi</link>
 			<guid isPermaLink="false">01d6e005-c300-44d0-a8a0-78059a31d50a</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 07 Sep 2022 00:03:13 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/57188594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-6%2F8419ca14-a194-b25b-dced-eeceda941e71.mp3" length="30753934" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Ethereumのスケーラビリティを補完する重要な技術と考えられているzkEVMについて、その技術的な仕組みや開発する各社の覇権争いについて話しました。&lt;/p&gt;
@@ -1059,7 +1575,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/58--WWDC-2022-e1mlcl2</link>
 			<guid isPermaLink="false">87b27667-0532-4f43-99f8-575ca56f0d32</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 19 Aug 2022 01:21:26 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/56324194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-18%2F4abd6642-3be3-7a30-97e9-2b85a8c9d938.mp3" length="31045872" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;WWDC 2022のPlatforms State of the UnionをベースにAppleの提供するプラットフォームのアップデートについてお話しました。&lt;/p&gt;
@@ -1091,7 +1607,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/57-e1lodo7</link>
 			<guid isPermaLink="false">7cce4fb2-2564-4790-b02e-846595fcb657</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 27 Jul 2022 18:44:54 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/55375047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F6f0d28da-d7f4-0919-4a2b-00447dab707b.mp3" length="36214536" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;ブロックチェーンでアプリを作る人向けの開発ステップガイドに関する記事を元に話をしました。&lt;/p&gt;
@@ -1130,7 +1646,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/56--mac-e1kv1hc</link>
 			<guid isPermaLink="false">07d53da7-3c0c-4c30-8543-5207e7652295</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 08 Jul 2022 02:43:17 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/54543340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F54543340%2F8fc38b2298b23cca5f6f11e1b7f9265f.m4a" length="33037711" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;mac のセットアップに関する記事を元に、生産性を向上するアプリやツールなどについて話しました。&lt;/p&gt;
@@ -1168,7 +1684,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/55--318-e1kfokj</link>
 			<guid isPermaLink="false">f9c1c341-4299-4a64-ba76-cae7540a8c21</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 27 Jun 2022 00:35:23 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/54042707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-26%2Ff91d0b83-cd01-47a2-6bce-6e7ff7458568.mp3" length="26313072" type="audio/mpeg"/>
 			<itunes:summary>&lt;ul&gt;
@@ -1201,7 +1717,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/54--GithubCTO-e1jqnku</link>
 			<guid isPermaLink="false">63562ac4-46a4-46c1-84a7-0b3fc79ce60f</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 12 Jun 2022 18:46:36 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/53353566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F53353566%2F542453282b5010f13f194299a9c3241d.m4a" length="28145977" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;元Github CTOへのインタビューを元に、視座の持ち方、技術への向き合い方などについて話しました。&lt;/p&gt;
@@ -1234,7 +1750,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/53--Get-your-work-recognized-write-a-brag-document-e1j36il</link>
 			<guid isPermaLink="false">8885e722-6c57-476b-94a8-5464ec484246</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 26 May 2022 16:07:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/52582421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-26%2F3cc0d1d6-b8dc-bb93-d49f-1d1c39f8ebde.mp3" length="25847472" type="audio/mpeg"/>
 			<itunes:summary>&lt;ul&gt;
@@ -1272,7 +1788,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/52-e1ho7b1</link>
 			<guid isPermaLink="false">d8b482b8-329b-459f-8177-2515d19ec128</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 27 Apr 2022 18:58:09 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/51174177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F51174177%2Fc8e2006ad2bfb4788e0d30502528dbe1.m4a" length="27483920" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;アムステルダムで開催されたブロックチェーンカンファレンスDevconnectについて、面白かった技術、プロダクト、学び、現地の様子について話しました。&lt;/p&gt;
@@ -1310,7 +1826,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/51--AmsterdamBigTech-e1h7emu</link>
 			<guid isPermaLink="false">f53a743a-948f-42c2-a62e-56188c4bb1fe</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 15 Apr 2022 22:54:46 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/50624670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F50624670%2F1e2f0493b5328c404560f6919227caf4.m4a" length="27840316" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Amsterdamでのカンファレンスの話、日本滞在の感想、学生のキャリア相談、インフラフレームワークのディレクションを決めるための試みなどについて話しました。&lt;/p&gt;
@@ -1349,7 +1865,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/50-e1g61jm</link>
 			<guid isPermaLink="false">fcf1bc5a-e698-4f12-8994-dbb517749c7e</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 24 Mar 2022 06:30:28 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/49529910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F49529910%2Fbcc7b850de8c60dea6dba8a5576ac38c.m4a" length="79534835" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;マンティ福原さん (&lt;a href=&quot;https://twitter.com/manty_fukuhara&quot;&gt;https://twitter.com/manty_fukuhara&lt;/a&gt;)をゲストに、筋肉について話しました。&lt;/p&gt;
@@ -1387,7 +1903,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/49--Amazon10-e1fklkj</link>
 			<guid isPermaLink="false">4f29cbf7-fc25-42e9-b1ca-ddd48981ea87</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 14 Mar 2022 07:43:56 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/48960595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F48960595%2F67c3baeb6950edf325abe2e946233a74.m4a" length="26950707" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;アマゾンを10ヶ月でやめた人の記事をベースに大きいテックカンパニーで働くことについて話しました。&lt;/p&gt;
@@ -1422,7 +1938,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/48--SWE-e1f92fv</link>
 			<guid isPermaLink="false">0e0ceead-8332-4c3e-861c-69e6c8cc4f21</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 05 Mar 2022 06:56:04 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/48580543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F48580543%2Ffcdf1bd83fd6e5f1021cb0074de3eac4.m4a" length="24291970" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;最近やっていることや面白かった本について話しました&lt;/p&gt;
@@ -1460,7 +1976,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/47-e1e10tc</link>
 			<guid isPermaLink="false">b0aa047c-520d-4aea-b041-0a8c72e0ca5f</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 06 Feb 2022 19:16:49 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/47268204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F47268204%2F227b6aab7d2778bd5982f6177bdec4b8.m4a" length="33631982" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;テック業界で働く人としてよりよい文章を書くコツについて話しました。&lt;/p&gt;
@@ -1499,7 +2015,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/46-e1diqpo</link>
 			<guid isPermaLink="false">42e7a79a-9900-4a11-8424-40024e658f83</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 29 Jan 2022 05:09:39 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/46803192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F46803192%2F9f07802fe76416b50dea328218e41417.m4a" length="29584123" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Tomo多忙につき新年あけましてだいぶ経ってしまったので、雑談回をしました。&lt;/p&gt;
@@ -1541,7 +2057,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/45--Year-end-review-2021-e1c6egj</link>
 			<guid isPermaLink="false">5cc505e3-efa9-491b-a19d-3992cc6049ce</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 27 Dec 2021 03:14:22 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/45348819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-27%2Faa01e4ad436fce64cef668c414962194.m4a" length="41611958" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;2021年を振り返ってよく聴かれた回や自分たちの学びが多かった回について話しました。&lt;/p&gt;
@@ -1581,7 +2097,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/44-e1bpqh5</link>
 			<guid isPermaLink="false">ae5e60f6-7610-4558-9efa-38e56997aeb9</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 17 Dec 2021 04:10:23 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/44935141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-17%2F73e5c0198dd8c1b782418f2fb0cf0eab.m4a" length="29061113" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;今回はHow to Build a Happy LifeというポッドキャストからHow to know you&apos;re lonelyというタイトルのエピソードについて話しました。&lt;/p&gt;
@@ -1621,7 +2137,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/43--NFT-e1agq5g</link>
 			<guid isPermaLink="false">eaae299c-182a-4e67-a5ba-f83f5dd8a38e</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 19 Nov 2021 18:00:24 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/43591280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-19%2Fe38820ca75363781c4a41b3cc9f6706e.m4a" length="44380793" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Takさん（&lt;a href=&quot;https://twitter.com/TakDefi&quot;&gt;@TakDefi&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/RealtyPnw&quot;&gt;@RealtyPnw&lt;/a&gt;）と一緒に暗号通貨や期待する技術、金融と決済の未来について話しました。&lt;/p&gt;
@@ -1662,7 +2178,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/42--SolanaTakTak-e1a5hl8</link>
 			<guid isPermaLink="false">ff54636d-d1e1-48f1-b76a-713ae6c7fc71</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 12 Nov 2021 18:39:06 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/43222120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fb3221f42-1ef8-7b73-6ede-573e7edce270.mp3" length="37988064" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はTakさん（&lt;a href=&quot;https://twitter.com/TakDefi&quot;&gt;@TakDefi&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/RealtyPnw&quot;&gt;@RealtyPnw&lt;/a&gt;）と一緒に仮想通貨について深掘りしました。&lt;/p&gt;
@@ -1698,7 +2214,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/41--NFT-e19jl8k</link>
 			<guid isPermaLink="false">2e792102-7820-4802-b5ba-844cfda45f2b</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 01 Nov 2021 06:38:18 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/42635988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-01%2F3cc28ce6d9c2f1ab88edce539418a313.m4a" length="35696986" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;前回から引き続き、ブログに書けなかった投資観点からの暗号通貨の話、post NFTブームにブロックチェーンの世界で何が来るかの話をしました。暗号通貨投資の話は非専門家によるものなので、必ず自己責任で調査してください。&lt;/p&gt;
@@ -1727,7 +2243,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/40---Solana--Q-and-A-e19cdh7</link>
 			<guid isPermaLink="false">16681a7b-4fe3-4bd4-869f-dc8da063e6fe</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 27 Oct 2021 06:30:57 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/42398695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-27%2F4acfadd5-0738-8484-6b5e-c10574aa6d0c.mp3" length="33664728" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今井さんが書いた「&lt;a href=&quot;https://tomoima525.hatenablog.com/entry/2021/10/21/161644&quot;&gt;ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの学習記録&lt;/a&gt;」という記事を元に疑問を聞いてみました。ブロックチェーンってトイプロダクトじゃないのか、エンジニア視点では何が見えるのか、エンジニアとしてどのような関わり方ができるのか、学習方などについて話をしました。&lt;/p&gt;
@@ -1771,7 +2287,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/39-e18n8ta</link>
 			<guid isPermaLink="false">30bd5011-4732-4fae-8d4d-945b16438c58</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 13 Oct 2021 06:59:38 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/41705834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-13%2F79610373e81fb6ac58c05d338362a77f.m4a" length="38827351" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;よく聴いているポッドキャスト、読んでいるブログ、見ているショーなどについて話しました。&lt;/p&gt;
@@ -1819,7 +2335,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/38-e181u2m</link>
 			<guid isPermaLink="false">cb72b506-44be-43ac-9f89-b65c5ad9e0a6</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 29 Sep 2021 06:36:41 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/41006614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-29%2F66bf0b8ad118f1076d44f9b74a8243e6.m4a" length="39146143" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Pushing through Frictionというプレゼンテーションを元に、開発チームにおける摩擦の気づき方、乗り越え方について話しました。&lt;/p&gt;
@@ -1860,7 +2376,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/37--Tsundoku-e16utfb</link>
 			<guid isPermaLink="false">0927b72e-4649-4cce-8bc3-44f508feb135</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 08 Sep 2021 06:05:14 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/39859115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-08%2F473b2940e8a15d82a79db7acf98bceef.m4a" length="33804616" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;とあるイタリア人ソフトウェアエンジニアの、Tsundokuに対する想いを書いたブログをもとに、積ん読している本やどうやって本を読んでいるかについて話しました。&lt;/p&gt;
@@ -1901,7 +2417,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/36-e164o9d</link>
 			<guid isPermaLink="false">d05b1677-c2a8-4c8a-881a-0f749dff8c17</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 25 Aug 2021 06:43:02 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/39001837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-25%2F5cdab1078525a46284b504c2433f67c9.m4a" length="36274818" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;匿名でも実名でもない、偽名性(pseudonymity)が仮想通貨市場において大きな役割を果たした話、これからの社会においてもたらす可能性やどう社会実装されるかについて話しました。&lt;/p&gt;
@@ -1917,7 +2433,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:37:22</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -1956,7 +2472,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/35--Ryoichi-Kato-e167v3f</link>
 			<guid isPermaLink="false">7d4be62a-d63b-48fc-8f46-c78c745041d9</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 21 Aug 2021 06:39:48 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/39107119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-21%2Fa0bdfbca9025dacde04f2d078f7862d2.m4a" length="40098516" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (&lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;https://twitter.com/ryo1kato&lt;/a&gt;)をゲストに、クレーンの話を筆頭に資格取得や、継続する習慣について話しました。&lt;/p&gt;
@@ -1993,7 +2509,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:19</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2016,7 +2532,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/34--Capacity-PlanningRyoichi-Kato-e15g2ac</link>
 			<guid isPermaLink="false">da1fe205-9a10-4702-b664-5445a39ebf8e</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 11 Aug 2021 21:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/38323980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-12%2F42f147ffa9a8cf8711bf8a747e36835c.m4a" length="33463766" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;ゲストのRyoichi Katoさん (&lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;https://twitter.com/ryo1kato&lt;/a&gt;)をゲストに、複雑なシステムを支えるCapacity Planningについてお話しました。&lt;/p&gt;
@@ -2037,7 +2553,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:34:29</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2060,7 +2576,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/33--AmazonRyoichi-Kato-e15g1gh</link>
 			<guid isPermaLink="false">e6f75b5f-c0cb-46fa-921d-0970fb5ae6a2</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 07 Aug 2021 17:49:34 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/38323153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-07%2F22c21e964aff18ad27e34e9c3b3fc358.m4a" length="42883687" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;資格マニア兼ソフトウェアエンジニアのRyoichi Katoさん (&lt;a href=&quot;https://twitter.com/ryo1kato&quot;&gt;https://twitter.com/ryo1kato&lt;/a&gt;)をゲストに、転職活動やAmazonでのカンパニーカルチャーについて話しました。&lt;/p&gt;
@@ -2081,7 +2597,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:44:11</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>33</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2106,7 +2622,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/32--Findy-e14gik9</link>
 			<guid isPermaLink="false">22397908-64cf-4602-bfa3-a4776b413003</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 15 Jul 2021 17:42:18 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/37292105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F4132f308-be7c-1b50-4285-fcadf54221b3.mp3" length="23449016" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はシリコンバレーで働くエンジニアのキャリア論というテーマでFindy社のイベントにゆうすけさんといまいが登壇した内容を編集したものをお送りします。&lt;/p&gt;
@@ -2128,7 +2644,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:52:54</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2147,7 +2663,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/31-e144400</link>
 			<guid isPermaLink="false">455fca2f-a21a-4789-9ca2-5b96aa4ac88a</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 08 Jul 2021 06:29:17 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/36883904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-8%2Fea20cad4-8aab-eacf-e7bb-64cb2fdfbf0f.mp3" length="18654548" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Information foraging – the tactics great developers use to find solutions(優れた開発者の解決方法を見つける戦略)というポッドキャストの内容をもとに情報探索するためのコツについて話しました。&lt;/p&gt;
@@ -2164,7 +2680,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:28:08</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2191,7 +2707,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/30--CS-e134kja</link>
 			<guid isPermaLink="false">62547967-4100-4ec7-837a-8241a8db398a</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 29 Jun 2021 22:59:06 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/35852330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-29%2F8ad33fa8-48d7-396d-06e7-9271234340ba.mp3" length="22288190" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、後編はコンピュータサイエンス大学院一年目の経験について話しました。全てがオンラインの中でも友達を作り、前向きに生活を楽しんでいる姿から学ぶものが多かったです。「難しく考えずやってみる」につきるとおもいます。&lt;/p&gt;
@@ -2216,7 +2732,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:27:09</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>30</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2253,7 +2769,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/29-e134g06</link>
 			<guid isPermaLink="false">3170fdbc-5fb3-4b2b-abb7-00b30c7095f5</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 20 Jun 2021 18:24:50 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/35847622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-29%2F16fbeab453d70213b9dde225436340d8.m4a" length="39277521" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;カリフォルニア大学の博士課程に在籍するカロリーナさんをゲストに、前編となる今回はコンピュータサイエンス大学院受験準備について話しました。留学や大学院受験に関して難しく考えすぎず挑戦してみることの大切さを学びました。どんな人でも挑戦できる道なんですね。&lt;/p&gt;
@@ -2287,7 +2803,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:40:28</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>29</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2306,7 +2822,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/28-----languishing-e12ppic</link>
 			<guid isPermaLink="false">5b827b33-bf5f-46ec-9ab1-c99d5f940593</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 16 Jun 2021 04:02:50 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/35496972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-15%2F6d49e358-9d5d-730f-4b9c-ee7d7ebcaa50.mp3" length="21678092" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;There’s a Name for the Blah You’re Feeling: It’s Called Languishing というNew York times の記事を元に、languishingへの対処方法やチームメンバーが languishingな状態に陥ったときにどうすればよいかということについて話しました。&lt;/p&gt;
@@ -2322,7 +2838,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:30:07</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2342,7 +2858,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/27-e11rb9t</link>
 			<guid isPermaLink="false">1b704284-ac47-4cb4-906e-4a45d7bc2c8c</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 31 May 2021 22:27:21 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/34499325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-30%2Fcddf232f-82c5-ae27-50d3-540550143d0e.mp3" length="23358838" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;3つのブログ記事を元に、良いコードレビューや悪いコードレビュー、どうやってレビューしているか、レビューでよく指摘されちゃうことなどについて話ました。&lt;/p&gt;
@@ -2360,7 +2876,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:40:39</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>27</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -2379,7 +2895,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/26--Chomp-CTO-Tomoaki-Imai-e11dc56</link>
 			<guid isPermaLink="false">5a3fed28-4bfb-4bf3-9bc3-fd5016dc5836</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 23 May 2021 05:59:30 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/34041446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-23%2Fb5555322-a289-2144-823f-f4da8e2f72ec.mp3" length="18668184" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は今井さんがゲストになりユウスケが気になっていることを聞きました。メルカリでのアメリカ進出、出産を含めたアメリカでの生活の話、ChompのCTOとしての話などを聞きました。&lt;a href=&quot;https://medium.com/@timawagner/tims-take-re-invent-2020-serverless-wishlist-7f0756da4cd0&quot;&gt;&lt;br&gt;
@@ -2394,7 +2910,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:25:28</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2416,7 +2932,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/25-e10pk4o</link>
 			<guid isPermaLink="false">8c0a22c0-b80d-4921-90a0-9bf0cee4fb81</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 13 May 2021 04:23:41 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/33394264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-13%2F41818735-b8f1-f750-a10b-9b0db65136b4.mp3" length="42349545" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はThe Past, Present, and Future of Serverless with Tim というポッドキャストをもとに、AWS Lamdbaを中心としたサーバレスアーキテクチャのこれまで、これからと現場での開発体験について話しました。&lt;/p&gt;
@@ -2436,7 +2952,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:01:43</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2456,7 +2972,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/24--10X-CTO10X-evassp</link>
 			<guid isPermaLink="false">171c1e21-e7d4-4dc2-9c1d-4cf82d73f998</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 27 Apr 2021 04:03:21 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/31863129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-21%2Fd703d1d7-5d91-3ae0-4b34-5ec3e4a70c72.mp3" length="20636451" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;株式会社10X CTOの石川さんをゲストに、10Xで使われているDart, Flutter, Kubernetesなどの技術について話しました。&lt;/p&gt;
@@ -2474,7 +2990,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:27:28</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2495,7 +3011,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/23--10X-CTO10XCTO-evaspp</link>
 			<guid isPermaLink="false">9acd8b16-1e50-4650-bf94-24351be12bb6</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 21 Apr 2021 06:34:45 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/31863033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-21%2F7c3ea9ad-349d-de91-6722-3259baf4c93f.mp3" length="46102080" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;株式会社10X CTOの石川さんをゲストに、10Xの開発組織やワークフロー、CTOとしての取り組み、マルチプレイヤーになるための心構えなどについて話しました。&lt;/p&gt;
@@ -2514,7 +3030,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:59:34</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2540,7 +3056,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/22-euno6o</link>
 			<guid isPermaLink="false">76108b20-f6f6-4495-a297-56ab6d64cf79</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 12 Apr 2021 05:05:26 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/31235736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-12%2F66df960d-2f61-519e-6ad6-88cb38041d43.mp3" length="19802129" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;iOSエンジニアの堤さんをゲストに、人生をコントロールするために身につけたこと、情報を発信することの意義について話しました。&lt;/p&gt;
@@ -2564,7 +3080,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:58</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2587,7 +3103,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/21-euarsh</link>
 			<guid isPermaLink="false">0b3ce20a-3cc1-4b56-ad5d-efbf4085fd6a</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 06 Apr 2021 22:16:34 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/30813521/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-06%2Fa94326296a373898e5df7ab79179e572.m4a" length="38135910" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;iOSエンジニアの堤さんをゲストに、前編となる今回はコミュニティを作ることや失敗に対する考え方などについて話しました。&lt;/p&gt;
@@ -2608,7 +3124,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:18</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2628,7 +3144,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/20--Git-rebase-eu0hs4</link>
 			<guid isPermaLink="false">41997851-0d76-42c2-a7bf-3fa1e8e8e406</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 01 Apr 2021 06:32:43 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/30475588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-1%2F8768c82a-5118-a0a5-c58f-29294c53774c.mp3" length="26267101" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Why you should stop using Git rebaseという記事を元に、Gitでのrebaseやmergeについて話しました。本編は11分23秒からです。&lt;/p&gt;
@@ -2646,7 +3162,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:33:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2666,7 +3182,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/19-esgrh1</link>
 			<guid isPermaLink="false">6a0d82f5-dc39-4ce3-b791-f6d957ae007f</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 14 Mar 2021 07:06:01 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/28912609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-14%2F71157e05-ddac-8179-2da6-599efb1f3c00.mp3" length="55887554" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Stop Nitpicking in Code Reviewsという記事を元に、コードレビューやその改善方法にについて話しました。本編は19分52秒からです。&lt;/p&gt;
@@ -2684,7 +3200,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:46:34</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>19</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2704,7 +3220,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/18-eqvg8l</link>
 			<guid isPermaLink="false">9372b2e6-3d14-45f6-9b74-8c5003974587</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sun, 28 Feb 2021 23:30:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/27295445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-28%2F8843e937-d8f0-b032-b84d-0095b7709874.mp3" length="18327463" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。後編となる今回はベイエリアに住むということ、個人開発におけるプロダクトの発想方法、自分の会社をもったときの採用試験について話しました。&lt;/p&gt;
@@ -2721,7 +3237,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:30:42</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2741,7 +3257,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/17-eqvf2l</link>
 			<guid isPermaLink="false">569903be-cbf9-4302-b77b-a20ab9e17cdb</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 24 Feb 2021 07:11:28 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/27294229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-24%2F72b68f3656da48e1336c523b59dfdf09.m4a" length="53508383" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;スマートニュースUSでバックエンドソフトウェアエンジニアをしている梅林さんのゲスト回です。前編となる今回はスマニューの開発体制、Push Notificationの開発、ソフトウェアエンジニアとしてのやりがい、技術力、深み、低レイヤーへのあこがれなどについて話しました。&lt;/p&gt;
@@ -2759,7 +3275,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:55:08</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2781,7 +3297,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/16--6-eq98pf</link>
 			<guid isPermaLink="false">02b8181c-b9cd-410e-9e24-636823b68151</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 12 Feb 2021 06:08:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/26566895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-11%2F823871b5-586c-afb0-b62e-2345712677e3.mp3" length="29279612" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はSoftware development topics I&apos;ve changed my mind on after 6 years in the industry というブログ記事をもとに、ソフトウェア開発におけるお互いの考え方の変遷について語り合いました。&lt;/p&gt;
@@ -2801,7 +3317,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:44:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2823,7 +3339,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/15-eq4r4b</link>
 			<guid isPermaLink="false">af2f1f40-ed16-4548-929b-09a03b9ba4b8</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 08 Feb 2021 23:21:42 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/26421835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2F5a5a7f0a-56b8-16e1-2a55-4439d35bc535.mp3" length="55464849" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はReverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccineという記事をもとに、新型コロナウイルスのワクチンのコードを読むというテーマについて話しました。&lt;/p&gt;
@@ -2843,7 +3359,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:46:13</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>15</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2865,7 +3381,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/14-eotcm8</link>
 			<guid isPermaLink="false">e63ee6cd-801d-4e56-8809-dc80c9f51466</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 15 Jan 2021 06:04:11 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/25129096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-13%2F709ccdea-7e11-3901-ba55-1516c0f3370b.mp3" length="25493985" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はブラウザ開発を手がけるPatricia Aasさんの、Reading Other People&apos;s Codeというプレゼンテーションをもとに、巨大なコードベースを読むための手法、心理的安全性と優れたチームについて話しました。&lt;/p&gt;
@@ -2884,7 +3400,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:38:35</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>14</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2908,7 +3424,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/13--UberiOS-eo7luc</link>
 			<guid isPermaLink="false">16c1d63b-7ac1-418f-a9bd-73488afd67d4</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 26 Dec 2020 04:53:20 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/24417676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-25%2F13bf2c0b-2da6-a320-5975-d6f17398eba4.mp3" length="33144081" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は The biggest engineering disaster I’ve ever had the misfortune of being involved in という元Uber社員の一連のツイートをもとに、iOSアプリケーションのリライトで技術的、組織的な問題やハイパーグロースにあるサービスを開発することについて話しました。&lt;/p&gt;
@@ -2929,7 +3445,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:00</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:season>13</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -2953,7 +3469,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/12--Katryo-on-AWS--Graduate-school-and-life-in-NY--Bay-Area-eo55bc</link>
 			<guid isPermaLink="false">5be6a4f1-cc68-489c-aa6c-72d9b0b76f20</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 23 Dec 2020 06:26:32 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/24335148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-23%2F2a397f04-89e9-fdc2-2657-d18764d53d95.mp3" length="36249031" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Katryoさん（@katryo）をゲストに迎え、開発に携わったAWS Glue DataBrew、USへの留学、就職活動、Amazon独特の面接やアメリカの生活について話をしました。&lt;/p&gt;
@@ -2974,7 +3490,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:56:13</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -2996,7 +3512,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/11--How-Big-Technical-Changes-Happen-at-Slack-enm4tm</link>
 			<guid isPermaLink="false">d207341a-c4f9-46dc-a83e-5250701e5f53</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Fri, 11 Dec 2020 21:12:57 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/23843190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2Fa5791aec-f7a3-ce99-e7c6-690e77e7fcb3.mp3" length="37355664" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は How Big Technical Changes Happen at Slack という記事をもとに、技術的変化をエンジニアとして、チームとして導入する手法やカルチャーづくりについて話しました。&lt;/p&gt;
@@ -3016,7 +3532,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:46:05</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>11</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3036,7 +3552,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/10--What-distinguishes-a-great-software-engineer-from-a-good-one-en6r42</link>
 			<guid isPermaLink="false">2231b7c7-8184-44f9-a80f-48eac4e61e1a</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 01 Dec 2020 19:10:04 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/23341634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-1%2F83f2b536-a975-32fd-1b97-da87940f3132.mp3" length="15540454" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回はWhat distinguishes a great software engineer from a good one? &lt;a href=&quot;https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons&quot;&gt;https://www.quora.com/What-distinguishes-a-great-software-engineer-from-a-good-one/answer/Russel-Simmons&lt;/a&gt; というQuora上の回答をベースに、良いソフトウェアエンジニアについて話をしました。&lt;/p&gt;
@@ -3053,7 +3569,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:23:33</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3074,7 +3590,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/9--200-OK--Error-handling-in-GraphQL-elolp9</link>
 			<guid isPermaLink="false">120f91b9-89c2-4c8d-be91-0e6751463944</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 10 Nov 2020 02:52:07 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/21828841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-29%2Ffc3c220b-8e5c-ddce-e54e-3459da75b0ef.mp3" length="23561128" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は 200 OK! Error handling in GraphQL &lt;a href=&quot;https://www.youtube.com/watch?v=RDNTP66oY2o&quot;&gt;https://www.youtube.com/watch?v=RDNTP66oY2o&lt;/a&gt; という動画をベースに、GraphQLにおけるエラーハンドリングの難しい部分やベストプラクティスについて話しました。&lt;/p&gt;
@@ -3092,7 +3608,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:30:52</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3119,7 +3635,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/8--Yuya-on-Shopify-plugins--Vercel-vs-Netlify--life-at-Vancouver-elreni</link>
 			<guid isPermaLink="false">51aea0d4-55c9-4577-be2f-6c087d0d121b</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 02 Nov 2020 23:38:40 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/21919922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2Fb498a39a-b6b7-5521-a574-74bc659a2a8d.mp3" length="23804765" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Yuyaさん（@van_sf_engineer）をゲストに迎え、Shopifyプラグイン, Vercel vs NetlifyやVancouverでの生活について話をしました。前編はエピソード8です。&lt;/p&gt;
@@ -3143,7 +3659,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>8</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3170,7 +3686,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/7--Yuya-on-developing-D2C-site-and-JamStack-elirmv</link>
 			<guid isPermaLink="false">d1b50e7a-f7bc-4414-b7e1-6e52249c43ae</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Mon, 26 Oct 2020 04:05:45 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/21638303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-26%2F8a751554-5ea0-8e31-0d35-b3d12e4c3720.mp3" length="21428365" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Yuyaさん（&lt;a href=&quot;Yuyaさん（@van_sf_engineer）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。 - ゲストのYuyaさん: [https://twitter.com/van_sf_engineer](https://twitter.com/van_sf_engineer) - Ramen Hero: [https://ramenhero.com/products](https://ramenhero.com/products) - Shopify Storefront API: [https://shopify.dev/docs/storefront-api](https://shopify.dev/docs/storefront-api) - JAMstack: [https://jamstack.org/](https://jamstack.org/) - Next.js: [https://nextjs.org/](https://nextjs.org/) - Netlify: [https://www.netlify.com/](https://www.netlify.com/) - データ分析に用いているRedash: [https://redash.io/](https://redash.io/) - Lambda cold start vs hot start: [https://www.serverless.com/blog/keep-your-lambdas-warm](https://www.serverless.com/blog/keep-your-lambdas-warm) - SPA → SSR → SSG → ISG。Single Page Application（一般的なReactアプリケーション）は表示が早い、SEOがダメ、動的。Server Side Renderingは最初の1ページを返す、SEOに良い、表示が遅い、動的。Static Site Generationは全ページをレンダリングする、SEOに良い、表示が早い、静的なので再ビルドが必要。Incremental Static Regenerationは全ページをレンダリング、SEOに良い、表示が早い、見かけは静的、裏側で動的なので再ビルドが必要ない。 - ウェブサイトの表示スピードとコンバージョンレートの話: [https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/](https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/) Your co-hosts: - Tomoaki Imai, Chomp CTO — 外食体験を記録、シェアできるソーシャルアプリChompを開発してます https://chomp.app/ https://twitter.com/tomoaki_ima - Yusuke Kawanabe, Software Engineer https://twitter.com/ykawanabe&quot;&gt;@van_sf_engineer&lt;/a&gt;）をゲストに迎え、D2Cウェブサイトの運営やJamStackについて話をしました。後編はエピソード8です。&lt;/p&gt;
@@ -3194,7 +3710,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:36:40</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -3218,7 +3734,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/6--The-Self-Taught-Engineers-Algorithm-Study-Plan-el6u3q</link>
 			<guid isPermaLink="false">1e428f70-0b15-4336-bf5f-8d35909de4d5</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 17 Oct 2020 20:58:16 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/21247546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2F3988bbbb-b758-506b-7248-d6920ad63e0b.mp3" length="21120660" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は The Self-Taught Engineer&apos;s Algorithm Study Plan &lt;a href=&quot;https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a&quot;&gt;https://dev.to/rmorabia/the-self-taught-engineer-s-algorithm-study-plan-472a&lt;/a&gt; という記事をベースに、USテック企業におけるコーディング面接やその勉強方法、コツについて話しました。&lt;/p&gt;
@@ -3240,7 +3756,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:31:18</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>6</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3266,7 +3782,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/5--Kazuki-Nishiura-on--Payment-Processor-OSS--DevOps-and-improving-credit-card-auth-rate-ekbqu0</link>
 			<guid isPermaLink="false">4d654419-e1f6-491f-b475-ba797e08ef5d</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Tue, 29 Sep 2020 23:06:55 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/20359552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-29%2Fc727a7d6-5575-8b0b-6f2c-055492c86563.mp3" length="16670413" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Nishiura Kazukiさん（&lt;a href=&quot;https://twitter.com/daisy1754&quot;&gt;@daisy1754&lt;/a&gt;）をゲストに迎え、Multi Payment Processor の OSS開発秘話、開発者用のVM環境を作った話、Credit card auth rateを改善する話をしました。前編はエピソード4です。&lt;/p&gt;
@@ -3289,7 +3805,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:31:44</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -3313,7 +3829,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/4-Kazuki-Nishiura-on-Google-Pay--Life-in-a-startup-and-Monorepo-migration-ek2icv</link>
 			<guid isPermaLink="false">ede6ad19-4f6e-4d0d-a723-db7f1e18988d</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Wed, 23 Sep 2020 18:04:30 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/20055903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-23%2F36b2a920-3e8d-4a34-de14-b82f643dc707.mp3" length="14517181" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Nishiura Kazukiさん（&lt;a href=&quot;https://twitter.com/daisy1754&quot;&gt;@daisy1754&lt;/a&gt;）をゲストに迎え、ペイメントテクノロジーや急成長したスタートアップでの開発の話などを伺いました。前編となる今回は、Google Pay、ベイエリアでのスタートアップの探し方、急拡大した企業の成長痛、ペイメントサービス、モノリポ移行について話しました。&lt;/p&gt;
@@ -3335,7 +3851,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:28:02</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3354,7 +3870,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/3--Thriving-on-the-Technical-Leadership-Path-ejo0ii</link>
 			<guid isPermaLink="false">53d8e4ad-b3f5-403e-a0cb-1f1ac8d3f19e</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 17 Sep 2020 06:34:38 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/19709970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-16%2Fdb3ca01c-d03f-d899-d07b-ed3a3203711f.mp3" length="20233200" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は「&lt;a href=&quot;https://keavy.com/work/thriving-on-the-technical-leadership-path/&quot;&gt;Thriving on the Technical Leadership Path&lt;/a&gt;」(技術的リーダーとして強く生き抜く)について話をしました。&lt;/p&gt;
@@ -3370,7 +3886,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:41</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3394,7 +3910,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/2-Language-server-protocol-ejkk2c</link>
 			<guid isPermaLink="false">1c7cb113-656f-4b9c-bd89-34fc83df6fd8</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Sat, 12 Sep 2020 20:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/19598860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-14%2F62afe7b0-af76-b60d-3141-f83fc5b83db4.mp3" length="20467315" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は「&lt;a href=&quot;https://nshipster.com/language-server-protocol/&quot;&gt;Language Server Protocol (NS Hipster)&lt;/a&gt;」について話をしました。&lt;/p&gt;
@@ -3415,7 +3931,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:26:08</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -3438,7 +3954,7 @@
 ]]></description>
 			<link>https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/1-Code-first-vs--schema-first-development-in-GraphQL-ejkkfg</link>
 			<guid isPermaLink="false">cdbb64d8-a7d0-4a41-8886-bedef1261d17</guid>
-			<dc:creator><![CDATA[Tomo and Yusuke ]]></dc:creator>
+			<dc:creator><![CDATA[Software Developers in SiliconValley]]></dc:creator>
 			<pubDate>Thu, 27 Aug 2020 20:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/367f0040/podcast/play/19599280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-14%2F40bc8ae9-de10-3448-f6aa-37a0bc6cd16d.mp3" length="41075132" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;今回は「Code-first vs. schema-first development in GraphQL」(https://blog.logrocket.com/code-first-vs-schema-first-development-graphql/) について話をしました。&lt;/p&gt;
@@ -3458,7 +3974,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:03</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9042928/9042928-1600111225862-83b3785abf05d.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg"/>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>

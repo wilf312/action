@@ -11,7 +11,7 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 			<link>https://twitter.com/Read_SRE_Again</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 06 Dec 2023 21:57:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Mar 2024 15:47:36 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/6233432c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Topotal]]></author>
 		<copyright><![CDATA[Topotal]]></copyright>
@@ -29,6 +29,94 @@ SRE を今から知りたい方はもちろん、SRE の基礎を改めて学び
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+		<item>
+			<title><![CDATA[もう一度読むSRE #88]]></title>
+			<description><![CDATA[<p>23.4.1 Multi-Paxos:詳細なメッセージフロー</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-88-e2gt94l</link>
+			<guid isPermaLink="false">b8d69eb0-c0c0-4ec7-b9fb-217537904a0f</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Mon, 11 Mar 2024 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/83845717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-11%2F0e734bb4-22bd-36ae-8b7c-5268d53de793.m4a" length="26888109" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;23.4.1 Multi-Paxos:詳細なメッセージフロー&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #87]]></title>
+			<description><![CDATA[<p>23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで<strong>
+</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-87-e2ffess</link>
+			<guid isPermaLink="false">a8b11d00-c403-490f-9e35-1177564c9d06</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 07 Feb 2024 05:02:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/82344284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-7%2F90729add-4cd2-ade1-bbba-7300c7627aef.m4a" length="28829198" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #86]]></title>
+			<description><![CDATA[<p>23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで
+<strong>
+</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-86-e2f5o7h</link>
+			<guid isPermaLink="false">dd47ed25-6e24-4770-8f18-12bbef2c3702</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 31 Jan 2024 04:28:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/82026161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-31%2F750dfb74-3f29-d702-43a2-05d16dff6a85.m4a" length="21316909" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:21:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #85]]></title>
+			<description><![CDATA[<p>23.3 分散合意のためのシステムアーキテクチャパターン から 23.3.2 信頼性を持つ複製データストア及び設定ストアまで
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-85-e2eqori</link>
+			<guid isPermaLink="false">6bae176a-5f01-4ae1-96c1-9ff50cee2bd9</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Wed, 24 Jan 2024 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/81666354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2F4250aeae-6443-ef45-65a9-357ca3641e4a.m4a" length="34117216" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;23.3 分散合意のためのシステムアーキテクチャパターン から 23.3.2 信頼性を持つ複製データストア及び設定ストアまで
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[もう一度読むSRE #84]]></title>
+			<description><![CDATA[<p>23.2 分散合意の動作 から 23.2.1 Paxosの概要: サンプルプロトコル まで</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-84-e2dl62a</link>
+			<guid isPermaLink="false">c0dcff0d-4f6c-4f3a-9b84-dfde73ef8e0d</guid>
+			<dc:creator><![CDATA[Topotal]]></dc:creator>
+			<pubDate>Mon, 25 Dec 2023 10:05:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/6233432c/podcast/play/80434698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-25%2Fa60315b2-1cf0-68ab-53ac-e551e62bd1b1.m4a" length="44892416" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;23.2 分散合意の動作 から 23.2.1 Paxosの概要: サンプルプロトコル まで&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:46:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[もう一度読むSRE #83]]></title>
 			<description><![CDATA[<p>23.1 合意を利用する目的:分散システムの協調障害 から 23.1.3 ケーススタディ 3:問題のあるグループメンバーシップアルゴリズム まで<strong>

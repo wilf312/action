@@ -11,7 +11,7 @@
 			<link>https://neuroradio.tokyo</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 06 Dec 2023 11:57:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 18 Mar 2024 10:00:43 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/4ddf5488/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[NeuroRadio]]></author>
 		<copyright><![CDATA[NeuroRadio]]></copyright>
@@ -31,6 +31,754 @@
 			<itunes:category text="Life Sciences"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+		<item>
+			<title><![CDATA[#72 Collaborative professionalism in neuroscience]]></title>
+			<description><![CDATA[<p>北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)</p>
+<p><br></p>
+<p>Show Notes (<a href="https://neuroradio.tokyo/2024/02/20/72-collaborative-professionalism-in-neuroscience/" target="_blank" rel="noopener noreferer">完全版</a>):</p>
+<ul>
+ <li><a href="https://www.tatsuookubo.com/japanese.html">大久保さん個人HP</a></li>
+ <li><a href="https://harveylab.hms.harvard.edu/">吉良さん</a>@Chris Harvey Lab</li>
+  <li><a href="https://www.keisu.t.u-tokyo.ac.jp/outline/about/">計数工学科</a></li>
+  <li><a href="https://feelaboratory.org/">Michael Fee lab</a></li>
+  <li><a href="https://www.nature.com/articles/nature15741">FeeラボでのNature論文</a></li>
+  <li>の<a href="https://first.lifesciencedb.jp/archives/12002">日本語版解説</a></li>
+  <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30108-8">FeeラボでのNeuron論文</a></li>
+  <li>の<a href="https://first.lifesciencedb.jp/archives/12565">日本語版解説</a></li>
+  <li><a href="https://wilson.hms.harvard.edu/">Rachel Wilson lab</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0896627320304761">Neuron論文</a></li>
+  <li>Pattern RecognitionとMachine Learning (<a href="https://www.maruzen-publishing.co.jp/item/b294524.html">PRML</a>)</li>
+  <li><a href="https://www.ohmsha.co.jp/book/9784274131493/">パターン認識の教科書の表紙</a></li>
+  <li><a href="https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/">Parallel Distributed Processing (PDP)</a>: 並列分散処理で認知機能を説明しようとする1980年代に流行ったUCSDを中心とする認知科学のグループ。</li>
+  <li><a href="https://en.wikipedia.org/wiki/Paul_Churchland">Paul Churchland</a> の本<a href="https://mitpress.mit.edu/9780262531429/the-engine-of-reason-the-seat-of-the-soul/">The Engine of Reason, the Seat of the Soul</a></li>
+  <li><a href="https://patriciachurchland.com/">Patricia Churchland</a></li>
+  <li><a href="https://churchland.zuckermaninstitute.columbia.edu/people/mark-m-churchland">Mark Churchland</a></li>
+  <li><a href="https://churchlandlab.dgsom.ucla.edu/pages/">Anne Churchland</a></li>
+  <li><a href="https://www.salk.edu/scientist/terrence-sejnowski/">Terrence Sejnowski</a></li>
+  <li><a href="https://mitpress.mit.edu/9780262531207/the-computational-brain/">The Computational Brain</a></li>
+  <li><a href="https://www.aronovlab.com/">Dmitriy Aronov</a>の<a href="https://www.science.org/doi/10.1126/science.1155140">Science論文</a>（HVC破壊してもSubsongは残る）</li>
+  <li><a href="https://www.cosyne.org/">COSYNE</a></li>
+  <li><a href="https://www.nature.com/articles/nature07448">Temperatureのやつ</a></li>
+  <li><a href="https://academic.oup.com/ilarjournal/article/51/4/362/676057">鳥の歌生成に関わる脳領域、RA、HVC、LMAN の関連など</a></li>
+  <li><a href="https://sites.google.com/view/goldberg-lab/home">Jesse Goldberg</a>の<a href="https://www.science.org/doi/abs/10.1126/science.aah6837">DopamineがPerformance errorをコードしている論文</a></li>
+  <li><a href="https://elifesciences.org/articles/77262">親の歌を聴かせなかった時のHVCのシーケンス活動</a></li>
+  <li><a href="https://www.nature.com/articles/s41592-023-01806-1">Galen達がミニスコープを作ってカルシウムイメージングを始める</a></li>
+  <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(08)00031-7">Genetic Dissectionのレビュー論文</a> 2008</li>
+  <li><a href="https://www.nature.com/articles/nature09559">Andreas Luthi</a>と<a href="https://www.nature.com/articles/nature09553"> David Anderson</a> のb2b 2010</li>
+  <li>ハエはニューロンが個体を越えてIdentifiable: 仕事としては<a href="https://www.nature.com/articles/nn.3741">逃避を司るgiant fiber interneuron</a>というのが古くから知られていて一番有名ですが、このニューロンは巨大なので例外で、ほとんどのタイプはsplit-Gal4のラインが整備されて以降（ここ10年）解析できるようなってきました。以下の仕事が代表的な例として挙げられます。</li>
+</ul>
+<ul>
+<ul>
+  <li>麻生さんのキノコ体の<a href="https://elifesciences.org/articles/04577">神経解剖</a>、<a href="https://elifesciences.org/articles/04580">光遺伝学</a>の仕事</li>
+  <li><a href="https://elifesciences.org/articles/34272">並木さんの下降性ニューロンの仕事</a></li>
+</ul>
+</ul>
+<ul>
+  <li>実際split-Gal4作りがうまくいくと（２つのGal4ラインのうまい組み合わせが見つかると）、麻生さんの論文のFig. 2のように左右に一つずつあるニューロンが綺麗に取れてきます。一旦split-Gal4ラインができてしまえば、GFPを発現させてパッチしたり、オプトで活動を操作したりと、単一ニューロンレベルで解析できるのが良いところです。もちろん一つのセルタイプに複数のニューロンがあることもあるので、その場合は同じセルタイプ内では区別はできませんが（大久保）</li>
+  <li>ちなみに<a href="https://www.youtube.com/watch?v=_zRmXj5YVpU">このビデオ</a>がhemibrainというEMのデータから再構築されたニューロンのギャラリーで、一個のcell typeに名前がついていて、ユニークな形をしているのが分かりやすいと思います。このユニークな形のおかげで、EMのデータとsplit-Gal4を作る際に撮った光学顕微鏡のデータのマッチングは非常にうまくいっていて、同じニューロンを両方のデータで見つけられます（大久保）</li>
+  <li><a href="https://www.nature.com/articles/nature15396">髭さんのキノコ体の電気生理の仕事</a></li>
+  <li><a href="https://elifesciences.org/articles/34272">並木さんの下降性ニューロンの仕事</a></li>
+  <li>ハエのConnectome論文<a href="https://elifesciences.org/articles/57443"> Central Brain</a><a href="https://www.science.org/doi/10.1126/science.add9330"> Whole Brain</a></li>
+  <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30264-1">大学院生がやった行動実験の仕事（嗅覚と風を検知する機械受容覚にコンフリクトがあった場合、機械受容覚に従う）</a></li>
+  <li><a href="https://www.janelia.org/lab/jayaraman-lab">Vivek Jarayaman</a></li>
+  <li>の<a href="https://www.nature.com/articles/nature14446">仕事</a></li>
+  <li><a href="https://www.nature.com/articles/nn.2376">ハエDual Patch</a>, 隣の大学院生がやった運動に関するニューロンのdual patchの<a href="https://www.biorxiv.org/content/10.1101/2020.04.04.024703v2.full">仕事</a></li>
+  <li><a href="https://www.nature.com/articles/nn.3613">ハエのTriple Patch</a>: このWilson研の大学院生の仕事のFig. 4ではシナプス結合している３つのニューロンからのin vivo同時記録という超絶技巧あり！</li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/2024.01.09.574419v1">Janeliaがハエのラインをリリースした（Split-Gal4）</a></li>
+  <li><a href="https://kazamalab.riken.jp/index_jp.html">風間さん</a></li>
+  <li><a href="https://regehr.med.harvard.edu/index.html">Wade Regehr</a></li>
+  <li><a href="https://sabatini.hms.harvard.edu/">Bernardo Sabatini</a></li>
+  <li><a href="https://harveylab.hms.harvard.edu/">Chris Harvey</a></li>
+  <li><a href="https://greenberg.hms.harvard.edu/">Michael Greenberg</a></li>
+  <li><a href="https://www.cibr.ac.cn/about/generalization?language=en">北京脳科学研究所の組織図</a></li>
+  <li><a href="https://web.archive.org/web/20170108141048/https://courses.cit.cornell.edu/bionb4240/Readings/Konishi_scientificamerican0493-66.pdf">メンフクロウの音源定位のレビュー</a> この頃のScientific Americanは分野の第一人者が平易な文と分かりやすい図でレビューを書いており、素晴らしいです。</li>
+  <li><a href="https://www.jneurosci.org/content/39/46/9053">鳥と哺乳類で音源定位の神経回路は似ているか？</a></li>
+  <li><a href="https://www.caltech.edu/about/news/mark-konishi-renowned-neuroethologist-dies-87">小西正一先生のobituary</a></li>
+  <li><a href="https://web.mit.edu/wilsonlab/">Matt Wilson</a></li>
+  <li><a href="https://alleninstitute.org/person/josh-siegle/">Josh (Siegle)</a></li>
+  <li><a href="https://cibr.ac.cn/Recruitment/otherPositions/detail/822?language=en">CIBRでのPI公募</a></li>
+  <li><a href="https://www.thetransmitter.org/systems-neuroscience/why-and-how-we-need-to-professionalize-neuroscience/">The Transmitterの神経科学における専業に関するオピニオン記事</a></li>
+  <li><a href="https://www.janelia.org/lab/voigts-lab">Jakob Voigts</a></li>
+  <li><a href="https://open-ephys.org/">Open Ephys</a></li>
+  <li><a href="https://github.com/DeepLabCut">DeepLabCut (DLC)</a></li>
+  <li><a href="https://wyss.harvard.edu/team/advanced-technology-team/">Advanced Technology Team</a></li>
+  <li><a href="https://iac.hms.harvard.edu/">Image Analysis Collaboratory</a> @ HMS</li>
+  <li><a href="https://en.wikipedia.org/wiki/Institutional_memory">Institutional Knowledge</a></li>
+  <li><a href="https://instrumentation.hms.harvard.edu/ric-home">Instrumentation Core @ HMS</a></li>
+  <li><a href="https://instrumentation.cibr.ac.cn/english.php/Index/index.html">北京脳科学研究所のInstrumentation Core</a></li>
+  <li><a href="https://aquineuro.eu/en/">AquiNeuro</a></li>
+  <li><a href="https://www.bordeaux-neurocampus.fr/en/staff/cyril-herry/">Cyril Herry</a></li>
+  <li><a href="https://www.fixstars.com/ja">Fixstars</a></li>
+  <li><a href="https://alleninstitute.org/division/neural-dynamics/openscope/">OpenScope</a></li>
+  <li><a href="https://alleninstitute.org/person/jerome-lecoq/">Jérôme Lecoq</a></li>
+  <li><a href="https://pyramidal.stanford.edu/">Mark Schinitzer</a></li>
+  <li><a href="https://www.nature.com/articles/s41586-023-06714-0">異なる個体においてもニューロンの集団活動のダイナミクスが似ている</a></li>
+  <li><a href="https://segment-anything.com/">Segment Anything</a> (Zero-shotで画像のセグメンテーションを行うモデルの例）</li>
+  <li><a href="https://arxiv.org/abs/1605.03170">DeeperCut</a></li>
+</ul>
+<p><br></p>
+<p>Editorial Notes</p>
+<ul>
+  <li>この度は貴重な機会を頂き、有難うございました！過去のNeuroRadioのゲストの方の中には一緒に語り合った仲間も多く、こういった形で近況アップデートできて良かったです。自分は、様々なタイプの科学者のちょっとした出来事に垣間見られる「現場でのプロフェッショナリズム」に大きく影響を受けてきました。そういった学会発表や論文からはなかなか見ることのできない科学者の人物像に関するエピソードを盛り込むようにしましたが、少しでも雰囲気が伝われば幸いです。後半の神経科学におけるコラボレーションの議論では、Allen InstituteやWyss Instituteでの様子も聞けて、色々と参考になりました。 (大久保)</li>
+  <li>自分もなるべく生データに近い所で働きたいです。新しい研究所で新しいキャリアの在り方を作るのは大変そうですがハマれば理想的ですね (宮脇)</li>
+  <li>生理実験がまあまあ得意、というのに要所要所で支えられてきましたが、実験はできるだけ早く引退したい…(とはいえ解析だけで生きていけるほど解析能力が高くないのであった) (萩原)</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/neuroradio/episodes/72-Collaborative-professionalism-in-neuroscience-e2fvags</link>
+			<guid isPermaLink="false">afe2e6fb-9b2e-4259-813e-209d3b915e40</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Tue, 20 Feb 2024 01:18:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/82864092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2F3444eb4a-ffd9-e29e-1c44-5a2e1ea40526.mp3" length="194778594" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Show Notes (&lt;a href=&quot;https://neuroradio.tokyo/2024/02/20/72-collaborative-professionalism-in-neuroscience/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;完全版&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.tatsuookubo.com/japanese.html&quot;&gt;大久保さん個人HP&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://harveylab.hms.harvard.edu/&quot;&gt;吉良さん&lt;/a&gt;@Chris Harvey Lab&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.keisu.t.u-tokyo.ac.jp/outline/about/&quot;&gt;計数工学科&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://feelaboratory.org/&quot;&gt;Michael Fee lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature15741&quot;&gt;FeeラボでのNature論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の&lt;a href=&quot;https://first.lifesciencedb.jp/archives/12002&quot;&gt;日本語版解説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/neuron/fulltext/S0896-6273(16)30108-8&quot;&gt;FeeラボでのNeuron論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の&lt;a href=&quot;https://first.lifesciencedb.jp/archives/12565&quot;&gt;日本語版解説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wilson.hms.harvard.edu/&quot;&gt;Rachel Wilson lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0896627320304761&quot;&gt;Neuron論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pattern RecognitionとMachine Learning (&lt;a href=&quot;https://www.maruzen-publishing.co.jp/item/b294524.html&quot;&gt;PRML&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ohmsha.co.jp/book/9784274131493/&quot;&gt;パターン認識の教科書の表紙&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/&quot;&gt;Parallel Distributed Processing (PDP)&lt;/a&gt;: 並列分散処理で認知機能を説明しようとする1980年代に流行ったUCSDを中心とする認知科学のグループ。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Churchland&quot;&gt;Paul Churchland&lt;/a&gt; の本&lt;a href=&quot;https://mitpress.mit.edu/9780262531429/the-engine-of-reason-the-seat-of-the-soul/&quot;&gt;The Engine of Reason, the Seat of the Soul&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://patriciachurchland.com/&quot;&gt;Patricia Churchland&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://churchland.zuckermaninstitute.columbia.edu/people/mark-m-churchland&quot;&gt;Mark Churchland&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://churchlandlab.dgsom.ucla.edu/pages/&quot;&gt;Anne Churchland&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.salk.edu/scientist/terrence-sejnowski/&quot;&gt;Terrence Sejnowski&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mitpress.mit.edu/9780262531207/the-computational-brain/&quot;&gt;The Computational Brain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aronovlab.com/&quot;&gt;Dmitriy Aronov&lt;/a&gt;の&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1155140&quot;&gt;Science論文&lt;/a&gt;（HVC破壊してもSubsongは残る）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cosyne.org/&quot;&gt;COSYNE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature07448&quot;&gt;Temperatureのやつ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academic.oup.com/ilarjournal/article/51/4/362/676057&quot;&gt;鳥の歌生成に関わる脳領域、RA、HVC、LMAN の関連など&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/goldberg-lab/home&quot;&gt;Jesse Goldberg&lt;/a&gt;の&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.aah6837&quot;&gt;DopamineがPerformance errorをコードしている論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elifesciences.org/articles/77262&quot;&gt;親の歌を聴かせなかった時のHVCのシーケンス活動&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41592-023-01806-1&quot;&gt;Galen達がミニスコープを作ってカルシウムイメージングを始める&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/neuron/fulltext/S0896-6273(08)00031-7&quot;&gt;Genetic Dissectionのレビュー論文&lt;/a&gt; 2008&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature09559&quot;&gt;Andreas Luthi&lt;/a&gt;と&lt;a href=&quot;https://www.nature.com/articles/nature09553&quot;&gt; David Anderson&lt;/a&gt; のb2b 2010&lt;/li&gt;
+  &lt;li&gt;ハエはニューロンが個体を越えてIdentifiable: 仕事としては&lt;a href=&quot;https://www.nature.com/articles/nn.3741&quot;&gt;逃避を司るgiant fiber interneuron&lt;/a&gt;というのが古くから知られていて一番有名ですが、このニューロンは巨大なので例外で、ほとんどのタイプはsplit-Gal4のラインが整備されて以降（ここ10年）解析できるようなってきました。以下の仕事が代表的な例として挙げられます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;麻生さんのキノコ体の&lt;a href=&quot;https://elifesciences.org/articles/04577&quot;&gt;神経解剖&lt;/a&gt;、&lt;a href=&quot;https://elifesciences.org/articles/04580&quot;&gt;光遺伝学&lt;/a&gt;の仕事&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elifesciences.org/articles/34272&quot;&gt;並木さんの下降性ニューロンの仕事&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;実際split-Gal4作りがうまくいくと（２つのGal4ラインのうまい組み合わせが見つかると）、麻生さんの論文のFig. 2のように左右に一つずつあるニューロンが綺麗に取れてきます。一旦split-Gal4ラインができてしまえば、GFPを発現させてパッチしたり、オプトで活動を操作したりと、単一ニューロンレベルで解析できるのが良いところです。もちろん一つのセルタイプに複数のニューロンがあることもあるので、その場合は同じセルタイプ内では区別はできませんが（大久保）&lt;/li&gt;
+  &lt;li&gt;ちなみに&lt;a href=&quot;https://www.youtube.com/watch?v=_zRmXj5YVpU&quot;&gt;このビデオ&lt;/a&gt;がhemibrainというEMのデータから再構築されたニューロンのギャラリーで、一個のcell typeに名前がついていて、ユニークな形をしているのが分かりやすいと思います。このユニークな形のおかげで、EMのデータとsplit-Gal4を作る際に撮った光学顕微鏡のデータのマッチングは非常にうまくいっていて、同じニューロンを両方のデータで見つけられます（大久保）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature15396&quot;&gt;髭さんのキノコ体の電気生理の仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elifesciences.org/articles/34272&quot;&gt;並木さんの下降性ニューロンの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ハエのConnectome論文&lt;a href=&quot;https://elifesciences.org/articles/57443&quot;&gt; Central Brain&lt;/a&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.add9330&quot;&gt; Whole Brain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/neuron/fulltext/S0896-6273(16)30264-1&quot;&gt;大学院生がやった行動実験の仕事（嗅覚と風を検知する機械受容覚にコンフリクトがあった場合、機械受容覚に従う）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.janelia.org/lab/jayaraman-lab&quot;&gt;Vivek Jarayaman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の&lt;a href=&quot;https://www.nature.com/articles/nature14446&quot;&gt;仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.2376&quot;&gt;ハエDual Patch&lt;/a&gt;, 隣の大学院生がやった運動に関するニューロンのdual patchの&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2020.04.04.024703v2.full&quot;&gt;仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.3613&quot;&gt;ハエのTriple Patch&lt;/a&gt;: このWilson研の大学院生の仕事のFig. 4ではシナプス結合している３つのニューロンからのin vivo同時記録という超絶技巧あり！&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.01.09.574419v1&quot;&gt;Janeliaがハエのラインをリリースした（Split-Gal4）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kazamalab.riken.jp/index_jp.html&quot;&gt;風間さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://regehr.med.harvard.edu/index.html&quot;&gt;Wade Regehr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sabatini.hms.harvard.edu/&quot;&gt;Bernardo Sabatini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://harveylab.hms.harvard.edu/&quot;&gt;Chris Harvey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://greenberg.hms.harvard.edu/&quot;&gt;Michael Greenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cibr.ac.cn/about/generalization?language=en&quot;&gt;北京脳科学研究所の組織図&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20170108141048/https://courses.cit.cornell.edu/bionb4240/Readings/Konishi_scientificamerican0493-66.pdf&quot;&gt;メンフクロウの音源定位のレビュー&lt;/a&gt; この頃のScientific Americanは分野の第一人者が平易な文と分かりやすい図でレビューを書いており、素晴らしいです。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jneurosci.org/content/39/46/9053&quot;&gt;鳥と哺乳類で音源定位の神経回路は似ているか？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.caltech.edu/about/news/mark-konishi-renowned-neuroethologist-dies-87&quot;&gt;小西正一先生のobituary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.mit.edu/wilsonlab/&quot;&gt;Matt Wilson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/person/josh-siegle/&quot;&gt;Josh (Siegle)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cibr.ac.cn/Recruitment/otherPositions/detail/822?language=en&quot;&gt;CIBRでのPI公募&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thetransmitter.org/systems-neuroscience/why-and-how-we-need-to-professionalize-neuroscience/&quot;&gt;The Transmitterの神経科学における専業に関するオピニオン記事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.janelia.org/lab/voigts-lab&quot;&gt;Jakob Voigts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-ephys.org/&quot;&gt;Open Ephys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/DeepLabCut&quot;&gt;DeepLabCut (DLC)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wyss.harvard.edu/team/advanced-technology-team/&quot;&gt;Advanced Technology Team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iac.hms.harvard.edu/&quot;&gt;Image Analysis Collaboratory&lt;/a&gt; @ HMS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Institutional_memory&quot;&gt;Institutional Knowledge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instrumentation.hms.harvard.edu/ric-home&quot;&gt;Instrumentation Core @ HMS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instrumentation.cibr.ac.cn/english.php/Index/index.html&quot;&gt;北京脳科学研究所のInstrumentation Core&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aquineuro.eu/en/&quot;&gt;AquiNeuro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bordeaux-neurocampus.fr/en/staff/cyril-herry/&quot;&gt;Cyril Herry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fixstars.com/ja&quot;&gt;Fixstars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/division/neural-dynamics/openscope/&quot;&gt;OpenScope&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/person/jerome-lecoq/&quot;&gt;Jérôme Lecoq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pyramidal.stanford.edu/&quot;&gt;Mark Schinitzer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-023-06714-0&quot;&gt;異なる個体においてもニューロンの集団活動のダイナミクスが似ている&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://segment-anything.com/&quot;&gt;Segment Anything&lt;/a&gt; (Zero-shotで画像のセグメンテーションを行うモデルの例）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1605.03170&quot;&gt;DeeperCut&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Editorial Notes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;この度は貴重な機会を頂き、有難うございました！過去のNeuroRadioのゲストの方の中には一緒に語り合った仲間も多く、こういった形で近況アップデートできて良かったです。自分は、様々なタイプの科学者のちょっとした出来事に垣間見られる「現場でのプロフェッショナリズム」に大きく影響を受けてきました。そういった学会発表や論文からはなかなか見ることのできない科学者の人物像に関するエピソードを盛り込むようにしましたが、少しでも雰囲気が伝われば幸いです。後半の神経科学におけるコラボレーションの議論では、Allen InstituteやWyss Instituteでの様子も聞けて、色々と参考になりました。 (大久保)&lt;/li&gt;
+  &lt;li&gt;自分もなるべく生データに近い所で働きたいです。新しい研究所で新しいキャリアの在り方を作るのは大変そうですがハマれば理想的ですね (宮脇)&lt;/li&gt;
+  &lt;li&gt;生理実験がまあまあ得意、というのに要所要所で支えられてきましたが、実験はできるだけ早く引退したい…(とはいえ解析だけで生きていけるほど解析能力が高くないのであった) (萩原)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:42:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>72</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#71 My Favorite Things 2023]]></title>
+			<description><![CDATA[<p>新年のんびり雑談回。去年の振り返りと今年の抱負、おたより回は実現可能なのか。後半は2023年お気に入りアルバム10選、お気に入りYouTubeチャンネル5選。(1/11収録)</p>
+<p><br></p>
+<p>Show Notes (<a href="https://neuroradio.tokyo/2024/01/18/71-my-favorite-things-2023/" target="_blank" rel="noopener noreferer">番組HP</a>):</p>
+<ul>
+ <li><a href="https://www.nhk.or.jp/shutoken/newsup/20240104c.html">震災関連の寄付窓口まとめ</a></li>
+ <li><a href="https://researchat.fm/episode/166">最近のエピソード</a></li>
+  <li><a href="https://anond.hatelabo.jp/20210122160503">〇〇を救いたい</a></li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSegf8Ezthbjh0X1t2yDGC1UoADmDbinHpMfyuk86dY4KrFIvw/viewform">NeuroRadioへのお便りフォーム</a></li>
+  <li><a href="https://querie.me/user/NeuroRadio_">Querie Tips</a></li>
+  <li><a href="https://twitter.com/kennaka">研エンさん</a></li>
+  <li>の、<a href="https://docs.google.com/forms/d/e/1FAIpQLSfm3NGeT-LdVC-CLYmIUirE9GClBSGnE48RLfXBAVd1FQ54rA/viewform">おたよりフォーム</a></li>
+  <li><a href="https://www.overleaf.com/">Overleaf</a></li>
+  <li><a href="https://www.nature.com/articles/s41587-023-02029-7">DiscoverabilityとEnforceabilityについて言及した記事</a></li>
+  <li><a href="https://www.science.org/doi/full/10.1126/sciadv.abq1637">Science Advancesにのったやつ</a></li>
+  <li><a href="https://neuroradio.tokyo/2023/03/07/54-it-takes-two/">について扱ったNeuroRadio回</a></li>
+  <li><a href="https://www.neuronaldynamics.eu/">ニコラス就職</a></li>
+  <li><a href="https://researchtraining.nih.gov/programs/career-development/K99-R00">K99/R00</a></li>
+  <li><a href="https://neuroradio.tokyo/2023/01/22/52-my-favorite-things/">去年の年始回</a></li>
+</ul>
+<p>2023年宮脇お気に入りアルバム 10選</p>
+<ul>
+  <li><a href="https://twitter.com/tak_miyawaki/status/1740702136860836333">Favorite Album 2023まとめツイート</a></li>
+  <li><a href="https://sufjanstevens.lnk.to/javelin">Sufjan StevensのJavelin</a></li>
+  <li>Illinois <a href="https://music.apple.com/us/album/illinois/328074546">Apple Music</a> <a href="https://open.spotify.com/intl-ja/album/1pOl0KEC1iQnA6F0XxV4To">Spotify</a></li>
+  <li><a href="https://www.youtube.com/watch?v=N0CP9zpbmAQ">Call Me By Your Nameで使われてた歌</a></li>
+  <li><a href="https://sufjan.com/post/728984189887807488/hi-friends-quick-update-on-my-life-im-very">ギランバレーになった</a></li>
+  <li><strong>10: </strong><a href="https://tr.ee/gkRhRe8j8u">Deena Abdelwahed - Flagranti (EP)</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=_GEOvg8gF1A">Flirt</a></li>
+  <li><a href="https://www.hebakadry.com/">Heba Kadry</a></li>
+  <li><a href="https://www.youtube.com/watch?v=YWgBvslg6I0">YMOのAbsolute Ego Dance</a></li>
+  <li><a href="https://tr.ee/Xy7rl5jzJE">Jbal Rrsas</a></li>
+</ul>
+  <li><strong>9: </strong><a href="https://www.youtube.com/watch?v=I9RV7Eqp1Bs&list=OLAK5uy_nJtqkrlM3gk4LZ3GYRhFRshysPwDLOqd4&index=2">Ricardo Dias Gomes - Muito Sol</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=0xupt53Zg54">Menos</a></li>
+  <li><a href="https://www.youtube.com/watch?v=keZulqPcPag">Joao Gilberto</a></li>
+  <li><a href="https://www.youtube.com/watch?v=VEMWhrfFVDc">Stan Getz</a></li>
+  <li><a href="https://www.youtube.com/watch?v=5pqEe-a9i34">Nara Leao</a></li>
+</ul>
+  <li><strong>8: Laurel Halo – Atlas </strong><a href="https://music.apple.com/us/album/atlas/1691866442">Apple Music</a><strong> </strong><a href="https://open.spotify.com/intl-ja/artist/0sRVVDpgF2sKzPBkDszzUl">Spotify</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=8t2hBUbaMUI">Late Night Drive</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Hyperdub">Hyperdub</a></li>
+  <li><a href="https://lucyrailton.com/">Lucy Railton</a></li>
+  <li><a href="https://www.deccapublishing.com/roster/iskra-strings/">James Underwood</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0ivkmVDg4D0">Ryoji Ikeda</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Q7d0bms2mSk">Alva Noto</a></li>
+</ul>
+  <li><strong>7: </strong><a href="https://plz.ffm.to/headache">Headache - The Head Hurts but the Heart Knows the Truth</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=0-rUicTXuqI">Bucket Listener</a></li>
+  <li><a href="https://www.youtube.com/channel/UCltw1aFtF-kHAIbWggg9_LA">Vegyn</a></li>
+  <li><a href="https://blonded.co/blogs/posts/blonde-stream">Frank OceanのBlonde</a></li>
+  <li><a href="https://music.apple.com/us/room/6446222978">Blonded Radio</a></li>
+  <li><a href="https://plz.world/">PLZ Make It Ruins</a></li>
+</ul>
+  <li><strong>6: </strong><a href="https://found.ee/ma-dogsbody">Model/Actriz – Dogsbody</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=hm3iii0UDZI">Amaranth</a></li>
+  <li>Steve Albiniの<a href="https://www.youtube.com/watch?v=jtPFzBLDSPk">Big Black</a></li>
+  <li><a href="https://www.youtube.com/watch?v=MPVfWoYe2-I">Rapeman</a></li>
+  <li><a href="https://www.youtube.com/watch?v=RqypczTds80">Shellac</a></li>
+  <li><a href="https://www.youtube.com/watch?v=6kztuWx-9Hc">Arca</a></li>
+</ul>
+  <li><strong>5: </strong><a href="https://tr.ee/u-8bvb9Kil">Sanam - Aykathani Malakon</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=lCJ2gER2wyQ">Bell</a></li>
+  <li><a href="https://www.youtube.com/watch?v=YmN9oHa3ZIQ">CAN</a></li>
+  <li><a href="https://www.youtube.com/watch?v=x1zilHyOju4">Faust</a></li>
+</ul>
+  <li><strong>4: </strong><a href="https://www.youtube.com/watch?v=2DFnAvLo9rs">Ali Sethi &amp; Nicolas Jaar – Intiha</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=VN_B9J-7U2k">Muddat</a></li>
+  <li>Nicolas JaarのTelas <a href="https://music.apple.com/us/album/telas/1517872381">Apple Music</a> <a href="https://open.spotify.com/intl-ja/album/0lvI7FUbha0fLMiHz57OV7">Spotify</a></li>
+  <li>Ziggy Stardust <a href="https://music.apple.com/us/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877">Apple Music</a> <a href="https://open.spotify.com/intl-ja/album/48D1hRORqJq52qsnUYZX56">Spotify</a></li>
+</ul>
+  <li><strong>3: </strong><a href="https://boomkat.com/products/joy-in-fear">Goat - Joy in Fear</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=ppVvu6JiW9w">プロモ映像</a></li>
+  <li>Kraftwerk Man-Machine <a href="https://music.apple.com/us/album/the-man-machine-remastered/726157248">Apple Music</a> <a href="https://open.spotify.com/intl-ja/album/3eyz60xEK5dGEeZF1JJSi9">Spotify</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ejdZEe4Rd0o">Weired Fishes / Arpeggi</a></li>
+  <li><a href="https://boomkat.com/">boomkat</a></li>
+  <li>KakuhanのMetal Zone <a href="https://music.apple.com/us/album/metal-zone/1669788954">Apple Music</a> <a href="https://open.spotify.com/intl-ja/album/3AScFbE9hKQYbkpZAKQG0z">Spotify</a></li>
+</ul>
+  <li><strong>2: </strong><a href="https://orcd.co/vidrio">Titanic – Vidrio</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=9juZEsGUFLY">Anonima</a></li>
+  <li><a href="https://www.youtube.com/watch?v=2hqgSxJsdKI">Mabe Frattiの作品</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7OiI-4nMYCY">ラジオのように</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hlco1UrtJSc">Life Without Buildings</a></li>
+</ul>
+  <li><strong>1: Bendick Giske – Bendick Giske </strong><a href="https://music.apple.com/us/album/bendik-giske/1679578357">AppleMusic</a><strong> </strong><a href="https://open.spotify.com/intl-ja/album/3ikz1DrVuK3gp5vanMKHR1">Spotify</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=Jrq9-tWBDFc">Rush</a></li>
+  <li><a href="http://dillonwork.com/01/infocontact/">Beatrice Dillon</a></li>
+  <li><a href="https://www.youtube.com/watch?v=vWN9I-qa9GQ">Steve ReichのIt’s gonna Rain</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ViweO33oo2Y">Pharaoh Sanders</a></li>
+  <li><a href="https://www.youtube.com/watch?v=KnZDHaVDMRM">Albert Ayler</a></li>
+  <li><a href="https://www.youtube.com/watch?v=XnbsIl2BnWw">その後につづいたシングル</a> 曲も良いですが “See on both sides like Chanel” が秀逸すぎてハマりました</li>
+  <li><a href="https://open.spotify.com/episode/13qF2rux7ahDDtfz1kfCkN">Dissect podcastのBlondeに関するシリーズ</a></li>
+</ul>
+</ul>
+<p><br></p>
+<p>2023年萩原おすすめYouTube 5選</p>
+<ul>
+  <li><strong>1: </strong><a href="https://www.youtube.com/channel/UCiYhjjtrd-G6uHA9CbaJ-DA">パワーチューブ</a></li>
+</ul>
+<ul>
+<ul>
+  <li>おすすめ動画: 2023年<a href="https://www.youtube.com/watch?v=wiFeuZGHj7w&list=PLKPtSGNTynvrhoxHVyCUjQdqHO9udzSHV&index=3&ab_channel=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96">最新！ベンチプレスの【基本】はこれで分かる！日本王者解説！</a></li>
+  <li><a href="https://twitter.com/toughlifter">牛山選手</a></li>
+  <li><a href="https://us.sbdapparel.com/">SBD</a></li>
+  <li>が<a href="https://sbdapparel.com/pages/sheffield">主宰するシェフィールド</a></li>
+</ul>
+  <li><strong>2: </strong><a href="https://www.youtube.com/results?search_query=Jeff+Nipperd">Jeff Nipperd</a></li>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=xc4OtzAnVMI&list=PLp4G6oBUcv8z7yIq95QM2zVl1h33gfhDr" target="_blank" rel="noopener noreferer">おすすめ動画：How To Train Like A Minimalist (More Gains In Less Time)</a></li>
+  <li><a href="https://www.urbandictionary.com/define.php?term=broscience">Broscience</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Progressive_overload">Progressive Overload</a></li>
+  <li><a href="https://www.youtube.com/channel/UCIR8bP-MIXHwTPkUjcnjBCw">今古賀翔</a></li>
+  <li><a href="https://books.bunshun.jp/ud/book/num/9784163695808">走ることについて語るときに僕の語ること</a></li>
+</ul>
+  <li><strong>3: </strong><a href="https://www.youtube.com/@koh">散財小説ドリキン</a></li>
+<ul>
+  <li>おすすめ動画：<a href="https://www.youtube.com/watch?v=CWT6uLDiN8c" target="_blank" rel="noopener noreferer">「本日最終日！ゼンハイザー e935 vs e945 vs Shure MV7 仁義なきサイドバイサイド比較」第2086話</a></li>
+  <li><a href="https://www.youtube.com/watch?v=NVtLwatdl88&t=96s">おしりが洗えるシャワー</a></li>
+  <li>を取り上げた<a href="https://neuroradio.tokyo/2023/01/22/52-my-favorite-things/">NR回</a></li>
+  <li><a href="https://www.youtube.com/watch?app=desktop&v=5L84WtbKstk">U87Ai, SM7B, Beta58A, EarPods</a></li>
+  <li><a href="https://rebuild.fm/people/drikin/">Rebuild.fmどりきんさん回まとめ</a></li>
+</ul>
+  <li><strong>4: </strong><a href="https://www.youtube.com/@rehacq">ReHacQ−リハック−</a></li>
+<ul>
+  <li>おすすめ動画：<a href="https://www.youtube.com/watch?v=JpOL251JVcY" target="_blank" rel="noopener noreferer">【最先端！快眠の科学】Google賞金4.5億！天才睡眠学者が登場【常識覆す研究】</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E3%83%86%E3%83%AC%E6%9D%B1%E5%A4%A7%E5%AD%A6">日経テレ東大学</a></li>
+  <li><a href="https://www.youtube.com/watch?v=mJ08a0kUOZ4">菅前総理回</a></li>
+  <li><a href="https://www.youtube.com/watch?v=vJ2MS0ZjLdA&t=0s">国民民主党の党首回</a></li>
+  <li><a href="https://www.youtube.com/watch?v=MXBsHbF603U">新NISA回</a></li>
+  <li><a href="https://toyokeizai.net/articles/-/716036">山崎元氏による新NISA解説</a></li>
+</ul>
+  <li><strong>5: </strong><a href="https://www.youtube.com/@regalo_ogura">小倉知巳のイタリアンプロ養成講座</a></li>
+<ul>
+  <li>おすすめ動画：<a href="https://www.youtube.com/watch?v=5CwRffHVe7Q" target="_blank" rel="noopener noreferer">ミシュラン1つ星イタリアン店の「スパゲティ・カルボナーラ」【#イタリアンプロ養成講座 vol.8】</a></li>
+  <li><a href="https://www.regalo-ristorante.com/">Regalo</a></li>
+  <li><a href="https://bookclub.kodansha.co.jp/product?item=0000213420">落合務のパーフェクトレシピ</a></li>
+  <li><a href="https://www.youtube.com/watch?v=jrrcrQG914Y&ab_channel=%E3%82%B7%E3%82%BA%E3%82%8B%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB">戸羽シェフのチャンネルに首つっこんだ回</a></li>
+  <li><a href="https://twitter.com/NeuroRadio_/status/1715633620181029001">ステッカー試作品</a></li>
+</ul>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>今回からマイクがYetiからSM7Bになりました (脇)</li>
+  <li>2024年はとりあえず<a href="https://mukaishutoku.com/main.html">ZAZEN BOYSの12年ぶりの新譜</a>を座禅して待機しています。そういえば向井秀徳がスティーブ・アルビニみたいな音像にしたくてデイブ・フリッドマンをエンジニアにしたとか言ってた (萩)</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/neuroradio/episodes/71-My-Favorite-Things-2023-e2ei62n</link>
+			<guid isPermaLink="false">46c9eba2-8991-4eff-93f7-73619cc2ff2c</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Thu, 18 Jan 2024 01:08:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/81384983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F8b3f760e-07aa-c504-1dd9-aa3bec4ef239.mp3" length="157549347" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;新年のんびり雑談回。去年の振り返りと今年の抱負、おたより回は実現可能なのか。後半は2023年お気に入りアルバム10選、お気に入りYouTubeチャンネル5選。(1/11収録)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Show Notes (&lt;a href=&quot;https://neuroradio.tokyo/2024/01/18/71-my-favorite-things-2023/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;番組HP&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.nhk.or.jp/shutoken/newsup/20240104c.html&quot;&gt;震災関連の寄付窓口まとめ&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://researchat.fm/episode/166&quot;&gt;最近のエピソード&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anond.hatelabo.jp/20210122160503&quot;&gt;〇〇を救いたい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSegf8Ezthbjh0X1t2yDGC1UoADmDbinHpMfyuk86dY4KrFIvw/viewform&quot;&gt;NeuroRadioへのお便りフォーム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://querie.me/user/NeuroRadio_&quot;&gt;Querie Tips&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kennaka&quot;&gt;研エンさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の、&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfm3NGeT-LdVC-CLYmIUirE9GClBSGnE48RLfXBAVd1FQ54rA/viewform&quot;&gt;おたよりフォーム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/&quot;&gt;Overleaf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41587-023-02029-7&quot;&gt;DiscoverabilityとEnforceabilityについて言及した記事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/full/10.1126/sciadv.abq1637&quot;&gt;Science Advancesにのったやつ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2023/03/07/54-it-takes-two/&quot;&gt;について扱ったNeuroRadio回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.neuronaldynamics.eu/&quot;&gt;ニコラス就職&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://researchtraining.nih.gov/programs/career-development/K99-R00&quot;&gt;K99/R00&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2023/01/22/52-my-favorite-things/&quot;&gt;去年の年始回&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2023年宮脇お気に入りアルバム 10選&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/tak_miyawaki/status/1740702136860836333&quot;&gt;Favorite Album 2023まとめツイート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sufjanstevens.lnk.to/javelin&quot;&gt;Sufjan StevensのJavelin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Illinois &lt;a href=&quot;https://music.apple.com/us/album/illinois/328074546&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/intl-ja/album/1pOl0KEC1iQnA6F0XxV4To&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N0CP9zpbmAQ&quot;&gt;Call Me By Your Nameで使われてた歌&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sufjan.com/post/728984189887807488/hi-friends-quick-update-on-my-life-im-very&quot;&gt;ギランバレーになった&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;10: &lt;/strong&gt;&lt;a href=&quot;https://tr.ee/gkRhRe8j8u&quot;&gt;Deena Abdelwahed - Flagranti (EP)&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_GEOvg8gF1A&quot;&gt;Flirt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hebakadry.com/&quot;&gt;Heba Kadry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YWgBvslg6I0&quot;&gt;YMOのAbsolute Ego Dance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tr.ee/Xy7rl5jzJE&quot;&gt;Jbal Rrsas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;9: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=I9RV7Eqp1Bs&amp;list=OLAK5uy_nJtqkrlM3gk4LZ3GYRhFRshysPwDLOqd4&amp;index=2&quot;&gt;Ricardo Dias Gomes - Muito Sol&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0xupt53Zg54&quot;&gt;Menos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=keZulqPcPag&quot;&gt;Joao Gilberto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VEMWhrfFVDc&quot;&gt;Stan Getz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5pqEe-a9i34&quot;&gt;Nara Leao&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;8: Laurel Halo – Atlas &lt;/strong&gt;&lt;a href=&quot;https://music.apple.com/us/album/atlas/1691866442&quot;&gt;Apple Music&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;https://open.spotify.com/intl-ja/artist/0sRVVDpgF2sKzPBkDszzUl&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8t2hBUbaMUI&quot;&gt;Late Night Drive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hyperdub&quot;&gt;Hyperdub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lucyrailton.com/&quot;&gt;Lucy Railton&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deccapublishing.com/roster/iskra-strings/&quot;&gt;James Underwood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0ivkmVDg4D0&quot;&gt;Ryoji Ikeda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Q7d0bms2mSk&quot;&gt;Alva Noto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;7: &lt;/strong&gt;&lt;a href=&quot;https://plz.ffm.to/headache&quot;&gt;Headache - The Head Hurts but the Heart Knows the Truth&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0-rUicTXuqI&quot;&gt;Bucket Listener&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCltw1aFtF-kHAIbWggg9_LA&quot;&gt;Vegyn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blonded.co/blogs/posts/blonde-stream&quot;&gt;Frank OceanのBlonde&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://music.apple.com/us/room/6446222978&quot;&gt;Blonded Radio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plz.world/&quot;&gt;PLZ Make It Ruins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;6: &lt;/strong&gt;&lt;a href=&quot;https://found.ee/ma-dogsbody&quot;&gt;Model/Actriz – Dogsbody&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hm3iii0UDZI&quot;&gt;Amaranth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Steve Albiniの&lt;a href=&quot;https://www.youtube.com/watch?v=jtPFzBLDSPk&quot;&gt;Big Black&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MPVfWoYe2-I&quot;&gt;Rapeman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RqypczTds80&quot;&gt;Shellac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6kztuWx-9Hc&quot;&gt;Arca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;5: &lt;/strong&gt;&lt;a href=&quot;https://tr.ee/u-8bvb9Kil&quot;&gt;Sanam - Aykathani Malakon&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lCJ2gER2wyQ&quot;&gt;Bell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YmN9oHa3ZIQ&quot;&gt;CAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x1zilHyOju4&quot;&gt;Faust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;4: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2DFnAvLo9rs&quot;&gt;Ali Sethi &amp;amp; Nicolas Jaar – Intiha&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VN_B9J-7U2k&quot;&gt;Muddat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nicolas JaarのTelas &lt;a href=&quot;https://music.apple.com/us/album/telas/1517872381&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/intl-ja/album/0lvI7FUbha0fLMiHz57OV7&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ziggy Stardust &lt;a href=&quot;https://music.apple.com/us/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/intl-ja/album/48D1hRORqJq52qsnUYZX56&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;3: &lt;/strong&gt;&lt;a href=&quot;https://boomkat.com/products/joy-in-fear&quot;&gt;Goat - Joy in Fear&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ppVvu6JiW9w&quot;&gt;プロモ映像&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kraftwerk Man-Machine &lt;a href=&quot;https://music.apple.com/us/album/the-man-machine-remastered/726157248&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/intl-ja/album/3eyz60xEK5dGEeZF1JJSi9&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ejdZEe4Rd0o&quot;&gt;Weired Fishes / Arpeggi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://boomkat.com/&quot;&gt;boomkat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;KakuhanのMetal Zone &lt;a href=&quot;https://music.apple.com/us/album/metal-zone/1669788954&quot;&gt;Apple Music&lt;/a&gt; &lt;a href=&quot;https://open.spotify.com/intl-ja/album/3AScFbE9hKQYbkpZAKQG0z&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;2: &lt;/strong&gt;&lt;a href=&quot;https://orcd.co/vidrio&quot;&gt;Titanic – Vidrio&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9juZEsGUFLY&quot;&gt;Anonima&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2hqgSxJsdKI&quot;&gt;Mabe Frattiの作品&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7OiI-4nMYCY&quot;&gt;ラジオのように&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hlco1UrtJSc&quot;&gt;Life Without Buildings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;1: Bendick Giske – Bendick Giske &lt;/strong&gt;&lt;a href=&quot;https://music.apple.com/us/album/bendik-giske/1679578357&quot;&gt;AppleMusic&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;https://open.spotify.com/intl-ja/album/3ikz1DrVuK3gp5vanMKHR1&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Jrq9-tWBDFc&quot;&gt;Rush&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dillonwork.com/01/infocontact/&quot;&gt;Beatrice Dillon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vWN9I-qa9GQ&quot;&gt;Steve ReichのIt’s gonna Rain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ViweO33oo2Y&quot;&gt;Pharaoh Sanders&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KnZDHaVDMRM&quot;&gt;Albert Ayler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XnbsIl2BnWw&quot;&gt;その後につづいたシングル&lt;/a&gt; 曲も良いですが “See on both sides like Chanel” が秀逸すぎてハマりました&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/13qF2rux7ahDDtfz1kfCkN&quot;&gt;Dissect podcastのBlondeに関するシリーズ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2023年萩原おすすめYouTube 5選&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;1: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCiYhjjtrd-G6uHA9CbaJ-DA&quot;&gt;パワーチューブ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;おすすめ動画: 2023年&lt;a href=&quot;https://www.youtube.com/watch?v=wiFeuZGHj7w&amp;list=PLKPtSGNTynvrhoxHVyCUjQdqHO9udzSHV&amp;index=3&amp;ab_channel=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96&quot;&gt;最新！ベンチプレスの【基本】はこれで分かる！日本王者解説！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/toughlifter&quot;&gt;牛山選手&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us.sbdapparel.com/&quot;&gt;SBD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;が&lt;a href=&quot;https://sbdapparel.com/pages/sheffield&quot;&gt;主宰するシェフィールド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;2: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/results?search_query=Jeff+Nipperd&quot;&gt;Jeff Nipperd&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xc4OtzAnVMI&amp;list=PLp4G6oBUcv8z7yIq95QM2zVl1h33gfhDr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;おすすめ動画：How To Train Like A Minimalist (More Gains In Less Time)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.urbandictionary.com/define.php?term=broscience&quot;&gt;Broscience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Progressive_overload&quot;&gt;Progressive Overload&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCIR8bP-MIXHwTPkUjcnjBCw&quot;&gt;今古賀翔&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://books.bunshun.jp/ud/book/num/9784163695808&quot;&gt;走ることについて語るときに僕の語ること&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;3: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/@koh&quot;&gt;散財小説ドリキン&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;おすすめ動画：&lt;a href=&quot;https://www.youtube.com/watch?v=CWT6uLDiN8c&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;「本日最終日！ゼンハイザー e935 vs e945 vs Shure MV7 仁義なきサイドバイサイド比較」第2086話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=NVtLwatdl88&amp;t=96s&quot;&gt;おしりが洗えるシャワー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;を取り上げた&lt;a href=&quot;https://neuroradio.tokyo/2023/01/22/52-my-favorite-things/&quot;&gt;NR回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=5L84WtbKstk&quot;&gt;U87Ai, SM7B, Beta58A, EarPods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/people/drikin/&quot;&gt;Rebuild.fmどりきんさん回まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;4: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/@rehacq&quot;&gt;ReHacQ−リハック−&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;おすすめ動画：&lt;a href=&quot;https://www.youtube.com/watch?v=JpOL251JVcY&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;【最先端！快眠の科学】Google賞金4.5億！天才睡眠学者が登場【常識覆す研究】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E3%83%86%E3%83%AC%E6%9D%B1%E5%A4%A7%E5%AD%A6&quot;&gt;日経テレ東大学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mJ08a0kUOZ4&quot;&gt;菅前総理回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vJ2MS0ZjLdA&amp;t=0s&quot;&gt;国民民主党の党首回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MXBsHbF603U&quot;&gt;新NISA回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toyokeizai.net/articles/-/716036&quot;&gt;山崎元氏による新NISA解説&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;li&gt;&lt;strong&gt;5: &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/@regalo_ogura&quot;&gt;小倉知巳のイタリアンプロ養成講座&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;おすすめ動画：&lt;a href=&quot;https://www.youtube.com/watch?v=5CwRffHVe7Q&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;ミシュラン1つ星イタリアン店の「スパゲティ・カルボナーラ」【#イタリアンプロ養成講座 vol.8】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.regalo-ristorante.com/&quot;&gt;Regalo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bookclub.kodansha.co.jp/product?item=0000213420&quot;&gt;落合務のパーフェクトレシピ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jrrcrQG914Y&amp;ab_channel=%E3%82%B7%E3%82%BA%E3%82%8B%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&quot;&gt;戸羽シェフのチャンネルに首つっこんだ回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/NeuroRadio_/status/1715633620181029001&quot;&gt;ステッカー試作品&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;今回からマイクがYetiからSM7Bになりました (脇)&lt;/li&gt;
+  &lt;li&gt;2024年はとりあえず&lt;a href=&quot;https://mukaishutoku.com/main.html&quot;&gt;ZAZEN BOYSの12年ぶりの新譜&lt;/a&gt;を座禅して待機しています。そういえば向井秀徳がスティーブ・アルビニみたいな音像にしたくてデイブ・フリッドマンをエンジニアにしたとか言ってた (萩)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:11:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>71</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#70 Transmission]]></title>
+			<description><![CDATA[<p>有識者会議、Seattle Hub for SynBio、マイク談義、理論系とのコラボについて雑談。論文紹介は、性周期に依存した報酬予測誤差シグナルの違い、Cas9 RNPそのものを細胞内に導入する手法、マウス用VRゴーグル、細胞種特異的なmiRNAをbulkのRNA seqで読む手法、ヒトからラットへの恐怖伝達、など (12/10 収録)</p>
+<p>
+Show Notes (<a href="https://neuroradio.tokyo/2023/12/19/70-transmission/" target="_blank" rel="noopener noreferer">番組HP</a>):</p>
+<p>雑談パート</p>
+<ul>
+ <li><a href="https://www.cas.go.jp/jp/seisaku/campus/index.html">グローバル・スタートアップ・キャンパス構想に関する有識者会議</a></li>
+ <li>齋藤さんNR回 <a href="•%09https:/neuroradio.tokyo/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/">1</a> <a href="•%09https:/neuroradio.tokyo/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/">2</a></li>
+  <li><a href="https://www.cas.go.jp/jp/seisaku/campus/yusikisya_kaigi/dai1/siryou4.pdf">使った発表資料</a>(pdf)</li>
+  <li><a href="https://arep.med.harvard.edu/pdf/DeFrancesco_gclab_2019.pdf">Nature Biotech のChurchラボに関する記事</a> (pdf)</li>
+  <li>ヴィースの<a href="https://wyss.harvard.edu/how-we-work/">How We Work</a></li>
+  <li><a href="https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/btm2.10076">ヴィースのしくみに関する記事</a></li>
+  <li><a href="https://wyss.harvard.edu/team/business-development-team/">Business Development人材のリスト</a></li>
+  <li>Allen +UW+CZIの<a href="https://alleninstitute.org/division/seattle-hub-for-synthetic-biology/">Seattle Hub for Synthetic Biology</a></li>
+  <li><a href="https://shendure-web.gs.washington.edu/">Jay Shendure</a></li>
+  <li><a href="https://www.bakerlab.org/">David Baker</a></li>
+  <li><a href="https://alleninstitute.org/person/rui-costa/">Rui Costa</a></li>
+  <li><a href="https://www.hamazaki-lab.com/">浜崎さん</a></li>
+  <li><a href="https://www.med.osaka-u.ac.jp/introduction/research-2/genome/germline">林さん</a></li>
+  <li><a href="https://www.nature.com/articles/s41586-020-3027-9">浜崎さんの歴史的な仕事</a></li>
+  <li><a href="https://service.shure.com/s/article/difference-between-a-dynamic-and-condenser-microphone?language=ja">コンデンサマイク vs ダイナミックマイク</a></li>
+  <li><a href="https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000103.html">Blue Yeti</a></li>
+  <li><a href="https://www.nytimes.com/2020/07/08/business/brooks-brothers-chapter-11-bankruptcy.html">Brooks Brothers破産</a></li>
+  <li><a href="https://www.reuters.com/business/retail-consumer/us-retailers-hope-draw-picky-black-friday-shoppers-stores-2023-11-24/">今年のBlack Fridayはそんなに良くない？</a>：10月からの割引が結構あったという話らしい？</li>
+  <li><a href="https://www.shure.com/ja-JP/products/microphones/mv7">Shure MV7</a></li>
+  <li><a href="https://www.shure.com/en-US/products/microphones/sm58?variant=SM58-LC">Shure SM58</a></li>
+  <li><a href="https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A">Shure Beta 87A</a></li>
+  <li><a href="https://neuroradio.tokyo/2022/10/09/47-on-flexibility-in-cognitive-processes-behavioral-paradigms-and-careers/">イアンの回</a></li>
+  <li><a href="https://neuroradio.tokyo/2021/11/26/28-plasticity-in-engram-research-interest-part-1/">昔の北沢さん回</a></li>
+  <li><a href="https://motu.com/en-us/products/m-series/m2/">MOTU M2</a></li>
+  <li><a href="https://www.shure.com/en-US/products/microphones/sm7b?variant=SM7B">Shure SM7B</a></li>
+  <li><a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/">(Geforce RTX) 3090</a></li>
+  <li><a href="https://www.neumann.com/en-en/products/microphones/u-87-ai/">Neumann U87 Ai</a></li>
+  <li><a href="https://www.neumann.com/en-en/products/historical/u-47/">U47</a> Frank OceanがBlondeのレコーディングで使用</li>
+  <li><a href="https://sites.google.com/site/jeremiahcohen/home">Jeremiah Cohen</a></li>
+  <li>UWの<a href="https://faculty.washington.edu/etsb/">Eric Shea-Brown</a></li>
+  <li><a href="https://toyoizumilab.riken.jp/">豊泉さん</a></li>
+  <li><a href="https://alleninstitute.org/person/stefan-mihalas/">Stefan Mihalas</a></li>
+  <li><a href="https://twitter.com/LecoqJerome/status/1671300971862048768">MindScope終了</a></li>
+  <li><a href="https://www.druckmannlab.com/">Shaul Druckmann</a></li>
+  <li><a href="https://www.nature.com/articles/s41586-019-0919-7">最後の方の稲垣さんの仕事</a></li>
+  <li><a href="https://www.janelia.org/people/sandro-romani">Sandro Romani</a></li>
+  <li><a href="https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/">M3 Pro Max</a></li>
+</ul>
+<p>論文紹介パート</p>
+<ul>
+  <li>論文１：<a href="https://www.biorxiv.org/content/10.1101/2023.12.09.570945v1">Estrogenic control of reward prediction errors and reinforcement learning</a></li>
+  <li><a href="https://constantinoplelab.com/">Christine Constantinopleラボ</a></li>
+  <li><a href="https://brunolab.neuroscience.columbia.edu/">Randy Brunoラボ</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.1236425">Brunoラボ時代の仕事</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-020-17087-7">Thalamo-cortical Axonのターゲットlayerは皮質によって異なる</a> (モダリティではなく一次/二次感覚野の違いでした 脇)</li>
+  <li>Bruno、<a href="https://www.science.org/doi/abs/10.1126/science.1124593">ポスドク時代の超絶技巧</a></li>
+  <li><a href="https://www.projekte.hu-berlin.de/en/larkum">Larkumラボ</a></li>
+  <li>の上だけ止めるmanipulation：<a href="https://www.nature.com/articles/s41467-017-00282-4">たとえばコレ</a>のBaclofen局所投与</li>
+  <li><a href="http://brodylab.org/">Brodyラボ</a></li>
+  <li>Brodyの所で出した論文 <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(19)30546-9">1</a> <a href="https://elifesciences.org/articles/49744">2</a></li>
+  <li><a href="https://www.shinchosha.co.jp/writer/1690/">塩野七生</a></li>
+  <li><a href="https://www.shinchosha.co.jp/topics/shiono/bunko.html">ローマ人の物語</a></li>
+  <li><a href="https://www.shinchosha.co.jp/book/118103/">コンスタンティノープルの陥落</a></li>
+  <li><a href="https://www.cell.com/cell/fulltext/S0092-8674(14)01169-6">中島さんのCellの仕事</a></li>
+  <li>さやかさん回 <a href="https://neuroradio.tokyo/2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/">1</a> <a href="https://neuroradio.tokyo/2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/">2</a> <a href="https://neuroradio.tokyo/2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/">3</a> <a href="https://neuroradio.tokyo/2023/09/28/65-dual-career-pis-in-st-louis/">4</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-023-43250-x">タスクの詳細が載ったNature Communicationsの仕事</a></li>
+  <li><a href="https://www.fmi.ch/research-groups/groupleader.html?group=2">Silvia Arber</a></li>
+  <li><a href="https://www.nature.com/articles/nn.4106">optogenetic activation assesses what a neuron can do, but not what a neuron does do</a></li>
+  <li><a href="https://www.cell.com/cell/fulltext/S0092-8674(19)31175-4">さやかさんの論文</a></li>
+  <li><a href="https://knowledge.brain-map.org/data/LVDBJAW8BI5YSS1QUBG/explore">AllenのABC Atlas</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.271.5247.363">GPCRのInternalizationによる不活性化</a></li>
+  <li><a href="https://www.sigmaaldrich.com/US/en/product/sigma/d052">DATのアンタゴニストGBR 12909</a></li>
+  <li>柳下さんの一連の仕事 – Slice: <a href="https://www.science.org/doi/10.1126/science.1255514">1</a>; Behavior:<a href="https://www.nature.com/articles/s41598-022-05637-6">2</a></li>
+  <li><a href="https://dr.ntu.edu.sg/cris/rp/rp01210">George Augustine</a></li>
+  <li><a href="https://www.nobelprize.org/prizes/medicine/1991/neher/facts/">Erwin Neher</a></li>
+  <li><a href="https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1992.sp019127">細胞内カルシウムのモデリングの仕事</a></li>
+  <li>論文２：<a href="https://www.biorxiv.org/content/10.1101/2023.11.15.567251v1">Engineering self-deliverable ribonucleoproteins for genome editing in the brain</a></li>
+  <li><a href="https://doudnalab.org/">Doudnaラボ</a></li>
+  <li><a href="https://www.nature.com/articles/nbt.3806">SV40 NLSをつけるとそのまま入る、の論文</a></li>
+  <li><a href="https://pubs.acs.org/doi/10.1021/nn4057269">Cell Penetrating Peptide に関するレビュー</a></li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/2023.11.15.566339v1">筆頭著者が同時に出していたLNPによる投与のプレプリント</a></li>
+  <li>Broadの人達がやっているデリバリー <a href="https://www.cell.com/cell/fulltext/S0092-8674(21)01484-7">1</a> <a href="https://www.science.org/doi/10.1126/science.abg6155">2</a> <a href="https://www.nature.com/articles/s41586-023-05870-7">3</a></li>
+  <li>論文３： <a href="https://www.cell.com/neuron/fulltext/S0896-6273(23)00893-0">Full field-of-view virtual reality goggles for mice</a></li>
+  <li><a href="http://www.dombecklab.org/">Daniel Dombeck</a></li>
+  <li><a href="https://pni.princeton.edu/people/david-tank">David Tank</a></li>
+  <li><a href="https://www.cell.com/trends/biochemical-sciences/fulltext/S0896-6273(07)00614-9">２光子顕微鏡の下でマウスを走らせたNeuron論文 (2007)</a></li>
+  <li><a href="https://www.nature.com/articles/nn.2648">海馬での応用が2010 NN</a></li>
+  <li><a href="https://www.nature.com/articles/nature08499">Chris Harveyの仕事</a></li>
+  <li><a href="https://www.nature.com/articles/nature17899">Moserとかがオーサーに入ってる、VR使用時の注意点ディスカッション</a></li>
+  <li><a href="https://www.zemax.com/">Zemax</a></li>
+  <li>論文４：<a href="https://www.biorxiv.org/content/10.1101/2023.11.06.565867v1">Mime-seq 2.0: a method to sequence microRNAs from specific mouse cell types</a></li>
+  <li><a href="https://mbg.jhmi.edu/people/luisa-cochella-ph-d/">Loisa Cochella</a></li>
+  <li><a href="https://www.nature.com/articles/nmeth.4610">Mime seqその１ in Nat Meth</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-023-42746-w">miRNAによるAstrocyte以外でのTransgene分解</a></li>
+  <li><a href="https://www.cell.com/cell/fulltext/S0092-8674(21)00503-1">glycolRNA Cell 2021</a></li>
+  <li><a href="https://bertozzigroup.stanford.edu/">Bertozzi</a></li>
+  <li><a href="https://www.rafrna.com/">筆頭著者のRyan Flynn</a></li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/2023.11.06.565735v1">続報プレプリント</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Carolyn_Bertozzi">Bertozziは元々糖鎖合成の化学者でした</a></li>
+  <li>論文５：<a href="https://www.pnas.org/doi/10.1073/pnas.2302655120">Rats respond to aversive emotional arousal of human handlers with the activation of the basolateral and central amygdala</a></li>
+  <li><a href="https://www.nature.com/articles/nmeth.2935">ハンドラーの性によって行動が変わる、の論文</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aax4705">ラット、かくれんぼする</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aah5114">ラット、くすぐられて笑う</a></li>
+  <li><a href="https://www.activetouch.de/">Brecht</a></li>
+  <li>Contributed Submissionがなくなった? -&gt;嘘でした、まだあります。</li>
+</ul>
+<p>Editorial Notes:</p>
+<ul>
+  <li>マイク沼、CPU/GPU沼、対物レンズ沼は奥が深そうで怖い (脇)</li>
+  <li>昔はひたすらマーガレットおばさんのシャツとニットを着てましたが、体がデカくなって着れなくなったので全部捨てて、以降ほぼ全部ユニクロ(か山系)です(萩)</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/neuroradio/episodes/70-Transmission-e2dcroa</link>
+			<guid isPermaLink="false">cfdbd8f7-c484-43bb-945c-e40ddd52e7e6</guid>
+			<dc:creator><![CDATA[NeuroRadio]]></dc:creator>
+			<pubDate>Tue, 19 Dec 2023 00:11:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4ddf5488/podcast/play/80161994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-18%2F330e1005-d1a6-6ef9-6432-394d890f6c8f.mp3" length="206859043" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;有識者会議、Seattle Hub for SynBio、マイク談義、理論系とのコラボについて雑談。論文紹介は、性周期に依存した報酬予測誤差シグナルの違い、Cas9 RNPそのものを細胞内に導入する手法、マウス用VRゴーグル、細胞種特異的なmiRNAをbulkのRNA seqで読む手法、ヒトからラットへの恐怖伝達、など (12/10 収録)&lt;/p&gt;
+&lt;p&gt;
+Show Notes (&lt;a href=&quot;https://neuroradio.tokyo/2023/12/19/70-transmission/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;番組HP&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;雑談パート&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.cas.go.jp/jp/seisaku/campus/index.html&quot;&gt;グローバル・スタートアップ・キャンパス構想に関する有識者会議&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;齋藤さんNR回 &lt;a href=&quot;•%09https:/neuroradio.tokyo/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;•%09https:/neuroradio.tokyo/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cas.go.jp/jp/seisaku/campus/yusikisya_kaigi/dai1/siryou4.pdf&quot;&gt;使った発表資料&lt;/a&gt;(pdf)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arep.med.harvard.edu/pdf/DeFrancesco_gclab_2019.pdf&quot;&gt;Nature Biotech のChurchラボに関する記事&lt;/a&gt; (pdf)&lt;/li&gt;
+  &lt;li&gt;ヴィースの&lt;a href=&quot;https://wyss.harvard.edu/how-we-work/&quot;&gt;How We Work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/btm2.10076&quot;&gt;ヴィースのしくみに関する記事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wyss.harvard.edu/team/business-development-team/&quot;&gt;Business Development人材のリスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Allen +UW+CZIの&lt;a href=&quot;https://alleninstitute.org/division/seattle-hub-for-synthetic-biology/&quot;&gt;Seattle Hub for Synthetic Biology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shendure-web.gs.washington.edu/&quot;&gt;Jay Shendure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bakerlab.org/&quot;&gt;David Baker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/person/rui-costa/&quot;&gt;Rui Costa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hamazaki-lab.com/&quot;&gt;浜崎さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.med.osaka-u.ac.jp/introduction/research-2/genome/germline&quot;&gt;林さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-020-3027-9&quot;&gt;浜崎さんの歴史的な仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://service.shure.com/s/article/difference-between-a-dynamic-and-condenser-microphone?language=ja&quot;&gt;コンデンサマイク vs ダイナミックマイク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000103.html&quot;&gt;Blue Yeti&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/07/08/business/brooks-brothers-chapter-11-bankruptcy.html&quot;&gt;Brooks Brothers破産&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/business/retail-consumer/us-retailers-hope-draw-picky-black-friday-shoppers-stores-2023-11-24/&quot;&gt;今年のBlack Fridayはそんなに良くない？&lt;/a&gt;：10月からの割引が結構あったという話らしい？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shure.com/ja-JP/products/microphones/mv7&quot;&gt;Shure MV7&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shure.com/en-US/products/microphones/sm58?variant=SM58-LC&quot;&gt;Shure SM58&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shure.com/en-US/products/microphones/beta_87a?variant=BETA87A&quot;&gt;Shure Beta 87A&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2022/10/09/47-on-flexibility-in-cognitive-processes-behavioral-paradigms-and-careers/&quot;&gt;イアンの回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neuroradio.tokyo/2021/11/26/28-plasticity-in-engram-research-interest-part-1/&quot;&gt;昔の北沢さん回&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://motu.com/en-us/products/m-series/m2/&quot;&gt;MOTU M2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shure.com/en-US/products/microphones/sm7b?variant=SM7B&quot;&gt;Shure SM7B&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/&quot;&gt;(Geforce RTX) 3090&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.neumann.com/en-en/products/microphones/u-87-ai/&quot;&gt;Neumann U87 Ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.neumann.com/en-en/products/historical/u-47/&quot;&gt;U47&lt;/a&gt; Frank OceanがBlondeのレコーディングで使用&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/jeremiahcohen/home&quot;&gt;Jeremiah Cohen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;UWの&lt;a href=&quot;https://faculty.washington.edu/etsb/&quot;&gt;Eric Shea-Brown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toyoizumilab.riken.jp/&quot;&gt;豊泉さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alleninstitute.org/person/stefan-mihalas/&quot;&gt;Stefan Mihalas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/LecoqJerome/status/1671300971862048768&quot;&gt;MindScope終了&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.druckmannlab.com/&quot;&gt;Shaul Druckmann&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-019-0919-7&quot;&gt;最後の方の稲垣さんの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.janelia.org/people/sandro-romani&quot;&gt;Sandro Romani&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/&quot;&gt;M3 Pro Max&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;論文紹介パート&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;論文１：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.12.09.570945v1&quot;&gt;Estrogenic control of reward prediction errors and reinforcement learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://constantinoplelab.com/&quot;&gt;Christine Constantinopleラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brunolab.neuroscience.columbia.edu/&quot;&gt;Randy Brunoラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.1236425&quot;&gt;Brunoラボ時代の仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-020-17087-7&quot;&gt;Thalamo-cortical Axonのターゲットlayerは皮質によって異なる&lt;/a&gt; (モダリティではなく一次/二次感覚野の違いでした 脇)&lt;/li&gt;
+  &lt;li&gt;Bruno、&lt;a href=&quot;https://www.science.org/doi/abs/10.1126/science.1124593&quot;&gt;ポスドク時代の超絶技巧&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.projekte.hu-berlin.de/en/larkum&quot;&gt;Larkumラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;の上だけ止めるmanipulation：&lt;a href=&quot;https://www.nature.com/articles/s41467-017-00282-4&quot;&gt;たとえばコレ&lt;/a&gt;のBaclofen局所投与&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://brodylab.org/&quot;&gt;Brodyラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Brodyの所で出した論文 &lt;a href=&quot;https://www.cell.com/current-biology/fulltext/S0960-9822(19)30546-9&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;https://elifesciences.org/articles/49744&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shinchosha.co.jp/writer/1690/&quot;&gt;塩野七生&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shinchosha.co.jp/topics/shiono/bunko.html&quot;&gt;ローマ人の物語&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shinchosha.co.jp/book/118103/&quot;&gt;コンスタンティノープルの陥落&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/cell/fulltext/S0092-8674(14)01169-6&quot;&gt;中島さんのCellの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;さやかさん回 &lt;a href=&quot;https://neuroradio.tokyo/2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;https://neuroradio.tokyo/2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/&quot;&gt;2&lt;/a&gt; &lt;a href=&quot;https://neuroradio.tokyo/2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/&quot;&gt;3&lt;/a&gt; &lt;a href=&quot;https://neuroradio.tokyo/2023/09/28/65-dual-career-pis-in-st-louis/&quot;&gt;4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-43250-x&quot;&gt;タスクの詳細が載ったNature Communicationsの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fmi.ch/research-groups/groupleader.html?group=2&quot;&gt;Silvia Arber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.4106&quot;&gt;optogenetic activation assesses what a neuron can do, but not what a neuron does do&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/cell/fulltext/S0092-8674(19)31175-4&quot;&gt;さやかさんの論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://knowledge.brain-map.org/data/LVDBJAW8BI5YSS1QUBG/explore&quot;&gt;AllenのABC Atlas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.271.5247.363&quot;&gt;GPCRのInternalizationによる不活性化&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sigmaaldrich.com/US/en/product/sigma/d052&quot;&gt;DATのアンタゴニストGBR 12909&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;柳下さんの一連の仕事 – Slice: &lt;a href=&quot;https://www.science.org/doi/10.1126/science.1255514&quot;&gt;1&lt;/a&gt;; Behavior:&lt;a href=&quot;https://www.nature.com/articles/s41598-022-05637-6&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dr.ntu.edu.sg/cris/rp/rp01210&quot;&gt;George Augustine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/1991/neher/facts/&quot;&gt;Erwin Neher&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1992.sp019127&quot;&gt;細胞内カルシウムのモデリングの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文２：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.11.15.567251v1&quot;&gt;Engineering self-deliverable ribonucleoproteins for genome editing in the brain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doudnalab.org/&quot;&gt;Doudnaラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nbt.3806&quot;&gt;SV40 NLSをつけるとそのまま入る、の論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/10.1021/nn4057269&quot;&gt;Cell Penetrating Peptide に関するレビュー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.11.15.566339v1&quot;&gt;筆頭著者が同時に出していたLNPによる投与のプレプリント&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Broadの人達がやっているデリバリー &lt;a href=&quot;https://www.cell.com/cell/fulltext/S0092-8674(21)01484-7&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;https://www.science.org/doi/10.1126/science.abg6155&quot;&gt;2&lt;/a&gt; &lt;a href=&quot;https://www.nature.com/articles/s41586-023-05870-7&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文３： &lt;a href=&quot;https://www.cell.com/neuron/fulltext/S0896-6273(23)00893-0&quot;&gt;Full field-of-view virtual reality goggles for mice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dombecklab.org/&quot;&gt;Daniel Dombeck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pni.princeton.edu/people/david-tank&quot;&gt;David Tank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/trends/biochemical-sciences/fulltext/S0896-6273(07)00614-9&quot;&gt;２光子顕微鏡の下でマウスを走らせたNeuron論文 (2007)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nn.2648&quot;&gt;海馬での応用が2010 NN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature08499&quot;&gt;Chris Harveyの仕事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature17899&quot;&gt;Moserとかがオーサーに入ってる、VR使用時の注意点ディスカッション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zemax.com/&quot;&gt;Zemax&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文４：&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.11.06.565867v1&quot;&gt;Mime-seq 2.0: a method to sequence microRNAs from specific mouse cell types&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mbg.jhmi.edu/people/luisa-cochella-ph-d/&quot;&gt;Loisa Cochella&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nmeth.4610&quot;&gt;Mime seqその１ in Nat Meth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-023-42746-w&quot;&gt;miRNAによるAstrocyte以外でのTransgene分解&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cell.com/cell/fulltext/S0092-8674(21)00503-1&quot;&gt;glycolRNA Cell 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bertozzigroup.stanford.edu/&quot;&gt;Bertozzi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rafrna.com/&quot;&gt;筆頭著者のRyan Flynn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2023.11.06.565735v1&quot;&gt;続報プレプリント&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Carolyn_Bertozzi&quot;&gt;Bertozziは元々糖鎖合成の化学者でした&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;論文５：&lt;a href=&quot;https://www.pnas.org/doi/10.1073/pnas.2302655120&quot;&gt;Rats respond to aversive emotional arousal of human handlers with the activation of the basolateral and central amygdala&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nmeth.2935&quot;&gt;ハンドラーの性によって行動が変わる、の論文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aax4705&quot;&gt;ラット、かくれんぼする&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aah5114&quot;&gt;ラット、くすぐられて笑う&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.activetouch.de/&quot;&gt;Brecht&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Contributed Submissionがなくなった? -&amp;gt;嘘でした、まだあります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Editorial Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;マイク沼、CPU/GPU沼、対物レンズ沼は奥が深そうで怖い (脇)&lt;/li&gt;
+  &lt;li&gt;昔はひたすらマーガレットおばさんのシャツとニットを着てましたが、体がデカくなって着れなくなったので全部捨てて、以降ほぼ全部ユニクロ(か山系)です(萩)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:52:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12964818/12964818-1614007115366-57b52dacdc1ba.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>70</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#69 PhD programme at the Centre]]></title>
 			<description><![CDATA[<p>University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(<a href="https://twitter.com/_sumiyakuroda">@_sumiyakuroda</a>)、中野誠大さん(<a href="https://twitter.com/_mnakano">@_mnakano</a>)がゲスト。UCL/SWCでのPhDコース、Tom (&amp; Tim)  ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)</p>

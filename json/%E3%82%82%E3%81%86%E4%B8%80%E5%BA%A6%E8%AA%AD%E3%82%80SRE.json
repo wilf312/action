@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #88",
+      "description": "<p>23.4.1 Multi-Paxos:詳細なメッセージフロー</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-88-e2gt94l",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b8d69eb0-c0c0-4ec7-b9fb-217537904a0f"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Mon, 11 Mar 2024 03:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/83845717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-11%2F0e734bb4-22bd-36ae-8b7c-5268d53de793.m4a",
+        "@length": 26888109,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.4.1 Multi-Paxos:詳細なメッセージフロー</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #87",
       "description": "<p>23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで<strong>\n</strong></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-87-e2ffess",

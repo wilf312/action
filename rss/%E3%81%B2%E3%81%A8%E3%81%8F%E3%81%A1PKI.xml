@@ -12,7 +12,7 @@
 			<link>https://podcasters.spotify.com/pod/show/hitokuchipki</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 06 Dec 2023 09:47:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Mar 2024 09:54:32 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/42b89b8c/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Eureka]]></author>
 		<copyright><![CDATA[Eureka]]></copyright>
@@ -31,6 +31,108 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+		<item>
+			<title><![CDATA[64: Google Trust Service のインシデントレポートの話とChrome Root Programの新バージョンが出た話]]></title>
+			<description><![CDATA[<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogleTrustedServiceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>
+<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version 1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogle Trusted Serviceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>
+<p><br></p>
+<p>	• Google Trust Services のインシデントレポート</p>
+<p>		○ 1876593 - Google Trust Services: Failure to properly validate IP address (mozilla.org) https://bugzilla.mozilla.org/show_bug.cgi?id=1876593 </p>
+<p>	• Chrome Root Programの新バージョンでてました。</p>
+<p>		○ Chrome Root Program Policy, Version 1.5</p>
+<p>		○ Last updated: 2024-01-16</p>
+<p>		○ https://www.chromium.org/Home/chromium-security/root-ca-policy/</p>
+<p>		○ Chrome Root Program Policy Version 1.5 (TRACKED CHANGES).docx - Google ドキュメント https://docs.google.com/document/d/1soL-ZFOp8LeUwvQjKlacf2GWuvjYJ1A7/edit#heading=h.gjdgxs</p>
+<p>	• 三都屋のお餅</p>
+<p>		○ https://kuromon-mitoya.com/product_list/mochi/ </p>
+<p><br></p>
+<p>
+
+
+
+
+
+
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/64-Google-Trust-Service-Chrome-Root-Program-e2g8vfr</link>
+			<guid isPermaLink="false">4389f2a6-2e5d-4559-917c-1a53e049c0f4</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Sun, 25 Feb 2024 23:25:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/83180475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-25%2Fb8dfb83b-7e51-927f-afd8-741dfe6f024c.mp3" length="42633648" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogleTrustedServiceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。&lt;/p&gt;
+&lt;p&gt;冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version 1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogle Trusted Serviceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;	• Google Trust Services のインシデントレポート&lt;/p&gt;
+&lt;p&gt;		○ 1876593 - Google Trust Services: Failure to properly validate IP address (mozilla.org) https://bugzilla.mozilla.org/show_bug.cgi?id=1876593 &lt;/p&gt;
+&lt;p&gt;	• Chrome Root Programの新バージョンでてました。&lt;/p&gt;
+&lt;p&gt;		○ Chrome Root Program Policy, Version 1.5&lt;/p&gt;
+&lt;p&gt;		○ Last updated: 2024-01-16&lt;/p&gt;
+&lt;p&gt;		○ https://www.chromium.org/Home/chromium-security/root-ca-policy/&lt;/p&gt;
+&lt;p&gt;		○ Chrome Root Program Policy Version 1.5 (TRACKED CHANGES).docx - Google ドキュメント https://docs.google.com/document/d/1soL-ZFOp8LeUwvQjKlacf2GWuvjYJ1A7/edit#heading=h.gjdgxs&lt;/p&gt;
+&lt;p&gt;	• 三都屋のお餅&lt;/p&gt;
+&lt;p&gt;		○ https://kuromon-mitoya.com/product_list/mochi/ &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:11:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>64</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[63: ChromeがCTログサーバの可用性要件を求めるようになった話]]></title>
+			<description><![CDATA[<p>ひとけーが今年1/23-26に長崎で行われるSCIS2024で発表します。記事を出すことで自分の役割を果たしたと思っていたけど、対策を世の中にデリバリするにはもう一仕事必要そうだなとおもってもがいている話もちょっとしました。PKIネタではChromeがCTログサーバとして参照するのに可用性要件（90日平均で99%）を求めるようになった話をしました。雑談ではテキサス寒波到来、ゲーム捗った、パンを焼く、もち用アルミホイルなどの話をしました。</p>
+<ul>
+ <li>2024年　暗号と情報セキュリティシンポジウム（SCIS2024)</li>
+</ul>
+<p>		 https://www.iwsec.org/scis/2024/ </p>
+<ul>
+ <li> New availability requirements for logs trusted by Chrome coming into effect March 31, 2024　https://groups.google.com/a/chromium.org/g/ct-policy/c/4G-lF2N8H7A/m/fJ4WgAunAQAJ</li>
+</ul>
+<ul>
+  <li>Pillsbury　https://www.pillsbury.com/</li>
+  <li>東洋アルミ おもちを焼くホイル
+
+https://www.amazon.co.jp/%E6%9D%B1%E6%B4%8B%E3%82%A2%E3%83%AB%E3%83%9F-TOYO-ALUMINIUM-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%92%E7%84%BC%E3%81%8F%E3%83%9B%E3%82%A4%E3%83%AB/dp/B0088B5I6O/</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/63-ChromeCT-e2egn69</link>
+			<guid isPermaLink="false">4edb799b-32ac-49aa-bebd-7935971223e4</guid>
+			<dc:creator><![CDATA[Eureka]]></dc:creator>
+			<pubDate>Tue, 16 Jan 2024 07:26:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/42b89b8c/podcast/play/81336969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-16%2F5ad84cbf-fb7f-acc1-4cdf-edf06e8b90bd.mp3" length="40227192" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ひとけーが今年1/23-26に長崎で行われるSCIS2024で発表します。記事を出すことで自分の役割を果たしたと思っていたけど、対策を世の中にデリバリするにはもう一仕事必要そうだなとおもってもがいている話もちょっとしました。PKIネタではChromeがCTログサーバとして参照するのに可用性要件（90日平均で99%）を求めるようになった話をしました。雑談ではテキサス寒波到来、ゲーム捗った、パンを焼く、もち用アルミホイルなどの話をしました。&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;2024年　暗号と情報セキュリティシンポジウム（SCIS2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;		 https://www.iwsec.org/scis/2024/ &lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt; New availability requirements for logs trusted by Chrome coming into effect March 31, 2024　https://groups.google.com/a/chromium.org/g/ct-policy/c/4G-lF2N8H7A/m/fJ4WgAunAQAJ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pillsbury　https://www.pillsbury.com/&lt;/li&gt;
+  &lt;li&gt;東洋アルミ おもちを焼くホイル
+
+https://www.amazon.co.jp/%E6%9D%B1%E6%B4%8B%E3%82%A2%E3%83%AB%E3%83%9F-TOYO-ALUMINIUM-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%92%E7%84%BC%E3%81%8F%E3%83%9B%E3%82%A4%E3%83%AB/dp/B0088B5I6O/&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:05:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>63</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[62: WebPKIのシェアでLet’s Encryptが過半数を超えた話]]></title>
 			<description><![CDATA[<p>技術書典15とInternet Week 2023に出る話、WebPKIのシェアでLet’s Encryptが過半数を超えた話をしました。雑談では、100kmライド走った話、ムール貝のワイン蒸しの話、サブウェイからターキーブレストがなくなった話をしました。</p>

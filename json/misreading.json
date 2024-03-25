@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 29 Feb 2024 13:40:04 +0000",
+  "lastBuildDate": "Sat, 09 Mar 2024 20:53:01 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,40 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#128: Faiss: A library for efficient similarity search and clustering of dense vectors.",
+      "link": "https://misreading.chat/2024/03/09/128-faiss-a-library-for-efficient-similarity-search-and-clustering-of-dense-vectors/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Sat, 09 Mar 2024 20:53:01 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1108"
+      },
+      "description": "Meta の vector search 実装の関連論文を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "content:encoded": "<p>Meta の vector search 実装の関連論文を<a href=\"https://jmuk.org/\">向井</a>が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2024/03/ep128.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://github.com/facebookresearch/faiss\">facebookresearch/faiss: A library for efficient similarity search and clustering of dense vectors.</a></li>\n\n\n\n<li><a href=\"https://github.com/facebookresearch/faiss/wiki#research-foundations-of-faiss\">Home · facebookresearch/faiss Wiki</a></li>\n\n\n\n<li><a href=\"https://ieeexplore.ieee.org/abstract/document/6678503\">Optimized Product Quantization | IEEE Journals & Magazine | IEEE Xplore</a></li>\n\n\n\n<li><a href=\"https://inria.hal.science/inria-00514462v2/document\">Product Quantization for Nearest Neighbor Search</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/1102.3828\">[1102.3828] Searching in one billion vectors: re-rank with source coding</a></li>\n\n\n\n<li><a href=\"https://ieeexplore.ieee.org/abstract/document/6248038\">The inverted multi-index | IEEE Conference Publication | IEEE Xplore</a></li>\n\n\n\n<li><a href=\"https://www.jstage.jst.go.jp/article/mta/6/1/6_2/_pdf\">A Survey of Product Quantization</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2024/03/ep128.mp3",
+        "@length": 30701143,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 2558,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "Meta の vector search 実装の関連論文を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "googleplay:description": "Meta の vector search 実装の関連論文を向井が読みました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#127: Programming Massively Parallel Processors (Ch.1- Ch.3)",
       "link": "https://misreading.chat/2024/02/29/127-programming-massively-parallel-processors-ch-1-ch-3/",

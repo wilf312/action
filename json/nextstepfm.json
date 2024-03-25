@@ -15,8 +15,8 @@
   ],
   "title": "nextstep.fm",
   "link": "https://soundcloud.com/nextstepfm",
-  "pubDate": "Mon, 26 Feb 2024 15:13:30 +0000",
-  "lastBuildDate": "Mon, 26 Feb 2024 15:13:30 +0000",
+  "pubDate": "Mon, 11 Mar 2024 14:27:47 +0000",
+  "lastBuildDate": "Mon, 11 Mar 2024 14:27:47 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,56 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1771518885"
+      },
+      "title": "#73 try! Swift Tokyo 直前タイムテーブル徹底解説",
+      "pubDate": "Mon, 11 Mar 2024 14:27:47 +0000",
+      "link": "https://soundcloud.com/nextstepfm/73-try-swift-tokyo",
+      "itunes:duration": "02:14:51",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\ntry Swift Tokyo，直前スペシャル．発表の内容の概要を紹介します！\n\n1. try! Swift Tokyoのご案内 - https://tryswift.jp\n2. タイムテーブル - https://tryswift.jp/#timetable\n3. チケットはこちらから - https://tryswift.jp/#ticket\n\nSpecial Guest\n1. https://twitter.com/S_Shimotori_pub\n2. https://twitter.com/shmdevelop\n3. https://twitter.com/omochimetaru",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\ntry Swift Tokyo，直前スペシャル．発表の内容の概要を紹介します！\n\n1. try! Swift Tokyoのご案内 - https://tryswift.jp\n2. タイムテーブル - https://tryswift.jp/#timetable\n3. チケットはこちらから - https://tryswift.jp/#ticket\n\nSpecial Guest\n1. https://twitter.com/S_Shimotori_pub\n2. https://twitter.com/shmdevelop\n3. https://twitter.com/omochimetaru",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1771518885-nextstepfm-73-try-swift-tokyo.mp3",
+        "@length": 129458258,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1769732673"
+      },
+      "title": "#72 聞け！アクター！前編",
+      "pubDate": "Sat, 09 Mar 2024 07:15:21 +0000",
+      "link": "https://soundcloud.com/nextstepfm/72a",
+      "itunes:duration": "00:20:24",
+      "itunes:author": "nextstep.fm",
+      "itunes:explicit": "no",
+      "itunes:summary": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n特別編．Actorモデルについて，kateiくんに説明してもらいました．前編．後編はいつになるのか．\n\n1. Actorってなんですか\n2. 下手に説明すると怒られる界隈\n3. Notification\n4. メインスレッドとActorモデル\n5. スレッドとActorモデル\n6. 順番や同時実行だけが問題",
+      "itunes:subtitle": "Starring:k_katsumi, sonson_twit, d_date, kateinoi…",
+      "description": "Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp\n\n特別編．Actorモデルについて，kateiくんに説明してもらいました．前編．後編はいつになるのか．\n\n1. Actorってなんですか\n2. 下手に説明すると怒られる界隈\n3. Notification\n4. メインスレッドとActorモデル\n5. スレッドとActorモデル\n6. 順番や同時実行だけが問題",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1769732673-nextstepfm-72a.mp3",
+        "@length": 19585566,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,

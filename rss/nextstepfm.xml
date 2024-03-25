@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:281879883/sounds.rss?before=302957379" rel="next" type="application/rss+xml"/>
         <title>nextstep.fm</title>
         <link>https://soundcloud.com/nextstepfm</link>
-        <pubDate>Sat, 23 Sep 2023 09:07:01 +0000</pubDate>
-        <lastBuildDate>Sat, 23 Sep 2023 09:07:01 +0000</lastBuildDate>
+        <pubDate>Mon, 11 Mar 2024 14:27:47 +0000</pubDate>
+        <lastBuildDate>Mon, 11 Mar 2024 14:27:47 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ja</language>
         <copyright>All rights reserved</copyright>
@@ -28,6 +28,176 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1771518885</guid>
+      <title>#73 try! Swift Tokyo 直前タイムテーブル徹底解説</title>
+      <pubDate>Mon, 11 Mar 2024 14:27:47 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/73-try-swift-tokyo</link>
+      <itunes:duration>02:14:51</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+try Swift Tokyo，直前スペシャル．発表の内容の概要を紹介します！
+
+1. try! Swift Tokyoのご案内 - https://tryswift.jp
+2. タイムテーブル - https://tryswift.jp/#timetable
+3. チケットはこちらから - https://tryswift.jp/#ticket
+
+Special Guest
+1. https://twitter.com/S_Shimotori_pub
+2. https://twitter.com/shmdevelop
+3. https://twitter.com/omochimetaru</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, d_date, kateinoi…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+try Swift Tokyo，直前スペシャル．発表の内容の概要を紹介します！
+
+1. try! Swift Tokyoのご案内 - https://tryswift.jp
+2. タイムテーブル - https://tryswift.jp/#timetable
+3. チケットはこちらから - https://tryswift.jp/#ticket
+
+Special Guest
+1. https://twitter.com/S_Shimotori_pub
+2. https://twitter.com/shmdevelop
+3. https://twitter.com/omochimetaru</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1771518885-nextstepfm-73-try-swift-tokyo.mp3" length="129458258"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1769732673</guid>
+      <title>#72 聞け！アクター！前編</title>
+      <pubDate>Sat, 09 Mar 2024 07:15:21 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/72a</link>
+      <itunes:duration>00:20:24</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+特別編．Actorモデルについて，kateiくんに説明してもらいました．前編．後編はいつになるのか．
+
+1. Actorってなんですか
+2. 下手に説明すると怒られる界隈
+3. Notification
+4. メインスレッドとActorモデル
+5. スレッドとActorモデル
+6. 順番や同時実行だけが問題</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, d_date, kateinoi…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+特別編．Actorモデルについて，kateiくんに説明してもらいました．前編．後編はいつになるのか．
+
+1. Actorってなんですか
+2. 下手に説明すると怒られる界隈
+3. Notification
+4. メインスレッドとActorモデル
+5. スレッドとActorモデル
+6. 順番や同時実行だけが問題</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1769732673-nextstepfm-72a.mp3" length="19585566"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1758343401</guid>
+      <title>#71 Vision Proがやってきた！ヤァ！ヤァ！ヤァ！</title>
+      <pubDate>Mon, 26 Feb 2024 15:13:30 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/71-vision-pro</link>
+      <itunes:duration>01:35:38</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+Vision Proの使用感，今後の展開，express.jsの悲劇について話しました．
+
+1. try! Swift Tokyoのご案内 - https://tryswift.jp
+2. Vision Proどうよ
+3. Vision Proはゲーム機になる？
+5. 今までのARアプリはUIが貧弱すぎる・・・・そこへの期待！
+6. ゲーム機とVision Proでは・・・販売台数が違いすぎる・・・・・・・．
+7. 新しいゲームエンジンGodot https://godotengine.org
+8. Swift biding https://github.com/migueldeicaza/SwiftGodot
+9.  express.jsのプルリクエスト事件
+10. 初心者のプルリクはどうすればいいのか，どうあるべきか
+11. GitHubへのフィッシング事件
+12. bitbacket, gitlab
+13. GitHubの乗っ取りは結構危ない・・・・・
+14. オープンソースへの脅威
+15. GitHubにAWSのキーを書き込んでpushすると自動的にキーが削除されるらしい
+16. Vision Proの返品殺到？</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit, d_date, kateinoi…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit, d_date, kateinoigakukun, 1024jp
+
+Vision Proの使用感，今後の展開，express.jsの悲劇について話しました．
+
+1. try! Swift Tokyoのご案内 - https://tryswift.jp
+2. Vision Proどうよ
+3. Vision Proはゲーム機になる？
+5. 今までのARアプリはUIが貧弱すぎる・・・・そこへの期待！
+6. ゲーム機とVision Proでは・・・販売台数が違いすぎる・・・・・・・．
+7. 新しいゲームエンジンGodot https://godotengine.org
+8. Swift biding https://github.com/migueldeicaza/SwiftGodot
+9.  express.jsのプルリクエスト事件
+10. 初心者のプルリクはどうすればいいのか，どうあるべきか
+11. GitHubへのフィッシング事件
+12. bitbacket, gitlab
+13. GitHubの乗っ取りは結構危ない・・・・・
+14. オープンソースへの脅威
+15. GitHubにAWSのキーを書き込んでpushすると自動的にキーが削除されるらしい
+16. Vision Proの返品殺到？</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1758343401-nextstepfm-71-vision-pro.mp3" length="91813928"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1691259855</guid>
+      <title>#70 AIがコードを書いてる様子の動画を自動編集してコードを解説する未来</title>
+      <pubDate>Fri, 15 Dec 2023 15:31:59 +0000</pubDate>
+      <link>https://soundcloud.com/nextstepfm/70-ai</link>
+      <itunes:duration>02:04:30</itunes:duration>
+      <itunes:author>nextstep.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Starring:k_katsumi, sonson_twit
+
+久々に，二人で話しましたよ．m5stack, Xcode for Copilot，オメガクラフター，nVIDIAの天下はいつまで続くか？について話しました．
+
+1. MacBookPro 128GB - https://www.apple.com/jp/macbook-pro/
+2. Apple Watchの文字盤
+3. OBS Studio - https://obsproject.com/ja
+4. m5stack - https://m5stack.com
+5. Copilot for Xcode - https://github.com/intitni/CopilotForXcode 
+6. 声優の声の権利 - https://www.nhk.or.jp/gendai/articles/4856/
+7. AI専用チップ，nVIDIAの覇権は続く？ - https://www.gizmodo.jp/2023/11/ai-chip-wars-microsoft-maia-nvidia.html
+8. nVIDIAの株をホールドできたか？
+9. プログラマーがYouTuberになったら？ - https://www.youtube.com/@codelynx1
+10. プログラミングをおもしろくできる編集能力
+11. フリーランス情報商材はもう弾切れ？
+12. オメガクラフターどうよ？ - https://store.steampowered.com/app/2262080/Omega_Crafter/?l=japanese
+13. オメガクラフターは，マイクラmodの代わりになれるか？
+14. AIとSpacial Computingが次の覇権か？
+15. プログラマが儲かる時代は終わった？
+16. Apple Watchに次に載るセンサは？
+17. 良いお年を!</itunes:summary>
+      <itunes:subtitle>Starring:k_katsumi, sonson_twit
+
+久々に，二人で話しましたよ．m5…</itunes:subtitle>
+      <description>Starring:k_katsumi, sonson_twit
+
+久々に，二人で話しましたよ．m5stack, Xcode for Copilot，オメガクラフター，nVIDIAの天下はいつまで続くか？について話しました．
+
+1. MacBookPro 128GB - https://www.apple.com/jp/macbook-pro/
+2. Apple Watchの文字盤
+3. OBS Studio - https://obsproject.com/ja
+4. m5stack - https://m5stack.com
+5. Copilot for Xcode - https://github.com/intitni/CopilotForXcode 
+6. 声優の声の権利 - https://www.nhk.or.jp/gendai/articles/4856/
+7. AI専用チップ，nVIDIAの覇権は続く？ - https://www.gizmodo.jp/2023/11/ai-chip-wars-microsoft-maia-nvidia.html
+8. nVIDIAの株をホールドできたか？
+9. プログラマーがYouTuberになったら？ - https://www.youtube.com/@codelynx1
+10. プログラミングをおもしろくできる編集能力
+11. フリーランス情報商材はもう弾切れ？
+12. オメガクラフターどうよ？ - https://store.steampowered.com/app/2262080/Omega_Crafter/?l=japanese
+13. オメガクラフターは，マイクラmodの代わりになれるか？
+14. AIとSpacial Computingが次の覇権か？
+15. プログラマが儲かる時代は終わった？
+16. Apple Watchに次に載るセンサは？
+17. 良いお年を!</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1691259855-nextstepfm-70-ai.mp3" length="119528384"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000290517779-8wu74j-original.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1623433029</guid>
       <title>#69 macOSのUI哲学はSonomaまでお願いします・・・・．</title>
       <pubDate>Sat, 23 Sep 2023 09:07:01 +0000</pubDate>
