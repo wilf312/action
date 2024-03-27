@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #89",
+      "description": "<p>23.4.2 読み取り負荷が大きいワークロードのスケーリングから23.4.4 分散合意のパフォーマンスとネットワークのレイテンシまで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-89-e2hk7kp",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "44f81f54-1e44-4b51-a9b5-9d428b3fd671"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 27 Mar 2024 02:06:10 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/84597849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F24b484db-9f0d-705b-8794-3cfb3baf1e44.m4a",
+        "@length": 29957698,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.4.2 読み取り負荷が大きいワークロードのスケーリングから23.4.4 分散合意のパフォーマンスとネットワークのレイテンシまで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:30:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #88",
       "description": "<p>23.4.1 Multi-Paxos:詳細なメッセージフロー</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-88-e2gt94l",
