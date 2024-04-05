@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Tue, 26 Mar 2024 13:12:06 +0000",
+  "lastBuildDate": "Fri, 05 Apr 2024 13:01:13 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,40 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#130: Diffusion models from scratch, from a new theoretical perspective",
+      "link": "https://misreading.chat/2024/04/05/130-diffusion-models-from-scratch-from-a-new-theoretical-perspective/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Fri, 05 Apr 2024 13:01:13 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1129"
+      },
+      "description": "向井が画像生成の拡散モデルに入門しました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "content:encoded": "<p><a href=\"https://jmuk.org/\">向井</a>が画像生成の拡散モデルに入門しました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreadingchat.files.wordpress.com/2024/04/ep130.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.chenyang.co/diffusion.html\">Diffusion models from scratch</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/1503.03585\">[1503.03585] Deep Unsupervised Learning using Nonequilibrium Thermodynamics</a></li>\n\n\n\n<li><a href=\"https://arxiv.org/abs/2006.11239\">[2006.11239] Denoising Diffusion Probabilistic Models</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreadingchat.files.wordpress.com/2024/04/ep130.mp3",
+        "@length": 22125943,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 1844,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "向井が画像生成の拡散モデルに入門しました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "googleplay:description": "向井が画像生成の拡散モデルに入門しました。ご意見感想などは Reddit やおたより投書箱にお寄せください。iTunes のレビューや星もよろしくね。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#129: Programming Massively Parallel Processors (Ch.4- Ch.6)",
       "link": "https://misreading.chat/2024/03/26/129-programming-massively-parallel-processors-ch-4-ch-6/",
