@@ -15,8 +15,8 @@
   ],
   "title": "engineer meeting podcast",
   "link": "https://soundcloud.com/engineer-meeting",
-  "pubDate": "Sun, 17 Mar 2024 21:40:45 +0000",
-  "lastBuildDate": "Sun, 17 Mar 2024 21:40:45 +0000",
+  "pubDate": "Sat, 06 Apr 2024 21:52:10 +0000",
+  "lastBuildDate": "Sat, 06 Apr 2024 21:52:10 +0000",
   "ttl": 60,
   "language": "ja",
   "copyright": "All rights reserved",
@@ -43,6 +43,31 @@
     "#text": null
   },
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "tag:soundcloud,2010:tracks/1794766474"
+      },
+      "title": "vol.223 AI音声会話サービス",
+      "pubDate": "Sun, 07 Apr 2024 20:27:24 +0000",
+      "link": "https://soundcloud.com/engineer-meeting/vol223",
+      "itunes:duration": "00:39:31",
+      "itunes:author": "エンジニアミーティング",
+      "itunes:explicit": "no",
+      "itunes:summary": "[トピックス]\nhume(https://demo.hume.ai/)\ncotomo(https://cotomo.ai/)\nXZ Utilsの脆弱性 CVE-2024-3094 についてまとめてみた - piyolog(https://piyolog.hatenadiary.jp/entry/2024/04/01/035321)\nAIラップ名刺 (https://minkabu.jp/news/3864455)\nまんざいこわい(https://live.yoshimoto.co.jp/live/live-10543/)",
+      "itunes:subtitle": "[トピックス]\nhume(https://demo.hume.ai/)\ncotomo(https:…",
+      "description": "[トピックス]\nhume(https://demo.hume.ai/)\ncotomo(https://cotomo.ai/)\nXZ Utilsの脆弱性 CVE-2024-3094 についてまとめてみた - piyolog(https://piyolog.hatenadiary.jp/entry/2024/04/01/035321)\nAIラップ名刺 (https://minkabu.jp/news/3864455)\nまんざいこわい(https://live.yoshimoto.co.jp/live/live-10543/)",
+      "enclosure": {
+        "@type": "audio/mpeg",
+        "@url": "https://feeds.soundcloud.com/stream/1794766474-engineer-meeting-vol223.mp3",
+        "@length": 75902979,
+        "#text": null
+      },
+      "itunes:image": {
+        "@href": "https://i1.sndcdn.com/avatars-000112857951-u5p3os-original.png",
+        "#text": null
+      }
+    },
     {
       "guid": {
         "@isPermaLink": false,
