@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "102. 時間、暦、タイムゾーンにまつわるバグの話",
+      "description": "<p>ベイエリアが夏時間に移行したのに合わせて、暦や時間、タイムゾーンにまつわるバグやトラブルについて話しました。</p>\n<ul>\n <li>2007年 <a href=\"https://www.itmedia.co.jp/enterprise/articles/0703/13/news015.html\">3週間早い夏時間切り替えでIT製品に問題多発</a></li>\n <li>2010年 <a href=\"https://www.itmedia.co.jp/news/articles/1011/08/news082.html\">iPhoneの時計アプリ</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/2000%E5%B9%B4%E5%95%8F%E9%A1%8C\">2000年問題</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/2001%E5%B9%B49%E6%9C%889%E6%97%A5%E5%95%8F%E9%A1%8C\">2001年9月9日問題</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/2010%E5%B9%B4%E5%95%8F%E9%A1%8C#%E5%B9%B4%E6%95%B0%E5%87%A6%E7%90%86%E3%81%AE%E3%83%90%E3%82%B0\">2010年</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C100%E5%B9%B4%E5%95%8F%E9%A1%8C\">昭和100年問題</a></li>\n  <li><a href=\"https://note.com/ruiu/n/n0349ed9f0d8f\">システム障害なしにうるう秒を乗り切る技術の発達について</a></li>\n  <li><a href=\"https://xtech.nikkei.com/atcl/nxt/column/18/00001/08815/#:~:text=%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6,%E3%81%97%E3%81%AA%E3%81%84%E3%80%8D%E3%81%A8%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89%E3%81%A0%E3%80%82\">閏秒の廃止</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/102-e2hk142",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "584cb8ad-6259-40cd-b4ca-e0e145b78335"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 07 Apr 2024 18:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/84591170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F367f0040%2F84591170%2Fd34a316a5f3591b067c7f87aee555869.m4a",
+        "@length": 30343509,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>ベイエリアが夏時間に移行したのに合わせて、暦や時間、タイムゾーンにまつわるバグやトラブルについて話しました。</p>\n<ul>\n <li>2007年 <a href=\"https://www.itmedia.co.jp/enterprise/articles/0703/13/news015.html\">3週間早い夏時間切り替えでIT製品に問題多発</a></li>\n <li>2010年 <a href=\"https://www.itmedia.co.jp/news/articles/1011/08/news082.html\">iPhoneの時計アプリ</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/2000%E5%B9%B4%E5%95%8F%E9%A1%8C\">2000年問題</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/2001%E5%B9%B49%E6%9C%889%E6%97%A5%E5%95%8F%E9%A1%8C\">2001年9月9日問題</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/2010%E5%B9%B4%E5%95%8F%E9%A1%8C#%E5%B9%B4%E6%95%B0%E5%87%A6%E7%90%86%E3%81%AE%E3%83%90%E3%82%B0\">2010年</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C100%E5%B9%B4%E5%95%8F%E9%A1%8C\">昭和100年問題</a></li>\n  <li><a href=\"https://note.com/ruiu/n/n0349ed9f0d8f\">システム障害なしにうるう秒を乗り切る技術の発達について</a></li>\n  <li><a href=\"https://xtech.nikkei.com/atcl/nxt/column/18/00001/08815/#:~:text=%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6,%E3%81%97%E3%81%AA%E3%81%84%E3%80%8D%E3%81%A8%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89%E3%81%A0%E3%80%82\">閏秒の廃止</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "101. <後編> ソフトウェアエンジニアとしての成長と今後(Hiro Tsujinoさん)",
       "description": "<p>前回に引き続き、ベイエリアのビッグテックでソフトウェアエンジニアとして活躍しているHiroさんをゲストにお迎えして、ソフトウェアエンジニアになってからの苦労、成長と今後の展望をお聞きしました。</p>\n<ul>\n <li><p>Twitter/X<a href=\"https://twitter.com/hirotsujino\">⁠ @hirotsujino⁠</a></p>\n</li>\n <li><p>No+e: 「<a href=\"https://note.com/hirotsujino/n/ne9422317c0d3\">⁠Google Japan にビジネス職として新卒入社して、本社でソフトウェアエンジニアになるまで⁠</a>」</p>\n</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Knot, inc CTO<a href=\"https://twitter.com/tomoaki_imai\">⁠ https://twitter.com/tomoaki_imai⁠</a></li>\n <li>Ryoichi Kato, Software Engineer<a href=\"https://twitter.com/ryo1kato\">⁠ ⁠https://twitter.com/ryo1kato</a></li>\n</ul>\n<p><br></p>\n<p><strong>出演者の発言はすべて個人の経験、見解に基づくものであり、所属組織を代表するものではありません</strong></p>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/101---Hiro-Tsujino-e2h5v04",
