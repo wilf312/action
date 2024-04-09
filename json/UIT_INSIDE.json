@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.154『ユーザーインタビューでプロダクトの本当の姿を知る』",
+      "link": "https://uit-inside.linecorp.com/episode/154",
+      "pubDate": "Tue, 09 Apr 2024 06:30:00 GMT",
+      "description": "<p>サービスの課題やニーズを知ることを目的に実際にユーザーから意見を聞き出して調査するユーザーインタビューについて、2つの事例をもとに聞きました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/154"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-154.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),Taiga Nishiyama(asakura_dev)",
+      "itunes:subtitle": "ep.154『ユーザーインタビューでプロダクトの本当の姿を知る』",
+      "itunes:duration": "29:20",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode154.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.153『UIT × Bonfire Front-End Meetup Aftershow』",
       "link": "https://uit-inside.linecorp.com/episode/153",
       "pubDate": "Fri, 16 Feb 2024 09:00:00 GMT",
