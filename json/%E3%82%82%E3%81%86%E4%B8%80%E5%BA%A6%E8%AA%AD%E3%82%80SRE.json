@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #90",
+      "description": "<p>23.4.5 パフォーマンスに関する考察:Fast Paxos から 23.4.7 バッチ処理 まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-90-e2i75sq",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "bfc92267-45ec-4916-86c1-22221eb3cc80"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 10 Apr 2024 05:00:22 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/85218650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F5a9edad1-9a1e-1165-ac8e-1ae8d4af0c27.m4a",
+        "@length": 24503214,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.4.5 パフォーマンスに関する考察:Fast Paxos から 23.4.7 バッチ処理 まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:25:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #89",
       "description": "<p>23.4.2 読み取り負荷が大きいワークロードのスケーリングから23.4.4 分散合意のパフォーマンスとネットワークのレイテンシまで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-89-e2hk7kp",
