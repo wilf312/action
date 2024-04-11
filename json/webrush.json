@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 4 Apr 2024 10:00:00 +0000",
-  "lastBuildDate": "Thu, 4 Apr 2024 10:00:14 +0000",
+  "pubDate": "Thu, 11 Apr 2024 10:00:00 +0000",
+  "lastBuildDate": "Thu, 11 Apr 2024 10:00:13 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a63d4837-1132-4bf8-9278-6a23f3f4a5ef"
+      },
+      "title": "Episode 276: What’s Possible with AI Agents?",
+      "description": "<p>Host(s):</p><ul><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Chris Noring <a href=\"https://x.com/chris_noring\">@chris_noring</a></li></ul><p>Recording date: 03/28/2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://softchris.github.io/articles.html\">Chris Noring’s blog</a></li><li><a href=\"https://www.amazon.com/Road-Ahead-Book-CD/dp/0670772895/\">The Road Ahead, Bill Gates</a></li><li><a href=\"https://zapier.com/blog/ai-agent/\">What is an AI agent?</a></li><li><a href=\"https://www.langchain.com/\">LangChain</a></li><li><a href=\"https://learn.microsoft.com/en-us/semantic-kernel/\">Semantic Kernel</a></li><li><a href=\"https://microsoft.github.io/autogen/\">Autogen</a></li><li><a href=\"https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio\">CoPilot Studio</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:30</a></strong> Introducing Chris Noring</li><li><strong><a>01:19</a></strong> How do you think about AI agents?</li><li><strong><a>04:28</a></strong> How do you define an AI agent?</li><li><strong><a>05:56</a></strong> Sponsor: Ag Grid</li><li><strong><a>06:59</a></strong> Why do we need AI agents?</li><li><strong><a>09:24</a></strong> Is there a distinction between an agent vs an assistant?</li><li><strong><a>12:07</a></strong> How do I create an agent for my own usage?</li><li><strong><a>20:02</a></strong> How would you decide on a framework to work with?</li><li><strong><a>29:03</a></strong> Sponsor: IdeaBlade</li><li><strong><a>29:58</a></strong> What is CoPilot Studio and how does it differ?</li><li><strong><a>34:12</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 11 Apr 2024 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Chris Noring <a href=\"https://x.com/chris_noring\">@chris_noring</a></li></ul><p>Recording date: 03/28/2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://softchris.github.io/articles.html\">Chris Noring’s blog</a></li><li><a href=\"https://www.amazon.com/Road-Ahead-Book-CD/dp/0670772895/\">The Road Ahead, Bill Gates</a></li><li><a href=\"https://zapier.com/blog/ai-agent/\">What is an AI agent?</a></li><li><a href=\"https://www.langchain.com/\">LangChain</a></li><li><a href=\"https://learn.microsoft.com/en-us/semantic-kernel/\">Semantic Kernel</a></li><li><a href=\"https://microsoft.github.io/autogen/\">Autogen</a></li><li><a href=\"https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio\">CoPilot Studio</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:30</a></strong> Introducing Chris Noring</li><li><strong><a>01:19</a></strong> How do you think about AI agents?</li><li><strong><a>04:28</a></strong> How do you define an AI agent?</li><li><strong><a>05:56</a></strong> Sponsor: Ag Grid</li><li><strong><a>06:59</a></strong> Why do we need AI agents?</li><li><strong><a>09:24</a></strong> Is there a distinction between an agent vs an assistant?</li><li><strong><a>12:07</a></strong> How do I create an agent for my own usage?</li><li><strong><a>20:02</a></strong> How would you decide on a framework to work with?</li><li><strong><a>29:03</a></strong> Sponsor: IdeaBlade</li><li><strong><a>29:58</a></strong> What is CoPilot Studio and how does it differ?</li><li><strong><a>34:12</a></strong> Final thoughts</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 34756709,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/70faca79-0feb-4c79-a3dd-de476ee349e6/audio/db61e5e6-2af6-4b51-b9e1-aec41eedf084/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 276: What’s Possible with AI Agents?",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:36:12",
+      "itunes:summary": "Chris Noring talks with Craig about AI agents, how you can use them together with various data points you may already have, how they differ from assistants like Siri or Alexa, and how CoPilot Studio could be a good starting point for a no-code AI agent solution.",
+      "itunes:subtitle": "Chris Noring talks with Craig about AI agents, how you can use them together with various data points you may already have, how they differ from assistants like Siri or Alexa, and how CoPilot Studio could be a good starting point for a no-code AI agent solution.",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:episode": 276
+    },
     {
       "guid": {
         "@isPermaLink": false,
