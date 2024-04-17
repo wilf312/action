@@ -20,7 +20,7 @@
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
   "pubDate": "Thu, 11 Apr 2024 10:00:00 +0000",
-  "lastBuildDate": "Thu, 11 Apr 2024 10:00:13 +0000",
+  "lastBuildDate": "Wed, 17 Apr 2024 19:16:31 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -30,7 +30,7 @@
   "itunes:type": "episodic",
   "itunes:summary": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "itunes:author": "Dan Wahlin, John Papa, Ward Bell, Craig Shoemaker",
-  "itunes:explicit": "no",
+  "itunes:explicit": false,
   "itunes:image": {
     "@href": "https://image.simplecastcdn.com/images/b4af6a46-70c1-48ab-858e-ff4c06df0889/0d416bc6-ce3e-4e54-85f2-891934f5f287/3000x3000/back1.jpg?aid=rss_feed",
     "#text": null
@@ -74,7 +74,7 @@
       "itunes:duration": "00:36:12",
       "itunes:summary": "Chris Noring talks with Craig about AI agents, how you can use them together with various data points you may already have, how they differ from assistants like Siri or Alexa, and how CoPilot Studio could be a good starting point for a no-code AI agent solution.",
       "itunes:subtitle": "Chris Noring talks with Craig about AI agents, how you can use them together with various data points you may already have, how they differ from assistants like Siri or Alexa, and how CoPilot Studio could be a good starting point for a no-code AI agent solution.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 276
     },
@@ -100,7 +100,7 @@
       "itunes:duration": "00:39:47",
       "itunes:summary": "Corbin Crutchley helps us sort through the web frameworks available to developers in 2024 with Framework Fundamentals, his online book that's part of the Framework Field Guide aiming to teach you Angular, React and Vue all at once.",
       "itunes:subtitle": "Corbin Crutchley helps us sort through the web frameworks available to developers in 2024 with Framework Fundamentals, his online book that's part of the Framework Field Guide aiming to teach you Angular, React and Vue all at once.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 275
     },
@@ -126,7 +126,7 @@
       "itunes:duration": "00:41:09",
       "itunes:summary": "Anthony Bartolo helps explain what the generative AI space is like for developers, how a power company is using AI to learn about their code, what to consider when adding AI to a project, and how to write better prompts to make the best use of AI.",
       "itunes:subtitle": "Anthony Bartolo helps explain what the generative AI space is like for developers, how a power company is using AI to learn about their code, what to consider when adding AI to a project, and how to write better prompts to make the best use of AI.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 274
     },
@@ -152,7 +152,7 @@
       "itunes:duration": "00:30:32",
       "itunes:summary": "We're looking at the results from the 2022 State of JavaScript survey to see what happened in the past as we prepare for the 2023 survey results. Topics include langauges vs frameworks, how much experience devs have, proxy usage, the page visibility API, RxJS, JavaScript run times, and data fetching.",
       "itunes:subtitle": "We're looking at the results from the 2022 State of JavaScript survey to see what happened in the past as we prepare for the 2023 survey results. Topics include langauges vs frameworks, how much experience devs have, proxy usage, the page visibility API, RxJS, JavaScript run times, and data fetching.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 273
     },
@@ -178,7 +178,7 @@
       "itunes:duration": "00:34:48",
       "itunes:summary": "John and Ward play a game called What if Angular used Single File Components (SFC) by default? What if Angular used the fetch API or Axios for HTTP requests? What if Angular apps used standard import/exporting of TypeScript modules?",
       "itunes:subtitle": "John and Ward play a game called What if Angular used Single File Components (SFC) by default? What if Angular used the fetch API or Axios for HTTP requests? What if Angular apps used standard import/exporting of TypeScript modules?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 272
     },
@@ -204,7 +204,7 @@
       "itunes:duration": "00:43:02",
       "itunes:summary": "We chat with Craig about his experiences learning Kubernetes, Azure Containers, why you might consider learning more about container apps, how to get started learning, and some of the costs associated with shipping apps in a container.",
       "itunes:subtitle": "We chat with Craig about his experiences learning Kubernetes, Azure Containers, why you might consider learning more about container apps, how to get started learning, and some of the costs associated with shipping apps in a container.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 271
     },
@@ -230,7 +230,7 @@
       "itunes:duration": "00:43:50",
       "itunes:summary": "We're joined by Madelyn Papa to talk about her experience in university while studying software development and computer science, what she's learning about UX, the impact of ChatGPT, React, applying for jobs, and the importance of communication.",
       "itunes:subtitle": "We're joined by Madelyn Papa to talk about her experience in university while studying software development and computer science, what she's learning about UX, the impact of ChatGPT, React, applying for jobs, and the importance of communication.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 270
     },
@@ -256,7 +256,7 @@
       "itunes:duration": "00:37:22",
       "itunes:summary": "Gwyneth Pena-Siguenza talks about their path to becoming a cloud engineer, how it felt at their first professional tech job, the problems they enjoy solving, and what kinds of things people are stumbling on in cloud engineering.",
       "itunes:subtitle": "Gwyneth Pena-Siguenza talks about their path to becoming a cloud engineer, how it felt at their first professional tech job, the problems they enjoy solving, and what kinds of things people are stumbling on in cloud engineering.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 269
     },
@@ -282,7 +282,7 @@
       "itunes:duration": "00:43:52",
       "itunes:summary": "Lee Stott talks with us about how AI is a democratizing technology, the challenges in making sure AI is used responsibly, who the target audience is for AI, and the AI tools Lee Stott thinks are worth watching.",
       "itunes:subtitle": "Lee Stott talks with us about how AI is a democratizing technology, the challenges in making sure AI is used responsibly, who the target audience is for AI, and the AI tools Lee Stott thinks are worth watching.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 268
     },
@@ -308,7 +308,7 @@
       "itunes:duration": "00:38:03",
       "itunes:summary": "Do you think about what your strategy is in your role either as an employee or as a business owner? How do you know when to focus on what's in front of you vs other shiny objects you could be working on? And when is it best to work solo on an idea, and when should you bring in collaborators or teammates?",
       "itunes:subtitle": "Do you think about what your strategy is in your role either as an employee or as a business owner? How do you know when to focus on what's in front of you vs other shiny objects you could be working on? And when is it best to work solo on an idea, and when should you bring in collaborators or teammates?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 267
     },
@@ -334,7 +334,7 @@
       "itunes:duration": "00:44:32",
       "itunes:summary": "Madison Kanna returns to talk about the benefits of a computer science degree, what bootcamps can offer, and the benefit of being around others learning in a similar direction.",
       "itunes:subtitle": "Madison Kanna returns to talk about the benefits of a computer science degree, what bootcamps can offer, and the benefit of being around others learning in a similar direction.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 266
     },
@@ -360,7 +360,7 @@
       "itunes:duration": "00:44:55",
       "itunes:summary": "What impacted developers most in 2023? AI? The job market? Challenges with testing? Moving back to the office? Crypto and blockchain? We're reviewing some of our top stories of 2023.",
       "itunes:subtitle": "What impacted developers most in 2023? AI? The job market? Challenges with testing? Moving back to the office? Crypto and blockchain? We're reviewing some of our top stories of 2023.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 265
     },
@@ -386,7 +386,7 @@
       "itunes:duration": "00:43:59",
       "itunes:summary": "Ward Bell talks about his experience moving from the developer side of the table to the owner / manager side of the table, how he learned to translate developer speak, tips for developers when working with stake holders, and how to handle poor requirement specs for a job.",
       "itunes:subtitle": "Ward Bell talks about his experience moving from the developer side of the table to the owner / manager side of the table, how he learned to translate developer speak, tips for developers when working with stake holders, and how to handle poor requirement specs for a job.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 264
     },
@@ -412,7 +412,7 @@
       "itunes:duration": "00:33:26",
       "itunes:summary": "Chris Woodruff talks about some of his experiences that have helped him in software development like learning how to be a data detective, learning to estimate with the Scott Principle, and dealing with uncertainty in projects.",
       "itunes:subtitle": "Chris Woodruff talks about some of his experiences that have helped him in software development like learning how to be a data detective, learning to estimate with the Scott Principle, and dealing with uncertainty in projects.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 263
     },
@@ -438,7 +438,7 @@
       "itunes:duration": "00:36:09",
       "itunes:summary": "Jasmine Greenaway joins us to talk about her journey into learning to code, how she started teaching, how teaching intersects with coding, knowing when to provide an answers vs pushing for more questions, and her book, Fundamentals for Self Taught Programmers.",
       "itunes:subtitle": "Jasmine Greenaway joins us to talk about her journey into learning to code, how she started teaching, how teaching intersects with coding, knowing when to provide an answers vs pushing for more questions, and her book, Fundamentals for Self Taught Programmers.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 262
     },
@@ -464,7 +464,7 @@
       "itunes:duration": "00:44:46",
       "itunes:summary": "Evyatar Alush is back to help us understand API development, knowing when an API is done, what you should think about if you're making breaking changes to your API, and how to get into open source software.",
       "itunes:subtitle": "Evyatar Alush is back to help us understand API development, knowing when an API is done, what you should think about if you're making breaking changes to your API, and how to get into open source software.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 261
     },
@@ -490,7 +490,7 @@
       "itunes:duration": "00:49:24",
       "itunes:summary": "Mike Ryan talks with us about AI and UI, how to think about integrating AI in your apps in a way that respects your users, how to deal with overconfident AI, and thoughts on running a LLM locally.",
       "itunes:subtitle": "Mike Ryan talks with us about AI and UI, how to think about integrating AI in your apps in a way that respects your users, how to deal with overconfident AI, and thoughts on running a LLM locally.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 260
     },
@@ -516,7 +516,7 @@
       "itunes:duration": "00:46:32",
       "itunes:summary": "Alfredo Deza tells his story of getting into technology, why someone should consider a computer science degree, how employers view CS degrees on a resume, and how should you talk about yourself when applying for a job, or networking.",
       "itunes:subtitle": "Alfredo Deza tells his story of getting into technology, why someone should consider a computer science degree, how employers view CS degrees on a resume, and how should you talk about yourself when applying for a job, or networking.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 259
     },
@@ -542,7 +542,7 @@
       "itunes:duration": "00:40:32",
       "itunes:summary": "Anthony Bartolo is here to help you figure out if and when you should consider using AI in your product or service. Why is it important to understand AI? What does generative AI really mean? And what to consider when adopting AI.",
       "itunes:subtitle": "Anthony Bartolo is here to help you figure out if and when you should consider using AI in your product or service. Why is it important to understand AI? What does generative AI really mean? And what to consider when adopting AI.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 258
     },
@@ -568,7 +568,7 @@
       "itunes:duration": "00:37:49",
       "itunes:summary": "We talk through some of the myths of web dev that drive us crazy including data without context, tshirt sizing for estimating, test driven development, and performance driven development. What drives you crazy in web dev? We want to hear it!",
       "itunes:subtitle": "We talk through some of the myths of web dev that drive us crazy including data without context, tshirt sizing for estimating, test driven development, and performance driven development. What drives you crazy in web dev? We want to hear it!",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 257
     },
@@ -594,7 +594,7 @@
       "itunes:duration": "00:34:11",
       "itunes:summary": "Yoni Rapaport & Noam Honig join us to talk about Remult. What is Remult? How does Remult play with other tooling and frameworks? Why should a developer reach for Remult? And what are the guardrails when using Remult?",
       "itunes:subtitle": "Yoni Rapaport & Noam Honig join us to talk about Remult. What is Remult? How does Remult play with other tooling and frameworks? Why should a developer reach for Remult? And what are the guardrails when using Remult?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 256
     },
@@ -620,7 +620,7 @@
       "itunes:duration": "00:34:05",
       "itunes:summary": "Dan Wahlin updates us on the ever changing AI landscape for software developers. What are some of the new AI models out there? Can you run AI locally? How has AI blown our minds lately? What is text embedding? And can you bring your own data to AI?",
       "itunes:subtitle": "Dan Wahlin updates us on the ever changing AI landscape for software developers. What are some of the new AI models out there? Can you run AI locally? How has AI blown our minds lately? What is text embedding? And can you bring your own data to AI?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 255
     },
@@ -646,7 +646,7 @@
       "itunes:duration": "00:37:31",
       "itunes:summary": "Mike Ryan talks with us about site reliability UX, discussing its importance in web applications. We explore the significance of reliability in web apps, insights on how to prepare for site issues, and where to learn about tooling. We also address the scenario of monitoring software going down, fault tolerance, and the lack of conversations around these topics.",
       "itunes:subtitle": "Mike Ryan talks with us about site reliability UX, discussing its importance in web applications. We explore the significance of reliability in web apps, insights on how to prepare for site issues, and where to learn about tooling. We also address the scenario of monitoring software going down, fault tolerance, and the lack of conversations around these topics.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 254
     },
@@ -672,7 +672,7 @@
       "itunes:duration": "00:42:29",
       "itunes:summary": "Katerina Skroumpelou join us to talk about her work on implementing AI and chatGPT inside documentation, how well it has worked, and some of the things to consider when using AI for docs.",
       "itunes:subtitle": "Katerina Skroumpelou join us to talk about her work on implementing AI and chatGPT inside documentation, how well it has worked, and some of the things to consider when using AI for docs.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 253
     },
@@ -698,7 +698,7 @@
       "itunes:duration": "00:32:05",
       "itunes:summary": "Michael Hladky helps us demystify reactivity and answers some questions regarding what reactivity is, how promises fit in, when reactivity is a good or bad choice, taming complexity in programming, and why people should consider paying attention to reactivity.",
       "itunes:subtitle": "Michael Hladky helps us demystify reactivity and answers some questions regarding what reactivity is, how promises fit in, when reactivity is a good or bad choice, taming complexity in programming, and why people should consider paying attention to reactivity.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 252
     },
@@ -724,7 +724,7 @@
       "itunes:duration": "00:47:52",
       "itunes:summary": "Tom Preston-Werner is back on the show to update us on what's been happening with RedwoodJS, what RedwoodJS is, how they evaluate which technology to integrate into RedwoodJS, how RedwoodJS goes further than NextJS, thinking about startups at scale, and maintaining software for the long term.",
       "itunes:subtitle": "Tom Preston-Werner is back on the show to update us on what's been happening with RedwoodJS, what RedwoodJS is, how they evaluate which technology to integrate into RedwoodJS, how RedwoodJS goes further than NextJS, thinking about startups at scale, and maintaining software for the long term.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 251
     },
@@ -750,7 +750,7 @@
       "itunes:duration": "00:50:04",
       "itunes:summary": "Alexander Lichter talks with us about building with Vue 3 including the differences between the compositions API and options API, reusability vs components, how dependency injection works in Vue, whether you should href or reactive, and what Vue vine is?",
       "itunes:subtitle": "Alexander Lichter talks with us about building with Vue 3 including the differences between the compositions API and options API, reusability vs components, how dependency injection works in Vue, whether you should href or reactive, and what Vue vine is?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 250
     },
@@ -776,7 +776,7 @@
       "itunes:duration": "00:36:03",
       "itunes:summary": "We're talking Open AI with Dan Wahlin. What's a token? What's a transformer? What's a semantic kernel? How can someone get started with Open AI development? And why would someone want to try developing an app with Open AI related technology?",
       "itunes:subtitle": "We're talking Open AI with Dan Wahlin. What's a token? What's a transformer? What's a semantic kernel? How can someone get started with Open AI development? And why would someone want to try developing an app with Open AI related technology?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 249
     },
@@ -802,7 +802,7 @@
       "itunes:duration": "00:37:02",
       "itunes:summary": "Alexander Lichter talks with us about what Nuxt is, how Nuxt helps developers, a conversation around server side rendering, how it's different than PHP, and what's exciting about Nuxt.",
       "itunes:subtitle": "Alexander Lichter talks with us about what Nuxt is, how Nuxt helps developers, a conversation around server side rendering, how it's different than PHP, and what's exciting about Nuxt.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 248
     },
@@ -828,7 +828,7 @@
       "itunes:duration": "00:41:37",
       "itunes:summary": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team. Is ecosystem CI platform agnostic? What is easy and difficult about working with ecosystem CI? And who would benefit from ecosystem CI in their tooling?",
       "itunes:subtitle": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team. Is ecosystem CI platform agnostic? What is easy and difficult about working with ecosystem CI? And who would benefit from ecosystem CI in their tooling?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 247
     },
@@ -854,7 +854,7 @@
       "itunes:duration": "00:42:47",
       "itunes:summary": "Emma Twersky stops by to talk about what's new and exciting in Angular, balancing the wide range of views and opinions in the Angular community, and thoughts on what to change or remove from Angular.",
       "itunes:subtitle": "Emma Twersky stops by to talk about what's new and exciting in Angular, balancing the wide range of views and opinions in the Angular community, and thoughts on what to change or remove from Angular.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 246
     },
@@ -880,7 +880,7 @@
       "itunes:duration": "00:42:09",
       "itunes:summary": "Kate Sky joins us to talk about how to get started in web development in 2023. Do web developers still work crazy hours? Where should someone start? And how do you get a mentor to guide your journey?",
       "itunes:subtitle": "Kate Sky joins us to talk about how to get started in web development in 2023. Do web developers still work crazy hours? Where should someone start? And how do you get a mentor to guide your journey?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 245
     },
@@ -906,7 +906,7 @@
       "itunes:duration": "00:47:13",
       "itunes:summary": "We recap our experiences at ngConf 2023, and talk about Angular 16 announcements including signals.",
       "itunes:subtitle": "We recap our experiences at ngConf 2023, and talk about Angular 16 announcements including signals.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 244
     },
@@ -932,7 +932,7 @@
       "itunes:duration": "00:44:28",
       "itunes:summary": "Juri Strumpflohner talks with us about what Nx is, what kinds of projects Nx is useful for, and how best to use Nx on your projects today.",
       "itunes:subtitle": "Juri Strumpflohner talks with us about what Nx is, what kinds of projects Nx is useful for, and how best to use Nx on your projects today.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 243
     },
@@ -958,7 +958,7 @@
       "itunes:duration": "00:45:52",
       "itunes:summary": "Are you using GitHub Copilot or AI related tools in your dev process? We talk about how we're using ChatGPT related tools, pricing, privacy, and more.",
       "itunes:subtitle": "Are you using GitHub Copilot or AI related tools in your dev process? We talk about how we're using ChatGPT related tools, pricing, privacy, and more.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 242
     },
@@ -984,7 +984,7 @@
       "itunes:duration": "00:42:54",
       "itunes:summary": "Natalia Venditto talks with us about what composable front end solutions are, the problems they solve, what happens in the browser, and how to best maintain the illusion of local coherence?",
       "itunes:subtitle": "Natalia Venditto talks with us about what composable front end solutions are, the problems they solve, what happens in the browser, and how to best maintain the illusion of local coherence?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 241
     },
@@ -1010,7 +1010,7 @@
       "itunes:duration": "00:35:32",
       "itunes:summary": "Jesse Liberty talks with us about .NET Maui, it's origins as Xamarin Forms, what XAML is, what you need in order to build .NET Maui applications, and who it's for.",
       "itunes:subtitle": "Jesse Liberty talks with us about .NET Maui, it's origins as Xamarin Forms, what XAML is, what you need in order to build .NET Maui applications, and who it's for.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 240
     },
@@ -1036,7 +1036,7 @@
       "itunes:duration": "00:30:46",
       "itunes:summary": "Bornwell Matembudze talks with us about how to best develop and scale up API microservices, using Python, Django, Flask, what Event Drive Architecture is, and how to test your systems.",
       "itunes:subtitle": "Bornwell Matembudze talks with us about how to best develop and scale up API microservices, using Python, Django, Flask, what Event Drive Architecture is, and how to test your systems.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 239
     },
@@ -1062,7 +1062,7 @@
       "itunes:duration": "00:46:59",
       "itunes:summary": "Chris Ferdinandi joins us to talk about the benefits and drawbacks of using JavaScript in your projects. Why can JavaScript frameworks be bad for developers? How do you minimize your dependance on JavaScript? And what about accessibility?",
       "itunes:subtitle": "Chris Ferdinandi joins us to talk about the benefits and drawbacks of using JavaScript in your projects. Why can JavaScript frameworks be bad for developers? How do you minimize your dependance on JavaScript? And what about accessibility?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 238
     },
@@ -1088,7 +1088,7 @@
       "itunes:duration": "00:39:09",
       "itunes:summary": "Sam Julien talks with us about being a developer advocate, writing content for newsletters, avoiding burn out doing the things you enjoy, and processes for developing evergreen content.",
       "itunes:subtitle": "Sam Julien talks with us about being a developer advocate, writing content for newsletters, avoiding burn out doing the things you enjoy, and processes for developing evergreen content.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 237
     },
@@ -1114,7 +1114,7 @@
       "itunes:duration": "00:26:52",
       "itunes:summary": "Alvin Bryan talks with John about what's new in Astro 2.5, why he enjoys using Astro, and how easy it is to use Astro alongside another framework like Svelte.",
       "itunes:subtitle": "Alvin Bryan talks with John about what's new in Astro 2.5, why he enjoys using Astro, and how easy it is to use Astro alongside another framework like Svelte.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 236
     },
@@ -1140,7 +1140,7 @@
       "itunes:duration": "00:31:11",
       "itunes:summary": "Debbie O’Brien talks with us about Playwright, writing tests with different languages, the Playwright VS Code extension, visual comparison testing, automating tests with Playwright, and migration tools to move to Playwright.",
       "itunes:subtitle": "Debbie O’Brien talks with us about Playwright, writing tests with different languages, the Playwright VS Code extension, visual comparison testing, automating tests with Playwright, and migration tools to move to Playwright.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 235
     },
@@ -1166,7 +1166,7 @@
       "itunes:duration": "00:44:07",
       "itunes:summary": "Luca Restagno talks with us about his use of OpenAI to power his app, why he's using NextJS and React, how he's integrating AI into it, the importance of prompt engineering, and thoughts on the future of AI development.",
       "itunes:subtitle": "Luca Restagno talks with us about his use of OpenAI to power his app, why he's using NextJS and React, how he's integrating AI into it, the importance of prompt engineering, and thoughts on the future of AI development.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 234
     },
@@ -1192,7 +1192,7 @@
       "itunes:duration": "00:44:37",
       "itunes:summary": "Sara Gibbons talks with us about empire building, helping motivate others in a positive direction, working to make space for others, and the idea of sponsorship to empower and build into those around you.",
       "itunes:subtitle": "Sara Gibbons talks with us about empire building, helping motivate others in a positive direction, working to make space for others, and the idea of sponsorship to empower and build into those around you.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 233
     },
@@ -1218,7 +1218,7 @@
       "itunes:duration": "00:36:42",
       "itunes:summary": "Maria Korneeva talks with Craig about ways developers can be more aware of accessibility issues in their web sites and apps, how to test accessibility issues, and tooling for viewing the accessibility tree.",
       "itunes:subtitle": "Maria Korneeva talks with Craig about ways developers can be more aware of accessibility issues in their web sites and apps, how to test accessibility issues, and tooling for viewing the accessibility tree.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 232
     },
@@ -1244,7 +1244,7 @@
       "itunes:duration": "00:40:47",
       "itunes:summary": "Craig and John talk through the ways you can publish web apps using static web methodology, why you'd want to do it, and the benefits of running a static web app.",
       "itunes:subtitle": "Craig and John talk through the ways you can publish web apps using static web methodology, why you'd want to do it, and the benefits of running a static web app.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 231
     },
@@ -1270,7 +1270,7 @@
       "itunes:duration": "00:47:50",
       "itunes:summary": "Elements, markup, attributes - oh my! John and Craig talk through what you need to know about HTML, what you can stop using, and whether John knows what MDN stands for?",
       "itunes:subtitle": "Elements, markup, attributes - oh my! John and Craig talk through what you need to know about HTML, what you can stop using, and whether John knows what MDN stands for?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 230
     },
@@ -1296,7 +1296,7 @@
       "itunes:duration": "00:52:21",
       "itunes:summary": "Rey Bango talks with us about ways to implement security in the apps you're developing, and how to think about encouraging developers and users to be more security minded.",
       "itunes:subtitle": "Rey Bango talks with us about ways to implement security in the apps you're developing, and how to think about encouraging developers and users to be more security minded.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 229
     },
@@ -1322,7 +1322,7 @@
       "itunes:duration": "00:40:02",
       "itunes:summary": "Brian Love talks with us about site reliability engineering, if SRE is the same as health monitoring, how you can ensure you don't cause more issues trying to monitor, and where AI has a role in SRE?",
       "itunes:subtitle": "Brian Love talks with us about site reliability engineering, if SRE is the same as health monitoring, how you can ensure you don't cause more issues trying to monitor, and where AI has a role in SRE?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 228
     },
@@ -1348,7 +1348,7 @@
       "itunes:duration": "00:46:59",
       "itunes:summary": "Sasha Shynkevich chats with us about browser APIs that you may have missed, such as vibration, tabs, broadcast channel, MIDI, and more!",
       "itunes:subtitle": "Sasha Shynkevich chats with us about browser APIs that you may have missed, such as vibration, tabs, broadcast channel, MIDI, and more!",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 227
     },
@@ -1374,7 +1374,7 @@
       "itunes:duration": "00:39:56",
       "itunes:summary": "Maina Wycliffe talks with us about what he enjoys about using Typescript, practices people should avoid when using Typescript, and how Zod can help with schemas.",
       "itunes:subtitle": "Maina Wycliffe talks with us about what he enjoys about using Typescript, practices people should avoid when using Typescript, and how Zod can help with schemas.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 226
     },
@@ -1400,7 +1400,7 @@
       "itunes:duration": "00:41:22",
       "itunes:summary": "We use the question \"What fills your bucket?\" as a starting point into a conversation around becoming the type of person, and by proxy, the kind of developer you want to be and the importance of planning instead of just reacting to life.",
       "itunes:subtitle": "We use the question \"What fills your bucket?\" as a starting point into a conversation around becoming the type of person, and by proxy, the kind of developer you want to be and the importance of planning instead of just reacting to life.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 225
     },
@@ -1426,7 +1426,7 @@
       "itunes:duration": "00:41:13",
       "itunes:summary": "Sam Artioli talks with us about his new startup, Tredder, and the advice he has for others considering starting their own business based on his experiences across multiple ventures.",
       "itunes:subtitle": "Sam Artioli talks with us about his new startup, Tredder, and the advice he has for others considering starting their own business based on his experiences across multiple ventures.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 224
     },
@@ -1452,7 +1452,7 @@
       "itunes:duration": "00:41:20",
       "itunes:summary": "Maxim Salnikov is back on the show to help explain PWAs, what the business use case is for a PWA, and how Maxim used a PWA to create a beats per minute BPM calculator for music DJs.",
       "itunes:subtitle": "Maxim Salnikov is back on the show to help explain PWAs, what the business use case is for a PWA, and how Maxim used a PWA to create a beats per minute BPM calculator for music DJs.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 223
     },
@@ -1478,7 +1478,7 @@
       "itunes:duration": "00:37:39",
       "itunes:summary": "Manfred Steyer talks with us about Micro Front Ends, when to consider using them, how they should be implemented, how mobile devices are affected, and considerations around UX.",
       "itunes:subtitle": "Manfred Steyer talks with us about Micro Front Ends, when to consider using them, how they should be implemented, how mobile devices are affected, and considerations around UX.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 222
     },
@@ -1504,7 +1504,7 @@
       "itunes:duration": "00:39:04",
       "itunes:summary": "Kevin Åberg Kultalahti joins us to talk about Svelte, the release of SvelteKit 1.0, as well as Svelte Society. Why should you consider SvelteKit? What are adapters, file structure, and how to get started with SvelteKit, and what is the compiler in Svelte?",
       "itunes:subtitle": "Kevin Åberg Kultalahti joins us to talk about Svelte, the release of SvelteKit 1.0, as well as Svelte Society. Why should you consider SvelteKit? What are adapters, file structure, and how to get started with SvelteKit, and what is the compiler in Svelte?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 221
     },
@@ -1530,7 +1530,7 @@
       "itunes:duration": "00:45:40",
       "itunes:summary": "If you've thought about giving a talk at work, or submitting a talk to a conference to speak, this episode is for you. Hear our thoughts on why you should care about presentation, 5 tips for public speaking, how to differentiate yourself, how to come up with themes for a talk, and taking your audience on the hero's journey.",
       "itunes:subtitle": "If you've thought about giving a talk at work, or submitting a talk to a conference to speak, this episode is for you. Hear our thoughts on why you should care about presentation, 5 tips for public speaking, how to differentiate yourself, how to come up with themes for a talk, and taking your audience on the hero's journey.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 220
     },
@@ -1556,7 +1556,7 @@
       "itunes:duration": "00:44:46",
       "itunes:summary": "Chris Noring talks with us about Code Spaces, how Code Spaces works, why you might consider using Code Spaces, pricing of Code Spaces, and uses of Code Spaces you might not have considered.",
       "itunes:subtitle": "Chris Noring talks with us about Code Spaces, how Code Spaces works, why you might consider using Code Spaces, pricing of Code Spaces, and uses of Code Spaces you might not have considered.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 219
     },
@@ -1582,7 +1582,7 @@
       "itunes:duration": "00:54:55",
       "itunes:summary": "Tanner Linsley, creator of Tanstack Router, talks with us about routing, why it isn't a solved problem, things to think about with a router, the core features of a router, what is the Tanstack router, and what are the features of Tanstack router.",
       "itunes:subtitle": "Tanner Linsley, creator of Tanstack Router, talks with us about routing, why it isn't a solved problem, things to think about with a router, the core features of a router, what is the Tanstack router, and what are the features of Tanstack router.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 218
     },
@@ -1608,7 +1608,7 @@
       "itunes:duration": "00:34:59",
       "itunes:summary": "Ward and John - or is it an AI generated episode? - talk about the weird and wonderful world of AI, what it's capable of right now, and whether it's coming for developer jobs in 2023.",
       "itunes:subtitle": "Ward and John - or is it an AI generated episode? - talk about the weird and wonderful world of AI, what it's capable of right now, and whether it's coming for developer jobs in 2023.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 217
     },
@@ -1634,7 +1634,7 @@
       "itunes:duration": "00:32:57",
       "itunes:summary": "Evyatar Alush talks about what JavaScript proxies are, why a developer might use them, how proxies are delivered, where JavaScript proxies are being used, and when a developer should use proxies in their codebase?",
       "itunes:subtitle": "Evyatar Alush talks about what JavaScript proxies are, why a developer might use them, how proxies are delivered, where JavaScript proxies are being used, and when a developer should use proxies in their codebase?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 216
     },
@@ -1660,7 +1660,7 @@
       "itunes:duration": "00:41:02",
       "itunes:summary": "Corbin Crutchley talks with us about what he did to improve his Lighthouse score, and how Astro played a part in improving his website's experience.",
       "itunes:subtitle": "Corbin Crutchley talks with us about what he did to improve his Lighthouse score, and how Astro played a part in improving his website's experience.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 215
     },
@@ -1686,7 +1686,7 @@
       "itunes:duration": "00:46:04",
       "itunes:summary": "Feross Aboukhadijeh talks with us about security issues, and how to find them, and ways to secure your web app or open source code.",
       "itunes:subtitle": "Feross Aboukhadijeh talks with us about security issues, and how to find them, and ways to secure your web app or open source code.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 214
     },
@@ -1712,7 +1712,7 @@
       "itunes:duration": "00:37:03",
       "itunes:summary": "On this episode, we throw Dan Wahlin in the guest chair and let him tell us about his story of working in tech - from Links golf games to working at Microsoft.",
       "itunes:subtitle": "On this episode, we throw Dan Wahlin in the guest chair and let him tell us about his story of working in tech - from Links golf games to working at Microsoft.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 213
     },
@@ -1738,7 +1738,7 @@
       "itunes:duration": "00:37:35",
       "itunes:summary": "Stephen Cooper joins us to talk about AG Grid and his work helping developers figure out how best to use AG Grid in their projects. What are the pain points for using a grid? How do they determine sensible defaults? And advice for developers trying out AG Grid.",
       "itunes:subtitle": "Stephen Cooper joins us to talk about AG Grid and his work helping developers figure out how best to use AG Grid in their projects. What are the pain points for using a grid? How do they determine sensible defaults? And advice for developers trying out AG Grid.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 212
     },
@@ -1764,7 +1764,7 @@
       "itunes:duration": "00:28:37",
       "itunes:summary": "Dan and Craig talk about the ways to use containers to deploy web apps, and the benefits and drawbacks to using Kubernetes for deploying web apps.",
       "itunes:subtitle": "Dan and Craig talk about the ways to use containers to deploy web apps, and the benefits and drawbacks to using Kubernetes for deploying web apps.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 211
     },
@@ -1790,7 +1790,7 @@
       "itunes:duration": "00:41:49",
       "itunes:summary": "Ely Lucas talks with us about how component testing works with Cypress, what's easier and what's still difficult to test, security in testing, and why don't we want to test our code?",
       "itunes:subtitle": "Ely Lucas talks with us about how component testing works with Cypress, what's easier and what's still difficult to test, security in testing, and why don't we want to test our code?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 210
     },
@@ -1816,7 +1816,7 @@
       "itunes:duration": "00:36:25",
       "itunes:summary": "Martin Turoci talks with us about H20 Wave, a realtime web app and dashboard builder for Python. Is it server side or client side? What types of applications are there for Wave? Who is the target audience for Wave?",
       "itunes:subtitle": "Martin Turoci talks with us about H20 Wave, a realtime web app and dashboard builder for Python. Is it server side or client side? What types of applications are there for Wave? Who is the target audience for Wave?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 209
     },
@@ -1842,7 +1842,7 @@
       "itunes:duration": "00:39:29",
       "itunes:summary": "Jordan Powell stops by to talk about Cypress and testing, how Cypress makes it easier for developers to test, what the various kinds of testing are, and what people need to understand about component testing.",
       "itunes:subtitle": "Jordan Powell stops by to talk about Cypress and testing, how Cypress makes it easier for developers to test, what the various kinds of testing are, and what people need to understand about component testing.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 208
     },
@@ -1868,7 +1868,7 @@
       "itunes:duration": "00:39:36",
       "itunes:summary": "Kapehe joins us to talk about her role in developer relations. What does developer relations mean? How does Dev Rel go back to the Product team? Where does video work best for dev rel? And how to deal with criticism of dev rel knowledge.",
       "itunes:subtitle": "Kapehe joins us to talk about her role in developer relations. What does developer relations mean? How does Dev Rel go back to the Product team? Where does video work best for dev rel? And how to deal with criticism of dev rel knowledge.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 207
     },
@@ -1894,7 +1894,7 @@
       "itunes:duration": "00:49:48",
       "itunes:summary": "Tanner Linsley talks about writing open source software at TanStack, including TanStack Table, and answers our questions about data grid functionality, why reach for a grid, and why should developers consider headless?",
       "itunes:subtitle": "Tanner Linsley talks about writing open source software at TanStack, including TanStack Table, and answers our questions about data grid functionality, why reach for a grid, and why should developers consider headless?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 206
     },
@@ -1920,7 +1920,7 @@
       "itunes:duration": "00:47:05",
       "itunes:summary": "Matt Netkow talks about what he's learned in helping developers and engineers develop better leadership skills, who should consider leadership, how writing helps communication, what to do when you make mistakes or are nervous, and how to become a product minded engineer.",
       "itunes:subtitle": "Matt Netkow talks about what he's learned in helping developers and engineers develop better leadership skills, who should consider leadership, how writing helps communication, what to do when you make mistakes or are nervous, and how to become a product minded engineer.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 205
     },
@@ -1946,7 +1946,7 @@
       "itunes:duration": "00:41:33",
       "itunes:summary": "Katerina Skroumpelou joins us to talk about her experiences using the Google Cloud platform to build apps quickly and easily, including how it handles data, authentication, hosting, and more!",
       "itunes:subtitle": "Katerina Skroumpelou joins us to talk about her experiences using the Google Cloud platform to build apps quickly and easily, including how it handles data, authentication, hosting, and more!",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 204
     },
@@ -1972,7 +1972,7 @@
       "itunes:duration": "00:45:10",
       "itunes:summary": "Evyatar Alush returns to talk about Vest.js, what's unique about Vest, how it's been improved with help from Ward, what is the future of Vest, what else is Evyatar Alush working on?",
       "itunes:subtitle": "Evyatar Alush returns to talk about Vest.js, what's unique about Vest, how it's been improved with help from Ward, what is the future of Vest, what else is Evyatar Alush working on?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 203
     },
@@ -1998,7 +1998,7 @@
       "itunes:duration": "00:39:53",
       "itunes:summary": "John, Ward, and Craig share their thoughts on the ways they choose open source software for projects, how to pick software to use, what to do when you've picked the wrong one, and when to write your own code instead of using someone else's.",
       "itunes:subtitle": "John, Ward, and Craig share their thoughts on the ways they choose open source software for projects, how to pick software to use, what to do when you've picked the wrong one, and when to write your own code instead of using someone else's.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 202
     },
@@ -2024,7 +2024,7 @@
       "itunes:duration": "00:51:18",
       "itunes:summary": "Corbin Crutchley talks with us about his new Web Framework Field Guide book - what his book helps people with, who the book is for, what his favorite feature is of the 3 frameworks covered, and how you can get a copy of the book.",
       "itunes:subtitle": "Corbin Crutchley talks with us about his new Web Framework Field Guide book - what his book helps people with, who the book is for, what his favorite feature is of the 3 frameworks covered, and how you can get a copy of the book.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 201
     },
@@ -2050,7 +2050,7 @@
       "itunes:duration": "00:53:37",
       "itunes:summary": "Ron Au talks with us about HuggingFace and how they use Svelte, how Svelte helps get you to production, what hydration is why you should care about it, whether Svelte scales, and some of his favorite features of Svelte.",
       "itunes:subtitle": "Ron Au talks with us about HuggingFace and how they use Svelte, how Svelte helps get you to production, what hydration is why you should care about it, whether Svelte scales, and some of his favorite features of Svelte.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 200
     },
@@ -2076,7 +2076,7 @@
       "itunes:duration": "00:34:50",
       "itunes:summary": "Craig and Dan talk about some of the mistakes they've been a part of in their development journey including stories from enrolment systems, wire transfer security, and credit card company mistakes.",
       "itunes:subtitle": "Craig and Dan talk about some of the mistakes they've been a part of in their development journey including stories from enrolment systems, wire transfer security, and credit card company mistakes.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 199
     },
@@ -2102,7 +2102,7 @@
       "itunes:duration": "00:44:44",
       "itunes:summary": "Minko Gechev joins us to talk about what's in Angular 14, what Angular is, what Angular isn't, how components are handled in Angular, and more.",
       "itunes:subtitle": "Minko Gechev joins us to talk about what's in Angular 14, what Angular is, what Angular isn't, how components are handled in Angular, and more.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 198
     },
@@ -2128,7 +2128,7 @@
       "itunes:duration": "00:41:43",
       "itunes:summary": "Gen Ashley talks with us about Coed:Code, Meetup Groups, and other efforts she is a part of to help encourage and support women, non-binary people, & allies in technology, and ways we can be more inclusive at conferences and in general.",
       "itunes:subtitle": "Gen Ashley talks with us about Coed:Code, Meetup Groups, and other efforts she is a part of to help encourage and support women, non-binary people, & allies in technology, and ways we can be more inclusive at conferences and in general.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 196
     },
@@ -2154,7 +2154,7 @@
       "itunes:duration": "00:41:50",
       "itunes:summary": "Brian Holt talks with us about building developer tools and developer experience, convention over configuration, what the hardest part is to get right, and how to know what users really want?",
       "itunes:subtitle": "Brian Holt talks with us about building developer tools and developer experience, convention over configuration, what the hardest part is to get right, and how to know what users really want?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 196
     },
@@ -2180,7 +2180,7 @@
       "itunes:duration": "00:43:25",
       "itunes:summary": "Misko Hevery introduces us to Qwik and answers questions about what Qwik is, why would a developer want to use Qwik, what implementation details Qwik takes care of, and what the developer experience is like using Qwik.",
       "itunes:subtitle": "Misko Hevery introduces us to Qwik and answers questions about what Qwik is, why would a developer want to use Qwik, what implementation details Qwik takes care of, and what the developer experience is like using Qwik.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 195
     },
@@ -2206,7 +2206,7 @@
       "itunes:duration": "00:47:12",
       "itunes:summary": "Waldek Mastykarz talks with us about building apps for Microsoft Teams. What benefit is there to using Teams? Can apps leverage the Teams infrastructure? How easy is it to bring an existing app into Teams? And how can developers get started building for Teams?",
       "itunes:subtitle": "Waldek Mastykarz talks with us about building apps for Microsoft Teams. What benefit is there to using Teams? Can apps leverage the Teams infrastructure? How easy is it to bring an existing app into Teams? And how can developers get started building for Teams?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 194
     },
@@ -2232,7 +2232,7 @@
       "itunes:duration": "00:25:08",
       "itunes:summary": "Aristeidis Bampakos joins us to talk about translating documentation into other languages, how to deal with images, whether Google Translate is any help, and if crowd sourcing the problem works?",
       "itunes:subtitle": "Aristeidis Bampakos joins us to talk about translating documentation into other languages, how to deal with images, whether Google Translate is any help, and if crowd sourcing the problem works?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 193
     },
@@ -2258,7 +2258,7 @@
       "itunes:duration": "00:37:17",
       "itunes:summary": "Katerina Skroumpelou talks with us about how Nx and Lerna are integrated now that Nrwl has taken over stewardship of Lerna, where to begin learning about Nx and Lerna, and the integration options.",
       "itunes:subtitle": "Katerina Skroumpelou talks with us about how Nx and Lerna are integrated now that Nrwl has taken over stewardship of Lerna, where to begin learning about Nx and Lerna, and the integration options.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 192
     },
@@ -2284,7 +2284,7 @@
       "itunes:duration": "00:42:44",
       "itunes:summary": "John, Ward, and Dan talk about their initial impressions of Angular 14.  How has moving to a module-less world changed? What are tree shakable error messages? Is Angular improved by version 14?",
       "itunes:subtitle": "John, Ward, and Dan talk about their initial impressions of Angular 14.  How has moving to a module-less world changed? What are tree shakable error messages? Is Angular improved by version 14?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 191
     },
@@ -2310,7 +2310,7 @@
       "itunes:duration": "00:39:44",
       "itunes:summary": "Thomas Vidas talks with us about Capaciator - how it differs from React Native or Flutter, what Capacitor gives you access to on the device, what the developer experience is like with Capacitor, and compelling reasons to consider using Capacitor on your next project.",
       "itunes:subtitle": "Thomas Vidas talks with us about Capaciator - how it differs from React Native or Flutter, what Capacitor gives you access to on the device, what the developer experience is like with Capacitor, and compelling reasons to consider using Capacitor on your next project.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 190
     },
@@ -2336,7 +2336,7 @@
       "itunes:duration": "00:43:28",
       "itunes:summary": "Deborah Kurata talks with us about how to be a lifelong learner, whether for career gains or personal goals, methods for becoming a lifelong learner, learning to ask why, and dealing with learning fatigue.",
       "itunes:subtitle": "Deborah Kurata talks with us about how to be a lifelong learner, whether for career gains or personal goals, methods for becoming a lifelong learner, learning to ask why, and dealing with learning fatigue.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 189
     },
@@ -2362,7 +2362,7 @@
       "itunes:duration": "00:35:04",
       "itunes:summary": "Evyatar Alush joins us to talk about Vest, a declarative validations framework. What are some of the main features of Vest? How would someone do an async validation? What prompted Evyatar to build Vest? How do you enforce conditional validations?",
       "itunes:subtitle": "Evyatar Alush joins us to talk about Vest, a declarative validations framework. What are some of the main features of Vest? How would someone do an async validation? What prompted Evyatar to build Vest? How do you enforce conditional validations?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 188
     },
@@ -2388,7 +2388,7 @@
       "itunes:duration": "00:24:49",
       "itunes:summary": "We're continuing our conversation about jQuery by talking about how you would've done something with jQuery, and what you'd do now - like finding an element by it's ID, and how to determine the value of modern web frameworks.",
       "itunes:subtitle": "We're continuing our conversation about jQuery by talking about how you would've done something with jQuery, and what you'd do now - like finding an element by it's ID, and how to determine the value of modern web frameworks.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 187
     },
@@ -2414,7 +2414,7 @@
       "itunes:duration": "00:28:36",
       "itunes:summary": "In part 1 of a 2 part series, John, Ward, and Craig talk through the history of jQuery, what it was used for, and why it's no longer used as the go to in web development the way it once was.",
       "itunes:subtitle": "In part 1 of a 2 part series, John, Ward, and Craig talk through the history of jQuery, what it was used for, and why it's no longer used as the go to in web development the way it once was.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 186
     },
@@ -2440,7 +2440,7 @@
       "itunes:duration": "00:41:11",
       "itunes:summary": "Maria Korneeva talks through options for speeding up frontend development, including running a fake backend server, using linters, resizing images, IDE utilities, and more.",
       "itunes:subtitle": "Maria Korneeva talks through options for speeding up frontend development, including running a fake backend server, using linters, resizing images, IDE utilities, and more.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 185
     },
@@ -2466,7 +2466,7 @@
       "itunes:duration": "00:38:59",
       "itunes:summary": "What does it mean to upgrade your dependancies? How do you deal with security issues or error messages when you do? What if you're the creator of an npm library - when do you issue upgrades? And should you built something yourself or use a third party version?",
       "itunes:subtitle": "What does it mean to upgrade your dependancies? How do you deal with security issues or error messages when you do? What if you're the creator of an npm library - when do you issue upgrades? And should you built something yourself or use a third party version?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 184
     },
@@ -2492,7 +2492,7 @@
       "itunes:duration": "00:41:34",
       "itunes:summary": "Maarten Tibau talks with us about the benefits of Type Safety when working with TypeScript. What is type safety? Does the presence of types alone make you safe? How do you make projects more type safe?",
       "itunes:subtitle": "Maarten Tibau talks with us about the benefits of Type Safety when working with TypeScript. What is type safety? Does the presence of types alone make you safe? How do you make projects more type safe?",
-      "itunes:explicit": "yes",
+      "itunes:explicit": true,
       "itunes:episodeType": "full",
       "itunes:episode": 183
     },
@@ -2518,7 +2518,7 @@
       "itunes:duration": "00:51:35",
       "itunes:summary": "Lars Gyrup Brink Nielsen gives a introduction to GitHub Actions, including what GitHub Actions are, how they differ from web hooks, how you glue GitHub Actions together, what languages work best with GitHub Actions, and some use case ideas for GitHub Actions.",
       "itunes:subtitle": "Lars Gyrup Brink Nielsen gives a introduction to GitHub Actions, including what GitHub Actions are, how they differ from web hooks, how you glue GitHub Actions together, what languages work best with GitHub Actions, and some use case ideas for GitHub Actions.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 182
     },
@@ -2544,7 +2544,7 @@
       "itunes:duration": "00:40:17",
       "itunes:summary": "Anthony Guiliano joins us to chat about what Stencil is? What makes Stencil different? When and why should you use Stencil? And how Stencil manages state?",
       "itunes:subtitle": "Anthony Guiliano joins us to chat about what Stencil is? What makes Stencil different? When and why should you use Stencil? And how Stencil manages state?",
-      "itunes:explicit": "yes",
+      "itunes:explicit": true,
       "itunes:episodeType": "full",
       "itunes:episode": 181
     },
@@ -2570,7 +2570,7 @@
       "itunes:duration": "00:32:45",
       "itunes:summary": "Simon MacDonald educates us on the value of functional web apps. What are functional web apps? Why do we need functional web apps? Do we still need static assets or HTML? How is this different from microservices?",
       "itunes:subtitle": "Simon MacDonald educates us on the value of functional web apps. What are functional web apps? Why do we need functional web apps? Do we still need static assets or HTML? How is this different from microservices?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 180
     },
@@ -2596,7 +2596,7 @@
       "itunes:duration": "00:41:43",
       "itunes:summary": "Ramona Schwering introduces us to the idea of visual testing. When should you consider visual testing? Can you ignore pixels for testing? How do you test responsive design? What do you do when an error shows up? How does visual testing sit alongside other forms of testing?",
       "itunes:subtitle": "Ramona Schwering introduces us to the idea of visual testing. When should you consider visual testing? Can you ignore pixels for testing? How do you test responsive design? What do you do when an error shows up? How does visual testing sit alongside other forms of testing?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 179
     },
@@ -2622,7 +2622,7 @@
       "itunes:duration": "00:41:20",
       "itunes:summary": "Shawn Wildermuth talks with us about Tailwind, answering questions about when Tailwind works best, how to think about Tailwind classes and components, how to prune your CSS, how Tailwind interacts with React or TSX, and handling dark or light theming with Tailwind.",
       "itunes:subtitle": "Shawn Wildermuth talks with us about Tailwind, answering questions about when Tailwind works best, how to think about Tailwind classes and components, how to prune your CSS, how Tailwind interacts with React or TSX, and handling dark or light theming with Tailwind.",
-      "itunes:explicit": "yes",
+      "itunes:explicit": true,
       "itunes:episodeType": "full",
       "itunes:episode": 178
     },
@@ -2648,7 +2648,7 @@
       "itunes:duration": "00:41:51",
       "itunes:summary": "Matteo Collina stops by to talk about the npm ecoystem, security, update us on Fastify, front end vs back end concerns, how Fastify helps with security issues, vulnerabilities in open source, and tips for securing node.",
       "itunes:subtitle": "Matteo Collina stops by to talk about the npm ecoystem, security, update us on Fastify, front end vs back end concerns, how Fastify helps with security issues, vulnerabilities in open source, and tips for securing node.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 177
     },
@@ -2674,7 +2674,7 @@
       "itunes:duration": "00:33:52",
       "itunes:summary": "Josh Thomas helps explain Micro Front Ends. Why are they simpler? What issues are micro front ends solving? Whether they're a good option for existing projects or more for new apps? And how do micro front ends work with the mobile web?",
       "itunes:subtitle": "Josh Thomas helps explain Micro Front Ends. Why are they simpler? What issues are micro front ends solving? Whether they're a good option for existing projects or more for new apps? And how do micro front ends work with the mobile web?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 176
     },
@@ -2700,7 +2700,7 @@
       "itunes:duration": "00:48:01",
       "itunes:summary": "Meredydd Luff comes for part two to talk about what Skulpt is, how it avoids HTML and CSS, whether Skulpt has source maps, running Python in the browser, and the story behind how it all came together.",
       "itunes:subtitle": "Meredydd Luff comes for part two to talk about what Skulpt is, how it avoids HTML and CSS, whether Skulpt has source maps, running Python in the browser, and the story behind how it all came together.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 175
     },
@@ -2726,7 +2726,7 @@
       "itunes:duration": "00:41:00",
       "itunes:summary": "All 4 hosts are on talking about where you should look for tech advice when you're starting down the path of learning a new web technology. What methods work? What should you avoid? And how do you write docs for a brand new technology?",
       "itunes:subtitle": "All 4 hosts are on talking about where you should look for tech advice when you're starting down the path of learning a new web technology. What methods work? What should you avoid? And how do you write docs for a brand new technology?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 174
     },
@@ -2752,7 +2752,7 @@
       "itunes:duration": "00:37:01",
       "itunes:summary": "Maina Wyclyffe talks with us about how to write better TypeScript. How does he decide when to use TypeScript? How do you deal with null? Are TypeScript enums bad? What are our pet peeves in TypeScript? And thoughts on creating a type from another type.",
       "itunes:subtitle": "Maina Wyclyffe talks with us about how to write better TypeScript. How does he decide when to use TypeScript? How do you deal with null? Are TypeScript enums bad? What are our pet peeves in TypeScript? And thoughts on creating a type from another type.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 173
     },
@@ -2778,7 +2778,7 @@
       "itunes:duration": "00:40:26",
       "itunes:summary": "Aristeidis Bampakos has written books and blog posts on Angular and he joins us to talk about his tips for writing, including how he decided to write a book, what lessons he learned in the process, and tips for dealing with procrastination.",
       "itunes:subtitle": "Aristeidis Bampakos has written books and blog posts on Angular and he joins us to talk about his tips for writing, including how he decided to write a book, what lessons he learned in the process, and tips for dealing with procrastination.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 172
     },
@@ -2804,7 +2804,7 @@
       "itunes:duration": "00:35:29",
       "itunes:summary": "Sasha Shynkevich talks with us about how to pick a JavaScript framework, and stop worrying about if you're picking the right JavaScript framework, how to find a community to learn with, and how to know what's good and what's not?",
       "itunes:subtitle": "Sasha Shynkevich talks with us about how to pick a JavaScript framework, and stop worrying about if you're picking the right JavaScript framework, how to find a community to learn with, and how to know what's good and what's not?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 171
     },
@@ -2830,7 +2830,7 @@
       "itunes:duration": "00:48:17",
       "itunes:summary": "Domenik Reitzner returns to talk about his experiences building an app with SvelteKit. How did Svelte help meet their goals for the app? What went wrong with the project? How much overhead did TypeScript add? What other technologies did they use?",
       "itunes:subtitle": "Domenik Reitzner returns to talk about his experiences building an app with SvelteKit. How did Svelte help meet their goals for the app? What went wrong with the project? How much overhead did TypeScript add? What other technologies did they use?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 170
     },
@@ -2856,7 +2856,7 @@
       "itunes:duration": "00:37:13",
       "itunes:summary": "Shawn Wildermuth talks with us about Vue, the options API, composition API, and the Humanitarian Toolbox. We also get to talk about his film work with Hello World Films.",
       "itunes:subtitle": "Shawn Wildermuth talks with us about Vue, the options API, composition API, and the Humanitarian Toolbox. We also get to talk about his film work with Hello World Films.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 169
     },
@@ -2882,7 +2882,7 @@
       "itunes:duration": "00:30:30",
       "itunes:summary": "We're joined by Ankit Sharma to talk about Firebase. What is Firebase? What kinds of applications is Firebase good for? Is Firebase easier to use than it's competitors? How does Firebase integrate with SQL databases? And where should someone go to get started with Firebase?",
       "itunes:subtitle": "We're joined by Ankit Sharma to talk about Firebase. What is Firebase? What kinds of applications is Firebase good for? Is Firebase easier to use than it's competitors? How does Firebase integrate with SQL databases? And where should someone go to get started with Firebase?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 168
     },
@@ -2908,7 +2908,7 @@
       "itunes:duration": "00:45:10",
       "itunes:summary": "Meredydd tells us all about Anvil, including how he got started with Anvil, what the elevator pitch is for Anvil, whether it's just another framework, how Anvil works to enable you to use Python, and what options there are for running Python in the browser.",
       "itunes:subtitle": "Meredydd tells us all about Anvil, including how he got started with Anvil, what the elevator pitch is for Anvil, whether it's just another framework, how Anvil works to enable you to use Python, and what options there are for running Python in the browser.",
-      "itunes:explicit": "yes",
+      "itunes:explicit": true,
       "itunes:episodeType": "full",
       "itunes:episode": 167
     },
@@ -2934,7 +2934,7 @@
       "itunes:duration": "00:50:25",
       "itunes:summary": "Santosh Yadav walks us through how to get started contributing to open source projects, including what is GitHub? What's a fork, clone, push, or pull? How do you know if you can help? And why should you get involved in working on open source?",
       "itunes:subtitle": "Santosh Yadav walks us through how to get started contributing to open source projects, including what is GitHub? What's a fork, clone, push, or pull? How do you know if you can help? And why should you get involved in working on open source?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 166
     },
@@ -2960,7 +2960,7 @@
       "itunes:duration": "00:56:34",
       "itunes:summary": "Alex Okrushko talks with us about his recommended 9 ways to setting app development up for front end success, including monorepos, feature flagging, trunk based development, better PRs, automatic help, testing, feature plans, and daily releases.",
       "itunes:subtitle": "Alex Okrushko talks with us about his recommended 9 ways to setting app development up for front end success, including monorepos, feature flagging, trunk based development, better PRs, automatic help, testing, feature plans, and daily releases.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 165
     },
@@ -2986,7 +2986,7 @@
       "itunes:duration": "00:41:43",
       "itunes:summary": "Andre Young talked with us about becoming a manager in tech, how to prepare for working in management, resources that have worked for him, how someone could get ready to become a manager, and communicating with your team and supervisors on larger projects.",
       "itunes:subtitle": "Andre Young talked with us about becoming a manager in tech, how to prepare for working in management, resources that have worked for him, how someone could get ready to become a manager, and communicating with your team and supervisors on larger projects.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 164
     },
@@ -3012,7 +3012,7 @@
       "itunes:duration": "00:45:36",
       "itunes:summary": "John and Craig talk all about the technology you might interact with before and during a visit to a theme park like Disney or Universal Studios. From E-tickets, the color of a light when you swipe your arm band, dealing with edge cases, to tracking animal's bowel movements - technology is everywhere at theme parks.",
       "itunes:subtitle": "John and Craig talk all about the technology you might interact with before and during a visit to a theme park like Disney or Universal Studios. From E-tickets, the color of a light when you swipe your arm band, dealing with edge cases, to tracking animal's bowel movements - technology is everywhere at theme parks.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 163
     },
@@ -3038,7 +3038,7 @@
       "itunes:duration": "00:36:08",
       "itunes:summary": "Mark Thompson shares his thoughts on what life is like outside of code, the relationship between a hobby and earning a living, recognizing what's important to you vs what's important to others, and how people are at different stages of their lives and careers affects what's important to them.",
       "itunes:subtitle": "Mark Thompson shares his thoughts on what life is like outside of code, the relationship between a hobby and earning a living, recognizing what's important to you vs what's important to others, and how people are at different stages of their lives and careers affects what's important to them.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 162
     },
@@ -3064,7 +3064,7 @@
       "itunes:duration": "00:55:31",
       "itunes:summary": "Laurie Barth joins us to talk about her experience of looking for and applying for a job. What it's like in 2021 to search for a job? How do you know when to say you don't know? How do you figure out if you're a good fit for a job? And should employers care about education?",
       "itunes:subtitle": "Laurie Barth joins us to talk about her experience of looking for and applying for a job. What it's like in 2021 to search for a job? How do you know when to say you don't know? How do you figure out if you're a good fit for a job? And should employers care about education?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 161
     },
@@ -3090,7 +3090,7 @@
       "itunes:duration": "00:47:53",
       "itunes:summary": "Val Neekman talks about FullerStack which is an open source dashboard powered by Angular for the frontend and NestJS for the backend. What is FullerStack? How does the app detect changes? Who is the target audience for FullerStack? And how does Val hope to support FullerStack?",
       "itunes:subtitle": "Val Neekman talks about FullerStack which is an open source dashboard powered by Angular for the frontend and NestJS for the backend. What is FullerStack? How does the app detect changes? Who is the target audience for FullerStack? And how does Val hope to support FullerStack?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 160
     },
@@ -3116,7 +3116,7 @@
       "itunes:duration": "00:44:15",
       "itunes:summary": "How would you build Ted Lasso's Bantr app? Max Lynch talks with us about developing the mobile web and what tools are available to start with Ionic. Which frameworks is he seeing these days? How are APIs handled? And where does he see mobile vs non-mobile in the future?",
       "itunes:subtitle": "How would you build Ted Lasso's Bantr app? Max Lynch talks with us about developing the mobile web and what tools are available to start with Ionic. Which frameworks is he seeing these days? How are APIs handled? And where does he see mobile vs non-mobile in the future?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 159
     },
@@ -3142,7 +3142,7 @@
       "itunes:duration": "00:46:02",
       "itunes:summary": "Nick Reese chats with us about what Elder.js is and why would someone use it for development? What are short codes and how do they benefit development in Svelte? How does Elder.js fit alongside Sveltekit? And how does hydration work with Elder.js?",
       "itunes:subtitle": "Nick Reese chats with us about what Elder.js is and why would someone use it for development? What are short codes and how do they benefit development in Svelte? How does Elder.js fit alongside Sveltekit? And how does hydration work with Elder.js?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 158
     },
@@ -3168,7 +3168,7 @@
       "itunes:duration": "00:45:27",
       "itunes:summary": "We're chatting with Eric Simmons about the experience of building StackBlitz, how they handled C++ issues, what hcanges can be done in a web container, how do you access files and move them around in StackBlitz, and what some of the issues and joys of building StackBlitz were?",
       "itunes:subtitle": "We're chatting with Eric Simmons about the experience of building StackBlitz, how they handled C++ issues, what hcanges can be done in a web container, how do you access files and move them around in StackBlitz, and what some of the issues and joys of building StackBlitz were?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 157
     },
@@ -3194,7 +3194,7 @@
       "itunes:duration": "00:47:33",
       "itunes:summary": "Natalia Venditto helps us understand databases in 2021 with conversations about which databases to use, the arrival of databases in the cloud, stories of good database decisions, and how to deal with relational integrity.",
       "itunes:subtitle": "Natalia Venditto helps us understand databases in 2021 with conversations about which databases to use, the arrival of databases in the cloud, stories of good database decisions, and how to deal with relational integrity.",
-      "itunes:explicit": "yes",
+      "itunes:explicit": true,
       "itunes:episodeType": "full",
       "itunes:episode": 156
     },
@@ -3220,7 +3220,7 @@
       "itunes:duration": "00:43:25",
       "itunes:summary": "Maria Korneeva joins us to talk about how to build a technology radar for your business or project. What is a front end strategy? How do you evaluate new techonlogies? Is a front end strategy a formal thing? And how much does competency play a factor?",
       "itunes:subtitle": "Maria Korneeva joins us to talk about how to build a technology radar for your business or project. What is a front end strategy? How do you evaluate new techonlogies? Is a front end strategy a formal thing? And how much does competency play a factor?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 155
     },
@@ -3246,7 +3246,7 @@
       "itunes:duration": "00:38:49",
       "itunes:summary": "Emma Twersky talks with us about Angular, the Angular CDK, why she's anti-carousel, the importance of theming and components, what some of the struggles with accessibility are, how to design components for hearing, and suggestions for teams building with accessibility in projects.",
       "itunes:subtitle": "Emma Twersky talks with us about Angular, the Angular CDK, why she's anti-carousel, the importance of theming and components, what some of the struggles with accessibility are, how to design components for hearing, and suggestions for teams building with accessibility in projects.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 154
     },
@@ -3272,7 +3272,7 @@
       "itunes:duration": "00:40:00",
       "itunes:summary": "Rich Harris talks about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing SPA or MPA. He also shares his thoughts on the evolution of SPA / MPA.",
       "itunes:subtitle": "Rich Harris talks about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing SPA or MPA. He also shares his thoughts on the evolution of SPA / MPA.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 153
     },
@@ -3298,7 +3298,7 @@
       "itunes:duration": "00:45:26",
       "itunes:summary": "Dana Yudelevich talks with us about the tips, tools, and advice for onboarding new team members. Why is onboarding important? How do you set people up for success? Are there any guides or tools Dana recommends for onboarding? And what is Notion?",
       "itunes:subtitle": "Dana Yudelevich talks with us about the tips, tools, and advice for onboarding new team members. Why is onboarding important? How do you set people up for success? Are there any guides or tools Dana recommends for onboarding? And what is Notion?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 152
     },
@@ -3324,7 +3324,7 @@
       "itunes:duration": "00:41:58",
       "itunes:summary": "Mitali Karmarkar talks with us about working on Azure Static Web Apps. What is a static web app? What was the first line of code written? Where were some challenges faced developing it? Moving from beta to live, and how they gathered feedback. And advice for anyone building a product in 2021.",
       "itunes:subtitle": "Mitali Karmarkar talks with us about working on Azure Static Web Apps. What is a static web app? What was the first line of code written? Where were some challenges faced developing it? Moving from beta to live, and how they gathered feedback. And advice for anyone building a product in 2021.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 151
     },
@@ -3350,7 +3350,7 @@
       "itunes:duration": "00:38:07",
       "itunes:summary": "Kevin Åberg Kultalahti talks about what Svelte Society is, what he's excited about with Svelte, how important documentation is to any product, what role Vite plays with Svelte, working with VS Code and Svelte, and how testing works with Svelte development.",
       "itunes:subtitle": "Kevin Åberg Kultalahti talks about what Svelte Society is, what he's excited about with Svelte, how important documentation is to any product, what role Vite plays with Svelte, working with VS Code and Svelte, and how testing works with Svelte development.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 150
     },
@@ -3376,7 +3376,7 @@
       "itunes:duration": "00:46:37",
       "itunes:summary": "Han and Prerak talk about their approach to developing storytelling tools for financial products, how they deliver real time event updates, using AI in their tech stack, updating and displaying large data sets, and what the benefits are of web workers.",
       "itunes:subtitle": "Han and Prerak talk about their approach to developing storytelling tools for financial products, how they deliver real time event updates, using AI in their tech stack, updating and displaying large data sets, and what the benefits are of web workers.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 149
     },
@@ -3402,7 +3402,7 @@
       "itunes:duration": "00:48:47",
       "itunes:summary": "Max Lynch, co-founder of Ionic Framework, talks about how Ionic has stayed current, what the build tooling was like when he started, getting in during the early days of Angular, the areas he sees demand for Ionic, and how Stencil is developed and supported.",
       "itunes:subtitle": "Max Lynch, co-founder of Ionic Framework, talks about how Ionic has stayed current, what the build tooling was like when he started, getting in during the early days of Angular, the areas he sees demand for Ionic, and how Stencil is developed and supported.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 148
     },
@@ -3428,7 +3428,7 @@
       "itunes:duration": "00:57:48",
       "itunes:summary": "Jem Young talks about leading a team at Netflix, how he understands modern technology, what it's like working on the backend for the frontend, how to evaluate when to do betas, when and how to incorporate new technology, and prepping for a job interview in technology.",
       "itunes:subtitle": "Jem Young talks about leading a team at Netflix, how he understands modern technology, what it's like working on the backend for the frontend, how to evaluate when to do betas, when and how to incorporate new technology, and prepping for a job interview in technology.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 147
     },
@@ -3454,7 +3454,7 @@
       "itunes:duration": "01:03:02",
       "itunes:summary": "John, Ward, and Dan each share lessons they've learned from their careers in software development that might help you as you work, participate in meetings, and collaborate in technology.",
       "itunes:subtitle": "John, Ward, and Dan each share lessons they've learned from their careers in software development that might help you as you work, participate in meetings, and collaborate in technology.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 146
     },
@@ -3480,7 +3480,7 @@
       "itunes:duration": "00:52:54",
       "itunes:summary": "On this episode we talk with Ari Clark about the work / life balance, what a 10x developer is, connecting with peer and networking, dealing with imposter syndrome, and developing with Vue.",
       "itunes:subtitle": "On this episode we talk with Ari Clark about the work / life balance, what a 10x developer is, connecting with peer and networking, dealing with imposter syndrome, and developing with Vue.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 145
     },
@@ -3506,7 +3506,7 @@
       "itunes:duration": "00:51:50",
       "itunes:summary": "Misko Hevery just announced Qwik. What is Qwik? How does Qwik work? What mental model is required for developers to use Qwik? How is Qwik different? And what is the road map for Qwick at this point?",
       "itunes:subtitle": "Misko Hevery just announced Qwik. What is Qwik? How does Qwik work? What mental model is required for developers to use Qwik? How is Qwik different? And what is the road map for Qwick at this point?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 144
     },
@@ -3532,7 +3532,7 @@
       "itunes:duration": "00:42:57",
       "itunes:summary": "Andre Young talks about shifting from .Net to Javascript and what changed in his tool chain. He talks about rethinking how he programs, making the transition with a team, and what approaches didn't work that well with Javascript apps. We also talk about testing, and the tool chain for testing Andre recommends, along with his strategies for data in Javascript.",
       "itunes:subtitle": "Andre Young talks about shifting from .Net to Javascript and what changed in his tool chain. He talks about rethinking how he programs, making the transition with a team, and what approaches didn't work that well with Javascript apps. We also talk about testing, and the tool chain for testing Andre recommends, along with his strategies for data in Javascript.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 143
     },
@@ -3558,7 +3558,7 @@
       "itunes:duration": "00:48:30",
       "itunes:summary": "David Neal talks about his process for creating sketch notes around the talks he gives, how he got started with sketch notes, his thoughts on bad drawings, tips for describing non-visual things, and what kinds of tools he recommends to get started with sketch notes.",
       "itunes:subtitle": "David Neal talks about his process for creating sketch notes around the talks he gives, how he got started with sketch notes, his thoughts on bad drawings, tips for describing non-visual things, and what kinds of tools he recommends to get started with sketch notes.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 142
     },
@@ -3584,7 +3584,7 @@
       "itunes:duration": "00:41:32",
       "itunes:summary": "We're talking with Sebastian Lorber about Docusaurus. What is Docusaurus? How do you get started using Docusaurus? Why would someone switch to Docusaurus? What kinds of interactive features does Docusaurus offer? How are Docusaurus translations handled? And how is versioning handled in Docusaurus?",
       "itunes:subtitle": "We're talking with Sebastian Lorber about Docusaurus. What is Docusaurus? How do you get started using Docusaurus? Why would someone switch to Docusaurus? What kinds of interactive features does Docusaurus offer? How are Docusaurus translations handled? And how is versioning handled in Docusaurus?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 141
     },
@@ -3610,7 +3610,7 @@
       "itunes:duration": "00:46:56",
       "itunes:summary": "Michael Washington introduces us to Blazor and how it relates to WebAssembly. Why would someone choose Blazor? How do you bring data into Blazor? What is client side vs server side in Blazor? Can you use an API with Blazor? And Michael's advice for how to get started with Blazor.",
       "itunes:subtitle": "Michael Washington introduces us to Blazor and how it relates to WebAssembly. Why would someone choose Blazor? How do you bring data into Blazor? What is client side vs server side in Blazor? Can you use an API with Blazor? And Michael's advice for how to get started with Blazor.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 140
     },
@@ -3636,7 +3636,7 @@
       "itunes:duration": "00:58:36",
       "itunes:summary": "Wassim Chegham talks about his work on the Azure Static Web App CLI. Why would you need an emulator to test local development? Does the CLI bring Azure to your local development? What does static really mean in this context? And what was it like releasing a tool like this to his peers?",
       "itunes:subtitle": "Wassim Chegham talks about his work on the Azure Static Web App CLI. Why would you need an emulator to test local development? Does the CLI bring Azure to your local development? What does static really mean in this context? And what was it like releasing a tool like this to his peers?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 139
     },
@@ -3662,7 +3662,7 @@
       "itunes:duration": "00:46:48",
       "itunes:summary": "Katerina Skroumpelou talk about her love of Google Maps and the Google Maps API. What types of custom maps are being built? What types of business applications are there for Google Maps? What's new in mapping in 2021? And what is a Google Developer Expert?",
       "itunes:subtitle": "Katerina Skroumpelou talk about her love of Google Maps and the Google Maps API. What types of custom maps are being built? What types of business applications are there for Google Maps? What's new in mapping in 2021? And what is a Google Developer Expert?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 138
     },
@@ -3688,7 +3688,7 @@
       "itunes:duration": "00:48:00",
       "itunes:summary": "Bornwell Matembudze shares how he uses Continuous Integration and Continuous Delivery to speed up his development workflow. How well does CI / CD work in the real world? What sort of tooling does he recommend? And how do you fix errors when they occur?",
       "itunes:subtitle": "Bornwell Matembudze shares how he uses Continuous Integration and Continuous Delivery to speed up his development workflow. How well does CI / CD work in the real world? What sort of tooling does he recommend? And how do you fix errors when they occur?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 137
     },
@@ -3714,7 +3714,7 @@
       "itunes:duration": "00:47:40",
       "itunes:summary": "Preston Lamb joins John, Ward, Craig, and Dan to talk about Deno. What is the history of Deno and who should use Deno? How do you load modules in Deno? Does Deno support npm packages? And how should someone build with Deno today?",
       "itunes:subtitle": "Preston Lamb joins John, Ward, Craig, and Dan to talk about Deno. What is the history of Deno and who should use Deno? How do you load modules in Deno? Does Deno support npm packages? And how should someone build with Deno today?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 136
     },
@@ -3740,7 +3740,7 @@
       "itunes:duration": "00:55:43",
       "itunes:summary": "Majid Hajian talks with Ward, Dan, and Craig about developing with Flutter. What kinds of projects are good for Flutter? What's the developer and business use case for Flutter? What about Flutter vs Electron? And tips on getting started with Flutter.",
       "itunes:subtitle": "Majid Hajian talks with Ward, Dan, and Craig about developing with Flutter. What kinds of projects are good for Flutter? What's the developer and business use case for Flutter? What about Flutter vs Electron? And tips on getting started with Flutter.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 135
     },
@@ -3766,7 +3766,7 @@
       "itunes:duration": "00:56:47",
       "itunes:summary": "Marina Mosti talks with John, Ward, and Dan about form validation and Vue 3. Why do we have a love / hate relationship with forms? What about schema driven forms? Dealing with the dynamic nature of forms. And is Vue 3 more difficult for the average user?",
       "itunes:subtitle": "Marina Mosti talks with John, Ward, and Dan about form validation and Vue 3. Why do we have a love / hate relationship with forms? What about schema driven forms? Dealing with the dynamic nature of forms. And is Vue 3 more difficult for the average user?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 134
     },
@@ -3792,7 +3792,7 @@
       "itunes:duration": "00:52:46",
       "itunes:summary": "Nicole Oliver is back to chat with John, Ward, and Dan about how to design CSS for both design and optimal performance. Why care about the size of CSS? How do you gather elements when starting a project? And what are some tools to use to manage your CSS?",
       "itunes:subtitle": "Nicole Oliver is back to chat with John, Ward, and Dan about how to design CSS for both design and optimal performance. Why care about the size of CSS? How do you gather elements when starting a project? And what are some tools to use to manage your CSS?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 133
     },
@@ -3818,7 +3818,7 @@
       "itunes:duration": "00:49:23",
       "itunes:summary": "Michael Callaghan talks with John, Ward, and Dan about his book and blog posts on things to not say at work, and how to avoid conflict in work conversations including not using so many TLA's, strategies to avoid putting your foot in your mouth, and how to respond to emotional attacks.",
       "itunes:subtitle": "Michael Callaghan talks with John, Ward, and Dan about his book and blog posts on things to not say at work, and how to avoid conflict in work conversations including not using so many TLA's, strategies to avoid putting your foot in your mouth, and how to respond to emotional attacks.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 132
     },
@@ -3844,7 +3844,7 @@
       "itunes:duration": "01:01:37",
       "itunes:summary": "Doug Neill talks with John, Ward, and Craig about how he uses sketchnoting to record notes and prepare for talks. What was Doug's journey into sketchnoting? How does he think differently about paper vs iPad? How does Doug deal with mistakes in his Sketchnotes? And who can benefit from sketchnoting?",
       "itunes:subtitle": "Doug Neill talks with John, Ward, and Craig about how he uses sketchnoting to record notes and prepare for talks. What was Doug's journey into sketchnoting? How does he think differently about paper vs iPad? How does Doug deal with mistakes in his Sketchnotes? And who can benefit from sketchnoting?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 131
     },
@@ -3870,7 +3870,7 @@
       "itunes:duration": "00:48:52",
       "itunes:summary": "Kelly Vaughn talks with us about developing apps and themes for Shopify clients at her company, The Taproom. Advice for launching ecommerce stores, what the tech stack is like for developing on Shopify, where Node fits with Shopify, handling data when developing a Shopify theme for a customer, and using log managers.",
       "itunes:subtitle": "Kelly Vaughn talks with us about developing apps and themes for Shopify clients at her company, The Taproom. Advice for launching ecommerce stores, what the tech stack is like for developing on Shopify, where Node fits with Shopify, handling data when developing a Shopify theme for a customer, and using log managers.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 130
     },
@@ -3896,7 +3896,7 @@
       "itunes:duration": "00:47:44",
       "itunes:summary": "Brandon Roberts chats with John and Ward about his new job as developer relations at Nrwl, as well as his work with NgRx. How did Brandon get started? What is NgRx? Any advice on getting into developer relations? And what's wrong with developer relations?",
       "itunes:subtitle": "Brandon Roberts chats with John and Ward about his new job as developer relations at Nrwl, as well as his work with NgRx. How did Brandon get started? What is NgRx? Any advice on getting into developer relations? And what's wrong with developer relations?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 129
     },
@@ -3922,7 +3922,7 @@
       "itunes:duration": "00:45:18",
       "itunes:summary": "Jack Hsu talks with Ward, Dan, and Craig about building apps with React and Nx. What are the benefits of mono repo development? Why should someone check out Nx and what's the process like to get started wtih Nx? How do you know if you should be using Nx? Are you lmiited to Javascript or Typescript in Nx? And what path to learning Nx is there?",
       "itunes:subtitle": "Jack Hsu talks with Ward, Dan, and Craig about building apps with React and Nx. What are the benefits of mono repo development? Why should someone check out Nx and what's the process like to get started wtih Nx? How do you know if you should be using Nx? Are you lmiited to Javascript or Typescript in Nx? And what path to learning Nx is there?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 128
     },
@@ -3948,7 +3948,7 @@
       "itunes:duration": "00:43:25",
       "itunes:summary": "Ania Kubów talks with John, Ward, and Dan about her tutorials, including building a TikTok clone in React. What tech stack did she choose? How did she build her API? How do Netlify functions play a role? And what does her YouTube channel focus on?",
       "itunes:subtitle": "Ania Kubów talks with John, Ward, and Dan about her tutorials, including building a TikTok clone in React. What tech stack did she choose? How did she build her API? How do Netlify functions play a role? And what does her YouTube channel focus on?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 127
     },
@@ -3974,7 +3974,7 @@
       "itunes:duration": "00:59:54",
       "itunes:summary": "Kate Sky talks with John, Ward, and Craig about her experiences mentoring, NgRx, immutability in code, how you decide what to refactor, how to mentor someone entering NgRx, and state management issues.",
       "itunes:subtitle": "Kate Sky talks with John, Ward, and Craig about her experiences mentoring, NgRx, immutability in code, how you decide what to refactor, how to mentor someone entering NgRx, and state management issues.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 126
     },
@@ -4000,7 +4000,7 @@
       "itunes:duration": "00:47:41",
       "itunes:summary": "Todd Spatafore talks with Ward, Dan, and Craig about his experience working on the Vudu app. How do you write code for TVs and media devices? What sort of matrix of devices do they use? How do you do feature detection? And what worries Todd about JavaScript going forward?",
       "itunes:subtitle": "Todd Spatafore talks with Ward, Dan, and Craig about his experience working on the Vudu app. How do you write code for TVs and media devices? What sort of matrix of devices do they use? How do you do feature detection? And what worries Todd about JavaScript going forward?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 125
     },
@@ -4026,7 +4026,7 @@
       "itunes:duration": "00:56:02",
       "itunes:summary": "Minko Gechev talks with Ward, Dan, and Craig about the state of Angular in early 2021. What changes have been made to the debugging tools in Angular? What are the goals for Angular?",
       "itunes:subtitle": "Minko Gechev talks with Ward, Dan, and Craig about the state of Angular in early 2021. What changes have been made to the debugging tools in Angular? What are the goals for Angular?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 124
     },
@@ -4052,7 +4052,7 @@
       "itunes:duration": "01:09:01",
       "itunes:summary": "Mike Rohde talks with John, Ward, Dan, and Craig about drawing sketchnotes. What is sketchnoting? How do you balance words vs pictures in sketchnotes? What are the tools people need to get started with sketchnotes? And what about people who can't draw - can they still use sketchnoting?",
       "itunes:subtitle": "Mike Rohde talks with John, Ward, Dan, and Craig about drawing sketchnotes. What is sketchnoting? How do you balance words vs pictures in sketchnotes? What are the tools people need to get started with sketchnotes? And what about people who can't draw - can they still use sketchnoting?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 123
     },
@@ -4078,7 +4078,7 @@
       "itunes:duration": "00:53:23",
       "itunes:summary": "Chris Coyier talks with John, Ward, Dan, and Craig about the modern web. What technology should we be paying attention to? What tech has Chris used that was worth getting into? Flexbox or CSS Grid? Is there anything better than HTML coming? And what tools should developers be aware of?",
       "itunes:subtitle": "Chris Coyier talks with John, Ward, Dan, and Craig about the modern web. What technology should we be paying attention to? What tech has Chris used that was worth getting into? Flexbox or CSS Grid? Is there anything better than HTML coming? And what tools should developers be aware of?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 122
     },
@@ -4104,7 +4104,7 @@
       "itunes:duration": "00:40:25",
       "itunes:summary": "Colby Fayock chats with John, Ward, and Dan about what Jamstack is, what to consider regarding storage, how to handle forms in Jamstack builds, whether you need to start from scratch when using Jamstack, and what the developer experience is like on the Jamstack.",
       "itunes:subtitle": "Colby Fayock chats with John, Ward, and Dan about what Jamstack is, what to consider regarding storage, how to handle forms in Jamstack builds, whether you need to start from scratch when using Jamstack, and what the developer experience is like on the Jamstack.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 121
     },
@@ -4130,7 +4130,7 @@
       "itunes:duration": "00:48:48",
       "itunes:summary": "Sam Artioli talks with John, Ward, and Dan about using and managing large data in the browser. Should you download the entire set each time? How does CRDT affect the issue? Can you work collaboratively? And why should or shouldn't you put everything in a store?",
       "itunes:subtitle": "Sam Artioli talks with John, Ward, and Dan about using and managing large data in the browser. Should you download the entire set each time? How does CRDT affect the issue? Can you work collaboratively? And why should or shouldn't you put everything in a store?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 120
     },
@@ -4156,7 +4156,7 @@
       "itunes:duration": "00:53:06",
       "itunes:summary": "Anythony Campolo talks with John, Ward, and Dan about Redwood JS. Is Redwood JS a framework or a library? Why would you use Redwood JS? What problems does it solve? Is it for beginners or experienced developers?",
       "itunes:subtitle": "Anythony Campolo talks with John, Ward, and Dan about Redwood JS. Is Redwood JS a framework or a library? Why would you use Redwood JS? What problems does it solve? Is it for beginners or experienced developers?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 119
     },
@@ -4182,7 +4182,7 @@
       "itunes:duration": "00:51:49",
       "itunes:summary": "John, Ward, and Dan talk about the fails, wins, and the future of technology we use to build the web. What technology disappeared in 2020? What technology are you looking forward to in 2021? And what technology are you glad just works?",
       "itunes:subtitle": "John, Ward, and Dan talk about the fails, wins, and the future of technology we use to build the web. What technology disappeared in 2020? What technology are you looking forward to in 2021? And what technology are you glad just works?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 118
     },
@@ -4208,7 +4208,7 @@
       "itunes:duration": "00:44:29",
       "itunes:summary": "Mike Ryan talks with John, Ward, and Dan about technical debt and his role maintaining Ngrx. Questions such as how do you manage versions? What do you recommend for new projects? How to design to avoid technical debt? When to start fresh or use old methods? And what Mike wishes he knew back then that he knows now.",
       "itunes:subtitle": "Mike Ryan talks with John, Ward, and Dan about technical debt and his role maintaining Ngrx. Questions such as how do you manage versions? What do you recommend for new projects? How to design to avoid technical debt? When to start fresh or use old methods? And what Mike wishes he knew back then that he knows now.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 117
     },
@@ -4234,7 +4234,7 @@
       "itunes:duration": "00:55:40",
       "itunes:summary": "Tor Helgevold joins Ward, Dan, and Craig to talk about optimizing Svelte using the Closure compiler. How do you get a smaller bundle size? How do you support lazy loading? When should you turn on a closure compiler? And does the Closure compiler optimize at run time as well?",
       "itunes:subtitle": "Tor Helgevold joins Ward, Dan, and Craig to talk about optimizing Svelte using the Closure compiler. How do you get a smaller bundle size? How do you support lazy loading? When should you turn on a closure compiler? And does the Closure compiler optimize at run time as well?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 116
     },
@@ -4260,7 +4260,7 @@
       "itunes:duration": "00:49:03",
       "itunes:summary": "Norbert de Langen talks with John, Dan, and Ward about his work at Chroma, what the difference is between Chroma and Storybook, how to get in to open source development, and the benefits of using Storybook and it's add ons.",
       "itunes:subtitle": "Norbert de Langen talks with John, Dan, and Ward about his work at Chroma, what the difference is between Chroma and Storybook, how to get in to open source development, and the benefits of using Storybook and it's add ons.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 115
     },
@@ -4286,7 +4286,7 @@
       "itunes:duration": "00:55:17",
       "itunes:summary": "Andrew Smith helps animate Ward Bell - and John and Dan as well - with thoughts on using Svelte for animations. Why should you use Svelte? How does Svelte makes animation easier? What about Greensock? And what are Svelte Stores?",
       "itunes:subtitle": "Andrew Smith helps animate Ward Bell - and John and Dan as well - with thoughts on using Svelte for animations. Why should you use Svelte? How does Svelte makes animation easier? What about Greensock? And what are Svelte Stores?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 114
     },
@@ -4312,7 +4312,7 @@
       "itunes:duration": "00:48:06",
       "itunes:summary": "Natlia Venditto talks with Dan, Ward, Craig, and John about micro-front end. What is micro-front end? What are the components of micro-front end? Should you use lazy loading or refresh the page? And why should you consider going micro-front end?",
       "itunes:subtitle": "Natlia Venditto talks with Dan, Ward, Craig, and John about micro-front end. What is micro-front end? What are the components of micro-front end? Should you use lazy loading or refresh the page? And why should you consider going micro-front end?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 113
     },
@@ -4338,7 +4338,7 @@
       "itunes:duration": "00:55:37",
       "itunes:summary": "Tim Neutkens talks with John Papa about Next.js and Vercel. What is Next.js? What is Vercel? And what is the relationship between Vercel and Next.js? They also talk about advice for getting started with Vercel, when you should use Vercel and when you shouldn't, and what Vercel runs on.",
       "itunes:subtitle": "Tim Neutkens talks with John Papa about Next.js and Vercel. What is Next.js? What is Vercel? And what is the relationship between Vercel and Next.js? They also talk about advice for getting started with Vercel, when you should use Vercel and when you shouldn't, and what Vercel runs on.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 112
     },
@@ -4364,7 +4364,7 @@
       "itunes:duration": "00:56:50",
       "itunes:summary": "Diana Rodriguez chats with Ward and John about her experience developing and learning about the Internet of Things. What is IoT? Can you use Python? What plugs into IOT? Is security a concern with IOT? And where should someone get started learning IOT?",
       "itunes:subtitle": "Diana Rodriguez chats with Ward and John about her experience developing and learning about the Internet of Things. What is IoT? Can you use Python? What plugs into IOT? Is security a concern with IOT? And where should someone get started learning IOT?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 111
     },
@@ -4390,7 +4390,7 @@
       "itunes:duration": "00:49:51",
       "itunes:summary": "Announcement - we're changing the name! And Michael Shilman is on to talk about what Storybook is, why you should consider using Storybook, whether you can use Storybook in a CI process, how Storybook handles client change requests, and how do different technologies work with Storybook?",
       "itunes:subtitle": "Announcement - we're changing the name! And Michael Shilman is on to talk about what Storybook is, why you should consider using Storybook, whether you can use Storybook in a CI process, how Storybook handles client change requests, and how do different technologies work with Storybook?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 110
     },
@@ -4416,7 +4416,7 @@
       "itunes:duration": "00:56:22",
       "itunes:summary": "If you're wanting to improve your resume and job application process, you'll want to read this week's guest's book. Author and senior software engineer Randall Kanna talks with John and Ward about applying for jobs, resume building, and thoughts on boot camps and traditional education.",
       "itunes:subtitle": "If you're wanting to improve your resume and job application process, you'll want to read this week's guest's book. Author and senior software engineer Randall Kanna talks with John and Ward about applying for jobs, resume building, and thoughts on boot camps and traditional education.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 109
     },
@@ -4442,7 +4442,7 @@
       "itunes:duration": "00:37:28",
       "itunes:summary": "Madison Kanna talks with John and Dan about her journey to becoming a coder, and the ways she tries to help others learn to code through Code Book Club and other resources like FreeCodeCamp.",
       "itunes:subtitle": "Madison Kanna talks with John and Dan about her journey to becoming a coder, and the ways she tries to help others learn to code through Code Book Club and other resources like FreeCodeCamp.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 108
     },
@@ -4468,7 +4468,7 @@
       "itunes:duration": "00:51:19",
       "itunes:summary": "Kevin Åberg Kultalahti talks with John, Ward, and Craig about Svelte Forms - How Kevin got started building forms for Svelte? How does Svelte forms make life easier? How is validation handled with Svelte Forms? And how is styling handled?",
       "itunes:subtitle": "Kevin Åberg Kultalahti talks with John, Ward, and Craig about Svelte Forms - How Kevin got started building forms for Svelte? How does Svelte forms make life easier? How is validation handled with Svelte Forms? And how is styling handled?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 107
     },
@@ -4494,7 +4494,7 @@
       "itunes:duration": "00:44:52",
       "itunes:summary": "Devin Shoemaker talks with Dan, Craig, and John about his experiences building plugins for Nx. What is NX and who is it for? How granular can you get with a plugin? What resources do you have access to? And Devin's thoughts on supporting and maintaining open source projects.",
       "itunes:subtitle": "Devin Shoemaker talks with Dan, Craig, and John about his experiences building plugins for Nx. What is NX and who is it for? How granular can you get with a plugin? What resources do you have access to? And Devin's thoughts on supporting and maintaining open source projects.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 106
     },
@@ -4520,7 +4520,7 @@
       "itunes:duration": "00:44:21",
       "itunes:summary": "Tomomi Imura joins John and Ward to talk about drawing as a way of learning and teaching. They talk about what inspired Tomomi to create cat based error messages, how sketch notes help to learn and teach complex technical topics, and how Tomomi finds inspiration for a new talk or idea.",
       "itunes:subtitle": "Tomomi Imura joins John and Ward to talk about drawing as a way of learning and teaching. They talk about what inspired Tomomi to create cat based error messages, how sketch notes help to learn and teach complex technical topics, and how Tomomi finds inspiration for a new talk or idea.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 105
     },
@@ -4546,7 +4546,7 @@
       "itunes:duration": "00:48:38",
       "itunes:summary": "Laurie Barth is back to talk with John and Ward about documentation. What are some organizing principles of docs? What to do if people don't understand a term in your docs? Where should you start when writing docs for a new project? And how do you deal with SEO for documentation?",
       "itunes:subtitle": "Laurie Barth is back to talk with John and Ward about documentation. What are some organizing principles of docs? What to do if people don't understand a term in your docs? Where should you start when writing docs for a new project? And how do you deal with SEO for documentation?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 104
     },
@@ -4572,7 +4572,7 @@
       "itunes:duration": "00:50:29",
       "itunes:summary": "Mike Hartington is back to talk about building mobile apps with Capacitor. What is Capacitor? How does it handle data like contacts or geofencing? What's the difference between Cordova and Capacitor? Can you use Capacitor with Vue? Can you bring your own framework? Why bother with Capacitor instead of building native?",
       "itunes:subtitle": "Mike Hartington is back to talk about building mobile apps with Capacitor. What is Capacitor? How does it handle data like contacts or geofencing? What's the difference between Cordova and Capacitor? Can you use Capacitor with Vue? Can you bring your own framework? Why bother with Capacitor instead of building native?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 103
     },
@@ -4598,7 +4598,7 @@
       "itunes:duration": "00:46:06",
       "itunes:summary": "Orta Therox talks wit John, Ward, and Dan about what the latest news is on Typescript and Svelte, how Typescript connects with Svelte, when we should use any, what Sapper is, and what client side data management tools there are for Svelte.",
       "itunes:subtitle": "Orta Therox talks wit John, Ward, and Dan about what the latest news is on Typescript and Svelte, how Typescript connects with Svelte, when we should use any, what Sapper is, and what client side data management tools there are for Svelte.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 102
     },
@@ -4624,7 +4624,7 @@
       "itunes:duration": "00:54:47",
       "itunes:summary": "Alan Davalos drops a wealth of knowledge and links on LitElement including: what is LitElement? What is CSS encapsulation? How does LitElement help with templating? Is LitElement able to integrate with other components? How do you define an attribute value? And How does Fast compare with LitElements?",
       "itunes:subtitle": "Alan Davalos drops a wealth of knowledge and links on LitElement including: what is LitElement? What is CSS encapsulation? How does LitElement help with templating? Is LitElement able to integrate with other components? How do you define an attribute value? And How does Fast compare with LitElements?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 101
     },
@@ -4650,7 +4650,7 @@
       "itunes:duration": "00:43:40",
       "itunes:summary": "To celebrate episode 99 and 3 quarters, Ward and John talk about Interceptors. Why are interceptors important? Are they like middleware? How do interceptors work with Angular? What is a read only interceptor? And where should someone start with interceptors?",
       "itunes:subtitle": "To celebrate episode 99 and 3 quarters, Ward and John talk about Interceptors. Why are interceptors important? Are they like middleware? How do interceptors work with Angular? What is a read only interceptor? And where should someone start with interceptors?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 100
     },
@@ -4676,7 +4676,7 @@
       "itunes:duration": "00:50:26",
       "itunes:summary": "Manfred Steyer talks with John, Ward, and Dan about what enterprise means these days, what some of the pitfalls of monorepos are, what kind of special tooling you might need, how to track changes and use version control, how to link multiple repos, and who monorepos are for.",
       "itunes:subtitle": "Manfred Steyer talks with John, Ward, and Dan about what enterprise means these days, what some of the pitfalls of monorepos are, what kind of special tooling you might need, how to track changes and use version control, how to link multiple repos, and who monorepos are for.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 99
     },
@@ -4702,7 +4702,7 @@
       "itunes:duration": "00:56:01",
       "itunes:summary": "Rich Harris talks with us about why he decided to create Svelte, where the size comes from, what the challenges are with SVG, and what his pitch is for Svelte. Rich also talks about why he wanted to try to build Svelte for folks who aren't as comfortable with React or Vue, and what's next for Svelte.",
       "itunes:subtitle": "Rich Harris talks with us about why he decided to create Svelte, where the size comes from, what the challenges are with SVG, and what his pitch is for Svelte. Rich also talks about why he wanted to try to build Svelte for folks who aren't as comfortable with React or Vue, and what's next for Svelte.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 98
     },
@@ -4728,7 +4728,7 @@
       "itunes:duration": "00:49:56",
       "itunes:summary": "Justin Samuels talks with John and Ward about his career path, education choices along the way, Render Atlana, and how he helped organize and develop Rebuild Black Business.",
       "itunes:subtitle": "Justin Samuels talks with John and Ward about his career path, education choices along the way, Render Atlana, and how he helped organize and develop Rebuild Black Business.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 97
     },
@@ -4754,7 +4754,7 @@
       "itunes:duration": "00:53:37",
       "itunes:summary": "Matteo Collina returns to the show to talk about Fastify. What is Fastify? Why should you use Fastify instead of Express? What is Pino and why?\nWhat's the best way to get started with Fastify?",
       "itunes:subtitle": "Matteo Collina returns to the show to talk about Fastify. What is Fastify? Why should you use Fastify instead of Express? What is Pino and why?\nWhat's the best way to get started with Fastify?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 96
     },
@@ -4780,7 +4780,7 @@
       "itunes:duration": "00:52:47",
       "itunes:summary": "Kim Maida joins John, Ward, and Dan to talk about her career in developer relations - what her journey has been like, reasons to get into dev rel, what to look for when hiring someone in developer relations, how to bring feedback from the field to your product team, and processes Kim has set up to make developer relations easier for everyone.",
       "itunes:subtitle": "Kim Maida joins John, Ward, and Dan to talk about her career in developer relations - what her journey has been like, reasons to get into dev rel, what to look for when hiring someone in developer relations, how to bring feedback from the field to your product team, and processes Kim has set up to make developer relations easier for everyone.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 95
     },
@@ -4806,7 +4806,7 @@
       "itunes:duration": "01:05:00",
       "itunes:summary": "Daniel Roe is back to help teach us about GraphQL. What is GraphQL? What's the graph in GraphQL? How do you restrict client access to data in GraphQL? What's the difference between serverless vs serverless functions? And what lead Daniel Roe to choosing GraphQL for his project?",
       "itunes:subtitle": "Daniel Roe is back to help teach us about GraphQL. What is GraphQL? What's the graph in GraphQL? How do you restrict client access to data in GraphQL? What's the difference between serverless vs serverless functions? And what lead Daniel Roe to choosing GraphQL for his project?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 94
     },
@@ -4832,7 +4832,7 @@
       "itunes:duration": "00:43:25",
       "itunes:summary": "Emma Bostian joins John, Ward, and Craig to talk about her career in technology, what a career in tech means, what drew her back to tech after trying elsewhere, how to negotiate a salary in tech, working with a good manager, and prepping for a job interview in technology.",
       "itunes:subtitle": "Emma Bostian joins John, Ward, and Craig to talk about her career in technology, what a career in tech means, what drew her back to tech after trying elsewhere, how to negotiate a salary in tech, working with a good manager, and prepping for a job interview in technology.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 93
     },
@@ -4858,7 +4858,7 @@
       "itunes:duration": "00:38:27",
       "itunes:summary": "Loiane Groner joins us to talk about what Nest.js is, when someone should choose Nest.js over other choices, how to consolidate logic, what possible downsides of Nest.js are, and what does middleware look like in Nest.js?",
       "itunes:subtitle": "Loiane Groner joins us to talk about what Nest.js is, when someone should choose Nest.js over other choices, how to consolidate logic, what possible downsides of Nest.js are, and what does middleware look like in Nest.js?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 92
     },
@@ -4884,7 +4884,7 @@
       "itunes:duration": "00:46:52",
       "itunes:summary": "Deborah Kurata joins Ward and Dan to talk about RxJS, what common stumbling points are, what resources she uses to keep up with RxJS, how to handle reactive forms, and her Pluralsight courses on RxJS and more.",
       "itunes:subtitle": "Deborah Kurata joins Ward and Dan to talk about RxJS, what common stumbling points are, what resources she uses to keep up with RxJS, how to handle reactive forms, and her Pluralsight courses on RxJS and more.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 91
     },
@@ -4910,7 +4910,7 @@
       "itunes:duration": "00:42:25",
       "itunes:summary": "illiam Imoh joins John, Dan, and Craig to talk about testing with Frisby.js and Joi. What are Frisby and Jest? How does Frisby make life easier? What is Postman? How do you handle authentication? How do you pass tokens or specify environment data?",
       "itunes:subtitle": "illiam Imoh joins John, Dan, and Craig to talk about testing with Frisby.js and Joi. What are Frisby and Jest? How does Frisby make life easier? What is Postman? How do you handle authentication? How do you pass tokens or specify environment data?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 90
     },
@@ -4936,7 +4936,7 @@
       "itunes:duration": "00:50:40",
       "itunes:summary": "Aristeidis joins John and Ward to talk about his experience building and maintaining an electron app for mapping software. What does Electron give you? What are the benefits of Electron? What about security or authentication? What are the alternatives to Electron?",
       "itunes:subtitle": "Aristeidis joins John and Ward to talk about his experience building and maintaining an electron app for mapping software. What does Electron give you? What are the benefits of Electron? What about security or authentication? What are the alternatives to Electron?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 89
     },
@@ -4962,7 +4962,7 @@
       "itunes:duration": "00:41:29",
       "itunes:summary": "Gustavo Miranda joins Craig and Ward to talk about React hooks and why they are important. Also discussed are how hooks tie into moments in React, what Atomic Design is, how Gustavo changed his thinking about React with hooks, what the learning curve was like, how he used hooks to manage state, and suggestions for people new to hooks.",
       "itunes:subtitle": "Gustavo Miranda joins Craig and Ward to talk about React hooks and why they are important. Also discussed are how hooks tie into moments in React, what Atomic Design is, how Gustavo changed his thinking about React with hooks, what the learning curve was like, how he used hooks to manage state, and suggestions for people new to hooks.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 88
     },
@@ -4988,7 +4988,7 @@
       "itunes:duration": "00:42:11",
       "itunes:summary": "Ryan Lanciaux talks with John and Ward about taking inspiration from the culinary world for better frontend development practices. How can it help software development? How can it go wrong? And how does it help developers to think this way?",
       "itunes:subtitle": "Ryan Lanciaux talks with John and Ward about taking inspiration from the culinary world for better frontend development practices. How can it help software development? How can it go wrong? And how does it help developers to think this way?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 87
     },
@@ -5014,7 +5014,7 @@
       "itunes:duration": "00:44:00",
       "itunes:summary": "Gil Fink talks with Dan and Ward about using React, how he got D3 to work within React, advice on hooks, and wrapping third party elements.",
       "itunes:subtitle": "Gil Fink talks with Dan and Ward about using React, how he got D3 to work within React, advice on hooks, and wrapping third party elements.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 86
     },
@@ -5040,7 +5040,7 @@
       "itunes:duration": "00:38:50",
       "itunes:summary": "John and Craig are joined by Mitch and Daria from Azure to talk about Azure Static Web Apps. What is Azure Static Web Apps? Who is the target audience for it? And how does Azure Static Web Apps work with custom domains, Github Actions, and authentication?",
       "itunes:subtitle": "John and Craig are joined by Mitch and Daria from Azure to talk about Azure Static Web Apps. What is Azure Static Web Apps? Who is the target audience for it? And how does Azure Static Web Apps work with custom domains, Github Actions, and authentication?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "bonus"
     },
     {
@@ -5065,7 +5065,7 @@
       "itunes:duration": "00:48:47",
       "itunes:summary": "Chris from Scotch.io talks with John, Ward, and Dan about his experience building Scotch.io, how he's incorporated Jamstack elements, using Cloudflare to speed up the site around the world, how to design for boring business sites, and CMS options to consider if he was to rebuild Scotch.io today.",
       "itunes:subtitle": "Chris from Scotch.io talks with John, Ward, and Dan about his experience building Scotch.io, how he's incorporated Jamstack elements, using Cloudflare to speed up the site around the world, how to design for boring business sites, and CMS options to consider if he was to rebuild Scotch.io today.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 85
     },
@@ -5091,7 +5091,7 @@
       "itunes:duration": "00:55:52",
       "itunes:summary": "Ever wondered what exactly Nuxt, Vue, or GraphQL are? We've got Daniel Roe on this episode to talk about what Nuxt is? Why is SSR important? How hosting on Lambda helps? And what some of the challenges with Nuxt are for developers.",
       "itunes:subtitle": "Ever wondered what exactly Nuxt, Vue, or GraphQL are? We've got Daniel Roe on this episode to talk about what Nuxt is? Why is SSR important? How hosting on Lambda helps? And what some of the challenges with Nuxt are for developers.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 84
     },
@@ -5117,7 +5117,7 @@
       "itunes:duration": "00:46:29",
       "itunes:summary": "Craig and John talk with Domenik Reitzner about Svelte. Can you write less code and build boilerplate-free components using HTML, CSS, and Javascript? What about the lack of cli? What is it really like developing with Svelte and why might someone not want to use Svelte?",
       "itunes:subtitle": "Craig and John talk with Domenik Reitzner about Svelte. Can you write less code and build boilerplate-free components using HTML, CSS, and Javascript? What about the lack of cli? What is it really like developing with Svelte and why might someone not want to use Svelte?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 83
     },
@@ -5143,7 +5143,7 @@
       "itunes:duration": "00:43:21",
       "itunes:summary": "What is i18n and l10n? Naomi Meyer talks with John, Ward, and Dan about accessibility and internationalization, why we should care about them, advice for designers, what to do about ALT text, and whether it's worth the extra time and effort.",
       "itunes:subtitle": "What is i18n and l10n? Naomi Meyer talks with John, Ward, and Dan about accessibility and internationalization, why we should care about them, advice for designers, what to do about ALT text, and whether it's worth the extra time and effort.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 82
     },
@@ -5169,7 +5169,7 @@
       "itunes:duration": "00:40:58",
       "itunes:summary": "Satnosh Yadav talks with John and Dan about overriding JavaScript builds. What is a Javascript build? How does Webpack help? And what is a builder?",
       "itunes:subtitle": "Satnosh Yadav talks with John and Dan about overriding JavaScript builds. What is a Javascript build? How does Webpack help? And what is a builder?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 81
     },
@@ -5195,7 +5195,7 @@
       "itunes:duration": "00:46:56",
       "itunes:summary": "Keilla Fernandes talks with John, Ward, and Dan about service workers. What are service workers? How do you keep data fresh and in sync? What about service workers and push notifications? And how does HTTP and caching work with service workers?",
       "itunes:subtitle": "Keilla Fernandes talks with John, Ward, and Dan about service workers. What are service workers? How do you keep data fresh and in sync? What about service workers and push notifications? And how does HTTP and caching work with service workers?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 80
     },
@@ -5221,7 +5221,7 @@
       "itunes:duration": "00:53:16",
       "itunes:summary": "Christina Warren talks with us about the state of developer life on macOS.",
       "itunes:subtitle": "Christina Warren talks with us about the state of developer life on macOS.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 79
     },
@@ -5247,7 +5247,7 @@
       "itunes:duration": "00:43:07",
       "itunes:summary": "Jenn Creighton talks with Craig Shoemaker about going from React to React Native and some of the issues she encountered and what she learned along the way.",
       "itunes:subtitle": "Jenn Creighton talks with Craig Shoemaker about going from React to React Native and some of the issues she encountered and what she learned along the way.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 78
     },
@@ -5273,7 +5273,7 @@
       "itunes:duration": "00:47:59",
       "itunes:summary": "Paul Campbell talks with John and Craig about converting Tito to Vue.js and what he learned along the way.",
       "itunes:subtitle": "Paul Campbell talks with John and Craig about converting Tito to Vue.js and what he learned along the way.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 77
     },
@@ -5299,7 +5299,7 @@
       "itunes:duration": "00:48:51",
       "itunes:summary": "Ward and John talk with Laurie about what Readable Javascript is, why you shouldn't nest your ternary's, debate Let vs Const, and most importantly, discuss bike shedding vs yak shaving.",
       "itunes:subtitle": "Ward and John talk with Laurie about what Readable Javascript is, why you shouldn't nest your ternary's, debate Let vs Const, and most importantly, discuss bike shedding vs yak shaving.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 76
     },
@@ -5325,7 +5325,7 @@
       "itunes:duration": "00:38:02",
       "itunes:summary": "When should you use Promises and when should you use Observables? John and Ward are talking with Kapehe about her talk on House Promises vs House Observables to help you understand the differences.",
       "itunes:subtitle": "When should you use Promises and when should you use Observables? John and Ward are talking with Kapehe about her talk on House Promises vs House Observables to help you understand the differences.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 75
     },
@@ -5351,7 +5351,7 @@
       "itunes:duration": "00:33:04",
       "itunes:summary": "Cher talks with John and Ward about her experiences working on Starbucks PWA, and moving from Vue to React.",
       "itunes:subtitle": "Cher talks with John and Ward about her experiences working on Starbucks PWA, and moving from Vue to React.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 74
     },
@@ -5377,7 +5377,7 @@
       "itunes:duration": "00:43:32",
       "itunes:summary": "Micah Godbolt talks with John and Craig about what a design system is, how it can help, when you should use a design system, and how to learn more about design systems.",
       "itunes:subtitle": "Micah Godbolt talks with John and Craig about what a design system is, how it can help, when you should use a design system, and how to learn more about design systems.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 73
     },
@@ -5403,7 +5403,7 @@
       "itunes:duration": "00:46:21",
       "itunes:summary": "Alexander Lichter joins the show to talk about Nuxt, reasons why you should use Nuxt, how do Nuxt and Vue work together, and more.",
       "itunes:subtitle": "Alexander Lichter joins the show to talk about Nuxt, reasons why you should use Nuxt, how do Nuxt and Vue work together, and more.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 72
     },
@@ -5429,7 +5429,7 @@
       "itunes:duration": "00:51:24",
       "itunes:summary": "Jeremy Likness talks with John and Dan about advice for building larger applications with Angular, and tips for how to keep projects organized teams spread across the globe.",
       "itunes:subtitle": "Jeremy Likness talks with John and Dan about advice for building larger applications with Angular, and tips for how to keep projects organized teams spread across the globe.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 71
     },
@@ -5455,7 +5455,7 @@
       "itunes:duration": "00:45:01",
       "itunes:summary": "Ken Wheeler joins Craig and Ward to talk through tips on learning how to measure and improve React performance.",
       "itunes:subtitle": "Ken Wheeler joins Craig and Ward to talk through tips on learning how to measure and improve React performance.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 70
     },
@@ -5481,7 +5481,7 @@
       "itunes:duration": "00:48:28",
       "itunes:summary": "Ely Lucas helps unpack the Ionic framework and how it can help developers working across frameworks, why you should consider using it, who should use it, and what's coming for Vue and Vanilla Javascript.",
       "itunes:subtitle": "Ely Lucas helps unpack the Ionic framework and how it can help developers working across frameworks, why you should consider using it, who should use it, and what's coming for Vue and Vanilla Javascript.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 69
     },
@@ -5507,7 +5507,7 @@
       "itunes:duration": "00:49:38",
       "itunes:summary": "Joe Eames joins John and Ward to talk about the different kinds of testing, how to convince someone to use testing, and why we should be testing more often.",
       "itunes:subtitle": "Joe Eames joins John and Ward to talk about the different kinds of testing, how to convince someone to use testing, and why we should be testing more often.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 68
     },
@@ -5533,7 +5533,7 @@
       "itunes:duration": "00:48:00",
       "itunes:summary": "Sam Julien stirs up some buzzword soup as he explains Gatsby to John, Dan, and Craig. What is Gatsby? Who's Gatsby for? And what are the hurdles to using Gatsby for someone new to Gatsby?",
       "itunes:subtitle": "Sam Julien stirs up some buzzword soup as he explains Gatsby to John, Dan, and Craig. What is Gatsby? Who's Gatsby for? And what are the hurdles to using Gatsby for someone new to Gatsby?",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 67
     },
@@ -5559,7 +5559,7 @@
       "itunes:duration": "00:45:08",
       "itunes:summary": "Ward & John talk through building something with vanilla Javascript while trying to limit the frameworks used, and the potential issues and benefits of doing so.",
       "itunes:subtitle": "Ward & John talk through building something with vanilla Javascript while trying to limit the frameworks used, and the potential issues and benefits of doing so.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 66
     },
@@ -5585,7 +5585,7 @@
       "itunes:duration": "00:47:56",
       "itunes:summary": "Ali Spittel is on to talk about her experiences working with frameworks, how she teaches coding, what kinds of people are learning to code, and next steps in her career as an educator and developer.",
       "itunes:subtitle": "Ali Spittel is on to talk about her experiences working with frameworks, how she teaches coding, what kinds of people are learning to code, and next steps in her career as an educator and developer.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 65
     },
@@ -5611,7 +5611,7 @@
       "itunes:duration": "00:45:30",
       "itunes:summary": "Brian Clark talks with John and Ward about his experiences live coding on Twitch. He's been using Twitch to explore new ways of teaching coding and developer tips to a younger audience.",
       "itunes:subtitle": "Brian Clark talks with John and Ward about his experiences live coding on Twitch. He's been using Twitch to explore new ways of teaching coding and developer tips to a younger audience.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 64
     },
@@ -5637,7 +5637,7 @@
       "itunes:duration": "00:23:59",
       "itunes:summary": "John and Craig talk with Neha Sharma about building a design system, and how to best use them, and mentoring others new to the developer community.",
       "itunes:subtitle": "John and Craig talk with Neha Sharma about building a design system, and how to best use them, and mentoring others new to the developer community.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 63
     },
@@ -5663,7 +5663,7 @@
       "itunes:duration": "00:29:29",
       "itunes:summary": "Aleksandra Shinkevich talks with us about what linters are, how to make sure linters are working properly, when you should run them, common problems with linters, and how a linter compares with other things like Prettier.",
       "itunes:subtitle": "Aleksandra Shinkevich talks with us about what linters are, how to make sure linters are working properly, when you should run them, common problems with linters, and how a linter compares with other things like Prettier.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 62
     },
@@ -5689,7 +5689,7 @@
       "itunes:duration": "00:53:58",
       "itunes:summary": "John and Ward chat with Jules Kremer about advice for building technical teams, how to bring different folks together, incorporating remote workers, and thoughts on older tech workers involvement.",
       "itunes:subtitle": "John and Ward chat with Jules Kremer about advice for building technical teams, how to bring different folks together, incorporating remote workers, and thoughts on older tech workers involvement.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 61
     },
@@ -5716,7 +5716,7 @@
       "itunes:summary": "John talks with Max Lynch about their experience with setting up and configuring the new MacBook Pro 16\" and how it compares with previous models. They talk about the apps and configuration options they do when setting up a new computer.",
       "itunes:subtitle": "John talks with Max Lynch about their experience with setting up and configuring the new MacBook Pro 16\" and how it compares with previous models. They talk about the apps and configuration options they do when setting up a new computer.",
       "itunes:keywords": "apple, macbook pro, developers, macos",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "bonus"
     },
     {
@@ -5741,7 +5741,7 @@
       "itunes:duration": "00:45:47",
       "itunes:summary": "Sani Yusuf stops by to talk about Ionic, React Native, Angular, and how to choose your mobile strategy.",
       "itunes:subtitle": "Sani Yusuf stops by to talk about Ionic, React Native, Angular, and how to choose your mobile strategy.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 60
     },
@@ -5768,7 +5768,7 @@
       "itunes:summary": "Jesse Warden talks with Ward and John about correctness, parkour, and why and how he learned to ask why.",
       "itunes:subtitle": "Jesse Warden talks with Ward and John about correctness, parkour, and why and how he learned to ask why.",
       "itunes:keywords": "angular, deus ex, correctness, parkour",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 59
     },
@@ -5799,7 +5799,7 @@
       "itunes:summary": "Kelly Vaughn talks with us about setting up faster and better Shopify front end stores and her experiences learning Vue, Gatsby, and more.",
       "itunes:subtitle": "Kelly Vaughn talks with us about setting up faster and better Shopify front end stores and her experiences learning Vue, Gatsby, and more.",
       "itunes:keywords": "hotjar, gatsby, nuxt, shopify, vue",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 58
     },
@@ -5829,7 +5829,7 @@
       "itunes:duration": "00:43:02",
       "itunes:summary": "Aaron talks with John, Ward, and Dan about his experiences learning React and Typescript and ways to level up your knowledge.",
       "itunes:subtitle": "Aaron talks with John, Ward, and Dan about his experiences learning React and Typescript and ways to level up your knowledge.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 57
     },
@@ -5860,7 +5860,7 @@
       "itunes:summary": "We talk with Dan Muller about his advice for building and launching a successful web app, including how Bazel can help.",
       "itunes:subtitle": "We talk with Dan Muller about his advice for building and launching a successful web app, including how Bazel can help.",
       "itunes:keywords": "web app, bazel, build process",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 56
     },
@@ -5890,7 +5890,7 @@
       "itunes:duration": "00:39:33",
       "itunes:summary": "Marie Hoeger is our guest and she helps John and Ward learn more about TypeScript in Azure Functions.",
       "itunes:subtitle": "Marie Hoeger is our guest and she helps John and Ward learn more about TypeScript in Azure Functions.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 55
     },
@@ -5920,7 +5920,7 @@
       "itunes:duration": "00:51:32",
       "itunes:summary": "Nicole Oliver returns to talk with us about styling modern applications, the difference between pre and post-processors, Flexbox vs Grid, and rollerblading.",
       "itunes:subtitle": "Nicole Oliver returns to talk with us about styling modern applications, the difference between pre and post-processors, Flexbox vs Grid, and rollerblading.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 54
     },
@@ -5950,7 +5950,7 @@
       "itunes:duration": "00:53:00",
       "itunes:summary": "Colby Tresness helps educate us on Serverless, where functions fit in, and examples of uses for Serverless.",
       "itunes:subtitle": "Colby Tresness helps educate us on Serverless, where functions fit in, and examples of uses for Serverless.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 53
     },
@@ -5980,7 +5980,7 @@
       "itunes:duration": "00:46:57",
       "itunes:summary": "Katie Hempenius talks with Ward and John about web performance, lazy loading, code splitting, tti, and the difference between latency and bandwidth.",
       "itunes:subtitle": "Katie Hempenius talks with Ward and John about web performance, lazy loading, code splitting, tti, and the difference between latency and bandwidth.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 52
     },
@@ -6011,7 +6011,7 @@
       "itunes:summary": "Niall Crosby talks with us about why he built Ag Grid, how he dealt with various issues when releasing open source software, and tips for anyone else thinking of writing their own frameworks or projects.",
       "itunes:subtitle": "Niall Crosby talks with us about why he built Ag Grid, how he dealt with various issues when releasing open source software, and tips for anyone else thinking of writing their own frameworks or projects.",
       "itunes:keywords": "grid, open source",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 51
     },
@@ -6042,7 +6042,7 @@
       "itunes:summary": "How do you know when it's time to automate tasks? And what are the costs involved? Craig Shoemaker is on this episode to talk about automation with John and Dan.",
       "itunes:subtitle": "How do you know when it's time to automate tasks? And what are the costs involved? Craig Shoemaker is on this episode to talk about automation with John and Dan.",
       "itunes:keywords": "automation, azure functions",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 50
     },
@@ -6073,7 +6073,7 @@
       "itunes:summary": "Amir Rustamzadeh talks with John Papa about the difference between unit, integration, and end to end tests, the value of testing, and where to get started with Cypress.",
       "itunes:subtitle": "Amir Rustamzadeh talks with John Papa about the difference between unit, integration, and end to end tests, the value of testing, and where to get started with Cypress.",
       "itunes:keywords": "testing, developer tests",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 49
     },
@@ -6104,7 +6104,7 @@
       "itunes:summary": "John and Dan talk about various ways to host your web app from simple FTP uploading to Docker and other modern technologies.",
       "itunes:subtitle": "John and Dan talk about various ways to host your web app from simple FTP uploading to Docker and other modern technologies.",
       "itunes:keywords": "s3, ftp, lambda, docker, aws",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 48
     },
@@ -6135,7 +6135,7 @@
       "itunes:summary": "Sherry List joins John and Ward to talk about whether web components will replace frameworks and also offers some suggestions of ways to help with non-profits.",
       "itunes:subtitle": "Sherry List joins John and Ward to talk about whether web components will replace frameworks and also offers some suggestions of ways to help with non-profits.",
       "itunes:keywords": "frameworks, web components",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 47
     },
@@ -6166,7 +6166,7 @@
       "itunes:summary": "We're joined by Tara Z. Manicsic to talk about new features of Javascript and tips for developers who are using older versions to keep up.",
       "itunes:subtitle": "We're joined by Tara Z. Manicsic to talk about new features of Javascript and tips for developers who are using older versions to keep up.",
       "itunes:keywords": "typescript, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 46
     },
@@ -6197,7 +6197,7 @@
       "itunes:summary": "Kapunahale Wong is a developer and doc writer for Angular. We talk wtih her about what goes into writing docs, how can people help out, and tips for evaulating your own project's docs.",
       "itunes:subtitle": "Kapunahale Wong is a developer and doc writer for Angular. We talk wtih her about what goes into writing docs, how can people help out, and tips for evaulating your own project's docs.",
       "itunes:keywords": "writing, documentation",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 45
     },
@@ -6227,7 +6227,7 @@
       "itunes:duration": "00:54:00",
       "itunes:summary": "Brian Ketelsen stops by to talk about GO and his experience getting into development.",
       "itunes:subtitle": "Brian Ketelsen stops by to talk about GO and his experience getting into development.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 44
     },
@@ -6258,7 +6258,7 @@
       "itunes:summary": "Jonathan Carter is on to talk about VS Live Share including how it works, and answers security concerns about sharing your code online.",
       "itunes:subtitle": "Jonathan Carter is on to talk about VS Live Share including how it works, and answers security concerns about sharing your code online.",
       "itunes:keywords": "visual studio code, vs code, live share",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 43
     },
@@ -6289,7 +6289,7 @@
       "itunes:summary": "What's the most compelling thing to think about when choosing a framework? Your 3 hosts, John, Ward, and Dan, walk through some of the reasons for choosing a particular Javascript framework.",
       "itunes:subtitle": "What's the most compelling thing to think about when choosing a framework? Your 3 hosts, John, Ward, and Dan, walk through some of the reasons for choosing a particular Javascript framework.",
       "itunes:keywords": "frameworks, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 42
     },
@@ -6320,7 +6320,7 @@
       "itunes:summary": "Jan Lehnardt is our guest to answer our questions about Greenkeeper which helps monitor and update your npm dependencies.",
       "itunes:subtitle": "Jan Lehnardt is our guest to answer our questions about Greenkeeper which helps monitor and update your npm dependencies.",
       "itunes:keywords": "npm, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 41
     },
@@ -6351,7 +6351,7 @@
       "itunes:summary": "Randall Koutnik joins us to talk about building tools for developers and how to differentiate between user experience and developer user experience.",
       "itunes:subtitle": "Randall Koutnik joins us to talk about building tools for developers and how to differentiate between user experience and developer user experience.",
       "itunes:keywords": "react, rxjs, developer experience",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 40
     },
@@ -6382,7 +6382,7 @@
       "itunes:summary": "Kim Maida talks with us about authentication, rolling your own security, SDK for apps on Auth0, Groups vs claims vs scopes, storing tokens on client side, and how short a life should access tokens have?",
       "itunes:subtitle": "Kim Maida talks with us about authentication, rolling your own security, SDK for apps on Auth0, Groups vs claims vs scopes, storing tokens on client side, and how short a life should access tokens have?",
       "itunes:keywords": "authentication, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 39
     },
@@ -6413,7 +6413,7 @@
       "itunes:summary": "Matteo Collina talks with us about HTTP/2, HTTP/3, NodeClinic, Autocannon, the event loop, node security, and dealing with large amounts of JSON data.",
       "itunes:subtitle": "Matteo Collina talks with us about HTTP/2, HTTP/3, NodeClinic, Autocannon, the event loop, node security, and dealing with large amounts of JSON data.",
       "itunes:keywords": "stream, node, security, son, event loop, http",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 38
     },
@@ -6444,7 +6444,7 @@
       "itunes:summary": "We talk with Bel Halpern about how he built the dev.to platform, how they're hoping to monetize (or not), how to keep going on a long term project, and how an April Fool's day joke went awry.",
       "itunes:subtitle": "We talk with Bel Halpern about how he built the dev.to platform, how they're hoping to monetize (or not), how to keep going on a long term project, and how an April Fool's day joke went awry.",
       "itunes:keywords": "community, writing, dev.to, developers",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 37
     },
@@ -6475,7 +6475,7 @@
       "itunes:summary": "Suz Hinton is our guest and we're talking about the Internet of Things - what languages you can use, constraints of IOT, and what offline IOT means.",
       "itunes:subtitle": "Suz Hinton is our guest and we're talking about the Internet of Things - what languages you can use, constraints of IOT, and what offline IOT means.",
       "itunes:keywords": "raspberry pi, iot, javascript, offline iot",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 36
     },
@@ -6505,7 +6505,7 @@
       "itunes:duration": "00:55:32",
       "itunes:summary": "John, Ward, and Dan talk about their experiences at ngConf 2019 - the talks they enjoyed as well as what they learned in conversations with attendees at the conference.",
       "itunes:subtitle": "John, Ward, and Dan talk about their experiences at ngConf 2019 - the talks they enjoyed as well as what they learned in conversations with attendees at the conference.",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 35
     },
@@ -6536,7 +6536,7 @@
       "itunes:summary": "Marie is a Software Engineer for Azure Functions. On this episode we talk about what serverless is, the importance of throttling, durable functions, and common use cases.",
       "itunes:subtitle": "Marie is a Software Engineer for Azure Functions. On this episode we talk about what serverless is, the importance of throttling, durable functions, and common use cases.",
       "itunes:keywords": "async patterns, throttling, serverless",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 34
     },
@@ -6567,7 +6567,7 @@
       "itunes:summary": "Natalie Qabazard chat swith Ward and Dan about introducing people to Typescript, how it can help with refactoring, and what it's like to work at Slack.",
       "itunes:subtitle": "Natalie Qabazard chat swith Ward and Dan about introducing people to Typescript, how it can help with refactoring, and what it's like to work at Slack.",
       "itunes:keywords": "food, unit tests, slack, typescript, refactoring",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 33
     },
@@ -6598,7 +6598,7 @@
       "itunes:summary": "Jen Looper talks with us about mobile app development and deployment with advice from her experiences as an individual developer as well as for the enterprise world.",
       "itunes:subtitle": "Jen Looper talks with us about mobile app development and deployment with advice from her experiences as an individual developer as well as for the enterprise world.",
       "itunes:keywords": "mobile app, native app, android app, nativescript, ios app",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 32
     },
@@ -6629,7 +6629,7 @@
       "itunes:summary": "Ben Lesh is on this week to talk with us about RxJS and what the roadmap is for the future of RxJS.",
       "itunes:subtitle": "Ben Lesh is on this week to talk with us about RxJS and what the roadmap is for the future of RxJS.",
       "itunes:keywords": "rxjs",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 31
     },
@@ -6660,7 +6660,7 @@
       "itunes:summary": "We're talking all things CSS with Emma Wedekind.",
       "itunes:subtitle": "We're talking all things CSS with Emma Wedekind.",
       "itunes:keywords": "css",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 30
     },
@@ -6691,7 +6691,7 @@
       "itunes:summary": "Nicole Oliver joins us to talk about Typescript decorators.",
       "itunes:subtitle": "Nicole Oliver joins us to talk about Typescript decorators.",
       "itunes:keywords": "vue, decorators, typescript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 29
     },
@@ -6722,7 +6722,7 @@
       "itunes:summary": "Jem Young helps John & Ward dispel some of the enterprise engineering myths.",
       "itunes:subtitle": "Jem Young helps John & Ward dispel some of the enterprise engineering myths.",
       "itunes:keywords": "enterprise",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 28
     },
@@ -6753,7 +6753,7 @@
       "itunes:summary": "Doguhan Uluca talks with us about delivering web apps to the cloud using Docker, Kubernetes, and ways to get started if you've never tried it.",
       "itunes:subtitle": "Doguhan Uluca talks with us about delivering web apps to the cloud using Docker, Kubernetes, and ways to get started if you've never tried it.",
       "itunes:keywords": "docker, kubernetes",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 27
     },
@@ -6784,7 +6784,7 @@
       "itunes:summary": "Katerina Skroumpelou is our guest and we're talking about Google Firebase. What is Firebase? Why did Katerina decide to use it initially? What problems does Firebase solve? And more!",
       "itunes:subtitle": "Katerina Skroumpelou is our guest and we're talking about Google Firebase. What is Firebase? Why did Katerina decide to use it initially? What problems does Firebase solve? And more!",
       "itunes:keywords": "firebase, javascript, angular",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 26
     },
@@ -6815,7 +6815,7 @@
       "itunes:summary": "We've got Ryan Burgess back to talk with us about Netflix's use of native vs web on mobile.",
       "itunes:subtitle": "We've got Ryan Burgess back to talk with us about Netflix's use of native vs web on mobile.",
       "itunes:keywords": "javascript, native, web, mobile",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 25
     },
@@ -6846,7 +6846,7 @@
       "itunes:summary": "Victor Savkin talks with John and Ward about large app development, yarn vs npm, npx, managing multiple teams on multiple sprints, and the Typescript tax.",
       "itunes:subtitle": "Victor Savkin talks with John and Ward about large app development, yarn vs npm, npx, managing multiple teams on multiple sprints, and the Typescript tax.",
       "itunes:keywords": "angular, yarn, npm, npx",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 24
     },
@@ -6877,7 +6877,7 @@
       "itunes:summary": "We talk with Michael Szul about what is and isn't a bot, understanding natural language processing, and his advice for anyone starting out in bot development.",
       "itunes:subtitle": "We talk with Michael Szul about what is and isn't a bot, understanding natural language processing, and his advice for anyone starting out in bot development.",
       "itunes:keywords": "ai, siri, alexa, bots",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 23
     },
@@ -6908,7 +6908,7 @@
       "itunes:summary": "Adam Baldwin is the Director of Security at npm, inc. and so naturally we're talking about how to best handle security issues in our projects.",
       "itunes:subtitle": "Adam Baldwin is the Director of Security at npm, inc. and so naturally we're talking about how to best handle security issues in our projects.",
       "itunes:keywords": "npm, javascript, security",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 22
     },
@@ -6939,7 +6939,7 @@
       "itunes:summary": "Raul Jimenez joins us to discuss dynamically generating forms in JavaScript and Angular.",
       "itunes:subtitle": "Raul Jimenez joins us to discuss dynamically generating forms in JavaScript and Angular.",
       "itunes:keywords": "angular, forms, dynamic forms",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 21
     },
@@ -6970,7 +6970,7 @@
       "itunes:summary": "Kat Marchan of the npm team joins us to talk about npm tooling, including npx, Tink, and more.",
       "itunes:subtitle": "Kat Marchan of the npm team joins us to talk about npm tooling, including npx, Tink, and more.",
       "itunes:keywords": "npx, tink, npm",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 20
     },
@@ -7001,7 +7001,7 @@
       "itunes:summary": "Wes Bos talks about the course and sticker platform he's built, the technology behind it, and the reasons why he's built parts of it, and used off the shelf pre-built options for other parts. This is a great discussion for those faced with buying a system and customizing it for your needs vs building your own.",
       "itunes:subtitle": "Wes Bos talks about the course and sticker platform he's built, the technology behind it, and the reasons why he's built parts of it, and used off the shelf pre-built options for other parts. This is a great discussion for those faced with buying a system and customizing it for your needs vs building your own.",
       "itunes:keywords": "node, nginx, javascript, expressjs",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 19
     },
@@ -7032,7 +7032,7 @@
       "itunes:summary": "Chris Fritz of the Vue core team returns to the show to talk about Vue in enterprise apps.",
       "itunes:subtitle": "Chris Fritz of the Vue core team returns to the show to talk about Vue in enterprise apps.",
       "itunes:keywords": "microsoft, entreprise, vue boilerplate, vue",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 18
     },
@@ -7063,7 +7063,7 @@
       "itunes:summary": "Jeff Hollan, Senior Program Manager for Microsoft Azure Functions, joins us to talk about serverless and talks about his serverless doorbell project.",
       "itunes:subtitle": "Jeff Hollan, Senior Program Manager for Microsoft Azure Functions, joins us to talk about serverless and talks about his serverless doorbell project.",
       "itunes:keywords": "serverless, microsoft azure",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 17
     },
@@ -7094,7 +7094,7 @@
       "itunes:summary": "John and Dan are joined by Sara Vieira to discuss the benefits of creating style guides for the apps you're building in React.",
       "itunes:subtitle": "John and Dan are joined by Sara Vieira to discuss the benefits of creating style guides for the apps you're building in React.",
       "itunes:keywords": "app, react, styleguide",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 16
     },
@@ -7125,7 +7125,7 @@
       "itunes:summary": "Ryan Burgess from Netflix talks with us about how to do better A/B testing so we don't screw up the UI - whether you've got Netflix sized data or doing smaller client work, A/B testing can help give you the data you need to make better decisions.",
       "itunes:subtitle": "Ryan Burgess from Netflix talks with us about how to do better A/B testing so we don't screw up the UI - whether you've got Netflix sized data or doing smaller client work, A/B testing can help give you the data you need to make better decisions.",
       "itunes:keywords": "john papa, web development, html, code review, javascript, css, ward bell",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 15
     },
@@ -7156,7 +7156,7 @@
       "itunes:summary": "Educator & engineer Chris Fritz is on to discuss code reviews and how to help keep everyone in the loop on projects that grow.",
       "itunes:subtitle": "Educator & engineer Chris Fritz is on to discuss code reviews and how to help keep everyone in the loop on projects that grow.",
       "itunes:keywords": "code review, css, html, web development, john papa, javascript, ward bell",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 14
     },
@@ -7187,7 +7187,7 @@
       "itunes:summary": "Ives van Hoorne is on to talk about what Code Sandbox is and how he got started developing it.",
       "itunes:subtitle": "Ives van Hoorne is on to talk about what Code Sandbox is and how he got started developing it.",
       "itunes:keywords": "web development, code, css, html, john papa, ward bell, javascript, sandbox",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 13
     },
@@ -7218,7 +7218,7 @@
       "itunes:summary": "Mobile developer export Nathan Walker discusses how he uses NativeScript to build mobile apps with a native feel.",
       "itunes:subtitle": "Mobile developer export Nathan Walker discusses how he uses NativeScript to build mobile apps with a native feel.",
       "itunes:keywords": "ward bell, nativescript. mobile, css, john papa, web development, html, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 12
     },
@@ -7249,7 +7249,7 @@
       "itunes:summary": "Jen Luker joins John and Dan, to discuss why how the role of Web accessibility.",
       "itunes:subtitle": "Jen Luker joins John and Dan, to discuss why how the role of Web accessibility.",
       "itunes:keywords": "john papa, web development, a11y, ward bell, html, web accessibility, javascript, css",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 11
     },
@@ -7280,7 +7280,7 @@
       "itunes:summary": "John and Ward discuss why developers might consider mobile and mobile Web. They dive into what some of the challenges are and how Ionic fits into the story with Mike Hartington!",
       "itunes:subtitle": "John and Ward discuss why developers might consider mobile and mobile Web. They dive into what some of the challenges are and how Ionic fits into the story with Mike Hartington!",
       "itunes:keywords": "ward bell, mobile web apps, web development, javascript, john papa, css, ionic, html",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 10
     },
@@ -7311,7 +7311,7 @@
       "itunes:summary": "John and Ward talk with core RxJS team member, Tracy Lee. Tracy shares the direction of RxJS, who is using it, and some inside tips on how to learn RxJS and common pitfalls.",
       "itunes:subtitle": "John and Ward talk with core RxJS team member, Tracy Lee. Tracy shares the direction of RxJS, who is using it, and some inside tips on how to learn RxJS and common pitfalls.",
       "itunes:keywords": "web development, john papa, rxjs, html, ward bell, css, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 9
     },
@@ -7342,7 +7342,7 @@
       "itunes:summary": "Tierney Cyren talks with John and Ward about all things Node and how to use it in production.",
       "itunes:subtitle": "Tierney Cyren talks with John and Ward about all things Node and how to use it in production.",
       "itunes:keywords": "web development, css, node, node.js, ward bell, john papa, javascript, html",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 8
     },
@@ -7373,7 +7373,7 @@
       "itunes:summary": "John, Dan and Ward talk with Rob Wormald about his views on where Custom Web Components are heading. Rob talks about Polymer, web components, how Angular and other frameworks approach web components, and where he thinks we should all head.",
       "itunes:subtitle": "John, Dan and Ward talk with Rob Wormald about his views on where Custom Web Components are heading. Rob talks about Polymer, web components, how Angular and other frameworks approach web components, and where he thinks we should all head.",
       "itunes:keywords": "john papa, web development, ward bell, javascript, css, html",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 7
     },
@@ -7403,7 +7403,7 @@
       "itunes:duration": "00:56:04",
       "itunes:summary": "John and Ward talk with Sam Julien about how he approaches upgrade to Angular and other JavaScript applications. \r\n\r\nSam spent the last few years at a non-profit with a series of refactors and migrations/rewrites with his team. For example:\r\n- Rewriting the C# API, first to unit of work (complete rewrite), then refactoring to CQRS\r\n- Adding ES6, followed by TypeScript, to the AngularJS front ends\r\n- Migrating the front ends from Gulp to Webpack and from Bower to npm\r\n- ngUpgrade (still in process when I left)\r\n- Determining whether to update to Webpack 4 or move to the CLI later\r\n- Several large data structure refactor projects initiated by the business that affected the entire stack (from SQL to Angular)\r\n\r\nThey had to evaluate the risk of maintenance vs the risk of updating vs the risk of rewriting. They used a mix of determining the business impact, the technical debt, and developing proof of concepts to figure this out each time. \r\n\r\nI feel like this is a constant issue teams face, especially smaller teams that are not working for software companies (though software companies, of course, do this as well, but are perhaps more driven by end-user needs/sales).",
       "itunes:subtitle": "John and Ward talk with Sam Julien about how he approaches upgrade to Angular and other JavaScript applications. \r\n\r\nSam spent the last few years at a non-profit with a series of refactors and migrations/rewrites with his team. For example:\r\n- Rewriting the C# API, first to unit of work (complete rewrite), then refactoring to CQRS\r\n- Adding ES6, followed by TypeScript, to the AngularJS front ends\r\n- Migrating the front ends from Gulp to Webpack and from Bower to npm\r\n- ngUpgrade (still in process when I left)\r\n- Determining whether to update to Webpack 4 or move to the CLI later\r\n- Several large data structure refactor projects initiated by the business that affected the entire stack (from SQL to Angular)\r\n\r\nThey had to evaluate the risk of maintenance vs the risk of updating vs the risk of rewriting. They used a mix of determining the business impact, the technical debt, and developing proof of concepts to figure this out each time. \r\n\r\nI feel like this is a constant issue teams face, especially smaller teams that are not working for software companies (though software companies, of course, do this as well, but are perhaps more driven by end-user needs/sales).",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 6
     },
@@ -7434,7 +7434,7 @@
       "itunes:summary": "John, Ward, and Dan talk with Filipe Silva about OSS, github, and the culture of communication among developers.",
       "itunes:subtitle": "John, Ward, and Dan talk with Filipe Silva about OSS, github, and the culture of communication among developers.",
       "itunes:keywords": "js, css, oss, developers, javascript, github",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 5
     },
@@ -7465,7 +7465,7 @@
       "itunes:summary": "John, Ward, and Dan talk with Maxim Salnikov about his experience as PWA expert. Maxim discusses what they are and when he uses them, along with browser support, and how he uses service workers. Maxim shares a lot of tips on building and debugging PWAs that you don't want to miss.",
       "itunes:subtitle": "John, Ward, and Dan talk with Maxim Salnikov about his experience as PWA expert. Maxim discusses what they are and when he uses them, along with browser support, and how he uses service workers. Maxim shares a lot of tips on building and debugging PWAs that you don't want to miss.",
       "itunes:keywords": "pwa, css, html, progressive web apps, john papa, pwas, web development, ward bell, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 4
     },
@@ -7496,7 +7496,7 @@
       "itunes:summary": "John and Ward talk with Dan Wahlin about how he approaches and finds value in end to end testing tools. Dan discusses what brought him to end to end tests and his experience with Cypress.io and Protractor.",
       "itunes:subtitle": "John and Ward talk with Dan Wahlin about how he approaches and finds value in end to end testing tools. Dan discusses what brought him to end to end tests and his experience with Cypress.io and Protractor.",
       "itunes:keywords": "cypress.io, html, john papa, ward bell, end to end testing, web development, javascript, css",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 3
     },
@@ -7527,7 +7527,7 @@
       "itunes:summary": "John and Ward talk with Aysegül Yönet about creating visualizations with D3.\r\n\r\nYou got data, now what? How do you visualize that in your apps? How do your users make the most of that data to make business decisions? Find out more with D3 expert Aysegül Yönet to learn more.",
       "itunes:subtitle": "John and Ward talk with Aysegül Yönet about creating visualizations with D3.\r\n\r\nYou got data, now what? How do you visualize that in your apps? How do your users make the most of that data to make business decisions? Find out more with D3 expert Aysegül Yönet to learn more.",
       "itunes:keywords": "web development, html, d3, css, visualizations, ward bell, data, john papa, javascript",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 2
     },
@@ -7558,7 +7558,7 @@
       "itunes:summary": "John and Ward talk to Brian Holt about his experiences scaling react and other javascript based applications. Brian discusses the roles that the human element, dev ops, linting, building, the libraries themselves and state management play in scaling javascript, based on his experiences at Reddit, LinkedIn and Netflix.",
       "itunes:subtitle": "John and Ward talk to Brian Holt about his experiences scaling react and other javascript based applications. Brian discusses the roles that the human element, dev ops, linting, building, the libraries themselves and state management play in scaling javascript, based on his experiences at Reddit, LinkedIn and Netflix.",
       "itunes:keywords": "react, html, css, scaling, john papa, ward bell, javascript, web development",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "full",
       "itunes:episode": 1
     },
@@ -7589,7 +7589,7 @@
       "itunes:summary": "Welcome to Real Talk JavaScript,  the weekly talk-show with advice and insight into the technologies and practices currently being used to build web applications in the real world.\r\n\r\nEach week, John Papa and Ward Bell will be talking to industry experts about their experiences writing, deploying, and maintaining web applications in HTML, CSS, and JavaScript.",
       "itunes:subtitle": "Welcome to Real Talk JavaScript,  the weekly talk-show with advice and insight into the technologies and practices currently being used to build web applications in the real world.\r\n\r\nEach week, John Papa and Ward Bell will be talking to industry experts about their experiences writing, deploying, and maintaining web applications in HTML, CSS, and JavaScript.",
       "itunes:keywords": "john papa, web development, html, javascript, css, ward bell",
-      "itunes:explicit": "no",
+      "itunes:explicit": false,
       "itunes:episodeType": "trailer",
       "itunes:episode": 0
     }
