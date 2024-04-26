@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.155『Vue 3 + Vite マイグレーション座談会 〜 安全なログイン基盤のための戦略的な移行計画』",
+      "link": "https://uit-inside.linecorp.com/episode/155",
+      "pubDate": "Fri, 26 Apr 2024 06:00:00 GMT",
+      "description": "<p>@odan3240 が @cola119、@kazuma0129 とともにLINEログインのフロントエンドのVue 3化について話しました。</p>",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/155"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode155.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "cola119(cola119),Kazuma Ohashi(kazuma0129),odan(odan3240)",
+      "itunes:subtitle": "ep.155『Vue 3 + Vite マイグレーション座談会 〜 安全なログイン基盤のための戦略的な移行計画』",
+      "itunes:duration": "15:46",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode155.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.154『ユーザーインタビューでプロダクトの本当の姿を知る』",
       "link": "https://uit-inside.linecorp.com/episode/154",
       "pubDate": "Tue, 09 Apr 2024 06:30:00 GMT",
@@ -2309,29 +2332,6 @@
       "itunes:explicit": "no",
       "media:thumbnail": {
         "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode056.png",
-        "#text": null
-      }
-    },
-    {
-      "title": "ep.55 TypeScriptへのマイグレーション対応開始！LINEポイントクラブのリファクタについて聞いてみた。",
-      "link": "https://uit-inside.linecorp.com/episode/55",
-      "pubDate": "Fri, 31 Jul 2020 09:00:00 GMT",
-      "description": "<p>@potato4d が、 @hyenashoyokyo と @pittanko_pta に、TypeScriptへのマイグレーションを開始した、LINEポイントクラブのリファクタについて聞いてみました。</p>",
-      "guid": {
-        "@isPermaLink": true,
-        "#text": "https://uit-inside.linecorp.com/episode/55"
-      },
-      "enclosure": {
-        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-055.mp3",
-        "@type": "audio/mp3",
-        "#text": null
-      },
-      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),shoyo.kyo(hyena_shoyo_kyo)",
-      "itunes:subtitle": "ep.55 TypeScriptへのマイグレーション対応開始！LINEポイントクラブのリファクタについて聞いてみた。",
-      "itunes:duration": "44:45",
-      "itunes:explicit": "no",
-      "media:thumbnail": {
-        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode055.png",
         "#text": null
       }
     }
