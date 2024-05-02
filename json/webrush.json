@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 25 Apr 2024 10:00:00 +0000",
-  "lastBuildDate": "Thu, 25 Apr 2024 10:00:12 +0000",
+  "pubDate": "Thu, 2 May 2024 10:00:00 +0000",
+  "lastBuildDate": "Thu, 2 May 2024 10:00:16 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "c9d467c7-823a-44ae-9e21-76673045fb74"
+      },
+      "title": "Episode 279: How Cool it is to be a .NET developer",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li></ul><p>Guest:</p><ul><li>Frank Boucher <a href=\"https://twitter.com/fboucheros\">@FBoucheros</a></li></ul><p>Recording date: April 18, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/fboucheros\">Frank Boucher’s YouTube channel</a></li><li><a href=\"https://learn.microsoft.com/en-us/shows/open-at-microsoft/\">Open at Microsoft video series by Frank’s Boucher</a></li><li><a href=\"http://frankysnotes.com/\">Frank Boucher’s Blog</a></li><li><a href=\"https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview\">Get started with .NET Aspire</a></li><li><a href=\"https://learn.microsoft.com/en-us/dotnet/core/install/macos\">Install .NET on macOS</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/apps/games\">Game development on .NET</a></li><li><a href=\"https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0\">Learn about .NET Blazor</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\">Build web apps with Blazor</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/static-web-apps/overview\">Azure Static Web Apps (SWA)</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core\">.NET support policy</a></li><li><a href=\"https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591\">Blazor DOM integration</a></li><li><a href=\"https://webrush.io/episodes/episode-277-ai-powered-ui-controls\">Smart Components with AI</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Is it cool to be a .NET developer?</li><li><strong><a>03:44</a></strong> Introducing Frank Boucher</li><li><strong><a>05:30</a></strong> What is Open at Microsoft?</li><li><strong><a>07:43</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:47</a></strong> Do you enjoy the community or the language?</li><li><strong><a>14:18</a></strong> If you develop in .NET, can you use multiple environments or platforms?</li><li><strong><a>17:28</a></strong> What is Blazer?</li><li><strong><a>21:58</a></strong> Where does Web Assembly fit?</li><li><strong><a>30:28</a></strong> Sponsor: IdeaBlade</li><li><strong><a>31:29</a></strong> Are there load time issues?</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 2 May 2024 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li></ul><p>Guest:</p><ul><li>Frank Boucher <a href=\"https://twitter.com/fboucheros\">@FBoucheros</a></li></ul><p>Recording date: April 18, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.youtube.com/fboucheros\">Frank Boucher’s YouTube channel</a></li><li><a href=\"https://learn.microsoft.com/en-us/shows/open-at-microsoft/\">Open at Microsoft video series by Frank’s Boucher</a></li><li><a href=\"http://frankysnotes.com/\">Frank Boucher’s Blog</a></li><li><a href=\"https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview\">Get started with .NET Aspire</a></li><li><a href=\"https://learn.microsoft.com/en-us/dotnet/core/install/macos\">Install .NET on macOS</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/apps/games\">Game development on .NET</a></li><li><a href=\"https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0\">Learn about .NET Blazor</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\">Build web apps with Blazor</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/static-web-apps/overview\">Azure Static Web Apps (SWA)</a></li><li><a href=\"https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core\">.NET support policy</a></li><li><a href=\"https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591\">Blazor DOM integration</a></li><li><a href=\"https://webrush.io/episodes/episode-277-ai-powered-ui-controls\">Smart Components with AI</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>00:29</a></strong> Is it cool to be a .NET developer?</li><li><strong><a>03:44</a></strong> Introducing Frank Boucher</li><li><strong><a>05:30</a></strong> What is Open at Microsoft?</li><li><strong><a>07:43</a></strong> Sponsor: Ag Grid</li><li><strong><a>08:47</a></strong> Do you enjoy the community or the language?</li><li><strong><a>14:18</a></strong> If you develop in .NET, can you use multiple environments or platforms?</li><li><strong><a>17:28</a></strong> What is Blazer?</li><li><strong><a>21:58</a></strong> Where does Web Assembly fit?</li><li><strong><a>30:28</a></strong> Sponsor: IdeaBlade</li><li><strong><a>31:29</a></strong> Are there load time issues?</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 40974395,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/d6cb044e-832a-49c7-abd4-37f3e185f2de/audio/135d09ed-48c0-4446-b592-f4d6ce159f87/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 279: How Cool it is to be a .NET developer",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:42:40",
+      "itunes:summary": "Frank Boucher answers our questions about what it's like to be a .NET developer in 2024 including the ability to use multiple environments or platforms, what Blazer is, and how .NET development has changed since you last tried it.",
+      "itunes:subtitle": "Frank Boucher answers our questions about what it's like to be a .NET developer in 2024 including the ability to use multiple environments or platforms, what Blazer is, and how .NET development has changed since you last tried it.",
+      "itunes:explicit": false,
+      "itunes:episodeType": "full",
+      "itunes:episode": 279
+    },
     {
       "guid": {
         "@isPermaLink": false,
