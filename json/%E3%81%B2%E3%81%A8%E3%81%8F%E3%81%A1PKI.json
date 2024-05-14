@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "65: Let's EncryptがCTサーバに新アーキテクチャを発表(Sunlight)",
+      "description": "<p>\n</p>\n<p>小ネタ集としてLEが新しく発表したCTサーバの新アーキテクチャ実装Sunlight、2024年のReal World Crypto学会でCTがLevchin Prizeを受賞、1字違いのプレーンテキストでのMD5衝突の話をしました。雑談ではテキサス&シアトル小旅行（テキサスの接待サボテン、シアトル散歩、シアトルはタコグッズ推し、インフレ、飛行機で映画何見る？、Kindle本セールなど）の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>Let's EncryptがCTサーバの新アーキテクチャ実装 Sunlight を発表しました。 </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/14/introducing-sunlight\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/14/introducing-sunlight</a> </p>\n</li>\n  <li><p>ボトルネックだったリレーショナルデータベースをやめた。 </p>\n</li>\n  <li><p>まだブラウザから検証元として信頼はされてないようですがログ投入やモニターすることはもうできるみたいです </p>\n</li>\n</ul>\n</li>\n  <li><p>3月末にReal World Cryptoという学会が行われまして、そこで今年のLevchin PrizeというのにCertificate Transpearencyのクリエイターたちが選ばれたようです。 </p>\n</li>\n  <li><p>RWC自体では耐量子暗号とか、時勢の緊張も相まってメッセージのE2E暗号化とかの話題が多かったように思いました。アブストラクトはWebサイトから見れます。 </p>\n<ul>\n  <li><p>https://rwc.iacr.org/2024/program.php </p>\n</li>\n</ul>\n</li>\n  <li><p>1文字だけ違うアルファベットの文字列でMD5のハッシュが衝突する事例が見つかったようです </p>\n<ul>\n  <li><p>https://twitter.com/realhashbreaker/status/1770161965006008570  </p>\n</li>\n  <li><p>md5(\"TEXTCOLLBYfGiJUETHQ4hAcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak\") = md5(\"TEXTCOLLBYfGiJUETHQ4hEcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak\") </p>\n</li>\n</ul>\n</li>\n  <li><p>集英社のKindle本50%ポイント還元セールでドクタースランプ、ドラゴンボール、鬼滅の刃、ワンピース全巻買いました（ひとけー） </p>\n</li>\n</ul>\n<p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/65-Lets-EncryptCTSunlight-e2jkche",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a97e0b59-643f-443e-a34b-380f132b0f96"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Mon, 13 May 2024 23:29:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/86700014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-13%2F9800f6ad-0ba8-8518-6746-429c11a994e1.mp3",
+        "@length": 38129328,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>\n</p>\n<p>小ネタ集としてLEが新しく発表したCTサーバの新アーキテクチャ実装Sunlight、2024年のReal World Crypto学会でCTがLevchin Prizeを受賞、1字違いのプレーンテキストでのMD5衝突の話をしました。雑談ではテキサス&amp;シアトル小旅行（テキサスの接待サボテン、シアトル散歩、シアトルはタコグッズ推し、インフレ、飛行機で映画何見る？、Kindle本セールなど）の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>Let&#39;s EncryptがCTサーバの新アーキテクチャ実装 Sunlight を発表しました。 </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/14/introducing-sunlight\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/14/introducing-sunlight</a> </p>\n</li>\n  <li><p>ボトルネックだったリレーショナルデータベースをやめた。 </p>\n</li>\n  <li><p>まだブラウザから検証元として信頼はされてないようですがログ投入やモニターすることはもうできるみたいです </p>\n</li>\n</ul>\n</li>\n  <li><p>3月末にReal World Cryptoという学会が行われまして、そこで今年のLevchin PrizeというのにCertificate Transpearencyのクリエイターたちが選ばれたようです。 </p>\n</li>\n  <li><p>RWC自体では耐量子暗号とか、時勢の緊張も相まってメッセージのE2E暗号化とかの話題が多かったように思いました。アブストラクトはWebサイトから見れます。 </p>\n<ul>\n  <li><p>https://rwc.iacr.org/2024/program.php </p>\n</li>\n</ul>\n</li>\n  <li><p>1文字だけ違うアルファベットの文字列でMD5のハッシュが衝突する事例が見つかったようです </p>\n<ul>\n  <li><p>https://twitter.com/realhashbreaker/status/1770161965006008570  </p>\n</li>\n  <li><p>md5(&quot;TEXTCOLLBYfGiJUETHQ4hAcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak&quot;) = md5(&quot;TEXTCOLLBYfGiJUETHQ4hEcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak&quot;) </p>\n</li>\n</ul>\n</li>\n  <li><p>集英社のKindle本50%ポイント還元セールでドクタースランプ、ドラゴンボール、鬼滅の刃、ワンピース全巻買いました（ひとけー） </p>\n</li>\n</ul>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:58:08",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 68,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "64: Google Trust Service のインシデントレポートの話とChrome Root Programの新バージョンが出た話",
       "description": "<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogleTrustedServiceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p>冒頭ではひとけーがSCIS2024行ってきてよかった話をしました(C509の話など)。2024年1月16日にChrome Root Program Policy, Version 1.5が公開され、ACMEによる自動化や鍵のマテリアルの新鮮さについての要件が加わったことなどを話しました。また、2024年1月下旬にGoogle Trusted Serviceで不適切な証明書が発行されたインシデントがあり、そのインシデントレポートの内容を見てみました。雑談では、三都屋のえびの餅、サイバーパンク屋台、水族館、美術館、博物館の話をしました。</p>\n<p><br></p>\n<p>\t• Google Trust Services のインシデントレポート</p>\n<p>\t\t○ 1876593 - Google Trust Services: Failure to properly validate IP address (mozilla.org) https://bugzilla.mozilla.org/show_bug.cgi?id=1876593 </p>\n<p>\t• Chrome Root Programの新バージョンでてました。</p>\n<p>\t\t○ Chrome Root Program Policy, Version 1.5</p>\n<p>\t\t○ Last updated: 2024-01-16</p>\n<p>\t\t○ https://www.chromium.org/Home/chromium-security/root-ca-policy/</p>\n<p>\t\t○ Chrome Root Program Policy Version 1.5 (TRACKED CHANGES).docx - Google ドキュメント https://docs.google.com/document/d/1soL-ZFOp8LeUwvQjKlacf2GWuvjYJ1A7/edit#heading=h.gjdgxs</p>\n<p>\t• 三都屋のお餅</p>\n<p>\t\t○ https://kuromon-mitoya.com/product_list/mochi/ </p>\n<p><br></p>\n<p>\n\n\n\n\n\n\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/64-Google-Trust-Service-Chrome-Root-Program-e2g8vfr",
