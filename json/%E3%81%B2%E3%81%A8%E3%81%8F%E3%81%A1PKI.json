@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "66: 中間CAもローテートする時代らしい",
+      "description": "<p>\n</p>\n<p>Let's Encryptの中間CAが新しい構成になる話をしました。なんとその数RSA5つ、ECDSA5つの計10個。それぞれで2つが稼働、3つがバックアップという構成をローテーションするそうです。以前あったHTTP Public Key Pinning (HPKP)をdiscouragesする意図もあるみたい。雑談では成果物、編み物、ルービックキューブ、ぶら下がり健康器の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>New Intermediate Certificates </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/19/new-intermediate-certificates\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/19/new-intermediate-certificates</a> </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/66-CA-e2jm7g4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "17685543-58b8-468c-91ce-160f06f1cdbf"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 15 May 2024 08:05:21 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/86760388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2Fd0d214d1-1f27-4c46-3f30-011f7ef19c8f.mp3",
+        "@length": 32793480,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>\n</p>\n<p>Let&#39;s Encryptの中間CAが新しい構成になる話をしました。なんとその数RSA5つ、ECDSA5つの計10個。それぞれで2つが稼働、3つがバックアップという構成をローテーションするそうです。以前あったHTTP Public Key Pinning (HPKP)をdiscouragesする意図もあるみたい。雑談では成果物、編み物、ルービックキューブ、ぶら下がり健康器の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>New Intermediate Certificates </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/19/new-intermediate-certificates\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/19/new-intermediate-certificates</a> </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:51:56",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 66,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "65: Let's EncryptがCTサーバに新アーキテクチャを発表(Sunlight)",
       "description": "<p>\n</p>\n<p>小ネタ集としてLEが新しく発表したCTサーバの新アーキテクチャ実装Sunlight、2024年のReal World Crypto学会でCTがLevchin Prizeを受賞、1字違いのプレーンテキストでのMD5衝突の話をしました。雑談ではテキサス&シアトル小旅行（テキサスの接待サボテン、シアトル散歩、シアトルはタコグッズ推し、インフレ、飛行機で映画何見る？、Kindle本セールなど）の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>Let's EncryptがCTサーバの新アーキテクチャ実装 Sunlight を発表しました。 </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/14/introducing-sunlight\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/14/introducing-sunlight</a> </p>\n</li>\n  <li><p>ボトルネックだったリレーショナルデータベースをやめた。 </p>\n</li>\n  <li><p>まだブラウザから検証元として信頼はされてないようですがログ投入やモニターすることはもうできるみたいです </p>\n</li>\n</ul>\n</li>\n  <li><p>3月末にReal World Cryptoという学会が行われまして、そこで今年のLevchin PrizeというのにCertificate Transpearencyのクリエイターたちが選ばれたようです。 </p>\n</li>\n  <li><p>RWC自体では耐量子暗号とか、時勢の緊張も相まってメッセージのE2E暗号化とかの話題が多かったように思いました。アブストラクトはWebサイトから見れます。 </p>\n<ul>\n  <li><p>https://rwc.iacr.org/2024/program.php </p>\n</li>\n</ul>\n</li>\n  <li><p>1文字だけ違うアルファベットの文字列でMD5のハッシュが衝突する事例が見つかったようです </p>\n<ul>\n  <li><p>https://twitter.com/realhashbreaker/status/1770161965006008570  </p>\n</li>\n  <li><p>md5(\"TEXTCOLLBYfGiJUETHQ4hAcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak\") = md5(\"TEXTCOLLBYfGiJUETHQ4hEcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak\") </p>\n</li>\n</ul>\n</li>\n  <li><p>集英社のKindle本50%ポイント還元セールでドクタースランプ、ドラゴンボール、鬼滅の刃、ワンピース全巻買いました（ひとけー） </p>\n</li>\n</ul>\n<p><br></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/65-Lets-EncryptCTSunlight-e2jkche",
