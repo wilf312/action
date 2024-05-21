@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 02 May 2024 04:59:55 +0000",
+  "lastBuildDate": "Tue, 21 May 2024 13:11:38 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -53,7 +53,40 @@
   },
   "item": [
     {
-      "title": "132: High-Resolution Image Synthesis with Latent Diffusion Models",
+      "title": "#132: Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations",
+      "link": "https://misreading.chat/2024/05/21/132-triton-an-intermediate-language-and-compiler-for-tiled-neural-network-computations/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 21 May 2024 13:11:38 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1157"
+      },
+      "description": "CUDA を書かずに済む GPU カーネルの DSL について森田が読みました。",
+      "content:encoded": "<p>CUDA を書かずに済む GPU カーネルの DSL について森田が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/05/ep133.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul>\n<li><a href=\"https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf\">Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations</a></li>\n\n\n\n<li><a href=\"https://openai.com/index/triton/\">Introducing Triton: Open-source GPU programming for neural networks | OpenAI</a></li>\n\n\n\n<li><a href=\"https://triton-lang.org/main/index.html\">Welcome to Triton’s documentation! — Triton documentation</a></li>\n\n\n\n<li><a href=\"https://colab.research.google.com/drive/1KViYPmXqJffRAL0cM1Of9sz9BuMcP_-R?usp=sharing\">Hello Triton.ipynb – Colab</a></li>\n</ul>\n\n\n\n<ul>\n<li><a href=\"https://misreading.chat/2018/03/26/episode-01-tensor-comprehensions-rust-belt/\">#01: Tensor Comprehensions, Rust Belt – Misreading Chat</a></li>\n\n\n\n<li><a href=\"https://misreading.chat/2018/08/02/episode-23-halide-decoupling-algorithms-from-schedules-for-high-performance-image-processing/\">#23 – Halide: Decoupling Algorithms from Schedules for High-Performance Image Processing – Misreading Chat</a></li>\n\n\n\n<li><a href=\"https://misreading.chat/2018/08/23/episode-27-julia-a-fresh-approach-to-numerical-computing/\">#27 – Julia: A Fresh Approach to Numerical Computing – Misreading Chat</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/05/ep133.mp3",
+        "@length": 21826711,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "CUDA を書かずに済む GPU カーネルの DSL について森田が読みました。",
+      "googleplay:description": "CUDA を書かずに済む GPU カーネルの DSL について森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
+    {
+      "title": "#132: High-Resolution Image Synthesis with Latent Diffusion Models",
       "link": "https://misreading.chat/2024/05/01/132-high-resolution-image-synthesis-with-latent-diffusion-models/",
       "dc:creator": "Jun Mukai",
       "pubDate": "Thu, 02 May 2024 04:59:55 +0000",
