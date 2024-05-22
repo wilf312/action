@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #92",
+      "description": "<p>23.5 分散合意ベースのシステムのデプロイ〜 23.5.1 レプリカ数</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-92-e2jvaoo",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e8abcb1a-d367-4899-acfe-bc7e488dc042"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 22 May 2024 05:52:54 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/87058648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-22%2Fae0c36ef-5116-14aa-2f01-557ecb3a350e.m4a",
+        "@length": 30648242,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.5 分散合意ベースのシステムのデプロイ〜 23.5.1 レプリカ数</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:31:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #91",
       "description": "<p>23.4.8 ディスクアクセス<strong>\n</strong></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-91-e2iq5il",
