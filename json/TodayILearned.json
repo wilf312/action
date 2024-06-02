@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "110. Day 1 から活躍してもらうためのオンボーディング",
+      "description": "<p>新入社員が初日から活躍できるために用意しているオンボーディングプロセスや、ビッグテックのオンボーディングノウハウについて話しました。</p>\n<ul>\n <li><a href=\"https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html\">https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html</a> Rust のコントリビューターのソフトウェアエンジニアの人が書いたコントリビューションガイド</li>\n <li><a href=\"https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md\">https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md</a></li>\n  <li><a href=\"https://www.eraser.io/\">https://www.eraser.io/</a> モジュール図やテーブル図を書くためのツール</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/110--Day-1-e2k33bj",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "bbe30623-3ce2-4019-a84c-49504dd76e49"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 02 Jun 2024 17:38:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/87182131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-28%2F4da8ffbd-0cf2-da30-df9c-a58e8896c477.mp3",
+        "@length": 40362272,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>新入社員が初日から活躍できるために用意しているオンボーディングプロセスや、ビッグテックのオンボーディングノウハウについて話しました。</p>\n<ul>\n <li><a href=\"https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html\">https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html</a> Rust のコントリビューターのソフトウェアエンジニアの人が書いたコントリビューションガイド</li>\n <li><a href=\"https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md\">https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md</a></li>\n  <li><a href=\"https://www.eraser.io/\">https://www.eraser.io/</a> モジュール図やテーブル図を書くためのツール</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:32:35",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "109. GitHub テックブログから学ぶ Copilot の活用法",
       "description": "<p>GitHubのテックブログを下に、GitHub Copilotの上手な使い方について話しました。</p>\n<ul>\n <li><a href=\"https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/\">https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/</a></li>\n <li><a href=\"https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/\">https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/</a></li>\n <li><a href=\"https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/\">https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/</a></li>\n <li><a href=\"https://nantekottai.com/2018/08/19/postfix-code-completion/\">Postfix Code Completion コードの後置補完</a></li>\n  <li><a href=\"https://medium.com/@AI_Whisperer/the-mystery-behind-why-llms-use-the-word-delve-so-often-5b6319c24200\">The Mystery Behind why LLMs Use the Word “Delve” So Often</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/109--GitHub--Copilot-e2k33ra",
