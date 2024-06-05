@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "67: Digicert EV証明書で大文字小文字不備のインシデントがあった話",
+      "description": "<p>5月初旬、DigicertのEV証明書のBusiness\nCategoryに本来大文字のところが小文字になっている不備があったことが明らかになりました。BR違反として約1.1万枚が失効・再発行処理となったようですが、こうなるまでにドラマがあったようでした、という話をしました。その他、雑談では技術書典16でひとくちPKI\nJournal3を出した話、日本語でTLSのいい本が出た話→SSL/TLS実践入門(献本をいただきました！ありがとうございます！)、自宅で皆既日食観測できた、オーロラ観測チャレンジ、北米13年ゼミと17年ゼミの同時大量発生の話、人間の氷河期の生存戦略などについて話しました。</p>\n<ul>\n <li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1894560\">1894560 - DigiCert: Incorrect case in Business Category (mozilla.org)</a></li>\n <li><a href=\"https://www.amazon.co.jp/dp/B0D1T41LWV/\">Amazon.co.jp: SSL/TLS実践入門──Webの安全性を支える暗号化技術の設計思想 WEB+DB PRESS plus eBook : 市原 創, 板倉 広明: Kindleストア</a></li>\n  <li><a href=\"https://techbookfest.org/product/suviFgvE9dgCFSf9ANPvVU\">技術書典16 ひとくちPKI Journal 3 (無料です！)</a></li>\n  <li><a href=\"https://hotozero.com/knowledge/animals011/\">珍獣図鑑（11）：17年に一度の大発生！ 周期ゼミの遺伝子に仕掛けられた“時計”を探せ</a></li>\n</ul>\n<p><br></p>\n<p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/67-Digicert-EV-e2kgtc5",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "8aab4411-5311-4df6-8213-88046b214fb6"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 05 Jun 2024 03:58:32 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/87634757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-5%2F1e5a163c-370c-da98-3a3e-352b12f60a2b.mp3",
+        "@length": 39493008,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>5月初旬、DigicertのEV証明書のBusiness\nCategoryに本来大文字のところが小文字になっている不備があったことが明らかになりました。BR違反として約1.1万枚が失効・再発行処理となったようですが、こうなるまでにドラマがあったようでした、という話をしました。その他、雑談では技術書典16でひとくちPKI\nJournal3を出した話、日本語でTLSのいい本が出た話→SSL/TLS実践入門(献本をいただきました！ありがとうございます！)、自宅で皆既日食観測できた、オーロラ観測チャレンジ、北米13年ゼミと17年ゼミの同時大量発生の話、人間の氷河期の生存戦略などについて話しました。</p>\n<ul>\n <li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1894560\">1894560 - DigiCert: Incorrect case in Business Category (mozilla.org)</a></li>\n <li><a href=\"https://www.amazon.co.jp/dp/B0D1T41LWV/\">Amazon.co.jp: SSL/TLS実践入門──Webの安全性を支える暗号化技術の設計思想 WEB+DB PRESS plus eBook : 市原 創, 板倉 広明: Kindleストア</a></li>\n  <li><a href=\"https://techbookfest.org/product/suviFgvE9dgCFSf9ANPvVU\">技術書典16 ひとくちPKI Journal 3 (無料です！)</a></li>\n  <li><a href=\"https://hotozero.com/knowledge/animals011/\">珍獣図鑑（11）：17年に一度の大発生！ 周期ゼミの遺伝子に仕掛けられた“時計”を探せ</a></li>\n</ul>\n<p><br></p>\n<p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:04:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 67,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "66: 中間CAもローテートする時代らしい",
       "description": "<p>\n</p>\n<p>Let's Encryptの中間CAが新しい構成になる話をしました。なんとその数RSA5つ、ECDSA5つの計10個。それぞれで2つが稼働、3つがバックアップという構成をローテーションするそうです。以前あったHTTP Public Key Pinning (HPKP)をdiscouragesする意図もあるみたい。雑談では成果物、編み物、ルービックキューブ、ぶら下がり健康器の話をしました。 </p>\n<p> </p>\n<ul>\n <li><p>New Intermediate Certificates </p>\n<ul>\n <li><p><a href=\"https://letsencrypt.org/2024/03/19/new-intermediate-certificates\" target=\"_blank\" rel=\"noreferrer noopener\">https://letsencrypt.org/2024/03/19/new-intermediate-certificates</a> </p>\n</li>\n</ul>\n</li>\n</ul>\n<p>\n\n</p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/66-CA-e2jm7g4",
