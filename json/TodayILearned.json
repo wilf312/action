@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "112. ソフトウェア開発の法則集",
+      "description": "<p>ソフトウェア開発の法則集について話しました。</p>\n<ul>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87\">https://ja.wikipedia.org/wiki/ブルックスの法則</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87\">ピーターの法則</a></li>\n  <li><a href=\"https://xtech.nikkei.com/atcl/nxt/column/18/02470/061200005/\">コンウェイの法則と逆コンウェイ戦略</a></li>\n  <li>ホフスタッターの法則\n</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87\">パーキンソンの法則</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AE%E6%B3%95%E5%89%87\">キャンベルの法則</a>＋<a href=\"https://en.wikipedia.org/wiki/Goodhart%27s_law\">グッドハートの法則</a></li>\n  <li>パレートの法則</li>\n  <li>ジョシュアツリーの法則</li>\n  <li>ボールディングの逆行原理</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/112-e2kphh8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "bed4e247-e128-43fb-8fb6-4295b2870e37"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 16 Jun 2024 17:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/87917544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-12%2F8051d9d0-ae73-942d-b36e-ec6c605f1382.mp3",
+        "@length": 42259740,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ソフトウェア開発の法則集について話しました。</p>\n<ul>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87\">https://ja.wikipedia.org/wiki/ブルックスの法則</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87\">ピーターの法則</a></li>\n  <li><a href=\"https://xtech.nikkei.com/atcl/nxt/column/18/02470/061200005/\">コンウェイの法則と逆コンウェイ戦略</a></li>\n  <li>ホフスタッターの法則\n</li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87\">パーキンソンの法則</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AE%E6%B3%95%E5%89%87\">キャンベルの法則</a>＋<a href=\"https://en.wikipedia.org/wiki/Goodhart%27s_law\">グッドハートの法則</a></li>\n  <li>パレートの法則</li>\n  <li>ジョシュアツリーの法則</li>\n  <li>ボールディングの逆行原理</li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:23",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "111. A Philosophy of Software Design",
       "description": "<p>A Philosophy of Software Design (ソフトウェア設計の哲学)という本について話しました。</p>\n<p>著者の <a href=\"https://en.wikipedia.org/wiki/John_Ousterhout\">John Ousterhout</a> はTcl/Tk, Raft, Log-Structured File System などを開発し、現在はスタンフォード大学の教授です。</p>\n<ul>\n <li>A philosophy of software design, 2nd edition <a href=\"https://amzn.to/4bOEjfc\">https://amzn.to/4bOEjfc</a></li>\n <li>著者の <a href=\"https://www.youtube.com/watch?v=bmSAYlu0NcY\">Google Tech Talk</a></li>\n</ul>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Knot, inc CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/111--A-Philosophy-of-Software-Design-e2khbab",
