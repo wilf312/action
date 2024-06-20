@@ -19,8 +19,8 @@
   "description": "Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, Craig Shoemaker, and Dan Wahlin. Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Web Rush. Sponsored by AG Grid and Nrwl.io",
   "copyright": "© 2021 Web Rush Podcast",
   "language": "en-us",
-  "pubDate": "Thu, 13 Jun 2024 10:00:00 +0000",
-  "lastBuildDate": "Mon, 17 Jun 2024 17:22:17 +0000",
+  "pubDate": "Thu, 20 Jun 2024 10:00:00 +0000",
+  "lastBuildDate": "Thu, 20 Jun 2024 10:00:11 +0000",
   "image": {
     "link": "http://www.webrush.io",
     "title": "Web Rush",
@@ -52,6 +52,32 @@
     }
   ],
   "item": [
+    {
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "0e0bfe6e-c702-4a83-ac0f-73d796a131ed"
+      },
+      "title": "Episode 285: The Best of Build for Developers",
+      "description": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Anthony Bartolo <a href=\"https://x.com/wirelesslife\">@wirelesslife</a></li></ul><p>Recording date: Jun 6, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.microsoft.com/en-us/windows/copilot-plus-pcs\">Copilot + PC from Build</a></li><li><a href=\"https://www.tomsguide.com/computing/windows-operating-systems/ive-tried-the-new-ai-features-of-copilot-pcs-and-im-mostly-impressed-heres-why\">Copilot + PC Review from Tom’s Guide</a></li><li><a href=\"https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/\">Introducing Phi-3 with SLMs</a></li><li><a href=\"https://www.splunk.com/en_us/blog/learn/language-models-slm-vs-llm.html\">SLMs: Difference between SLM and LLM</a></li><li><a href=\"https://github.blog/2024-05-21-introducing-github-copilot-extensions/\">GitHub Copilot extensibility</a></li><li><a href=\"https://www.tomshardware.com/pc-components/cpus/snapdragon-x-elite-dev-kit-is-an-dollar899-mini-pc-meant-to-develop-for-windows-on-arm\">Snapdragon developer kit for Windows</a></li><li><a href=\"https://devblogs.microsoft.com/microsoft365dev/build-your-own-apps-copilot-on-microsoft-teams-with-the-new-teams-ai-library/\">AI integration into Teams</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview\">RAG in AI Search</a></li><li><a href=\"https://news.microsoft.com/build2024bookofnews/\">MS Build Book of News: Microsoft Build 2024 Book of News</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>01:50</a></strong> Introducing Anthony Bartolo</li><li><strong><a>04:26</a></strong> What does PC + AI mean for Windows?</li><li><strong><a>09:05</a></strong> Sponsor: Ag Grid</li><li><strong><a>10:05</a></strong> What is Phi-3?</li><li><strong><a>14:20</a></strong> How much space do you need on your drive for this?</li><li><strong><a>18:20</a></strong> What's Phi-3 with SLM's?</li><li><strong><a>24:35</a></strong> Sponsor: IdeaBlade</li><li><strong><a>25:32</a></strong> What is GitHub CoPilot Extensibility?</li><li><strong><a>32:40</a></strong> Snapdragon developer kit for Windows</li><li><strong><a>38:15</a></strong> AI integration into Teams</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "pubDate": "Thu, 20 Jun 2024 10:00:00 +0000",
+      "author": "john@webrush.io (John Papa)",
+      "link": "http://www.webrush.io",
+      "content:encoded": "<p>Host(s):</p><ul><li>John Papa <a href=\"https://twitter.com/john_papa\">@John_Papa</a></li><li>Ward Bell <a href=\"https://twitter.com/WardBell\">@WardBell</a></li><li>Craig Shoemaker <a href=\"https://twitter.com/craigshoemaker\">@craigshoemaker</a></li></ul><p>Guest:</p><ul><li>Anthony Bartolo <a href=\"https://x.com/wirelesslife\">@wirelesslife</a></li></ul><p>Recording date: Jun 6, 2024</p><h2>Brought to you by</h2><ul><li><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\">AG Grid</a></p><p><a href=\"https://www.ag-grid.com/\" target=\"_blank\"><img src=\"https://johnpapa.net/content/images/2021/07/Unknown.png\" alt=\"ag-grid-logo-2\" /></a></p></li><li><p><a href=\"https://ideablade.com\" target=\"_blank\">IdeaBlade</a></p></li></ul><h2>Resources:</h2><ul><li><a href=\"https://www.microsoft.com/en-us/windows/copilot-plus-pcs\">Copilot + PC from Build</a></li><li><a href=\"https://www.tomsguide.com/computing/windows-operating-systems/ive-tried-the-new-ai-features-of-copilot-pcs-and-im-mostly-impressed-heres-why\">Copilot + PC Review from Tom’s Guide</a></li><li><a href=\"https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/\">Introducing Phi-3 with SLMs</a></li><li><a href=\"https://www.splunk.com/en_us/blog/learn/language-models-slm-vs-llm.html\">SLMs: Difference between SLM and LLM</a></li><li><a href=\"https://github.blog/2024-05-21-introducing-github-copilot-extensions/\">GitHub Copilot extensibility</a></li><li><a href=\"https://www.tomshardware.com/pc-components/cpus/snapdragon-x-elite-dev-kit-is-an-dollar899-mini-pc-meant-to-develop-for-windows-on-arm\">Snapdragon developer kit for Windows</a></li><li><a href=\"https://devblogs.microsoft.com/microsoft365dev/build-your-own-apps-copilot-on-microsoft-teams-with-the-new-teams-ai-library/\">AI integration into Teams</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview\">RAG in AI Search</a></li><li><a href=\"https://news.microsoft.com/build2024bookofnews/\">MS Build Book of News: Microsoft Build 2024 Book of News</a></li></ul><h2>Timejumps</h2><ul><li><strong><a>01:50</a></strong> Introducing Anthony Bartolo</li><li><strong><a>04:26</a></strong> What does PC + AI mean for Windows?</li><li><strong><a>09:05</a></strong> Sponsor: Ag Grid</li><li><strong><a>10:05</a></strong> What is Phi-3?</li><li><strong><a>14:20</a></strong> How much space do you need on your drive for this?</li><li><strong><a>18:20</a></strong> What's Phi-3 with SLM's?</li><li><strong><a>24:35</a></strong> Sponsor: IdeaBlade</li><li><strong><a>25:32</a></strong> What is GitHub CoPilot Extensibility?</li><li><strong><a>32:40</a></strong> Snapdragon developer kit for Windows</li><li><strong><a>38:15</a></strong> AI integration into Teams</li></ul><p>Podcast editing on this episode done by <a href=\"https://lemonproductions.ca/\">Chris Enns of Lemon Productions</a>.</p>",
+      "enclosure": {
+        "@length": 43360121,
+        "@type": "audio/mpeg",
+        "@url": "https://cdn.simplecast.com/audio/df5fbc79-a4cb-46e5-9cd9-12d319d7f92b/episodes/26129006-2847-4fad-be3c-a67faead7f10/audio/99f80105-379b-45e3-9cdd-d7a77d3c5638/default_tc.mp3?aid=rss_feed&feed=tOjNXec5",
+        "#text": null
+      },
+      "itunes:title": "Episode 285: The Best of Build for Developers",
+      "itunes:author": "John Papa",
+      "itunes:duration": "00:45:09",
+      "itunes:summary": "Anthony Bartolo returns to talk about new capabilities with AI for Windows. We discuss the extensibility features of GitHub CoPilot, the Snapdragon developer kit for Windows, and insights into AI integration into Microsoft Teams.",
+      "itunes:subtitle": "Anthony Bartolo returns to talk about new capabilities with AI for Windows. We discuss the extensibility features of GitHub CoPilot, the Snapdragon developer kit for Windows, and insights into AI integration into Microsoft Teams.",
+      "itunes:explicit": false,
+      "itunes:episodeType": "full",
+      "itunes:episode": 285
+    },
     {
       "guid": {
         "@isPermaLink": false,
