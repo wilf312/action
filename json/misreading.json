@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Sun, 09 Jun 2024 04:20:00 +0000",
+  "lastBuildDate": "Tue, 02 Jul 2024 04:05:39 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,39 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#135: In-Datacenter Performance Analysis of a Tensor Processing Unit",
+      "link": "https://misreading.chat/2024/07/01/135-in-datacenter-performance-analysis-of-a-tensor-processing-unit/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Tue, 02 Jul 2024 04:05:39 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1172"
+      },
+      "description": "行列の掛け算が得意なハードウェアについて森田が読みました。",
+      "content:encoded": "<p>行列の掛け算が得意なハードウェアについて森田が読みました。ご意見感想などは&nbsp;Reddit&nbsp;やおたより投書箱にお寄せください。iTunes&nbsp;のレビューや星もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/07/ep135.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://arxiv.org/abs/1704.04760\">[1704.04760] In-Datacenter Performance Analysis of a Tensor Processing Unit</a></li>\n\n\n\n<li><a href=\"https://www.sciencedirect.com/topics/computer-science/systolic-arrays\">Systolic Arrays – an overview | ScienceDirect Topics</a></li>\n\n\n\n<li><a href=\"https://jax.readthedocs.io/en/latest/pallas/index.html\">Pallas: a JAX kernel language — JAX documentation</a></li>\n\n\n\n<li><a href=\"https://wow.groq.com/about-us/\">About Groq – Fast AI Inference</a></li>\n\n\n\n<li><a href=\"https://ieeexplore.ieee.org/document/9351692\">The Design Process for Google’s Training Chips: TPUv2 and TPUv3 | IEEE Journals & Magazine | IEEE Xplore</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/07/ep135.mp3",
+        "@length": 31896631,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "行列の掛け算が得意なハードウェアについて森田が読みました。",
+      "googleplay:description": "行列の掛け算が得意なハードウェアについて森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#134: LoRA: Low-Rank Adaptation of Large Language Models",
       "link": "https://misreading.chat/2024/06/08/134-lora-low-rank-adaptation-of-large-language-models/",
