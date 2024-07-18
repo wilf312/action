@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #93",
+      "description": "<p>23.5.2 レプリカの配置</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-93-e2m5ued",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "eccd2a11-d3b6-43cd-84de-66c0cc9b2702"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Thu, 18 Jul 2024 11:04:06 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/89372557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F5cfa93aa-0b5d-8b77-1597-d163f8597370.m4a",
+        "@length": 24038605,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.5.2 レプリカの配置</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:46",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #92",
       "description": "<p>23.5 分散合意ベースのシステムのデプロイ〜 23.5.1 レプリカ数</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-92-e2jvaoo",
