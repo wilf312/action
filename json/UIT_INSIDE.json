@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.159『Node.js 22 リリースと最近のアップデート振り返り』",
+      "link": "https://uit-inside.linecorp.com/episode/159",
+      "pubDate": "Thu, 18 Jul 2024 03:00:00 GMT",
+      "description": "4月にリリースされたNode.js 22について、@spring_rainingがNode.jsのCore Collaboratorである@cola119に話を聞きました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/159"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-159.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),cola119(cola119)",
+      "itunes:subtitle": "ep.159『Node.js 22 リリースと最近のアップデート振り返り』",
+      "itunes:duration": "27:39",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode159.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.158『プロダクトの負担を最小限に。複数サービスにまたがるUIコンポーネントのVue 3移行戦略』",
       "link": "https://uit-inside.linecorp.com/episode/158",
       "pubDate": "Fri, 21 Jun 2024 08:00:00 GMT",
