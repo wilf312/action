@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.160『HTMLの品質チェックをもっと身近に！Nu HTML Checker セルフホスティングへの道』",
+      "link": "https://uit-inside.linecorp.com/episode/160",
+      "pubDate": "Thu, 25 Jul 2024 08:30:00 GMT",
+      "description": "@potato4d が @hiroya_UGA, @Pittan, @vivil に、Nu HTMLチェッカーのセルフホスティングについて話を聞きました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/160"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode160.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),Pittan(Pittan),vivil(vivil),hiroya_UGA(hiroya_UGA)",
+      "itunes:subtitle": "ep.160『HTMLの品質チェックをもっと身近に！Nu HTML Checker セルフホスティングへの道』",
+      "itunes:duration": "23:38",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode160.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.159『Node.js 22 リリースと最近のアップデート振り返り』",
       "link": "https://uit-inside.linecorp.com/episode/159",
       "pubDate": "Thu, 18 Jul 2024 03:00:00 GMT",
