@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #94",
+      "description": "<p>23.5.3 キャパシティとロードバランシング</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-94-e2mgnid",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2f632255-97b8-426c-afe6-e44445a2bb51"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Sat, 27 Jul 2024 04:34:45 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/89725965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-27%2F8096b6f0-93ed-dfb1-acbc-2ce0ad71b46c.m4a",
+        "@length": 33834057,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>23.5.3 キャパシティとロードバランシング</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:34:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #93",
       "description": "<p>23.5.2 レプリカの配置</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-93-e2m5ued",
