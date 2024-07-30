@@ -12,7 +12,7 @@
   "docs": "http://x-crossing.com",
   "language": "ja",
   "pubDate": "Mon, 24 Oct 2022 11:21:06 GMT",
-  "lastBuildDate": "Tue, 30 Jul 2024 11:21:29 GMT",
+  "lastBuildDate": "Tue, 30 Jul 2024 20:00:41 GMT",
   "itunes:author": "XCrossing",
   "itunes:summary": "テック業界で働く3人が、テクノロジーとクリエイティブに関するトピックを、視点を行き交わしながら語り合います\n\n及川卓也  \n@takoratta [https://twitter.com/takoratta]\nプロダクトマネジメントとプロダクト開発組織づくりの専門家\n自己紹介エピソード ep1 [https://x-crossing.com/ep1.html], ep2 [https://x-crossing.com/ep2.html] \n\n関信浩  \n@NobuhiroSeki [https://twitter.com/NobuhiroSeki]\nアメリカ・ニューヨークでスタートアップ投資を行う、何でも屋\n自己紹介エピソード ep52 [https://x-crossing.com/ep52.html] \n\n上野美香  \n@mikamika59 [https://twitter.com/mikamika59]\nマーケティング・プロダクトマネジメントを手掛けるフリーランス\n自己紹介エピソード ep53 [https://x-crossing.com/ep53.html] \n\n\n\nXCrossingについて\nXCrossing（エックス・クロッシング）。英語で「スクランブル交差点」を意味します。趣味も、世代も、住んできた街も違う3人が、スクランブル交差点で出会うように、様々な話題を行き交わせる、おしゃべりの交差点です。今日のエックス・クロッシングであなたが出会うのは、どんな話題でしょう。\n\nOfficial X @x_crossing_ [https://twitter.com/x_crossing_]\nWebsite https://x-crossing.com [https://x-crossing.com/]",
   "itunes:type": "episodic",
@@ -69,6 +69,35 @@
     }
   ],
   "item": [
+    {
+      "title": "ep91 環境音から声を分離するAIツール「Voice Isolator」を使ったら、日本語じゃない言語を話し始めた",
+      "link": "https://zencastr.com/z/QgBKK7xr",
+      "itunes:title": "ep91 環境音から声を分離するAIツール「Voice Isolator」を使ったら、日本語じゃない言語を話し始めた",
+      "itunes:summary": "生成AIで音声コンテンツが気軽に作れるようになった。しかし環境音などノイズの分離や、他の言語への翻訳などは便利な半面、注意も必要に\n\n00:47 ElevenLabsが公開した「Voice Isolation」（環境音バリバリの音源から人の声だけ分離する音声生成AI）を試してみた\n\n01:51 ＜Voice Isolationした音源＞ ※USJのレストランで収録したもの\n\n02:46 環境音がパッとなくなるところを聞くと、簡単にできるのはいいかも\n\n03:33 が、現状では自分の声が違う言語を話したり、実際には話していない単語をしゃべっているという結果に\n\n04:08 韓国語・ヨーロッパ系の言語に聞こえる部分から日本語にモーフィング\n\n05:49 英語ではない言語でやると、isolateというよりは別物。音声含めて\"生成\"されていることを実感\n\n08:15 Voice Isolatorのクオリティが上がったら、インタビューや対談、会議などユースケース広がりそう\n\n09:21 TED Talksの動画に追加された新機能：講演者が話す言語と違う言語で（映像内の本人が）話しリップシンクする\n\n11:43 違う言語にしたとき、本来の言語で伝えていた細かいニュアンスはどうなるか\n\n13:35 これは技術で可能にしているものというような注意書きが必要になるかも\n\n18:28 AIよりもコンテンツを英語化するほうが文化破壊で、仕事を奪われるという翻訳家の話\n\n22:14 TED Talksの例は、発信したいコンテンツを持つ人たちが多くの人たちに伝えるために技術を使うユースケース\n\n24:26 音楽のリミックスと、二次創作を許可して流通させる仕組み（クリエイティブコモンズ）\n\n取り上げた情報へのリンク：\n\n * ElevenLabs「Voice Isolator [https://elevenlabs.io/voice-isolator]」\n * TED Talksスピーカーの言語を切り替えられるデモ動画 [https://youtu.be/s3RKTMSq-LA]\n * 複数言語に切り替えられる実際の動画 [https://www.ted.com/dubbing/lera_boroditsky_how_language_shapes_the_way_we_think?audio=en&fbclid=IwY2xjawEUSj1leHRuA2FlbQIxMAABHTYabtFYRaYZvDKqafltK6QW_BtNFZEHfY-vedMPcvyK7olYRvtIefUnfw_aem_PszgTqPM5QDTtICIoNvXKw&language=en]\n * ローカルな文化にとっては生成AIより英語の方が脅威 [https://x-crossing.com/ep30.html]（XCrossing ep30）\n\n\nテック業界で働く3人が、テクノロジーとクリエイティブに関するトピックを、視点を行き交わしながら語り合います。\n\n及川卓也  @takoratta [https://twitter.com/takoratta]\nプロダクトマネジメントとプロダクト開発組織づくりの専門家\n自己紹介 ep1 [https://x-crossing.com/ep1.html], ep2 [https://x-crossing.com/ep2.html]\n\n関信浩  @NobuhiroSeki [https://twitter.com/NobuhiroSeki]\nアメリカ・ニューヨークでスタートアップ投資を行う、何でも屋\n自己紹介 ep52 [https://x-crossing.com/ep52.html]\n\n上野美香  @mikamika59 [https://twitter.com/mikamika59]\nマーケティング・プロダクトマネジメントを手掛けるフリーランス\n自己紹介 ep53 [https://x-crossing.com/ep53.html]",
+      "itunes:episodeType": "full",
+      "pubDate": "Tue, 30 Jul 2024 20:00:00 GMT",
+      "itunes:author": "XCrossing",
+      "enclosure": {
+        "@length": 41524743,
+        "@type": "audio/mpeg",
+        "@url": "https://redirect.zencastr.com/r/episode/66a78ac1747f652d39dd6d55/audio-files/633d4475449ff822ce111d77/06f0d62d-b201-4886-9a72-de22618407f4.mp3",
+        "#text": null
+      },
+      "description": "<p>生成AIで音声コンテンツが気軽に作れるようになった。しかし環境音などノイズの分離や、他の言語への翻訳などは便利な半面、注意も必要に</p><p>00:47 ElevenLabsが公開した「Voice Isolation」（環境音バリバリの音源から人の声だけ分離する音声生成AI）を試してみた</p><p>01:51 ＜Voice Isolationした音源＞ ※USJのレストランで収録したもの</p><p>02:46 環境音がパッとなくなるところを聞くと、簡単にできるのはいいかも</p><p>03:33 が、現状では自分の声が違う言語を話したり、実際には話していない単語をしゃべっているという結果に</p><p>04:08 韓国語・ヨーロッパ系の言語に聞こえる部分から日本語にモーフィング</p><p>05:49 英語ではない言語でやると、isolateというよりは別物。音声含めて”生成”されていることを実感</p><p>08:15 Voice Isolatorのクオリティが上がったら、インタビューや対談、会議などユースケース広がりそう</p><p>09:21 TED Talksの動画に追加された新機能：講演者が話す言語と違う言語で（映像内の本人が）話しリップシンクする</p><p>11:43 違う言語にしたとき、本来の言語で伝えていた細かいニュアンスはどうなるか</p><p>13:35 これは技術で可能にしているものというような注意書きが必要になるかも</p><p>18:28 AIよりもコンテンツを英語化するほうが文化破壊で、仕事を奪われるという翻訳家の話</p><p>22:14 TED Talksの例は、発信したいコンテンツを持つ人たちが多くの人たちに伝えるために技術を使うユースケース</p><p>24:26 音楽のリミックスと、二次創作を許可して流通させる仕組み（クリエイティブコモンズ）</p><p>取り上げた情報へのリンク：</p><ul>  <li>ElevenLabs「<a href=\"https://elevenlabs.io/voice-isolator\">Voice Isolator</a>」</li>  <li><a href=\"https://youtu.be/s3RKTMSq-LA\">TED Talksスピーカーの言語を切り替えられるデモ動画</a></li>  <li><a href=\"https://www.ted.com/dubbing/lera_boroditsky_how_language_shapes_the_way_we_think?audio=en&fbclid=IwY2xjawEUSj1leHRuA2FlbQIxMAABHTYabtFYRaYZvDKqafltK6QW_BtNFZEHfY-vedMPcvyK7olYRvtIefUnfw_aem_PszgTqPM5QDTtICIoNvXKw&language=en\">複数言語に切り替えられる実際の動画</a></li>  <li><a href=\"https://x-crossing.com/ep30.html\">ローカルな文化にとっては生成AIより英語の方が脅威</a>（XCrossing ep30）</li></ul><p><br>テック業界で働く3人が、テクノロジーとクリエイティブに関するトピックを、視点を行き交わしながら語り合います。</p><p>及川卓也 &nbsp;<a href=\"https://twitter.com/takoratta\">@takoratta</a> <br>プロダクトマネジメントとプロダクト開発組織づくりの専門家 <br>自己紹介 <a href=\"https://x-crossing.com/ep1.html\">ep1</a>, <a href=\"https://x-crossing.com/ep2.html\">ep2</a></p><p>関信浩 &nbsp;<a href=\"https://twitter.com/NobuhiroSeki\">@NobuhiroSeki</a> <br>アメリカ・ニューヨークでスタートアップ投資を行う、何でも屋 <br>自己紹介 <a href=\"https://x-crossing.com/ep52.html\">ep52</a></p><p>上野美香 &nbsp;<a href=\"https://twitter.com/mikamika59\">@mikamika59</a> <br>マーケティング・プロダクトマネジメントを手掛けるフリーランス <br>自己紹介 <a href=\"https://x-crossing.com/ep53.html\">ep53</a></p>",
+      "content:encoded": "<p>生成AIで音声コンテンツが気軽に作れるようになった。しかし環境音などノイズの分離や、他の言語への翻訳などは便利な半面、注意も必要に</p><p>00:47 ElevenLabsが公開した「Voice Isolation」（環境音バリバリの音源から人の声だけ分離する音声生成AI）を試してみた</p><p>01:51 ＜Voice Isolationした音源＞ ※USJのレストランで収録したもの</p><p>02:46 環境音がパッとなくなるところを聞くと、簡単にできるのはいいかも</p><p>03:33 が、現状では自分の声が違う言語を話したり、実際には話していない単語をしゃべっているという結果に</p><p>04:08 韓国語・ヨーロッパ系の言語に聞こえる部分から日本語にモーフィング</p><p>05:49 英語ではない言語でやると、isolateというよりは別物。音声含めて”生成”されていることを実感</p><p>08:15 Voice Isolatorのクオリティが上がったら、インタビューや対談、会議などユースケース広がりそう</p><p>09:21 TED Talksの動画に追加された新機能：講演者が話す言語と違う言語で（映像内の本人が）話しリップシンクする</p><p>11:43 違う言語にしたとき、本来の言語で伝えていた細かいニュアンスはどうなるか</p><p>13:35 これは技術で可能にしているものというような注意書きが必要になるかも</p><p>18:28 AIよりもコンテンツを英語化するほうが文化破壊で、仕事を奪われるという翻訳家の話</p><p>22:14 TED Talksの例は、発信したいコンテンツを持つ人たちが多くの人たちに伝えるために技術を使うユースケース</p><p>24:26 音楽のリミックスと、二次創作を許可して流通させる仕組み（クリエイティブコモンズ）</p><p>取り上げた情報へのリンク：</p><ul>  <li>ElevenLabs「<a href=\"https://elevenlabs.io/voice-isolator\">Voice Isolator</a>」</li>  <li><a href=\"https://youtu.be/s3RKTMSq-LA\">TED Talksスピーカーの言語を切り替えられるデモ動画</a></li>  <li><a href=\"https://www.ted.com/dubbing/lera_boroditsky_how_language_shapes_the_way_we_think?audio=en&fbclid=IwY2xjawEUSj1leHRuA2FlbQIxMAABHTYabtFYRaYZvDKqafltK6QW_BtNFZEHfY-vedMPcvyK7olYRvtIefUnfw_aem_PszgTqPM5QDTtICIoNvXKw&language=en\">複数言語に切り替えられる実際の動画</a></li>  <li><a href=\"https://x-crossing.com/ep30.html\">ローカルな文化にとっては生成AIより英語の方が脅威</a>（XCrossing ep30）</li></ul><p><br>テック業界で働く3人が、テクノロジーとクリエイティブに関するトピックを、視点を行き交わしながら語り合います。</p><p>及川卓也 &nbsp;<a href=\"https://twitter.com/takoratta\">@takoratta</a> <br>プロダクトマネジメントとプロダクト開発組織づくりの専門家 <br>自己紹介 <a href=\"https://x-crossing.com/ep1.html\">ep1</a>, <a href=\"https://x-crossing.com/ep2.html\">ep2</a></p><p>関信浩 &nbsp;<a href=\"https://twitter.com/NobuhiroSeki\">@NobuhiroSeki</a> <br>アメリカ・ニューヨークでスタートアップ投資を行う、何でも屋 <br>自己紹介 <a href=\"https://x-crossing.com/ep52.html\">ep52</a></p><p>上野美香 &nbsp;<a href=\"https://twitter.com/mikamika59\">@mikamika59</a> <br>マーケティング・プロダクトマネジメントを手掛けるフリーランス <br>自己紹介 <a href=\"https://x-crossing.com/ep53.html\">ep53</a></p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "83d62dc3-b4d2-4013-9b7b-9b4d8d8b9653"
+      },
+      "itunes:explicit": false,
+      "itunes:image": {
+        "@href": "https://media.zencastr.com/image-files/633d4475449ff822ce111d77/3c9c9bb6-8b7c-4185-b45e-59005001d727.jpg",
+        "#text": null
+      },
+      "itunes:duration": 1730,
+      "itunes:episode": 91,
+      "itunes:keywords": "xcrossing,x-crossing,elevenlabs,voice isolator,音声生成ai,ポッドキャスト,podcast,話し声分離,音声編集,ted talk,複数言語,multilingual,テクノロジー,technology,生成ai"
+    },
     {
       "title": "ep90 目を見張るバスの進化、アメリカに欲しい「レストランバス」",
       "link": "https://zencastr.com/z/At9UlLXt",
