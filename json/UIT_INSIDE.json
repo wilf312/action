@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.161『大規模ドキュメント特有の課題を OSSコントリビューションで解消！nuxt/content のパフォーマンス改善』",
+      "link": "https://uit-inside.linecorp.com/episode/161",
+      "pubDate": "Wed, 14 Aug 2024 09:00:00 GMT",
+      "description": "@potato4d が @coffeephile に、Nuxt.jsの周辺ライブラリーに対するOSSコントリビューションについて話を聞きました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/161"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode161.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),coffeephile(coffeephile)",
+      "itunes:subtitle": "ep.161『大規模ドキュメント特有の課題を OSSコントリビューションで解消！nuxt/content のパフォーマンス改善』",
+      "itunes:duration": "15:24",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode161.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.160『HTMLの品質チェックをもっと身近に！Nu HTML Checker セルフホスティングへの道』",
       "link": "https://uit-inside.linecorp.com/episode/160",
       "pubDate": "Thu, 25 Jul 2024 08:30:00 GMT",
