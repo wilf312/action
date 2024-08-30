@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.162『Next.js 15 RCを使って理解したPartial Prerenderingの真価』",
+      "link": "https://uit-inside.linecorp.com/episode/162",
+      "pubDate": "Fri, 30 Aug 2024 08:00:00 GMT",
+      "description": "RCとしてリリースされているNext.js 15を実際に試した話やPartial Prerenderingについて、@spring_rainingと@ynamimaが話しました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/162"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-162.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),ynamima(ynamima)",
+      "itunes:subtitle": "ep.162『Next.js 15 RCを使って理解したPartial Prerenderingの真価』",
+      "itunes:duration": "34:48",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode162.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.161『大規模ドキュメント特有の課題を OSSコントリビューションで解消！nuxt/content のパフォーマンス改善』",
       "link": "https://uit-inside.linecorp.com/episode/161",
       "pubDate": "Wed, 14 Aug 2024 09:00:00 GMT",
