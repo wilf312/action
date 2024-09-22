@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "126. Netflixでの大規模なシステム移行の手法",
+      "description": "<p>Netflixでの大規模なシステム以降を行う際のテストの手法、安全なロールアウトの戦略や技法について話しました。</p>\n<ul>\n <li>Migrating Critical Traffic At Scale with No Downtime — <a href=\"https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835\">Part 1</a>, <a href=\"https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1\">Part 2</a></li>\n</ul>\n<p><strong>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</strong></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/126--Netflix-e2ofabk",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9be292c4-dd57-407d-935f-0e2007fb81ec"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 22 Sep 2024 18:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/91776820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-17%2F01ee3516-e11b-efdb-b9ef-ed4f79dfb320.mp3",
+        "@length": 38189911,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Netflixでの大規模なシステム以降を行う際のテストの手法、安全なロールアウトの戦略や技法について話しました。</p>\n<ul>\n <li>Migrating Critical Traffic At Scale with No Downtime — <a href=\"https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835\">Part 1</a>, <a href=\"https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1\">Part 2</a></li>\n</ul>\n<p><strong>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</strong></p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:27:24",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "125. AIがなにか誰もわかってない/AirbnbがPdMをなくした?/モノレポサーバーレスの設計",
       "description": "<p>最近気になった記事について話しました。</p>\n<ul>\n <li>AIとはなんなのか？ <a href=\"https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/\">https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/</a></li>\n <li>確率論的オウム <a href=\"https://en.wikipedia.org/wiki/Stochastic_parrot\">https://en.wikipedia.org/wiki/Stochastic_parrot</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%95%8F%E9%A1%8C\">フレーム問題</a></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%8F%E9%A1%8C\">シンボルグラウンディング問題</a><strong> (記号接地問題)</strong></li>\n <li><a href=\"https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2\">クオリア</a></li>\n <li>AirbnbがPdMをなくした話 <a href=\"https://jonharmer.medium.com/oh-no-airbnb-got-rid-of-product-managers-the-sky-is-falling-f12559ce9c9c\">https://jonharmer.medium.com/oh-no-airbnb-got-rid-of-product-managers-the-sky-is-falling-f12559ce9c9c</a></li>\n <li>炎上元のツイートhttps://twitter.com/PawelHuryn/status/1677602999194009600</li>\n <li>実際の動画 <a href=\"https://www.youtube.com/watch?v=Dkfijg7s76o&t=645s\">https://www.youtube.com/watch?v=Dkfijg7s76o&t=645s</a></li>\n  <li><a href=\"https://tomoima525.hatenablog.com/entry/2024/08/20/214950\"><strong>AWS CDKを使用したモノレポサーバーレスプロジェクトの実装</strong></a><a href=\"https://tomoima525.hatenablog.com/entry/2024/08/20/214950\">https://tomoima525.hatenablog.com/entry/2024/08/20/214950</a></li>\n</ul>\n<p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/125--AIAirbnbPdM-e2nm888",
