@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 11 Sep 2024 13:07:36 +0000",
+  "lastBuildDate": "Wed, 02 Oct 2024 14:52:55 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,39 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#139: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+      "link": "https://misreading.chat/2024/10/02/139-nerf-representing-scenes-as-neural-radiance-fields-for-view-synthesis/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 02 Oct 2024 14:52:14 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1208"
+      },
+      "description": "写真を集めてシーンをレンダリングするニューラルネットを森田が読みました。",
+      "content:encoded": "<p>写真を集めてシーンをレンダリングするニューラルネットを森田が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/10/ep139.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://arxiv.org/abs/2003.08934\">NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis</a></li>\n\n\n\n<li><a href=\"https://sites.google.com/berkeley.edu/nerf-tutorial/home?pli=1\">NeRF Tutorial ECCV 2022</a></li>\n\n\n\n<li><a href=\"https://illuminate.google.com/home\">illuminate.google.com</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/10/ep139.mp3",
+        "@length": 27357472,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "写真を集めてシーンをレンダリングするニューラルネットを森田が読みました。",
+      "googleplay:description": "写真を集めてシーンをレンダリングするニューラルネットを森田が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#138: Distilling the Knowledge in a Neural Network",
       "link": "https://misreading.chat/2024/09/11/138-distilling-the-knowledge-in-a-neural-network/",
