@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.163『LINEヤフー初！フロントエンド開発インターンシップを参加者と振り返る』",
+      "link": "https://uit-inside.linecorp.com/episode/163",
+      "pubDate": "Fri, 04 Oct 2024 08:05:00 GMT",
+      "description": "@TheoSteiner が @bondroid1322、@mutsuki.ikeda、@odan3240 に、LINEヤフーでのインターンシップについて話を聞きました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/163"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode163.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "odan(odan3240),Theo Steiner(TheoSteiner),bondroid1322(bondroid1322),mutsuki.ikeda(mutsuki.ikeda)",
+      "itunes:subtitle": "ep.163『LINEヤフー初！フロントエンド開発インターンシップを参加者と振り返る』",
+      "itunes:duration": "15:24",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode163.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.162『Next.js 15 RCを使って理解したPartial Prerenderingの真価』",
       "link": "https://uit-inside.linecorp.com/episode/162",
       "pubDate": "Fri, 30 Aug 2024 08:00:00 GMT",
