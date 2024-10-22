@@ -35,6 +35,31 @@
   },
   "item": [
     {
+      "title": "121. 音声基盤モデル w/ noriyuki_kojima",
+      "description": "<p>コトバテクノロジーズCEOのKojimaさんをゲストに、音声基盤モデルの概要や学習方法、評価の難しさなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://www.kotoba.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">コトバテクノロジーズ</a>の概要・創業ストーリー</li><li><a href=\"https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B\" rel=\"noopener noreferrer\" target=\"_blank\">Fugaku-LLM</a></li><li><a href=\"https://www.youtube.com/watch?v=l8H95ENBU-o\" rel=\"noopener noreferrer\" target=\"_blank\">GENIAC成果報告会</a></li><li>ChatGPT Advanced Voice Mode</li><li>従来の音声処理</li><li>音声分野でのスケーリングの難しさ</li><li>音声データにおけるNext Token Prediction</li><li>学習データの収集方法</li><li>良いデータと悪いデータ</li><li>音声生成AIの評価</li><li>音声同時通訳への応用</li><li><a href=\"https://www.youtube.com/@KotobaTechnologies-gs5cc\" rel=\"noopener noreferrer\" target=\"_blank\">デモ動画</a></li><li><a href=\"https://www.kotoba.tech/contact\" rel=\"noopener noreferrer\" target=\"_blank\">コトバテクノロジーズへのコンタクトフォーム</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "121. 音声基盤モデル w/ noriyuki_kojima",
+      "itunes:episodeType": "full",
+      "itunes:summary": "コトバテクノロジーズCEOのKojimaさんをゲストに、音声基盤モデルの概要や学習方法、評価の難しさなどについて語っていただいたエピソードです。\n\n話したネタコトバテクノロジーズの概要・創業ストーリーFugaku-LLMGENIAC成果報告会ChatGPT Advanced Voice Mode従来の音声処理音声分野でのスケーリングの難しさ音声データにおけるNext Token Prediction学習データの収集方法良いデータと悪いデータ音声生成AIの評価音声同時通訳への応用デモ動画コトバテクノロジーズへのコンタクトフォーム\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>コトバテクノロジーズCEOのKojimaさんをゲストに、音声基盤モデルの概要や学習方法、評価の難しさなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://www.kotoba.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">コトバテクノロジーズ</a>の概要・創業ストーリー</li><li><a href=\"https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B\" rel=\"noopener noreferrer\" target=\"_blank\">Fugaku-LLM</a></li><li><a href=\"https://www.youtube.com/watch?v=l8H95ENBU-o\" rel=\"noopener noreferrer\" target=\"_blank\">GENIAC成果報告会</a></li><li>ChatGPT Advanced Voice Mode</li><li>従来の音声処理</li><li>音声分野でのスケーリングの難しさ</li><li>音声データにおけるNext Token Prediction</li><li>学習データの収集方法</li><li>良いデータと悪いデータ</li><li>音声生成AIの評価</li><li>音声同時通訳への応用</li><li><a href=\"https://www.youtube.com/@KotobaTechnologies-gs5cc\" rel=\"noopener noreferrer\" target=\"_blank\">デモ動画</a></li><li><a href=\"https://www.kotoba.tech/contact\" rel=\"noopener noreferrer\" target=\"_blank\">コトバテクノロジーズへのコンタクトフォーム</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/oaNItrnFA2VPvy-spqjAFrmCtJ49ioAefAlXtnPBBv8"
+      },
+      "pubDate": "Mon, 21 Oct 2024 21:27:52 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:48:25",
+      "enclosure": {
+        "@url": "https://chrt.fm/track/D33GD1/rss.art19.com/episodes/ab2afbfa-bd6c-419f-9f2a-212b61fca1b3.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 46491689,
+        "#text": null
+      }
+    },
+    {
       "title": "120. ニューラルかな漢字変換 w/ miwa_ensan",
       "description": "<p>Miwaさんをゲストに、従来のかな漢字変換の仕組みや課題、ニューラルかな漢字変換であるAzooKeyのモチベーションや仕組みなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>きっかけの記事:&nbsp;<a href=\"https://zenn.dev/azookey/articles/ea15bacf81521e\" rel=\"noopener noreferrer\" target=\"_blank\">ニューラルかな漢字変換エンジン「Zenzai」をazooKey on macOSに搭載します</a></li><li>従来のかな漢字変換手法とは？</li><li>N分割最長一致法</li><li>ビタビアルゴリズム</li><li>従来のかな漢字変換の課題は？</li><li>ニューラルかな漢字変換とは</li><li>AzooKey 開発のモチベーション</li><li>AzooKey の仕組み</li><li>従来手法とGPT-2ベースのLLMを組み合わせたハイブリッドな手法</li><li>投機的デコーディング</li><li>変換精度</li><li>現在の AzooKey の技術的課題と今後の方針</li><li><a href=\"https://github.com/ensan-hcl/azooKey\" rel=\"noopener noreferrer\" target=\"_blank\">AzooKeyのGitHubリポジトリ</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "120. ニューラルかな漢字変換 w/ miwa_ensan",
