@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Wed, 02 Oct 2024 14:52:55 +0000",
+  "lastBuildDate": "Thu, 24 Oct 2024 20:20:45 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,39 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#140: GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models",
+      "link": "https://misreading.chat/2024/10/24/140-gsm-symbolic-understanding-the-limitations-of-mathematical-reasoning-in-large-language-models/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Thu, 24 Oct 2024 20:20:45 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1217"
+      },
+      "description": "LLM にひっかけ算数問題を出してみる話を向井が読みました。",
+      "content:encoded": "<p>LLM にひっかけ算数問題を出してみる話を<a href=\"https://www.jmuk.org/\">向井</a>が読みました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/10/ep140.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://arxiv.org/abs/2410.05229\">[2410.05229] GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models</a></li>\n\n\n\n<li><a href=\"https://github.com/openai/grade-school-math\">GitHub – openai/grade-school-math</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/10/ep140.mp3",
+        "@length": 28728576,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "LLM にひっかけ算数問題を出してみる話を向井が読みました。",
+      "googleplay:description": "LLM にひっかけ算数問題を出してみる話を向井が読みました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#139: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
       "link": "https://misreading.chat/2024/10/02/139-nerf-representing-scenes-as-neural-radiance-fields-for-view-synthesis/",
