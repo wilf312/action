@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.164『コアメンバーと語る！Svelte 5の革新』",
+      "link": "https://uit-inside.linecorp.com/episode/164",
+      "pubDate": "Wed, 30 Oct 2024 07:30:00 GMT",
+      "description": "@TheoSteiner が @tomoam、@baseballyamaに、Svelte 5について話を聞きました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/164"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode164.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "tomoam(tomoam),Theo Steiner(TheoSteiner),baseballyama(baseballyama)",
+      "itunes:subtitle": "ep.164『コアメンバーと語る！Svelte 5の革新』",
+      "itunes:duration": "31:40",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode164.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.163『LINEヤフー初！フロントエンド開発インターンシップを参加者と振り返る』",
       "link": "https://uit-inside.linecorp.com/episode/163",
       "pubDate": "Fri, 04 Oct 2024 08:05:00 GMT",
