@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "#42 SREチーム、会議のファシリテーションの話",
+      "description": "<p>最近読んだ記事について話しました。</p>\n<p><br /></p>\n<p>Links:</p>\n<p>・SREチーム発足と今期の取り組みについて <a href=\"https://tech.findy.co.jp/entry/2024/09/11/090000\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://tech.findy.co.jp/entry/2024/09/11/090000</a></p>\n<p>・会議のファシリテーションをほめてもらった <a href=\"https://bufferings.hatenablog.com/entry/2024/09/11/235421\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bufferings.hatenablog.com/entry/2024/09/11/235421</a></p>\n<p><br /></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/hacktk</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/42-SRE-e2qg1v0",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "db46f7c4-6b46-4edc-a954-c057ee78cd53"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Thu, 07 Nov 2024 00:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/93898144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-3%2F95b202b7-1cdb-67d7-fd4e-c4d9c85744df.mp3",
+        "@length": 20816874,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>最近読んだ記事について話しました。</p>\n<p><br /></p>\n<p>Links:</p>\n<p>・SREチーム発足と今期の取り組みについて <a href=\"https://tech.findy.co.jp/entry/2024/09/11/090000\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://tech.findy.co.jp/entry/2024/09/11/090000</a></p>\n<p>・会議のファシリテーションをほめてもらった <a href=\"https://bufferings.hatenablog.com/entry/2024/09/11/235421\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bufferings.hatenablog.com/entry/2024/09/11/235421</a></p>\n<p><br /></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/hacktk</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:21:41",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "#41 Observability as Codeの話",
       "description": "<p>Observability as Codeやその導入について話しました。</p>\n<p><br /></p>\n<p>Links:</p>\n<p>・Observability as Codeによる設定の自動化 <a href=\"https://newrelic.com/jp/blog/how-to-relic/examples-observability-as-code-part-one\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://newrelic.com/jp/blog/how-to-relic/examples-observability-as-code-part-one</a></p>\n<p>・GUIのほうが学習しやすい</p>\n<p>・導入しようと「説得」してしまいがち</p>\n<p><br /></p>\n<p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。 感想は #yurutech をつけてポストしてください。Googleフォームからも送れます。 <a href=\"https://forms.gle/ZaxjmXSYSNbihf9k9\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://forms.gle/ZaxjmXSYSNbihf9k9</a></p>\n<p>X (formerly Twitter):</p>\n<p>・ゆるテク: <a href=\"https://twitter.com/yuru_tech\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/yuru_tech</a></p>\n<p>・@junichi_m_: <a href=\"https://twitter.com/junichi_m_\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/junichi_m_</a></p>\n<p>・@hacktk: <a href=\"https://twitter.com/hacktk\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/hacktk</a></p>",
       "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/41-Observability-as-Code-e2qcbgv",
