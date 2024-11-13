@@ -21,14 +21,14 @@
     }
   ],
   "link": "https://misreading.chat",
-  "description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "lastBuildDate": "Thu, 24 Oct 2024 20:20:45 +0000",
+  "description": "森田と向井がコンピュータサイエンス周辺の論文をなんとなく読んで感心する Podcast です。",
+  "lastBuildDate": "Wed, 13 Nov 2024 04:51:38 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
   "generator": "http://wordpress.com/",
-  "itunes:summary": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
-  "googleplay:description": "会社員プログラマの森田と向井がコンピュータサイエンス周辺の論文を雑に読んで感心する Podcast です。就業後に会議室からこっそりお送りします。",
+  "itunes:summary": "森田と向井がコンピュータサイエンス周辺の論文をなんとなく読んで感心する Podcast です。",
+  "googleplay:description": "森田と向井がコンピュータサイエンス周辺の論文をなんとなく読んで感心する Podcast です。",
   "itunes:author": "Hajime Morrita, Jun Mukai",
   "googleplay:author": "Hajime Morrita, Jun Mukai",
   "itunes:owner": {
@@ -52,6 +52,39 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#141: SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL",
+      "link": "https://misreading.chat/2024/11/12/141-sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/",
+      "dc:creator": "Hajime Morrita",
+      "pubDate": "Wed, 13 Nov 2024 04:51:38 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1225"
+      },
+      "description": "Google SQL の新しい文法を森田が紹介しました。",
+      "content:encoded": "<p>Google SQL の新しい文法を森田が紹介しました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/11/ep141.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/\">SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL</a></li>\n\n\n\n<li><a href=\"https://prql-lang.org/\">PRQL</a></li>\n\n\n\n<li><a href=\"https://cloud.google.com/bigquery/docs/pipe-syntax\">Pipe syntax  |  BigQuery  |  Google Cloud</a></li>\n\n\n\n<li><a href=\"https://sqlite.org/forum/forumpost/2d2720461b82f2fd\">SQLite Forum: Interesting paper from Google on pipe syntax on SQL</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/11/ep141.mp3",
+        "@length": 26581014,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:author": "Hajime Morrita",
+      "googleplay:author": "Hajime Morrita",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "Google SQL の新しい文法を森田が紹介しました。",
+      "googleplay:description": "Google SQL の新しい文法を森田が紹介しました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/d7fa1a81049d74623174998389a51b1b9be94b3c3dbedd87ab11262315793d93?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "morrita2016"
+        }
+      }
+    },
     {
       "title": "#140: GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models",
       "link": "https://misreading.chat/2024/10/24/140-gsm-symbolic-understanding-the-limitations-of-mathematical-reasoning-in-large-language-models/",
