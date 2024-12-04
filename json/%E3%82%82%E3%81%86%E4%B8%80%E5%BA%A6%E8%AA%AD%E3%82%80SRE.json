@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #97",
+      "description": "<p>24.3.2 拡張された要求から24.4.2 Paxosの利用まで</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-97-e2rrq3n",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "e5cd0e38-d85f-4397-9f29-75c9fc96f509"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 04 Dec 2024 03:11:53 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/95331895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-4%2F896721a4-de6e-dc75-aea5-e384979401f7.m4a",
+        "@length": 32474086,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>24.3.2 拡張された要求から24.4.2 Paxosの利用まで</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:33:27",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #96",
       "description": "<p>24 章 cronによる分散定期スケジューリング から 24.3.1 拡張されたインフラストラクチャ まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-96-e2qasdp",

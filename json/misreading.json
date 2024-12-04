@@ -22,7 +22,7 @@
   ],
   "link": "https://misreading.chat",
   "description": "森田と向井がコンピュータサイエンス周辺の論文をなんとなく読んで感心する Podcast です。",
-  "lastBuildDate": "Wed, 13 Nov 2024 04:51:38 +0000",
+  "lastBuildDate": "Wed, 04 Dec 2024 05:14:44 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -52,6 +52,40 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#142: An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise",
+      "link": "https://misreading.chat/2024/12/03/142-an-empirical-study-of-rust-for-linux-the-success-dissatisfaction-and-compromise/",
+      "dc:creator": "Jun Mukai",
+      "pubDate": "Wed, 04 Dec 2024 05:14:44 +0000",
+      "category": "episodes",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "http://misreading.chat/?p=1240"
+      },
+      "description": "Rust を Linux  カーネルへで使う取り組みの進捗を向井がウォッチしました。",
+      "content:encoded": "<p>Rust を Linux  カーネルへで使う取り組みの進捗を<a href=\"https://www.jmuk.org/\">向井</a>がウォッチしました。ご意見感想などは <a href=\"https://www.reddit.com/r/MisreadingChat/\">Reddit</a> や<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform\">おたより投書箱</a>にお寄せください。<a href=\"https://podcasts.apple.com/jp/podcast/misreading-chat/id1364330509\">iTunes のレビューや星</a>もよろしくね。</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<figure class=\"wp-block-audio\"><audio controls src=\"https://misreading.chat/wp-content/uploads/2024/12/ep142.mp3\"></audio></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.usenix.org/conference/atc24/presentation/li-hongyu\">An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise | USENIX</a></li>\n\n\n\n<li><a href=\"https://rust-for-linux.com/\">Rust for Linux</a></li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdBvbhI98yeJQV_QWBsl1Q5vY7iohwFN-lJOY2fIh_pfjwRSQ/viewform?embedded=true\" frameborder=\"0\" width=\"100%\" height=\"800\" marginheight=\"0\" marginwidth=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>\n\n\n\n<p></p>",
+      "enclosure": {
+        "@url": "https://misreading.chat/wp-content/uploads/2024/12/ep142.mp3",
+        "@length": 38936502,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": 3245,
+      "itunes:author": "Jun Mukai",
+      "googleplay:author": "Jun Mukai",
+      "itunes:explicit": false,
+      "googleplay:explicit": false,
+      "itunes:summary": "Rust を Linux  カーネルへで使う取り組みの進捗を向井がウォッチしました。",
+      "googleplay:description": "Rust を Linux  カーネルへで使う取り組みの進捗を向井がウォッチしました。",
+      "media:content": {
+        "@url": "https://1.gravatar.com/avatar/de1cc3269b7a2bc589955d77cd9e5c1ad0de1cd53ad0285c8c924cbd32bf78e8?s=96&d=identicon&r=G",
+        "@medium": "image",
+        "media:title": {
+          "@type": "html",
+          "#text": "jmuk42"
+        }
+      }
+    },
     {
       "title": "#141: SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL",
       "link": "https://misreading.chat/2024/11/12/141-sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/",
