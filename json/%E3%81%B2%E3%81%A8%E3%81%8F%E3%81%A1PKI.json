@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "71: FirefoxのCT必須化の話、.mobiで所持していないドメイン名の証明書を取得できそうだった話",
+      "description": "<p>・お知らせ</p>\n<p>Google PodcastがYouTube Musicに変わったとき、サブスクライブ設定が引き継がれなかったようです。</p>\n<p>YouTube Musicをお使いの方で、引き続き番組をお聞きいただける場合は、お手数ですがお手元で個別にRSSのURLを登録してサブスクライブをおねがいいたします。</p>\n<p>ひとくちPKI Podcast配信RSSのURLはこちらです： <a href=\"https://anchor.fm/s/42b89b8c/podcast/rss\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://anchor.fm/s/42b89b8c/podcast/rss</a> </p>\n<p><br /></p>\n<p>本編ではFirefoxでCTのチェックが必須になった話、.mobiのTLDにおいて、古いWhoisサーバーのドメインテイクオーバーによって.mobiのWhois応答を模倣する(CAに応答が真正であると思わせる)ことができ、結果として所持していない任意の.mobiのドメインの証明書が発行できそうだったことがオフェンシブセキュリティ企業のwatchTowrによって明らかにされたインシデントについて話しました。雑談ではゴルフの話、高齢になる前に運動習慣を身につけたい話をしました。</p>\n<p><br /></p>\n<p>・FirefoxのCT必須化</p>\n<p><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1921525\" target=\"_blank\" rel=\"ugc noopener noreferrer\">1921525 - enforce certificate transparency in nightly</a></p>\n<p>・.mobi任意証明書発行未遂(PoCですんだ)インシデント</p>\n<p><a href=\"https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/</a></p>\n<p>・ゆきさんのブログでも紹介されております</p>\n<p><a href=\"https://asnokaze.hatenablog.com/entry/2024/09/27/003452\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://asnokaze.hatenablog.com/entry/2024/09/27/003452</a></p>\n<p>・2015年のlive.fiの話(なんとブログ著者はep68,69で話したEntrustインシデントのメールスレッドで対応していた方)</p>\n<p><a href=\"https://www.entrust.com/blog/2015/03/what-happened-with-livefi\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.entrust.com/blog/2015/03/what-happened-with-livefi</a></p>\n<p>・CABFでWhoisでのドメイン所有確認のサンセットが賛成多数で採決されました(Ballot SC-80v3: Sunset the use of WHOIS to identify Domain Contacts and relying DCV Methods)</p>\n<p><a href=\"https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/</a></p>\n<p><br /></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/71-FirefoxCT-mobi-e2rtd7v",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "b08c2382-2773-4486-900f-6049520fd8e6"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Thu, 05 Dec 2024 01:43:20 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/95384255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F218c3cf4-c2ea-0afb-07cc-558d9380374e.mp3",
+        "@length": 40508400,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>・お知らせ</p>\n<p>Google PodcastがYouTube Musicに変わったとき、サブスクライブ設定が引き継がれなかったようです。</p>\n<p>YouTube Musicをお使いの方で、引き続き番組をお聞きいただける場合は、お手数ですがお手元で個別にRSSのURLを登録してサブスクライブをおねがいいたします。</p>\n<p>ひとくちPKI Podcast配信RSSのURLはこちらです： <a href=\"https://anchor.fm/s/42b89b8c/podcast/rss\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://anchor.fm/s/42b89b8c/podcast/rss</a> </p>\n<p><br /></p>\n<p>本編ではFirefoxでCTのチェックが必須になった話、.mobiのTLDにおいて、古いWhoisサーバーのドメインテイクオーバーによって.mobiのWhois応答を模倣する(CAに応答が真正であると思わせる)ことができ、結果として所持していない任意の.mobiのドメインの証明書が発行できそうだったことがオフェンシブセキュリティ企業のwatchTowrによって明らかにされたインシデントについて話しました。雑談ではゴルフの話、高齢になる前に運動習慣を身につけたい話をしました。</p>\n<p><br /></p>\n<p>・FirefoxのCT必須化</p>\n<p><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1921525\" target=\"_blank\" rel=\"ugc noopener noreferrer\">1921525 - enforce certificate transparency in nightly</a></p>\n<p>・.mobi任意証明書発行未遂(PoCですんだ)インシデント</p>\n<p><a href=\"https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/</a></p>\n<p>・ゆきさんのブログでも紹介されております</p>\n<p><a href=\"https://asnokaze.hatenablog.com/entry/2024/09/27/003452\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://asnokaze.hatenablog.com/entry/2024/09/27/003452</a></p>\n<p>・2015年のlive.fiの話(なんとブログ著者はep68,69で話したEntrustインシデントのメールスレッドで対応していた方)</p>\n<p><a href=\"https://www.entrust.com/blog/2015/03/what-happened-with-livefi\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.entrust.com/blog/2015/03/what-happened-with-livefi</a></p>\n<p>・CABFでWhoisでのドメイン所有確認のサンセットが賛成多数で採決されました(Ballot SC-80v3: Sunset the use of WHOIS to identify Domain Contacts and relying DCV Methods)</p>\n<p><a href=\"https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/</a></p>\n<p><br /></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:59:16",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 71,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "70: Let's EncryptがOCSPをやめる話、TLS証明書の有効期間が45日になるかもの話",
       "description": "<p>Let's EncryptがOCSPでの失効情報の提供をやめることを発表しました。CRLが大変だから始まったOCSPがどうやら役目を終えそうなムードです。また、CABFでWebPKIのTLS証明書の有効期間を45日にしたいという議題が提起されました。採決はまだですが、短くしたいムードがありますねといった話をしています。雑談では、子どものころ「どすこい」の言い方を練習しなかった？、らんま1/2の新作、U-NEXTの作品収集にかける情熱がすごいなどの話をして言います。 </p>\n<p> </p>\n<ul>\n <li><p>Intent to End OCSP Service </p>\n</li>\n <li><p><a href=\"https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls/</a> </p>\n</li>\n  <li><p>SC-081: Introduce Schedule of Reducing Validity and Data Reuse Periods </p>\n</li>\n  <li><p><a href=\"https://github.com/cabforum/servercert/pull/553/files\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://github.com/cabforum/servercert/pull/553/files</a> </p>\n</li>\n  <li><p>Moving Forward, Together </p>\n</li>\n  <li><p><a href=\"https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/</a> </p>\n</li>\n</ul>\n<p><br /></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/70-Lets-EncryptOCSPTLS45-e2q2qbp",
