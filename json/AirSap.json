@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Sat, 09 Sep 2023 21:20:20 +0000",
+  "lastBuildDate": "Mon, 16 Dec 2024 14:06:42 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -28,7 +28,7 @@
     }
   ],
   "language": "ja",
-  "generator": "Podlove Podcast Publisher v3.8.6",
+  "generator": "Podlove Podcast Publisher v4.1.25",
   "copyright": "© 2024 AirSap",
   "itunes:author": "AirSap",
   "itunes:type": "episodic",
@@ -47,8 +47,36 @@
   },
   "itunes:subtitle": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
   "itunes:block": "no",
-  "itunes:explicit": "no",
+  "itunes:explicit": false,
   "item": [
+    {
+      "title": "#87 今年買って良かったもの",
+      "link": "https://airsap.net/2024/12/16/87-best-buys/",
+      "pubDate": "Mon, 16 Dec 2024 14:06:42 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "podlove-2024-12-16t13:56:25+00:00-2253eeb53814fcf"
+      },
+      "description": "配信再開！",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2024/12/16/87-best-buys/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/277/s/feed/c/podcast/AirSap_87_20241126.mp3",
+        "@length": 17761391,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:24:40",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "今年買って良かったもの",
+      "itunes:episode": 87,
+      "itunes:episodeType": "full",
+      "itunes:summary": "配信再開！"
+    },
     {
       "title": "#86 WWDC23現地リポートとVision Pro雑感（2023/6/20収録）",
       "link": "https://airsap.net/2023/09/10/86-wwdc23/",
@@ -372,7 +400,7 @@
         "#text": null
       },
       "enclosure": {
-        "@url": "https://airsap.net/podlove/file/250/s/feed/c/podcast/AirSap_Episode_74(to75)_20210828_rev3.mp3",
+        "@url": "https://airsap.net/podlove/file/250/s/feed/c/podcast/AirSap_Episode_74%28to75%29_20210828_rev3.mp3",
         "@length": 26602694,
         "@type": "audio/mpeg",
         "#text": null
@@ -1072,7 +1100,7 @@
         "#text": null
       },
       "enclosure": {
-        "@url": "https://airsap.net/podlove/file/166/s/feed/c/podcast/AirSap_Episode_50_20200815 _rev1.mp3",
+        "@url": "https://airsap.net/podlove/file/166/s/feed/c/podcast/AirSap_Episode_50_20200815+_rev1.mp3",
         "@length": 27717228,
         "@type": "audio/mpeg",
         "#text": null
@@ -2369,7 +2397,7 @@
       "itunes:title": "赤いiPhone登場！新型iPhone & iPadの噂、iOSのUI談義など",
       "itunes:episode": 4,
       "itunes:episodeType": "full",
-      "itunes:summary": "(PRODUCT)RED&#x2122; - iPhone 7 Special Edition - Apple\r\nhttp://www.apple.com/jp/product-red/"
+      "itunes:summary": "(PRODUCT)RED™ - iPhone 7 Special Edition - Apple\r\nhttp://www.apple.com/jp/product-red/"
     },
     {
       "title": "#3 世界初のRealm書籍の著者と語る、Apple Payと札幌の交通系IC事情",
