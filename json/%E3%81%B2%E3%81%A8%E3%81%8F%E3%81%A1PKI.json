@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "72: google.comの証明書が発行されてるのがCTで見つかった話",
+      "description": "<p>ブラジルの政府系CAである「ICP-Brasil」の中間CAであるCertisign (<a href=\" https://certisign.com.br/\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> https://certisign.com.br/</a> )がgoogle.comをSubjectに持つTLS Webserver Authentication証明書を発行していたことがCTのモニタリングによって見つかった件と、ep70で話したLet's EncryptがOCSPやめる件についてサポート終了の正確なタイムラインが出た件について話しました。雑談ではひとけーのノートパソコンが死にそうで音がガビガビな話、2000年の年越しどうだった、2000円札見たことない、よいお年を！などの話をしました。</p>\n<p><br /></p>\n<p>• Google.com の証明書がICP-Brasil（Autoridade Certificadora Raiz Brasileira v10）によって不正に発行された件</p>\n<p>\t○ 1<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1934361\" target=\"_blank\" rel=\"ugc noopener noreferrer\">934361 - ICP-Brasil: Mis-issued certificate</a></p>\n<p>\t○<a href=\"https://crt.sh/?sha256=421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> crt.sh | 421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037</a></p>\n<p>• ep70 で話したLet's EncryptがOCSPやめるってよのその後の話：<a href=\"https://letsencrypt.org/2024/12/05/ending-ocsp/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Ending OCSP Support in 2025 - Let's Encrypt</a></p>\n<p><br /></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/72-google-comCT-e2scidu",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "85ed4048-951a-4d66-b870-b48a9ee89eb7"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Mon, 16 Dec 2024 05:15:05 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/95881086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F6ccaa6fb-5336-6794-048d-2fa461561c7f.mp3",
+        "@length": 43576656,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ブラジルの政府系CAである「ICP-Brasil」の中間CAであるCertisign (<a href=\" https://certisign.com.br/\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> https://certisign.com.br/</a> )がgoogle.comをSubjectに持つTLS Webserver Authentication証明書を発行していたことがCTのモニタリングによって見つかった件と、ep70で話したLet's EncryptがOCSPやめる件についてサポート終了の正確なタイムラインが出た件について話しました。雑談ではひとけーのノートパソコンが死にそうで音がガビガビな話、2000年の年越しどうだった、2000円札見たことない、よいお年を！などの話をしました。</p>\n<p><br /></p>\n<p>• Google.com の証明書がICP-Brasil（Autoridade Certificadora Raiz Brasileira v10）によって不正に発行された件</p>\n<p>\t○ 1<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1934361\" target=\"_blank\" rel=\"ugc noopener noreferrer\">934361 - ICP-Brasil: Mis-issued certificate</a></p>\n<p>\t○<a href=\"https://crt.sh/?sha256=421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> crt.sh | 421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037</a></p>\n<p>• ep70 で話したLet's EncryptがOCSPやめるってよのその後の話：<a href=\"https://letsencrypt.org/2024/12/05/ending-ocsp/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Ending OCSP Support in 2025 - Let's Encrypt</a></p>\n<p><br /></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:08:32",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 72,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "71: FirefoxのCT必須化の話、.mobiで所持していないドメイン名の証明書を取得できそうだった話",
       "description": "<p>・お知らせ</p>\n<p>Google PodcastがYouTube Musicに変わったとき、サブスクライブ設定が引き継がれなかったようです。</p>\n<p>YouTube Musicをお使いの方で、引き続き番組をお聞きいただける場合は、お手数ですがお手元で個別にRSSのURLを登録してサブスクライブをおねがいいたします。</p>\n<p>ひとくちPKI Podcast配信RSSのURLはこちらです： <a href=\"https://anchor.fm/s/42b89b8c/podcast/rss\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://anchor.fm/s/42b89b8c/podcast/rss</a> </p>\n<p><br /></p>\n<p>本編ではFirefoxでCTのチェックが必須になった話、.mobiのTLDにおいて、古いWhoisサーバーのドメインテイクオーバーによって.mobiのWhois応答を模倣する(CAに応答が真正であると思わせる)ことができ、結果として所持していない任意の.mobiのドメインの証明書が発行できそうだったことがオフェンシブセキュリティ企業のwatchTowrによって明らかにされたインシデントについて話しました。雑談ではゴルフの話、高齢になる前に運動習慣を身につけたい話をしました。</p>\n<p><br /></p>\n<p>・FirefoxのCT必須化</p>\n<p><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1921525\" target=\"_blank\" rel=\"ugc noopener noreferrer\">1921525 - enforce certificate transparency in nightly</a></p>\n<p>・.mobi任意証明書発行未遂(PoCですんだ)インシデント</p>\n<p><a href=\"https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/</a></p>\n<p>・ゆきさんのブログでも紹介されております</p>\n<p><a href=\"https://asnokaze.hatenablog.com/entry/2024/09/27/003452\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://asnokaze.hatenablog.com/entry/2024/09/27/003452</a></p>\n<p>・2015年のlive.fiの話(なんとブログ著者はep68,69で話したEntrustインシデントのメールスレッドで対応していた方)</p>\n<p><a href=\"https://www.entrust.com/blog/2015/03/what-happened-with-livefi\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.entrust.com/blog/2015/03/what-happened-with-livefi</a></p>\n<p>・CABFでWhoisでのドメイン所有確認のサンセットが賛成多数で採決されました(Ballot SC-80v3: Sunset the use of WHOIS to identify Domain Contacts and relying DCV Methods)</p>\n<p><a href=\"https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cabforum.org/2024/11/14/ballot-sc-80v3-sunset-the-use-of-whois-to-identify-domain-contacts-and-relying-dcv-methods/</a></p>\n<p><br /></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/71-FirefoxCT-mobi-e2rtd7v",
