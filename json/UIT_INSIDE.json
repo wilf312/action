@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.167『JSConf JP 2024 セッションいろいろ振り返り』",
+      "link": "https://uit-inside.linecorp.com/episode/167",
+      "pubDate": "Wed, 18 Dec 2024 09:00:00 GMT",
+      "description": "11月23日に開催されたJSConf JP 2024について、印象に残ったセッションなどについて@spring-raining、@halken、@ayaka.kitanakaが話しました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/167"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-167.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "spring-raining(spring_raining),halken(halken),Ayaka Kitanaka(ayaka.kitanaka)",
+      "itunes:subtitle": "ep.167『JSConf JP 2024 セッションいろいろ振り返り』",
+      "itunes:duration": "17:39",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode167.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.166『運営メンバーに聞くVue Fes Japan 2024の舞台裏』",
       "link": "https://uit-inside.linecorp.com/episode/166",
       "pubDate": "Tue, 26 Nov 2024 10:00:00 GMT",
