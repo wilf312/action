@@ -35,6 +35,31 @@
   },
   "item": [
     {
+      "title": "124. AI時代のGPUクラスタ、DCネットワーク w/ markunet, aztecher_",
+      "description": "<p>LINEヤフーのKobayashiさん、Michishitaをゲストに、GPUネットワークやGPUクラスタの仮想化の複雑さなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://speakerdeck.com/lycorptech_jp/20241202\" rel=\"noopener noreferrer\" target=\"_blank\">EthernetベースのGPUクラスタ導入による学びと展望</a></li><li>GPUクラスタとその必要性</li><li>GPUクラスタの運用上の課題</li><li>自社でGPUを運用するメリットとデメリット</li><li>GPUを自前で運用する際の課題と対策</li><li>GPUネットワークと従来のネットワークとの違い</li><li>CLOS</li><li>RDMA（Remote Direct Memory Access）とその特性</li><li>TCP/IPとの比較、およびRDMAの利点</li><li>GPU間通信のための専用物理GPUネットワーク</li><li>GPUネットワークにおける輻輳制御とその課題</li><li>ロスレスイーサネット</li><li>RoCE v2</li><li>仮想化による複雑性とネットワーク構成への影響</li><li>仮想化環境でのGPUとNICの扱い</li><li><a href=\"https://www.janog.gr.jp/meeting/janog55/ai-infra/\" rel=\"noopener noreferrer\" target=\"_blank\">JANOG55</a></li><li><a href=\"https://techblog.lycorp.co.jp/ja\" rel=\"noopener noreferrer\" target=\"_blank\">LINEヤフー Tech Blog</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "124. AI時代のGPUクラスタ、DCネットワーク w/ markunet, aztecher_",
+      "itunes:episodeType": "full",
+      "itunes:summary": "LINEヤフーのKobayashiさん、Michishitaをゲストに、GPUネットワークやGPUクラスタの仮想化の複雑さなどについて語っていただいたエピソードです。\n\n話したネタEthernetベースのGPUクラスタ導入による学びと展望GPUクラスタとその必要性GPUクラスタの運用上の課題自社でGPUを運用するメリットとデメリットGPUを自前で運用する際の課題と対策GPUネットワークと従来のネットワークとの違いCLOSRDMA（Remote Direct Memory Access）とその特性TCP/IPとの比較、およびRDMAの利点GPU間通信のための専用物理GPUネットワークGPUネットワークにおける輻輳制御とその課題ロスレスイーサネットRoCE v2仮想化による複雑性とネットワーク構成への影響仮想化環境でのGPUとNICの扱いJANOG55LINEヤフー Tech Blog\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>LINEヤフーのKobayashiさん、Michishitaをゲストに、GPUネットワークやGPUクラスタの仮想化の複雑さなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://speakerdeck.com/lycorptech_jp/20241202\" rel=\"noopener noreferrer\" target=\"_blank\">EthernetベースのGPUクラスタ導入による学びと展望</a></li><li>GPUクラスタとその必要性</li><li>GPUクラスタの運用上の課題</li><li>自社でGPUを運用するメリットとデメリット</li><li>GPUを自前で運用する際の課題と対策</li><li>GPUネットワークと従来のネットワークとの違い</li><li>CLOS</li><li>RDMA（Remote Direct Memory Access）とその特性</li><li>TCP/IPとの比較、およびRDMAの利点</li><li>GPU間通信のための専用物理GPUネットワーク</li><li>GPUネットワークにおける輻輳制御とその課題</li><li>ロスレスイーサネット</li><li>RoCE v2</li><li>仮想化による複雑性とネットワーク構成への影響</li><li>仮想化環境でのGPUとNICの扱い</li><li><a href=\"https://www.janog.gr.jp/meeting/janog55/ai-infra/\" rel=\"noopener noreferrer\" target=\"_blank\">JANOG55</a></li><li><a href=\"https://techblog.lycorp.co.jp/ja\" rel=\"noopener noreferrer\" target=\"_blank\">LINEヤフー Tech Blog</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/TtlHLUl9ngy0mQgaM023L1pw6v7UgH4-v4kLeqOibJY"
+      },
+      "pubDate": "Fri, 27 Dec 2024 01:57:34 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:37:14",
+      "enclosure": {
+        "@url": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e5f8a270-c578-4f0b-ba39-fb6ff36a9b84.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 35748466,
+        "#text": null
+      }
+    },
+    {
       "title": "123. トヨタコネクティッド社での研究開発（技術と組織） w/ danno",
       "description": "<p>トヨタコネクティッド社の檀野さんをゲストに、注力している技術や音声操作の難しさ、研究開発組織のプロセスやマネジメントなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>トヨタコネクティッド社の業務概要</li><li>最近の注力分野</li><li>生成AIと音声操作</li><li>音声操作する中での技術的課題</li><li>R&D中心の開発組織・マネジメント</li><li>R&D組織の目標設定と評価、そのコツ</li><li>先が見通せない取り組みに対する意思決定はどのように実施しているか？</li><li>チームのメンバー構成・人数</li><li>社内の技術者のキャリアパス</li><li>技術的なチャレンジ：生成AIを使った実装</li><li><a href=\"https://toyotaconnected.co.jp/advanced_planning/\" rel=\"noopener noreferrer\" target=\"_blank\">トヨタコネクティッド株式会社 先行企画部</a></li></ul><p><br></p><p><strong>エピソードスポンサー</strong></p><ul><li>トヨタコネクティッド株式会社</li></ul><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "123. トヨタコネクティッド社での研究開発（技術と組織） w/ danno",
