@@ -42,6 +42,32 @@
   },
   "item": [
     {
+      "title": "142. AWS EBS (Elastic Block Store)の歴史",
+      "description": "<p>AWS CTOのブログ記事を元にして、EBS、Elastic Block Store サービスの発展の歴史について話しました。</p>\n<ul>\n <li>題名: <a href=\"https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html\" target=\"_blank\" rel=\"ugc noopener noreferrer\"><strong>Continuous reinvention: A brief history of block storage at AWS</strong></a></li>\n <li>https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html</li>\n  <li>著者: <a href=\"https://www.linkedin.com/in/msolson/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Marc Olson</a></li>\n</ul>\n<p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/142--AWS-EBS-Elastic-Block-Store-e2t29kc",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "43ff8ae1-76bb-47d5-844a-38db7b00d7ba"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 12 Jan 2025 21:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/96592972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-4%2Fc6deab7a-d1f8-ac40-b08e-40cc6ba74510.mp3",
+        "@length": 52833779,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>AWS CTOのブログ記事を元にして、EBS、Elastic Block Store サービスの発展の歴史について話しました。</p>\n<ul>\n <li>題名: <a href=\"https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html\" target=\"_blank\" rel=\"ugc noopener noreferrer\"><strong>Continuous reinvention: A brief history of block storage at AWS</strong></a></li>\n <li>https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html</li>\n  <li>著者: <a href=\"https://www.linkedin.com/in/msolson/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Marc Olson</a></li>\n</ul>\n<p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p>\n<p>Your co-hosts:</p>\n<ul>\n  <li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://twitter.com/tomoaki_imai</a></li>\n  <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:36:41",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episode": 142,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "141. お金で幸せになれるか論争に結論はでている",
       "description": "<p>“お金で幸せは買えるか?”という論争について、実は科学的に決着がついていたという話をしました。</p>\n<ul>\n <li>2010年のDaniel氏の論文　<a href=\"https://www.princeton.edu/~deaton/downloads/deaton_kahneman_high_income_improves_evaluation_August2010.pdf\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.princeton.edu/~deaton/downloads/deaton_kahneman_high_income_improves_evaluation_August2010.pdf</a></li>\n <li>2021年のMathew氏の論文 <a href=\"https://www.pnas.org/doi/10.1073/pnas.2016976118\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.pnas.org/doi/10.1073/pnas.2016976118</a></li>\n <li>相互分析した論文 <a href=\"https://www.pnas.org/doi/10.1073/pnas.2208661120\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.pnas.org/doi/10.1073/pnas.2208661120</a></li>\n <li>Can money buy happiness(planet money) <a href=\"https://www.npr.org/2024/09/18/1200121013/money-happiness-kahneman-killingsworth\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.npr.org/2024/09/18/1200121013/money-happiness-kahneman-killingsworth</a></li>\n</ul>\n<p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p>\n<p>Your co-hosts:</p>\n<ul>\n <li>Tomoaki Imai, Noxx CTO <a href=\"https://twitter.com/tomoaki_imai\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/tomoaki_imai</a></li>\n <li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" rel=\"ugc noopener noreferrer\" target=\"_blank\">⁠https://twitter.com/ryo1kato</a></li>\n</ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/141-e2t2km6",
