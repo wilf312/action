@@ -6,8 +6,8 @@
     "#text": null
   },
   "title": "バイリンガルニュース (Bilingual News)",
-  "pubDate": "Thu, 23 Jan 2025 02:26:15 +0000",
-  "lastBuildDate": "Wed, 29 Jan 2025 18:54:57 +0000",
+  "pubDate": "Wed, 29 Jan 2025 18:54:11 +0000",
+  "lastBuildDate": "Thu, 30 Jan 2025 05:27:19 +0000",
   "generator": "Libsyn WebEngine 2.0",
   "link": "https://bilingualnews.jp",
   "language": "ja",
@@ -21,7 +21,7 @@
     "link": "https://bilingualnews.jp"
   },
   "itunes:author": "Michael & Mami",
-  "itunes:keywords": "Japan,Podcast,Script,Transcript,app,bilingualnews,english,free,japanese,news,toeic",
+  "itunes:keywords": "Japan,Script,Transcript,app,bilingualnews,english,free,japanese,news,podcast,toeic",
   "itunes:category": [
     {
       "@text": "Education",
@@ -54,6 +54,39 @@
     "#text": "no"
   },
   "item": [
+    {
+      "title": "646. 特別編 Higepon 01.30.25",
+      "pubDate": "Wed, 29 Jan 2025 18:54:11 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "57256d9f-085d-442c-bef5-bc4e519cef24"
+      },
+      "link": "https://bilingualnews.libsyn.com/646-higepon-013025",
+      "itunes:image": {
+        "@href": "https://static.libsyn.com/p/assets/e/5/d/4/e5d469c311fcad3fd959afa2a1bf1c87/higepon_thumbnail.jpg",
+        "#text": null
+      },
+      "description": "<p>今回のゲストは、<span class=\"il\">Higepon</span>さんです！<br /> <br /> ＠Rebuildfmでおなじみの<span class= \"il\">Higepon</span>さんが初登場。<wbr />2ちゃんねる期の伝説のOS開発秘話、<wbr />AIと共存する人類の未来、<wbr />40代を超えてこそのダンスレッスンなど、<wbr />様々なお話を伺いました。聴いてみてね！</p>",
+      "content:encoded": "<p>今回のゲストは、Higeponさんです！  ＠RebuildfmでおなじみのHigeponさんが初登場。2ちゃんねる期の伝説のOS開発秘話、AIと共存する人類の未来、40代を超えてこそのダンスレッスンなど、様々なお話を伺いました。聴いてみてね！</p>",
+      "enclosure": {
+        "@length": 204192415,
+        "@type": "audio/mpeg",
+        "@url": "https://traffic.libsyn.com/secure/bilingualnews/013025_higepon.mp3?dest-id=154797",
+        "#text": null
+      },
+      "itunes:duration": "02:21:48",
+      "itunes:explicit": false,
+      "itunes:keywords": null,
+      "itunes:subtitle": "ゲスト: Higeponさん",
+      "itunes:episodeType": "full",
+      "#comment": [
+        "START ITEM EXTRA TAGS",
+        "CLOSE ITEM EXTRA TAGS"
+      ],
+      "itunes:totalTopic": 6,
+      "itunes:topicDuration": "00:02:38 , 00:15:48 , 00:17:41 , 00:21:24 , 00:30:16 , 00:22:53",
+      "itunes:topicNames": "OS開発の舞台裏 , Midlife Realization , AI画像の真贋論 , 指標の罠 , 自動化への抵抗 , 決定論と自由意志"
+    },
     {
       "title": "645. バイリンガルニュース 01.23.25",
       "pubDate": "Thu, 23 Jan 2025 02:26:15 +0000",
