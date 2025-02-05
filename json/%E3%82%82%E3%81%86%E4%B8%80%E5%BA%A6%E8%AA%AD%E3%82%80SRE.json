@@ -42,31 +42,6 @@
   },
   "item": [
     {
-      "title": "もう一度読むSRE #101",
-      "description": "<p>25.3 定期的なパイプラインパターンでの課題 から 25.5 分散環境における定期パイプラインの欠点 まで</p>",
-      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-101-e2ueh1k",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "74ceaa88-eb2a-423c-bdbd-99b131366f69"
-      },
-      "dc:creator": "Topotal",
-      "pubDate": "Wed, 05 Feb 2025 02:16:25 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/6233432c/podcast/play/98042356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-5%2F684eea37-7c47-85e4-88a0-29a6a3f91a46.m4a",
-        "@length": 21755273,
-        "@type": "audio/x-m4a",
-        "#text": null
-      },
-      "itunes:summary": "<p>25.3 定期的なパイプラインパターンでの課題 から 25.5 分散環境における定期パイプラインの欠点 まで</p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:22:25",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
-        "#text": null
-      },
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "もう一度読むSRE #100",
       "description": "<p><strong>24.4.5</strong> 大規模な<strong>cron</strong>の実行 から <strong>25.2</strong> シンプルなパイプラインパターンでのビッグデータの</p>\n<p>初期の効果 まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-100-e2tqak2",
