@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.168『総勢342人の大規模フロントエンドサーベイ！State of LY 2024から見えるLINEヤフーの現場の変遷』",
+      "link": "https://uit-inside.linecorp.com/episode/168",
+      "pubDate": "Mon, 10 Feb 2025 00:00:00 GMT",
+      "description": "@potato4d が @spring_raining とともに、大規模社内フロントエンドサーベイについて語りました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/168"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/episode168.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "HANATANI Takuma(@potato4d)(potato4d),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.168『総勢342人の大規模フロントエンドサーベイ！State of LY 2024から見えるLINEヤフーの現場の変遷』",
+      "itunes:duration": "21:22",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode168.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.167『JSConf JP 2024 セッションいろいろ振り返り』",
       "link": "https://uit-inside.linecorp.com/episode/167",
       "pubDate": "Wed, 18 Dec 2024 09:00:00 GMT",
