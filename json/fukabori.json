@@ -35,6 +35,31 @@
   },
   "item": [
     {
+      "title": "126. パスキーのすべて w/ agektmr",
+      "description": "<p>えーじさんをゲストに、書籍『パスキーのすべて』、パスワード認証や2要素認証の課題、WebAuthn、パスキーなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>書籍：<a href=\"https://amzn.to/4jPVLnQ\" rel=\"noopener noreferrer\" target=\"_blank\">パスキーのすべて ── 導入・UX設計・実装</a></li><li>書籍を書いたきっかけは？</li><li>書籍の概要・ターゲット</li><li>パスワード認証の問題点には何があったのか？</li><li>2要素認証やマジックリンクの問題点は？</li><li>WebAuthn とは？</li><li>パスキーの動作概要</li><li>パスキーの課題</li><li>これからパスキー認証を実装する開発者へのアドバイス</li><li><a href=\"https://nulab.connpass.com/event/341051/\" rel=\"noopener noreferrer\" target=\"_blank\">パスキー開発者の集い (2025/2/13)</a></li><li><a href=\"https://authlete.connpass.com/event/343583/\" rel=\"noopener noreferrer\" target=\"_blank\">OAuth & OpenID Connect 勉強会 ー パスキーの組み込み方 (2025/2/26)</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "126. パスキーのすべて w/ agektmr",
+      "itunes:episodeType": "full",
+      "itunes:summary": "えーじさんをゲストに、書籍『パスキーのすべて』、パスワード認証や2要素認証の課題、WebAuthn、パスキーなどについて語っていただいたエピソードです。\n\n話したネタ書籍：パスキーのすべて ── 導入・UX設計・実装書籍を書いたきっかけは？書籍の概要・ターゲットパスワード認証の問題点には何があったのか？2要素認証やマジックリンクの問題点は？WebAuthn とは？パスキーの動作概要パスキーの課題これからパスキー認証を実装する開発者へのアドバイスパスキー開発者の集い (2025/2/13)OAuth &amp; OpenID Connect 勉強会 ー パスキーの組み込み方 (2025/2/26)\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>えーじさんをゲストに、書籍『パスキーのすべて』、パスワード認証や2要素認証の課題、WebAuthn、パスキーなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>書籍：<a href=\"https://amzn.to/4jPVLnQ\" rel=\"noopener noreferrer\" target=\"_blank\">パスキーのすべて ── 導入・UX設計・実装</a></li><li>書籍を書いたきっかけは？</li><li>書籍の概要・ターゲット</li><li>パスワード認証の問題点には何があったのか？</li><li>2要素認証やマジックリンクの問題点は？</li><li>WebAuthn とは？</li><li>パスキーの動作概要</li><li>パスキーの課題</li><li>これからパスキー認証を実装する開発者へのアドバイス</li><li><a href=\"https://nulab.connpass.com/event/341051/\" rel=\"noopener noreferrer\" target=\"_blank\">パスキー開発者の集い (2025/2/13)</a></li><li><a href=\"https://authlete.connpass.com/event/343583/\" rel=\"noopener noreferrer\" target=\"_blank\">OAuth & OpenID Connect 勉強会 ー パスキーの組み込み方 (2025/2/26)</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/_N5j3SAGh-uCVSGl-Q8JCbhDkgYVECWR529R0HJPynU"
+      },
+      "pubDate": "Tue, 11 Feb 2025 00:08:58 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:52:58",
+      "enclosure": {
+        "@url": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/cd589b3f-215a-4f6e-a070-f1bf925aa128.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 50848496,
+        "#text": null
+      }
+    },
+    {
       "title": "125. オトバンク社のエンジニア組織の変遷 w/ toru_kita",
       "description": "<p>オトバンクVPoEの北川さんをゲストに、オトバンクの開発組織の変遷、組織課題に対する試行錯誤、シニアレベルの人材採用、酒屋などについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>オトバンクの事業概要</li><li>開発組織の歴史、VPoEとして持たれていたエンジニア組織の課題感</li><li>スクラム導入と試行錯誤</li><li>技術的負債返済と新機能開発のバランスを取る方法</li><li>スキルマップの作成</li><li>キーパーソンの離脱後の立て直し</li><li>シニアレベルの人材採用でうまくいった方法</li><li>現在の組織状態と今後の課題</li><li><a href=\"https://www.instagram.com/kitagawatoru\" rel=\"noopener noreferrer\" target=\"_blank\">酒屋</a>を始めたきっかけ</li><li><a href=\"https://www.otobank.co.jp/recruit\" rel=\"noopener noreferrer\" target=\"_blank\">オトバンク採用情報</a></li></ul><p><br></p><p><strong>エピソードスポンサー</strong></p><ul><li><a href=\"https://www.otobank.co.jp/\" rel=\"noopener noreferrer\" target=\"_blank\">株式会社オトバンク</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "125. オトバンク社のエンジニア組織の変遷 w/ toru_kita",
