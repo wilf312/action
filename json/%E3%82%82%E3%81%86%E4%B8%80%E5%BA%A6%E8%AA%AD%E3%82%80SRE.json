@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #101-番外編",
+      "description": "<p>もう一度読むSRE #101で話した雑談回です。</p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-101--e2uom1v",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a34a6bd3-c171-497e-a2d2-3da0c1ca868d"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 12 Feb 2025 03:32:18 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/98375167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-12%2Fb7d4aa76-e168-47af-2ecf-590a18778972.m4a",
+        "@length": 19279086,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>もう一度読むSRE #101で話した雑談回です。</p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:19:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #101",
       "description": "<p>25.3 定期的なパイプラインパターンでの課題 から 25.5 分散環境における定期パイプラインの欠点 まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-101-e2ueh1k",
