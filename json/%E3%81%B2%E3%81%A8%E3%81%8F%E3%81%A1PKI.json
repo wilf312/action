@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "73: LEの６日のShort-lived証明書の話、Entrustがパブリック証明書事業をSectigoへ売却の話",
+      "description": "<p>Let's Encryptが有効期間６日間で失効情報を提供しない証明書を提供することがアナウンスされた件と、Entrustがパブリック証明書事業をSectigoへ売却する件について話しました。雑談では、ひとけー転職した話、サボテンのあみぐるみを編みたい話をしました。 </p><ul><li><a href=\"https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Announcing Six Day and IP Address Certificate Options in 2025 - Let's Encrypt</a></li><li><a href=\"https://www.entrust.com/company/newsroom/entrust-sells-public-certificate-business-to-sectigo\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Entrust Sells Public Certificate Business to Sectigo, Sharpening Focus on Quantum-Ready Cryptographic Data Security Solutions | Entrust</a></li></ul><p><br /></p><p>ひとくちPKIもご紹介いただきありがとうございます！</p><ul><li><a href=\"https://x.com/katokonigiry/status/1884216821500502321\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Xユーザーのkatoko(かとこ)@ネスペ勉強中さん: 「僭越ながら好きなPodcastをまとめたブログちょっと伸びた。紹介させていただいています。好きです。 #セキュリティのアレ #ゆるコンピュータ科学ラジオ #ひまじんプログラマーの週末エンジニアリングレッスン #ひとくちPKI #momitfm #お風呂で情シスラジオ #spno1 #ImageCast https://t.co/brO3bwUExM」 / X</a></li></ul><p><br /></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/73-LEShort-livedEntrustSectigo-e2uvsb1",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "3596d2d8-d3f0-41b2-935b-02efbcd3fa8b"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Mon, 17 Feb 2025 10:26:34 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/98610977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-17%2Feb4444f1-7623-f780-8aa5-19ae7b2b090b.mp3",
+        "@length": 26629080,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Let's Encryptが有効期間６日間で失効情報を提供しない証明書を提供することがアナウンスされた件と、Entrustがパブリック証明書事業をSectigoへ売却する件について話しました。雑談では、ひとけー転職した話、サボテンのあみぐるみを編みたい話をしました。 </p><ul><li><a href=\"https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Announcing Six Day and IP Address Certificate Options in 2025 - Let's Encrypt</a></li><li><a href=\"https://www.entrust.com/company/newsroom/entrust-sells-public-certificate-business-to-sectigo\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Entrust Sells Public Certificate Business to Sectigo, Sharpening Focus on Quantum-Ready Cryptographic Data Security Solutions | Entrust</a></li></ul><p><br /></p><p>ひとくちPKIもご紹介いただきありがとうございます！</p><ul><li><a href=\"https://x.com/katokonigiry/status/1884216821500502321\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Xユーザーのkatoko(かとこ)@ネスペ勉強中さん: 「僭越ながら好きなPodcastをまとめたブログちょっと伸びた。紹介させていただいています。好きです。 #セキュリティのアレ #ゆるコンピュータ科学ラジオ #ひまじんプログラマーの週末エンジニアリングレッスン #ひとくちPKI #momitfm #お風呂で情シスラジオ #spno1 #ImageCast https://t.co/brO3bwUExM」 / X</a></li></ul><p><br /></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:50:52",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 72,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "72: google.comの証明書が発行されてるのがCTで見つかった話",
       "description": "<p>ブラジルの政府系CAである「ICP-Brasil」の中間CAであるCertisign (<a href=\" https://certisign.com.br/\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> https://certisign.com.br/</a> )がgoogle.comをSubjectに持つTLS Webserver Authentication証明書を発行していたことがCTのモニタリングによって見つかった件と、ep70で話したLet's EncryptがOCSPやめる件についてサポート終了の正確なタイムラインが出た件について話しました。雑談ではひとけーのノートパソコンが死にそうで音がガビガビな話、2000年の年越しどうだった、2000円札見たことない、よいお年を！などの話をしました。</p>\n<p><br /></p>\n<p>• Google.com の証明書がICP-Brasil（Autoridade Certificadora Raiz Brasileira v10）によって不正に発行された件</p>\n<p>\t○ 1<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1934361\" target=\"_blank\" rel=\"ugc noopener noreferrer\">934361 - ICP-Brasil: Mis-issued certificate</a></p>\n<p>\t○<a href=\"https://crt.sh/?sha256=421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037\" target=\"_blank\" rel=\"ugc noopener noreferrer\"> crt.sh | 421329f0dc2f683d6e96c1b5b310974d0997ad984ef69120f55372b4f48e1037</a></p>\n<p>• ep70 で話したLet's EncryptがOCSPやめるってよのその後の話：<a href=\"https://letsencrypt.org/2024/12/05/ending-ocsp/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Ending OCSP Support in 2025 - Let's Encrypt</a></p>\n<p><br /></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/72-google-comCT-e2scidu",
