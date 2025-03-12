@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #103",
+      "description": "<p>26章 データの完全性から26.1.2 バックアップとアーカイブまで</p><p><br /></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-103-e301tl2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "015a0040-4f0a-4323-9f8c-a2b88d122563"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 12 Mar 2025 02:18:44 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/99726434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F419f80cb-15d9-ad08-85d8-7b6fd12a32bb.m4a",
+        "@length": 27769900,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>26章 データの完全性から26.1.2 バックアップとアーカイブまで</p><p><br /></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:28:37",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #102",
       "description": "<p>25.5.1 定期パイプラインにおけるモニタリングの問題 から 25.6.1 Model-View-ControllerパターンとしてのWorkflow まで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-102-e2v2vj1",
