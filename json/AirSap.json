@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Sun, 09 Feb 2025 12:45:59 +0000",
+  "lastBuildDate": "Thu, 13 Mar 2025 21:14:43 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -50,6 +50,33 @@
   "itunes:block": "no",
   "itunes:explicit": false,
   "item": [
+    {
+      "title": "#90 SE4の夢とコーヒーミル",
+      "link": "https://airsap.net/2025/03/14/16e/",
+      "pubDate": "Thu, 13 Mar 2025 21:14:43 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "77b994c3-f156-43f0-bd8f-a498fed8846a"
+      },
+      "description": "#90 SE4の夢とコーヒーミル",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2025/03/14/16e/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/280/s/feed/c/podcast/AirSap_90_20250225.mp3",
+        "@length": 12540624,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:14:55",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "SE4の夢とコーヒーミル",
+      "itunes:episode": 90,
+      "itunes:episodeType": "full"
+    },
     {
       "title": "#89 DeepSeekと中国製品の躍進",
       "link": "https://airsap.net/2025/02/09/89-deepseek/",
