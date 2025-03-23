@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Thu, 13 Mar 2025 21:14:43 +0000",
+  "lastBuildDate": "Sun, 23 Mar 2025 12:21:11 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -50,6 +50,33 @@
   "itunes:block": "no",
   "itunes:explicit": false,
   "item": [
+    {
+      "title": "#91 生きた化石、DVD",
+      "link": "https://airsap.net/2025/03/23/dvd/",
+      "pubDate": "Sun, 23 Mar 2025 12:21:11 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "08d10577-64df-4df1-9503-436b0b2ef2e9"
+      },
+      "description": "#91 生きた化石、DVD",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2025/03/23/dvd/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/281/s/feed/c/podcast/AirSap_91_20250311.mp3",
+        "@length": 14664562,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:20:22",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "生きた化石、DVD",
+      "itunes:episode": 91,
+      "itunes:episodeType": "full"
+    },
     {
       "title": "#90 SE4の夢とコーヒーミル",
       "link": "https://airsap.net/2025/03/14/16e/",
