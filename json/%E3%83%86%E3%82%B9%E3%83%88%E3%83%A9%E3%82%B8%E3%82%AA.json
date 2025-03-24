@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 09 Mar 2025 23:00:00 +0000",
+  "lastBuildDate": "Sun, 23 Mar 2025 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,35 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第266回 テストラジオ テスト酒場の話テスト自動化？自動テスト？の話",
+      "link": "https://testradio.fm/testradio-no/1630/",
+      "pubDate": "Sun, 23 Mar 2025 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1630"
+      },
+      "comments": "https://testradio.fm/testradio-no/1630/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1630/feed/",
+      "slash:comments": 0,
+      "category": "テストラジオ",
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2025/03/N266TestRadio2.mp3",
+        "@length": 44916786,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/LKXLPtFps3s",
+      "itunes:summary": "https://youtu.be/LKXLPtFps3s",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "31:11",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1630
+      }
+    },
     {
       "title": "第265回 テストラジオ 新しい挑戦(料理)話と不具合？なにが起こったな話",
       "link": "https://testradio.fm/testradio-no/1627/",
@@ -355,39 +384,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1569
-      }
-    },
-    {
-      "title": "第255回 テストラジオ ノーコードツールのテストの話",
-      "link": "https://testradio.fm/testradio-no/1564/",
-      "pubDate": "Sun, 11 Aug 2024 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1564"
-      },
-      "comments": "https://testradio.fm/testradio-no/1564/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1564/feed/",
-      "slash:comments": 0,
-      "category": [
-        "テストラジオ",
-        "なそ回",
-        "よしたけ回"
-      ],
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2024/08/N255TestRadio.mp3",
-        "@length": 45103883,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://youtu.be/6-k_dRKExqk",
-      "itunes:summary": "https://youtu.be/6-k_dRKExqk",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "31:19",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1564
       }
     }
   ]
