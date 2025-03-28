@@ -36,6 +36,29 @@
   "itunes:explicit": "no",
   "item": [
     {
+      "title": "ep.170『JavaScriptエコシステムをより良くするe18e (Ecosystem Performance) の取り組み』",
+      "link": "https://uit-inside.linecorp.com/episode/170",
+      "pubDate": "Fri, 28 Mar 2025 00:00:00 GMT",
+      "description": "@spring_rainingが@alangdmに、JavaScriptエコシステム改善のイニシアチブe18e (Ecosystem Performance) の取り組みについて聞いてみました。",
+      "guid": {
+        "@isPermaLink": true,
+        "#text": "https://uit-inside.linecorp.com/episode/170"
+      },
+      "enclosure": {
+        "@url": "https://vos.line-scdn.net/podcast/episodes/uit-inside-170.mp3",
+        "@type": "audio/mp3",
+        "#text": null
+      },
+      "itunes:author": "Davalos Alan(AlanGDavalos),spring-raining(spring_raining)",
+      "itunes:subtitle": "ep.170『JavaScriptエコシステムをより良くするe18e (Ecosystem Performance) の取り組み』",
+      "itunes:duration": "27:50",
+      "itunes:explicit": "no",
+      "media:thumbnail": {
+        "@url": "https://vos.line-scdn.net/podcast/opengraphs/episode170.png",
+        "#text": null
+      }
+    },
+    {
       "title": "ep.169『Trusted Types API が気になったので Vue.js に RFC を提出してみた』",
       "link": "https://uit-inside.linecorp.com/episode/169",
       "pubDate": "Fri, 07 Mar 2025 01:00:00 GMT",
