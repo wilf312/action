@@ -42,31 +42,6 @@
   },
   "item": [
     {
-      "title": "もう一度読むSRE #105",
-      "description": "<p>26.2.3 データの損失につながる障害の種類から26.2.4.2 リテンションまで</p>",
-      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-105-e310261",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "6a58da74-2853-48a4-a7a1-9435399c3af8"
-      },
-      "dc:creator": "Topotal",
-      "pubDate": "Wed, 02 Apr 2025 01:40:54 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/6233432c/podcast/play/100714113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-2%2F6ead8302-23de-73f5-5ba8-03c3314e3d75.m4a",
-        "@length": 28173876,
-        "@type": "audio/x-m4a",
-        "#text": null
-      },
-      "itunes:summary": "<p>26.2.3 データの損失につながる障害の種類から26.2.4.2 リテンションまで</p>",
-      "itunes:explicit": "No",
-      "itunes:duration": "00:29:02",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
-        "#text": null
-      },
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "もう一度読むSRE #104",
       "description": "<p>26.1.3 大局的な視点から見たクラウド環境の要件 から 26.2.2 バックアップシステムよりもリカバリのシステムを提供しよう</p><p><br></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-104-e30kvbu",
