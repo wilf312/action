@@ -42,6 +42,32 @@
   },
   "item": [
     {
+      "title": "154. この10年20年で廃れたアイディアやツールたち",
+      "description": "<p>UML, オブジェクト指向, XML, DRY原則, ハンガリアン記法など、この10年20年で廃れたアイディアやツールたちについて話しました。</p><ul><li>DRY原則の初出は1999年出版の「達人プログラマ」<a href=\"https://amzn.to/4l8WHnX\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://amzn.to/4l8WHnX</a> のようです。</li><li><a href=\"https://web.archive.org/web/20190723080235/http://local.joelonsoftware.com/wiki/%E9%96%93%E9%81%95%E3%81%A3%E3%81%9F%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B\" rel=\"ugc noopener noreferrer\" target=\"_blank\">間違ったコードは間違って見えるようにする</a> （ハンガリアン記法, きれいなパン工場）</li><li>富豪的プログラミング <a href=\"http://www.pitecan.com/fugo.html\" rel=\"ugc noopener noreferrer\" target=\"_blank\">http://www.pitecan.com/fugo.html</a> 原典は、1997年コンピュータサイエンス誌『bit』で増井俊之氏が書かれた記事のようです。</li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://twitter.com/tomoaki_imai\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/tomoaki_imai</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" rel=\"ugc noopener noreferrer\" target=\"_blank\">⁠https://twitter.com/ryo1kato</a></li></ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/154--1020-e30pvu8",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "a429b798-e8e9-468e-92b2-cc867b6542dc"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 06 Apr 2025 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/100515208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-28%2F690c7cd2-942e-698e-a69c-cdd4175ccffe.mp3",
+        "@length": 58562731,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>UML, オブジェクト指向, XML, DRY原則, ハンガリアン記法など、この10年20年で廃れたアイディアやツールたちについて話しました。</p><ul><li>DRY原則の初出は1999年出版の「達人プログラマ」<a href=\"https://amzn.to/4l8WHnX\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://amzn.to/4l8WHnX</a> のようです。</li><li><a href=\"https://web.archive.org/web/20190723080235/http://local.joelonsoftware.com/wiki/%E9%96%93%E9%81%95%E3%81%A3%E3%81%9F%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B\" rel=\"ugc noopener noreferrer\" target=\"_blank\">間違ったコードは間違って見えるようにする</a> （ハンガリアン記法, きれいなパン工場）</li><li>富豪的プログラミング <a href=\"http://www.pitecan.com/fugo.html\" rel=\"ugc noopener noreferrer\" target=\"_blank\">http://www.pitecan.com/fugo.html</a> 原典は、1997年コンピュータサイエンス誌『bit』で増井俊之氏が書かれた記事のようです。</li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://twitter.com/tomoaki_imai\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://twitter.com/tomoaki_imai</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" rel=\"ugc noopener noreferrer\" target=\"_blank\">⁠https://twitter.com/ryo1kato</a></li></ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:40:40",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episode": 154,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "153. Build in public ってどうなんだ",
       "description": "<p>プロダクト開発/マーケティング手法のひとつで多くの個人開発者や企業に受け入れられているBuild In Public について具体的な手法やおすすめされている理由、気をつけるべきことについて話しました。</p><ul><li>ProductHuntでの議論 <a href=\"https://www.producthunt.com/p/general/thinking-of-going-build-in-public-smart-move-or-just-extra-work\">https://www.producthunt.com/p/general/thinking-of-going-build-in-public-smart-move-or-just-extra-work</a></li><li>Redditの議論1 <a href=\"https://www.reddit.com/r/Entrepreneur/comments/1i3hdo6/is_it_better_to_build_an_audience_first_or_product/\">https://www.reddit.com/r/Entrepreneur/comments/1i3hdo6/is_it_better_to_build_an_audience_first_or_product/</a></li><li>Redditの議論2 <a href=\"https://www.reddit.com/r/startups/comments/19bvwy7/building_in_public_worth_it/\">https://www.reddit.com/r/startups/comments/19bvwy7/building_in_public_worth_it/</a></li><li>Audience First <a href=\"https://medium.com/@rrhoover/building-a-startup-build-an-audience-first-9fbba4f1fa15\">https://medium.com/@rrhoover/building-a-startup-build-an-audience-first-9fbba4f1fa15</a></li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\">⁠https://twitter.com/ryo1kato</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/153--Build-in-public-e30rkhd",
