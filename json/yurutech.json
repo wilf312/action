@@ -1,6 +1,6 @@
 {
   "title": "ゆるテク",
-  "description": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\n感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 https://forms.gle/ZaxjmXSYSNbihf9k9",
+  "description": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\nおたよりやコミュニティなど各種リンクはこちらから → https://bento.me/yuru-tech",
   "link": "https://podcasters.spotify.com/pod/show/yuru-tech",
   "image": {
     "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
@@ -25,7 +25,7 @@
   "copyright": "ゆるテク",
   "language": "ja",
   "itunes:author": "ゆるテク",
-  "itunes:summary": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\n感想は #yurutech をつけてツイートしてください。Googleフォームからも送れます。 https://forms.gle/ZaxjmXSYSNbihf9k9",
+  "itunes:summary": "ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。\nおたよりやコミュニティなど各種リンクはこちらから → https://bento.me/yuru-tech",
   "itunes:type": "episodic",
   "itunes:owner": {
     "itunes:name": "ゆるテク",
@@ -41,6 +41,31 @@
     "#text": null
   },
   "item": [
+    {
+      "title": "#52 AIエージェントを使った開発",
+      "description": "<p>AIエージェント、人間の成長について話しました。</p><p><br /></p><p>Links:</p><p>・Cline(Roo Code)を暴走列車にしたら4日間で数ヶ月分のコードが生成できた <a href=\"https://zenn.dev/erukiti/articles/2503-cline-express\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://zenn.dev/erukiti/articles/2503-cline-express</a></p><p><br /></p><p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。</p><p>おたよりやコミュニティなど各種リンクはこちらから → <a href=\"https://bento.me/yuru-tech\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bento.me/yuru-tech</a></p>",
+      "link": "https://podcasters.spotify.com/pod/show/yuru-tech/episodes/52-AI-e31ce31",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "bf30d92a-fa49-44f9-a6eb-a9b38581494f"
+      },
+      "dc:creator": "ゆるテク",
+      "pubDate": "Fri, 11 Apr 2025 00:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/adf8dcb8/podcast/play/101119521/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-10%2Fc80bbdab-2021-3782-0fde-de115cb7cc17.mp3",
+        "@length": 23281204,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>AIエージェント、人間の成長について話しました。</p><p><br /></p><p>Links:</p><p>・Cline(Roo Code)を暴走列車にしたら4日間で数ヶ月分のコードが生成できた <a href=\"https://zenn.dev/erukiti/articles/2503-cline-express\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://zenn.dev/erukiti/articles/2503-cline-express</a></p><p><br /></p><p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。</p><p>おたよりやコミュニティなど各種リンクはこちらから → <a href=\"https://bento.me/yuru-tech\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bento.me/yuru-tech</a></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:24:15",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29087678/29087678-1660716922878-3bd51bc5be06e.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
     {
       "title": "#51 エンジニアリングマネージャーの魅力",
       "description": "<p>エンジニアリングマネージャーをやっていて楽しいとき、自己効力感、気をつけていることを話しました。</p><p><br /></p><p>ゆるテクは @junichi_m_ と @hacktk がゆるーく技術の話をするポッドキャストです。</p><p>おたよりやコミュニティなど各種リンクはこちらから → https://bento.me/yuru-tech</p><p><br /></p><p>X (formerly Twitter):</p><p>・ゆるテク: <a href=\"https://x.com/yuru_tech\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/yuru_tech</a></p><p>・@junichi_m_: <a href=\"https://x.com/junichi_m_\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/junichi_m_</a></p><p>・@hacktk: <a href=\"https://x.com/hacktk\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/hacktk</a></p>",
