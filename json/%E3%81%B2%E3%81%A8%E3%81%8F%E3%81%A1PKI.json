@@ -42,6 +42,33 @@
   },
   "item": [
     {
+      "title": "74: WebPKIの証明書の有効期間を最長47日にする件(2029年3月までに段階的に導入)",
+      "description": "<p>ep70でも話した、WebPKIの証明書の有効期間を最長47日にしたい件について、CABFで投票が行われ、可決された件について話しました。他、CABFのF2Fミーティングが2025年3月に日本でホストされた話、ルート証明書登録プログラム(CA Certificate Root Program)のBugzillaでSectigoがDigiCertに法的に脅されていると主張した件についても少しだけ話しました。雑談では、ゆりかとひとけー一緒に韓国旅行行ってきた、ひとけーはシンガポールでBlack Hat Asiaにも行ってきた、という話をしました。</p><p><br></p><ul><li> Apple Clint Wisonさん提案のSC-081 SC-081: <a href=\"https://github.com/cabforum/servercert/pull/553\" target=\"_blank\" rel=\"noopener noreferer\">Introduce Schedule of Reducing Validity and Data Reuse Periods by clintwilson · Pull Request #553 · cabforum/servercert · GitHub</a></li></ul><ul><li> <a href=\"https://www.secomtrust.net/topics/2025/topics_003.html\" target=\"_blank\" rel=\"noopener noreferer\">CA/Browser Forum、東京でオフラインミーティングを開催【セコム】</a></li></ul><ul><li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1950144\" target=\"_blank\" rel=\"noopener noreferer\">DigiCert: Threat of legal action to stifle Bugzilla discourse</a></li></ul><ul><li><a href=\"https://www.blackhat.com/asia-25/\" target=\"_blank\" rel=\"noopener noreferer\">Black Hat Asia 2025</a></li></ul>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/74-WebPKI4720293-e31i415",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "61aa680c-6772-4691-a54f-39dc3126bed7"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Wed, 16 Apr 2025 03:24:42 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/101305829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-15%2F0d4eb3e6-4f3a-1880-8ff3-8f195b84e75e.mp3",
+        "@length": 30976435,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>ep70でも話した、WebPKIの証明書の有効期間を最長47日にしたい件について、CABFで投票が行われ、可決された件について話しました。他、CABFのF2Fミーティングが2025年3月に日本でホストされた話、ルート証明書登録プログラム(CA Certificate Root Program)のBugzillaでSectigoがDigiCertに法的に脅されていると主張した件についても少しだけ話しました。雑談では、ゆりかとひとけー一緒に韓国旅行行ってきた、ひとけーはシンガポールでBlack Hat Asiaにも行ってきた、という話をしました。</p><p><br></p><ul><li> Apple Clint Wisonさん提案のSC-081 SC-081: <a href=\"https://github.com/cabforum/servercert/pull/553\" target=\"_blank\" rel=\"noopener noreferer\">Introduce Schedule of Reducing Validity and Data Reuse Periods by clintwilson · Pull Request #553 · cabforum/servercert · GitHub</a></li></ul><ul><li> <a href=\"https://www.secomtrust.net/topics/2025/topics_003.html\" target=\"_blank\" rel=\"noopener noreferer\">CA/Browser Forum、東京でオフラインミーティングを開催【セコム】</a></li></ul><ul><li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1950144\" target=\"_blank\" rel=\"noopener noreferer\">DigiCert: Threat of legal action to stifle Bugzilla discourse</a></li></ul><ul><li><a href=\"https://www.blackhat.com/asia-25/\" target=\"_blank\" rel=\"noopener noreferer\">Black Hat Asia 2025</a></li></ul>",
+      "itunes:explicit": "No",
+      "itunes:duration": "01:04:32",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 73,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "73: LEの６日のShort-lived証明書の話、Entrustがパブリック証明書事業をSectigoへ売却の話",
       "description": "<p>Let's Encryptが有効期間６日間で失効情報を提供しない証明書を提供することがアナウンスされた件と、Entrustがパブリック証明書事業をSectigoへ売却する件について話しました。雑談では、ひとけー転職した話、サボテンのあみぐるみを編みたい話をしました。 </p><ul><li><a href=\"https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Announcing Six Day and IP Address Certificate Options in 2025 - Let's Encrypt</a></li><li><a href=\"https://www.entrust.com/company/newsroom/entrust-sells-public-certificate-business-to-sectigo\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Entrust Sells Public Certificate Business to Sectigo, Sharpening Focus on Quantum-Ready Cryptographic Data Security Solutions | Entrust</a></li></ul><p><br /></p><p>ひとくちPKIもご紹介いただきありがとうございます！</p><ul><li><a href=\"https://x.com/katokonigiry/status/1884216821500502321\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Xユーザーのkatoko(かとこ)@ネスペ勉強中さん: 「僭越ながら好きなPodcastをまとめたブログちょっと伸びた。紹介させていただいています。好きです。 #セキュリティのアレ #ゆるコンピュータ科学ラジオ #ひまじんプログラマーの週末エンジニアリングレッスン #ひとくちPKI #momitfm #お風呂で情シスラジオ #spno1 #ImageCast https://t.co/brO3bwUExM」 / X</a></li></ul><p><br /></p>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/73-LEShort-livedEntrustSectigo-e2uvsb1",
