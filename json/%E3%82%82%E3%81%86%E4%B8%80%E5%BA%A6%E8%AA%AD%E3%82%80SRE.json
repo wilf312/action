@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #106",
+      "description": "<p>26.3 データ完全性の課題へのGoogle SREの対処 から 26.3.2 第1のレイヤー：論理削除 まで</p><p><br /></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-106-e31l9q2",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "fc775aad-e37a-4fc7-92f0-6ccd8054c419"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Fri, 18 Apr 2025 01:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/101410050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-17%2Fc639006d-a22b-6f3d-2ca1-b5c9c284dd36.m4a",
+        "@length": 21009850,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>26.3 データ完全性の課題へのGoogle SREの対処 から 26.3.2 第1のレイヤー：論理削除 まで</p><p><br /></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:21:39",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #105",
       "description": "<p>26.2.3 データの損失につながる障害の種類から26.2.4.2 リテンションまで</p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-105-e310261",
