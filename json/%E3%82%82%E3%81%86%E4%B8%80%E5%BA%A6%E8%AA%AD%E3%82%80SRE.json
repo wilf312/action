@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #107",
+      "description": "<p>26.3.3 第2のレイヤー：バックアップと関連するリカバリの方法 から 26.3.5 テラバイト対エクサバイト：大きい「だけ」ではなくなるバックアップ</p><p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-107-e31r7ga",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "10c5f412-5f95-4bfd-8bb9-77e6f2b475f4"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 23 Apr 2025 01:29:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/101604298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2Ffb9a2dd2-c65d-e76f-c78e-412ad6eb319d.m4a",
+        "@length": 25523055,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>26.3.3 第2のレイヤー：バックアップと関連するリカバリの方法 から 26.3.5 テラバイト対エクサバイト：大きい「だけ」ではなくなるバックアップ</p><p><br></p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:26:18",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #106",
       "description": "<p>26.3 データ完全性の課題へのGoogle SREの対処 から 26.3.2 第1のレイヤー：論理削除 まで</p><p><br /></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-106-e31l9q2",
