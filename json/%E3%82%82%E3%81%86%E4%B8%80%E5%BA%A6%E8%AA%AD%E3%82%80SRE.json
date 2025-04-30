@@ -42,6 +42,31 @@
   },
   "item": [
     {
+      "title": "もう一度読むSRE #108",
+      "description": "<p>26.3.6 第3のレイヤー：早期の検出から26.4.1 Gmail - 2011年2月：GTapeからのリストアまで </p>",
+      "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-108-e323hn4",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "9ccb60f2-e055-4f70-b2dd-897315326ab0"
+      },
+      "dc:creator": "Topotal",
+      "pubDate": "Wed, 30 Apr 2025 01:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/6233432c/podcast/play/101876900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-28%2F3e7a7a12-b31a-00d5-dfff-b6d60401c205.m4a",
+        "@length": 22044651,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>26.3.6 第3のレイヤー：早期の検出から26.4.1 Gmail - 2011年2月：GTapeからのリストアまで </p>",
+      "itunes:explicit": "No",
+      "itunes:duration": "00:22:43",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "もう一度読むSRE #107",
       "description": "<p>26.3.3 第2のレイヤー：バックアップと関連するリカバリの方法 から 26.3.5 テラバイト対エクサバイト：大きい「だけ」ではなくなるバックアップ</p><p><br></p>",
       "link": "https://podcasters.spotify.com/pod/show/read-sre-again/episodes/SRE-107-e31r7ga",
