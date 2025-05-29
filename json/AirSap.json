@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Fri, 09 May 2025 21:04:20 +0000",
+  "lastBuildDate": "Tue, 27 May 2025 12:24:07 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -50,6 +50,34 @@
   "itunes:block": "no",
   "itunes:explicit": false,
   "item": [
+    {
+      "title": "#94 5年日記、始めました",
+      "link": "https://airsap.net/2025/05/27/diary/",
+      "pubDate": "Tue, 27 May 2025 12:24:07 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "2d0787bd-c7bf-4318-af99-8bf3c478850a"
+      },
+      "description": "過去の自分との対話、楽しみませんか。",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2025/05/27/diary/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/284/s/feed/c/podcast/AirSap94_20250520.mp3",
+        "@length": 16828733,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:20:02",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "5年日記、始めました",
+      "itunes:episode": 94,
+      "itunes:episodeType": "full",
+      "itunes:summary": "過去の自分との対話、楽しみませんか。"
+    },
     {
       "title": "#93 裏アカのすすめ",
       "link": "https://airsap.net/2025/05/10/swcj/",
