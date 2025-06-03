@@ -2,11 +2,6 @@
   "title": "もう一度読むSRE",
   "description": "「もう一度読むSRE」は、株式会社Topotal（トポタル）の高村と菱田がディスカッション形式で「SRE サイトリライアビリティエンジニアリング」を読み進めるポッドキャストです。\n\nSRE を今から知りたい方はもちろん、SRE の基礎を改めて学びたい方もぜひ視聴ください。Twitter のハッシュタグは #もう一度読むSRE です。",
   "link": "https://twitter.com/Read_SRE_Again",
-  "image": {
-    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
-    "title": "もう一度読むSRE",
-    "link": "https://twitter.com/Read_SRE_Again"
-  },
   "generator": "Anchor Podcasts",
   "atom:link": [
     {
@@ -31,7 +26,7 @@
     "itunes:name": "Topotal",
     "itunes:email": "read-sre-again@topotal.com"
   },
-  "itunes:explicit": "No",
+  "itunes:explicit": false,
   "itunes:category": {
     "@text": "Technology",
     "#text": null
@@ -58,7 +53,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.4.2 Google Music - 2012年3月：暴走した削除の検出から26.6 まとめまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:40:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -83,7 +78,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26-3-6第3のレイヤーから26-3-6-2通常の処理外でのデータ検証まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:04",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -108,7 +103,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.3.6 第3のレイヤー：早期の検出から26.4.1 Gmail - 2011年2月：GTapeからのリストアまで </p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:22:43",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -133,7 +128,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.3.3 第2のレイヤー：バックアップと関連するリカバリの方法 から 26.3.5 テラバイト対エクサバイト：大きい「だけ」ではなくなるバックアップ</p><p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:18",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -158,7 +153,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.3 データ完全性の課題へのGoogle SREの対処 から 26.3.2 第1のレイヤー：論理削除 まで</p><p><br /></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:21:39",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -183,7 +178,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.2.3 データの損失につながる障害の種類から26.2.4.2 リテンションまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:02",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -208,7 +203,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26.1.3 大局的な視点から見たクラウド環境の要件 から 26.2.2 バックアップシステムよりもリカバリのシステムを提供しよう</p><p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:19:50",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -233,7 +228,7 @@
         "#text": null
       },
       "itunes:summary": "<p>26章 データの完全性から26.1.2 バックアップとアーカイブまで</p><p><br /></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:37",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -258,7 +253,7 @@
         "#text": null
       },
       "itunes:summary": "<p>25.5.1 定期パイプラインにおけるモニタリングの問題 から 25.6.1 Model-View-ControllerパターンとしてのWorkflow まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -283,7 +278,7 @@
         "#text": null
       },
       "itunes:summary": "<p>もう一度読むSRE #101で話した雑談回です。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:19:52",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -308,7 +303,7 @@
         "#text": null
       },
       "itunes:summary": "<p>25.3 定期的なパイプラインパターンでの課題 から 25.5 分散環境における定期パイプラインの欠点 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:22:25",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -333,7 +328,7 @@
         "#text": null
       },
       "itunes:summary": "<p><strong>24.4.5</strong> 大規模な<strong>cron</strong>の実行 から <strong>25.2</strong> シンプルなパイプラインパターンでのビッグデータの</p>\n<p>初期の効果 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:07",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -358,7 +353,7 @@
         "#text": null
       },
       "itunes:summary": "<p><strong>24.4.3.3 部分的な障害の解決 から 24.4.4 状態の保存</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:32:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -383,7 +378,7 @@
         "#text": null
       },
       "itunes:summary": "<p>24.4.3 リーダーとフォロワーの役割〜24.4.3.2 フォロワーまで\n\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:44",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -408,7 +403,7 @@
         "#text": null
       },
       "itunes:summary": "<p>24.3.2 拡張された要求から24.4.2 Paxosの利用まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:27",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -433,7 +428,7 @@
         "#text": null
       },
       "itunes:summary": "<p>24 章 cronによる分散定期スケジューリング から 24.3.1 拡張されたインフラストラクチャ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:34:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -458,7 +453,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.5.3.1 クォーラムの編成 〜 23.7 まとめ</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:20:53",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -483,7 +478,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.5.3 キャパシティとロードバランシング</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:34:52",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -508,7 +503,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.5.2 レプリカの配置</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:46",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -533,7 +528,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.5 分散合意ベースのシステムのデプロイ〜 23.5.1 レプリカ数</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:31:35",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -558,7 +553,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.4.8 ディスクアクセス<strong>\n</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:46",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -583,7 +578,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.4.5 パフォーマンスに関する考察:Fast Paxos から 23.4.7 バッチ処理 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:15",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -608,7 +603,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.4.2 読み取り負荷が大きいワークロードのスケーリングから23.4.4 分散合意のパフォーマンスとネットワークのレイテンシまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:52",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -633,7 +628,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.4.1 Multi-Paxos:詳細なメッセージフロー</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -658,7 +653,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.3.5 信頼性を持つ分散キュー及びメッセージング から 23.4 分散合意のパフォーマンス まで<strong>\n</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -683,7 +678,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.3.3 リーダー選出を利用する高可用性を持つ処理 から 23.3.4 分散協調及びロックサービス まで\n<strong>\n</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:21:58",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -708,7 +703,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.3 分散合意のためのシステムアーキテクチャパターン から 23.3.2 信頼性を持つ複製データストア及び設定ストアまで\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:35:09",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -733,7 +728,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.2 分散合意の動作 から 23.2.1 Paxosの概要: サンプルプロトコル まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:46:15",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -758,7 +753,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23.1 合意を利用する目的:分散システムの協調障害 から 23.1.3 ケーススタディ 3:問題のあるグループメンバーシップアルゴリズム まで<strong>\n</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:36",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -783,7 +778,7 @@
         "#text": null
       },
       "itunes:summary": "<p>23章 クリティカルな状態の管理: 信頼性のための分散合意</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:26",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -808,7 +803,7 @@
         "#text": null
       },
       "itunes:summary": "<p>SRE NEXT 2023 Chair <a href=\"https://twitter.com/gr1m0h\" target=\"_blank\" rel=\"noopener noreferer\">ぐりもおさん</a> をゲストに迎え、SRENEXTのことをお聞きしました。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:35",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -833,7 +828,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.6 カスケード障害に対応するためにすぐに行うべき手順 から 22.7まとめまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:32:14",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -858,7 +853,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.4 カスケード障害を引き起こす条件 から 22.5.3 重要度の低いバックエンドのテスト まで\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:30",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -883,7 +878,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.3 起動直後の低パフォーマンスとコールドキャッシュ から 22.3.1 スタックは常に下っていくようにすること まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:37",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -908,7 +903,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.2.4 レイテンシとタイムアウト から 22.2.4.4 二峰性のレイテンシ\n まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:23:39",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -933,7 +928,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.2.2 ロードシェディングとグレースフルデグラデーション から 22.2.3 リトライ まで\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:11",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -958,7 +953,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22.1.3 利用できないサービス から 22.2.1 キューの管理 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:59",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -983,7 +978,7 @@
         "#text": null
       },
       "itunes:summary": "<p>22章 カスケード障害への対応 から 22.1.2.5 リソース間の依存関係 まで</p>\n<p>本編は12分05秒あたりからになります。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:40:20",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1008,7 +1003,7 @@
         "#text": null
       },
       "itunes:summary": "<p>21.7 接続によって生じる負荷 から 21.8 まとめ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:56",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1033,7 +1028,7 @@
         "#text": null
       },
       "itunes:summary": "<p>21.5 利用率のシグナル から 21.6.1 リトライの判断 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1058,7 +1053,7 @@
         "#text": null
       },
       "itunes:summary": "<p>21.3 クライアント側でのスロットリング から 21.4 重要度 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:16",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1083,7 +1078,7 @@
         "#text": null
       },
       "itunes:summary": "<p>21章 過負荷への対応 から 21.2 顧客単位での制限 まで\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:10",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1108,7 +1103,7 @@
         "#text": null
       },
       "itunes:summary": "<p>20.4 ロードバランシングのポリシー から 20.4.1.3 マシンのばらつき まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:46",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1133,7 +1128,7 @@
         "#text": null
       },
       "itunes:summary": "<p>20.3.3 サブセット選択のアルゴリズム : 決定的なサブセット選択</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:57",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1158,7 +1153,7 @@
         "#text": null
       },
       "itunes:summary": "<p>20.3 サブセットの設定によるコネクションプールの制限 から 20.3.2 サブセットの選択アルゴリズム:ランダムなサブセットの選択 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:00",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1183,7 +1178,7 @@
         "#text": null
       },
       "itunes:summary": "<p>20章 データセンターでのロードバランシング から 20.2.2 不健全なタスクへの確実なアプローチ:レイムダック状態 まで\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:32:00",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1208,7 +1203,7 @@
         "#text": null
       },
       "itunes:summary": "<p>19.3 仮想 IP アドレスでのロードバランシング まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:28",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1233,7 +1228,7 @@
         "#text": null
       },
       "itunes:summary": "<p>19章 フロントエンドにおけるロードバランシング から 19.2 DNS を使ったロードバランシング まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:40:48",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1258,7 +1253,7 @@
         "#text": null
       },
       "itunes:summary": "<p>18.3.5 チームの力学 から 18.5 まとめ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:44:50",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1283,7 +1278,7 @@
         "#text": null
       },
       "itunes:summary": "<p>18.3.4 認知の向上と採用の推進 から 18.3.4.4 適切なレベルでの設計 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:20:31",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1308,7 +1303,7 @@
         "#text": null
       },
       "itunes:summary": "<p>18.3.2 Auxon の紹介 から 18.3.3.1 近似 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:31:11",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1333,7 +1328,7 @@
         "#text": null
       },
       "itunes:summary": "<ul>\n <li>18.2.2 Google におけるソリューション:インテントベースのキャパシティプランニング から 18.3.1.2 パフォーマンスメトリクス まで</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:30",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1358,7 +1353,7 @@
         "#text": null
       },
       "itunes:summary": "<p>18章 SRE におけるソフトウェアエンジニアリング から 18.2 Auxon のケーススタディ:プロジェクトの背景と問題の領域 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1383,7 +1378,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3.7 プロダクション環境におけるプローブ から 17.4 まとめ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:56",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1408,7 +1403,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3.6 結合 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:51",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1433,7 +1428,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3.5 予想されるテストの失敗 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:36:22",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1458,7 +1453,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3.4 プロダクションへのプッシュ</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:48",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1483,7 +1478,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3.2 ディザスタのテスト から 17.3.3 速度の重要性 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:14",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1508,7 +1503,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.3 大規模なテスト から 17.3.1 スケーラブルなツールのテスト まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:37:19",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1533,7 +1528,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.2 テストの作成と環境の構築 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:07",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1558,7 +1553,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.1.2.2 ストレステスト から 17.1.2.3 カナリアテスト まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:56",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1583,7 +1578,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17.1.2 プロダクションテスト から 17.1.2.1 設定テスト まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:22:30",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1608,7 +1603,7 @@
         "#text": null
       },
       "itunes:summary": "<p>17 信頼性のためのテスト から 17.1 ソフトウェアテストの種類 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:41:46",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1633,7 +1628,7 @@
         "#text": null
       },
       "itunes:summary": "<p>16章 サービス障害の追跡 から 16.2.4 予想外のメリット まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:38:17",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1658,7 +1653,7 @@
         "#text": null
       },
       "itunes:summary": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.4 まとめと改善の継続 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:20",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1683,7 +1678,7 @@
         "#text": null
       },
       "itunes:summary": "<p>15章 ポストモーテムの文化: 失敗からの学び から 15.1 Google におけるポストモーテムの哲学</p>\n<p>本編は3分35秒からです。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:37:07",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1708,7 +1703,7 @@
         "#text": null
       },
       "itunes:summary": "<p>14.3 インシデント管理のプロセスの構成要素 から 14.5 インシデントと宣言すべき場合 まで</p>\n<p>本編は11分00秒からです。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:45:14",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -1733,7 +1728,7 @@
         "#text": null
       },
       "itunes:summary": "<p>13.6 過去から学び、繰り返さない から 14.3.4 はっきりとした引き継ぎ まで</p>\n<p>本編は6分22秒からです。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:36:36",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1758,7 +1753,7 @@
         "#text": null
       },
       "itunes:summary": "<p>13.4 &nbsp;プロセスが引き起こした緊急事態 から 13.5 解決できない問題は存在しない まで</p>\n<p>本編は3分10秒からです。</p>\n<p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:13",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1783,7 +1778,7 @@
         "#text": null
       },
       "itunes:summary": "<p>13.3 変更が引き起こした緊急事態 から 13.3.3.2 学んだこと まで</p>\n<p>本編は4分10秒からになります。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:25:59",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1808,7 +1803,7 @@
         "#text": null
       },
       "itunes:summary": "<p>13章 緊急対応 から 13.2.3.2 学んだこと まで</p>\n<p>本編は5分50秒からになります。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:57",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1833,7 +1828,7 @@
         "#text": null
       },
       "itunes:summary": "<p>12.4 ケーススタディ から 12.6 まとめ まで</p>\n<p>今回雑談はありません。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:34:04",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1858,7 +1853,7 @@
         "#text": null
       },
       "itunes:summary": "<p>12.2.5 テストと対応 から 12.3 否定的な結果の素晴らしさ まで</p>\n<p>今回雑談はありません。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:10",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1883,7 +1878,7 @@
         "#text": null
       },
       "itunes:summary": "<p>12.2.4 診断から 12.2.4.4 特定の診断 まで</p>\n<p>本編は4分03秒からです。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:24:18",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1908,7 +1903,7 @@
         "#text": null
       },
       "itunes:summary": "<p>12.2 実践 から 12.2.3 検証 まで</p>\n<p>雑談はありません。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:17",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1933,7 +1928,7 @@
         "#text": null
       },
       "itunes:summary": "<p>12章 効果的なトラブルシューティング から 12.1 理論 まで</p>\n<p>本編 : 03:10〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:38:18",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1958,7 +1953,7 @@
         "#text": null
       },
       "itunes:summary": "<p>11.5 不適切な負荷の回避 から 11.6まとめ まで</p>\n<p>本編 : 03:45〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:02",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -1983,7 +1978,7 @@
         "#text": null
       },
       "itunes:summary": "<p>11.3 バランスの取れたオンコール から 11.4 安心感 まで</p>\n<p>本編 : 00:00〜</p>\n<p>※今回雑談はありません。</p>\n<p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:35:27",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2008,7 +2003,7 @@
         "#text": null
       },
       "itunes:summary": "<p>11章 オンコール対応 から 11.2 オンコールエンジニアの日常生活 まで</p>\n<p>雑談 : 00:00〜04:02</p>\n<p>本編 : 04:03〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:37:48",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2033,7 +2028,7 @@
         "#text": null
       },
       "itunes:summary": "<p>10.4 &nbsp;時系列のアリーナにおけるストレージ から 10.10 &nbsp;10 年が経過して まで</p>\n<p>雑談 : 00:00〜07:05</p>\n<p>本編 : 07:05〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:05",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2058,7 +2053,7 @@
         "#text": null
       },
       "itunes:summary": "<p><strong>10章 時系列データからの実践的なアラート から 10.3 エクスポートされたデータの収集</strong></p>\n<p>雑談 : 00:00〜02:09</p>\n<p>本編 : 02:10〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:01",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2083,7 +2078,7 @@
         "#text": null
       },
       "itunes:summary": "<p>第III部 実践</p>\n<p>雑談 : 00:00〜03:07</p>\n<p>本編 : 03:08〜</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:50",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2108,7 +2103,7 @@
         "#text": null
       },
       "itunes:summary": "<p>9.5 最小限のAPI から 9.8 単純な結論 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:52",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2133,7 +2128,7 @@
         "#text": null
       },
       "itunes:summary": "<p>9章 単純さのまとめ から 9.4 削除した行の計測 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:51",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2158,7 +2153,7 @@
         "#text": null
       },
       "itunes:summary": "<p>8.4 設定管理 から 8.5 まとめ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:35",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2183,7 +2178,7 @@
         "#text": null
       },
       "itunes:summary": "<p>8.3.5 Rapid から 8.3.6 デプロイメント まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:31:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2208,7 +2203,7 @@
         "#text": null
       },
       "itunes:summary": "<p>8.3 継続的ビルドとデプロイメントから 8.3.4 パッケージ化まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2233,7 +2228,7 @@
         "#text": null
       },
       "itunes:summary": "<h3>8章 リリースエンジニアリング から 8.2.4 ポリシーと手順の強制 まで</h3>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:29",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2258,7 +2253,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7.7 基本的機能としての信頼性 から 7.8 自動化のすすめ まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:10",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2283,7 +2278,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7.5.4 サービス指向のクラスタのターンアップ から 7.6 Borg：ウェアハウススケールコンピュータの誕生まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:27:56",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2308,7 +2303,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7.5 苦痛の緩和：クラスタのターンアップへの自動化の適用 から 7.5.3 特化する傾向 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:35:57",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2333,7 +2328,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7.3.2 自動化のクラスの階層 から 7.4 自分の仕事の自動化：何もかも自動化する まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:03",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2358,7 +2353,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7.2 Google SREにとっての価値 から 7.3.1 Google SREによる自動化のユースケース まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:13",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2383,7 +2378,7 @@
         "#text": null
       },
       "itunes:summary": "<p>7章 Googleにおける自動化の進化 から 7.1.5 時間の節約 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:30:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2408,7 +2403,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.10 原則のとりまとめ から 6.12 まとめまで。</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:39",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2433,7 +2428,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.7 テイルレイテンシに関する懸念 から 6.9 可能な限りシンプルに、ただしやり過ぎないこと まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:20",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2458,7 +2453,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.5 ブラックボックスとホワイトボックス から 6.6 4大シグナル まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:16",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2483,7 +2478,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6.3 モニタリングにおける妥当な期待値の設定 から 6.4 症状と原因 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:24",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2508,7 +2503,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;6章 分散システムのモニタリングから 6.2 モニタリングの必要性 まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:09",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2533,7 +2528,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;5.2 トイルは少ない方が良い理由から5.5 まとめまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:23:55",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2558,7 +2553,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;5章 トイルの撲滅から5.1 トイルの定義まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:16",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/16375267/16375267-1625044047961-9d6d3cad26f5e.jpg",
@@ -2583,7 +2578,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4.3.3 計測値のコントロールから4.4 アグリーメントの実際まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:23:35",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2608,7 +2603,7 @@
         "#text": null
       },
       "itunes:summary": "<p><strong>読む範囲 : SRE 本&nbsp;4.2.4 指標の標準化から4.3.2 ターゲットの選択まで</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2635,7 +2630,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4.2 指標の実際から4.2.3 集計まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:50",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2662,7 +2657,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲 : SRE 本&nbsp;4章 サービスレベル目標 から、4.1.3 アグリーメントまで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:28:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2689,7 +2684,7 @@
         "#text": null
       },
       "itunes:summary": "<p><strong>読む範囲: SRE 本 3.4章 エラーバジェットの活用</strong></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:04",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2716,7 +2711,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲: SRE 本 3.1〜3.3章</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:38:19",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2743,7 +2738,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲: SRE 本 2章、3章 3.1 リスクの管理まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:40",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2770,7 +2765,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲: SRE 本 コラム〜1.4</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:52:01",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2797,7 +2792,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲: SRE 本 1.2</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:26:25",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
@@ -2824,7 +2819,7 @@
         "#text": null
       },
       "itunes:summary": "<p>読む範囲: SRE 本 1.1〜1.2の途中まで</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:39:29",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16375267/16375267-1625044052382-dd1ad3e5a557f.jpg",
