@@ -37,6 +37,31 @@
   },
   "item": [
     {
+      "title": "162. 6万行のLuaで書かれたゲームをリリースして思うこと",
+      "description": "<p>Luaというプログラミング言語で6万行のゲームアプリを書いた話について話しました。</p><ul><li><a href=\"https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733\">https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733</a></li><li>Defoldゲームエンジン <a href=\"https://defold.com/\">https://defold.com/</a></li><li>Lua <a href=\"https://ja.wikipedia.org/wiki/Lua\">https://ja.wikipedia.org/wiki/Lua</a></li><li>Learn Lua <a href=\"https://tylerneylon.com/a/learn-lua/\">https://tylerneylon.com/a/learn-lua/</a></li><li>言語ランキング <a href=\"https://survey.stackoverflow.co/2024/technology\">https://survey.stackoverflow.co/2024/technology</a></li><li>言語ランキングその2 <a href=\"https://www.tiobe.com/tiobe-index/\">https://www.tiobe.com/tiobe-index/</a></li><li>パフォーマンス <a href=\"https://programming-language-benchmarks.vercel.app/lua-vs-python\">https://programming-language-benchmarks.vercel.app/lua-vs-python</a></li><li>なにかにぶつかったときの条件分岐ロジックhttps://gist.github.com/zulman/cbb30496100d375082da43c87144d14c#file-if_selector-lua</li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a></li></ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/162--6Lua-e33jgbv",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "51122951-8c5b-4d92-b36c-91d5a92937d3"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 01 Jun 2025 18:49:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/103448383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-30%2F69423312-224f-ca34-2d0c-1199a4d09149.mp3",
+        "@length": 57810768,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Luaというプログラミング言語で6万行のゲームアプリを書いた話について話しました。</p><ul><li><a href=\"https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733\">https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733</a></li><li>Defoldゲームエンジン <a href=\"https://defold.com/\">https://defold.com/</a></li><li>Lua <a href=\"https://ja.wikipedia.org/wiki/Lua\">https://ja.wikipedia.org/wiki/Lua</a></li><li>Learn Lua <a href=\"https://tylerneylon.com/a/learn-lua/\">https://tylerneylon.com/a/learn-lua/</a></li><li>言語ランキング <a href=\"https://survey.stackoverflow.co/2024/technology\">https://survey.stackoverflow.co/2024/technology</a></li><li>言語ランキングその2 <a href=\"https://www.tiobe.com/tiobe-index/\">https://www.tiobe.com/tiobe-index/</a></li><li>パフォーマンス <a href=\"https://programming-language-benchmarks.vercel.app/lua-vs-python\">https://programming-language-benchmarks.vercel.app/lua-vs-python</a></li><li>なにかにぶつかったときの条件分岐ロジックhttps://gist.github.com/zulman/cbb30496100d375082da43c87144d14c#file-if_selector-lua</li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a></li></ul>",
+      "itunes:explicit": false,
+      "itunes:duration": "00:41:42",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "161. Metaをレイオフされたはなし",
       "description": "<p>RyoichiがMeta社ををレイオフされた話をしました。</p><ul><li><strong>前回の転職の話 ep33.「 ベイエリア転職活動と、Amazonでの思い出」</strong><a href=\"https://open.spotify.com/episode/0GrwKzsujV5rqxLY3qhgvg\">https://open.spotify.com/episode/0GrwKzsujV5rqxLY3qhgvg</a></li><li><a href=\"https://www.usatoday.com/story/money/2025/02/14/meta-layoffs-tech-industry-2025/78392050007/\">USA Today の記事</a> <a href=\"https://www.usatoday.com/story/money/2025/02/14/meta-layoffs-tech-industry-2025/78392050007/\">https://www.usatoday.com/story/money/2025/02/14/meta-layoffs-tech-industry-2025/78392050007/</a></li><li><a href=\"https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html\">CNBC の記事</a> <a href=\"https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html\">https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html</a></li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/161--Meta-e32trng",
