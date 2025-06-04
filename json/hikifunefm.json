@@ -2,11 +2,6 @@
   "title": "hikifune.fm",
   "description": "機械学習関連で勉強したことをゆるく発信していく podcast です。\nShow notes は https://github.com/yoheikikuta/hikifune.fm です。",
   "link": "https://podcasters.spotify.com/pod/show/yoheikikuta",
-  "image": {
-    "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
-    "title": "hikifune.fm",
-    "link": "https://podcasters.spotify.com/pod/show/yoheikikuta"
-  },
   "generator": "Anchor Podcasts",
   "atom:link": [
     {
@@ -31,7 +26,7 @@
     "itunes:name": "Yohei Kikuta",
     "itunes:email": "podcasts60+8d50d4c@anchor.fm"
   },
-  "itunes:explicit": "No",
+  "itunes:explicit": false,
   "itunes:category": {
     "@text": "Technology",
     "#text": null
@@ -58,7 +53,7 @@
         "#text": null
       },
       "itunes:summary": "<p>曳舟から引っ越すので hikifunefm というタイトルでの配信が最後ということで、ゲストを呼んでこれまでを振り返る雑談回です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/018.md\">https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/018.md</a> です。<br>\n発表者：@yohei_kikuta, @karino2012</p>\n<p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:23",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/1381803/1381803-1599895000015-8a3ca02dd0cdb.jpg",
@@ -83,7 +78,7 @@
         "#text": null
       },
       "itunes:summary": "<p>パラメタ最適化のフレームワークである Optuna について、committer とワイワイ話す回です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/017.md \">https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/017.md </a>です。<br>\n発表者：@himkt, @yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:45:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/1381803/1381803-1599895000015-8a3ca02dd0cdb.jpg",
@@ -108,7 +103,7 @@
         "#text": null
       },
       "itunes:summary": "<p>アミノ酸配列からタンパク質の立体構造を予測する問題において文字通り桁違いの性能を示した AlphaFold(2) に関して、タンパク質研究のプロとわいわい議論する回です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/016.md\">https://github.com/yoheikikuta/hikifune.fm/blob/main/ep/016.md</a> です。<br>\n発表者：@Ag_smith, @yohei_kikuta</p>\n<p>00:00:38~ ゲスト自己紹介と論文についての簡単な所感<br>\n00:08:48~ タンパク質の立体構造予測問題<br>\n00:26:11~ AlphaFold のモデルの概要<br>\n01:14:19~ ドメイン知識に関する質問とその回答<br>\n01:33:33~ 機械学習に関する質問とその回答<br>\n01:55:39~ 今後の展望</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "02:12:33",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -133,7 +128,7 @@
         "#text": null
       },
       "itunes:summary": "<p>技術的内容はないです。hikifunefm は不定期配信にするという報告です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/015_5.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/015_5.md</a> です。 <br>\n発表者：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:05:33",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -158,7 +153,7 @@
         "#text": null
       },
       "itunes:summary": "<p>pre-trained T5 で downstream タスクを解く時にタスクを記述する prompt token のみを学習して高い精度（巨大モデルではモデル全体を再学習するのとほぼ同等）を達成する prompt tuning の論文を紹介する回です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/015.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/015.md</a> です。 <br>\n発表者：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:39:13",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -183,7 +178,7 @@
         "#text": null
       },
       "itunes:summary": "<p>ディープラーニングの量子化学への応用である PauliNet の論文を読んだという会。あまり理解してないのでそれっぽいことを雰囲気で述べる会です。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/014.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/014.md</a> です。<br>\n発表者：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:31:07",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -208,7 +203,7 @@
         "#text": null
       },
       "itunes:summary": "<p>DALL·E の理解に向けて part 3 としてついに公開された DALL·E の論文を読む回。論文は学習に関する技術的内容が多いですが、それらにはあまり触れずに DALL·E のモデルがどういう構造なのかという観点で話をしています。<br>\nShow notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/013.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/013.md</a> です。<br>\n発表者：@yohei_kikuta<br>\n聞き手：@smochi_pub</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:55:11",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -233,7 +228,7 @@
         "#text": null
       },
       "itunes:summary": "<p>masa_kazama が興味を持って勉強している計算社会科学についてあれこれと話す回です。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/012.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/012.md</a><strong> </strong>です。<br>\n発表者：@masa_kazama<br>\n聞き手：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:52:14",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -258,7 +253,7 @@
         "#text": null
       },
       "itunes:summary": "<p>DALL·E の理解に向けて part 2 として同日に公開されて DALL·E の生成画像の reranking でも使われている CLIP という手法の論文を読んだ会。 <br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/011.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/011.md</a> です。 <br>\n発表者：@yohei_kikuta<br>\n聞き手：@smochi_pub</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:49:39",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -283,7 +278,7 @@
         "#text": null
       },
       "itunes:summary": "<p>recommendation の概要について今一度学ぶために Recommendation Engines という本を読んだ話。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/010.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/010.md</a> です。<br>\n発表者：@masa_kazama<br>\n聞き手：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:33:59",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -308,7 +303,7 @@
         "#text": null
       },
       "itunes:summary": "<p>OpenAI が発表した text2image モデルの DALL·E を理解するシリーズの part 1 として Vision Transformer の論文を読んだ。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/009.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/009.md</a> です。<br>\n発表者：@yohei_kikuta<br>\n聞き手：@smochi_pub</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:46:28",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -333,7 +328,7 @@
         "#text": null
       },
       "itunes:summary": "<p>end-to-end でディープラーニング の学習や推測のベンチマーキングをする DAWNBench という取り組みについて紹介します。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/008.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/008.md</a> です。<br>\n発表者：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:29:46",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -358,7 +353,7 @@
         "#text": null
       },
       "itunes:summary": "<p>タンパク質立体構造予測で凄い精度を出したという AlphaFold2 の前身の AlphaFold1 の論文を読みました。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/007.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/007.md</a> です。<br>\n発表者：@yohei_kikuta<br>\n聞き手：@smochi_pub</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:43:45",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -383,7 +378,7 @@
         "#text": null
       },
       "itunes:summary": "<p>Python API framework で次のデファクトになりそうな FastAPI を紹介する回です。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/006.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/006.md</a> です。<br>\n発表者：@__Attsun__<br>\n聞き手：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:34:40",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -408,7 +403,7 @@
         "#text": null
       },
       "itunes:summary": "<p>Text-to-Text Transfer Transformer (T5) 関連の論文を読んでその内容を紹介する回です。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/005.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/005.md</a> です。<br>\n発表者：@yohei_kikuta<br>\n聞き手：@yag_ays<br>\n<br>\n<br>\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:54:17",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -433,7 +428,7 @@
         "#text": null
       },
       "itunes:summary": "<p>Recsys 2020 の推薦システムの再現可能な評価や公平な比較に関する論文を読んで紹介する回です。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/004.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/004.md</a> です。 <br>\n発表者：@smochi_pub<br>\n聞き手：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:39:04",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -458,7 +453,7 @@
         "#text": null
       },
       "itunes:summary": "<p>Numpy の nature 論文が出たので、その論文と 2011 年の論文、さらにソースコードをちょっと読んでみたという回です。なぜかノーベル物理学賞の話もしています。途中で録音できてなかった時間が数分あったのですが、撮り直しが面倒なのでそのまま出してます。show notes で少し補足してます。<br>\nShow notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/003.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/003.md</a> です。<br>\n発表者：@yohei_kikuta<br>\n聞き手：@masa_kazama</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:46:08",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -483,7 +478,7 @@
         "#text": null
       },
       "itunes:summary": "<p>機械学習界隈でよく使われている可視化ライブラリ Streamlit において multiselect の選択肢が多い場合に動作が遅くなる問題を解決するプルリクエストを送った話です。</p>\n<p>Show notes は&nbsp;<a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/002.md\"><strong>https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/002.md</strong></a><strong> </strong>です。</p>\n<p>発表者：@masa_kazama</p>\n<p>聞き手：@yohei_kikuta</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:19:12",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -508,7 +503,7 @@
         "#text": null
       },
       "itunes:summary": "<p>ACL2020 Honorable Mention Papers に選ばれた Don't Stop Pretraining: Adapt Language Models to Domains and Tasks を紹介します。</p>\n<p>Show notes は <a href=\"https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/001.md\">https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/001.md</a> です。</p>\n<p>発表者：@yohei_kikuta</p>\n<p>聞き手：@smoch_pub</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:35:10",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
@@ -533,7 +528,7 @@
         "#text": null
       },
       "itunes:summary": "hikifune.fm という podcast で機械学習のあれこれを勉強した内容をゆるく発信していこうと思います。Show notes は https://github.com/yoheikikuta/hikifune.fm/blob/master/ep/000.md\n発表者：@yohei_kikuta\n聞き手：@smoch_pub",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:15:31",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1381803/1381803-1599895002012-31fbe0b081fa.jpg",
