@@ -2,11 +2,6 @@
   "title": "おいラジオ",
   "description": "エンジニアたちの場末ラジオ。\n\nまつぴー ( https://twitter.com/MatsuP8 )\n吉田あひる ( https://twitter.com/strtyuu )\n青ごへいもち ( https://twitter.com/blue_goheimochi )",
   "link": "https://podcasters.spotify.com/pod/show/oiradio",
-  "image": {
-    "url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
-    "title": "おいラジオ",
-    "link": "https://podcasters.spotify.com/pod/show/oiradio"
-  },
   "generator": "Anchor Podcasts",
   "atom:link": [
     {
@@ -31,7 +26,7 @@
     "itunes:name": "matsup",
     "itunes:email": "matsumoto.s.s.0805@gmail.com"
   },
-  "itunes:explicit": "No",
+  "itunes:explicit": false,
   "itunes:category": {
     "@text": "Technology",
     "#text": null
@@ -58,7 +53,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p><ul><li>PHPカンファレンス小田原</li></ul><ul><li>恣意性</li></ul><ul><li>PHPカンファレンス東京</li></ul><ul><li>ごへいもちさんの車</li></ul><ul><li>浮雲</li></ul><ul><li>オートモビル カウンシル</li></ul><ul><li>合資会社おいラジオ</li></ul><ul><li>マツダのディーラー</li></ul><ul><li>会社を作りたい</li></ul><ul><li>貸しスタジオ業</li></ul><ul><li>1円をもらうサービス</li></ul><ul><li>布橋のかき氷</li></ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:05:39",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -83,7 +78,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p><ul><li>have a keep fit</li><li>朝ジョグ</li><li>労働時間</li><li>ワークライフバランス</li><li>休憩時間</li><li>健康で文化的な生活</li><li>週休3日</li><li>祝日</li><li>朝勝</li><li>Duolingo のリーグ</li><li>洗車</li></ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:07:42",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -108,7 +103,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p><ul><li>早寝早起き</li><li>睡眠</li><li>花粉症</li><li>ぺちこん名古屋</li><li>ぺちこん小田原</li><li>ホームベーカリー</li><li>ホットクック</li><li>長崎</li><li>旅行したい</li></ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:00:43",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -133,7 +128,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p><ul><li>mixi2</li><li>休職中の事件</li><li>吉田さんの車</li><li>理想の老後</li><li>佐倉きのこ園</li><li>2024年の振り返り</li></ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:11:27",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -158,7 +153,7 @@
         "#text": null
       },
       "itunes:summary": "<p>\n</p>\n<p># トピック</p>\n<ul>\n <li>mixi2</li>\n</ul>\n<ul>\n <li>休職中の事件</li>\n</ul>\n<ul>\n  <li>吉田さんの車</li>\n</ul>\n<ul>\n  <li>理想の老後</li>\n</ul>\n<ul>\n  <li>佐倉きのこ園</li>\n</ul>\n<ul>\n  <li>2024年の振り返り</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:06:07",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -183,7 +178,7 @@
         "#text": null
       },
       "itunes:summary": "<p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:08:11",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -208,7 +203,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>イアンさんの話</li>\n</ul>\n<ul>\n <li>吉田さんの副業先</li>\n</ul>\n<ul>\n  <li>戸塚カントリークラブ</li>\n</ul>\n<ul>\n  <li>鍼治療</li>\n</ul>\n<ul>\n  <li>キャンプに行きたい</li>\n</ul>\n<ul>\n  <li>本場のお化け</li>\n</ul>\n<ul>\n  <li>住吉公園</li>\n</ul>\n<ul>\n  <li>ゴールデンライオンタマリン</li>\n</ul>\n<ul>\n  <li>マザー牧場のジンギスカン</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:10:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -231,7 +226,7 @@
         "@type": "audio/mpeg",
         "#text": null
       },
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:55:10",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -256,7 +251,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<p>吉田さんの娘</p>\n<p>えんどぅーさんの結婚式</p>\n<p>セカンドバイト</p>\n<p>結婚式のご飯</p>\n<p>香川の話</p>\n<p>引き出物選び</p>\n<p>決めをするパワー</p>\n<p>おかしょいさん</p>\n<p>泡醤油</p>\n<p>ごへいもちさんの大技</p>\n<p>電車の料金</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:00:55",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -281,7 +276,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<p>浜松まつりについて</p>\n<p>練りとは？</p>\n<p>御殿屋台</p>\n<p>凧場とは</p>\n<p>まつりの楽しさ</p>\n<p>凧あげについて</p>\n<p>GWの過ごし方</p>\n<p>コーヒーラッパ飲みの謎</p>\n<p>吉田さんのGW</p>\n<p>ワーケーション</p>\n<p>地元トーク</p>\n<p><br></p>\n<p># 関連URL</p>\n<p>激練り <a href=\"https://www.youtube.com/shorts/wEiJbZxvOV0\">https://www.youtube.com/shorts/wEiJbZxvOV0</a></p>\n<p>布橋南の屋台 <a href=\"https://asdk.sakura.ne.jp/hamamatsu/nunohashiminami/02.html\">https://asdk.sakura.ne.jp/hamamatsu/nunohashiminami/02.html</a>\n\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:07:00",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -304,7 +299,7 @@
         "@type": "audio/mpeg",
         "#text": null
       },
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:04:51",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -329,7 +324,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック\n</p>\n<ul>\n <li>年度始めはしんどいはなし</li>\n</ul>\n<ul>\n <li>吉田さんが仕事してるのか否か </li>\n</ul>\n<ul>\n <li>試用期間チキンレース</li>\n</ul>\n<ul>\n <li>ことみんさんのスライドについて</li>\n</ul>\n<ul>\n  <li>浸漬式（しんししき）の話</li>\n</ul>\n<ul>\n  <li>小田原の話</li>\n</ul>\n<ul>\n  <li>PHPカンファレンスの話</li>\n</ul>\n<ul>\n  <li>ジュビロ磐田の話</li>\n</ul>\n<ul>\n  <li>コンサートの話</li>\n</ul>\n<p><br></p>\n<p>\n# 関連リンク\n例のスライド</p>\n<p>https://speakerdeck.com/kotomin_m/ensiniaji-chu-2024nian-du-ensiniaxin-zu-yan-xiu-8571fa94-7ebf-44fc-a5cd-302763118aee</p>\n<p>[http://officekaraki.com/blog/2020/04/19/コーヒーにハマった先輩/](http://officekaraki.com/blog/2020/04/19/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AB%E3%83%8F%E3%83%9E%E3%81%A3%E3%81%9F%E5%85%88%E8%BC%A9/)</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:02:24",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -354,7 +349,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>吉田さんが帽子かぶってる話</li>\n</ul>\n<ul>\n <li>髪を切りに行くのが面倒</li>\n</ul>\n<ul>\n <li>そのままにしない男、まつぴー</li>\n</ul>\n<ul>\n <li>ya8に行ってきた話</li>\n</ul>\n<ul>\n  <li>ごへいもちさんのけん玉の話</li>\n</ul>\n<ul>\n  <li>おいラジオの感想の話</li>\n</ul>\n<ul>\n  <li>おいラジオについて振り返る</li>\n</ul>\n<ul>\n  <li>本場の○○旅行</li>\n</ul>\n<ul>\n  <li>宇都宮の餃子</li>\n</ul>\n<p><br></p>\n<p># 関連リンク</p>\n<ul>\n  <li>[KENDAMA Performerゆーだま【けん玉チャンネル】](https://www.youtube.com/@kendamaperformer5865)</li>\n</ul>\n<ul>\n  <li>https://kendamakentei.com/</li>\n</ul>\n<ul>\n  <li>https://youtu.be/B-E_G8MEf1E?si=kNE9ZNdzUSgJBaxG</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:05:09",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -379,7 +374,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>PHPerKaigi</li>\n <li>転職したてにすべてのパワーを使っているまつぴー</li>\n <li>おいラジオを聴く人は心が豊か</li>\n <li>手ごたえがないまつぴー</li>\n <li>物語思考という本を読んだ</li>\n <li>理想のまつぴー</li>\n <li>理想の青ごへいもち</li>\n <li>理想の吉田あひる</li>\n <li>うんちについて</li>\n <li>心の相場との乖離</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:10:41",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -404,7 +399,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>高尾山登ると調子が良くなる？</li>\n <li> 扉に犬用の扉をあけた話</li>\n  <li>ごへいもちさんがキャンプ行ってない話</li>\n  <li> 離島に行きたい？</li>\n  <li>おいラジオスポーツテスト</li>\n  <li>ゆったりしたキャンプに行きたい</li>\n  <li>日本一周したい</li>\n  <li>トイレに行かない</li>\n  <li>心の相場と乖離があるものについて</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:15:08",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -429,7 +424,7 @@
         "#text": null
       },
       "itunes:summary": "<p>高尾山に上った帰り、焼き肉屋で収録しています。</p>\n<p><br></p>\n<p>\nいくどん 京王高尾店</p>\n<p>https://maps.app.goo.gl/QTW2ADHnFDMwdtSK8</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:08:51",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -454,7 +449,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>吉田さんのギャグ</li>\n <li>吉田さんの芸名</li>\n  <li>泥酔したえんどぅーさん</li>\n  <li>エコキュートの点検の話</li>\n  <li>ごへいもちさんのデスクのレイアウト</li>\n  <li>スタンディングまつぴー</li>\n  <li>リカバリーサンダル</li>\n  <li>本棚の圧</li>\n  <li>トイレトレーニング</li>\n  <li>六花亭</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:06:53",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -479,7 +474,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>キンタママタアシタネ の謎</li>\n <li>新年の抱負</li>\n  <li>子育てについて</li>\n  <li>向上心のリバウンド</li>\n  <li>身長の話</li>\n  <li>北海道の飯の話</li>\n  <li>本場の○〇の話</li>\n  <li>えんどぅーさんの Scrapbox</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:02:12",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -504,7 +499,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>えんどぅさんからのラジオメール</li>\n <li>えんどぅルーレットって何？</li>\n  <li>キャンプの話題がない</li>\n  <li>話題がなくて本当にやばいかもしれない話</li>\n  <li>寿司屋の話</li>\n  <li>特に説明なしに入る地元トーク</li>\n  <li>極楽湯に入りたい</li>\n  <li>回転寿司の好きなネタ</li>\n  <li>本場のウニ食ってないからの話</li>\n  <li>ふぐが偉そうにしてる話</li>\n  <li>意味わかんないやつをわかるようになりたい話</li>\n  <li>ほくほくのじゃがいも</li>\n  <li>苦手な食べ物の話</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:01:23",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -529,7 +524,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>誰もおいラジオの用意していない話</li>\n <li>吉田さんちの娘さんに好かれるまつぴー</li>\n  <li>キャンプ疲れすぎ</li>\n  <li>ごへいもちさん、キャンプで体調不良になる</li>\n  <li>冬のキャンプの寒すぎをどうする問題</li>\n  <li>キャンプ with 子供たち</li>\n  <li>食材はたくさん余った</li>\n  <li>高尾山に行きたい話</li>\n  <li>高所はきつい</li>\n  <li>酢もつが美味いらしい</li>\n  <li>冬キャンプ、荷物多すぎ問題</li>\n  <li>旅館がすべてを解決する説</li>\n  <li>子供を分からせる大人たちの話</li>\n  <li>汁に入った芋が好きじゃない吉田さん</li>\n  <li>ハイボールについて</li>\n  <li>ごへいもちさんの凄さ</li>\n  <li>運転したくない話</li>\n  <li>高尾山で初日の出</li>\n  <li>高尾山未遂の話</li>\n</ul>\n<p>\n# 関連 URL\n<a href=\"https://www.pica-resort.jp/grinpa/\" target=\"_blank\" rel=\"noopener noreferer\">キャンプ場</a></p>\n<p><a href=\"https://www.yamazaki-grp.com/product/tsumami/tsumami005/\" target=\"_blank\" rel=\"noopener noreferer\">酢もつ</a></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:00:38",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -554,7 +549,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>キャンプで食材が余らなかった話</li>\n <li>おいラジオ、世の中にとって良くない</li>\n  <li>薪ストーブについて</li>\n  <li>おいラジオ10回</li>\n  <li>ツナギメエフエムに出て調子が狂う</li>\n  <li>吉田さんが沖縄からの収録を断念した話</li>\n  <li>アカセさん、おいラジオ詳しすぎ問題</li>\n  <li>ツナギメエフエムの反省</li>\n  <li>えんどぅーさんにフリーライドしている</li>\n  <li>えんどぅーさんについて思いをはせる</li>\n  <li>ラジオメールコーナーを設けるはなし</li>\n  <li>おいラジオ編集を外注する</li>\n  <li>吉田さん、子育てで学ぶ</li>\n  <li>吉田さんの沖縄観光について</li>\n  <li>沖縄料理について</li>\n  <li>ハイボールの味を知った吉田さん\n</li>\n</ul>\n<p># 関連 URL</p>\n<p><a href=\"https://twitter.com/tsunagimefm\" target=\"_blank\" rel=\"noopener noreferer\">ツナギメエフエム</a></p>\n<p><a href=\"http://urizun.okinawa/index.html\" target=\"_blank\" rel=\"noopener noreferer\">うりずん</a></p>\n<p><a href=\"https://ryukyugyozamania.owst.jp/\" target=\"_blank\" rel=\"noopener noreferer\">琉球餃子マニア</a></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:01:34",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -579,7 +574,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>キャンプの話</li>\n <li>塩釜焼について</li>\n  <li>えんどぅーさんの首</li>\n  <li>Next Endo’s Hint</li>\n  <li>おいラジオの素振り</li>\n  <li>キャンプ場で青空カンファレンス</li>\n  <li>おいラジオプレゼンツのイベントについて</li>\n  <li>Next Endo’s Hint 大会</li>\n  <li>きゅうりの話</li>\n  <li>絶アレキサンダーの話</li>\n</ul>\n<p><br></p>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://www.aokiyoukei.com/chicken_house/\">⁠青木養鶏場の鶏肉⁠</a> </li>\n  <li><a href=\"https://www.ankerjapan.com/pages/anker-everfrost\">⁠Anker のポータブル冷蔵庫⁠</a> </li>\n  <li><a href=\" https://bo-ttosuru.com/\">⁠ぼーっとする大会⁠</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:04:18",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -604,7 +599,7 @@
         "#text": null
       },
       "itunes:summary": "<p>\n</p>\n<p># トピック</p>\n<ul>\n <li>道志村でのキャンプの話</li>\n <li>雨のキャンプはしんどいという話</li>\n  <li>スノーピークの雪峰祭</li>\n  <li>キャンプ道具場所取り過ぎ</li>\n  <li>キャンプ食材買いすぎちゃう問題</li>\n  <li>キャンプ時のえんどぅーさん</li>\n  <li>えんどぅーさん頼みのおいラジオ</li>\n  <li>24時間表記に慣れてない話</li>\n  <li>英語の勉強</li>\n  <li>勉強する時間をいつとるか</li>\n  <li>おいラジオって誰が聞いてるの？</li>\n  <li>おいラジオは How なのか</li>\n  <li>ベイカーストリートの亡霊</li>\n  <li>お掃除ロボットの話（ecovacs）</li>\n  <li>毎日のお掃除について</li>\n  <li>朝の時間に余裕ができると最高な話</li>\n  <li>えんどぅーさんとしいたけ</li>\n  <li>Next Endo’s Hint について</li>\n</ul>\n<p><br></p>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://www.dod.camp/\">⁠</a><a href=\"https://www.snowpeak.co.jp/event/sepposai/\" target=\"_blank\" rel=\"noopener noreferer\">雪峰祭</a></li>\n  <li><a href=\"https://www.ecovacs.com/jp\" target=\"_blank\" rel=\"noopener noreferer\">ロボット掃除機</a></li>\n  <li><a href=\"https://scrapbox.io/fendo181/profile\" target=\"_blank\" rel=\"noopener noreferer\">えんどぅーさん</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:52:33",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -629,7 +624,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>DOD のキャンプギアが安い</li>\n <li>まつぴーのマイクが違う</li>\n  <li>高尾山へ登りたい</li>\n  <li>ごへいもちさん、キャンプ行き過ぎ</li>\n  <li>吉田さんのやる気</li>\n  <li>ごへいもちさん、キャンプとドラマしかない</li>\n  <li>ポケモンカードとか、レギュレーションとか</li>\n  <li>みちょぱの魂</li>\n  <li>エアコンの不具合の話</li>\n  <li>ごへいもちさんの見たドラマ</li>\n  <li>おいラジオの新企画</li>\n  <li>英語について</li>\n</ul>\n<p><br></p>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://www.dod.camp/\" target=\"_blank\" rel=\"noopener noreferer\">DOD</a></li>\n  <li><a href=\"https://www.tbs.co.jp/VIVANT_tbs/\" target=\"_blank\" rel=\"noopener noreferer\">VIVANT</a></li>\n  <li><a href=\"https://www.ntv.co.jp/saikyo/\" target=\"_blank\" rel=\"noopener noreferer\">最高の教師</a></li>\n  <li><a href=\"https://tver.jp/series/sr5sks0wsv\" target=\"_blank\" rel=\"noopener noreferer\">中山筋太郎</a></li>\n  <li><a href=\"https://amzn.asia/d/f3n8xT5\" target=\"_blank\" rel=\"noopener noreferer\">真・英文法大全</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:56:50",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -654,7 +649,7 @@
         "#text": null
       },
       "itunes:summary": "<p>\n# トピック</p>\n<ul>\n <li>エターナルホスピタリティグループの話</li>\n <li>まつぴーの引っ越し終わる</li>\n <li>とり貴族の話</li>\n <li>やる気ない話</li>\n<ul>\n  <li>高嶺の花さん</li>\n  <li>不徳のギルド</li>\n</ul>\n  <li>八王子の山（高尾山）上りたい</li>\n  <li>まつぴー宅のエアコンがおかしい</li>\n  <li>駅徒歩何分？</li>\n  <li>バス、わからない</li>\n  <li>おいラジオのやる気がない</li>\n  <li>野生の hanhan1978</li>\n  <li>吉田さんが歩きすぎ</li>\n  <li>旅行に行きたい</li>\n  <li>吉田さんは歩いて日本一周したい</li>\n  <li>お遍路巡り代行サービス</li>\n  <li>おいラジオ代行の募集</li>\n  <li>エターナルホスピタリティ、エアコン、代行</li>\n</ul>\n<p><br></p>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://www.asahi.com/articles/ASR9Q63B9R9QULFA02T.html\" target=\"_blank\" rel=\"noopener noreferer\">エターナルホスピタリティグループ</a></li>\n  <li><a href=\"https://amzn.asia/d/hdI0vZQ\" target=\"_blank\" rel=\"noopener noreferer\">高嶺のハナさん</a></li>\n  <li><a href=\"https://amzn.asia/d/bJRxDMF\" target=\"_blank\" rel=\"noopener noreferer\">不徳のギルド</a></li>\n  <li><a href=\"https://www.ohenro-service.site/\" target=\"_blank\" rel=\"noopener noreferer\">お遍路巡り代行サービス</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:55:17",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -679,7 +674,7 @@
         "#text": null
       },
       "itunes:summary": "<p>\n# トピック</p>\n<ul>\n <li>トイサブ</li>\n <li>フローリングのコーティング</li>\n <li>エアコン</li>\n <li>ダイキンのリソラ</li>\n  <li>まつぴー、太る</li>\n  <li>吉田さんのプロポーザルが落ちる件</li>\n  <li>ジュビロ磐田</li>\n  <li>スタフェスのお弁当</li>\n  <li>事業をシステムに落としこむ</li>\n  <li>ごへいもちさんのランニング習慣途切れる？</li>\n  <li>ごへいもちさんの左手首</li>\n  <li>吉田さんのガングリオン</li>\n  <li>実写版ワンピース</li>\n  <li>データエンジニア</li>\n  <li>おいラジオ1000回目</li>\n  <li>高尾山</li>\n</ul>\n<p>\n</p>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://www.ac.daikin.co.jp/kabekake/products/sx_series\" target=\"_blank\" rel=\"noopener noreferer\">ダイキン リソラ</a></li>\n  <li><a href=\"https://stafes.co.jp/pressrelease/29563.html\" target=\"_blank\" rel=\"noopener noreferer\">スタフェスのお弁当</a></li>\n  <li><a href=\"https://www.netflix.com/jp/title/80217863\" target=\"_blank\" rel=\"noopener noreferer\">実写版ワンピース</a></li>\n</ul>\n<p><br></p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "01:06:21",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -704,7 +699,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>ジュビロ磐田の今</li>\n <li>まつぴーマンションを買う</li>\n <li>バチェラーを見る</li>\n <li>ゆきぽよについて</li>\n <li>小田原の海鮮</li>\n</ul>\n<p># 関連 URL</p>\n<ul>\n <li><a href=\"https://www.jubilo-iwata.co.jp/\" target=\"_blank\" rel=\"noopener noreferer\">ジュビロ磐田</a></li>\n  <li><a href=\"https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%9C%89%E5%B8%8C_(%E3%83%A2%E3%83%87%E3%83%AB)\" target=\"_blank\" rel=\"noopener noreferer\">ゆきぽよ</a></li>\n  <li><a href=\"https://fukabori.fm/episode/100\">⁠</a><a href=\"https://phper-tea-night.connpass.com/event/291604/\" target=\"_blank\" rel=\"noopener noreferer\">PHPを動かす技術バトル~PHPer Tea Night~</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:59:52",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -729,7 +724,7 @@
         "#text": null
       },
       "itunes:summary": "<p>\n</p>\n<p># トピック</p>\n<ul>\n <li>まつぴーの誕生日</li>\n <li>体ががたがたな話</li>\n  <li>吉田さんの設計の話</li>\n  <li>運動脳について</li>\n</ul>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://amzn.asia/d/a35FjkY\" target=\"_blank\" rel=\"noopener noreferer\">吉田さんの設計本</a></li>\n  <li><a href=\"https://amzn.asia/d/bAvX133\" target=\"_blank\" rel=\"noopener noreferer\">A Philosophy of Software Design</a></li>\n  <li><a href=\"https://fukabori.fm/episode/100\" target=\"_blank\" rel=\"noopener noreferer\">fukabori.fm ep 100</a></li>\n  <li><a href=\"https://amzn.asia/d/cFccQ8m\" target=\"_blank\" rel=\"noopener noreferer\">運動脳</a></li>\n</ul>\n<p>\n\n</p>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:54:54",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -754,7 +749,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>早起きについて</li>\n <li>吉田さんがろくろを回した話</li>\n  <li>夏のキャンプ</li>\n  <li>ごへいもちさんが凄い</li>\n  <li>冷凍オクラ</li>\n</ul>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://youtu.be/fOsaVft0Mtw\" target=\"_blank\" rel=\"noopener noreferer\">ポケモンスリープ監修柳沢正史氏の動画</a></li>\n  <li><a href=\"https://findy-code.io/enterprise-service/starfestival_interview/\" target=\"_blank\" rel=\"noopener noreferer\">ろくろをまわした吉田さん</a></li>\n  <li><a href=\"https://www.snowpeak.co.jp/locations/shirakawa/\" target=\"_blank\" rel=\"noopener noreferer\">スノーピーク白河高原キャンプフィールド</a></li>\n  <li><a href=\"https://www.pica-resort.jp/sagamiko/\" target=\"_blank\" rel=\"noopener noreferer\">PICAさがみ湖</a>\n\n</li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:52:21",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38442387/38442387-1689266860068-ce9538c73376e.jpg",
@@ -779,7 +774,7 @@
         "#text": null
       },
       "itunes:summary": "<p># トピック</p>\n<ul>\n <li>おいって何？</li>\n <li>最近した読書</li>\n  <li>キャンプ</li>\n  <li>プライムデーで買ったもの</li>\n  <li>ごへいもちさん家の芝</li>\n</ul>\n<p># 関連 URL</p>\n<ul>\n  <li><a href=\"https://amzn.asia/d/798bGLw⁠\">⁠生き方⁠</a></li>\n  <li><a href=\"https://amzn.asia/d/fHGW1F7\">⁠プログラマー脳⁠</a></li>\n  <li><a href=\"https://amzn.asia/d/95WWnl5\">Good Code, Bad Code⁠</a></li>\n  <li><a href=\"https://amzn.asia/d/j1wbFch\">単体テストの考え方 / 使い方⁠</a></li>\n  <li><a href=\"https://amzn.asia/d/6xguBYh\">ショーハショーテン！⁠</a></li>\n  <li><a href=\"https://amzn.asia/d/h4JWvMn\">コーヒーの科学</a></li>\n  <li><a href=\"https://speakerdeck.com/77web/subayakushi-zhuang-surutamenozhan-lue-totekunituku2023nian-ban\">すばやく実装するための戦略とテクニック2023年版⁠</a></li>\n  <li><a href=\"https://www.kinboshi-pro.jp/SHOP/GCX-2500L.html\">いい芝刈り⁠</a></li>\n</ul>",
-      "itunes:explicit": "No",
+      "itunes:explicit": false,
       "itunes:duration": "00:46:05",
       "itunes:image": {
         "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/38442387/38442387-1689266764630-2ec2b674c8e3e.jpg",
