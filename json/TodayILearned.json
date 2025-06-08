@@ -37,6 +37,32 @@
   },
   "item": [
     {
+      "title": "163. Staff Engineer（技術参謀）とは？",
+      "description": "<p>### 関連書籍等</p><p>- 「Staff Engineer: Leadership beyond the management track」</p><p> - [https://amzn.to/3CGI7hd](https://t.co/2wTT0FyOgb)</p><p> - 邦題「Staff Engineer - 管理職にならずに活躍しつづける最強のソフトウェアエンジニアへ!」</p><p>- An Elegant Puzzle: Systems of Engineering Management https://amzn.to/4ly22Fv</p><p>    - **エレガントパズル　エンジニアのマネジメントという難問にあなたはどう立ち向かうのか** https://amzn.to/3YFcn8N</p><p>    - See also: The Staff Engineer’s Path by [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/)</p><p>- Ryoichiの2021 読了メモ: https://x.com/ryo1kato/status/1425629458929643523</p><p><br /></p><p>### 関連エピソード</p><p>- ep3. Thriving on the Technical Leadership Path</p><p>- ep10. What distinguishes a great software engineer from a good one?</p><p>- ep64. 技術チームのリーダーが優れた技術者であるべき理由</p><p><br /></p><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p><br /></p><p>Your co-hosts:</p><p><br /></p><p>- Tomoaki Imai, Noxx CTO  https://twitter.com/tomoaki_imai</p><p>- Ryoichi Kato, Software Engineer https://twitter.com/ryo1kato</p>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/163--Staff-Engineer-e33k6jl",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "55a83a47-3cb6-4c2e-b66f-3d15cadbb5d5"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 08 Jun 2025 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/103471157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-31%2Fa631f46a-f2ef-a32e-a103-f36a61124ff9.mp3",
+        "@length": 31122696,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>### 関連書籍等</p><p>- 「Staff Engineer: Leadership beyond the management track」</p><p> - [https://amzn.to/3CGI7hd](https://t.co/2wTT0FyOgb)</p><p> - 邦題「Staff Engineer - 管理職にならずに活躍しつづける最強のソフトウェアエンジニアへ!」</p><p>- An Elegant Puzzle: Systems of Engineering Management https://amzn.to/4ly22Fv</p><p>    - **エレガントパズル　エンジニアのマネジメントという難問にあなたはどう立ち向かうのか** https://amzn.to/3YFcn8N</p><p>    - See also: The Staff Engineer’s Path by [Tanya Reilly](https://www.linkedin.com/in/tanyareilly/)</p><p>- Ryoichiの2021 読了メモ: https://x.com/ryo1kato/status/1425629458929643523</p><p><br /></p><p>### 関連エピソード</p><p>- ep3. Thriving on the Technical Leadership Path</p><p>- ep10. What distinguishes a great software engineer from a good one?</p><p>- ep64. 技術チームのリーダーが優れた技術者であるべき理由</p><p><br /></p><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p><br /></p><p>Your co-hosts:</p><p><br /></p><p>- Tomoaki Imai, Noxx CTO  https://twitter.com/tomoaki_imai</p><p>- Ryoichi Kato, Software Engineer https://twitter.com/ryo1kato</p>",
+      "itunes:explicit": false,
+      "itunes:duration": "00:40:05",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episode": 163,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "162. 6万行のLuaで書かれたゲームをリリースして思うこと",
       "description": "<p>Luaというプログラミング言語で6万行のゲームアプリを書いた話について話しました。</p><ul><li><a href=\"https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733\">https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733</a></li><li>Defoldゲームエンジン <a href=\"https://defold.com/\">https://defold.com/</a></li><li>Lua <a href=\"https://ja.wikipedia.org/wiki/Lua\">https://ja.wikipedia.org/wiki/Lua</a></li><li>Learn Lua <a href=\"https://tylerneylon.com/a/learn-lua/\">https://tylerneylon.com/a/learn-lua/</a></li><li>言語ランキング <a href=\"https://survey.stackoverflow.co/2024/technology\">https://survey.stackoverflow.co/2024/technology</a></li><li>言語ランキングその2 <a href=\"https://www.tiobe.com/tiobe-index/\">https://www.tiobe.com/tiobe-index/</a></li><li>パフォーマンス <a href=\"https://programming-language-benchmarks.vercel.app/lua-vs-python\">https://programming-language-benchmarks.vercel.app/lua-vs-python</a></li><li>なにかにぶつかったときの条件分岐ロジックhttps://gist.github.com/zulman/cbb30496100d375082da43c87144d14c#file-if_selector-lua</li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/162--6Lua-e33jgbv",
