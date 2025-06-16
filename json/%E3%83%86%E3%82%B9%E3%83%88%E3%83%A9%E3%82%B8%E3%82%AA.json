@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 11 May 2025 23:00:00 +0000",
+  "lastBuildDate": "Sun, 15 Jun 2025 23:00:00 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,38 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第271回 テストラジオJaSST Tohokuに参加した話",
+      "link": "https://testradio.fm/testradio-no/1657/",
+      "pubDate": "Sun, 15 Jun 2025 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1657"
+      },
+      "comments": "https://testradio.fm/testradio-no/1657/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1657/feed/",
+      "slash:comments": 0,
+      "category": [
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2025/06/N271TestRadio.mp3",
+        "@length": 52407385,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/rBV6mK1FI5o",
+      "itunes:summary": "https://youtu.be/rBV6mK1FI5o",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "36:23",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1657
+      }
+    },
     {
       "title": "第270回 テストラジオTest Planを語る夕べ(勉強会の話)",
       "link": "https://testradio.fm/testradio-no/1651/",
@@ -339,39 +371,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1613
-      }
-    },
-    {
-      "title": "第261回 テストラジオ アドベントカレンダー書いた話と今年のふりかえり",
-      "link": "https://testradio.fm/testradio-no/1610/",
-      "pubDate": "Sun, 15 Dec 2024 23:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1610"
-      },
-      "comments": "https://testradio.fm/testradio-no/1610/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1610/feed/",
-      "slash:comments": 0,
-      "category": [
-        "テストラジオ",
-        "なそ回",
-        "よしたけ回"
-      ],
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2024/12/N261TestRadio2.mp3",
-        "@length": 44222563,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://youtu.be/pRyg5VnlDN0",
-      "itunes:summary": "https://youtu.be/pRyg5VnlDN0",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "30:42",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1610
       }
     }
   ]
