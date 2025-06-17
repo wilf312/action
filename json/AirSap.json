@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Tue, 27 May 2025 12:24:07 +0000",
+  "lastBuildDate": "Tue, 17 Jun 2025 00:29:42 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -50,6 +50,34 @@
   "itunes:block": "no",
   "itunes:explicit": false,
   "item": [
+    {
+      "title": "#95 Liquid Glassの夏",
+      "link": "https://airsap.net/2025/06/17/95-liquid-glass/",
+      "pubDate": "Tue, 17 Jun 2025 00:29:42 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5dcfe544-d756-4906-8630-8732120379c0"
+      },
+      "description": "<a href=\"https://developer.apple.com/jp/videos/play/wwdc2025/219/\">Liquid Glassの紹介 - WWDC25 - ビデオ - Apple Developer</a>",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2025/06/17/95-liquid-glass/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/285/s/feed/c/podcast/AirSap_95_20250613.mp3",
+        "@length": 20228651,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:28:05",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "Liquid Glassの夏",
+      "itunes:episode": 95,
+      "itunes:episodeType": "full",
+      "itunes:summary": "<a href=\"https://developer.apple.com/jp/videos/play/wwdc2025/219/\">Liquid Glassの紹介 - WWDC25 - ビデオ - Apple Developer</a>"
+    },
     {
       "title": "#94 5年日記、始めました",
       "link": "https://airsap.net/2025/05/27/diary/",
