@@ -2,7 +2,7 @@
   "title": "AirSap",
   "link": "https://airsap.net",
   "description": "札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast",
-  "lastBuildDate": "Sat, 26 Jul 2025 21:19:03 +0000",
+  "lastBuildDate": "Mon, 25 Aug 2025 01:50:01 +0000",
   "image": {
     "url": "http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg",
     "title": "AirSap",
@@ -50,6 +50,34 @@
   "itunes:block": "no",
   "itunes:explicit": false,
   "item": [
+    {
+      "title": "#97 習慣化のコツと習慣化アプリの矛盾",
+      "link": "https://airsap.net/2025/08/25/97-habituation/",
+      "pubDate": "Mon, 25 Aug 2025 01:50:01 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "3c905b9f-6b2e-4c8f-adca-a198708cdb70"
+      },
+      "description": "筋トレ、1年以上続いてます！",
+      "atom:link": {
+        "@rel": "http://podlove.org/deep-link",
+        "@href": "https://airsap.net/2025/08/25/97-habituation/#",
+        "#text": null
+      },
+      "enclosure": {
+        "@url": "https://airsap.net/podlove/file/288/s/feed/c/podcast/AirSap_97_20250805.mp3",
+        "@length": 9179898,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:12:44",
+      "itunes:author": "AirSap",
+      "itunes:subtitle": null,
+      "itunes:title": "習慣化のコツと習慣化アプリの矛盾",
+      "itunes:episode": 97,
+      "itunes:episodeType": "full",
+      "itunes:summary": "筋トレ、1年以上続いてます！"
+    },
     {
       "title": "#96 Claude Codeなしには戻れない",
       "link": "https://airsap.net/2025/07/27/96-claude-code/",
