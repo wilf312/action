@@ -37,6 +37,33 @@
   },
   "item": [
     {
+      "title": "75: BIMIが普及してきた話など",
+      "description": "<p>しばらくぶりです！BIMIが普及するに伴ってメールクライアント上で公式ロゴが表示されることについての一般向けのメッセージが出始めています。フィッシング対策として紹介されることもあるようですが、BIMI.orgはBIMIはセキュリティソリューションではないと言っていることに注意が必要ですよね～という話、みんなとりあえずDMARCやろうよ～という話をしました。また、Let'sEncryptがOCSPを2025/08/06に予定通りやめた話、IPアドレス証明書、6日間の短命証明書の発行を始めた話などもしました。</p><p>雑談では一緒に歌舞伎を見た話、ひとけー万博行った話、クイックルワイパーの話などをしました。</p><p> </p><p> </p><p>BIMI.org</p><p>- <a href=\"https://bimigroup.org/all-about-bimi/\">https://bimigroup.org/all-about-bimi/</a></p><p>ひとけー前職最後の脅威分析ブログ</p><p>- <a href=\"https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html\">https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html</a></p><p></p>",
+      "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/75-BIMI-e382uob",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "5a140d9c-873c-4a19-88b4-6ec372147fda"
+      },
+      "dc:creator": "Eureka",
+      "pubDate": "Fri, 12 Sep 2025 03:47:41 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/42b89b8c/podcast/play/108148939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-11%2F407289425-44100-2-801d31475d6ed.m4a",
+        "@length": 68710981,
+        "@type": "audio/x-m4a",
+        "#text": null
+      },
+      "itunes:summary": "<p>しばらくぶりです！BIMIが普及するに伴ってメールクライアント上で公式ロゴが表示されることについての一般向けのメッセージが出始めています。フィッシング対策として紹介されることもあるようですが、BIMI.orgはBIMIはセキュリティソリューションではないと言っていることに注意が必要ですよね～という話、みんなとりあえずDMARCやろうよ～という話をしました。また、Let&#39;sEncryptがOCSPを2025/08/06に予定通りやめた話、IPアドレス証明書、6日間の短命証明書の発行を始めた話などもしました。</p><p>雑談では一緒に歌舞伎を見た話、ひとけー万博行った話、クイックルワイパーの話などをしました。</p><p> </p><p> </p><p>BIMI.org</p><p>- <a href=\"https://bimigroup.org/all-about-bimi/\">https://bimigroup.org/all-about-bimi/</a></p><p>ひとけー前職最後の脅威分析ブログ</p><p>- <a href=\"https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html\">https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html</a></p><p></p>",
+      "itunes:explicit": false,
+      "itunes:duration": "01:10:48",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11093947/11093947-1616541009081-9a5bb2cc6c57c.jpg",
+        "#text": null
+      },
+      "itunes:season": 1,
+      "itunes:episode": 75,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "74: WebPKIの証明書の有効期間を最長47日にする件(2029年3月までに段階的に導入)",
       "description": "<p>ep70でも話した、WebPKIの証明書の有効期間を最長47日にしたい件について、CABFで投票が行われ、可決された件について話しました。他、CABFのF2Fミーティングが2025年3月に日本でホストされた話、ルート証明書登録プログラム(CA Certificate Root Program)のBugzillaでSectigoがDigiCertに法的に脅されていると主張した件についても少しだけ話しました。雑談では、ゆりかとひとけー一緒に韓国旅行行ってきた、ひとけーはシンガポールでBlack Hat Asiaにも行ってきた、という話をしました。</p><p><br></p><ul><li> Apple Clint Wisonさん提案のSC-081 SC-081: <a href=\"https://github.com/cabforum/servercert/pull/553\" target=\"_blank\" rel=\"noopener noreferer\">Introduce Schedule of Reducing Validity and Data Reuse Periods by clintwilson · Pull Request #553 · cabforum/servercert · GitHub</a></li></ul><ul><li> <a href=\"https://www.secomtrust.net/topics/2025/topics_003.html\" target=\"_blank\" rel=\"noopener noreferer\">CA/Browser Forum、東京でオフラインミーティングを開催【セコム】</a></li></ul><ul><li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1950144\" target=\"_blank\" rel=\"noopener noreferer\">DigiCert: Threat of legal action to stifle Bugzilla discourse</a></li></ul><ul><li><a href=\"https://www.blackhat.com/asia-25/\" target=\"_blank\" rel=\"noopener noreferer\">Black Hat Asia 2025</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/hitokuchipki/episodes/74-WebPKI4720293-e31i415",
