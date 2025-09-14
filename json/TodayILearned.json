@@ -37,31 +37,6 @@
   },
   "item": [
     {
-      "title": "177. GPT-5のプロンプトエンジニアリングガイドを読み解く",
-      "description": "<p>GPT-5のプロンプトエンジニアリングガイドを読み解き、良いプロンプトを書くための方法について話しました。</p><p><br></p><ul><li>Prompting guide <a href=\"https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide</a></li><li>Optimizer tool: <a href=\"https://platform.openai.com/chat/edit?models=gpt-5&optimize=true\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://platform.openai.com/chat/edit?models=gpt-5&optimize=true</a></li><li><a href=\"https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf</a></li><li>ブログ https://tomoima525.hatenablog.com/entry/2025/08/31/065459 </li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
-      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/177--GPT-5-e386jgt",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "8b3f4e0c-448f-4137-9d63-e679295db8f4"
-      },
-      "dc:creator": "Software Developers in SiliconValley",
-      "pubDate": "Sun, 14 Sep 2025 18:00:00 GMT",
-      "enclosure": {
-        "@url": "https://anchor.fm/s/367f0040/podcast/play/108268509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-14%2F7898ee15-c51f-938c-2c18-64386645ea36.mp3",
-        "@length": 61214369,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:summary": "<p>GPT-5のプロンプトエンジニアリングガイドを読み解き、良いプロンプトを書くための方法について話しました。</p><p><br></p><ul><li>Prompting guide <a href=\"https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide</a></li><li>Optimizer tool: <a href=\"https://platform.openai.com/chat/edit?models=gpt-5&optimize=true\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://platform.openai.com/chat/edit?models=gpt-5&amp;optimize=true</a></li><li><a href=\"https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf</a></li><li>ブログ https://tomoima525.hatenablog.com/entry/2025/08/31/065459 </li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
-      "itunes:explicit": false,
-      "itunes:duration": "00:40:21",
-      "itunes:image": {
-        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
-        "#text": null
-      },
-      "itunes:episodeType": "full"
-    },
-    {
       "title": "176. 上達の法則",
       "description": "<p>書籍「上達の法則 効率のよい努力を科学する」を元に、上級者や達人は初級者中級者とは何が違うのか、そしてどのようにスキルを身に付けたのかを説明します。「上手・下手」という曖昧な言葉ではなく、鋭く言語化された「上級者とは何か」の説明に感心しました。</p><ul><li>「上達の法則 効率のよい努力を科学する」PHP親書 <a href=\"https://amzn.to/45K5MwA\">https://amzn.to/45K5MwA</a></li><li>ep.150「科学的根拠に基づく最高の勉強法」<a href=\"https://open.spotify.com/episode/15WAB4C8TI6O39BLNpKzOk\">https://open.spotify.com/episode/15WAB4C8TI6O39BLNpKzOk</a></li></ul><p><br></p><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\">https://twitter.com/tomoaki_imai</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/176-e377rjh",
