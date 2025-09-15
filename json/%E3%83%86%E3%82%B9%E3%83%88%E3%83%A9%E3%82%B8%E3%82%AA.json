@@ -8,7 +8,7 @@
   },
   "link": "https://testradio.fm",
   "description": null,
-  "lastBuildDate": "Sun, 10 Aug 2025 23:00:00 +0000",
+  "lastBuildDate": "Mon, 15 Sep 2025 02:06:02 +0000",
   "language": "ja",
   "sy:updatePeriod": "hourly",
   "sy:updateFrequency": 1,
@@ -61,6 +61,39 @@
     "#text": 136357680
   },
   "item": [
+    {
+      "title": "第278回 テストラジオ RFID リーダーについて",
+      "link": "https://testradio.fm/testradio-no/1687/",
+      "pubDate": "Sun, 10 Aug 2025 23:00:00 +0000",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "https://testradio.fm/?p=1687"
+      },
+      "comments": "https://testradio.fm/testradio-no/1687/#respond",
+      "wfw:commentRss": "https://testradio.fm/testradio-no/1687/feed/",
+      "slash:comments": 0,
+      "category": [
+        "テストラジオ",
+        "なそ回",
+        "よしたけ回"
+      ],
+      "description": null,
+      "enclosure": {
+        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2025/08/N278TestRadio.mp3",
+        "@length": 44475449,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:subtitle": "https://youtu.be/BhmFsb4Bp1w",
+      "itunes:summary": "https://youtu.be/BhmFsb4Bp1w",
+      "itunes:author": "なそとオカウチワニのテストラジオ",
+      "itunes:explicit": "clean",
+      "itunes:duration": "30:53",
+      "post-id": {
+        "@xmlns": "com-wordpress:feed-additions:1",
+        "#text": 1687
+      }
+    },
     {
       "title": "第277回 テストラジオ RFタグを使った端末管理システムの話",
       "link": "https://testradio.fm/testradio-no/1683/",
@@ -346,35 +379,6 @@
       "post-id": {
         "@xmlns": "com-wordpress:feed-additions:1",
         "#text": 1644
-      }
-    },
-    {
-      "title": "第268回 テストラジオ 雑談 四国旅行の話",
-      "link": "https://testradio.fm/testradio-no/1642/",
-      "pubDate": "Sun, 27 Apr 2025 15:00:00 +0000",
-      "guid": {
-        "@isPermaLink": false,
-        "#text": "https://testradio.fm/?p=1642"
-      },
-      "comments": "https://testradio.fm/testradio-no/1642/#respond",
-      "wfw:commentRss": "https://testradio.fm/testradio-no/1642/feed/",
-      "slash:comments": 0,
-      "category": "雑談",
-      "description": null,
-      "enclosure": {
-        "@url": "https://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2025/04/N268TestRadio.mp3",
-        "@length": 43535564,
-        "@type": "audio/mpeg",
-        "#text": null
-      },
-      "itunes:subtitle": "https://youtu.be/W3n9saeRCRo",
-      "itunes:summary": "https://youtu.be/W3n9saeRCRo",
-      "itunes:author": "なそとオカウチワニのテストラジオ",
-      "itunes:explicit": "clean",
-      "itunes:duration": "30:14",
-      "post-id": {
-        "@xmlns": "com-wordpress:feed-additions:1",
-        "#text": 1642
       }
     }
   ]
