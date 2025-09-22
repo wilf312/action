@@ -37,6 +37,32 @@
   },
   "item": [
     {
+      "title": "178. AI時代のデータセンター",
+      "description": "<p>旧来のデータセンターとAI用のデータセンターは何が違うのかについて話しました。 </p><p><br></p><p>Metaのテント型データセンター: https://www.fastcompany.com/91369896/meta-is-using-tents-to-build-its-giant-ai-data-centers</p><p><br></p><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>こちらでも質問やコメントを募集しています→ ⁦https://forms.gle/MwvfMC1Xv16bn74E8⁩ </p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://twitter.com/tomoaki_imai</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://twitter.com/ryo1kato</a></li></ul><p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/178--AI-e38gq6u",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "faf8be21-1c36-4d94-8a83-ccd659452828"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 21 Sep 2025 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/108603038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F1943b1d2-d502-89d7-e230-df08ad46cc4f.mp3",
+        "@length": 60690724,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>旧来のデータセンターとAI用のデータセンターは何が違うのかについて話しました。 </p><p><br></p><p>Metaのテント型データセンター: https://www.fastcompany.com/91369896/meta-is-using-tents-to-build-its-giant-ai-data-centers</p><p><br></p><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>こちらでも質問やコメントを募集しています→ ⁦https://forms.gle/MwvfMC1Xv16bn74E8⁩ </p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://twitter.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://twitter.com/tomoaki_imai</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://twitter.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://twitter.com/ryo1kato</a></li></ul><p><br></p>",
+      "itunes:explicit": false,
+      "itunes:duration": "00:42:08",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episode": 178,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "177. GPT-5のプロンプトエンジニアリングガイドを読み解く",
       "description": "<p>GPT-5のプロンプトエンジニアリングガイドを読み解き、良いプロンプトを書くための方法について話しました。</p><p><br></p><ul><li>Prompting guide <a href=\"https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide</a></li><li>Optimizer tool: <a href=\"https://platform.openai.com/chat/edit?models=gpt-5&optimize=true\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://platform.openai.com/chat/edit?models=gpt-5&optimize=true</a></li><li><a href=\"https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf</a></li><li>ブログ https://tomoima525.hatenablog.com/entry/2025/08/31/065459 </li></ul><p>感想をぜひハッシュタグ #todayILearnedFM #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/177--GPT-5-e386jgt",
