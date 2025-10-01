@@ -35,6 +35,31 @@
   },
   "item": [
     {
+      "title": "133. gpt-ossを支える技術 w/ yasukawa0713",
+      "description": "<p>yasukawa0713さんをゲストに、gpt-ossを支える技術（アーキテクチャ、RoPEとYaRN、MXPF4など）ついて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://openai.com/ja-JP/index/gpt-oss-model-card/\" rel=\"noopener noreferrer\" target=\"_blank\">gpt-oss</a></li><li>gpt-ossのモデルアーキテクチャ</li><li>MoEの仕組みとメリット</li><li>コンテキスト長を伸ばす工夫</li><li>RoPEとYaRN</li><li>量子化とその手法</li><li>MXFP4 とは</li><li>gpt-oss で使われているトークナイザ</li><li>BPE(Byte-Pair Encoding)とは</li><li>Harmony Chat Format (HCF)とは何か、その概要</li><li>Agentic Tool Use</li><li>model cardで安全性周りで述べられていること</li><li>gpt-oss の使用感</li><li><a href=\"https://rokadoc.ntt.com/\" rel=\"noopener noreferrer\" target=\"_blank\">rokadoc</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "itunes:title": "133. gpt-ossを支える技術 w/ yasukawa0713",
+      "itunes:episodeType": "full",
+      "itunes:summary": "yasukawa0713さんをゲストに、gpt-ossを支える技術（アーキテクチャ、RoPEとYaRN、MXPF4など）ついて語っていただいたエピソードです。\n\n話したネタgpt-ossgpt-ossのモデルアーキテクチャMoEの仕組みとメリットコンテキスト長を伸ばす工夫RoPEとYaRN量子化とその手法MXFP4 とはgpt-oss で使われているトークナイザBPE(Byte-Pair Encoding)とはHarmony Chat Format (HCF)とは何か、その概要Agentic Tool Usemodel cardで安全性周りで述べられていることgpt-oss の使用感rokadoc\n\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "content:encoded": "<p>yasukawa0713さんをゲストに、gpt-ossを支える技術（アーキテクチャ、RoPEとYaRN、MXPF4など）ついて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li><a href=\"https://openai.com/ja-JP/index/gpt-oss-model-card/\" rel=\"noopener noreferrer\" target=\"_blank\">gpt-oss</a></li><li>gpt-ossのモデルアーキテクチャ</li><li>MoEの仕組みとメリット</li><li>コンテキスト長を伸ばす工夫</li><li>RoPEとYaRN</li><li>量子化とその手法</li><li>MXFP4 とは</li><li>gpt-oss で使われているトークナイザ</li><li>BPE(Byte-Pair Encoding)とは</li><li>Harmony Chat Format (HCF)とは何か、その概要</li><li>Agentic Tool Use</li><li>model cardで安全性周りで述べられていること</li><li>gpt-oss の使用感</li><li><a href=\"https://rokadoc.ntt.com/\" rel=\"noopener noreferrer\" target=\"_blank\">rokadoc</a></li></ul><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "gid://art19-episode-locator/V0/0lk199U-d7u_Fv2jDy8Gybgk9muXMGgFwqCcbrg4hJo"
+      },
+      "pubDate": "Wed, 01 Oct 2025 00:00:00 -0000",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "@href": "https://content.production.cdn.art19.com/images/28/bf/04/31/28bf0431-df7e-40ed-a1d1-e420a6928e7c/662ff17902edaaf9f2cc5d70f0deabba08030d44ead4205b4769b33693ddc1f334f024bacbca24e17e039d56ac672f09ca9f576e264a4e42c69e6df9dd7813a1.jpeg",
+        "#text": null
+      },
+      "itunes:duration": "00:43:14",
+      "enclosure": {
+        "@url": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/22992176-091d-4ba5-9cc8-1dab7ce2e2b4.mp3?rss_browser=BAhJIgljdXJsBjoGRVQ%3D--435795d5c850773aaa4739d968bd77a1dfd6f301",
+        "@type": "audio/mpeg",
+        "@length": 41515049,
+        "#text": null
+      }
+    },
+    {
       "title": "132. CTO/CPOに至るまでのキャリア、AI時代のプロダクトマネジメント w/ nekokak",
       "description": "<p>LayerX CPOのnekokakさんをゲストに、CTOとCPOに至るまでのキャリア、参考になった書籍、AI時代のプロダクトマネジメントなどについて語っていただいたエピソードです。</p><p><strong>話したネタ</strong></p><ul><li>キャリアの始まり、文系（法学部）から未経験でIT業界（SES）</li><li>初期の仕事、Perlを使ったECサイトの開発・運用</li><li>DeNAのCTOになるまでの経緯、キャリア変遷</li><li>マネジメントの学び方</li><li>「コトに向かう」ことと、メンバーのモチベーションを重視</li><li>読んで参考になった本</li><li><a href=\"https://amzn.to/4kQZPDL\" rel=\"noopener noreferrer\" target=\"_blank\">1分間マネジャー</a></li><li>良いストーリーとは？</li><li>大企業の意思決定の裏側</li><li>経営陣に響くメッセージの作り方</li><li>LayerXへの転職理由</li><li>nekokak普段使っているAIツール</li><li>AI時代のプロダクトマネジメント</li><li>CPOとしての役割</li><li>AIプロダクト開発の難しさ</li><li><a href=\"https://layerx.co.jp/news/20250723/\" rel=\"noopener noreferrer\" target=\"_blank\">Bet AI Day</a></li></ul><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
       "itunes:title": "132. CTO/CPOに至るまでのキャリア、AI時代のプロダクトマネジメント w/ nekokak",
