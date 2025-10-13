@@ -37,6 +37,32 @@
   },
   "item": [
     {
+      "title": "181. Claude Codeの障害レポートを読み解く",
+      "description": "<p>Antholopic の障害レポートもとに、2025年8月から9月に掛けて発生した Claude の三つの障害について話していきます。</p><p><strong>A postmortem of three recent issues</strong> <a href=\"https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues\">https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</a></p><p>関連エピソード</p><ul><li>Debugging - 問題解決のための9のルール  <a href=\"https://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7?si=11rspwkcRDiDHbYDbem5EQ\">ttps://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7</a></li></ul><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/181--Claude-Code-e39d47a",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "7f00f30f-763d-4881-b02b-2aa8a8346723"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 12 Oct 2025 20:00:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/109530794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-11%2F19c3d328-a443-8a75-3a9e-e15c139eb5ee.mp3",
+        "@length": 47831671,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>Antholopic の障害レポートもとに、2025年8月から9月に掛けて発生した Claude の三つの障害について話していきます。</p><p><strong>A postmortem of three recent issues</strong> <a href=\"https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues\">https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</a></p><p>関連エピソード</p><ul><li>Debugging - 問題解決のための9のルール  <a href=\"https://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7?si=11rspwkcRDiDHbYDbem5EQ\">ttps://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7</a></li></ul><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
+      "itunes:explicit": false,
+      "itunes:duration": "00:33:12",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episode": 181,
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "180. Software Jargons",
       "description": "<p>ソフトウェアの業界用語や省略語について雑談しました。</p><p>神オブジェクト、FYI、LOL、カーゴカルトなど、あなたはいくつ知っていましたか？</p><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p><br></p><p>関連エピソード 112. ソフトウェア開発の法則集 https://open.spotify.com/episode/4ljsuQmowgaMac13Ns8vO6</p><p><br></p><p><br></p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://x.com/tomoaki_imai\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/180--Software-Jargons-e38pp4l",
