@@ -37,6 +37,31 @@
   },
   "item": [
     {
+      "title": "182. AI Agentをめぐる”オープンウェブ”論争",
+      "description": "<p>今日はAI Agentのウェブアクセスを巡ってXで巻き起こった大論争について話しました。</p><ul><li>Cloudflareの声明 <a href=\"https://gigazine.net/news/20250805-cloudflare-perplexity-crawlers/\">https://gigazine.net/news/20250805-cloudflare-perplexity-crawlers/</a></li><li>Perplexityの反論 <a href=\"https://www.perplexity.ai/hub/blog/agents-or-bots-making-sense-of-ai-on-the-open-web\">https://www.perplexity.ai/hub/blog/agents-or-bots-making-sense-of-ai-on-the-open-web</a></li><li>YCのCEOが火に油を注ぐ <a href=\"https://x.com/garrytan/status/1961115612996145381\">https://x.com/garrytan/status/1961115612996145381</a></li><li>有名インディー開発者がCloudflareを褒めてVercelを貶す <a href=\"https://x.com/levelsio/status/1963322668473881082\">https://x.com/levelsio/status/1963322668473881082</a></li><li>AP2 <a href=\"https://github.com/google-agentic-commerce/AP2\">https://github.com/google-agentic-commerce/AP2</a></li></ul><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul><p><br></p>",
+      "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/182--AI-Agent-e39mknb",
+      "guid": {
+        "@isPermaLink": false,
+        "#text": "594e63aa-d1ce-4e27-9882-4a184068c48c"
+      },
+      "dc:creator": "Software Developers in SiliconValley",
+      "pubDate": "Sun, 19 Oct 2025 18:06:00 GMT",
+      "enclosure": {
+        "@url": "https://anchor.fm/s/367f0040/podcast/play/109842603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-18%2Fd9b3badc-0e7f-6878-6d84-241aafdc83e8.mp3",
+        "@length": 53318256,
+        "@type": "audio/mpeg",
+        "#text": null
+      },
+      "itunes:summary": "<p>今日はAI Agentのウェブアクセスを巡ってXで巻き起こった大論争について話しました。</p><ul><li>Cloudflareの声明 <a href=\"https://gigazine.net/news/20250805-cloudflare-perplexity-crawlers/\">https://gigazine.net/news/20250805-cloudflare-perplexity-crawlers/</a></li><li>Perplexityの反論 <a href=\"https://www.perplexity.ai/hub/blog/agents-or-bots-making-sense-of-ai-on-the-open-web\">https://www.perplexity.ai/hub/blog/agents-or-bots-making-sense-of-ai-on-the-open-web</a></li><li>YCのCEOが火に油を注ぐ <a href=\"https://x.com/garrytan/status/1961115612996145381\">https://x.com/garrytan/status/1961115612996145381</a></li><li>有名インディー開発者がCloudflareを褒めてVercelを貶す <a href=\"https://x.com/levelsio/status/1963322668473881082\">https://x.com/levelsio/status/1963322668473881082</a></li><li>AP2 <a href=\"https://github.com/google-agentic-commerce/AP2\">https://github.com/google-agentic-commerce/AP2</a></li></ul><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul><p><br></p>",
+      "itunes:explicit": false,
+      "itunes:duration": "00:38:25",
+      "itunes:image": {
+        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/9042928/9042928-1711304399741-372a24719e1f8.jpg",
+        "#text": null
+      },
+      "itunes:episodeType": "full"
+    },
+    {
       "title": "181. Claude Codeの障害レポートを読み解く",
       "description": "<p>Antholopic の障害レポートもとに、2025年8月から9月に掛けて発生した Claude の三つの障害について話していきます。</p><p><strong>A postmortem of three recent issues</strong> <a href=\"https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues\">https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</a></p><p>関連エピソード</p><ul><li>Debugging - 問題解決のための9のルール  <a href=\"https://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7?si=11rspwkcRDiDHbYDbem5EQ\">ttps://open.spotify.com/episode/6qAg4cc6P8tMbbGu8kNSz7</a></li></ul><p>感想をぜひハッシュタグ #tilfm でつぶやいてください!</p><p>お便りフォーム <a href=\"https://forms.gle/J2ioXHS98dYNoMbq5\">https://forms.gle/J2ioXHS98dYNoMbq5</a></p><p>Your co-hosts:</p><ul><li>Tomoaki Imai, Noxx CTO  <a href=\"https://x.com/tomoaki_imai\">https://x.com/tomoaki_imai</a> bsky: <a href=\"https://bsky.app/profile/tomoaki-imai.bsky.social\">https://bsky.app/profile/tomoaki-imai.bsky.social</a></li><li>Ryoichi Kato, Software Engineer <a href=\"https://x.com/ryo1kato\">⁠https://x.com/ryo1kato</a> bsky: <a href=\"https://bsky.app/profile/ryo1kato.bsky.social\">https://bsky.app/profile/ryo1kato.bsky.social</a></li></ul>",
       "link": "https://podcasters.spotify.com/pod/show/todayilearnedfm/episodes/181--Claude-Code-e39d47a",
